@@ -1,0 +1,27 @@
+name: Block merge based on time
+description: You can prevent your members from merging pull requests during the specified time.
+inputs:
+  after:
+    description: The time to start blocking merging
+    required: true
+  before:
+    description: The time to stop blocking merging
+    required: true
+  prohibited_days_dates:
+    description: The days or dates to stop blocking merging all day
+    required: false
+    default: [Saturday, Sunday]
+  timezone:
+    description: Time zone to use. Default is UTC
+    required: false
+    default: UTC
+  github-token:
+    description: The GitHub token used to create an authenticated client
+    required: false
+    default: ${{ github.token }}
+outputs:
+  result:
+    description: The result of this action
+runs:
+  using: node12
+  main: dist/index.js
