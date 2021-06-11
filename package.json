@@ -2,8 +2,9 @@
   "name": "block-merge-based-on-time",
   "version": "0.1.0",
   "description": "You can prevent your members from merging pull requests during the specified time.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
+    "build": "ncc build src/main.ts",
     "fmt": "prettier --write .",
     "fmt:check": "prettier --check .",
     "lint": "eslint .",
@@ -17,8 +18,10 @@
     "@actions/github": "^5.0.0"
   },
   "devDependencies": {
+    "@types/node": "^15.12.2",
     "@typescript-eslint/eslint-plugin": "^4.26.1",
     "@typescript-eslint/parser": "^4.26.1",
+    "@vercel/ncc": "^0.28.6",
     "eslint": "^7.28.0",
     "eslint-config-prettier": "^8.3.0",
     "prettier": "2.3.1",
