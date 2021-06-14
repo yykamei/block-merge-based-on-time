@@ -7,15 +7,15 @@ inputs:
   before:
     description: The time to stop blocking merging
     required: true
-  prohibited_days_dates:
-    description: The days or dates to stop blocking merging all day
-    required: false
-    default: [Saturday, Sunday]
   timezone:
     description: Time zone to use. Default is UTC
-    required: false
+    required: true
     default: UTC
-  github-token:
+  prohibited-days-dates:
+    description: The days or dates to stop blocking merging all day
+    required: false
+    default: ""
+  token:
     description: The GitHub token used to create an authenticated client
     required: false
     default: ${{ github.token }}
