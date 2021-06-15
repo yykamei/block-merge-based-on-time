@@ -4,7 +4,7 @@ import type { Dates, Days } from "./types"
 
 export function shouldBlock(inputs: Inputs): boolean {
   const now = DateTime.now().setZone(inputs.timezone)
-  if (isProhibitedDay(now, inputs.days, inputs.dates)) {
+  if (isProhibitedDay(now, inputs.prohibitedDays, inputs.prohibitedDates)) {
     return true
   } else if (isDuringTime(now, inputs.after, inputs.before)) {
     return true

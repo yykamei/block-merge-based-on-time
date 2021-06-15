@@ -8,17 +8,17 @@ export class Inputs {
   public readonly after: DateTime
   public readonly before: DateTime
   public readonly timezone: Zone
-  public readonly days: Days
-  public readonly dates: Dates
+  public readonly prohibitedDays: Days
+  public readonly prohibitedDates: Dates
 
   constructor() {
     this.token = getInput("token", { required: true })
     this.timezone = timeZone()
     this.after = dateTime(getInput("after"), this.timezone)
     this.before = dateTime(getInput("before"), this.timezone)
-    const [days, dates] = prohibitedDaysDates()
-    this.days = days
-    this.dates = dates
+    const [days, dates] = prohibitedDaysDates(this.timezone)
+    this.prohibitedDays = days
+    this.prohibitedDates = dates
   }
 }
 
@@ -38,7 +38,7 @@ function dateTime(s: string, zone: Zone): DateTime {
   return d
 }
 
-function prohibitedDaysDates(): DaysDates {
+function prohibitedDaysDates(zone: Zone): DaysDates {
   const days: Days = []
   const dates: Dates = []
   getInput("prohibited-days-dates")
@@ -58,7 +58,7 @@ function prohibitedDaysDates(): DaysDates {
         case "":
           break // If the input is empty string, split array will have one empty string in it.
         default: {
-          const d = DateTime.fromFormat(s, "yyyy-MM-dd")
+          const d = DateTime.fromFormat(s, "yyyy-MM-dd", { zone, setZone: true })
           if (d.invalidExplanation) {
             throw new Error(d.invalidExplanation)
           }
