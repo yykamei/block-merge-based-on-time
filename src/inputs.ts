@@ -55,7 +55,7 @@ function prohibitedDaysDates(): DaysDates {
           days.push(s)
           break
         }
-        case '':
+        case "":
           break // If the input is empty string, split array will have one empty string in it.
         default: {
           const d = DateTime.fromFormat(s, "yyyy-MM-dd")

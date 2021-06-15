@@ -1,4 +1,4 @@
-import type { DateTime } from "luxon";
+import type { DateTime } from "luxon"
 
 export type Days = string[]
 export type Dates = DateTime[]
