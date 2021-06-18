@@ -15,6 +15,10 @@ inputs:
     description: The days or dates to stop blocking merging all day
     required: false
     default: ""
+  no-block-label:
+    description: The label to indicate the pull request should not be blocked
+    required: false
+    default: no-block
   token:
     description: The GitHub token used to create an authenticated client
     required: false

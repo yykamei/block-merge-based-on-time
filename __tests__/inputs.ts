@@ -22,6 +22,7 @@ describe("Inputs", () => {
           before: "16:00",
           timezone: "Pacific/Honolulu",
           "prohibited-days-dates": "Sunday, 2021-07-01",
+          "no-block-label": "Emergency",
         }[name] as any)
     )
     const inputs = new Inputs()
@@ -37,6 +38,7 @@ describe("Inputs", () => {
         zone: "Pacific/Honolulu",
       }),
     ])
+    expect(inputs).toHaveProperty("noBlockLabel", "Emergency")
   })
 
   test("returns an error with invalid zone", () => {

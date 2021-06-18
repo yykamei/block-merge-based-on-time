@@ -10,6 +10,7 @@ export class Inputs {
   public readonly timezone: Zone
   public readonly prohibitedDays: Days
   public readonly prohibitedDates: Dates
+  public readonly noBlockLabel: string
 
   constructor() {
     this.token = getInput("token", { required: true })
@@ -19,6 +20,7 @@ export class Inputs {
     const [days, dates] = prohibitedDaysDates(this.timezone)
     this.prohibitedDays = days
     this.prohibitedDates = dates
+    this.noBlockLabel = getInput("no-block-label")
   }
 }
 
