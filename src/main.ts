@@ -1,6 +1,6 @@
 import { setFailed } from "@actions/core"
 import { Inputs } from "./inputs"
-import { shouldBlock } from "./shouldBlock"
+import { shouldBlock } from "./should-block"
 
 process.on("unhandledRejection", handleError)
 main().catch(handleError)

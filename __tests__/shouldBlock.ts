@@ -1,5 +1,5 @@
 import * as core from "@actions/core"
-import { shouldBlock } from "../src/shouldBlock"
+import { shouldBlock } from "../src/should-block"
 import { Inputs } from "../src/inputs"
 
 describe("shouldBlock", () => {
