@@ -3,12 +3,12 @@ import { Inputs } from "../src/inputs"
 import { DateTime, IANAZone } from "luxon"
 
 describe("Inputs", () => {
-  beforeEach(() => {
+  beforeAll(() => {
     jest.useFakeTimers()
     jest.setSystemTime(new Date("2021-06-17T16:30:00-10:00"))
   })
 
-  afterEach(() => {
+  afterAll(() => {
     jest.useRealTimers()
   })
 

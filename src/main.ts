@@ -1,14 +1,8 @@
 import { setFailed } from "@actions/core"
-import { Inputs } from "./inputs"
-import { shouldBlock } from "./should-block"
+import { run } from "./run"
 
 process.on("unhandledRejection", handleError)
-main().catch(handleError)
-
-async function main(): Promise<void> {
-  const inputs = new Inputs()
-  console.log(shouldBlock(inputs))
-}
+run().catch(handleError)
 
 function handleError(err: unknown): void {
   console.error(err)
