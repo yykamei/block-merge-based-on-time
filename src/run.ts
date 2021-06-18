@@ -1,4 +1,4 @@
-import { context } from "@actions/github"
+import { context, getOctokit } from "@actions/github"
 import { Inputs } from "./inputs"
 import { shouldBlock } from "./should-block"
 import { PullRequestEvent } from "@octokit/webhooks-definitions/schema"
@@ -25,17 +25,17 @@ async function handleSchedule(inputs: Inputs): Promise<void> {
 }
 
 async function handlePull(inputs: Inputs, payload: PullRequestEvent): Promise<void> {
+  const octokit = getOctokit(inputs.token)
+  const owner = payload.repository.owner.login
+  const repo = payload.repository.name
+  const sha = payload.pull_request.head.sha
+
   const found = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel)
   if (found != null) {
-    // Always make the pull request success
-    console.log("handlePull makes the pull request success due to the label")
-    return
-  }
-  if (shouldBlock(inputs)) {
-    // Make the pull request pending
-    console.log("handlePull makes the pull request pending")
+    octokit.rest.repos.createCommitStatus({ owner, repo, sha, state: "success" })
+  } else if (shouldBlock(inputs)) {
+    octokit.rest.repos.createCommitStatus({ owner, repo, sha, state: "pending" })
   } else {
-    // Make the pull request success
-    console.log("handlePull makes the pull request success")
+    octokit.rest.repos.createCommitStatus({ owner, repo, sha, state: "success" })
   }
 }

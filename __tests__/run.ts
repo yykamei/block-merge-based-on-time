@@ -3,10 +3,13 @@ import * as github from "@actions/github"
 import { run } from "../src/run"
 
 describe("run", () => {
+  const apiCall = jest.fn()
+  const octokit = { rest: { repos: { createCommitStatus: apiCall } } }
+
   beforeAll(() => {
     jest.useFakeTimers()
-    const inSpy = jest.spyOn(core, "getInput")
-    inSpy.mockImplementation(
+    const getInput = jest.spyOn(core, "getInput")
+    getInput.mockImplementation(
       (name) =>
         ({
           token: "abc",
@@ -17,6 +20,8 @@ describe("run", () => {
           "no-block-label": "Emergency",
         }[name] as any)
     )
+    const getOctokit = jest.spyOn(github, "getOctokit")
+    getOctokit.mockImplementation(() => octokit as any)
   })
 
   afterAll(() => {
@@ -54,31 +59,37 @@ describe("run", () => {
     test("makes the pull request success due to the attached label", async () => {
       jest.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
       Object.defineProperty(github.context, "payload", {
-        value: { pull_request: { labels: [{ name: "Emergency" }] } },
+        value: {
+          repository: { owner: { login: "foo" }, name: "special-repo" },
+          pull_request: { head: { sha: "abcdefg" }, labels: [{ name: "Emergency" }] },
+        },
       } as any)
-      const inSpy = jest.spyOn(global.console, "log")
       await run()
-      expect(inSpy).toHaveBeenCalledWith("handlePull makes the pull request success due to the label")
+      expect(apiCall).toHaveBeenCalledWith({ owner: "foo", repo: "special-repo", sha: "abcdefg", state: "success" })
     })
 
     test("makes the pull request pending", async () => {
       jest.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
       Object.defineProperty(github.context, "payload", {
-        value: { pull_request: { labels: [{ name: "bug" }] } },
+        value: {
+          repository: { owner: { login: "foo" }, name: "special-repo" },
+          pull_request: { head: { sha: "abcdefg" }, labels: [{ name: "bug" }] },
+        },
       } as any)
-      const inSpy = jest.spyOn(global.console, "log")
       await run()
-      expect(inSpy).toHaveBeenCalledWith("handlePull makes the pull request pending")
+      expect(apiCall).toHaveBeenCalledWith({ owner: "foo", repo: "special-repo", sha: "abcdefg", state: "pending" })
     })
 
     test("makes the pull request succeed", async () => {
       jest.setSystemTime(new Date("2021-06-17T23:00:10-10:00"))
       Object.defineProperty(github.context, "payload", {
-        value: { pull_request: { labels: [{ name: "bug" }] } },
+        value: {
+          repository: { owner: { login: "foo" }, name: "special-repo" },
+          pull_request: { head: { sha: "abcdefg" }, labels: [{ name: "bug" }] },
+        },
       } as any)
-      const inSpy = jest.spyOn(global.console, "log")
       await run()
-      expect(inSpy).toHaveBeenCalledWith("handlePull makes the pull request success")
+      expect(apiCall).toHaveBeenCalledWith({ owner: "foo", repo: "special-repo", sha: "abcdefg", state: "success" })
     })
   })
 })
