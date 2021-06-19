@@ -10,13 +10,14 @@ export class Inputs {
   public readonly timezone: Zone
   public readonly prohibitedDays: Days
   public readonly prohibitedDates: Dates
-  public readonly noBlockLabel: string | null
-  public readonly commitStatusContext: string | null
-  public readonly commitStatusDescriptionWithSuccess: string | null
-  public readonly commitStatusDescriptionWhileBlocking: string | null
+  public readonly noBlockLabel: string
+  public readonly commitStatusContext: string
+  public readonly commitStatusDescriptionWithSuccess: string
+  public readonly commitStatusDescriptionWhileBlocking: string
   public readonly commitStatusURL: string | null
 
   constructor() {
+    // TODO: Some parameters' defaults are duplicated with `action.yml`. We can refactor for DRY.
     this.token = getInput("token", { required: true })
     this.timezone = timeZone()
     this.after = dateTime(getInput("after"), this.timezone)
@@ -24,11 +25,17 @@ export class Inputs {
     const [days, dates] = prohibitedDaysDates(this.timezone)
     this.prohibitedDays = days
     this.prohibitedDates = dates
-    this.noBlockLabel = stringOrNull(getInput("no-block-label"))
-    this.commitStatusContext = stringOrNull(getInput("commit-status-context"))
-    this.commitStatusDescriptionWithSuccess = stringOrNull(getInput("commit-status-description-with-success"))
-    this.commitStatusDescriptionWhileBlocking = stringOrNull(getInput("commit-status-description-while-blocking"))
-    this.commitStatusURL = stringOrNull(getInput("commit-status-url"))
+    this.noBlockLabel = stringOr(getInput("no-block-label"), "no-block")
+    this.commitStatusContext = stringOr(getInput("commit-status-context"), "block-merge-based-on-time")
+    this.commitStatusDescriptionWithSuccess = stringOr(
+      getInput("commit-status-description-with-success"),
+      "The PR could be merged"
+    )
+    this.commitStatusDescriptionWhileBlocking = stringOr(
+      getInput("commit-status-description-while-blocking"),
+      "The PR can't be merged based on time, which is due to your organization's policy"
+    )
+    this.commitStatusURL = getInput("commit-status-url") || null // NOTE: If the string is empty, we're not sure where we should refe tor
   }
 }
 
@@ -82,10 +89,10 @@ function prohibitedDaysDates(zone: Zone): DaysDates {
 
 /**
  *
- * Return the passed string as is, with the exception of empty string.
+ * Return the passed string as is but an alternative when the passed string is empty.
  *
  * @param str
  */
-function stringOrNull(str: string): string | null {
-  return str || null
+function stringOr(str: string, alt: string): string {
+  return str || alt
 }

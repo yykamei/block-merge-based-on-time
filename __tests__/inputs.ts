@@ -73,10 +73,13 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
     expect(inputs).toHaveProperty("prohibitedDates", [])
-    expect(inputs).toHaveProperty("noBlockLabel", null)
-    expect(inputs).toHaveProperty("commitStatusContext", null)
-    expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", null)
-    expect(inputs).toHaveProperty("commitStatusDescriptionWhileBlocking", null)
+    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
+    expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
+    expect(inputs).toHaveProperty(
+      "commitStatusDescriptionWhileBlocking",
+      "The PR can't be merged based on time, which is due to your organization's policy"
+    )
     expect(inputs).toHaveProperty("commitStatusURL", null)
   })
 
