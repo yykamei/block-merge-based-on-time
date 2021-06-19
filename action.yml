@@ -30,7 +30,11 @@ inputs:
   commit-status-description-while-blocking:
     description: The commit status description shown while blocking
     required: false
-    default: The PR can't be merged based on time, which is due to your organization's policy.
+    default: The PR can't be merged based on time, which is due to your organization's policy
+  commit-status-url:
+    description: The commit status URL to describe why this action is conducted
+    required: false
+    default: ""
   token:
     description: The GitHub token used to create an authenticated client
     required: false

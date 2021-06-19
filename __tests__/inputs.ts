@@ -26,6 +26,7 @@ describe("Inputs", () => {
           "commit-status-context": "Blocker",
           "commit-status-description-with-success": "OK",
           "commit-status-description-while-blocking": "Blocked!",
+          "commit-status-url": "https://example.com",
         }[name] as any)
     )
     const inputs = new Inputs()
@@ -45,6 +46,38 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("commitStatusContext", "Blocker")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "OK")
     expect(inputs).toHaveProperty("commitStatusDescriptionWhileBlocking", "Blocked!")
+    expect(inputs).toHaveProperty("commitStatusURL", "https://example.com")
+  })
+
+  test("returns a valid instance when empty strings were explicitly passed", () => {
+    const inSpy = jest.spyOn(core, "getInput")
+    inSpy.mockImplementation(
+      (name) =>
+        ({
+          token: "abc",
+          after: "12:20",
+          before: "16:00",
+          timezone: "Pacific/Honolulu",
+          "prohibited-days-dates": "",
+          "no-block-label": "",
+          "commit-status-context": "",
+          "commit-status-description-with-success": "",
+          "commit-status-description-while-blocking": "",
+          "commit-status-url": "",
+        }[name] as any)
+    )
+    const inputs = new Inputs()
+    expect(inputs).toHaveProperty("token", "abc")
+    expect(inputs).toHaveProperty("after", DateTime.fromObject({ hour: 12, minute: 20, zone: "Pacific/Honolulu" }))
+    expect(inputs).toHaveProperty("before", DateTime.fromObject({ hour: 16, minute: 0, zone: "Pacific/Honolulu" }))
+    expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
+    expect(inputs).toHaveProperty("prohibitedDays", [])
+    expect(inputs).toHaveProperty("prohibitedDates", [])
+    expect(inputs).toHaveProperty("noBlockLabel", null)
+    expect(inputs).toHaveProperty("commitStatusContext", null)
+    expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", null)
+    expect(inputs).toHaveProperty("commitStatusDescriptionWhileBlocking", null)
+    expect(inputs).toHaveProperty("commitStatusURL", null)
   })
 
   test("returns an error with invalid zone", () => {

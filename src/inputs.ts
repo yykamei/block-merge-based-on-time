@@ -10,10 +10,11 @@ export class Inputs {
   public readonly timezone: Zone
   public readonly prohibitedDays: Days
   public readonly prohibitedDates: Dates
-  public readonly noBlockLabel: string
-  public readonly commitStatusContext: string
-  public readonly commitStatusDescriptionWithSuccess: string
-  public readonly commitStatusDescriptionWhileBlocking: string
+  public readonly noBlockLabel: string | null
+  public readonly commitStatusContext: string | null
+  public readonly commitStatusDescriptionWithSuccess: string | null
+  public readonly commitStatusDescriptionWhileBlocking: string | null
+  public readonly commitStatusURL: string | null
 
   constructor() {
     this.token = getInput("token", { required: true })
@@ -23,10 +24,11 @@ export class Inputs {
     const [days, dates] = prohibitedDaysDates(this.timezone)
     this.prohibitedDays = days
     this.prohibitedDates = dates
-    this.noBlockLabel = getInput("no-block-label")
-    this.commitStatusContext = getInput("commit-status-context")
-    this.commitStatusDescriptionWithSuccess = getInput("commit-status-description-with-success")
-    this.commitStatusDescriptionWhileBlocking = getInput("commit-status-description-while-blocking")
+    this.noBlockLabel = stringOrNull(getInput("no-block-label"))
+    this.commitStatusContext = stringOrNull(getInput("commit-status-context"))
+    this.commitStatusDescriptionWithSuccess = stringOrNull(getInput("commit-status-description-with-success"))
+    this.commitStatusDescriptionWhileBlocking = stringOrNull(getInput("commit-status-description-while-blocking"))
+    this.commitStatusURL = stringOrNull(getInput("commit-status-url"))
   }
 }
 
@@ -76,4 +78,14 @@ function prohibitedDaysDates(zone: Zone): DaysDates {
       }
     })
   return [days, dates]
+}
+
+/**
+ *
+ * Return the passed string as is, with the exception of empty string.
+ *
+ * @param str
+ */
+function stringOrNull(str: string): string | null {
+  return str || null
 }
