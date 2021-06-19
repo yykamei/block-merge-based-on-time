@@ -23,6 +23,9 @@ describe("Inputs", () => {
           timezone: "Pacific/Honolulu",
           "prohibited-days-dates": "Sunday, 2021-07-01",
           "no-block-label": "Emergency",
+          "commit-status-context": "Blocker",
+          "commit-status-description-with-success": "OK",
+          "commit-status-description-while-blocking": "Blocked!",
         }[name] as any)
     )
     const inputs = new Inputs()
@@ -39,6 +42,9 @@ describe("Inputs", () => {
       }),
     ])
     expect(inputs).toHaveProperty("noBlockLabel", "Emergency")
+    expect(inputs).toHaveProperty("commitStatusContext", "Blocker")
+    expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "OK")
+    expect(inputs).toHaveProperty("commitStatusDescriptionWhileBlocking", "Blocked!")
   })
 
   test("returns an error with invalid zone", () => {

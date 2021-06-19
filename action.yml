@@ -19,6 +19,18 @@ inputs:
     description: The label to indicate the pull request should not be blocked
     required: false
     default: no-block
+  commit-status-context:
+    description: The commit status context
+    required: false
+    default: block-merge-based-on-time
+  commit-status-description-with-success:
+    description: The commit status description shown with success
+    required: false
+    default: The PR could be merged
+  commit-status-description-while-blocking:
+    description: The commit status description shown while blocking
+    required: false
+    default: The PR can't be merged based on time, which is due to your organization's policy.
   token:
     description: The GitHub token used to create an authenticated client
     required: false

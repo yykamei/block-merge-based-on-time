@@ -11,6 +11,9 @@ export class Inputs {
   public readonly prohibitedDays: Days
   public readonly prohibitedDates: Dates
   public readonly noBlockLabel: string
+  public readonly commitStatusContext: string
+  public readonly commitStatusDescriptionWithSuccess: string
+  public readonly commitStatusDescriptionWhileBlocking: string
 
   constructor() {
     this.token = getInput("token", { required: true })
@@ -21,6 +24,9 @@ export class Inputs {
     this.prohibitedDays = days
     this.prohibitedDates = dates
     this.noBlockLabel = getInput("no-block-label")
+    this.commitStatusContext = getInput("commit-status-context")
+    this.commitStatusDescriptionWithSuccess = getInput("commit-status-description-with-success")
+    this.commitStatusDescriptionWhileBlocking = getInput("commit-status-description-while-blocking")
   }
 }
 
