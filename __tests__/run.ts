@@ -49,7 +49,7 @@ describe("run", () => {
     })
   })
 
-  describe("when the event is schedule", () => {
+  describe("when the event is pull_request", () => {
     beforeEach(() => {
       Object.defineProperty(github.context, "eventName", {
         value: "pull_request",
@@ -65,7 +65,15 @@ describe("run", () => {
         },
       } as any)
       await run()
-      expect(apiCall).toHaveBeenCalledWith({ owner: "foo", repo: "special-repo", sha: "abcdefg", state: "success" })
+      expect(apiCall).toHaveBeenCalledWith({
+        owner: "foo",
+        repo: "special-repo",
+        sha: "abcdefg",
+        state: "success",
+        context: "block-merge-based-on-time",
+        description: "The PR could be merged",
+        target_url: undefined,
+      })
     })
 
     test("makes the pull request pending", async () => {
@@ -77,7 +85,15 @@ describe("run", () => {
         },
       } as any)
       await run()
-      expect(apiCall).toHaveBeenCalledWith({ owner: "foo", repo: "special-repo", sha: "abcdefg", state: "pending" })
+      expect(apiCall).toHaveBeenCalledWith({
+        owner: "foo",
+        repo: "special-repo",
+        sha: "abcdefg",
+        state: "pending",
+        context: "block-merge-based-on-time",
+        description: "The PR can't be merged based on time, which is due to your organization's policy",
+        target_url: undefined,
+      })
     })
 
     test("makes the pull request succeed", async () => {
@@ -89,7 +105,15 @@ describe("run", () => {
         },
       } as any)
       await run()
-      expect(apiCall).toHaveBeenCalledWith({ owner: "foo", repo: "special-repo", sha: "abcdefg", state: "success" })
+      expect(apiCall).toHaveBeenCalledWith({
+        owner: "foo",
+        repo: "special-repo",
+        sha: "abcdefg",
+        state: "success",
+        context: "block-merge-based-on-time",
+        description: "The PR could be merged",
+        target_url: undefined,
+      })
     })
   })
 })
