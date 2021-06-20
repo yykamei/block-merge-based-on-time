@@ -34,19 +34,29 @@ async function handlePull(inputs: Inputs, payload: PullRequestEvent): Promise<vo
   let state: "success" | "pending" = "success"
   let description = inputs.commitStatusDescriptionWithSuccess
 
-  const found = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel)
-  if (found == null && shouldBlock(inputs)) {
+  const noBlockLabelFound = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel)
+  if (noBlockLabelFound == null && shouldBlock(inputs)) {
     state = "pending"
     description = inputs.commitStatusDescriptionWhileBlocking
   }
 
-  octokit.rest.repos.createCommitStatus({
-    owner,
-    repo,
-    sha,
-    state,
-    context,
-    description,
-    target_url,
-  })
+  const statuses = await octokit.rest.repos
+    .listCommitStatusesForRef({
+      owner,
+      repo,
+      ref: sha,
+      per_page: 100,
+    })
+    .then((res) => res.data.filter((d) => d.context === context && d.state === state))
+  if (statuses.length === 0) {
+    octokit.rest.repos.createCommitStatus({
+      owner,
+      repo,
+      sha,
+      state,
+      context,
+      description,
+      target_url,
+    })
+  }
 }
