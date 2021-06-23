@@ -13835,13 +13835,37 @@ async function run() {
     }
 }
 async function handleSchedule(inputs) {
+    const octokit = (0,github.getOctokit)(inputs.token);
+    const { owner, repo } = github.context.repo;
+    const statuses = await fetchPullRequestStatuses(inputs, owner, repo);
+    const runBulk = (state) => {
+        statuses.forEach((s) => {
+            let expected = state;
+            let description = state === "success" ? inputs.commitStatusDescriptionWithSuccess : inputs.commitStatusDescriptionWhileBlocking;
+            if (s.labels.includes(inputs.noBlockLabel)) {
+                expected = "success";
+                description = inputs.commitStatusDescriptionWithSuccess;
+            }
+            if (s.state?.toLowerCase() === expected) {
+                // We don't have to recreate commit status because the state has been already expected value.
+                return;
+            }
+            octokit.rest.repos.createCommitStatus({
+                owner,
+                repo,
+                sha: s.sha,
+                state: expected,
+                context: inputs.commitStatusContext,
+                description,
+                target_url: inputs.commitStatusURL || undefined,
+            });
+        });
+    };
     if (shouldBlock(inputs)) {
-        // Make all pull requests pending aside from labeled
-        console.log("handleSchedule makes all pull requests pending");
+        runBulk("pending");
     }
     else {
-        // Make all pull requests success
-        console.log("handleSchedule makes all pull requests success");
+        runBulk("success");
     }
 }
 async function handlePull(inputs, payload) {
@@ -13853,20 +13877,88 @@ async function handlePull(inputs, payload) {
     const target_url = inputs.commitStatusURL || undefined;
     let state = "success";
     let description = inputs.commitStatusDescriptionWithSuccess;
-    const found = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel);
-    if (found == null && shouldBlock(inputs)) {
+    const noBlockLabelFound = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel);
+    if (noBlockLabelFound == null && shouldBlock(inputs)) {
         state = "pending";
         description = inputs.commitStatusDescriptionWhileBlocking;
     }
-    octokit.rest.repos.createCommitStatus({
+    const statuses = await octokit.rest.repos
+        .listCommitStatusesForRef({
         owner,
         repo,
-        sha,
-        state,
-        context,
-        description,
-        target_url,
-    });
+        ref: sha,
+        per_page: 100,
+    })
+        .then((res) => res.data.filter((d) => d.context === context && d.state === state));
+    if (statuses.length === 0) {
+        octokit.rest.repos.createCommitStatus({
+            owner,
+            repo,
+            sha,
+            state,
+            context,
+            description,
+            target_url,
+        });
+    }
+}
+async function fetchPullRequestStatuses(inputs, owner, repo) {
+    const octokit = (0,github.getOctokit)(inputs.token);
+    let after = null;
+    let hasNextPage = true;
+    let statuses = [];
+    while (hasNextPage) {
+        const res = await octokit.graphql(`
+query($owner: String!, $repo: String!, $after: String) {
+  repository(owner: $owner, name: $repo) {
+    pullRequests(after: $after, first: 100, states: OPEN, orderBy: { field: CREATED_AT, direction: DESC}) {
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+      edges {
+        node {
+          number
+          title
+          labels(first: 100) {
+            edges {
+              node {
+                name
+              }
+            }
+          }
+          commits(last: 1) {
+            edges {
+              node {
+                commit {
+                  oid
+                  message
+                  status {
+                    contexts {
+                      context
+                      state
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}`, { owner, repo, after });
+        hasNextPage = res.data.repository.pullRequests.pageInfo.hasNextPage;
+        after = res.data.repository.pullRequests.pageInfo.endCursor;
+        const data = res.data.repository.pullRequests.edges.flatMap((pr) => pr.node.commits.edges.map((c) => ({
+            number: pr.node.number,
+            sha: c.node.commit.oid,
+            labels: pr.node.labels.edges.map((l) => l.node.name),
+            state: c.node.commit.status?.contexts.find((s) => s.context === inputs.commitStatusContext)?.state,
+        })));
+        statuses = [...statuses, ...data];
+    }
+    return statuses;
 }
 
 ;// CONCATENATED MODULE: ./src/main.ts

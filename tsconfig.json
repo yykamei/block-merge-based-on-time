@@ -3,7 +3,9 @@
     "incremental": true,
     "target": "ES2020",
     "module": "ES2020",
-    "lib": [],
+    "lib": [
+      "ES2020"
+    ],
     "allowJs": false,
     "outDir": "./dist",
     "composite": false,
