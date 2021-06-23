@@ -2,17 +2,16 @@ name: Block merge based on time
 description: You can prevent your members from merging pull requests during the specified time.
 inputs:
   after:
-    description: The time to start blocking merging
+    description: The time to start blocking merge
     required: true
   before:
-    description: The time to stop blocking merging
+    description: The time to stop blocking merge
     required: true
   timezone:
-    description: Time zone to use. Default is UTC
+    description: Time zone to use
     required: true
-    default: UTC
   prohibited-days-dates:
-    description: The days or dates to stop blocking merging all day
+    description: The days or dates to stop blocking merge all day
     required: false
     default: ""
   no-block-label:
