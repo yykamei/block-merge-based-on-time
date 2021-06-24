@@ -41,6 +41,9 @@ inputs:
 outputs:
   result:
     description: The result of this action
+branding:
+  icon: stop-circle
+  color: yellow
 runs:
   using: node12
   main: dist/index.js
