@@ -1,4 +1,4 @@
-name: Block merge based on time
+name: Block Merge Based on Time
 description: You can prevent your members from merging pull requests during the specified time.
 inputs:
   after:
