@@ -13822,93 +13822,110 @@ function isDuringTime(now, after, before) {
 }
 
 ;// CONCATENATED MODULE: ./src/run.ts
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
 
 
 
-async function run() {
-    const inputs = new Inputs();
-    switch (github.context.eventName) {
-        case "schedule":
-            return handleSchedule(inputs);
-        case "pull_request":
-            return handlePull(inputs, github.context.payload);
-    }
+function run() {
+    return __awaiter(this, void 0, void 0, function* () {
+        const inputs = new Inputs();
+        switch (github.context.eventName) {
+            case "schedule":
+                return handleSchedule(inputs);
+            case "pull_request":
+                return handlePull(inputs, github.context.payload);
+        }
+    });
 }
-async function handleSchedule(inputs) {
-    const octokit = (0,github.getOctokit)(inputs.token);
-    const { owner, repo } = github.context.repo;
-    const statuses = await fetchPullRequestStatuses(inputs, owner, repo);
-    const runBulk = (state) => {
-        statuses.forEach((s) => {
-            let expected = state;
-            let description = state === "success" ? inputs.commitStatusDescriptionWithSuccess : inputs.commitStatusDescriptionWhileBlocking;
-            if (s.labels.includes(inputs.noBlockLabel)) {
-                expected = "success";
-                description = inputs.commitStatusDescriptionWithSuccess;
-            }
-            if (s.state?.toLowerCase() === expected) {
-                // We don't have to recreate commit status because the state has been already expected value.
-                return;
-            }
+function handleSchedule(inputs) {
+    return __awaiter(this, void 0, void 0, function* () {
+        const octokit = (0,github.getOctokit)(inputs.token);
+        const { owner, repo } = github.context.repo;
+        const statuses = yield fetchPullRequestStatuses(inputs, owner, repo);
+        const runBulk = (state) => {
+            statuses.forEach((s) => {
+                var _a;
+                let expected = state;
+                let description = state === "success" ? inputs.commitStatusDescriptionWithSuccess : inputs.commitStatusDescriptionWhileBlocking;
+                if (s.labels.includes(inputs.noBlockLabel)) {
+                    expected = "success";
+                    description = inputs.commitStatusDescriptionWithSuccess;
+                }
+                if (((_a = s.state) === null || _a === void 0 ? void 0 : _a.toLowerCase()) === expected) {
+                    // We don't have to recreate commit status because the state has been already expected value.
+                    return;
+                }
+                octokit.rest.repos.createCommitStatus({
+                    owner,
+                    repo,
+                    sha: s.sha,
+                    state: expected,
+                    context: inputs.commitStatusContext,
+                    description,
+                    target_url: inputs.commitStatusURL || undefined,
+                });
+            });
+        };
+        if (shouldBlock(inputs)) {
+            runBulk("pending");
+        }
+        else {
+            runBulk("success");
+        }
+    });
+}
+function handlePull(inputs, payload) {
+    return __awaiter(this, void 0, void 0, function* () {
+        const octokit = (0,github.getOctokit)(inputs.token);
+        const owner = payload.repository.owner.login;
+        const repo = payload.repository.name;
+        const sha = payload.pull_request.head.sha;
+        const context = inputs.commitStatusContext;
+        const target_url = inputs.commitStatusURL || undefined;
+        let state = "success";
+        let description = inputs.commitStatusDescriptionWithSuccess;
+        const noBlockLabelFound = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel);
+        if (noBlockLabelFound == null && shouldBlock(inputs)) {
+            state = "pending";
+            description = inputs.commitStatusDescriptionWhileBlocking;
+        }
+        const statuses = yield octokit.rest.repos
+            .listCommitStatusesForRef({
+            owner,
+            repo,
+            ref: sha,
+            per_page: 100,
+        })
+            .then((res) => res.data.filter((d) => d.context === context && d.state === state));
+        if (statuses.length === 0) {
             octokit.rest.repos.createCommitStatus({
                 owner,
                 repo,
-                sha: s.sha,
-                state: expected,
-                context: inputs.commitStatusContext,
+                sha,
+                state,
+                context,
                 description,
-                target_url: inputs.commitStatusURL || undefined,
+                target_url,
             });
-        });
-    };
-    if (shouldBlock(inputs)) {
-        runBulk("pending");
-    }
-    else {
-        runBulk("success");
-    }
+        }
+    });
 }
-async function handlePull(inputs, payload) {
-    const octokit = (0,github.getOctokit)(inputs.token);
-    const owner = payload.repository.owner.login;
-    const repo = payload.repository.name;
-    const sha = payload.pull_request.head.sha;
-    const context = inputs.commitStatusContext;
-    const target_url = inputs.commitStatusURL || undefined;
-    let state = "success";
-    let description = inputs.commitStatusDescriptionWithSuccess;
-    const noBlockLabelFound = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel);
-    if (noBlockLabelFound == null && shouldBlock(inputs)) {
-        state = "pending";
-        description = inputs.commitStatusDescriptionWhileBlocking;
-    }
-    const statuses = await octokit.rest.repos
-        .listCommitStatusesForRef({
-        owner,
-        repo,
-        ref: sha,
-        per_page: 100,
-    })
-        .then((res) => res.data.filter((d) => d.context === context && d.state === state));
-    if (statuses.length === 0) {
-        octokit.rest.repos.createCommitStatus({
-            owner,
-            repo,
-            sha,
-            state,
-            context,
-            description,
-            target_url,
-        });
-    }
-}
-async function fetchPullRequestStatuses(inputs, owner, repo) {
-    const octokit = (0,github.getOctokit)(inputs.token);
-    let after = null;
-    let hasNextPage = true;
-    let statuses = [];
-    while (hasNextPage) {
-        const res = await octokit.graphql(`
+function fetchPullRequestStatuses(inputs, owner, repo) {
+    return __awaiter(this, void 0, void 0, function* () {
+        const octokit = (0,github.getOctokit)(inputs.token);
+        let after = null;
+        let hasNextPage = true;
+        let statuses = [];
+        while (hasNextPage) {
+            const res = yield octokit.graphql(`
 query($owner: String!, $repo: String!, $after: String) {
   repository(owner: $owner, name: $repo) {
     pullRequests(after: $after, first: 100, states: OPEN, orderBy: { field: CREATED_AT, direction: DESC}) {
@@ -13948,17 +13965,21 @@ query($owner: String!, $repo: String!, $after: String) {
     }
   }
 }`, { owner, repo, after });
-        hasNextPage = res.data.repository.pullRequests.pageInfo.hasNextPage;
-        after = res.data.repository.pullRequests.pageInfo.endCursor;
-        const data = res.data.repository.pullRequests.edges.flatMap((pr) => pr.node.commits.edges.map((c) => ({
-            number: pr.node.number,
-            sha: c.node.commit.oid,
-            labels: pr.node.labels.edges.map((l) => l.node.name),
-            state: c.node.commit.status?.contexts.find((s) => s.context === inputs.commitStatusContext)?.state,
-        })));
-        statuses = [...statuses, ...data];
-    }
-    return statuses;
+            hasNextPage = res.data.repository.pullRequests.pageInfo.hasNextPage;
+            after = res.data.repository.pullRequests.pageInfo.endCursor;
+            const data = res.data.repository.pullRequests.edges.flatMap((pr) => pr.node.commits.edges.map((c) => {
+                var _a, _b;
+                return ({
+                    number: pr.node.number,
+                    sha: c.node.commit.oid,
+                    labels: pr.node.labels.edges.map((l) => l.node.name),
+                    state: (_b = (_a = c.node.commit.status) === null || _a === void 0 ? void 0 : _a.contexts.find((s) => s.context === inputs.commitStatusContext)) === null || _b === void 0 ? void 0 : _b.state,
+                });
+            }));
+            statuses = [...statuses, ...data];
+        }
+        return statuses;
+    });
 }
 
 ;// CONCATENATED MODULE: ./src/main.ts
