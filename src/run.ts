@@ -28,7 +28,6 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
       let description =
         state === "success" ? inputs.commitStatusDescriptionWithSuccess : inputs.commitStatusDescriptionWhileBlocking
       if (s.labels.includes(inputs.noBlockLabel)) {
-        console.log('Debug', s, inputs)
         expected = "success"
         description = inputs.commitStatusDescriptionWithSuccess
       }

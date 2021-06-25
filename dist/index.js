@@ -13897,7 +13897,6 @@ function handleAllPulls(inputs) {
                 let expected = state;
                 let description = state === "success" ? inputs.commitStatusDescriptionWithSuccess : inputs.commitStatusDescriptionWhileBlocking;
                 if (s.labels.includes(inputs.noBlockLabel)) {
-                    console.log('Debug', s, inputs);
                     expected = "success";
                     description = inputs.commitStatusDescriptionWithSuccess;
                 }
