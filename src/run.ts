@@ -190,6 +190,7 @@ query($owner: String!, $repo: String!, $after: String) {
 }`,
       { owner, repo, after }
     )
+    console.log('DEBUG', res)
     hasNextPage = res.data.repository.pullRequests.pageInfo.hasNextPage
     after = res.data.repository.pullRequests.pageInfo.endCursor
 
