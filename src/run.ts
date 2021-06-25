@@ -28,6 +28,7 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
       let description =
         state === "success" ? inputs.commitStatusDescriptionWithSuccess : inputs.commitStatusDescriptionWhileBlocking
       if (s.labels.includes(inputs.noBlockLabel)) {
+        console.log('Debug', s, inputs)
         expected = "success"
         description = inputs.commitStatusDescriptionWithSuccess
       }
@@ -188,7 +189,6 @@ query($owner: String!, $repo: String!, $after: String) {
 }`,
       { owner, repo, after }
     )
-    console.log("DEBUG", res)
     hasNextPage = res.repository.pullRequests.pageInfo.hasNextPage
     after = res.repository.pullRequests.pageInfo.endCursor
 

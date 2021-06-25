@@ -13897,6 +13897,7 @@ function handleAllPulls(inputs) {
                 let expected = state;
                 let description = state === "success" ? inputs.commitStatusDescriptionWithSuccess : inputs.commitStatusDescriptionWhileBlocking;
                 if (s.labels.includes(inputs.noBlockLabel)) {
+                    console.log('Debug', s, inputs);
                     expected = "success";
                     description = inputs.commitStatusDescriptionWithSuccess;
                 }
@@ -14006,7 +14007,6 @@ query($owner: String!, $repo: String!, $after: String) {
     }
   }
 }`, { owner, repo, after });
-            console.log("DEBUG", res);
             hasNextPage = res.repository.pullRequests.pageInfo.hasNextPage;
             after = res.repository.pullRequests.pageInfo.endCursor;
             const data = res.repository.pullRequests.edges.flatMap((pr) => pr.node.commits.edges.map((c) => {
