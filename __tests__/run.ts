@@ -37,9 +37,9 @@ describe("run", () => {
     jest.useRealTimers()
   })
 
-  describe("when the event is schedule", () => {
+  describe.each([["schedule"], ["workflow_dispatch"]])("when the event is %s", (event) => {
     beforeEach(() => {
-      Object.defineProperty(github.context, "eventName", { value: "schedule" })
+      Object.defineProperty(github.context, "eventName", { value: event })
       jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "foo", repo: "special-repo" } as any)
       octokit.graphql.mockResolvedValueOnce({
         data: {
@@ -282,7 +282,7 @@ describe("run", () => {
 
   describe("when the event is pull_request", () => {
     beforeEach(() => {
-      Object.defineProperty(github.context, "eventName", { value: "pull_request" } as any)
+      Object.defineProperty(github.context, "eventName", { value: "pull_request" })
     })
 
     test.each([
@@ -367,5 +367,19 @@ describe("run", () => {
         }
       }
     )
+  })
+
+  describe.each([["push", "release", "create"]])("when the event is %s", (event) => {
+    beforeEach(() => {
+      Object.defineProperty(github.context, "eventName", { value: event })
+    })
+
+    test("throws an error", async () => {
+      try {
+        await run()
+      } catch (e: any) {
+        expect(e.message).toEqual(`This action does not support the event "${event}"`)
+      }
+    })
   })
 })
