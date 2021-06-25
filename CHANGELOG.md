@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v0.1.0...HEAD)
+
+**Implemented enhancements:**
+
+- Support workflow\_dispatch event [\#13](https://github.com/yykamei/block-merge-based-on-time/pull/13) ([yykamei](https://github.com/yykamei))
+
 ## [v0.1.0](https://github.com/yykamei/block-merge-based-on-time/tree/v0.1.0) (2021-06-24)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/f0181f13272239dd40bb3ef832f0e1cbcbc6a9d7...v0.1.0)
