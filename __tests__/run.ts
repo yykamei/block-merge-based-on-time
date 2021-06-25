@@ -377,7 +377,7 @@ describe("run", () => {
     test("throws an error", async () => {
       try {
         await run()
-      } catch(e: any) {
+      } catch (e: any) {
         expect(e.message).toEqual(`This action does not support the event "${event}"`)
       }
     })
