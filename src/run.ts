@@ -92,43 +92,41 @@ async function handlePull(inputs: Inputs, payload: PullRequestEvent): Promise<vo
 }
 
 interface StatusesResponse {
-  readonly data: {
-    readonly repository: {
-      readonly pullRequests: {
-        readonly pageInfo: {
-          readonly hasNextPage: boolean
-          readonly endCursor: string | null
-        }
-        readonly edges: {
-          readonly node: {
-            readonly number: number
-            readonly title: string
-            readonly labels: {
-              readonly edges: {
-                readonly node: {
-                  readonly name: string
-                }
-              }[]
-            }
-            readonly commits: {
-              readonly edges: {
-                readonly node: {
-                  readonly commit: {
-                    readonly oid: string
-                    readonly message: string
-                    readonly status: {
-                      readonly contexts: {
-                        readonly context: string
-                        readonly state: string
-                      }[]
-                    } | null
-                  }
-                }
-              }[]
-            }
-          }
-        }[]
+  readonly repository: {
+    readonly pullRequests: {
+      readonly pageInfo: {
+        readonly hasNextPage: boolean
+        readonly endCursor: string | null
       }
+      readonly edges: {
+        readonly node: {
+          readonly number: number
+          readonly title: string
+          readonly labels: {
+            readonly edges: {
+              readonly node: {
+                readonly name: string
+              }
+            }[]
+          }
+          readonly commits: {
+            readonly edges: {
+              readonly node: {
+                readonly commit: {
+                  readonly oid: string
+                  readonly message: string
+                  readonly status: {
+                    readonly contexts: {
+                      readonly context: string
+                      readonly state: string
+                    }[]
+                  } | null
+                }
+              }
+            }[]
+          }
+        }
+      }[]
     }
   }
 }
@@ -190,11 +188,11 @@ query($owner: String!, $repo: String!, $after: String) {
 }`,
       { owner, repo, after }
     )
-    console.log('DEBUG', res)
-    hasNextPage = res.data.repository.pullRequests.pageInfo.hasNextPage
-    after = res.data.repository.pullRequests.pageInfo.endCursor
+    console.log("DEBUG", res)
+    hasNextPage = res.repository.pullRequests.pageInfo.hasNextPage
+    after = res.repository.pullRequests.pageInfo.endCursor
 
-    const data = res.data.repository.pullRequests.edges.flatMap((pr) =>
+    const data = res.repository.pullRequests.edges.flatMap((pr) =>
       pr.node.commits.edges.map((c) => ({
         number: pr.node.number,
         sha: c.node.commit.oid,

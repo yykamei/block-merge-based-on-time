@@ -42,139 +42,135 @@ describe("run", () => {
       Object.defineProperty(github.context, "eventName", { value: event })
       jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "foo", repo: "special-repo" } as any)
       octokit.graphql.mockResolvedValueOnce({
-        data: {
-          repository: {
-            pullRequests: {
-              pageInfo: {
-                hasNextPage: true,
-                endCursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xOVQwNjoyODoyNiswOTowMM4oKH4V",
-              },
-              edges: [
-                {
-                  cursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xOVQwNjoyODoyNiswOTowMM4oKH4V",
-                  node: {
-                    id: "MDExOlB1bGxSZXF1ZXN0NjczNzQyMzU3",
-                    number: 13,
-                    title: "Create c.js",
-                    labels: {
-                      edges: [
-                        {
-                          node: {
-                            name: "Emergency",
+        repository: {
+          pullRequests: {
+            pageInfo: {
+              hasNextPage: true,
+              endCursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xOVQwNjoyODoyNiswOTowMM4oKH4V",
+            },
+            edges: [
+              {
+                cursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xOVQwNjoyODoyNiswOTowMM4oKH4V",
+                node: {
+                  id: "MDExOlB1bGxSZXF1ZXN0NjczNzQyMzU3",
+                  number: 13,
+                  title: "Create c.js",
+                  labels: {
+                    edges: [
+                      {
+                        node: {
+                          name: "Emergency",
+                        },
+                      },
+                    ],
+                  },
+                  commits: {
+                    edges: [
+                      {
+                        node: {
+                          commit: {
+                            oid: "a7ba8efba8eff971a716ee178ae492f34c07844b",
+                            message: "Update c.js",
+                            status: null,
                           },
                         },
-                      ],
-                    },
-                    commits: {
-                      edges: [
-                        {
-                          node: {
-                            commit: {
-                              oid: "a7ba8efba8eff971a716ee178ae492f34c07844b",
-                              message: "Update c.js",
-                              status: null,
-                            },
-                          },
-                        },
-                      ],
-                    },
+                      },
+                    ],
                   },
                 },
-              ],
-            },
+              },
+            ],
           },
         },
       })
       octokit.graphql.mockResolvedValueOnce({
-        data: {
-          repository: {
-            pullRequests: {
-              pageInfo: {
-                hasNextPage: false,
-                endCursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNS0zMVQwOToyNToxOSswOTowMM4nNe7z",
-              },
-              edges: [
-                {
-                  cursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xOVQwNjoyNjozMSswOTowMM4oKHtr",
-                  node: {
-                    id: "MDExOlB1bGxSZXF1ZXN0NjczNzQxNjc1",
-                    number: 12,
-                    title: "Create b.js",
-                    labels: {
-                      edges: [],
-                    },
-                    commits: {
-                      edges: [
-                        {
-                          node: {
-                            commit: {
-                              oid: "f7ef543f6bf7d321117817743d8e4f0c4fb8136f",
-                              message: "Create b.js",
-                              status: {
-                                contexts: [
-                                  {
-                                    context: "block-merge-based-on-time",
-                                    state: "SUCCESS",
-                                  },
-                                ],
-                              },
-                            },
-                          },
-                        },
-                      ],
-                    },
-                  },
-                },
-                {
-                  cursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xOVQwNjoyNjowMSswOTowMM4oKHq4",
-                  node: {
-                    id: "MDExOlB1bGxSZXF1ZXN0NjczNzQxNDk2",
-                    number: 11,
-                    title: "Create a.js",
-                    labels: {
-                      edges: [],
-                    },
-                    commits: {
-                      edges: [
-                        {
-                          node: {
-                            commit: {
-                              oid: "1a097c106ca94999dee6249ba3e8c09190be9304",
-                              message: "Create a.js",
-                              status: null,
-                            },
-                          },
-                        },
-                      ],
-                    },
-                  },
-                },
-                {
-                  cursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNS0zMVQwOToyNToxOSswOTowMM4nNe7z",
-                  node: {
-                    id: "MDExOlB1bGxSZXF1ZXN0NjU3ODQ2MDAz",
-                    number: 10,
-                    title: "Add empty files",
-                    labels: {
-                      edges: [],
-                    },
-                    commits: {
-                      edges: [
-                        {
-                          node: {
-                            commit: {
-                              oid: "69c87dcf047328c682ede7914d84fbcf422bcbc8",
-                              message: "fixup! Add empty files",
-                              status: null,
-                            },
-                          },
-                        },
-                      ],
-                    },
-                  },
-                },
-              ],
+        repository: {
+          pullRequests: {
+            pageInfo: {
+              hasNextPage: false,
+              endCursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNS0zMVQwOToyNToxOSswOTowMM4nNe7z",
             },
+            edges: [
+              {
+                cursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xOVQwNjoyNjozMSswOTowMM4oKHtr",
+                node: {
+                  id: "MDExOlB1bGxSZXF1ZXN0NjczNzQxNjc1",
+                  number: 12,
+                  title: "Create b.js",
+                  labels: {
+                    edges: [],
+                  },
+                  commits: {
+                    edges: [
+                      {
+                        node: {
+                          commit: {
+                            oid: "f7ef543f6bf7d321117817743d8e4f0c4fb8136f",
+                            message: "Create b.js",
+                            status: {
+                              contexts: [
+                                {
+                                  context: "block-merge-based-on-time",
+                                  state: "SUCCESS",
+                                },
+                              ],
+                            },
+                          },
+                        },
+                      },
+                    ],
+                  },
+                },
+              },
+              {
+                cursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNi0xOVQwNjoyNjowMSswOTowMM4oKHq4",
+                node: {
+                  id: "MDExOlB1bGxSZXF1ZXN0NjczNzQxNDk2",
+                  number: 11,
+                  title: "Create a.js",
+                  labels: {
+                    edges: [],
+                  },
+                  commits: {
+                    edges: [
+                      {
+                        node: {
+                          commit: {
+                            oid: "1a097c106ca94999dee6249ba3e8c09190be9304",
+                            message: "Create a.js",
+                            status: null,
+                          },
+                        },
+                      },
+                    ],
+                  },
+                },
+              },
+              {
+                cursor: "Y3Vyc29yOnYyOpK5MjAyMS0wNS0zMVQwOToyNToxOSswOTowMM4nNe7z",
+                node: {
+                  id: "MDExOlB1bGxSZXF1ZXN0NjU3ODQ2MDAz",
+                  number: 10,
+                  title: "Add empty files",
+                  labels: {
+                    edges: [],
+                  },
+                  commits: {
+                    edges: [
+                      {
+                        node: {
+                          commit: {
+                            oid: "69c87dcf047328c682ede7914d84fbcf422bcbc8",
+                            message: "fixup! Add empty files",
+                            status: null,
+                          },
+                        },
+                      },
+                    ],
+                  },
+                },
+              },
+            ],
           },
         },
       })
