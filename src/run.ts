@@ -8,13 +8,16 @@ export async function run(): Promise<void> {
 
   switch (context.eventName) {
     case "schedule":
-      return handleSchedule(inputs)
+    case "workflow_dispatch":
+      return handleAllPulls(inputs)
     case "pull_request":
       return handlePull(inputs, context.payload as PullRequestEvent)
+    default:
+      throw new Error(`This action does not support the event "${context.eventName}"`)
   }
 }
 
-async function handleSchedule(inputs: Inputs): Promise<void> {
+async function handleAllPulls(inputs: Inputs): Promise<void> {
   const octokit = getOctokit(inputs.token)
   const { owner, repo } = context.repo
   const statuses = await fetchPullRequestStatuses(inputs, owner, repo)
