@@ -13839,13 +13839,16 @@ function run() {
         const inputs = new Inputs();
         switch (github.context.eventName) {
             case "schedule":
-                return handleSchedule(inputs);
+            case "workflow_dispatch":
+                return handleAllPulls(inputs);
             case "pull_request":
                 return handlePull(inputs, github.context.payload);
+            default:
+                throw new Error(`This action does not support the event "${github.context.eventName}"`);
         }
     });
 }
-function handleSchedule(inputs) {
+function handleAllPulls(inputs) {
     return __awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
         const { owner, repo } = github.context.repo;
