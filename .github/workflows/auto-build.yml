@@ -9,7 +9,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v2
         with:
-          node-version: '12'
+          node-version: "12"
       - run: npm ci
       - run: npm run build
       - run: git diff --exit-code --quiet
