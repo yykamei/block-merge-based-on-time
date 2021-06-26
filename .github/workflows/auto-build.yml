@@ -16,7 +16,7 @@ jobs:
         id: git_diff
         continue-on-error: true
       - name: Push changes
-        if: ${{ steps.git_diff.outcome }} == "failure"
+        if: steps.git_diff.outcome == 'failure'
         run: |
           git checkout ${{ github.event.pull_request.head.ref }}
           git add -A
