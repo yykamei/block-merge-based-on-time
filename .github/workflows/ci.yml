@@ -21,7 +21,7 @@ jobs:
       - run: npm run lint
       - run: npm test
       - run: npm run build
-        if: matrix.node == "12"
+        if: ${{ matrix.node == "12" }}
       - name: Push changes
         if: ${{ matrix.node == "12" && github.event_name == "pull_request" }}
         run: |
