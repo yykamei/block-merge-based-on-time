@@ -13,9 +13,10 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: git diff --exit-code --quiet
+        id: git_diff
         continue-on-error: true
       - name: Push changes
-        if: failure()
+        if: steps.git_diff.outcome == "failure"
         run: |
           git checkout ${{ github.event.pull_request.head.ref }}
           git add -A
