@@ -11,7 +11,7 @@ inputs:
     description: Time zone to use
     required: true
   prohibited-days-dates:
-    description: The days or dates to stop blocking merge all day
+    description: The comma-separated days or dates to stop blocking merge all day
     required: false
     default: ""
   no-block-label:

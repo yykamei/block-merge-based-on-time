@@ -41,18 +41,18 @@ jobs:
 
 These are all available inputs.
 
-| Name                                       | Description                                                    | Required | Default                                                                            |
-| ------------------------------------------ | -------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
-| `after`                                    | The time to start blocking merge                               | `true`   | -                                                                                  |
-| `before`                                   | The time to stop blocking merge                                | `true`   | -                                                                                  |
-| `timezone`                                 | Time zone to use. Default is UTC                               | `true`   | -                                                                                  |
-| `prohibited-days-dates`                    | The days or dates to stop blocking merge all day               | `false`  | `""`                                                                               |
-| `no-block-label`                           | The label to indicate the pull request should not be blocked   | `false`  | `no-block`                                                                         |
-| `commit-status-context`                    | The commit status context                                      | `false`  | `block-merge-based-on-time`                                                        |
-| `commit-status-description-with-success`   | The commit status description shown with success               | `false`  | `The PR could be merged`                                                           |
-| `commit-status-description-while-blocking` | The commit status description shown while blocking             | `false`  | `The PR can't be merged based on time, which is due to your organization's policy` |
-| `commit-status-url`                        | The commit status URL to describe why this action is conducted | `false`  | `""`                                                                               |
-| `token`                                    | The GitHub token used to create an authenticated client        | `false`  | `GITHUB_TOKEN`                                                                     |
+| Name                                       | Description                                                      | Required | Default                                                                            |
+| ------------------------------------------ | ---------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
+| `after`                                    | The time to start blocking merge                                 | `true`   | -                                                                                  |
+| `before`                                   | The time to stop blocking merge                                  | `true`   | -                                                                                  |
+| `timezone`                                 | Time zone to use. Default is UTC                                 | `true`   | -                                                                                  |
+| `prohibited-days-dates`                    | The comma-separated days or dates to stop blocking merge all day | `false`  | `""`                                                                               |
+| `no-block-label`                           | The label to indicate the pull request should not be blocked     | `false`  | `no-block`                                                                         |
+| `commit-status-context`                    | The commit status context                                        | `false`  | `block-merge-based-on-time`                                                        |
+| `commit-status-description-with-success`   | The commit status description shown with success                 | `false`  | `The PR could be merged`                                                           |
+| `commit-status-description-while-blocking` | The commit status description shown while blocking               | `false`  | `The PR can't be merged based on time, which is due to your organization's policy` |
+| `commit-status-url`                        | The commit status URL to describe why this action is conducted   | `false`  | `""`                                                                               |
+| `token`                                    | The GitHub token used to create an authenticated client          | `false`  | `GITHUB_TOKEN`                                                                     |
 
 ## Contributing
 
