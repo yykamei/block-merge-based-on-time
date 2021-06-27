@@ -45,6 +45,7 @@ These are all available inputs.
 | `after`                                    | The time to start blocking merge                               | `true`   | -                                                                                  |
 | `before`                                   | The time to stop blocking merge                                | `true`   | -                                                                                  |
 | `timezone`                                 | Time zone to use. Default is UTC                               | `true`   | -                                                                                  |
+| `prohibited-days-dates`                    | The days or dates to stop blocking merge all day               | `false`  | `""`                                                                               |
 | `no-block-label`                           | The label to indicate the pull request should not be blocked   | `false`  | `no-block`                                                                         |
 | `commit-status-context`                    | The commit status context                                      | `false`  | `block-merge-based-on-time`                                                        |
 | `commit-status-description-with-success`   | The commit status description shown with success               | `false`  | `The PR could be merged`                                                           |
