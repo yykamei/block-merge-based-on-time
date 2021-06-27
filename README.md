@@ -38,7 +38,7 @@ jobs:
 
 ### Action inputs
 
-These are all available inputs. If you want to customize
+These are all available inputs.
 
 | Name                                       | Description                                                    | Required | Default                                                                            |
 | ------------------------------------------ | -------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
