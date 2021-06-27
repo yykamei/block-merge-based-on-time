@@ -34,6 +34,7 @@ jobs:
           after: 17:30
           before: 09:00
           timezone: Pacific/Honolulu
+          prohibited-days-dates: "Sunday, 2021-12-31, 2022-01-01"
 ```
 
 ### Action inputs
