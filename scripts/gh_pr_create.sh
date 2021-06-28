@@ -2,8 +2,9 @@
 
 set -xeuo pipefail
 
-changes=$(git status --short | wc -l)
-if [[ "$changes" == "0" ]]; then
+DIFF=0
+git diff --quiet --exit-code origin/main || DIFF=1
+if [[ "$DIFF" == "0" ]]; then
   exit 0
 fi
 
