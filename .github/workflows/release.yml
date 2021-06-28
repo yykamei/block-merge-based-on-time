@@ -26,6 +26,7 @@ jobs:
         env:
           CHANGELOG_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FUTURE_RELEASE: v${{ github.event.inputs.version }}
+      - run: npm ci
       - name: Bump the package version
         run: |
           mv package.json /tmp/
