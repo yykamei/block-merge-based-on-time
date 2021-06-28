@@ -15,6 +15,7 @@
 **Merged pull requests:**
 
 - Bump @types/node from 15.12.4 to 15.12.5 [\#19](https://github.com/yykamei/block-merge-based-on-time/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump prettier from 2.3.1 to 2.3.2 [\#18](https://github.com/yykamei/block-merge-based-on-time/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v0.1.0](https://github.com/yykamei/block-merge-based-on-time/tree/v0.1.0) (2021-06-24)
 
