@@ -1,0 +1,44 @@
+name: Release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: version. The next release version (without prefix v)
+        required: true
+      apply:
+        description: apply. Specify whether the atcual release should be performed or not
+        default: 'false'
+        required: true
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "12"
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3
+      - run: gem install github_changelog_generator
+      - name: Update CHANGELOG.md
+        run: ./scripts/update_changelog.sh
+        env:
+          CHANGELOG_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FUTURE_RELEASE: v${{ github.event.inputs.version }}
+      - name: Bump the package version
+        run: |
+          mv package.json /tmp/
+          jq '.version = "${{ github.event.inputs.version }}"' /tmp/package.json | tee package.json
+          npm i --package-lock-only
+      - name: git-push(1)
+        run: ./scripts/git_push.sh
+        env:
+          COMMIT_MESSAGE: Bump to ${{ github.event.inputs.version }}
+      - name: Create a GitHub release and publish the crate on crates.io
+        run: ./scripts/release.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FUTURE_RELEASE: v${{ github.event.inputs.version }}
+          RELEASE_TITLE: Release v${{ github.event.inputs.version }}
+          APPLY: ${{ github.event.inputs.apply }}
