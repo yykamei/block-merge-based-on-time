@@ -12,6 +12,10 @@
 
 - Fix the handling of response data [\#14](https://github.com/yykamei/block-merge-based-on-time/pull/14) ([yykamei](https://github.com/yykamei))
 
+**Merged pull requests:**
+
+- Bump @types/node from 15.12.4 to 15.12.5 [\#19](https://github.com/yykamei/block-merge-based-on-time/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v0.1.0](https://github.com/yykamei/block-merge-based-on-time/tree/v0.1.0) (2021-06-24)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/f0181f13272239dd40bb3ef832f0e1cbcbc6a9d7...v0.1.0)
