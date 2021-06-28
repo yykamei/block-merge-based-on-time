@@ -1,13 +1,14 @@
 # Block Merge Based on Time
 
-Block merging based on time. Some organizations have the policy to prohibit their members from merging pull requests
-because it would be difficult to handle troubles after working hours or holidays. This action helps them to ensure such
-a policy in enforcement.
+Some organizations have the policy to prohibit their members from merging pull requests
+because it would be difficult to handle troubles after working hours or on holidays.
+This action helps them to ensure such a policy in enforcement.
 
-Block Merge Based on Time creates a commit status for each pull request head commit. If the time is during **blocking**,
-it creates a commit status with **pending**. On the other hand, it creates a commit status with **success** while it's
-not the time to block. You can circumvent this block with a specific label named `no-block` by default. This might be
-useful when you have to merge pull requests because of an emergency or irregular maintenance.
+Block Merge Based on Time [creates a commit status](https://docs.github.com/en/rest/reference/repos#create-a-commit-status) for each pull request head commit.
+If the time is during **blocking**, it creates a commit status with **pending**.
+On the other hand, it creates a commit status with **success** while it's not the time to block.
+You can circumvent this block with a specific label named `no-block` by default.
+This might be useful when you have to merge pull requests because of an emergency or irregular maintenance.
 
 ## Usage
 
