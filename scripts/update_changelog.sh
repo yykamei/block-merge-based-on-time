@@ -12,4 +12,5 @@ github_changelog_generator \
   --user "${GITHUB_REPOSITORY%/*}" \
   --project "${GITHUB_REPOSITORY#*/}" \
   --exclude-labels chore,no-changelog,duplicate,question,invalid,wontfix \
+  --include-tags-regex 'v\d+\.\d+\.\d+' \
   "${suffix[@]}"
