@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump typescript from 4.3.4 to 4.3.5 [\#33](https://github.com/yykamei/block-merge-based-on-time/pull/33) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @typescript-eslint/eslint-plugin from 4.28.0 to 4.28.1 [\#26](https://github.com/yykamei/block-merge-based-on-time/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump jest from 27.0.5 to 27.0.6 [\#25](https://github.com/yykamei/block-merge-based-on-time/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @typescript-eslint/parser from 4.28.0 to 4.28.1 [\#24](https://github.com/yykamei/block-merge-based-on-time/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
