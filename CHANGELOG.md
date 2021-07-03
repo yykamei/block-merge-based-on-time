@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v0.2.0...HEAD)
 
+**Implemented enhancements:**
+
+- Allow writing prohibited-days-dates with a date range [\#27](https://github.com/yykamei/block-merge-based-on-time/issues/27)
+
 **Merged pull requests:**
 
 - Bump @types/node from 15.12.5 to 15.14.0 [\#35](https://github.com/yykamei/block-merge-based-on-time/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
