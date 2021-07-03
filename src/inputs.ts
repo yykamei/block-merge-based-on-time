@@ -1,6 +1,6 @@
 import { getInput } from "@actions/core"
 import type { Zone } from "luxon"
-import { DateTime } from "luxon"
+import { DateTime, Interval } from "luxon"
 import type { Dates, Days, DaysDates } from "./types"
 
 export class Inputs {
@@ -20,8 +20,8 @@ export class Inputs {
     // TODO: Some parameters' defaults are duplicated with `action.yml`. We can refactor for DRY.
     this.token = getInput("token", { required: true })
     this.timezone = timeZone()
-    this.after = dateTime(getInput("after"), this.timezone)
-    this.before = dateTime(getInput("before"), this.timezone)
+    this.after = dateTime("hh:mm", getInput("after"), this.timezone)
+    this.before = dateTime("hh:mm", getInput("before"), this.timezone)
     const [days, dates] = prohibitedDaysDates(this.timezone)
     this.prohibitedDays = days
     this.prohibitedDates = dates
@@ -47,12 +47,29 @@ function timeZone(): Zone {
   return d.zone
 }
 
-function dateTime(s: string, zone: Zone): DateTime {
-  const d = DateTime.fromFormat(s, "hh:mm", { zone, setZone: true })
+function dateTime(format: string, s: string, zone: Zone): DateTime {
+  const d = DateTime.fromFormat(s, format, { zone, setZone: true })
   if (d.invalidExplanation != null) {
     throw new Error(d.invalidExplanation)
   }
   return d
+}
+
+function interval(s: string, zone: Zone): Interval {
+  let ret: Interval
+  if (s.split("/", 2).length === 2) {
+    ret = Interval.fromISO(s, { zone })
+    if (ret.end != null) {
+      ret = ret.set({ end: ret.end.endOf("day") })
+    }
+  } else {
+    const start = dateTime("yyyy-MM-dd", s, zone)
+    ret = Interval.fromDateTimes(start, start.endOf("day"))
+  }
+  if (ret.invalidExplanation != null) {
+    throw new Error(ret.invalidExplanation)
+  }
+  return ret
 }
 
 function prohibitedDaysDates(zone: Zone): DaysDates {
@@ -75,11 +92,7 @@ function prohibitedDaysDates(zone: Zone): DaysDates {
         case "":
           break // If the input is empty string, split array will have one empty string in it.
         default: {
-          const d = DateTime.fromFormat(s, "yyyy-MM-dd", { zone, setZone: true })
-          if (d.invalidExplanation) {
-            throw new Error(d.invalidExplanation)
-          }
-          dates.push(d)
+          dates.push(interval(s, zone))
           break
         }
       }

@@ -1,5 +1,5 @@
-import type { DateTime } from "luxon"
+import type { Interval } from "luxon"
 
 export type Days = string[]
-export type Dates = DateTime[]
+export type Dates = Interval[]
 export type DaysDates = [Days, Dates]
