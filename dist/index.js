@@ -11519,7 +11519,7 @@ __webpack_unused_export__ = Duration;
 __webpack_unused_export__ = FixedOffsetZone;
 __webpack_unused_export__ = IANAZone;
 __webpack_unused_export__ = Info;
-__webpack_unused_export__ = Interval;
+exports.Xp = Interval;
 __webpack_unused_export__ = InvalidZone;
 __webpack_unused_export__ = LocalZone;
 __webpack_unused_export__ = Settings;
@@ -13762,8 +13762,8 @@ class Inputs {
         // TODO: Some parameters' defaults are duplicated with `action.yml`. We can refactor for DRY.
         this.token = (0,core.getInput)("token", { required: true });
         this.timezone = timeZone();
-        this.after = dateTime((0,core.getInput)("after"), this.timezone);
-        this.before = dateTime((0,core.getInput)("before"), this.timezone);
+        this.after = dateTime("hh:mm", (0,core.getInput)("after"), this.timezone);
+        this.before = dateTime("hh:mm", (0,core.getInput)("before"), this.timezone);
         const [days, dates] = prohibitedDaysDates(this.timezone);
         this.prohibitedDays = days;
         this.prohibitedDates = dates;
@@ -13781,12 +13781,29 @@ function timeZone() {
     }
     return d.zone;
 }
-function dateTime(s, zone) {
-    const d = luxon/* DateTime.fromFormat */.ou.fromFormat(s, "hh:mm", { zone, setZone: true });
+function dateTime(format, s, zone) {
+    const d = luxon/* DateTime.fromFormat */.ou.fromFormat(s, format, { zone, setZone: true });
     if (d.invalidExplanation != null) {
         throw new Error(d.invalidExplanation);
     }
     return d;
+}
+function interval(s, zone) {
+    let ret;
+    if (s.split("/", 2).length === 2) {
+        ret = luxon/* Interval.fromISO */.Xp.fromISO(s, { zone });
+        if (ret.end != null) {
+            ret = ret.set({ end: ret.end.endOf("day") });
+        }
+    }
+    else {
+        const start = dateTime("yyyy-MM-dd", s, zone);
+        ret = luxon/* Interval.fromDateTimes */.Xp.fromDateTimes(start, start.endOf("day"));
+    }
+    if (ret.invalidExplanation != null) {
+        throw new Error(ret.invalidExplanation);
+    }
+    return ret;
 }
 function prohibitedDaysDates(zone) {
     const days = [];
@@ -13808,11 +13825,7 @@ function prohibitedDaysDates(zone) {
             case "":
                 break; // If the input is empty string, split array will have one empty string in it.
             default: {
-                const d = luxon/* DateTime.fromFormat */.ou.fromFormat(s, "yyyy-MM-dd", { zone, setZone: true });
-                if (d.invalidExplanation) {
-                    throw new Error(d.invalidExplanation);
-                }
-                dates.push(d);
+                dates.push(interval(s, zone));
                 break;
             }
         }
@@ -13845,7 +13858,7 @@ function isProhibitedDay(now, days, dates) {
     if (days.includes(now.weekdayLong)) {
         return true;
     }
-    else if (dates.some((d) => d.hasSame(now, "day"))) {
+    else if (dates.some((d) => d.contains(now))) {
         return true;
     }
     return false;
