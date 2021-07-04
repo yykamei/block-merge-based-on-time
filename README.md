@@ -20,7 +20,6 @@ on:
   pull_request:
     types:
       - opened
-      - synchronize
       - reopened
       - labeled
   schedule:
