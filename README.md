@@ -21,6 +21,7 @@ on:
     types:
       - opened
       - reopened
+      - synchronize
       - labeled
   schedule:
     - cron: "*/30 * * * *"
