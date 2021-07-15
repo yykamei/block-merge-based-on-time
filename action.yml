@@ -2,10 +2,10 @@ name: Block Merge Based on Time
 description: You can prevent your members from merging pull requests during the specified time.
 inputs:
   after:
-    description: The time to start blocking merge
+    description: The time to start blocking merge. You can set exception time for specific days. For example, the value could be "17:30, 16:30 on Monday"
     required: true
   before:
-    description: The time to stop blocking merge
+    description: The time to stop blocking merge. You can set exception time for specific days. For example, the value could be "09:00, 08:00 on Monday"
     required: true
   timezone:
     description: Time zone to use
