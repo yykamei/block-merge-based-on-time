@@ -13762,8 +13762,8 @@ class Inputs {
         // TODO: Some parameters' defaults are duplicated with `action.yml`. We can refactor for DRY.
         this.token = (0,core.getInput)("token", { required: true });
         this.timezone = timeZone();
-        this.after = dateTime("hh:mm", (0,core.getInput)("after"), this.timezone);
-        this.before = dateTime("hh:mm", (0,core.getInput)("before"), this.timezone);
+        this.after = hours("after", this.timezone);
+        this.before = hours("before", this.timezone);
         const [days, dates] = prohibitedDaysDates(this.timezone);
         this.prohibitedDays = days;
         this.prohibitedDates = dates;
@@ -13771,7 +13771,8 @@ class Inputs {
         this.commitStatusContext = stringOr((0,core.getInput)("commit-status-context"), "block-merge-based-on-time");
         this.commitStatusDescriptionWithSuccess = stringOr((0,core.getInput)("commit-status-description-with-success"), "The PR could be merged");
         this.commitStatusDescriptionWhileBlocking = stringOr((0,core.getInput)("commit-status-description-while-blocking"), "The PR can't be merged based on time, which is due to your organization's policy");
-        this.commitStatusURL = (0,core.getInput)("commit-status-url") || null; // NOTE: If the string is empty, we're not sure where we should refe tor
+        // NOTE: If the string is empty, we're not sure where we should refer to. So, `||` is appropriate here instead of `??`.
+        this.commitStatusURL = (0,core.getInput)("commit-status-url") || null;
     }
 }
 function timeZone() {
@@ -13805,6 +13806,31 @@ function interval(s, zone) {
     }
     return ret;
 }
+function hours(key, zone) {
+    const input = (0,core.getInput)(key);
+    const baseRegExp = /^\d\d:\d\d$/;
+    const daysRegExp = /^(?<hour>\d\d:\d\d) on (?<day>Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)$/;
+    const result = input.split(/,\s*/).reduce((result, str) => {
+        if (baseRegExp.test(str)) {
+            return Object.assign(Object.assign({}, result), { base: dateTime("hh:mm", str, zone) });
+        }
+        else {
+            const match = str.match(daysRegExp);
+            if (match != null && match.groups != null && match.groups["day"] != null && match.groups["hour"] != null) {
+                const day = match.groups["day"];
+                const hour = match.groups["hour"];
+                return Object.assign(Object.assign({}, result), { [day]: dateTime("hh:mm", hour, zone) });
+            }
+            else {
+                throw new Error(`Invalid "${key}" was given. The example format is "16:30 on Monday"`);
+            }
+        }
+    }, { base: luxon/* DateTime.fromISO */.ou.fromISO("invalid") });
+    if (result.base.invalidExplanation != null) {
+        throw new Error(`"${key}" requires at least basic hour like "16:30"`);
+    }
+    return result;
+}
 function prohibitedDaysDates(zone) {
     const days = [];
     const dates = [];
@@ -13834,9 +13860,10 @@ function prohibitedDaysDates(zone) {
 }
 /**
  *
- * Return the passed string as is but an alternative when the passed string is empty.
+ * return the passed string as is but an alternative when the passed string is empty.
  *
- * @param str
+ * @param {string} str
+ * @param {string} alt
  */
 function stringOr(str, alt) {
     return str || alt;
@@ -13864,11 +13891,34 @@ function isProhibitedDay(now, days, dates) {
     return false;
 }
 function isDuringTime(now, after, before) {
-    if (after.diff(before).toMillis() > 0) {
-        return now.diff(after).toMillis() >= 0 || now.diff(before).toMillis() <= 0;
+    const a = hour(now, after);
+    const b = hour(now, before);
+    if (a.diff(b).toMillis() > 0) {
+        return now.diff(a).toMillis() >= 0 || now.diff(b).toMillis() <= 0;
     }
     else {
-        return now.diff(after).toMillis() >= 0 && now.diff(before).toMillis() <= 0;
+        return now.diff(a).toMillis() >= 0 && now.diff(b).toMillis() <= 0;
+    }
+}
+function hour(now, hours) {
+    var _a, _b, _c, _d, _e, _f, _g;
+    switch (now.weekdayLong) {
+        case "Sunday":
+            return (_a = hours.Sunday) !== null && _a !== void 0 ? _a : hours.base;
+        case "Monday":
+            return (_b = hours.Monday) !== null && _b !== void 0 ? _b : hours.base;
+        case "Tuesday":
+            return (_c = hours.Tuesday) !== null && _c !== void 0 ? _c : hours.base;
+        case "Wednesday":
+            return (_d = hours.Wednesday) !== null && _d !== void 0 ? _d : hours.base;
+        case "Thursday":
+            return (_e = hours.Thursday) !== null && _e !== void 0 ? _e : hours.base;
+        case "Friday":
+            return (_f = hours.Friday) !== null && _f !== void 0 ? _f : hours.base;
+        case "Saturday":
+            return (_g = hours.Saturday) !== null && _g !== void 0 ? _g : hours.base;
+        default:
+            throw new Error(`Unsupported weekday: "${now.weekdayLong}"`);
     }
 }
 
