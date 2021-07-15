@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v0.3.0...HEAD)
 
+**Implemented enhancements:**
+
+- Allow specifying another time for specific days [\#32](https://github.com/yykamei/block-merge-based-on-time/issues/32)
+
 **Merged pull requests:**
 
 - Bump @types/node from 16.3.1 to 16.3.2 [\#67](https://github.com/yykamei/block-merge-based-on-time/pull/67) ([dependabot[bot]](https://github.com/apps/dependabot))
