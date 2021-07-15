@@ -4,21 +4,9 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v0.3.0...HEAD)
 
-**Merged pull requests:**
+**Implemented enhancements:**
 
-- Bump @types/node from 16.3.1 to 16.3.2 [\#67](https://github.com/yykamei/block-merge-based-on-time/pull/67) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/parser from 4.28.2 to 4.28.3 [\#64](https://github.com/yykamei/block-merge-based-on-time/pull/64) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/eslint-plugin from 4.28.2 to 4.28.3 [\#63](https://github.com/yykamei/block-merge-based-on-time/pull/63) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 16.3.0 to 16.3.1 [\#60](https://github.com/yykamei/block-merge-based-on-time/pull/60) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump ts-node from 10.0.0 to 10.1.0 [\#58](https://github.com/yykamei/block-merge-based-on-time/pull/58) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 16.0.1 to 16.3.0 [\#56](https://github.com/yykamei/block-merge-based-on-time/pull/56) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 16.0.0 to 16.0.1 [\#54](https://github.com/yykamei/block-merge-based-on-time/pull/54) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/luxon from 1.27.0 to 1.27.1 [\#51](https://github.com/yykamei/block-merge-based-on-time/pull/51) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/jest from 26.0.23 to 26.0.24 [\#50](https://github.com/yykamei/block-merge-based-on-time/pull/50) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/parser from 4.28.1 to 4.28.2 [\#47](https://github.com/yykamei/block-merge-based-on-time/pull/47) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/eslint-plugin from 4.28.1 to 4.28.2 [\#46](https://github.com/yykamei/block-merge-based-on-time/pull/46) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 15.14.0 to 16.0.0 [\#43](https://github.com/yykamei/block-merge-based-on-time/pull/43) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump eslint from 7.29.0 to 7.30.0 [\#42](https://github.com/yykamei/block-merge-based-on-time/pull/42) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Allow specifying another time for specific days [\#32](https://github.com/yykamei/block-merge-based-on-time/issues/32)
 
 ## [v0.3.0](https://github.com/yykamei/block-merge-based-on-time/tree/v0.3.0) (2021-07-04)
 
