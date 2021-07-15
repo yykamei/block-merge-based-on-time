@@ -1,12 +1,12 @@
 import { getInput } from "@actions/core"
 import type { Zone } from "luxon"
 import { DateTime, Interval } from "luxon"
-import type { Dates, Days, DaysDates } from "./types"
+import type { Dates, Days, DaysDates, Hours } from "./types"
 
 export class Inputs {
   public readonly token: string
-  public readonly after: DateTime
-  public readonly before: DateTime
+  public readonly after: Hours
+  public readonly before: Hours
   public readonly timezone: Zone
   public readonly prohibitedDays: Days
   public readonly prohibitedDates: Dates
@@ -20,8 +20,8 @@ export class Inputs {
     // TODO: Some parameters' defaults are duplicated with `action.yml`. We can refactor for DRY.
     this.token = getInput("token", { required: true })
     this.timezone = timeZone()
-    this.after = dateTime("hh:mm", getInput("after"), this.timezone)
-    this.before = dateTime("hh:mm", getInput("before"), this.timezone)
+    this.after = hours("after", this.timezone)
+    this.before = hours("before", this.timezone)
     const [days, dates] = prohibitedDaysDates(this.timezone)
     this.prohibitedDays = days
     this.prohibitedDates = dates
@@ -35,7 +35,8 @@ export class Inputs {
       getInput("commit-status-description-while-blocking"),
       "The PR can't be merged based on time, which is due to your organization's policy"
     )
-    this.commitStatusURL = getInput("commit-status-url") || null // NOTE: If the string is empty, we're not sure where we should refe tor
+    // NOTE: If the string is empty, we're not sure where we should refer to. So, `||` is appropriate here instead of `??`.
+    this.commitStatusURL = getInput("commit-status-url") || null
   }
 }
 
@@ -72,6 +73,33 @@ function interval(s: string, zone: Zone): Interval {
   return ret
 }
 
+function hours(key: "after" | "before", zone: Zone): Hours {
+  const input = getInput(key)
+  const baseRegExp = /^\d\d:\d\d$/
+  const daysRegExp = /^(?<hour>\d\d:\d\d) on (?<day>Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)$/
+  const result: Hours = input.split(/,\s*/).reduce(
+    (result, str) => {
+      if (baseRegExp.test(str)) {
+        return { ...result, base: dateTime("hh:mm", str, zone) }
+      } else {
+        const match = str.match(daysRegExp)
+        if (match != null && match.groups != null && match.groups["day"] != null && match.groups["hour"] != null) {
+          const day = match.groups["day"]
+          const hour = match.groups["hour"]
+          return { ...result, [day]: dateTime("hh:mm", hour, zone) }
+        } else {
+          throw new Error(`Invalid "${key}" was given. The example format is "16:30 on Monday"`)
+        }
+      }
+    },
+    { base: DateTime.fromISO("invalid") }
+  )
+  if (result.base.invalidExplanation != null) {
+    throw new Error(`"${key}" requires at least basic hour like "16:30"`)
+  }
+  return result
+}
+
 function prohibitedDaysDates(zone: Zone): DaysDates {
   const days: Days = []
   const dates: Dates = []
@@ -102,9 +130,10 @@ function prohibitedDaysDates(zone: Zone): DaysDates {
 
 /**
  *
- * Return the passed string as is but an alternative when the passed string is empty.
+ * return the passed string as is but an alternative when the passed string is empty.
  *
- * @param str
+ * @param {string} str
+ * @param {string} alt
  */
 function stringOr(str: string, alt: string): string {
   return str || alt

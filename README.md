@@ -32,7 +32,7 @@ jobs:
     steps:
       - uses: yykamei/block-merge-based-on-time@main
         with:
-          after: 17:30
+          after: "17:30, 16:30 on Monday"
           before: 09:00
           timezone: Pacific/Honolulu
           prohibited-days-dates: "Sunday, 2021-10-01, 2021-12-29/2022-01-04"
@@ -44,8 +44,9 @@ These are all available inputs.
 
 | Name                                       | Description                                                                                                                                   | Required | Default                                                                            |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
-| `after`                                    | The time to start blocking merge                                                                                                              | `true`   | -                                                                                  |
-| `before`                                   | The time to stop blocking merge                                                                                                               | `true`   | -                                                                                  |
+| `after`                                    | The time to start blocking merge. You can set exception time for specific days. For example, the value could be "17:30, 16:30 on Monday"      |
+| `true`                                     | -                                                                                                                                             |
+| `before`                                   | The time to stop blocking merge. You can set exception time for specific days. For example, the value could be "09:00, 08:00 on Monday"       | `true`   | -                                                                                  |
 | `timezone`                                 | Time zone to use. Default is UTC                                                                                                              | `true`   | -                                                                                  |
 | `prohibited-days-dates`                    | The comma-separated days or dates to stop blocking merge all day. For example, the value could be "Sunday, 2021-08-01, 2021-08-06/2021-08-10" | `false`  | `""`                                                                               |
 | `no-block-label`                           | The label to indicate the pull request should not be blocked                                                                                  | `false`  | `no-block`                                                                         |

@@ -31,8 +31,20 @@ describe("Inputs", () => {
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
-    expect(inputs).toHaveProperty("after", DateTime.fromObject({ hour: 12, minute: 20, zone: "Pacific/Honolulu" }))
-    expect(inputs).toHaveProperty("before", DateTime.fromObject({ hour: 16, minute: 0, zone: "Pacific/Honolulu" }))
+    expect(inputs).toHaveProperty("after", {
+      base: DateTime.fromObject({
+        hour: 12,
+        minute: 20,
+        zone: "Pacific/Honolulu",
+      }),
+    })
+    expect(inputs).toHaveProperty("before", {
+      base: DateTime.fromObject({
+        hour: 16,
+        minute: 0,
+        zone: "Pacific/Honolulu",
+      }),
+    })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
     expect(inputs).toHaveProperty("prohibitedDays", ["Sunday"])
     expect(inputs).toHaveProperty("prohibitedDates", [
@@ -77,8 +89,20 @@ describe("Inputs", () => {
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
-    expect(inputs).toHaveProperty("after", DateTime.fromObject({ hour: 12, minute: 20, zone: "Pacific/Honolulu" }))
-    expect(inputs).toHaveProperty("before", DateTime.fromObject({ hour: 16, minute: 0, zone: "Pacific/Honolulu" }))
+    expect(inputs).toHaveProperty("after", {
+      base: DateTime.fromObject({
+        hour: 12,
+        minute: 20,
+        zone: "Pacific/Honolulu",
+      }),
+    })
+    expect(inputs).toHaveProperty("before", {
+      base: DateTime.fromObject({
+        hour: 16,
+        minute: 0,
+        zone: "Pacific/Honolulu",
+      }),
+    })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
     expect(inputs).toHaveProperty("prohibitedDates", [])
@@ -106,8 +130,20 @@ describe("Inputs", () => {
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
-    expect(inputs).toHaveProperty("after", DateTime.fromObject({ hour: 12, minute: 20, zone: "Pacific/Honolulu" }))
-    expect(inputs).toHaveProperty("before", DateTime.fromObject({ hour: 16, minute: 0, zone: "Pacific/Honolulu" }))
+    expect(inputs).toHaveProperty("after", {
+      base: DateTime.fromObject({
+        hour: 12,
+        minute: 20,
+        zone: "Pacific/Honolulu",
+      }),
+    })
+    expect(inputs).toHaveProperty("before", {
+      base: DateTime.fromObject({
+        hour: 16,
+        minute: 0,
+        zone: "Pacific/Honolulu",
+      }),
+    })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
     expect(inputs).toHaveProperty("prohibitedDays", ["Sunday"])
     expect(inputs).toHaveProperty("prohibitedDates", [
@@ -150,6 +186,57 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("commitStatusURL", null)
   })
 
+  test("returns a valid instance with the exception after/before", () => {
+    const inSpy = jest.spyOn(core, "getInput")
+    inSpy.mockImplementation(
+      (name) =>
+        ({
+          token: "abc",
+          after: "17:30, 16:30 on Monday",
+          before: "09:00",
+          timezone: "Europe/Madrid",
+          "prohibited-days-dates": "",
+          "no-block-label": "",
+          "commit-status-context": "",
+          "commit-status-description-with-success": "",
+          "commit-status-description-while-blocking": "",
+          "commit-status-url": "",
+        }[name] as any)
+    )
+    const inputs = new Inputs()
+    expect(inputs).toHaveProperty("token", "abc")
+    expect(inputs).toHaveProperty("after", {
+      base: DateTime.fromObject({
+        hour: 17,
+        minute: 30,
+        zone: "Europe/Madrid",
+      }),
+      Monday: DateTime.fromObject({
+        hour: 16,
+        minute: 30,
+        zone: "Europe/Madrid",
+      }),
+    })
+    expect(inputs).toHaveProperty("before", {
+      base: DateTime.fromObject({
+        hour: 9,
+        minute: 0,
+        zone: "Europe/Madrid",
+      }),
+    })
+    expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
+    expect(inputs).toHaveProperty("prohibitedDays", [])
+    expect(inputs).toHaveProperty("prohibitedDates", [])
+    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
+    expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
+    expect(inputs).toHaveProperty(
+      "commitStatusDescriptionWhileBlocking",
+      "The PR can't be merged based on time, which is due to your organization's policy"
+    )
+    expect(inputs).toHaveProperty("commitStatusURL", null)
+  })
+
   test("returns an error with invalid zone", () => {
     const inSpy = jest.spyOn(core, "getInput")
     inSpy.mockImplementation((name) => ({ token: "abc", timezone: "Unknown/Abc" }[name] as any))
@@ -159,7 +246,7 @@ describe("Inputs", () => {
   test("returns an error with invalid after", () => {
     const inSpy = jest.spyOn(core, "getInput")
     inSpy.mockImplementation((name) => ({ token: "abc", timezone: "UTC+3", after: "1220" }[name] as any))
-    expect(() => new Inputs()).toThrow(new Error('the input "1220" can\'t be parsed as format hh:mm'))
+    expect(() => new Inputs()).toThrow(new Error('Invalid "after" was given. The example format is "16:30 on Monday"'))
   })
 
   test("returns an error with invalid before", () => {
@@ -173,7 +260,7 @@ describe("Inputs", () => {
           before: "invalid",
         }[name] as any)
     )
-    expect(() => new Inputs()).toThrow(new Error('the input "invalid" can\'t be parsed as format hh:mm'))
+    expect(() => new Inputs()).toThrow(new Error('Invalid "before" was given. The example format is "16:30 on Monday"'))
   })
 
   test("returns an error with invalid day", () => {
