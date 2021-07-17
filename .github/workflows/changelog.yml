@@ -14,17 +14,17 @@ jobs:
           ruby-version: 3
       - run: gem install github_changelog_generator
       - name: Update CHANGELOG.md
-        run: ./scripts/update_changelog.sh
+        run: ./scripts/update-changelog.sh
         env:
           CHANGELOG_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: git-push(1)
-        run: ./scripts/git_push.sh
+        run: ./scripts/git-push.sh
         env:
           COMMIT_MESSAGE: Update CHANGELOG.md
           BRANCH: update-changelog
       - name: gh-pr-create(1)
         run: |
-          cat <<BODY | ./scripts/gh_pr_create.sh
+          cat <<BODY | ./scripts/gh-pr-create.sh
           *This pull request was automatically created to make CHANGELOG.md the latest*.
 
           Check the files changes and merge if the changes make sense.

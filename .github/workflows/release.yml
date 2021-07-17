@@ -25,7 +25,7 @@ jobs:
           ruby-version: 3
       - run: gem install github_changelog_generator
       - name: Update CHANGELOG.md
-        run: ./scripts/update_changelog.sh
+        run: ./scripts/update-changelog.sh
         env:
           CHANGELOG_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FUTURE_RELEASE: v${{ github.event.inputs.version }}
@@ -36,7 +36,7 @@ jobs:
           jq '.version = "${{ github.event.inputs.version }}"' /tmp/package.json | tee package.json
           npm i --package-lock-only
       - name: git-push(1)
-        run: ./scripts/git_push.sh
+        run: ./scripts/git-push.sh
         env:
           COMMIT_MESSAGE: Bump to ${{ github.event.inputs.version }}
         if: github.event.inputs.apply == 'true'
