@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v0.4.0...HEAD)
+
+**Merged pull requests:**
+
+- Fetch holiday information via Google Calendar API [\#74](https://github.com/yykamei/block-merge-based-on-time/pull/74) ([yykamei](https://github.com/yykamei))
+
 ## [v0.4.0](https://github.com/yykamei/block-merge-based-on-time/tree/v0.4.0) (2021-07-15)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v0.3.0...v0.4.0)
