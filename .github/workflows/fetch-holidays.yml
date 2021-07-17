@@ -1,0 +1,34 @@
+name: Fetch holidays
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 1 * * * *"
+jobs:
+  fetch-holidays:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+          cache: npm
+      - run: npm run fetch-holidays
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      - name: git-push(1)
+        run: ./scripts/git-push.sh
+        env:
+          COMMIT_MESSAGE: Update Holidays
+          BRANCH: update-holidays
+      - name: gh-pr-create(1)
+        run: |
+          cat <<BODY | ./scripts/gh-pr-create.sh
+          *This pull request was automatically created to make src/holidays.json the latest*.
+
+          Check the files changes and merge if the changes make sense.
+          BODY
+        env:
+          BRANCH: update-holidays
+          TITLE: Update src/holidays.json
+          LABEL: enhancement
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

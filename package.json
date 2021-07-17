@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "ncc build src/main.ts",
+    "fetch-holidays": "ts-node src/fetch-holidays.ts",
     "fmt": "prettier --write .",
     "fmt:check": "prettier --check .",
     "lint": "eslint .",
