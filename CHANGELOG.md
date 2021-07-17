@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v0.4.0...HEAD)
 
+**Implemented enhancements:**
+
+- Update src/holidays.json [\#76](https://github.com/yykamei/block-merge-based-on-time/pull/76) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Fetch holiday information via Google Calendar API [\#74](https://github.com/yykamei/block-merge-based-on-time/pull/74) ([yykamei](https://github.com/yykamei))
