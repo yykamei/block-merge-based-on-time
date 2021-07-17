@@ -30,6 +30,6 @@ jobs:
           BODY
         env:
           BRANCH: update-holidays
-          TITLE: Update src/holidays.json
+          TITLE: Update Holidays
           LABEL: enhancement
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
