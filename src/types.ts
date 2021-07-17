@@ -14,3 +14,15 @@ export interface Hours {
   readonly Friday?: DateTime
   readonly Saturday?: DateTime
 }
+
+export interface Holidays {
+  [key: string]: ReadonlyArray<HolidayEntry>
+}
+
+export interface HolidayEntry {
+  readonly id: string
+  readonly status: string
+  readonly summary: string
+  readonly start: DateTime
+  readonly end: DateTime
+}
