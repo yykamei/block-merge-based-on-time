@@ -57,7 +57,7 @@ These are all available inputs.
 
 ## Regional holidays
 
-This tool supports blocking based on regional holidays. For example, February 11th is "National Foundation Day" in Japan, and you can block merges on such a holiday via `prohibited-days-dates` with `H:Japan`. In addition, you can also block merges before the regional holiday with `BH:Japan`.
+This tool supports blocking merges based on regional holidays. For example, February 11th is "National Foundation Day" in Japan, and you can block merges on such a holiday via `prohibited-days-dates` with `H:Japan`. In addition, you can also block on the day before the regional holiday with `BH:Japan`.
 
 Block Merge Based on Time supports **232** regions, taking advantage of Google Calendar API, and the data is updated periodically.
 See [`src/holidays.json`](https://raw.githubusercontent.com/yykamei/block-merge-based-on-time/main/src/holidays.json) to check all available regions.
