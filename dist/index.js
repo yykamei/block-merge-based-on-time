@@ -13816,7 +13816,9 @@ function run() {
             case "workflow_dispatch":
                 return handleAllPulls(inputs);
             case "pull_request":
-                return handlePull(inputs, github.context.payload /* TODO: PullRequestEvent */);
+                // TODO: Use `PullRequestEvent` for casting of `context.payload`
+                //       eslint-disable-next-line @typescript-eslint/no-explicit-any
+                return handlePull(inputs, github.context.payload);
             default:
                 throw new Error(`This action does not support the event "${github.context.eventName}"`);
         }
@@ -13859,7 +13861,9 @@ function handleAllPulls(inputs) {
         }
     });
 }
-function handlePull(inputs, payload /* TODO: PullRequestEvent */) {
+// TODO: Use `PullRequestEvent` for `payload`
+//       eslint-disable-next-line @typescript-eslint/no-explicit-any
+function handlePull(inputs, payload) {
     return __awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
         const owner = payload.repository.owner.login;
@@ -13869,7 +13873,9 @@ function handlePull(inputs, payload /* TODO: PullRequestEvent */) {
         const target_url = inputs.commitStatusURL || undefined;
         let state = "success";
         let description = inputs.commitStatusDescriptionWithSuccess;
-        const noBlockLabelFound = payload.pull_request.labels.find((l /* TODO: remove this type */) => l.name === inputs.noBlockLabel);
+        // TODO: Remove the type `any` for `l`
+        //       eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const noBlockLabelFound = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel);
         if (noBlockLabelFound == null && shouldBlock(inputs)) {
             state = "pending";
             description = inputs.commitStatusDescriptionWhileBlocking;
