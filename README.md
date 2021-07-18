@@ -35,7 +35,7 @@ jobs:
           after: "17:30, 16:30 on Monday"
           before: 09:00
           timezone: Pacific/Honolulu
-          prohibited-days-dates: "Sunday, 2021-10-01, 2021-12-29/2022-01-04"
+          prohibited-days-dates: "Sunday, 2021-10-01, 2021-12-29/2022-01-04, H:United States, BH:United States"
 ```
 
 ### Action inputs
@@ -54,6 +54,13 @@ These are all available inputs.
 | `commit-status-description-while-blocking` | The commit status description shown while blocking                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | `false`  | `The PR can't be merged based on time, which is due to your organization's policy` |
 | `commit-status-url`                        | The commit status URL to describe why this action is conducted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | `false`  | `""`                                                                               |
 | `token`                                    | The GitHub token used to create an authenticated client                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | `false`  | `GITHUB_TOKEN`                                                                     |
+
+## Regional holidays
+
+This tool supports blocking based on regional holidays. For example, February 11th is "National Foundation Day" in Japan, and you can block merges on such a holiday via `prohibited-days-dates` with `H:Japan`. In addition, you can also block merges before the regional holiday with `BH:Japan`.
+
+Block Merge Based on Time supports **232** regions, taking advantage of Google Calendar API, and the data is updated periodically.
+See [`src/holidays.json`](https://raw.githubusercontent.com/yykamei/block-merge-based-on-time/main/src/holidays.json) to check all available regions.
 
 ## Contributing
 
