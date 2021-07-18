@@ -6,6 +6,8 @@
 
 **Implemented enhancements:**
 
+- Block merges based on regional holidays [\#72](https://github.com/yykamei/block-merge-based-on-time/issues/72)
+- Use regional holidays to block merges based on them [\#78](https://github.com/yykamei/block-merge-based-on-time/pull/78) ([yykamei](https://github.com/yykamei))
 - Update src/holidays.json [\#76](https://github.com/yykamei/block-merge-based-on-time/pull/76) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 **Merged pull requests:**
