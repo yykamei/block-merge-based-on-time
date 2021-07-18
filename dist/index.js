@@ -13805,6 +13805,9 @@ var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _argume
 
 
 
+// TODO: Enable this after the problem related to `resolveJsonModule`.
+//       https://github.com/yykamei/block-merge-based-on-time/runs/3097490417
+// import type { PullRequestEvent } from "@octokit/webhooks-definitions/schema"
 function run() {
     return __awaiter(this, void 0, void 0, function* () {
         const inputs = new Inputs();
@@ -13813,7 +13816,7 @@ function run() {
             case "workflow_dispatch":
                 return handleAllPulls(inputs);
             case "pull_request":
-                return handlePull(inputs, github.context.payload);
+                return handlePull(inputs, github.context.payload /* TODO: PullRequestEvent */);
             default:
                 throw new Error(`This action does not support the event "${github.context.eventName}"`);
         }
@@ -13856,7 +13859,7 @@ function handleAllPulls(inputs) {
         }
     });
 }
-function handlePull(inputs, payload) {
+function handlePull(inputs, payload /* TODO: PullRequestEvent */) {
     return __awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
         const owner = payload.repository.owner.login;
@@ -13866,7 +13869,7 @@ function handlePull(inputs, payload) {
         const target_url = inputs.commitStatusURL || undefined;
         let state = "success";
         let description = inputs.commitStatusDescriptionWithSuccess;
-        const noBlockLabelFound = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel);
+        const noBlockLabelFound = payload.pull_request.labels.find((l /* TODO: remove this type */) => l.name === inputs.noBlockLabel);
         if (noBlockLabelFound == null && shouldBlock(inputs)) {
             state = "pending";
             description = inputs.commitStatusDescriptionWhileBlocking;
