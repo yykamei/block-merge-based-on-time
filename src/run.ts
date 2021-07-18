@@ -1,7 +1,7 @@
 import { context, getOctokit } from "@actions/github"
 import { Inputs } from "./inputs"
 import { shouldBlock } from "./should-block"
-import { PullRequestEvent } from "@octokit/webhooks-definitions/schema"
+import { PullRequestEvent } from "@octokit/webhooks-definitions/schema.d.ts"
 
 export async function run(): Promise<void> {
   const inputs = new Inputs()
