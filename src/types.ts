@@ -23,6 +23,5 @@ export interface HolidayEntry {
   readonly id: string
   readonly status: string
   readonly summary: string
-  readonly start: DateTime
-  readonly end: DateTime
+  readonly date: string
 }

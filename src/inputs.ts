@@ -1,7 +1,8 @@
 import { getInput } from "@actions/core"
 import type { Zone } from "luxon"
 import { DateTime, Interval } from "luxon"
-import type { Dates, Days, DaysDates, Hours } from "./types"
+import holidays from "./holidays.json"
+import type { Dates, Days, DaysDates, HolidayEntry, Hours } from "./types"
 
 export class Inputs {
   public readonly token: string
@@ -17,7 +18,6 @@ export class Inputs {
   public readonly commitStatusURL: string | null
 
   constructor() {
-    // TODO: Some parameters' defaults are duplicated with `action.yml`. We can refactor for DRY.
     this.token = getInput("token", { required: true })
     this.timezone = timeZone()
     this.after = hours("after", this.timezone)
@@ -100,6 +100,14 @@ function hours(key: "after" | "before", zone: Zone): Hours {
   return result
 }
 
+function holidayEntries(region: string): HolidayEntry[] {
+  const validRegion = (r: string): r is keyof typeof holidays => r in holidays
+  if (validRegion(region)) {
+    return holidays[region]
+  }
+  throw new Error(`Unsupported region is given: "${region}"`)
+}
+
 function prohibitedDaysDates(zone: Zone): DaysDates {
   const days: Days = []
   const dates: Dates = []
@@ -120,7 +128,25 @@ function prohibitedDaysDates(zone: Zone): DaysDates {
         case "":
           break // If the input is empty string, split array will have one empty string in it.
         default: {
-          dates.push(interval(s, zone))
+          if (s.startsWith("H:")) {
+            const [_prefix, region] = s.split("H:", 2)
+            if (region != null) {
+              holidayEntries(region).forEach((entry) => {
+                dates.push(interval(entry.date, zone))
+              })
+            }
+          } else if (s.startsWith("BH:")) {
+            const [_prefix, region] = s.split("BH:", 2)
+            if (region != null) {
+              holidayEntries(region).forEach((entry) => {
+                let d = DateTime.fromISO(entry.date)
+                d = d.set({ day: d.day - 1 })
+                dates.push(interval(d.toISODate(), zone))
+              })
+            }
+          } else {
+            dates.push(interval(s, zone))
+          }
           break
         }
       }

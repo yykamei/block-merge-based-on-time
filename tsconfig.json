@@ -25,6 +25,7 @@
     "noPropertyAccessFromIndexSignature": true,
 
     "moduleResolution": "node",
+    "resolveJsonModule": true,
     "rootDirs": ["src"],
     "esModuleInterop": true,
 

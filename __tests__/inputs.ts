@@ -237,6 +237,84 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("commitStatusURL", null)
   })
 
+  test("returns a valid instance with the regional holidays", () => {
+    const inSpy = jest.spyOn(core, "getInput")
+    inSpy.mockImplementation(
+      (name) =>
+        ({
+          token: "abc",
+          after: "17:30",
+          before: "09:00",
+          timezone: "Europe/Madrid",
+          "prohibited-days-dates": "H:Spain, BH:Spain",
+          "no-block-label": "",
+          "commit-status-context": "",
+          "commit-status-description-with-success": "",
+          "commit-status-description-while-blocking": "",
+          "commit-status-url": "",
+        }[name] as any)
+    )
+    const inputs = new Inputs()
+    expect(inputs).toHaveProperty("token", "abc")
+    expect(inputs).toHaveProperty("after", {
+      base: DateTime.fromObject({
+        hour: 17,
+        minute: 30,
+        zone: "Europe/Madrid",
+      }),
+    })
+    expect(inputs).toHaveProperty("before", {
+      base: DateTime.fromObject({
+        hour: 9,
+        minute: 0,
+        zone: "Europe/Madrid",
+      }),
+    })
+    expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
+    expect(inputs).toHaveProperty("prohibitedDays", [])
+    expect(inputs.prohibitedDates.length).toEqual(286)
+    expect(inputs.prohibitedDates).toContainEqual(
+      Interval.fromDateTimes(
+        DateTime.fromObject({
+          year: 2022,
+          month: 1,
+          day: 23,
+          zone: "Europe/Madrid",
+        }).startOf("day"),
+        DateTime.fromObject({
+          year: 2022,
+          month: 1,
+          day: 23,
+          zone: "Europe/Madrid",
+        }).endOf("day")
+      )
+    )
+    expect(inputs.prohibitedDates).toContainEqual(
+      Interval.fromDateTimes(
+        DateTime.fromObject({
+          year: 2022,
+          month: 1,
+          day: 22,
+          zone: "Europe/Madrid",
+        }).startOf("day"),
+        DateTime.fromObject({
+          year: 2022,
+          month: 1,
+          day: 22,
+          zone: "Europe/Madrid",
+        }).endOf("day")
+      )
+    )
+    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
+    expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
+    expect(inputs).toHaveProperty(
+      "commitStatusDescriptionWhileBlocking",
+      "The PR can't be merged based on time, which is due to your organization's policy"
+    )
+    expect(inputs).toHaveProperty("commitStatusURL", null)
+  })
+
   test("returns an error with invalid zone", () => {
     const inSpy = jest.spyOn(core, "getInput")
     inSpy.mockImplementation((name) => ({ token: "abc", timezone: "Unknown/Abc" }[name] as any))
