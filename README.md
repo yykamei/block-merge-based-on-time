@@ -30,7 +30,7 @@ jobs:
   block:
     runs-on: ubuntu-latest
     steps:
-      - uses: yykamei/block-merge-based-on-time@main
+      - uses: yykamei/block-merge-based-on-time@v1
         with:
           after: "17:30, 16:30 on Monday"
           before: 09:00
