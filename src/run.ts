@@ -1,7 +1,9 @@
 import { context, getOctokit } from "@actions/github"
 import { Inputs } from "./inputs"
 import { shouldBlock } from "./should-block"
-import { PullRequestEvent } from "@octokit/webhooks-definitions/schema"
+// TODO: Enable this after the problem related to `resolveJsonModule`.
+//       https://github.com/yykamei/block-merge-based-on-time/runs/3097490417
+// import type { PullRequestEvent } from "@octokit/webhooks-definitions/schema"
 
 export async function run(): Promise<void> {
   const inputs = new Inputs()
@@ -11,7 +13,9 @@ export async function run(): Promise<void> {
     case "workflow_dispatch":
       return handleAllPulls(inputs)
     case "pull_request":
-      return handlePull(inputs, context.payload as PullRequestEvent)
+      // TODO: Use `PullRequestEvent` for casting of `context.payload`
+      //       eslint-disable-next-line @typescript-eslint/no-explicit-any
+      return handlePull(inputs, context.payload as any)
     default:
       throw new Error(`This action does not support the event "${context.eventName}"`)
   }
@@ -54,7 +58,9 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
   }
 }
 
-async function handlePull(inputs: Inputs, payload: PullRequestEvent): Promise<void> {
+// TODO: Use `PullRequestEvent` for `payload`
+//       eslint-disable-next-line @typescript-eslint/no-explicit-any
+async function handlePull(inputs: Inputs, payload: any): Promise<void> {
   const octokit = getOctokit(inputs.token)
   const owner = payload.repository.owner.login
   const repo = payload.repository.name
@@ -64,7 +70,9 @@ async function handlePull(inputs: Inputs, payload: PullRequestEvent): Promise<vo
   let state: "success" | "pending" = "success"
   let description = inputs.commitStatusDescriptionWithSuccess
 
-  const noBlockLabelFound = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel)
+  // TODO: Remove the type `any` for `l`
+  //       eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const noBlockLabelFound = payload.pull_request.labels.find((l: any) => l.name === inputs.noBlockLabel)
   if (noBlockLabelFound == null && shouldBlock(inputs)) {
     state = "pending"
     description = inputs.commitStatusDescriptionWhileBlocking

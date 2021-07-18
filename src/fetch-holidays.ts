@@ -285,13 +285,11 @@ const fetch = (calendarId: string): Promise<HolidayEntry[]> => {
           resolve(
             // eslint-disable-next-line @typescript-eslint/no-explicit-any
             parsedData.items.map(({ id, status, summary, start }: any) => {
-              const date = DateTime.fromISO(start.date).setZone("UTC", { keepLocalTime: true })
               return {
                 id,
                 status,
                 summary,
-                start: date.startOf("day"),
-                end: date.endOf("day"),
+                date: start.date,
               }
             })
           )
