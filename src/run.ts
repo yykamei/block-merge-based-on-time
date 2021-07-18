@@ -13,7 +13,9 @@ export async function run(): Promise<void> {
     case "workflow_dispatch":
       return handleAllPulls(inputs)
     case "pull_request":
-      return handlePull(inputs, context.payload as any /* TODO: PullRequestEvent */)
+      // TODO: Use `PullRequestEvent` for casting of `context.payload`
+      //       eslint-disable-next-line @typescript-eslint/no-explicit-any
+      return handlePull(inputs, context.payload as any)
     default:
       throw new Error(`This action does not support the event "${context.eventName}"`)
   }
@@ -56,7 +58,9 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
   }
 }
 
-async function handlePull(inputs: Inputs, payload: any /* TODO: PullRequestEvent */): Promise<void> {
+// TODO: Use `PullRequestEvent` for `payload`
+//       eslint-disable-next-line @typescript-eslint/no-explicit-any
+async function handlePull(inputs: Inputs, payload: any): Promise<void> {
   const octokit = getOctokit(inputs.token)
   const owner = payload.repository.owner.login
   const repo = payload.repository.name
@@ -66,9 +70,9 @@ async function handlePull(inputs: Inputs, payload: any /* TODO: PullRequestEvent
   let state: "success" | "pending" = "success"
   let description = inputs.commitStatusDescriptionWithSuccess
 
-  const noBlockLabelFound = payload.pull_request.labels.find(
-    (l: any /* TODO: remove this type */) => l.name === inputs.noBlockLabel
-  )
+  // TODO: Remove the type `any` for `l`
+  //       eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const noBlockLabelFound = payload.pull_request.labels.find((l: any) => l.name === inputs.noBlockLabel)
   if (noBlockLabelFound == null && shouldBlock(inputs)) {
     state = "pending"
     description = inputs.commitStatusDescriptionWhileBlocking
