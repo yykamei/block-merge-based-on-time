@@ -11503,10 +11503,22 @@
       "date": "2021-05-13"
     },
     {
+      "id": "20210514_buk636e632ero6f7ndasofpivo",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "date": "2021-05-14"
+    },
+    {
       "id": "20210520_ejndci6t5fjvhpeh7rribbarhc",
       "status": "confirmed",
       "summary": "National Day",
       "date": "2021-05-20"
+    },
+    {
+      "id": "20210719_8ap3ho7sbu37mqaa31rm8jj5is",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "date": "2021-07-19"
     },
     {
       "id": "20210720_r78evtou2rggcvrdkr0jhfem9k",
@@ -41307,7 +41319,7 @@
       "date": "2021-07-26"
     },
     {
-      "id": "20210727_d47ujnq7hvr390ad9m3bbveu4g",
+      "id": "20210727_f8th8jvsm04skb7u6avajlr1mc",
       "status": "confirmed",
       "summary": "José Celso Barbosa’s Birthday",
       "date": "2021-07-27"
