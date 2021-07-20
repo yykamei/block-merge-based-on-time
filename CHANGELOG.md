@@ -8,6 +8,10 @@
 
 - Update Holidays in Cameroon [\#83](https://github.com/yykamei/block-merge-based-on-time/pull/83) ([github-actions[bot]](https://github.com/apps/github-actions))
 
+**Merged pull requests:**
+
+- Bump @vercel/ncc from 0.28.6 to 0.29.0 [\#81](https://github.com/yykamei/block-merge-based-on-time/pull/81) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.0](https://github.com/yykamei/block-merge-based-on-time/tree/v1.0.0) (2021-07-18)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v0.4.0...v1.0.0)
