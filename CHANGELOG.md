@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- Update Holidays [\#94](https://github.com/yykamei/block-merge-based-on-time/pull/94) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Update Holidays in Cameroon [\#83](https://github.com/yykamei/block-merge-based-on-time/pull/83) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 **Merged pull requests:**
