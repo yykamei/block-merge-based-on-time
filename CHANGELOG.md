@@ -11,6 +11,7 @@
 **Merged pull requests:**
 
 - Bump @typescript-eslint/parser from 4.28.3 to 4.28.4 [\#87](https://github.com/yykamei/block-merge-based-on-time/pull/87) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 4.28.3 to 4.28.4 [\#84](https://github.com/yykamei/block-merge-based-on-time/pull/84) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump eslint from 7.30.0 to 7.31.0 [\#82](https://github.com/yykamei/block-merge-based-on-time/pull/82) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @vercel/ncc from 0.28.6 to 0.29.0 [\#81](https://github.com/yykamei/block-merge-based-on-time/pull/81) ([dependabot[bot]](https://github.com/apps/dependabot))
 
