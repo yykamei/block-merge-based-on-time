@@ -9,7 +9,6 @@ fi
 
 if [[ -n "${BRANCH:+y}" ]]; then
   git checkout -b "$BRANCH"
-  git push --set-upstream origin "$BRANCH"
 fi
 git config user.name github-actions
 git config user.email github-actions@github.com
