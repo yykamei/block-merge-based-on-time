@@ -13,15 +13,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
-      - run: git diff --exit-code --quiet
-        id: git_diff
-        continue-on-error: true
-      - name: Push changes
-        if: steps.git_diff.outcome == 'failure'
-        run: |
-          git checkout ${{ github.event.pull_request.head.ref }}
-          git add -A
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git commit -m 'Run `npm run build`'
-          git push
+      - name: git-push(1)
+        run: ./scripts/git-push.sh
+        env:
+          COMMIT_MESSAGE: "Run `npm run build`"
+          BRANCH: ${{ github.event.pull_request.head.ref }}
