@@ -26,8 +26,6 @@ cat /tmp/notes.txt
 
 git tag --force "$MINOR_TAG"
 git tag --force "$MAJOR_TAG"
-git show "$MINOR_TAG"
-git show "$MAJOR_TAG"
 
 if [[ "$APPLY" == "true" ]]; then
   gh release create "$FUTURE_RELEASE" --title "$RELEASE_TITLE" --notes-file /tmp/notes.txt
