@@ -23,5 +23,6 @@ export interface HolidayEntry {
   readonly id: string
   readonly status: string
   readonly summary: string
+  readonly region: string
   readonly date: string
 }

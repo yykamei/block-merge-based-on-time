@@ -267,7 +267,7 @@ const url = (calendarId: string) => {
   return u
 }
 
-const fetch = (calendarId: string): Promise<HolidayEntry[]> => {
+const fetch = (region: string, calendarId: string): Promise<HolidayEntry[]> => {
   return new Promise((resolve, reject) => {
     https.get(url(calendarId), (res) => {
       const { statusMessage, statusCode } = res
@@ -289,6 +289,7 @@ const fetch = (calendarId: string): Promise<HolidayEntry[]> => {
                 id,
                 status,
                 summary,
+                region,
                 date: start.date,
               }
             })
@@ -304,7 +305,7 @@ const fetch = (calendarId: string): Promise<HolidayEntry[]> => {
 const fetchAll = async () => {
   const holidays: Holidays = {}
   for (const [region, calendarId] of Object.entries(calendars)) {
-    holidays[region] = await fetch(calendarId)
+    holidays[region] = await fetch(region, calendarId)
   }
   return holidays
 }
