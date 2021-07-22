@@ -17,3 +17,4 @@ jobs:
         run: ./scripts/git-push.sh
         env:
           COMMIT_MESSAGE: "Run `npm run build`"
+          BRANCH: ${{ github.event.pull_request.head.ref }}
