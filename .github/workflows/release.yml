@@ -6,7 +6,7 @@ on:
         description: version. The next release version (without prefix v)
         required: true
       apply:
-        description: apply. Specify whether the atcual release should be performed or not
+        description: apply. Specify whether the actual release should be performed or not
         default: "false"
         required: true
 jobs:
