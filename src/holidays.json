@@ -3753,13 +3753,25 @@
       "date": "2021-06-28"
     },
     {
-      "id": "20210720_bme5unnmnhjrmgj545o6b5hcb4",
+      "id": "20210718_clkovg1a4vcj7jurkb4dba6ghs",
+      "status": "confirmed",
+      "summary": "Feast of the Sacrifice",
+      "date": "2021-07-18"
+    },
+    {
+      "id": "20210719_th728dkb31kav8h3v8fpih3nuk",
+      "status": "confirmed",
+      "summary": "Feast of the Sacrifice (day 2)",
+      "date": "2021-07-19"
+    },
+    {
+      "id": "20210720_unt285ke5bft1u4sh4l7av88g0",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice",
       "date": "2021-07-20"
     },
     {
-      "id": "20210721_s75ugh9hd9befovdjm9h2v3lt4",
+      "id": "20210721_c34gh2nepkuih6gu4teqf3kfj4",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice (day 2)",
       "date": "2021-07-21"
@@ -21145,10 +21157,10 @@
       "date": "2021-05-13"
     },
     {
-      "id": "20210720_jru4vagv75s76f8if9iqd96ps0",
+      "id": "20210721_ovmap8r0ughq8cm32rrbek94b8",
       "status": "confirmed",
       "summary": "Eid al-Adha",
-      "date": "2021-07-20"
+      "date": "2021-07-21"
     },
     {
       "id": "20210803_vb55426rg01ar6r4lppucnqcrs",
@@ -21291,10 +21303,10 @@
       "date": "2021-07-05"
     },
     {
-      "id": "20210720_k7ablate1ollepghn3luihbp98",
+      "id": "20210721_g244rmgth8o0fmi50j7749vik0",
       "status": "confirmed",
       "summary": "Eid ul Adha",
-      "date": "2021-07-20"
+      "date": "2021-07-21"
     },
     {
       "id": "20210801_fj67q4ct17oecon2njlrcjghkg",
@@ -22229,7 +22241,7 @@
       "date": "2021-04-02"
     },
     {
-      "id": "20210404_u38kptf4n6ht6p3ua408mub2so",
+      "id": "20210404_ku6mopl8d196eai3vq11gsucgc",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "date": "2021-04-04"
@@ -22313,10 +22325,22 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220314_lsgc024qscepc9nj9qlu4ske98",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "date": "2022-03-14"
+    },
+    {
       "id": "20220315_4m07jb14doed2v6os7895a4d10",
       "status": "confirmed",
       "summary": "1848 Revolution Memorial Day",
       "date": "2022-03-15"
+    },
+    {
+      "id": "20220326_886c6raf7hppg4et3ss8cpbq8c",
+      "status": "confirmed",
+      "summary": "Extra Work Day",
+      "date": "2022-03-26"
     },
     {
       "id": "20220415_9vgqc1iv6jv6u9agvql8viqimk",
@@ -22325,7 +22349,7 @@
       "date": "2022-04-15"
     },
     {
-      "id": "20220417_0vcq54tao8jv9g7gddfg3n812o",
+      "id": "20220417_o76s2uig2jdugap3sc6jo1u03o",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "date": "2022-04-17"
@@ -22361,10 +22385,22 @@
       "date": "2022-08-20"
     },
     {
+      "id": "20221015_p7tfv8cm63vfcvst19mq4m2lcc",
+      "status": "confirmed",
+      "summary": "Extra Work Day",
+      "date": "2022-10-15"
+    },
+    {
       "id": "20221023_udptfdq3iqo55cbt7ci27hoacc",
       "status": "confirmed",
       "summary": "1956 Revolution Memorial Day",
       "date": "2022-10-23"
+    },
+    {
+      "id": "20221031_guju8b8f03d32q20qt5kr8nbd8",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "date": "2022-10-31"
     },
     {
       "id": "20221101_2ht1o38jusa207coclvfroeh7s",
@@ -27113,15 +27149,9 @@
       "date": "2021-07-06"
     },
     {
-      "id": "20210720_c4b9efeaopkfrfj64efk19f4vg",
+      "id": "20210721_mur2q3c0ufhcso4rlj5cgrbabk",
       "status": "confirmed",
       "summary": "Eid al-Adha",
-      "date": "2021-07-20"
-    },
-    {
-      "id": "20210721_96jdo903b1m1htdmcjgps32n60",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
       "date": "2021-07-21"
     },
     {
@@ -38289,10 +38319,10 @@
       "date": "2021-05-29"
     },
     {
-      "id": "20210720_n3rgrbsds55apc6rv5rvm69ssc",
+      "id": "20210721_drrha2atjucslb59spsl92mdas",
       "status": "confirmed",
       "summary": "Edul Aajaha",
-      "date": "2021-07-20"
+      "date": "2021-07-21"
     },
     {
       "id": "20210822_cj00c4ip4gkds0fvhsn6ch33cs",
@@ -43049,6 +43079,12 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220102_asql9obmrv1p0mss7h0kp90qp4",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "date": "2022-01-02"
+    },
+    {
       "id": "20220103_gdttfuckgabi5gvvgdv9u2r458",
       "status": "confirmed",
       "summary": "New Year Holiday",
@@ -43079,10 +43115,28 @@
       "date": "2022-01-07"
     },
     {
+      "id": "20220108_6j0setpl0sfk1ops4soq9h0a0c",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "date": "2022-01-08"
+    },
+    {
+      "id": "20220109_vo8rdmgjpcpcq9qmm53971ro5k",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "date": "2022-01-09"
+    },
+    {
       "id": "20220223_udeho2jbg6bb32j8crrrt71v3c",
       "status": "confirmed",
       "summary": "Defender of the Fatherland Day",
       "date": "2022-02-23"
+    },
+    {
+      "id": "20220307_3if548jkbdbi17f68m8rcf4vqs",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "date": "2022-03-07"
     },
     {
       "id": "20220308_1u4oc2lhgprcpt7qpu9k5h4440",
@@ -43103,10 +43157,22 @@
       "date": "2022-05-02"
     },
     {
+      "id": "20220503_ophdprrvdoq6ellq2mhegpbm60",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "date": "2022-05-03"
+    },
+    {
       "id": "20220509_4r6fdt27hngomo8o5n879a18ns",
       "status": "confirmed",
       "summary": "Victory Day",
       "date": "2022-05-09"
+    },
+    {
+      "id": "20220510_rusvuvb35v58h090utgfbsk2tk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "date": "2022-05-10"
     },
     {
       "id": "20220612_tfa4pjgcpj4qbvosiro6615io4",
@@ -43739,6 +43805,30 @@
       "date": "2021-05-17"
     },
     {
+      "id": "20210715_ou7lgbvk2f68n3ag5prl3g4qu8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-15"
+    },
+    {
+      "id": "20210716_env2bljpvojhedb3saigtct4cc",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-16"
+    },
+    {
+      "id": "20210717_54p3ju5t80sj12o38kun8eqm6c",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-17"
+    },
+    {
+      "id": "20210718_p6gip33dr0ogolq1idb2n04hn0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-18"
+    },
+    {
       "id": "20210719_t2lcor61irj5ufhmi4d6spjdus",
       "status": "confirmed",
       "summary": "Arafat Day",
@@ -44213,9 +44303,15 @@
       "date": "2021-05-16"
     },
     {
-      "id": "20210719_lkenlj5piudekipavebv3qcjho",
+      "id": "20210718_d8o7qq7av7ij3s2m974erhu7v0",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-18"
+    },
+    {
+      "id": "20210719_hnj9dhmp9cm6kmsjrs4805j1c8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "date": "2021-07-19"
     },
     {
@@ -44225,22 +44321,16 @@
       "date": "2021-07-20"
     },
     {
-      "id": "20210721_n7n87nu915i6t2i2fgm7eqns9s",
+      "id": "20210721_6qpb1ruks8v9k2l0j8rdjbjbdk",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "date": "2021-07-21"
     },
     {
-      "id": "20210722_4q08tg82l2ugoi2rbebuhvgnjg",
+      "id": "20210722_oj9mcothkio1v73pvl4ignkgpg",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "date": "2021-07-22"
-    },
-    {
-      "id": "20210723_jain6o6klnloli7a57jt2v55pc",
-      "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
-      "date": "2021-07-23"
     },
     {
       "id": "20210810_5uluembab7hqn8oel16tl95rf0",
@@ -44303,9 +44393,9 @@
       "date": "2022-05-06"
     },
     {
-      "id": "20220709_gs4otm1n0tvbm7vkqva5h0q0bs",
+      "id": "20220709_pdgeh5ehi1r6ak86podc67f0tc",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "date": "2022-07-09"
     },
     {
@@ -44315,21 +44405,21 @@
       "date": "2022-07-10"
     },
     {
-      "id": "20220711_vhc850mq49e40vkojtscps1lg8",
+      "id": "20220711_dt35pmsurdgcnbq4fha9hd96o4",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "date": "2022-07-11"
     },
     {
-      "id": "20220712_a6bm1mtmk7304nhi4ap7bd9t6c",
+      "id": "20220712_cn3olrjkbqjbqee9lmvis3p1tc",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "date": "2022-07-12"
     },
     {
-      "id": "20220713_j530fm3c6p479mpfkrt4m9b7r0",
+      "id": "20220713_rc2pcd1a6e8ipkk166phi1iuho",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "date": "2022-07-13"
     },
     {
@@ -47259,6 +47349,18 @@
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "date": "2021-07-20"
+    },
+    {
+      "id": "20210721_hfs01vh8nb2e65tfte1239il24",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-21"
+    },
+    {
+      "id": "20210722_kgrlscsmni5frk3kbqtbtr872o",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-22"
     },
     {
       "id": "20210730_3fpt2ilvk2v0mrj5gj233ecsgs",
@@ -50475,6 +50577,18 @@
       "date": "2021-07-20"
     },
     {
+      "id": "20210721_iqv7e2p17rimij42rp7dqke2ks",
+      "status": "confirmed",
+      "summary": "Kurban Bayramy Holiday",
+      "date": "2021-07-21"
+    },
+    {
+      "id": "20210722_cm53h9fet3r0o9s4i00vhgvf0c",
+      "status": "confirmed",
+      "summary": "Kurban Bayramy Holiday",
+      "date": "2021-07-22"
+    },
+    {
       "id": "20210911_30o2erjqvlg3j9i2lmjmed3vpo",
       "status": "confirmed",
       "summary": "Day of the Workers in the Energy Sector",
@@ -52225,7 +52339,7 @@
       "date": "2021-04-04"
     },
     {
-      "id": "20210405_csvi5fdgbucjtg6ea3i27qcbj0",
+      "id": "20210405_a5883d339k58tte3vonltutc2g",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "date": "2021-04-05"
@@ -52381,7 +52495,7 @@
       "date": "2022-04-17"
     },
     {
-      "id": "20220418_0qu2it5pe6pg0p9o3udfki33ns",
+      "id": "20220418_fao3c0feipsj6j3r3cq0ko98oc",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "date": "2022-04-18"
@@ -53479,6 +53593,18 @@
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "date": "2021-07-20"
+    },
+    {
+      "id": "20210721_ch0sgqbr43jr7g9iq6fahnf70g",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-21"
+    },
+    {
+      "id": "20210722_h13psfspmfdm329ufjrpppj4tk",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "date": "2021-07-22"
     },
     {
       "id": "20210901_idepl1lejcbbtj08bv9e2hp9gk",
