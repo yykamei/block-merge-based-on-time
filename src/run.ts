@@ -7,7 +7,6 @@ import { shouldBlock } from "./should-block"
 
 export async function run(): Promise<void> {
   const inputs = new Inputs()
-  console.log('test')
 
   switch (context.eventName) {
     case "schedule":
