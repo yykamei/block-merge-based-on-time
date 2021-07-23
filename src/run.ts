@@ -66,15 +66,19 @@ async function handlePull(inputs: Inputs, payload: any): Promise<void> {
   const owner = payload.repository.owner.login
   const repo = payload.repository.name
   const sha = payload.pull_request.head.sha
+  const baseRef = payload.pull_request.base.ref
   const context = inputs.commitStatusContext
   const target_url = inputs.commitStatusURL || undefined
   let state: "success" | "pending" = "success"
   let description = inputs.commitStatusDescriptionWithSuccess
+  const defaultBranch = await fetchDefaultBranch(inputs, owner, repo)
+  const baseBranches = inputs.baseBranches(defaultBranch)
 
+  // NOTE: We ignore pull requests that will not be merged into `baseBranches`.
   // TODO: Remove the type `any` for `l`
   //       eslint-disable-next-line @typescript-eslint/no-explicit-any
   const noBlockLabelFound = payload.pull_request.labels.find((l: any) => l.name === inputs.noBlockLabel)
-  if (noBlockLabelFound == null && shouldBlock(inputs)) {
+  if (baseBranches.some((b) => b.test(baseRef)) && noBlockLabelFound == null && shouldBlock(inputs)) {
     state = "pending"
     description = inputs.commitStatusDescriptionWhileBlocking
   }

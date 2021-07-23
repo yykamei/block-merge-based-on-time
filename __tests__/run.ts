@@ -598,6 +598,13 @@ describe("run", () => {
   describe("when the event is pull_request", () => {
     beforeEach(() => {
       Object.defineProperty(github.context, "eventName", { value: "pull_request" })
+      octokit.graphql.mockResolvedValueOnce({
+        repository: {
+          defaultBranchRef: {
+            name: "main",
+          },
+        },
+      })
     })
 
     test.each([
@@ -605,36 +612,42 @@ describe("run", () => {
         state: "success",
         description: "The PR could be merged",
         labels: [{ name: "bug" }, { name: "project A" }],
+        baseRef: "main",
         time: "2021-06-17T09:48:00-10:00",
       },
       {
         state: "success",
         description: "The PR could be merged",
         labels: [{ name: "bug" }, { name: "project A" }],
+        baseRef: "main",
         time: "2021-06-17T09:48:00-10:00",
       },
       {
         state: "success",
         description: "The PR could be merged",
         labels: [{ name: "Emergency" }],
+        baseRef: "main",
         time: "2021-06-17T13:30:00-10:00",
       },
       {
         state: "success",
         description: "The PR could be merged",
         labels: [{ name: "Emergency" }, { name: "project A" }],
+        baseRef: "main",
         time: "2021-06-17T13:30:00-10:00",
       },
       {
         state: "pending",
         description: "The PR can't be merged based on time, which is due to your organization's policy",
         labels: [{ name: "bug" }],
+        baseRef: "main",
         time: "2021-06-17T13:30:00-10:00",
       },
       {
         state: "pending",
         description: "The PR can't be merged based on time, which is due to your organization's policy",
         labels: [{ name: "bug" }],
+        baseRef: "main",
         time: "2021-06-17T13:30:00-10:00",
       },
     ])(
@@ -644,7 +657,7 @@ describe("run", () => {
         Object.defineProperty(github.context, "payload", {
           value: {
             repository: { owner: { login: "foo" }, name: "special-repo" },
-            pull_request: { head: { sha: "abcdefg" }, labels },
+            pull_request: { base: { ref: "main" }, head: { sha: "abcdefg" }, labels },
           },
         } as any)
         await run()
@@ -659,6 +672,68 @@ describe("run", () => {
         })
       }
     )
+
+    describe("when base-branches is set", () => {
+      beforeEach(() => {
+        getInput.mockClear()
+        getInput = jest.spyOn(core, "getInput").mockImplementation(
+          (name) =>
+            ({
+              token: "abc",
+              after: "12:20",
+              before: "16:00",
+              timezone: "Pacific/Honolulu",
+              "prohibited-days-dates": "Sunday, 2021-07-01",
+              "no-block-label": "Emergency",
+              "commit-status-context": "",
+              "commit-status-description-with-success": "",
+              "commit-status-description-while-blocking": "",
+              "commit-status-url": "",
+              "base-branches": "(default), develop, /^feature\\/.*/",
+            }[name] as any)
+        )
+      })
+      test.each([
+        {
+          state: "pending",
+          baseRef: "main",
+        },
+        {
+          state: "pending",
+          baseRef: "feature/one",
+        },
+        {
+          state: "pending",
+          baseRef: "develop",
+        },
+        {
+          state: "success",
+          baseRef: "misc/one",
+        },
+        {
+          state: "success",
+          baseRef: "staging",
+        },
+      ])("makes the pull request $state when $baseRef is passed", async ({ state, baseRef }) => {
+        jest.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
+        Object.defineProperty(github.context, "payload", {
+          value: {
+            repository: { owner: { login: "foo" }, name: "special-repo" },
+            pull_request: { base: { ref: baseRef }, head: { sha: "abcdefg" }, labels: [] },
+          },
+        } as any)
+        await run()
+        expect(octokit.rest.repos.createCommitStatus).toHaveBeenCalledWith({
+          owner: "foo",
+          repo: "special-repo",
+          sha: "abcdefg",
+          state,
+          context: "block-merge-based-on-time",
+          description: expect.any(String),
+          target_url: undefined,
+        })
+      })
+    })
   })
 
   describe.each([["push", "release", "create"]])("when the event is %s", (event) => {
