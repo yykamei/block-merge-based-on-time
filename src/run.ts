@@ -162,7 +162,7 @@ query($owner: String!, $repo: String!) {
       name
     }
   }
-`,
+}`,
     { owner, repo }
   )
   return res.repository.defaultBranchRef.name
