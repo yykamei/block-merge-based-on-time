@@ -16,6 +16,7 @@ export class Inputs {
   public readonly commitStatusDescriptionWithSuccess: string
   public readonly commitStatusDescriptionWhileBlocking: string
   public readonly commitStatusURL: string | null
+  private readonly rawBaseBranches: string[]
 
   constructor() {
     this.token = getInput("token", { required: true })
@@ -37,6 +38,20 @@ export class Inputs {
     )
     // NOTE: If the string is empty, we're not sure where we should refer to. So, `||` is appropriate here instead of `??`.
     this.commitStatusURL = getInput("commit-status-url") || null
+    this.rawBaseBranches = getInput("base-branches")
+      .split(/,\s*/)
+      .filter((v) => v !== "")
+  }
+
+  public baseBranches(defaultBranch: string): RegExp[] {
+    return this.rawBaseBranches.map((v) => {
+      if (v === "(default)") {
+        return new RegExp(`^${escapeRegExpCharacters(defaultBranch)}$`)
+      } else if (v.startsWith("/") && v.endsWith("/")) {
+        return new RegExp(v.replace(/^\/(.*)\/$/, "$1"))
+      }
+      return new RegExp(`^${escapeRegExpCharacters(v)}$`)
+    })
   }
 }
 
@@ -163,4 +178,10 @@ function prohibitedDaysDates(zone: Zone): DaysDates {
  */
 function stringOr(str: string, alt: string): string {
   return str || alt
+}
+
+// NOTE: I followed this guide.
+//       https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions#escaping
+function escapeRegExpCharacters(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
 }

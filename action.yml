@@ -10,6 +10,10 @@ inputs:
   timezone:
     description: Time zone to use
     required: true
+  base-branches:
+    description: The comma-separated base branches of pull requests. This tool will block only pull requests the base branches of which are listed in this parameter. You can set regular expressions surrounding with `/` like `/staging\/.*/` and just set string literals like `develop`. Also, the value `(default)` is acceptable, which means pull requests that will be merged into the default branch will be blocked. The default value is `/^.*$/` for backward compatibility.
+    required: false
+    default: "/^.*$/"
   prohibited-days-dates:
     description: The comma-separated days or dates to stop blocking merge for all day. You can also specify regional holidays with special syntax, such as "H:St. Barthélemy" and "BH:St. Barthélemy", which stand for "holidays of St. Barthélemy" and "before holidays of St. Barthélemy." The word after "H:" or "BH:" is a region name that is listed in `src/holidays.json` as a JSON key. For example, the value could be "Sunday, 2021-08-01, 2021-08-06/2021-08-10, H:Côte d’Ivoire"
     required: false

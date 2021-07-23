@@ -27,6 +27,7 @@ describe("Inputs", () => {
           "commit-status-description-with-success": "OK",
           "commit-status-description-while-blocking": "Blocked!",
           "commit-status-url": "https://example.com",
+          "base-branches": "/^.*$/",
         }[name] as any)
     )
     const inputs = new Inputs()
@@ -68,6 +69,7 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "OK")
     expect(inputs).toHaveProperty("commitStatusDescriptionWhileBlocking", "Blocked!")
     expect(inputs).toHaveProperty("commitStatusURL", "https://example.com")
+    expect(inputs).toHaveProperty("rawBaseBranches", ["/^.*$/"])
   })
 
   test("returns a valid instance when empty strings were explicitly passed", () => {
@@ -85,6 +87,7 @@ describe("Inputs", () => {
           "commit-status-description-with-success": "",
           "commit-status-description-while-blocking": "",
           "commit-status-url": "",
+          "base-branches": "",
         }[name] as any)
     )
     const inputs = new Inputs()
@@ -114,6 +117,7 @@ describe("Inputs", () => {
       "The PR can't be merged based on time, which is due to your organization's policy"
     )
     expect(inputs).toHaveProperty("commitStatusURL", null)
+    expect(inputs).toHaveProperty("rawBaseBranches", [])
   })
 
   test("returns a valid instance with the ranged dates for prohibited-days-dates", () => {
@@ -126,6 +130,7 @@ describe("Inputs", () => {
           before: "16:00",
           timezone: "Pacific/Honolulu",
           "prohibited-days-dates": "Sunday, 2021-07-30, 2021-08-06/2021-08-10",
+          "base-branches": "(default)",
         }[name] as any)
     )
     const inputs = new Inputs()
@@ -201,6 +206,7 @@ describe("Inputs", () => {
           "commit-status-description-with-success": "",
           "commit-status-description-while-blocking": "",
           "commit-status-url": "",
+          "base-branches": "main",
         }[name] as any)
     )
     const inputs = new Inputs()
@@ -235,6 +241,7 @@ describe("Inputs", () => {
       "The PR can't be merged based on time, which is due to your organization's policy"
     )
     expect(inputs).toHaveProperty("commitStatusURL", null)
+    expect(inputs).toHaveProperty("rawBaseBranches", ["main"])
   })
 
   test("returns a valid instance with the regional holidays", () => {
@@ -252,6 +259,7 @@ describe("Inputs", () => {
           "commit-status-description-with-success": "",
           "commit-status-description-while-blocking": "",
           "commit-status-url": "",
+          "base-branches": "main",
         }[name] as any)
     )
     const inputs = new Inputs()
@@ -313,6 +321,87 @@ describe("Inputs", () => {
       "The PR can't be merged based on time, which is due to your organization's policy"
     )
     expect(inputs).toHaveProperty("commitStatusURL", null)
+    expect(inputs).toHaveProperty("rawBaseBranches", ["main"])
+  })
+
+  test("returns a valid instance with base branches", () => {
+    const inSpy = jest.spyOn(core, "getInput")
+    inSpy.mockImplementation(
+      (name) =>
+        ({
+          token: "abc",
+          after: "17:30",
+          before: "09:00",
+          timezone: "Europe/Madrid",
+          "prohibited-days-dates": "H:Spain, BH:Spain",
+          "no-block-label": "",
+          "commit-status-context": "",
+          "commit-status-description-with-success": "",
+          "commit-status-description-while-blocking": "",
+          "commit-status-url": "",
+          "base-branches": "develop, feature/special",
+        }[name] as any)
+    )
+    const inputs = new Inputs()
+    expect(inputs).toHaveProperty("token", "abc")
+    expect(inputs).toHaveProperty("after", {
+      base: DateTime.fromObject({
+        hour: 17,
+        minute: 30,
+        zone: "Europe/Madrid",
+      }),
+    })
+    expect(inputs).toHaveProperty("before", {
+      base: DateTime.fromObject({
+        hour: 9,
+        minute: 0,
+        zone: "Europe/Madrid",
+      }),
+    })
+    expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
+    expect(inputs).toHaveProperty("prohibitedDays", [])
+    expect(inputs.prohibitedDates.length).toEqual(286)
+    expect(inputs.prohibitedDates).toContainEqual(
+      Interval.fromDateTimes(
+        DateTime.fromObject({
+          year: 2022,
+          month: 1,
+          day: 23,
+          zone: "Europe/Madrid",
+        }).startOf("day"),
+        DateTime.fromObject({
+          year: 2022,
+          month: 1,
+          day: 23,
+          zone: "Europe/Madrid",
+        }).endOf("day")
+      )
+    )
+    expect(inputs.prohibitedDates).toContainEqual(
+      Interval.fromDateTimes(
+        DateTime.fromObject({
+          year: 2022,
+          month: 1,
+          day: 22,
+          zone: "Europe/Madrid",
+        }).startOf("day"),
+        DateTime.fromObject({
+          year: 2022,
+          month: 1,
+          day: 22,
+          zone: "Europe/Madrid",
+        }).endOf("day")
+      )
+    )
+    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
+    expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
+    expect(inputs).toHaveProperty(
+      "commitStatusDescriptionWhileBlocking",
+      "The PR can't be merged based on time, which is due to your organization's policy"
+    )
+    expect(inputs).toHaveProperty("commitStatusURL", null)
+    expect(inputs).toHaveProperty("rawBaseBranches", ["develop", "feature/special"])
   })
 
   test("returns an error with invalid zone", () => {
@@ -384,5 +473,27 @@ describe("Inputs", () => {
         }[name] as any)
     )
     expect(() => new Inputs()).toThrow(new Error('the input "mm/20:13" can\'t be parsed as ISO 8601'))
+  })
+
+  describe("baseBranches()", () => {
+    const inSpy = jest.spyOn(core, "getInput")
+    inSpy.mockImplementation(
+      (name) =>
+        ({
+          token: "abc",
+          after: "17:30",
+          before: "09:00",
+          timezone: "Europe/Madrid",
+          "prohibited-days-dates": "H:Spain, BH:Spain",
+          "no-block-label": "",
+          "commit-status-context": "",
+          "commit-status-description-with-success": "",
+          "commit-status-description-while-blocking": "",
+          "commit-status-url": "",
+          "base-branches": "(default), special/one, /^feature\\/.*/",
+        }[name] as any)
+    )
+    const inputs = new Inputs()
+    expect(inputs.baseBranches("main")).toEqual([/^main$/, /^special\/one$/, /^feature\/.*/])
   })
 })

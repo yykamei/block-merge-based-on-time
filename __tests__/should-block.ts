@@ -80,7 +80,8 @@ describe("shouldBlock", () => {
       jest.setSystemTime(new Date(now))
       const inSpy = jest.spyOn(core, "getInput")
       inSpy.mockImplementation(
-        (name) => ({ after, before, timezone, "prohibited-days-dates": prohibited }[name] as any)
+        (name) =>
+          ({ after, before, timezone, "prohibited-days-dates": prohibited, "base-branches": "/^.*$/" }[name] as any)
       )
 
       const inputs = new Inputs()

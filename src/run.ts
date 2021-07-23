@@ -24,7 +24,8 @@ export async function run(): Promise<void> {
 async function handleAllPulls(inputs: Inputs): Promise<void> {
   const octokit = getOctokit(inputs.token)
   const { owner, repo } = context.repo
-  const statuses = await fetchPullRequestStatuses(inputs, owner, repo)
+  const defaultBranch = await fetchDefaultBranch(inputs, owner, repo)
+  const statuses = await fetchPullRequestStatuses(inputs, owner, repo, defaultBranch)
 
   const runBulk = (state: "pending" | "success") => {
     statuses.forEach((s) => {
@@ -99,6 +100,14 @@ async function handlePull(inputs: Inputs, payload: any): Promise<void> {
   }
 }
 
+interface DefaultBranchResponse {
+  readonly repository: {
+    readonly defaultBranchRef: {
+      readonly name: string
+    }
+  }
+}
+
 interface StatusesResponse {
   readonly repository: {
     readonly pullRequests: {
@@ -110,6 +119,9 @@ interface StatusesResponse {
         readonly node: {
           readonly number: number
           readonly title: string
+          readonly baseRef: {
+            readonly name: string
+          }
           readonly labels: {
             readonly edges: {
               readonly node: {
@@ -146,8 +158,30 @@ interface MyPullRequestStatus {
   readonly state?: string
 }
 
-async function fetchPullRequestStatuses(inputs: Inputs, owner: string, repo: string): Promise<MyPullRequestStatus[]> {
+async function fetchDefaultBranch(inputs: Inputs, owner: string, repo: string): Promise<string> {
   const octokit = getOctokit(inputs.token)
+  const res: DefaultBranchResponse = await octokit.graphql(
+    `
+query($owner: String!, $repo: String!) {
+  repository(owner: $owner, name: $repo) {
+    defaultBranchRef {
+      name
+    }
+  }
+`,
+    { owner, repo }
+  )
+  return res.repository.defaultBranchRef.name
+}
+
+async function fetchPullRequestStatuses(
+  inputs: Inputs,
+  owner: string,
+  repo: string,
+  defaultBranch: string
+): Promise<MyPullRequestStatus[]> {
+  const octokit = getOctokit(inputs.token)
+  const baseBranches = inputs.baseBranches(defaultBranch)
   let after: string | null = null
   let hasNextPage = true
   let statuses: MyPullRequestStatus[] = []
@@ -166,6 +200,9 @@ query($owner: String!, $repo: String!, $after: String) {
         node {
           number
           title
+          baseRef {
+            name
+          }
           labels(first: 100) {
             edges {
               node {
@@ -199,14 +236,16 @@ query($owner: String!, $repo: String!, $after: String) {
     hasNextPage = res.repository.pullRequests.pageInfo.hasNextPage
     after = res.repository.pullRequests.pageInfo.endCursor
 
-    const data = res.repository.pullRequests.edges.flatMap((pr) =>
-      pr.node.commits.edges.map((c) => ({
-        number: pr.node.number,
-        sha: c.node.commit.oid,
-        labels: pr.node.labels.edges.map((l) => l.node.name),
-        state: c.node.commit.status?.contexts.find((s) => s.context === inputs.commitStatusContext)?.state,
-      }))
-    )
+    const data = res.repository.pullRequests.edges
+      .filter((pr) => baseBranches.some((b) => b.test(pr.node.baseRef.name)))
+      .flatMap((pr) =>
+        pr.node.commits.edges.map((c) => ({
+          number: pr.node.number,
+          sha: c.node.commit.oid,
+          labels: pr.node.labels.edges.map((l) => l.node.name),
+          state: c.node.commit.status?.contexts.find((s) => s.context === inputs.commitStatusContext)?.state,
+        }))
+      )
     statuses = [...statuses, ...data]
   }
 
