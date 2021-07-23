@@ -79,25 +79,15 @@ async function handlePull(inputs: Inputs, payload: any): Promise<void> {
     description = inputs.commitStatusDescriptionWhileBlocking
   }
 
-  const statuses = await octokit.rest.repos
-    .listCommitStatusesForRef({
-      owner,
-      repo,
-      ref: sha,
-      per_page: 100,
-    })
-    .then((res) => res.data.filter((d) => d.context === context && d.state === state))
-  if (statuses.length === 0) {
-    octokit.rest.repos.createCommitStatus({
-      owner,
-      repo,
-      sha,
-      state,
-      context,
-      description,
-      target_url,
-    })
-  }
+  octokit.rest.repos.createCommitStatus({
+    owner,
+    repo,
+    sha,
+    state,
+    context,
+    description,
+    target_url,
+  })
 }
 
 interface DefaultBranchResponse {

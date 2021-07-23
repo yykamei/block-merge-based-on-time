@@ -8,7 +8,6 @@ describe("run", () => {
     rest: {
       repos: {
         createCommitStatus: jest.fn(),
-        listCommitStatusesForRef: jest.fn(),
       },
     },
   }
@@ -606,59 +605,41 @@ describe("run", () => {
         state: "success",
         description: "The PR could be merged",
         labels: [{ name: "bug" }, { name: "project A" }],
-        statuses: [{ context: "CI", state: "failure" }],
         time: "2021-06-17T09:48:00-10:00",
-        shouldCreate: true,
       },
       {
         state: "success",
         description: "The PR could be merged",
         labels: [{ name: "bug" }, { name: "project A" }],
-        statuses: [
-          { context: "CI", state: "failure" },
-          { context: "block-merge-based-on-time", state: "success" },
-        ],
         time: "2021-06-17T09:48:00-10:00",
-        shouldCreate: false,
       },
       {
         state: "success",
         description: "The PR could be merged",
         labels: [{ name: "Emergency" }],
-        statuses: [{ context: "CI", state: "pending" }],
         time: "2021-06-17T13:30:00-10:00",
-        shouldCreate: true,
       },
       {
         state: "success",
         description: "The PR could be merged",
         labels: [{ name: "Emergency" }, { name: "project A" }],
-        statuses: [
-          { context: "CI", state: "success" },
-          { context: "block-merge-based-on-time", state: "success" },
-        ],
         time: "2021-06-17T13:30:00-10:00",
-        shouldCreate: false,
       },
       {
         state: "pending",
         description: "The PR can't be merged based on time, which is due to your organization's policy",
         labels: [{ name: "bug" }],
-        statuses: [],
         time: "2021-06-17T13:30:00-10:00",
-        shouldCreate: true,
       },
       {
         state: "pending",
         description: "The PR can't be merged based on time, which is due to your organization's policy",
         labels: [{ name: "bug" }],
-        statuses: [{ context: "block-merge-based-on-time", state: "pending" }],
         time: "2021-06-17T13:30:00-10:00",
-        shouldCreate: false,
       },
     ])(
-      "makes the pull request $state with $description when $labels, $statuses, and $time are passed",
-      async ({ state, description, labels, statuses, time, shouldCreate }) => {
+      "makes the pull request $state with $description when $labels, and $time are passed",
+      async ({ state, description, labels, time }) => {
         jest.setSystemTime(new Date(time))
         Object.defineProperty(github.context, "payload", {
           value: {
@@ -666,21 +647,16 @@ describe("run", () => {
             pull_request: { head: { sha: "abcdefg" }, labels },
           },
         } as any)
-        octokit.rest.repos.listCommitStatusesForRef.mockResolvedValue({ data: statuses })
         await run()
-        if (shouldCreate) {
-          expect(octokit.rest.repos.createCommitStatus).toHaveBeenCalledWith({
-            owner: "foo",
-            repo: "special-repo",
-            sha: "abcdefg",
-            state,
-            context: "block-merge-based-on-time",
-            description,
-            target_url: undefined,
-          })
-        } else {
-          expect(octokit.rest.repos.createCommitStatus).not.toHaveBeenCalled()
-        }
+        expect(octokit.rest.repos.createCommitStatus).toHaveBeenCalledWith({
+          owner: "foo",
+          repo: "special-repo",
+          sha: "abcdefg",
+          state,
+          context: "block-merge-based-on-time",
+          description,
+          target_url: undefined,
+        })
       }
     )
   })
