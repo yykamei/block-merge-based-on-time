@@ -8,6 +8,11 @@
 
 - Add a new parameter `base-branches` [\#109](https://github.com/yykamei/block-merge-based-on-time/pull/109) ([yykamei](https://github.com/yykamei))
 
+**Fixed bugs:**
+
+- \[Fix\] Follow up 2c4c3944170476a5f5a56e6d81e7f5388e42e1ec on pull request [\#113](https://github.com/yykamei/block-merge-based-on-time/pull/113) ([yykamei](https://github.com/yykamei))
+- \[Fix\] Always run `createCommitStatus` at the pull request event [\#111](https://github.com/yykamei/block-merge-based-on-time/pull/111) ([yykamei](https://github.com/yykamei))
+
 ## [v1.0.1](https://github.com/yykamei/block-merge-based-on-time/tree/v1.0.1) (2021-07-22)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.0.0...v1.0.1)
