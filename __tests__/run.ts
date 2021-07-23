@@ -673,7 +673,7 @@ describe("run", () => {
       }
     )
 
-    describe("", () => {
+    describe("when base-branches is set", () => {
       beforeEach(() => {
         getInput.mockClear()
         getInput = jest.spyOn(core, "getInput").mockImplementation(
