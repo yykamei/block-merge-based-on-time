@@ -13900,25 +13900,15 @@ function handlePull(inputs, payload) {
             state = "pending";
             description = inputs.commitStatusDescriptionWhileBlocking;
         }
-        const statuses = yield octokit.rest.repos
-            .listCommitStatusesForRef({
+        octokit.rest.repos.createCommitStatus({
             owner,
             repo,
-            ref: sha,
-            per_page: 100,
-        })
-            .then((res) => res.data.filter((d) => d.context === context && d.state === state));
-        if (statuses.length === 0) {
-            octokit.rest.repos.createCommitStatus({
-                owner,
-                repo,
-                sha,
-                state,
-                context,
-                description,
-                target_url,
-            });
-        }
+            sha,
+            state,
+            context,
+            description,
+            target_url,
+        });
     });
 }
 function fetchDefaultBranch(inputs, owner, repo) {
