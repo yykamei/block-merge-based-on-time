@@ -13616,6 +13616,20 @@ class Inputs {
         this.commitStatusDescriptionWhileBlocking = stringOr((0,core.getInput)("commit-status-description-while-blocking"), "The PR can't be merged based on time, which is due to your organization's policy");
         // NOTE: If the string is empty, we're not sure where we should refer to. So, `||` is appropriate here instead of `??`.
         this.commitStatusURL = (0,core.getInput)("commit-status-url") || null;
+        this.rawBaseBranches = (0,core.getInput)("base-branches")
+            .split(/,\s*/)
+            .filter((v) => v !== "");
+    }
+    baseBranches(defaultBranch) {
+        return this.rawBaseBranches.map((v) => {
+            if (v === "(default)") {
+                return new RegExp(`^${escapeRegExpCharacters(defaultBranch)}$`);
+            }
+            else if (v.startsWith("/") && v.endsWith("/")) {
+                return new RegExp(v.replace(/^\/(.*)\/$/, "$1"));
+            }
+            return new RegExp(`^${escapeRegExpCharacters(v)}$`);
+        });
     }
 }
 function timeZone() {
@@ -13738,6 +13752,11 @@ function prohibitedDaysDates(zone) {
 function stringOr(str, alt) {
     return str || alt;
 }
+// NOTE: I followed this guide.
+//       https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions#escaping
+function escapeRegExpCharacters(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
 
 ;// CONCATENATED MODULE: ./src/should-block.ts
 
@@ -13828,7 +13847,8 @@ function handleAllPulls(inputs) {
     return __awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
         const { owner, repo } = github.context.repo;
-        const statuses = yield fetchPullRequestStatuses(inputs, owner, repo);
+        const defaultBranch = yield fetchDefaultBranch(inputs, owner, repo);
+        const statuses = yield fetchPullRequestStatuses(inputs, owner, repo, defaultBranch);
         const runBulk = (state) => {
             statuses.forEach((s) => {
                 var _a;
@@ -13901,9 +13921,24 @@ function handlePull(inputs, payload) {
         }
     });
 }
-function fetchPullRequestStatuses(inputs, owner, repo) {
+function fetchDefaultBranch(inputs, owner, repo) {
     return __awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
+        const res = yield octokit.graphql(`
+query($owner: String!, $repo: String!) {
+  repository(owner: $owner, name: $repo) {
+    defaultBranchRef {
+      name
+    }
+  }
+`, { owner, repo });
+        return res.repository.defaultBranchRef.name;
+    });
+}
+function fetchPullRequestStatuses(inputs, owner, repo, defaultBranch) {
+    return __awaiter(this, void 0, void 0, function* () {
+        const octokit = (0,github.getOctokit)(inputs.token);
+        const baseBranches = inputs.baseBranches(defaultBranch);
         let after = null;
         let hasNextPage = true;
         let statuses = [];
@@ -13920,6 +13955,9 @@ query($owner: String!, $repo: String!, $after: String) {
         node {
           number
           title
+          baseRef {
+            name
+          }
           labels(first: 100) {
             edges {
               node {
@@ -13950,7 +13988,9 @@ query($owner: String!, $repo: String!, $after: String) {
 }`, { owner, repo, after });
             hasNextPage = res.repository.pullRequests.pageInfo.hasNextPage;
             after = res.repository.pullRequests.pageInfo.endCursor;
-            const data = res.repository.pullRequests.edges.flatMap((pr) => pr.node.commits.edges.map((c) => {
+            const data = res.repository.pullRequests.edges
+                .filter((pr) => baseBranches.some((b) => b.test(pr.node.baseRef.name)))
+                .flatMap((pr) => pr.node.commits.edges.map((c) => {
                 var _a, _b;
                 return ({
                     number: pr.node.number,

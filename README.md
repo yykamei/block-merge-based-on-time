@@ -34,6 +34,7 @@ jobs:
         with:
           after: "17:30, 16:30 on Monday"
           before: 09:00
+          base-branches: "(default)"
           timezone: Pacific/Honolulu
           prohibited-days-dates: "Sunday, 2021-10-01, 2021-12-29/2022-01-04, H:United States, BH:United States"
 ```
@@ -47,6 +48,7 @@ These are all available inputs.
 | `after`                                    | The time to start blocking merge. You can set exception time for specific days. For example, the value could be "17:30, 16:30 on Monday"                                                                                                                                                                                                                                                                                                                                                                                                                                  | `true`   | -                                                                                  |
 | `before`                                   | The time to stop blocking merge. You can set exception time for specific days. For example, the value could be "09:00, 08:00 on Monday"                                                                                                                                                                                                                                                                                                                                                                                                                                   | `true`   | -                                                                                  |
 | `timezone`                                 | Time zone to use. Default is UTC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | `true`   | -                                                                                  |
+| `base-branches`                            | The comma-separated base branches of pull requests. This tool will block only pull requests the base branches of which are listed in this parameter. You can set regular expressions surrounding with `/` like `/staging\/.*/` and just set string literals like `develop`. Also, the value `(default)` is acceptable, which means pull requests that will be merged into the default branch will be blocked. The default value is `/^.*$/` for backward compatibility.                                                                                                   | `false`  | `"/^.*$/"`                                                                         |
 | `prohibited-days-dates`                    | The comma-separated days or dates to stop blocking merge for all day. You can also specify regional holidays with special syntax, such as "H:St. Barthélemy" and "BH:St. Barthélemy", which stand for "holidays of St. Barthélemy" and "before holidays of St. Barthélemy." The word after "H:" or "BH:" is a region name that is listed in [`src/holidays.json`](https://raw.githubusercontent.com/yykamei/block-merge-based-on-time/main/src/holidays.json) as a JSON key. For example, the value could be "Sunday, 2021-08-01, 2021-08-06/2021-08-10, H:Côte d’Ivoire" | `false`  | `""`                                                                               |
 | `no-block-label`                           | The label to indicate the pull request should not be blocked                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | `false`  | `no-block`                                                                         |
 | `commit-status-context`                    | The commit status context                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | `false`  | `block-merge-based-on-time`                                                        |
@@ -57,10 +59,14 @@ These are all available inputs.
 
 ## Regional holidays
 
-This tool supports blocking merges based on regional holidays. For example, February 11th is "National Foundation Day" in Japan, and you can block merges on such a holiday via `prohibited-days-dates` with `H:Japan`. In addition, you can also block on the day before the regional holiday with `BH:Japan`.
+This tool supports blocking merges based on regional holidays. For example, February 11th is "National Foundation Day"
+in Japan, and you can block merges on such a holiday via `prohibited-days-dates` with `H:Japan`. In addition, you can
+also block on the day before the regional holiday with `BH:Japan`.
 
-Block Merge Based on Time supports **232** regions, taking advantage of Google Calendar API, and the data is updated periodically.
-See [`src/holidays.json`](https://raw.githubusercontent.com/yykamei/block-merge-based-on-time/main/src/holidays.json) to check all available regions.
+Block Merge Based on Time supports **232** regions, taking advantage of Google Calendar API, and the data is updated
+periodically.
+See [`src/holidays.json`](https://raw.githubusercontent.com/yykamei/block-merge-based-on-time/main/src/holidays.json) to
+check all available regions.
 
 ## Contributing
 
