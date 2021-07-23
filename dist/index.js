@@ -13925,7 +13925,7 @@ query($owner: String!, $repo: String!) {
       name
     }
   }
-`, { owner, repo });
+}`, { owner, repo });
         return res.repository.defaultBranchRef.name;
     });
 }
