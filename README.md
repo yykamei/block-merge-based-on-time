@@ -23,6 +23,7 @@ on:
       - reopened
       - synchronize
       - labeled
+      - unlabeled
   schedule:
     - cron: "*/30 * * * *"
 
