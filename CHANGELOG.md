@@ -16,6 +16,7 @@
 
 **Merged pull requests:**
 
+- \[Refactor\] Add github module, which will be used later [\#118](https://github.com/yykamei/block-merge-based-on-time/pull/118) ([yykamei](https://github.com/yykamei))
 - Bump @types/node from 16.4.0 to 16.4.1 [\#108](https://github.com/yykamei/block-merge-based-on-time/pull/108) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.1](https://github.com/yykamei/block-merge-based-on-time/tree/v1.0.1) (2021-07-22)
