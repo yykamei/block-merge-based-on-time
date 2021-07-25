@@ -135,7 +135,7 @@ export async function pull(
 ): Promise<{ readonly defaultBranch: string; readonly pull: PullRequestStatus }> {
   const result: PullResponse = await octokit.graphql(
     `
-query($owner: String!, $repo: String!, $contextName, String!, $pullNumber: Int!) {
+query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!) {
   repository(owner: $owner, name: $repo) {
     defaultBranchRef {
       name
