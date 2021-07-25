@@ -13869,7 +13869,7 @@ function pull(octokit, owner, repo, contextName, pullNumber) {
     var _a, _b;
     return __awaiter(this, void 0, void 0, function* () {
         const result = yield octokit.graphql(`
-query($owner: String!, $repo: String!, $contextName, String!, $pullNumber: Int!) {
+query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!) {
   repository(owner: $owner, name: $repo) {
     defaultBranchRef {
       name
