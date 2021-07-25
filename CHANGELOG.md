@@ -10,12 +10,15 @@
 
 **Fixed bugs:**
 
+- Fix the GraphQL variable declaration [\#123](https://github.com/yykamei/block-merge-based-on-time/pull/123) ([yykamei](https://github.com/yykamei))
 - Fix the GraphQL query of defaultBranchRef [\#115](https://github.com/yykamei/block-merge-based-on-time/pull/115) ([yykamei](https://github.com/yykamei))
 - \[Fix\] Follow up 2c4c3944170476a5f5a56e6d81e7f5388e42e1ec on pull request [\#113](https://github.com/yykamei/block-merge-based-on-time/pull/113) ([yykamei](https://github.com/yykamei))
 - \[Fix\] Always run `createCommitStatus` at the pull request event [\#111](https://github.com/yykamei/block-merge-based-on-time/pull/111) ([yykamei](https://github.com/yykamei))
 
 **Merged pull requests:**
 
+- \[Refactor\] Use the new APIs to run for scheduled event [\#125](https://github.com/yykamei/block-merge-based-on-time/pull/125) ([yykamei](https://github.com/yykamei))
+- \[Refactor\] Use the new APIs to run for each pull request event [\#121](https://github.com/yykamei/block-merge-based-on-time/pull/121) ([yykamei](https://github.com/yykamei))
 - \[Refactor\] Add github module, which will be used later [\#118](https://github.com/yykamei/block-merge-based-on-time/pull/118) ([yykamei](https://github.com/yykamei))
 - Bump @types/node from 16.4.0 to 16.4.1 [\#108](https://github.com/yykamei/block-merge-based-on-time/pull/108) ([dependabot[bot]](https://github.com/apps/dependabot))
 
