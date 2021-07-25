@@ -1,9 +1,7 @@
 import { context, getOctokit } from "@actions/github"
 import { Inputs } from "./inputs"
 import { shouldBlock } from "./should-block"
-// TODO: Enable this after the problem related to `resolveJsonModule`.
-//       https://github.com/yykamei/block-merge-based-on-time/runs/3097490417
-// import type { PullRequestEvent } from "@octokit/webhooks-definitions/schema"
+import { createCommitStatus, pull } from "./github"
 
 export async function run(): Promise<void> {
   const inputs = new Inputs()
@@ -13,9 +11,7 @@ export async function run(): Promise<void> {
     case "workflow_dispatch":
       return handleAllPulls(inputs)
     case "pull_request":
-      // TODO: Use `PullRequestEvent` for casting of `context.payload`
-      //       eslint-disable-next-line @typescript-eslint/no-explicit-any
-      return handlePull(inputs, context.payload as any)
+      return handlePull(inputs)
     default:
       throw new Error(`This action does not support the event "${context.eventName}"`)
   }
@@ -59,39 +55,23 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
   }
 }
 
-// TODO: Use `PullRequestEvent` for `payload`
-//       eslint-disable-next-line @typescript-eslint/no-explicit-any
-async function handlePull(inputs: Inputs, payload: any): Promise<void> {
+async function handlePull(inputs: Inputs): Promise<void> {
   const octokit = getOctokit(inputs.token)
-  const owner = payload.repository.owner.login
-  const repo = payload.repository.name
-  const sha = payload.pull_request.head.sha
-  const baseRef = payload.pull_request.base.ref
-  const context = inputs.commitStatusContext
-  const target_url = inputs.commitStatusURL || undefined
-  let state: "success" | "pending" = "success"
-  let description = inputs.commitStatusDescriptionWithSuccess
-  const defaultBranch = await fetchDefaultBranch(inputs, owner, repo)
-  const baseBranches = inputs.baseBranches(defaultBranch)
-
-  // NOTE: We ignore pull requests that will not be merged into `baseBranches`.
-  // TODO: Remove the type `any` for `l`
-  //       eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const noBlockLabelFound = payload.pull_request.labels.find((l: any) => l.name === inputs.noBlockLabel)
-  if (baseBranches.some((b) => b.test(baseRef)) && noBlockLabelFound == null && shouldBlock(inputs)) {
-    state = "pending"
-    description = inputs.commitStatusDescriptionWhileBlocking
+  const { owner, repo } = context.repo
+  const number = context.payload.pull_request?.number
+  if (number == null) {
+    throw new Error(`handlePull can only be used for a pull request event`)
   }
+  const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number)
 
-  octokit.rest.repos.createCommitStatus({
-    owner,
-    repo,
-    sha,
-    state,
-    context,
-    description,
-    target_url,
-  })
+  // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
+  const state =
+    inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
+    shouldBlock(inputs) &&
+    !result.pull.labels.includes(inputs.noBlockLabel)
+      ? "pending"
+      : "success"
+  return createCommitStatus(octokit, result.pull, inputs, state)
 }
 
 interface DefaultBranchResponse {
