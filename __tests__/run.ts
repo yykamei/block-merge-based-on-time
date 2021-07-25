@@ -1,6 +1,8 @@
 import * as core from "@actions/core"
 import * as github from "@actions/github"
+import * as api from "../src/github"
 import { run } from "../src/run"
+import { Inputs } from "../src/inputs"
 
 describe("run", () => {
   const octokit = {
@@ -598,142 +600,60 @@ describe("run", () => {
   describe("when the event is pull_request", () => {
     beforeEach(() => {
       Object.defineProperty(github.context, "eventName", { value: "pull_request" })
-      octokit.graphql.mockResolvedValueOnce({
-        repository: {
-          defaultBranchRef: {
-            name: "main",
-          },
-        },
-      })
+      getInput.mockClear()
+      getInput = jest.spyOn(core, "getInput").mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:00",
+            before: "09:00",
+            timezone: "Pacific/Honolulu",
+            "prohibited-days-dates": "",
+            "no-block-label": "Emergency",
+            "commit-status-context": "my-blocker",
+            "commit-status-description-with-success": "",
+            "commit-status-description-while-blocking": "",
+            "commit-status-url": "",
+            "base-branches": "(default), /staging-.*/, /feature/foo/.*/",
+          }[name] as any)
+      )
     })
 
-    test.each([
-      {
-        state: "success",
-        description: "The PR could be merged",
-        labels: [{ name: "bug" }, { name: "project A" }],
-        baseRef: "main",
-        time: "2021-06-17T09:48:00-10:00",
-      },
-      {
-        state: "success",
-        description: "The PR could be merged",
-        labels: [{ name: "bug" }, { name: "project A" }],
-        baseRef: "main",
-        time: "2021-06-17T09:48:00-10:00",
-      },
-      {
-        state: "success",
-        description: "The PR could be merged",
-        labels: [{ name: "Emergency" }],
-        baseRef: "main",
-        time: "2021-06-17T13:30:00-10:00",
-      },
-      {
-        state: "success",
-        description: "The PR could be merged",
-        labels: [{ name: "Emergency" }, { name: "project A" }],
-        baseRef: "main",
-        time: "2021-06-17T13:30:00-10:00",
-      },
-      {
-        state: "pending",
-        description: "The PR can't be merged based on time, which is due to your organization's policy",
-        labels: [{ name: "bug" }],
-        baseRef: "main",
-        time: "2021-06-17T13:30:00-10:00",
-      },
-      {
-        state: "pending",
-        description: "The PR can't be merged based on time, which is due to your organization's policy",
-        labels: [{ name: "bug" }],
-        baseRef: "main",
-        time: "2021-06-17T13:30:00-10:00",
-      },
-    ])(
-      "makes the pull request $state with $description when $labels, and $time are passed",
-      async ({ state, description, labels, time }) => {
-        jest.setSystemTime(new Date(time))
-        Object.defineProperty(github.context, "payload", {
-          value: {
-            repository: { owner: { login: "foo" }, name: "special-repo" },
-            pull_request: { base: { ref: "main" }, head: { sha: "abcdefg" }, labels },
-          },
-        } as any)
+    test.each`
+      baseBranch            | labels                         | expectedState
+      ${"main"}             | ${["bug", "foo"]}              | ${"pending"}
+      ${"main"}             | ${["bug", "Emergency"]}        | ${"success"}
+      ${"develop"}          | ${["bug", "foo"]}              | ${"success"}
+      ${"test"}             | ${["bug", "foo"]}              | ${"success"}
+      ${"feature/bar/1234"} | ${["bug", "foo"]}              | ${"success"}
+      ${"feature/foo/38"}   | ${["bug", "foo"]}              | ${"pending"}
+      ${"feature/foo/39"}   | ${["bug", "foo", "Emergency"]} | ${"success"}
+      ${"staging-qa"}       | ${["bug", "foo"]}              | ${"pending"}
+      ${"staging-qa"}       | ${["bug", "foo", "Emergency"]} | ${"success"}
+    `(
+      "creates a commit status with $expectedState: $baseBranch, $labels",
+      async ({ baseBranch, labels, expectedState }) => {
+        const pullData = {
+          owner: "FAORG",
+          repo: "repo1",
+          number: 324,
+          baseBranch,
+          labels,
+          sha: "commit1",
+        }
+        jest.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
+        const pull = jest.spyOn(api, "pull").mockImplementation(async () => ({
+          defaultBranch: "main",
+          pull: pullData,
+        }))
+        const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+        jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
+        Object.defineProperty(github.context, "payload", { value: { pull_request: { number: 324 } } } as any)
         await run()
-        expect(octokit.rest.repos.createCommitStatus).toHaveBeenCalledWith({
-          owner: "foo",
-          repo: "special-repo",
-          sha: "abcdefg",
-          state,
-          context: "block-merge-based-on-time",
-          description,
-          target_url: undefined,
-        })
+        expect(pull).toHaveBeenCalledWith(octokit, "FAORG", "repo1", "my-blocker", 324)
+        expect(createCommitStatus).toHaveBeenCalledWith(octokit, pullData, expect.any(Inputs), expectedState)
       }
     )
-
-    describe("when base-branches is set", () => {
-      beforeEach(() => {
-        getInput.mockClear()
-        getInput = jest.spyOn(core, "getInput").mockImplementation(
-          (name) =>
-            ({
-              token: "abc",
-              after: "12:20",
-              before: "16:00",
-              timezone: "Pacific/Honolulu",
-              "prohibited-days-dates": "Sunday, 2021-07-01",
-              "no-block-label": "Emergency",
-              "commit-status-context": "",
-              "commit-status-description-with-success": "",
-              "commit-status-description-while-blocking": "",
-              "commit-status-url": "",
-              "base-branches": "(default), develop, /^feature\\/.*/",
-            }[name] as any)
-        )
-      })
-      test.each([
-        {
-          state: "pending",
-          baseRef: "main",
-        },
-        {
-          state: "pending",
-          baseRef: "feature/one",
-        },
-        {
-          state: "pending",
-          baseRef: "develop",
-        },
-        {
-          state: "success",
-          baseRef: "misc/one",
-        },
-        {
-          state: "success",
-          baseRef: "staging",
-        },
-      ])("makes the pull request $state when $baseRef is passed", async ({ state, baseRef }) => {
-        jest.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
-        Object.defineProperty(github.context, "payload", {
-          value: {
-            repository: { owner: { login: "foo" }, name: "special-repo" },
-            pull_request: { base: { ref: baseRef }, head: { sha: "abcdefg" }, labels: [] },
-          },
-        } as any)
-        await run()
-        expect(octokit.rest.repos.createCommitStatus).toHaveBeenCalledWith({
-          owner: "foo",
-          repo: "special-repo",
-          sha: "abcdefg",
-          state,
-          context: "block-merge-based-on-time",
-          description: expect.any(String),
-          target_url: undefined,
-        })
-      })
-    })
   })
 
   describe.each([["push", "release", "create"]])("when the event is %s", (event) => {
