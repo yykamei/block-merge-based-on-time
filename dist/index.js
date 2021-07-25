@@ -13582,7 +13582,7 @@ function wrappy (fn, cb) {
 
 /***/ }),
 
-/***/ 586:
+/***/ 770:
 /***/ ((__unused_webpack_module, __webpack_exports__, __nccwpck_require__) => {
 
 "use strict";
@@ -13811,8 +13811,188 @@ function hour(now, hours) {
     }
 }
 
-;// CONCATENATED MODULE: ./src/run.ts
+;// CONCATENATED MODULE: ./src/github.ts
 var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
+    var _a;
+    return __awaiter(this, void 0, void 0, function* () {
+        if (pullRequestStatus.state === state) {
+            return;
+        }
+        const { owner, repo, sha } = pullRequestStatus;
+        const targetUrl = (_a = inputs.commitStatusURL) !== null && _a !== void 0 ? _a : undefined;
+        const context = inputs.commitStatusContext;
+        let description;
+        switch (state) {
+            case "success": {
+                description = inputs.commitStatusDescriptionWithSuccess;
+                break;
+            }
+            case "pending": {
+                description = inputs.commitStatusDescriptionWhileBlocking;
+                break;
+            }
+        }
+        octokit.rest.repos.createCommitStatus({
+            owner,
+            repo,
+            sha,
+            state,
+            context,
+            description,
+            target_url: targetUrl,
+        });
+    });
+}
+function defaultBranch(octokit, owner, repo) {
+    return __awaiter(this, void 0, void 0, function* () {
+        const result = yield octokit.graphql(`
+query($owner: String!, $repo: String!) {
+  repository(owner: $owner, name: $repo) {
+    defaultBranchRef {
+      name
+    }
+  }
+}`, { owner, repo });
+        return result.repository.defaultBranchRef.name;
+    });
+}
+function pull(octokit, owner, repo, contextName, pullNumber) {
+    var _a, _b;
+    return __awaiter(this, void 0, void 0, function* () {
+        const result = yield octokit.graphql(`
+query($owner: String!, $repo: String!, $contextName, String!, $pullNumber: Int!) {
+  repository(owner: $owner, name: $repo) {
+    defaultBranchRef {
+      name
+    }
+    pullRequest(number: $pullNumber) {
+      number
+      title
+      baseRefName
+      labels(first: 100) {
+        edges {
+          node {
+            name
+          }
+        }
+      }
+      commits(last: 1) {
+        edges {
+          node {
+            commit {
+              oid
+              message
+              status {
+                context(name: $contextName) {
+                  state
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}`, { owner, repo, contextName, pullNumber });
+        const commit = result.repository.pullRequest.commits.edges[0];
+        if (commit == null) {
+            throw new Error("commit should be present");
+        }
+        const pull = {
+            owner,
+            repo,
+            number: pullNumber,
+            baseBranch: result.repository.pullRequest.baseRefName,
+            sha: commit.node.commit.oid,
+            labels: result.repository.pullRequest.labels.edges.map(({ node: { name } }) => name),
+            state: (_b = (_a = commit.node.commit.status) === null || _a === void 0 ? void 0 : _a.context) === null || _b === void 0 ? void 0 : _b.state,
+        };
+        return {
+            defaultBranch: result.repository.defaultBranchRef.name,
+            pull,
+        };
+    });
+}
+function pulls(octokit, owner, repo, contextName) {
+    return __awaiter(this, void 0, void 0, function* () {
+        let after = null;
+        let hasNextPage = true;
+        let statuses = [];
+        while (hasNextPage) {
+            const result = yield octokit.graphql(`
+query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
+  repository(owner: $owner, name: $repo) {
+    defaultBranchRef {
+      name
+    }
+    pullRequests(after: $after, first: 100, states: OPEN, orderBy: { field: CREATED_AT, direction: DESC}) {
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+      edges {
+        node {
+          number
+          title
+          baseRefName
+          labels(first: 100) {
+            edges {
+              node {
+                name
+              }
+            }
+          }
+          commits(last: 1) {
+            edges {
+              node {
+                commit {
+                  oid
+                  message
+                  status {
+                    context(name: $contextName) {
+                      state
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}`, { owner, repo, contextName, after });
+            hasNextPage = result.repository.pullRequests.pageInfo.hasNextPage;
+            after = result.repository.pullRequests.pageInfo.endCursor;
+            const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => pr.commits.edges.map(({ node: commit }) => {
+                var _a, _b;
+                return ({
+                    owner,
+                    repo,
+                    number: pr.number,
+                    baseBranch: pr.baseRefName,
+                    sha: commit.commit.oid,
+                    labels: pr.labels.edges.map((l) => l.node.name),
+                    state: (_b = (_a = commit.commit.status) === null || _a === void 0 ? void 0 : _a.context) === null || _b === void 0 ? void 0 : _b.state,
+                });
+            }));
+            statuses = [...statuses, ...data];
+        }
+        return statuses;
+    });
+}
+
+;// CONCATENATED MODULE: ./src/run.ts
+var run_awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
         function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
@@ -13824,27 +14004,23 @@ var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _argume
 
 
 
-// TODO: Enable this after the problem related to `resolveJsonModule`.
-//       https://github.com/yykamei/block-merge-based-on-time/runs/3097490417
-// import type { PullRequestEvent } from "@octokit/webhooks-definitions/schema"
+
 function run() {
-    return __awaiter(this, void 0, void 0, function* () {
+    return run_awaiter(this, void 0, void 0, function* () {
         const inputs = new Inputs();
         switch (github.context.eventName) {
             case "schedule":
             case "workflow_dispatch":
                 return handleAllPulls(inputs);
             case "pull_request":
-                // TODO: Use `PullRequestEvent` for casting of `context.payload`
-                //       eslint-disable-next-line @typescript-eslint/no-explicit-any
-                return handlePull(inputs, github.context.payload);
+                return handlePull(inputs);
             default:
                 throw new Error(`This action does not support the event "${github.context.eventName}"`);
         }
     });
 }
 function handleAllPulls(inputs) {
-    return __awaiter(this, void 0, void 0, function* () {
+    return run_awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
         const { owner, repo } = github.context.repo;
         const defaultBranch = yield fetchDefaultBranch(inputs, owner, repo);
@@ -13881,42 +14057,27 @@ function handleAllPulls(inputs) {
         }
     });
 }
-// TODO: Use `PullRequestEvent` for `payload`
-//       eslint-disable-next-line @typescript-eslint/no-explicit-any
-function handlePull(inputs, payload) {
-    return __awaiter(this, void 0, void 0, function* () {
+function handlePull(inputs) {
+    var _a;
+    return run_awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
-        const owner = payload.repository.owner.login;
-        const repo = payload.repository.name;
-        const sha = payload.pull_request.head.sha;
-        const baseRef = payload.pull_request.base.ref;
-        const context = inputs.commitStatusContext;
-        const target_url = inputs.commitStatusURL || undefined;
-        let state = "success";
-        let description = inputs.commitStatusDescriptionWithSuccess;
-        const defaultBranch = yield fetchDefaultBranch(inputs, owner, repo);
-        const baseBranches = inputs.baseBranches(defaultBranch);
-        // NOTE: We ignore pull requests that will not be merged into `baseBranches`.
-        // TODO: Remove the type `any` for `l`
-        //       eslint-disable-next-line @typescript-eslint/no-explicit-any
-        const noBlockLabelFound = payload.pull_request.labels.find((l) => l.name === inputs.noBlockLabel);
-        if (baseBranches.some((b) => b.test(baseRef)) && noBlockLabelFound == null && shouldBlock(inputs)) {
-            state = "pending";
-            description = inputs.commitStatusDescriptionWhileBlocking;
+        const { owner, repo } = github.context.repo;
+        const number = (_a = github.context.payload.pull_request) === null || _a === void 0 ? void 0 : _a.number;
+        if (number == null) {
+            throw new Error(`handlePull can only be used for a pull request event`);
         }
-        octokit.rest.repos.createCommitStatus({
-            owner,
-            repo,
-            sha,
-            state,
-            context,
-            description,
-            target_url,
-        });
+        const result = yield pull(octokit, owner, repo, inputs.commitStatusContext, number);
+        // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
+        const state = inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
+            shouldBlock(inputs) &&
+            !result.pull.labels.includes(inputs.noBlockLabel)
+            ? "pending"
+            : "success";
+        return createCommitStatus(octokit, result.pull, inputs, state);
     });
 }
 function fetchDefaultBranch(inputs, owner, repo) {
-    return __awaiter(this, void 0, void 0, function* () {
+    return run_awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
         const res = yield octokit.graphql(`
 query($owner: String!, $repo: String!) {
@@ -13930,7 +14091,7 @@ query($owner: String!, $repo: String!) {
     });
 }
 function fetchPullRequestStatuses(inputs, owner, repo, defaultBranch) {
-    return __awaiter(this, void 0, void 0, function* () {
+    return run_awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
         const baseBranches = inputs.baseBranches(defaultBranch);
         let after = null;
@@ -14177,7 +14338,7 @@ module.exports = require("zlib");
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module doesn't tell about it's top-level declarations so it can't be inlined
-/******/ 	var __webpack_exports__ = __nccwpck_require__(586);
+/******/ 	var __webpack_exports__ = __nccwpck_require__(770);
 /******/ 	module.exports = __webpack_exports__;
 /******/ 	
 /******/ })()
