@@ -14023,38 +14023,18 @@ function handleAllPulls(inputs) {
     return run_awaiter(this, void 0, void 0, function* () {
         const octokit = (0,github.getOctokit)(inputs.token);
         const { owner, repo } = github.context.repo;
-        const defaultBranch = yield fetchDefaultBranch(inputs, owner, repo);
-        const statuses = yield fetchPullRequestStatuses(inputs, owner, repo, defaultBranch);
-        const runBulk = (state) => {
-            statuses.forEach((s) => {
-                var _a;
-                let expected = state;
-                let description = state === "success" ? inputs.commitStatusDescriptionWithSuccess : inputs.commitStatusDescriptionWhileBlocking;
-                if (s.labels.includes(inputs.noBlockLabel)) {
-                    expected = "success";
-                    description = inputs.commitStatusDescriptionWithSuccess;
-                }
-                if (((_a = s.state) === null || _a === void 0 ? void 0 : _a.toLowerCase()) === expected) {
-                    // We don't have to recreate commit status because the state has been already expected value.
-                    return;
-                }
-                octokit.rest.repos.createCommitStatus({
-                    owner,
-                    repo,
-                    sha: s.sha,
-                    state: expected,
-                    context: inputs.commitStatusContext,
-                    description,
-                    target_url: inputs.commitStatusURL || undefined,
-                });
-            });
-        };
-        if (shouldBlock(inputs)) {
-            runBulk("pending");
-        }
-        else {
-            runBulk("success");
-        }
+        const branch = yield defaultBranch(octokit, owner, repo);
+        const results = yield pulls(octokit, owner, repo, inputs.commitStatusContext);
+        const expected = shouldBlock(inputs) ? "pending" : "success";
+        results.forEach((pull) => {
+            // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
+            const state = inputs.baseBranches(branch).some((b) => b.test(pull.baseBranch)) &&
+                expected &&
+                !pull.labels.includes(inputs.noBlockLabel)
+                ? "pending"
+                : "success";
+            createCommitStatus(octokit, pull, inputs, state);
+        });
     });
 }
 function handlePull(inputs) {
@@ -14074,89 +14054,6 @@ function handlePull(inputs) {
             ? "pending"
             : "success";
         return createCommitStatus(octokit, result.pull, inputs, state);
-    });
-}
-function fetchDefaultBranch(inputs, owner, repo) {
-    return run_awaiter(this, void 0, void 0, function* () {
-        const octokit = (0,github.getOctokit)(inputs.token);
-        const res = yield octokit.graphql(`
-query($owner: String!, $repo: String!) {
-  repository(owner: $owner, name: $repo) {
-    defaultBranchRef {
-      name
-    }
-  }
-}`, { owner, repo });
-        return res.repository.defaultBranchRef.name;
-    });
-}
-function fetchPullRequestStatuses(inputs, owner, repo, defaultBranch) {
-    return run_awaiter(this, void 0, void 0, function* () {
-        const octokit = (0,github.getOctokit)(inputs.token);
-        const baseBranches = inputs.baseBranches(defaultBranch);
-        let after = null;
-        let hasNextPage = true;
-        let statuses = [];
-        while (hasNextPage) {
-            const res = yield octokit.graphql(`
-query($owner: String!, $repo: String!, $after: String) {
-  repository(owner: $owner, name: $repo) {
-    pullRequests(after: $after, first: 100, states: OPEN, orderBy: { field: CREATED_AT, direction: DESC}) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      edges {
-        node {
-          number
-          title
-          baseRef {
-            name
-          }
-          labels(first: 100) {
-            edges {
-              node {
-                name
-              }
-            }
-          }
-          commits(last: 1) {
-            edges {
-              node {
-                commit {
-                  oid
-                  message
-                  status {
-                    contexts {
-                      context
-                      state
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-}`, { owner, repo, after });
-            hasNextPage = res.repository.pullRequests.pageInfo.hasNextPage;
-            after = res.repository.pullRequests.pageInfo.endCursor;
-            const data = res.repository.pullRequests.edges
-                .filter((pr) => baseBranches.some((b) => b.test(pr.node.baseRef.name)))
-                .flatMap((pr) => pr.node.commits.edges.map((c) => {
-                var _a, _b;
-                return ({
-                    number: pr.node.number,
-                    sha: c.node.commit.oid,
-                    labels: pr.node.labels.edges.map((l) => l.node.name),
-                    state: (_b = (_a = c.node.commit.status) === null || _a === void 0 ? void 0 : _a.contexts.find((s) => s.context === inputs.commitStatusContext)) === null || _b === void 0 ? void 0 : _b.state,
-                });
-            }));
-            statuses = [...statuses, ...data];
-        }
-        return statuses;
     });
 }
 
