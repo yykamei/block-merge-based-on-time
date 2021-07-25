@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- Update Holidays in Canada and Puerto Rico [\#120](https://github.com/yykamei/block-merge-based-on-time/pull/120) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Add a new parameter `base-branches` [\#109](https://github.com/yykamei/block-merge-based-on-time/pull/109) ([yykamei](https://github.com/yykamei))
 
 **Fixed bugs:**
