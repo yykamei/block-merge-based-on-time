@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.0...HEAD)
+
+**Fixed bugs:**
+
+- Fix the bug for schedule [\#128](https://github.com/yykamei/block-merge-based-on-time/pull/128) ([yykamei](https://github.com/yykamei))
+
 ## [v1.1.0](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.0) (2021-07-25)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.0.1...v1.1.0)
