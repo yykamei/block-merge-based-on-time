@@ -14025,11 +14025,11 @@ function handleAllPulls(inputs) {
         const { owner, repo } = github.context.repo;
         const branch = yield defaultBranch(octokit, owner, repo);
         const results = yield pulls(octokit, owner, repo, inputs.commitStatusContext);
-        const expected = shouldBlock(inputs) ? "pending" : "success";
+        const isShouldBlock = shouldBlock(inputs);
         results.forEach((pull) => {
             // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
             const state = inputs.baseBranches(branch).some((b) => b.test(pull.baseBranch)) &&
-                expected &&
+                isShouldBlock &&
                 !pull.labels.includes(inputs.noBlockLabel)
                 ? "pending"
                 : "success";
