@@ -22,13 +22,13 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
   const { owner, repo } = context.repo
   const branch = await defaultBranch(octokit, owner, repo)
   const results = await pulls(octokit, owner, repo, inputs.commitStatusContext)
-  const expected = shouldBlock(inputs) ? "pending" : "success"
+  const isShouldBlock = shouldBlock(inputs)
 
   results.forEach((pull) => {
     // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
     const state =
       inputs.baseBranches(branch).some((b) => b.test(pull.baseBranch)) &&
-      expected &&
+      isShouldBlock &&
       !pull.labels.includes(inputs.noBlockLabel)
         ? "pending"
         : "success"

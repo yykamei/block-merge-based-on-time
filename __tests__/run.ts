@@ -37,6 +37,7 @@ describe("run", () => {
 
     test.each([
       {
+        now: "2021-06-17T13:30:00-10:00",
         inputBaseBranches: "/^.*$/",
         pulls: [
           { baseBranch: "main", labels: ["foo", "bug"] } as any,
@@ -45,6 +46,7 @@ describe("run", () => {
         expectedStates: ["pending", "pending"],
       },
       {
+        now: "2021-06-17T13:30:00-10:00",
         inputBaseBranches: "(default)",
         pulls: [
           { baseBranch: "main", labels: ["foo", "bug"] } as any,
@@ -55,6 +57,7 @@ describe("run", () => {
         expectedStates: ["pending", "success", "success", "success"],
       },
       {
+        now: "2021-06-17T13:30:00-10:00",
         inputBaseBranches: "(default), staging, /feature/.*/",
         pulls: [
           { baseBranch: "main", labels: ["foo", "bug"] } as any,
@@ -67,10 +70,24 @@ describe("run", () => {
         ],
         expectedStates: ["pending", "success", "success", "pending", "success", "pending", "success"],
       },
+      {
+        now: "2021-06-17T09:30:00-10:00",
+        inputBaseBranches: "(default), staging, /feature/.*/",
+        pulls: [
+          { baseBranch: "main", labels: ["foo", "bug"] } as any,
+          { baseBranch: "main", labels: ["Emergency", "bug"] } as any,
+          { baseBranch: "develop", labels: ["feature", "enhancement"] } as any,
+          { baseBranch: "staging", labels: [] } as any,
+          { baseBranch: "staging", labels: ["Emergency"] } as any,
+          { baseBranch: "feature/abc", labels: ["feature", "enhancement"] } as any,
+          { baseBranch: "feature/foo", labels: ["Emergency", "enhancement"] } as any,
+        ],
+        expectedStates: ["success", "success", "success", "success", "success", "success", "success"],
+      },
     ])(
       "creates commit statuses: $inputBaseBranches, $pulls, $expectedStates",
-      async ({ inputBaseBranches, pulls, expectedStates }) => {
-        jest.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
+      async ({ now, inputBaseBranches, pulls, expectedStates }) => {
+        jest.setSystemTime(new Date(now))
         jest.spyOn(core, "getInput").mockImplementation(
           (name) =>
             ({
