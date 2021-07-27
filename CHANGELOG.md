@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump @typescript-eslint/eslint-plugin from 4.28.4 to 4.28.5 [\#134](https://github.com/yykamei/block-merge-based-on-time/pull/134) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 16.4.1 to 16.4.3 [\#130](https://github.com/yykamei/block-merge-based-on-time/pull/130) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.1](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.1) (2021-07-26)
