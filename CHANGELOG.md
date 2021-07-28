@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.2...HEAD)
+
+**Merged pull requests:**
+
+- Bump @types/node from 16.4.3 to 16.4.4 [\#137](https://github.com/yykamei/block-merge-based-on-time/pull/137) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.2](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.2) (2021-07-27)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.1...v1.1.2)
