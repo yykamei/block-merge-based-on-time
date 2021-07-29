@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump @types/node from 16.4.4 to 16.4.6 [\#140](https://github.com/yykamei/block-merge-based-on-time/pull/140) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 16.4.3 to 16.4.4 [\#137](https://github.com/yykamei/block-merge-based-on-time/pull/137) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.2](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.2) (2021-07-27)
