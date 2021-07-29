@@ -479,18 +479,18 @@
       "date": "2022-07-10"
     },
     {
+      "id": "20220710_tf5o8hqg7okrkg5fsi4k4tom0g",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "United Arab Emirates",
+      "date": "2022-07-10"
+    },
+    {
       "id": "20220711_f659vuasgct4qnggnsq4c4v7o8",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "United Arab Emirates",
       "date": "2022-07-11"
-    },
-    {
-      "id": "20220712_rm4bu8e7ejvlb62lh7j2enqu6s",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
-      "region": "United Arab Emirates",
-      "date": "2022-07-12"
     },
     {
       "id": "20220730_9upksmbng56srkba0u4oo9n6fs",
@@ -3437,7 +3437,7 @@
       "date": "2022-04-16"
     },
     {
-      "id": "20220417_j8gu7j89k0ia3hfh72pm9d4uu8",
+      "id": "20220417_op17a06hs8j0lsad8oqdk45sg8",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -20586,20 +20586,6 @@
       "date": "2021-08-02"
     },
     {
-      "id": "20210809_nrl76i19s13m72ib7uu4n2n3vc",
-      "status": "confirmed",
-      "summary": "Carnival (First Day)",
-      "region": "Grenada",
-      "date": "2021-08-09"
-    },
-    {
-      "id": "20210810_3e2oaulr6555hs2d6jgu7oi2j0",
-      "status": "confirmed",
-      "summary": "Carnival (Second Day)",
-      "region": "Grenada",
-      "date": "2021-08-10"
-    },
-    {
       "id": "20210901_31el8ob81ks3qqbl76e72idfes",
       "status": "confirmed",
       "summary": "Kirani Day",
@@ -36126,6 +36112,13 @@
       "date": "2021-06-07"
     },
     {
+      "id": "20210620_qpg5c1npo2mlqjoe2a4pd3gpig",
+      "status": "confirmed",
+      "summary": "Sultan of Kedah's Birthday (Kedah)",
+      "region": "Malaysia",
+      "date": "2021-06-20"
+    },
+    {
       "id": "20210707_58jesr39dpil0et6ooch3q6n4s",
       "status": "confirmed",
       "summary": "George Town World Heritage City Day (Penang)",
@@ -36161,6 +36154,13 @@
       "date": "2021-07-20"
     },
     {
+      "id": "20210720_pekjb98pla77ij170vu7nb1a1c",
+      "status": "confirmed",
+      "summary": "Hari Raya Haji holiday",
+      "region": "Malaysia",
+      "date": "2021-07-20"
+    },
+    {
       "id": "20210721_cj4joap41lgkv6ullr2s5e4p7g",
       "status": "confirmed",
       "summary": "Hari Raya Haji (Day 2) (regional holiday)",
@@ -36189,6 +36189,13 @@
       "date": "2021-08-10"
     },
     {
+      "id": "20210824_0j2gpl9d23i5rneqsr0vu4htm8",
+      "status": "confirmed",
+      "summary": "Birthday of the Governor of Malacca (Malacca)",
+      "region": "Malaysia",
+      "date": "2021-08-24"
+    },
+    {
       "id": "20210831_62qm3of4h7d2r3tj4h1hocifq8",
       "status": "confirmed",
       "summary": "Malaysia's National Day",
@@ -36215,13 +36222,6 @@
       "summary": "Birthday of the Governor of Sabah (Sabah)",
       "region": "Malaysia",
       "date": "2021-10-02"
-    },
-    {
-      "id": "20211008_rbsvdq4tp5u4cms05trk7ltac4",
-      "status": "confirmed",
-      "summary": "Birthday of the Governor of Malacca (Malacca)",
-      "region": "Malaysia",
-      "date": "2021-10-08"
     },
     {
       "id": "20211009_ho8jcasq5shrv13lohan7q6994",
@@ -36306,6 +36306,13 @@
       "summary": "Birthday of Yang di-Pertuan Besar (Negeri Sembilan)",
       "region": "Malaysia",
       "date": "2022-01-14"
+    },
+    {
+      "id": "20220118_f22646jmicpd80n7lbrcuqbfvg",
+      "status": "confirmed",
+      "summary": "Thaipusam (regional holiday)",
+      "region": "Malaysia",
+      "date": "2022-01-18"
     },
     {
       "id": "20220201_1blihqo8mcnl55aavobi191cdg",
@@ -36434,6 +36441,13 @@
       "date": "2022-05-04"
     },
     {
+      "id": "20220515_v20r90e6k89i7690de9annuo7o",
+      "status": "confirmed",
+      "summary": "Wesak Day",
+      "region": "Malaysia",
+      "date": "2022-05-15"
+    },
+    {
       "id": "20220522_1gvqlo3jj2ies970v28b8afm5g",
       "status": "confirmed",
       "summary": "Pahang State Holiday (Pahang)",
@@ -36483,6 +36497,13 @@
       "date": "2022-06-06"
     },
     {
+      "id": "20220619_dn7kmgbqrm692vhv6dge65hda0",
+      "status": "confirmed",
+      "summary": "Sultan of Kedah's Birthday (Kedah)",
+      "region": "Malaysia",
+      "date": "2022-06-19"
+    },
+    {
       "id": "20220707_94v3kdmoki17r9v9ndvu8k99ho",
       "status": "confirmed",
       "summary": "George Town World Heritage City Day (Penang)",
@@ -36507,6 +36528,13 @@
       "id": "20220710_rc85vjm37m7479265n5cpl7eak",
       "status": "confirmed",
       "summary": "Hari Raya Haji",
+      "region": "Malaysia",
+      "date": "2022-07-10"
+    },
+    {
+      "id": "20220710_tbvofm3rcffjrov6g1mv1tj4sc",
+      "status": "confirmed",
+      "summary": "Hari Raya Haji holiday",
       "region": "Malaysia",
       "date": "2022-07-10"
     },
@@ -36553,6 +36581,13 @@
       "date": "2022-07-30"
     },
     {
+      "id": "20220824_fvg0nlugdgavpgc07rb2vr17dc",
+      "status": "confirmed",
+      "summary": "Birthday of the Governor of Malacca (Malacca)",
+      "region": "Malaysia",
+      "date": "2022-08-24"
+    },
+    {
       "id": "20220831_qc59qrk3pnfkodagfs0qsik5r8",
       "status": "confirmed",
       "summary": "Malaysia's National Day",
@@ -36588,18 +36623,18 @@
       "date": "2022-10-08"
     },
     {
-      "id": "20221008_o9hrtphkgdrbr5eaeuif19nsds",
+      "id": "20221009_3447keehch6dl2cfenl0s0529c",
       "status": "confirmed",
       "summary": "The Prophet Muhammad's Birthday",
       "region": "Malaysia",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
     },
     {
-      "id": "20221014_li03e9n63h8h68pldp795qit5s",
+      "id": "20221024_nhdasipnk0j31v14kbpe8v6aik",
       "status": "confirmed",
-      "summary": "Birthday of the Governor of Malacca (Malacca)",
+      "summary": "Diwali/Deepavali (regional holiday)",
       "region": "Malaysia",
-      "date": "2022-10-14"
+      "date": "2022-10-24"
     },
     {
       "id": "20221104_ud7b4tkufitie2lsa1d2pdrgd0",
@@ -36630,14 +36665,14 @@
       "date": "2022-12-11"
     },
     {
-      "id": "20221212_hp4pgpfoi9bpi36acev1pfoafk",
+      "id": "20221212_eobhluor7ioisr9ln66ajvjifs",
       "status": "confirmed",
-      "summary": "Birthday of the Sultan of Selangor observed (Selangor)",
+      "summary": "Day off for Birthday of the Sultan of Selangor (Selangor)",
       "region": "Malaysia",
       "date": "2022-12-12"
     },
     {
-      "id": "20221224_kepfgnisidbbsb3qa7lvhp639o",
+      "id": "20221224_1q9rni7gbc7cp5a7o2ls9j9d50",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
@@ -53640,6 +53675,13 @@
       "date": "2021-08-15"
     },
     {
+      "id": "20210816_5devipd2g576t2vqlqemrjtlac",
+      "status": "confirmed",
+      "summary": "Day off for Liberation Day",
+      "region": "South Korea",
+      "date": "2021-08-16"
+    },
+    {
       "id": "20210920_uh6ecbu818h8uginhhlhnst8a4",
       "status": "confirmed",
       "summary": "Chuseok Holiday",
@@ -53675,11 +53717,25 @@
       "date": "2021-10-03"
     },
     {
+      "id": "20211004_2bl89i604kbmjphhatvv095b28",
+      "status": "confirmed",
+      "summary": "Day off for National Foundation Day",
+      "region": "South Korea",
+      "date": "2021-10-04"
+    },
+    {
       "id": "20211009_smp4cgcci56pthiuivsf4qochg",
       "status": "confirmed",
       "summary": "Hangeul Proclamation Day",
       "region": "South Korea",
       "date": "2021-10-09"
+    },
+    {
+      "id": "20211011_5nbh97u7g1ksn87t200fp9j83c",
+      "status": "confirmed",
+      "summary": "Day off for Hangeul Proclamation Day",
+      "region": "South Korea",
+      "date": "2021-10-11"
     },
     {
       "id": "20211224_a9sl9pskip3ehv75nb0vnp34m0",
@@ -53694,6 +53750,13 @@
       "summary": "Christmas Day",
       "region": "South Korea",
       "date": "2021-12-25"
+    },
+    {
+      "id": "20211227_pljogiok1loeun8h0cc32oesfc",
+      "status": "confirmed",
+      "summary": "Day off for Christmas Day",
+      "region": "South Korea",
+      "date": "2021-12-27"
     },
     {
       "id": "20211231_f6njl130338oe90f7okkh5koh4",
@@ -54146,16 +54209,9 @@
       "date": "2021-07-13"
     },
     {
-      "id": "20210720_l01uhhvuvole2ekp27uol389vo",
+      "id": "20210721_ivvncfh7sbvcm66k04p8rnheno",
       "status": "confirmed",
-      "summary": "Eid al-Adha (Ceuta)",
-      "region": "Spain",
-      "date": "2021-07-20"
-    },
-    {
-      "id": "20210721_e2ebbmjubjtp26p42n4677qn4c",
-      "status": "confirmed",
-      "summary": "Eid al-Adha (Melilla)",
+      "summary": "Eid al-Adha (regional holiday)",
       "region": "Spain",
       "date": "2021-07-21"
     },
@@ -63821,6 +63877,13 @@
       "summary": "American Independence Day",
       "region": "U.S. Virgin Islands",
       "date": "2021-07-04"
+    },
+    {
+      "id": "20210705_s6ivau0uuencd7ds42fo5nrdss",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "U.S. Virgin Islands",
+      "date": "2021-07-05"
     },
     {
       "id": "20210726_c1iem965ibj7ev3autsmlhl9cg",
