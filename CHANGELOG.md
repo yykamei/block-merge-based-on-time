@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.2...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Australia, Colombia, Grenada, Malaysia, South Korea, Spain, St. Vincent & Grenadines, U.S. Virgin Islands, United Arab Emirates [\#145](https://github.com/yykamei/block-merge-based-on-time/pull/145) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Fix the test for inputs.prohibitedDates.length [\#143](https://github.com/yykamei/block-merge-based-on-time/pull/143) ([yykamei](https://github.com/yykamei))
