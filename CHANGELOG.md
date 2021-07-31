@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Fix the test for inputs.prohibitedDates.length [\#143](https://github.com/yykamei/block-merge-based-on-time/pull/143) ([yykamei](https://github.com/yykamei))
 - Bump @types/node from 16.4.4 to 16.4.6 [\#140](https://github.com/yykamei/block-merge-based-on-time/pull/140) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 16.4.3 to 16.4.4 [\#137](https://github.com/yykamei/block-merge-based-on-time/pull/137) ([dependabot[bot]](https://github.com/apps/dependabot))
 
