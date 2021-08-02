@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump eslint from 7.31.0 to 7.32.0 [\#149](https://github.com/yykamei/block-merge-based-on-time/pull/149) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 16.4.6 to 16.4.7 [\#142](https://github.com/yykamei/block-merge-based-on-time/pull/142) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.3](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.3) (2021-07-31)
