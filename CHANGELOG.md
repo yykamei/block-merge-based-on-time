@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.3...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Australia, Azerbaijan, Falkland Islands \(Islas Malvinas\), Moldova, Mongolia, South Korea [\#156](https://github.com/yykamei/block-merge-based-on-time/pull/156) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @typescript-eslint/parser from 4.28.5 to 4.29.0 [\#153](https://github.com/yykamei/block-merge-based-on-time/pull/153) ([dependabot[bot]](https://github.com/apps/dependabot))
