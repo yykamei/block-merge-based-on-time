@@ -3437,7 +3437,7 @@
       "date": "2022-04-16"
     },
     {
-      "id": "20220417_op17a06hs8j0lsad8oqdk45sg8",
+      "id": "20220417_j8gu7j89k0ia3hfh72pm9d4uu8",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -4374,30 +4374,30 @@
       "date": "2021-06-28"
     },
     {
-      "id": "20210718_clkovg1a4vcj7jurkb4dba6ghs",
+      "id": "20210718_2t21kmj6c4jbaeonsasu9iica0",
       "status": "confirmed",
-      "summary": "Feast of the Sacrifice",
+      "summary": "Feast of the Sacrifice Holiday",
       "region": "Azerbaijan",
       "date": "2021-07-18"
     },
     {
-      "id": "20210719_th728dkb31kav8h3v8fpih3nuk",
+      "id": "20210719_ia65co22to904n7qmbjpaoeqfs",
       "status": "confirmed",
-      "summary": "Feast of the Sacrifice (day 2)",
+      "summary": "Feast of the Sacrifice Holiday",
       "region": "Azerbaijan",
       "date": "2021-07-19"
     },
     {
-      "id": "20210720_unt285ke5bft1u4sh4l7av88g0",
+      "id": "20210720_bme5unnmnhjrmgj545o6b5hcb4",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice",
       "region": "Azerbaijan",
       "date": "2021-07-20"
     },
     {
-      "id": "20210721_c34gh2nepkuih6gu4teqf3kfj4",
+      "id": "20210721_jhtoarps36i619grfbbiq0bpfo",
       "status": "confirmed",
-      "summary": "Feast of the Sacrifice (day 2)",
+      "summary": "Feast of the Sacrifice Holiday",
       "region": "Azerbaijan",
       "date": "2021-07-21"
     },
@@ -19470,13 +19470,6 @@
       "date": "2021-12-27"
     },
     {
-      "id": "20211228_6ja95poipht27u2h1mbv4q24dc",
-      "status": "confirmed",
-      "summary": "Christmas Holiday",
-      "region": "Falkland Islands (Islas Malvinas)",
-      "date": "2021-12-28"
-    },
-    {
       "id": "20211228_hb9hjpo8544fe320dlgi6iqnqo",
       "status": "confirmed",
       "summary": "Day off for Boxing Day",
@@ -19491,11 +19484,18 @@
       "date": "2021-12-29"
     },
     {
-      "id": "20211230_lpphe1d649lobknibjq0e06a4c",
+      "id": "20211230_vqrrvv2qnose3pj57ehr7pnnis",
       "status": "confirmed",
-      "summary": "Day off for Christmas Holiday",
+      "summary": "Christmas Holiday",
       "region": "Falkland Islands (Islas Malvinas)",
       "date": "2021-12-30"
+    },
+    {
+      "id": "20211231_7quil17bf4s4dussk9hdgmhq8k",
+      "status": "confirmed",
+      "summary": "Christmas Holiday",
+      "region": "Falkland Islands (Islas Malvinas)",
+      "date": "2021-12-31"
     },
     {
       "id": "20220101_1glrqv3klotmp7rlqv4jos34kg",
@@ -19589,6 +19589,13 @@
       "date": "2022-12-27"
     },
     {
+      "id": "20221227_k2cr6sc0469sd4uvm4rgs7bm54",
+      "status": "confirmed",
+      "summary": "Day off for Boxing Day",
+      "region": "Falkland Islands (Islas Malvinas)",
+      "date": "2022-12-27"
+    },
+    {
       "id": "20221228_90ppplvfv2335ocv8gnmv743s8",
       "status": "confirmed",
       "summary": "Day off for Christmas Holiday",
@@ -19596,18 +19603,18 @@
       "date": "2022-12-28"
     },
     {
-      "id": "20221228_knrc7tnhas0bej674ptbua9mpc",
+      "id": "20221229_80neqde97ha1pu0kf18k6iibvs",
       "status": "confirmed",
       "summary": "Christmas Holiday",
       "region": "Falkland Islands (Islas Malvinas)",
-      "date": "2022-12-28"
+      "date": "2022-12-29"
     },
     {
-      "id": "20221229_h6ql8veqj96i498oj2m976m9ok",
+      "id": "20221230_1409edgne8okl784t3b84hhecc",
       "status": "confirmed",
-      "summary": "Day off for Christmas Holiday",
+      "summary": "Christmas Holiday",
       "region": "Falkland Islands (Islas Malvinas)",
-      "date": "2022-12-29"
+      "date": "2022-12-30"
     }
   ],
   "Micronesia": [
@@ -37159,6 +37166,13 @@
       "date": "2021-08-27"
     },
     {
+      "id": "20210830_hd9uv0139al9pb4ctlpuo7pnms",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Moldova",
+      "date": "2021-08-30"
+    },
+    {
       "id": "20210831_78a6u7t2ikmn7gcddkihui2fpc",
       "status": "confirmed",
       "summary": "Language Day",
@@ -39856,6 +39870,13 @@
       "summary": "Naadam Holiday (National Day)",
       "region": "Mongolia",
       "date": "2021-07-15"
+    },
+    {
+      "id": "20210716_h7ipcuhej6raga9num11bpb3i8",
+      "status": "confirmed",
+      "summary": "Naadam Holiday (National Day)",
+      "region": "Mongolia",
+      "date": "2021-07-16"
     },
     {
       "id": "20210825_1gom6dbuoj6soep7bndsfe6jc4",
@@ -53591,16 +53612,16 @@
       "date": "2021-01-01"
     },
     {
-      "id": "20210211_so95g4pr4qfmlhk09mmvcemkls",
-      "status": "confirmed",
-      "summary": "Seollal Holiday",
-      "region": "South Korea",
-      "date": "2021-02-11"
-    },
-    {
       "id": "20210212_ckqoh69csiank1ntbuhl50i6po",
       "status": "confirmed",
       "summary": "Seollal",
+      "region": "South Korea",
+      "date": "2021-02-12"
+    },
+    {
+      "id": "20210212_j0n2rs62j3hpf0k98nt8i78pgc",
+      "status": "confirmed",
+      "summary": "Seollal Holiday",
       "region": "South Korea",
       "date": "2021-02-12"
     },
@@ -53773,11 +53794,18 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220131_ucgeg0is9e0q122p1lbls1krts",
+      "id": "20220103_qiga0l2aifdgi28jg83blahhlc",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "South Korea",
+      "date": "2022-01-03"
+    },
+    {
+      "id": "20220201_g6hbgetl3l9f5belo9nehljpjo",
       "status": "confirmed",
       "summary": "Seollal Holiday",
       "region": "South Korea",
-      "date": "2022-01-31"
+      "date": "2022-02-01"
     },
     {
       "id": "20220201_irmrokg35pvhh0ivj14gk7vloc",
