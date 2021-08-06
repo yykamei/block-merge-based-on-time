@@ -3157,13 +3157,6 @@
       "date": "2021-08-02"
     },
     {
-      "id": "20210811_5ifbp8l7u31nr49he4sjc1akf4",
-      "status": "confirmed",
-      "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
-      "region": "Australia",
-      "date": "2021-08-11"
-    },
-    {
       "id": "20210924_ngfuvo75ocecgt85cne6g6h4es",
       "status": "confirmed",
       "summary": "Friday before the AFL Grand Final (Victoria)",
@@ -26256,6 +26249,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220103_n7c1jvkv57mcr704pmq69tjesc",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Isle of Man",
+      "date": "2022-01-03"
+    },
+    {
       "id": "20220327_tt9bsps4njiq1vsuqqehudpii4",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
@@ -26284,11 +26284,18 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220530_rpjgdhfd6ivkk850usq8hm9e68",
+      "id": "20220602_frj6brvmedh4kq7ek3lcq4d16k",
       "status": "confirmed",
-      "summary": "Late May Bank Holiday",
+      "summary": "Spring Bank Holiday",
       "region": "Isle of Man",
-      "date": "2022-05-30"
+      "date": "2022-06-02"
+    },
+    {
+      "id": "20220603_qpnlc7gqjvq5ekg3jcen19lsjo",
+      "status": "confirmed",
+      "summary": "Platinum Jubilee Bank Holiday",
+      "region": "Isle of Man",
+      "date": "2022-06-03"
     },
     {
       "id": "20220610_ifh9cnjfb5r8ts42kjo1eueqh8",
@@ -39490,6 +39497,104 @@
       "summary": "Full Moon Day of Waso (Beginning of Buddhist Lent)",
       "region": "Myanmar (Burma)",
       "date": "2021-07-23"
+    },
+    {
+      "id": "20210726_imtudqsj8thhtgmud2g60dkuf0",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-07-26"
+    },
+    {
+      "id": "20210727_19ff0ms4aa14tg5f8lhhtt07ls",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-07-27"
+    },
+    {
+      "id": "20210728_sqhcrggqd0sboi4g97vori252s",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-07-28"
+    },
+    {
+      "id": "20210729_cen4a18tlu183v0vml09hiul6k",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-07-29"
+    },
+    {
+      "id": "20210730_kf1of700j5kj9e3gkq0c5kqas0",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-07-30"
+    },
+    {
+      "id": "20210731_m4qc9j7fplr6ehgkrouor8nuto",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-07-31"
+    },
+    {
+      "id": "20210801_rik4semrscu91r3rrtm18uobps",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-08-01"
+    },
+    {
+      "id": "20210802_ur17b9mn47bvoq0acr9fs7bgmc",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-08-02"
+    },
+    {
+      "id": "20210803_5dlgvg7djabglok06afaen49pk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-08-03"
+    },
+    {
+      "id": "20210804_49inmnjo56f1u391e2gj27ire4",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-08-04"
+    },
+    {
+      "id": "20210805_9081ak00poiv8veng2d20qounk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-08-05"
+    },
+    {
+      "id": "20210806_tor99j22t4kb23i87hhu71sak0",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-08-06"
+    },
+    {
+      "id": "20210807_na46slqie05hf7hml2vdtllq8g",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-08-07"
+    },
+    {
+      "id": "20210808_c4ko66it220dtt52nl00t1a7dc",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-08-08"
     },
     {
       "id": "20211019_lkine4hv2t97th1hggmj0micok",
@@ -54622,7 +54727,7 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_vn0jin2p1prtnoq26dq942r1b8",
+      "id": "20220502_s7mcmb3jt034nfcfpc8evvmuu0",
       "status": "confirmed",
       "summary": "Labor Day observed (regional holiday)",
       "region": "Spain",
@@ -57340,6 +57445,13 @@
       "summary": "Armed Forces Day",
       "region": "Taiwan",
       "date": "2022-09-03"
+    },
+    {
+      "id": "20220909_m8l9ifkeqo8biartov0juuu11o",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival Holiday",
+      "region": "Taiwan",
+      "date": "2022-09-09"
     },
     {
       "id": "20220910_01vhj2eurfidfgapsdop6as0ok",
