@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.4...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Australia, Isle of Man, Myanmar \(Burma\), Taiwan [\#160](https://github.com/yykamei/block-merge-based-on-time/pull/160) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/node from 16.4.10 to 16.4.12 [\#158](https://github.com/yykamei/block-merge-based-on-time/pull/158) ([dependabot[bot]](https://github.com/apps/dependabot))
