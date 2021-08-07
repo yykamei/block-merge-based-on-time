@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.5...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Singapore, Taiwan [\#164](https://github.com/yykamei/block-merge-based-on-time/pull/164) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/node from 16.4.12 to 16.4.13 [\#162](https://github.com/yykamei/block-merge-based-on-time/pull/162) ([dependabot[bot]](https://github.com/apps/dependabot))
