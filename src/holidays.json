@@ -52177,6 +52177,13 @@
       "date": "2021-08-09"
     },
     {
+      "id": "20210903_jiq85h4v7ojq6ddevb2epnjnnc",
+      "status": "confirmed",
+      "summary": "Teachers' Day",
+      "region": "Singapore",
+      "date": "2021-09-03"
+    },
+    {
       "id": "20211008_qk2jbepcucs5bvgaive3n23oac",
       "status": "confirmed",
       "summary": "Children's Day",
@@ -52301,6 +52308,13 @@
       "summary": "National Day",
       "region": "Singapore",
       "date": "2022-08-09"
+    },
+    {
+      "id": "20220902_gaseqfv5r48gq5ul83pmekppl0",
+      "status": "confirmed",
+      "summary": "Teachers' Day",
+      "region": "Singapore",
+      "date": "2022-09-02"
     },
     {
       "id": "20221014_h1ggfeb75r5cfb4l0aove84s70",
@@ -57167,6 +57181,13 @@
       "date": "2021-02-16"
     },
     {
+      "id": "20210220_rsir1ug0hhg2qtsg9o4e8epivg",
+      "status": "confirmed",
+      "summary": "Make up Day for Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2021-02-20"
+    },
+    {
       "id": "20210226_fg5tbvruifkl5fe4bu8uuqu55o",
       "status": "confirmed",
       "summary": "Lantern Festival",
@@ -57200,6 +57221,13 @@
       "summary": "Youth Day",
       "region": "Taiwan",
       "date": "2021-03-29"
+    },
+    {
+      "id": "20210402_to0cs4el3ffq9dhdenh7q7i65o",
+      "status": "confirmed",
+      "summary": "Children's Day",
+      "region": "Taiwan",
+      "date": "2021-04-02"
     },
     {
       "id": "20210404_gkmk7mr9npp12ccfp55kd6cpt8",
@@ -57256,6 +57284,20 @@
       "summary": "Armed Forces Day",
       "region": "Taiwan",
       "date": "2021-09-03"
+    },
+    {
+      "id": "20210911_uavbi5ilkqu43h1jkp656v1btk",
+      "status": "confirmed",
+      "summary": "Make up Day for Mid Autumn Festival Holiday",
+      "region": "Taiwan",
+      "date": "2021-09-11"
+    },
+    {
+      "id": "20210920_dotdcu33rak1p9jev4f5evguok",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival",
+      "region": "Taiwan",
+      "date": "2021-09-20"
     },
     {
       "id": "20210921_e6olklr7qmdtg24g7pk2h9suog",
@@ -57319,6 +57361,13 @@
       "summary": "Republic Day/New Year's Day",
       "region": "Taiwan",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220122_7e2j25mi9b3p0uji8vqce0gcdk",
+      "status": "confirmed",
+      "summary": "Make up Day for Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2022-01-22"
     },
     {
       "id": "20220131_m9r0pa05911e8im25pbjr5papc",
