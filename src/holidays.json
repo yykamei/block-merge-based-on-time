@@ -61553,13 +61553,6 @@
       "date": "2021-01-22"
     },
     {
-      "id": "20210125_jl3n8seuh8q0ulmtb20oo8dmk4",
-      "status": "confirmed",
-      "summary": "Tatiana Day",
-      "region": "Ukraine",
-      "date": "2021-01-25"
-    },
-    {
       "id": "20210214_jmsp9u2hgpqfkd1oapf5s8lif4",
       "status": "confirmed",
       "summary": "Valentine's Day",
@@ -61602,11 +61595,18 @@
       "date": "2021-05-02"
     },
     {
-      "id": "20210503_4isahai50raec6t6d5a3qngbq0",
+      "id": "20210503_i22f45gdid3nir9pct035m5q4o",
       "status": "confirmed",
-      "summary": "Orthodox Easter Day holiday",
+      "summary": "Day off for Labor Day",
       "region": "Ukraine",
       "date": "2021-05-03"
+    },
+    {
+      "id": "20210504_56trva31ot08lc0ndgevdmtubk",
+      "status": "confirmed",
+      "summary": "Orthodox Easter Monday",
+      "region": "Ukraine",
+      "date": "2021-05-04"
     },
     {
       "id": "20210509_jrrvb4lsf1nocm6bn7gkb3qb2c",
@@ -61651,9 +61651,9 @@
       "date": "2021-06-20"
     },
     {
-      "id": "20210621_a25khupic4qdvtntema9t1a3e0",
+      "id": "20210621_nftf9feorv81i1stp6th4g1ic4",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost holiday",
+      "summary": "Orthodox Pentecost Holiday",
       "region": "Ukraine",
       "date": "2021-06-21"
     },
@@ -61672,11 +61672,11 @@
       "date": "2021-07-04"
     },
     {
-      "id": "20210707_k041k0rr6iu63pituaa0ltq5pc",
+      "id": "20210706_inbm3ucb39j0bocolk4kge22ck",
       "status": "confirmed",
       "summary": "Kupala Night",
       "region": "Ukraine",
-      "date": "2021-07-07"
+      "date": "2021-07-06"
     },
     {
       "id": "20210708_m3tmopen85t3ceoqu31u7p7rrk",
@@ -61698,13 +61698,6 @@
       "summary": "Independence Day",
       "region": "Ukraine",
       "date": "2021-08-24"
-    },
-    {
-      "id": "20211003_4ehg23tdl25fe820biods50ie8",
-      "status": "confirmed",
-      "summary": "Teacher's Day",
-      "region": "Ukraine",
-      "date": "2021-10-03"
     },
     {
       "id": "20211014_19a1ls9gmkmfobsml8vqg1rqgg",
@@ -61756,6 +61749,13 @@
       "date": "2021-12-25"
     },
     {
+      "id": "20211227_pj0cp8mk4eashcei489vq9prbg",
+      "status": "confirmed",
+      "summary": "Day off for Catholic Christmas Day",
+      "region": "Ukraine",
+      "date": "2021-12-27"
+    },
+    {
       "id": "20220101_8m9hcms2ervasv5bhfepqcp52k",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -61763,9 +61763,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220103_320oibadent0t9h69rdpco2fso",
+      "id": "20220103_ehaiuekmr48486ari7sh72iin4",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Ukraine",
       "date": "2022-01-03"
     },
@@ -61789,13 +61789,6 @@
       "summary": "Ukrainian Unity Day",
       "region": "Ukraine",
       "date": "2022-01-22"
-    },
-    {
-      "id": "20220125_s66sf6pvch9vdjhbndbjqeo2uk",
-      "status": "confirmed",
-      "summary": "Tatiana Day",
-      "region": "Ukraine",
-      "date": "2022-01-25"
     },
     {
       "id": "20220214_elpn07rs480vc4atofjp8ghdn4",
@@ -61833,9 +61826,9 @@
       "date": "2022-04-24"
     },
     {
-      "id": "20220425_1eqecqnfu3v1rri5tfki929qh0",
+      "id": "20220425_vsateurec5odpkuh42n5mv2jj8",
       "status": "confirmed",
-      "summary": "Orthodox Easter Day holiday",
+      "summary": "Orthodox Easter Monday",
       "region": "Ukraine",
       "date": "2022-04-25"
     },
@@ -61845,6 +61838,13 @@
       "summary": "Labor Day",
       "region": "Ukraine",
       "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_kq1berkhttt0qn6lomu72nfd8g",
+      "status": "confirmed",
+      "summary": "Day off for Labor Day",
+      "region": "Ukraine",
+      "date": "2022-05-02"
     },
     {
       "id": "20220508_79ir0hcmikpf94lor6oadf2t58",
@@ -61882,9 +61882,9 @@
       "date": "2022-06-12"
     },
     {
-      "id": "20220613_pj23kjudsqetvukaj2k68aadpg",
+      "id": "20220613_24tqj6imlb50e5corusb6lsuao",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost holiday",
+      "summary": "Orthodox Pentecost Holiday",
       "region": "Ukraine",
       "date": "2022-06-13"
     },
@@ -61903,11 +61903,11 @@
       "date": "2022-07-03"
     },
     {
-      "id": "20220707_t8fc7bjckaakc42oqmnri3329g",
+      "id": "20220706_i03aqb7npj7fceonsgcb7kmtp8",
       "status": "confirmed",
       "summary": "Kupala Night",
       "region": "Ukraine",
-      "date": "2022-07-07"
+      "date": "2022-07-06"
     },
     {
       "id": "20220708_5ukvk6dngp9316efiq3bnc6ohg",
@@ -61929,13 +61929,6 @@
       "summary": "Independence Day",
       "region": "Ukraine",
       "date": "2022-08-24"
-    },
-    {
-      "id": "20221002_thlv74vrgo9o9nnd88omcmi57g",
-      "status": "confirmed",
-      "summary": "Teacher's Day",
-      "region": "Ukraine",
-      "date": "2022-10-02"
     },
     {
       "id": "20221014_srvm3k5vv02kkb2munr980u49g",
@@ -61985,6 +61978,13 @@
       "summary": "Catholic Christmas Day",
       "region": "Ukraine",
       "date": "2022-12-25"
+    },
+    {
+      "id": "20221226_icb58ppc3g7jquapcnktok2f7g",
+      "status": "confirmed",
+      "summary": "Day off for Catholic Christmas Day",
+      "region": "Ukraine",
+      "date": "2022-12-26"
     }
   ],
   "United States": [
