@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.6...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Ukraine [\#166](https://github.com/yykamei/block-merge-based-on-time/pull/166) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.6](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.6) (2021-08-07)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.5...v1.1.6)
