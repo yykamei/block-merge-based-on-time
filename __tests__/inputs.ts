@@ -33,35 +33,51 @@ describe("Inputs", () => {
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
     expect(inputs).toHaveProperty("after", {
-      base: DateTime.fromObject({
-        hour: 12,
-        minute: 20,
-        zone: "Pacific/Honolulu",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 12,
+          minute: 20,
+        },
+        {
+          zone: "Pacific/Honolulu",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("before", {
-      base: DateTime.fromObject({
-        hour: 16,
-        minute: 0,
-        zone: "Pacific/Honolulu",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 16,
+          minute: 0,
+        },
+        {
+          zone: "Pacific/Honolulu",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
     expect(inputs).toHaveProperty("prohibitedDays", ["Sunday"])
     expect(inputs).toHaveProperty("prohibitedDates", [
       Interval.fromDateTimes(
-        DateTime.fromObject({
-          year: 2021,
-          month: 7,
-          day: 1,
-          zone: "Pacific/Honolulu",
-        }),
-        DateTime.fromObject({
-          year: 2021,
-          month: 7,
-          day: 1,
-          zone: "Pacific/Honolulu",
-        }).endOf("day")
+        DateTime.fromObject(
+          {
+            year: 2021,
+            month: 7,
+            day: 1,
+          },
+          {
+            zone: "Pacific/Honolulu",
+          }
+        ),
+        DateTime.fromObject(
+          {
+            year: 2021,
+            month: 7,
+            day: 1,
+          },
+          {
+            zone: "Pacific/Honolulu",
+          }
+        ).endOf("day")
       ),
     ])
     expect(inputs).toHaveProperty("noBlockLabel", "Emergency")
@@ -93,18 +109,26 @@ describe("Inputs", () => {
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
     expect(inputs).toHaveProperty("after", {
-      base: DateTime.fromObject({
-        hour: 12,
-        minute: 20,
-        zone: "Pacific/Honolulu",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 12,
+          minute: 20,
+        },
+        {
+          zone: "Pacific/Honolulu",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("before", {
-      base: DateTime.fromObject({
-        hour: 16,
-        minute: 0,
-        zone: "Pacific/Honolulu",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 16,
+          minute: 0,
+        },
+        {
+          zone: "Pacific/Honolulu",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
@@ -136,49 +160,73 @@ describe("Inputs", () => {
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
     expect(inputs).toHaveProperty("after", {
-      base: DateTime.fromObject({
-        hour: 12,
-        minute: 20,
-        zone: "Pacific/Honolulu",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 12,
+          minute: 20,
+        },
+        {
+          zone: "Pacific/Honolulu",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("before", {
-      base: DateTime.fromObject({
-        hour: 16,
-        minute: 0,
-        zone: "Pacific/Honolulu",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 16,
+          minute: 0,
+        },
+        {
+          zone: "Pacific/Honolulu",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
     expect(inputs).toHaveProperty("prohibitedDays", ["Sunday"])
     expect(inputs).toHaveProperty("prohibitedDates", [
       Interval.fromDateTimes(
-        DateTime.fromObject({
-          year: 2021,
-          month: 7,
-          day: 30,
-          zone: "Pacific/Honolulu",
-        }),
-        DateTime.fromObject({
-          year: 2021,
-          month: 7,
-          day: 30,
-          zone: "Pacific/Honolulu",
-        }).endOf("day")
+        DateTime.fromObject(
+          {
+            year: 2021,
+            month: 7,
+            day: 30,
+          },
+          {
+            zone: "Pacific/Honolulu",
+          }
+        ),
+        DateTime.fromObject(
+          {
+            year: 2021,
+            month: 7,
+            day: 30,
+          },
+          {
+            zone: "Pacific/Honolulu",
+          }
+        ).endOf("day")
       ),
       Interval.fromDateTimes(
-        DateTime.fromObject({
-          year: 2021,
-          month: 8,
-          day: 6,
-          zone: "Pacific/Honolulu",
-        }),
-        DateTime.fromObject({
-          year: 2021,
-          month: 8,
-          day: 10,
-          zone: "Pacific/Honolulu",
-        }).endOf("day")
+        DateTime.fromObject(
+          {
+            year: 2021,
+            month: 8,
+            day: 6,
+          },
+          {
+            zone: "Pacific/Honolulu",
+          }
+        ),
+        DateTime.fromObject(
+          {
+            year: 2021,
+            month: 8,
+            day: 10,
+          },
+          {
+            zone: "Pacific/Honolulu",
+          }
+        ).endOf("day")
       ),
     ])
     expect(inputs).toHaveProperty("noBlockLabel", "no-block")
@@ -212,23 +260,35 @@ describe("Inputs", () => {
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
     expect(inputs).toHaveProperty("after", {
-      base: DateTime.fromObject({
-        hour: 17,
-        minute: 30,
-        zone: "Europe/Madrid",
-      }),
-      Monday: DateTime.fromObject({
-        hour: 16,
-        minute: 30,
-        zone: "Europe/Madrid",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 17,
+          minute: 30,
+        },
+        {
+          zone: "Europe/Madrid",
+        }
+      ),
+      Monday: DateTime.fromObject(
+        {
+          hour: 16,
+          minute: 30,
+        },
+        {
+          zone: "Europe/Madrid",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("before", {
-      base: DateTime.fromObject({
-        hour: 9,
-        minute: 0,
-        zone: "Europe/Madrid",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 9,
+          minute: 0,
+        },
+        {
+          zone: "Europe/Madrid",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
@@ -265,52 +325,76 @@ describe("Inputs", () => {
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
     expect(inputs).toHaveProperty("after", {
-      base: DateTime.fromObject({
-        hour: 17,
-        minute: 30,
-        zone: "Europe/Madrid",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 17,
+          minute: 30,
+        },
+        {
+          zone: "Europe/Madrid",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("before", {
-      base: DateTime.fromObject({
-        hour: 9,
-        minute: 0,
-        zone: "Europe/Madrid",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 9,
+          minute: 0,
+        },
+        {
+          zone: "Europe/Madrid",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
     expect(inputs.prohibitedDates.length).toBeGreaterThan(250)
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
-        DateTime.fromObject({
-          year: 2022,
-          month: 1,
-          day: 23,
-          zone: "Europe/Madrid",
-        }).startOf("day"),
-        DateTime.fromObject({
-          year: 2022,
-          month: 1,
-          day: 23,
-          zone: "Europe/Madrid",
-        }).endOf("day")
+        DateTime.fromObject(
+          {
+            year: 2022,
+            month: 1,
+            day: 23,
+          },
+          {
+            zone: "Europe/Madrid",
+          }
+        ).startOf("day"),
+        DateTime.fromObject(
+          {
+            year: 2022,
+            month: 1,
+            day: 23,
+          },
+          {
+            zone: "Europe/Madrid",
+          }
+        ).endOf("day")
       )
     )
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
-        DateTime.fromObject({
-          year: 2022,
-          month: 1,
-          day: 22,
-          zone: "Europe/Madrid",
-        }).startOf("day"),
-        DateTime.fromObject({
-          year: 2022,
-          month: 1,
-          day: 22,
-          zone: "Europe/Madrid",
-        }).endOf("day")
+        DateTime.fromObject(
+          {
+            year: 2022,
+            month: 1,
+            day: 22,
+          },
+          {
+            zone: "Europe/Madrid",
+          }
+        ).startOf("day"),
+        DateTime.fromObject(
+          {
+            year: 2022,
+            month: 1,
+            day: 22,
+          },
+          {
+            zone: "Europe/Madrid",
+          }
+        ).endOf("day")
       )
     )
     expect(inputs).toHaveProperty("noBlockLabel", "no-block")
@@ -345,52 +429,76 @@ describe("Inputs", () => {
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
     expect(inputs).toHaveProperty("after", {
-      base: DateTime.fromObject({
-        hour: 17,
-        minute: 30,
-        zone: "Europe/Madrid",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 17,
+          minute: 30,
+        },
+        {
+          zone: "Europe/Madrid",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("before", {
-      base: DateTime.fromObject({
-        hour: 9,
-        minute: 0,
-        zone: "Europe/Madrid",
-      }),
+      base: DateTime.fromObject(
+        {
+          hour: 9,
+          minute: 0,
+        },
+        {
+          zone: "Europe/Madrid",
+        }
+      ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
     expect(inputs.prohibitedDates.length).toBeGreaterThan(250)
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
-        DateTime.fromObject({
-          year: 2022,
-          month: 1,
-          day: 23,
-          zone: "Europe/Madrid",
-        }).startOf("day"),
-        DateTime.fromObject({
-          year: 2022,
-          month: 1,
-          day: 23,
-          zone: "Europe/Madrid",
-        }).endOf("day")
+        DateTime.fromObject(
+          {
+            year: 2022,
+            month: 1,
+            day: 23,
+          },
+          {
+            zone: "Europe/Madrid",
+          }
+        ).startOf("day"),
+        DateTime.fromObject(
+          {
+            year: 2022,
+            month: 1,
+            day: 23,
+          },
+          {
+            zone: "Europe/Madrid",
+          }
+        ).endOf("day")
       )
     )
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
-        DateTime.fromObject({
-          year: 2022,
-          month: 1,
-          day: 22,
-          zone: "Europe/Madrid",
-        }).startOf("day"),
-        DateTime.fromObject({
-          year: 2022,
-          month: 1,
-          day: 22,
-          zone: "Europe/Madrid",
-        }).endOf("day")
+        DateTime.fromObject(
+          {
+            year: 2022,
+            month: 1,
+            day: 22,
+          },
+          {
+            zone: "Europe/Madrid",
+          }
+        ).startOf("day"),
+        DateTime.fromObject(
+          {
+            year: 2022,
+            month: 1,
+            day: 22,
+          },
+          {
+            zone: "Europe/Madrid",
+          }
+        ).endOf("day")
       )
     )
     expect(inputs).toHaveProperty("noBlockLabel", "no-block")
