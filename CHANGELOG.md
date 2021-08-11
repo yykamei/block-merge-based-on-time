@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.7...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Bahrain, Egypt, India, Indonesia, Iraq, Kyrgyzstan, Kuwait, Lebanon, Sri Lanka, Somalia [\#177](https://github.com/yykamei/block-merge-based-on-time/pull/177) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump luxon from 1.27.0 to 2.0.2 [\#173](https://github.com/yykamei/block-merge-based-on-time/pull/173) ([yykamei](https://github.com/yykamei))
