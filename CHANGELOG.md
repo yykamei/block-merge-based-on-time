@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.8...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Djibouti [\#181](https://github.com/yykamei/block-merge-based-on-time/pull/181) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/jest from 26.0.24 to 27.0.0 [\#179](https://github.com/yykamei/block-merge-based-on-time/pull/179) ([dependabot[bot]](https://github.com/apps/dependabot))
