@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Bump @types/node from 16.4.13 to 16.6.0 [\#182](https://github.com/yykamei/block-merge-based-on-time/pull/182) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/jest from 26.0.24 to 27.0.0 [\#179](https://github.com/yykamei/block-merge-based-on-time/pull/179) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.8](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.8) (2021-08-11)
