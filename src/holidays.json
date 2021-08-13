@@ -26023,9 +26023,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220314_lsgc024qscepc9nj9qlu4ske98",
+      "id": "20220314_98lu0okb3hevr5kkqm0egm5ij4",
       "status": "confirmed",
-      "summary": "Public Holiday",
+      "summary": "1848 Revolution Memorial Day (Extra holiday)",
       "region": "Hungary",
       "date": "2022-03-14"
     },
@@ -26107,9 +26107,9 @@
       "date": "2022-10-23"
     },
     {
-      "id": "20221031_guju8b8f03d32q20qt5kr8nbd8",
+      "id": "20221031_05ek30sf26k8a8ol3hqqbm5nvk",
       "status": "confirmed",
-      "summary": "Public Holiday",
+      "summary": "All Saints' Day Holiday",
       "region": "Hungary",
       "date": "2022-10-31"
     },
@@ -27888,6 +27888,13 @@
       "date": "2021-03-11"
     },
     {
+      "id": "20210320_gqjbnlbm32ttqg2f673r0sgb5c",
+      "status": "confirmed",
+      "summary": "Oil Nationalization Day",
+      "region": "Iran",
+      "date": "2021-03-20"
+    },
+    {
       "id": "20210321_4ulppqoerubofddoucsp8d08j0",
       "status": "confirmed",
       "summary": "Norooz (Persian New Year)",
@@ -27921,6 +27928,20 @@
       "summary": "Imam Mahdi's birthday",
       "region": "Iran",
       "date": "2021-03-29"
+    },
+    {
+      "id": "20210401_6n5r18v02vkhvmr8ju34lijcmc",
+      "status": "confirmed",
+      "summary": "Islamic Republic Day",
+      "region": "Iran",
+      "date": "2021-04-01"
+    },
+    {
+      "id": "20210402_qsboirg15vf48fvv39r54u3vl0",
+      "status": "confirmed",
+      "summary": "Nature Day",
+      "region": "Iran",
+      "date": "2021-04-02"
     },
     {
       "id": "20210504_d3ictd8ua8aipbj6o22jdmg91o",
@@ -27958,11 +27979,11 @@
       "date": "2021-07-20"
     },
     {
-      "id": "20210728_0f9trct9p3bafu1aaourhdm7n4",
+      "id": "20210729_4cf34cvjf3lonqmrldrtpo5o74",
       "status": "confirmed",
       "summary": "Eid-e-Ghadir",
       "region": "Iran",
-      "date": "2021-07-28"
+      "date": "2021-07-29"
     },
     {
       "id": "20210818_4mcbbr42efkqtpb96egggg6cpo",
@@ -28014,11 +28035,11 @@
       "date": "2021-10-24"
     },
     {
-      "id": "20220107_kdurvnipm734roab21prvmh09k",
+      "id": "20220106_me0g8nf8vggi87h2qm68fhjkp0",
       "status": "confirmed",
       "summary": "Martyrdom of Fatima",
       "region": "Iran",
-      "date": "2022-01-07"
+      "date": "2022-01-06"
     },
     {
       "id": "20220211_2032q2smj0stqf5mb6qbkis51c",
@@ -28047,6 +28068,55 @@
       "summary": "Imam Mahdi's birthday",
       "region": "Iran",
       "date": "2022-03-19"
+    },
+    {
+      "id": "20220320_qm7t2f3p3chc4iepmjqj0o78i0",
+      "status": "confirmed",
+      "summary": "Oil Nationalization Day",
+      "region": "Iran",
+      "date": "2022-03-20"
+    },
+    {
+      "id": "20220321_njb6q1vta4vs8k0rrj317qa8ng",
+      "status": "confirmed",
+      "summary": "Norooz (Persian New Year)",
+      "region": "Iran",
+      "date": "2022-03-21"
+    },
+    {
+      "id": "20220322_lphniupb5bg54iekdso93trg94",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2022-03-22"
+    },
+    {
+      "id": "20220323_2ei3l3egiqb4058sbm56ui4lvg",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2022-03-23"
+    },
+    {
+      "id": "20220324_v53vaki1oe8bd9g7t4qpdq4lkk",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2022-03-24"
+    },
+    {
+      "id": "20220401_0prj6ctf081stfakoiatrq8jdc",
+      "status": "confirmed",
+      "summary": "Islamic Republic Day",
+      "region": "Iran",
+      "date": "2022-04-01"
+    },
+    {
+      "id": "20220402_4g9996t2omrfe6s0667nlq8mtc",
+      "status": "confirmed",
+      "summary": "Nature Day",
+      "region": "Iran",
+      "date": "2022-04-02"
     },
     {
       "id": "20220423_c1s6q3ijr97mrn9cn1vulsqtj4",
@@ -28119,13 +28189,6 @@
       "date": "2022-09-25"
     },
     {
-      "id": "20220926_rapedq9d2rgeruhelrhp558lmk",
-      "status": "confirmed",
-      "summary": "Martyrdom of Imam Reza",
-      "region": "Iran",
-      "date": "2022-09-26"
-    },
-    {
       "id": "20221004_47rtishg8tb4uluooi13evncc8",
       "status": "confirmed",
       "summary": "Martyrdom of Imam Hasan al-Askari",
@@ -28138,13 +28201,6 @@
       "summary": "Birthday of Prophet Muhammad and Imam Sadeq",
       "region": "Iran",
       "date": "2022-10-13"
-    },
-    {
-      "id": "20221227_92vfqm343kf8modc2mrvujs2gg",
-      "status": "confirmed",
-      "summary": "Martyrdom of Fatima",
-      "region": "Iran",
-      "date": "2022-12-27"
     }
   ],
   "Ireland": [
@@ -56890,11 +56946,11 @@
       "date": "2021-08-01"
     },
     {
-      "id": "20210810_9paecp1f36g0902jns7ppc6dnk",
+      "id": "20210809_n9s3a9f1dk7k4e9mimdcq5gefc",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Syria",
-      "date": "2021-08-10"
+      "date": "2021-08-09"
     },
     {
       "id": "20211006_q63ss2jr3ep4lam59nbg6ehqt0",
@@ -61763,16 +61819,16 @@
       "date": "2021-05-09"
     },
     {
-      "id": "20210509_uqbr1knp1deq37lamtgf9lq2r0",
+      "id": "20210509_uijlm5irs7mj9pp2j8coq45pj8",
       "status": "confirmed",
-      "summary": "Victory Day / Memorial Day",
+      "summary": "Victory Day",
       "region": "Ukraine",
       "date": "2021-05-09"
     },
     {
-      "id": "20210510_m9k0v1el3dp6m4k3ttok9o7i60",
+      "id": "20210510_4lkcumkivtincum8seutp931d0",
       "status": "confirmed",
-      "summary": "Victory Day / Memorial Day observed",
+      "summary": "Day off for Victory Day",
       "region": "Ukraine",
       "date": "2021-05-10"
     },
@@ -61791,6 +61847,20 @@
       "date": "2021-05-30"
     },
     {
+      "id": "20210601_k07gtah0k2mre6n6m8e6hp8qpk",
+      "status": "confirmed",
+      "summary": "Child Protection Day",
+      "region": "Ukraine",
+      "date": "2021-06-01"
+    },
+    {
+      "id": "20210606_tnmpubq888sbdfvdb8doieqd5c",
+      "status": "confirmed",
+      "summary": "Journalists' Day",
+      "region": "Ukraine",
+      "date": "2021-06-06"
+    },
+    {
       "id": "20210620_bof7g846hng6d09udih895c54g",
       "status": "confirmed",
       "summary": "Orthodox Pentecost",
@@ -61803,6 +61873,13 @@
       "summary": "Orthodox Pentecost Holiday",
       "region": "Ukraine",
       "date": "2021-06-21"
+    },
+    {
+      "id": "20210622_q4lsv23850uosnvj5shqkshn68",
+      "status": "confirmed",
+      "summary": "Day of Mourning and Commemoration of War Victims",
+      "region": "Ukraine",
+      "date": "2021-06-22"
     },
     {
       "id": "20210628_c41eqnkhdlmtj1jrlfoicqkclk",
@@ -62001,9 +62078,9 @@
       "date": "2022-05-08"
     },
     {
-      "id": "20220509_grdd41sbv61rm7v8sc0fg4eci4",
+      "id": "20220509_qsvg6cej2ul4rt0es85oacvn88",
       "status": "confirmed",
-      "summary": "Victory Day / Memorial Day",
+      "summary": "Victory Day",
       "region": "Ukraine",
       "date": "2022-05-09"
     },
@@ -62022,6 +62099,20 @@
       "date": "2022-05-29"
     },
     {
+      "id": "20220601_ss0mbb2ankvim2p063lvukt2rc",
+      "status": "confirmed",
+      "summary": "Child Protection Day",
+      "region": "Ukraine",
+      "date": "2022-06-01"
+    },
+    {
+      "id": "20220606_ffc2jfcbt259ti0jtjjqci2l0s",
+      "status": "confirmed",
+      "summary": "Journalists' Day",
+      "region": "Ukraine",
+      "date": "2022-06-06"
+    },
+    {
       "id": "20220612_eoail3iesid43uhj7r324fm65s",
       "status": "confirmed",
       "summary": "Orthodox Pentecost",
@@ -62034,6 +62125,13 @@
       "summary": "Orthodox Pentecost Holiday",
       "region": "Ukraine",
       "date": "2022-06-13"
+    },
+    {
+      "id": "20220622_2eil31640v04jeqngfi7t6cp48",
+      "status": "confirmed",
+      "summary": "Day of Mourning and Commemoration of War Victims",
+      "region": "Ukraine",
+      "date": "2022-06-22"
     },
     {
       "id": "20220628_va7llnrnobi7pdj6kl557m0ol4",
@@ -66343,6 +66441,20 @@
       "summary": "Farmers' Day",
       "region": "Zambia",
       "date": "2021-08-02"
+    },
+    {
+      "id": "20210812_cncnqt06jf20luad1q86osnegs",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Zambia",
+      "date": "2021-08-12"
+    },
+    {
+      "id": "20210813_a7jvsb2ein6gaab0ptf3c6hmmk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Zambia",
+      "date": "2021-08-13"
     },
     {
       "id": "20211018_3gi8nvec26klest5aefdbps1dk",
