@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.9...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Hungary, Iran, Syria, Ukraine, Zambia [\#185](https://github.com/yykamei/block-merge-based-on-time/pull/185) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/jest from 27.0.0 to 27.0.1 [\#187](https://github.com/yykamei/block-merge-based-on-time/pull/187) ([dependabot[bot]](https://github.com/apps/dependabot))
