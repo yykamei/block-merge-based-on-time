@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.9...HEAD)
+
+**Merged pull requests:**
+
+- Bump @types/jest from 27.0.0 to 27.0.1 [\#187](https://github.com/yykamei/block-merge-based-on-time/pull/187) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 16.6.0 to 16.6.1 [\#186](https://github.com/yykamei/block-merge-based-on-time/pull/186) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.9](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.9) (2021-08-12)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.8...v1.1.9)
