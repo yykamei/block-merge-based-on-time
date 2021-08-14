@@ -805,6 +805,13 @@
       "date": "2021-08-03"
     },
     {
+      "id": "20210826_v86ep9dfemhtt86fdrbebhv8b4",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Antigua & Barbuda",
+      "date": "2021-08-26"
+    },
+    {
       "id": "20211101_svuknf9piibgp34990b8dsldnk",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -10525,7 +10532,7 @@
       "date": "2021-11-07"
     },
     {
-      "id": "20211111_rtdcce0at9h1c4fabhqhg5mcgo",
+      "id": "20211111_lb8ublc7ohnaicepmnaruhgj6c",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -10567,6 +10574,13 @@
       "date": "2021-12-27"
     },
     {
+      "id": "20211228_1ola7c59uumccskh88scbjqdc0",
+      "status": "confirmed",
+      "summary": "Boxing Day (Nunavut)",
+      "region": "Canada",
+      "date": "2021-12-28"
+    },
+    {
       "id": "20211231_m1fsf4u2ncu8tuar0g01hepaoo",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -10586,13 +10600,6 @@
       "summary": "Day After New Year’s Day (Quebec)",
       "region": "Canada",
       "date": "2022-01-02"
-    },
-    {
-      "id": "20220103_4o6erf91mes3loddtkb1jcqc10",
-      "status": "confirmed",
-      "summary": "New Year's Day observed",
-      "region": "Canada",
-      "date": "2022-01-03"
     },
     {
       "id": "20220106_12jk85m97048fl3jhlvsu9at5c",
@@ -10707,7 +10714,7 @@
       "date": "2022-04-17"
     },
     {
-      "id": "20220418_e3r7u5u9p0kgckkf6eqetuir4c",
+      "id": "20220418_ssermfk9fp5597ho5rbaj9i8qo",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -10903,7 +10910,7 @@
       "date": "2022-11-06"
     },
     {
-      "id": "20221111_lguphl64dun37jv49eee1g32vk",
+      "id": "20221111_unlohq4nmc72sh7mm0rn5etfto",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -10917,9 +10924,9 @@
       "date": "2022-12-11"
     },
     {
-      "id": "20221224_il5k4ufom325un7i6cn8t9g4gk",
+      "id": "20221224_fjn6aglgm7r4h8100kldp5uns8",
       "status": "confirmed",
-      "summary": "Christmas Eve",
+      "summary": "Christmas Eve (New Brunswick)",
       "region": "Canada",
       "date": "2022-12-24"
     },
@@ -10931,11 +10938,18 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_0af601jjnlrhc3e58dc97p6iec",
+      "id": "20221226_jc683jgagncet9k5m9uroop69s",
       "status": "confirmed",
       "summary": "Boxing Day (regional holiday)",
       "region": "Canada",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_4vk1qsro72dm8huuga3i032ms8",
+      "status": "confirmed",
+      "summary": "Boxing Day (New Brunswick)",
+      "region": "Canada",
+      "date": "2022-12-27"
     },
     {
       "id": "20221231_f79d2iphdkfskd9880a03sjscg",
@@ -42177,6 +42191,20 @@
       "date": "2021-07-27"
     },
     {
+      "id": "20210728_2r3em3l844d0agfe4f7uv278vg",
+      "status": "confirmed",
+      "summary": "Government Holiday",
+      "region": "Maldives",
+      "date": "2021-07-28"
+    },
+    {
+      "id": "20210729_j700e3ks14moth2gu3g93mqsfo",
+      "status": "confirmed",
+      "summary": "Government Holiday",
+      "region": "Maldives",
+      "date": "2021-07-29"
+    },
+    {
       "id": "20210809_j6o8vjaprohjl4u0qaiuskpncs",
       "status": "confirmed",
       "summary": "Muharram/Islamic New Year",
@@ -49008,6 +49036,13 @@
       "date": "2021-06-12"
     },
     {
+      "id": "20210719_rc61cupcaq2p8p37chqorllcl8",
+      "status": "confirmed",
+      "summary": "National Holiday",
+      "region": "Paraguay",
+      "date": "2021-07-19"
+    },
+    {
       "id": "20210815_clji7ksi5cn7va0prqovaj4iho",
       "status": "confirmed",
       "summary": "Founding of Asuncion",
@@ -55529,6 +55564,20 @@
       "date": "2021-05-01"
     },
     {
+      "id": "20210503_s5rsl044gtmjdm4ovavskghamk",
+      "status": "confirmed",
+      "summary": "Day off for May Day",
+      "region": "South Sudan",
+      "date": "2021-05-03"
+    },
+    {
+      "id": "20210512_lp19a0jn9mepcms8p2pg0g1vco",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "South Sudan",
+      "date": "2021-05-12"
+    },
+    {
       "id": "20210513_fi0oohke68aeueqdb275iv0fu4",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -55536,11 +55585,32 @@
       "date": "2021-05-13"
     },
     {
+      "id": "20210514_6eurqjpn6g5s4hh62rbuotmc5s",
+      "status": "confirmed",
+      "summary": "SPLA Day",
+      "region": "South Sudan",
+      "date": "2021-05-14"
+    },
+    {
+      "id": "20210515_2tuuuvcho5drh1oo14qpnn2s3s",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "South Sudan",
+      "date": "2021-05-15"
+    },
+    {
       "id": "20210516_dhvhv2928lui54qbdmvrh7mfl0",
       "status": "confirmed",
       "summary": "SPLA Day",
       "region": "South Sudan",
       "date": "2021-05-16"
+    },
+    {
+      "id": "20210517_4vn6jtuuha7natrrb20mvp8680",
+      "status": "confirmed",
+      "summary": "SPLA Day",
+      "region": "South Sudan",
+      "date": "2021-05-17"
     },
     {
       "id": "20210610_vbtlstb2dkq4c20gl7blk2hvc4",
@@ -55653,6 +55723,13 @@
       "summary": "May Day",
       "region": "South Sudan",
       "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_rot8pke7a57nqqghnkc9dvt5b4",
+      "status": "confirmed",
+      "summary": "Day off for May Day",
+      "region": "South Sudan",
+      "date": "2022-05-02"
     },
     {
       "id": "20220503_oqqa1v6jricdb7ofq9v87fihbo",
