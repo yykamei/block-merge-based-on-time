@@ -13852,15 +13852,28 @@ function handleAllPulls(inputs) {
         const branch = yield defaultBranch(octokit, owner, repo);
         const results = yield pulls(octokit, owner, repo, inputs.commitStatusContext);
         const isShouldBlock = shouldBlock(inputs);
-        results.forEach((pull) => {
+        const errors = [];
+        for (const pull of results) {
             // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
             const state = inputs.baseBranches(branch).some((b) => b.test(pull.baseBranch)) &&
                 isShouldBlock &&
                 !pull.labels.includes(inputs.noBlockLabel)
                 ? "pending"
                 : "success";
-            createCommitStatus(octokit, pull, inputs, state);
-        });
+            try {
+                yield createCommitStatus(octokit, pull, inputs, state);
+            }
+            catch (error) {
+                console.error(`#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`);
+                errors.push({ pull, error });
+            }
+        }
+        if (errors.length > 0) {
+            throw new Error(`Some pull requests failed to get updated with the commit status context "${inputs.commitStatusContext}".
+The failed pull requests are:
+
+${errors.map((e) => `- #${e.pull.number}`).join("\n")}`);
+        }
     });
 }
 function handlePull(inputs) {
