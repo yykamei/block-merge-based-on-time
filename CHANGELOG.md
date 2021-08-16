@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.12...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Portugal [\#195](https://github.com/yykamei/block-merge-based-on-time/pull/195) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.12](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.12) (2021-08-15)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.11...v1.1.12)
