@@ -1,5 +1,5 @@
 import { createCommitStatus, defaultBranch, pull, pulls } from "../src/github"
-import * as core from "@actions/core";
+import * as core from "@actions/core"
 
 describe("createCommitStatus", () => {
   beforeAll(() => {

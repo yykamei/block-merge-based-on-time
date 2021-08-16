@@ -1,4 +1,4 @@
-import * as core from '@actions/core'
+import * as core from "@actions/core"
 import { context, getOctokit } from "@actions/github"
 import { Inputs } from "./inputs"
 import { shouldBlock } from "./should-block"
