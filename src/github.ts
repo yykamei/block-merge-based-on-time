@@ -71,8 +71,10 @@ export async function createCommitStatus(
   inputs: Inputs,
   state: "success" | "pending"
 ): Promise<void> {
-  core.debug(`Start createCommitStatus(), updating the state from ${pullRequestStatus.state} to ${state}`)
-  if (pullRequestStatus.state === state) {
+  const currentState = pullRequestStatus.state?.toLowerCase()
+  core.debug(`Start createCommitStatus(), updating the state from ${currentState} to ${state}`)
+
+  if (currentState === state) {
     return
   }
   const { owner, repo, sha } = pullRequestStatus
