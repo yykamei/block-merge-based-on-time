@@ -1,3 +1,4 @@
+import * as core from "@actions/core"
 import { GitHub } from "@actions/github/lib/utils"
 import { Inputs } from "./inputs"
 import type { PullRequestStatus } from "./types"
@@ -70,6 +71,7 @@ export async function createCommitStatus(
   inputs: Inputs,
   state: "success" | "pending"
 ): Promise<void> {
+  core.debug(`Start createCommitStatus(), updating the state from ${pullRequestStatus.state} to ${state}`)
   if (pullRequestStatus.state === state) {
     return
   }
@@ -103,6 +105,7 @@ export async function defaultBranch(
   owner: string,
   repo: string
 ): Promise<string> {
+  core.debug(`Start defaultBranch() to get the default branch of ${owner}/${repo}`)
   const result: RepositoryResponse = await octokit.graphql(
     `
 query($owner: String!, $repo: String!) {
@@ -124,6 +127,7 @@ export async function pull(
   contextName: string,
   pullNumber: number
 ): Promise<{ readonly defaultBranch: string; readonly pull: PullRequestStatus }> {
+  core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`)
   const result: PullResponse = await octokit.graphql(
     `
 query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!) {
@@ -162,6 +166,10 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
 }`,
     { owner, repo, contextName, pullNumber }
   )
+  core.debug(
+    `pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`
+  )
+
   const commit = result.repository.pullRequest.commits.edges[0]
   if (commit == null) {
     throw new Error("commit should be present")
@@ -187,6 +195,7 @@ export async function pulls(
   repo: string,
   contextName: string
 ): Promise<PullRequestStatus[]> {
+  core.debug(`Start pulls() to get the pull requests of ${owner}/${repo}`)
   let after: string | null = null
   let hasNextPage = true
   let statuses: PullRequestStatus[] = []
@@ -240,8 +249,9 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
     hasNextPage = result.repository.pullRequests.pageInfo.hasNextPage
     after = result.repository.pullRequests.pageInfo.endCursor
 
-    const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) =>
-      pr.commits.edges.map(({ node: commit }) => ({
+    const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => {
+      core.debug(`pulls() got the pull request: #${pr.number} ${pr.title}`)
+      return pr.commits.edges.map(({ node: commit }) => ({
         owner,
         repo,
         number: pr.number,
@@ -250,7 +260,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
         labels: pr.labels.edges.map((l) => l.node.name),
         state: commit.commit.status?.context?.state,
       }))
-    )
+    })
     statuses = [...statuses, ...data]
   }
   return statuses

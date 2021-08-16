@@ -5,6 +5,7 @@ import { Inputs } from "../src/inputs"
 describe("shouldBlock", () => {
   beforeEach(() => {
     jest.useFakeTimers()
+    jest.spyOn(core, "debug").mockImplementation(jest.fn)
   })
 
   afterEach(() => {

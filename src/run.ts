@@ -1,3 +1,4 @@
+import * as core from '@actions/core'
 import { context, getOctokit } from "@actions/github"
 import { Inputs } from "./inputs"
 import { shouldBlock } from "./should-block"
@@ -7,6 +8,7 @@ import type { ErrorPullRequest } from "./types"
 export async function run(): Promise<void> {
   const inputs = new Inputs()
 
+  core.debug(`We got the event ${context.eventName}.`)
   switch (context.eventName) {
     case "schedule":
     case "workflow_dispatch":
@@ -34,10 +36,11 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
       !pull.labels.includes(inputs.noBlockLabel)
         ? "pending"
         : "success"
+    core.debug(`We decided to make the state "${state}"`)
     try {
       await createCommitStatus(octokit, pull, inputs, state)
     } catch (error) {
-      console.error(
+      core.error(
         `#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`
       )
       errors.push({ pull, error })
@@ -70,5 +73,6 @@ async function handlePull(inputs: Inputs): Promise<void> {
     !result.pull.labels.includes(inputs.noBlockLabel)
       ? "pending"
       : "success"
+  core.debug(`We decided to make the state "${state}"`)
   return createCommitStatus(octokit, result.pull, inputs, state)
 }
