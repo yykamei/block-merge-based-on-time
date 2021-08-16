@@ -13654,14 +13654,15 @@ var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _argume
 };
 
 function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
-    var _a;
+    var _a, _b;
     return __awaiter(this, void 0, void 0, function* () {
-        core.debug(`Start createCommitStatus(), updating the state from ${pullRequestStatus.state} to ${state}`);
-        if (pullRequestStatus.state === state) {
+        const currentState = (_a = pullRequestStatus.state) === null || _a === void 0 ? void 0 : _a.toLowerCase();
+        core.debug(`Start createCommitStatus(), updating the state from ${currentState} to ${state}`);
+        if (currentState === state) {
             return;
         }
         const { owner, repo, sha } = pullRequestStatus;
-        const targetUrl = (_a = inputs.commitStatusURL) !== null && _a !== void 0 ? _a : undefined;
+        const targetUrl = (_b = inputs.commitStatusURL) !== null && _b !== void 0 ? _b : undefined;
         const context = inputs.commitStatusContext;
         let description;
         switch (state) {
