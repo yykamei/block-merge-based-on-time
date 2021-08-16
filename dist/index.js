@@ -13586,14 +13586,19 @@ function escapeRegExpCharacters(s) {
 
 ;// CONCATENATED MODULE: ./src/should-block.ts
 
+
 function shouldBlock(inputs) {
+    core.debug(`Start shouldBlock()`);
     const now = luxon/* DateTime.now */.ou.now().setZone(inputs.timezone);
     if (isProhibitedDay(now, inputs.prohibitedDays, inputs.prohibitedDates)) {
+        core.debug(`shouldBlock() decided to return "true" because ${now} is within prohibited days`);
         return true;
     }
     else if (isDuringTime(now, inputs.after, inputs.before)) {
+        core.debug(`shouldBlock() decided to return "true" because ${now} is during prohibited hours`);
         return true;
     }
+    core.debug(`shouldBlock() decided to return "false"`);
     return false;
 }
 function isProhibitedDay(now, days, dates) {
@@ -13647,9 +13652,11 @@ var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _argume
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
+
 function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
     var _a;
     return __awaiter(this, void 0, void 0, function* () {
+        core.debug(`Start createCommitStatus(), updating the state from ${pullRequestStatus.state} to ${state}`);
         if (pullRequestStatus.state === state) {
             return;
         }
@@ -13680,6 +13687,7 @@ function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
 }
 function defaultBranch(octokit, owner, repo) {
     return __awaiter(this, void 0, void 0, function* () {
+        core.debug(`Start defaultBranch() to get the default branch of ${owner}/${repo}`);
         const result = yield octokit.graphql(`
 query($owner: String!, $repo: String!) {
   repository(owner: $owner, name: $repo) {
@@ -13694,6 +13702,7 @@ query($owner: String!, $repo: String!) {
 function pull(octokit, owner, repo, contextName, pullNumber) {
     var _a, _b;
     return __awaiter(this, void 0, void 0, function* () {
+        core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`);
         const result = yield octokit.graphql(`
 query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!) {
   repository(owner: $owner, name: $repo) {
@@ -13729,6 +13738,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
     }
   }
 }`, { owner, repo, contextName, pullNumber });
+        core.debug(`pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`);
         const commit = result.repository.pullRequest.commits.edges[0];
         if (commit == null) {
             throw new Error("commit should be present");
@@ -13750,6 +13760,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
 }
 function pulls(octokit, owner, repo, contextName) {
     return __awaiter(this, void 0, void 0, function* () {
+        core.debug(`Start pulls() to get the pull requests of ${owner}/${repo}`);
         let after = null;
         let hasNextPage = true;
         let statuses = [];
@@ -13799,18 +13810,21 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
 }`, { owner, repo, contextName, after });
             hasNextPage = result.repository.pullRequests.pageInfo.hasNextPage;
             after = result.repository.pullRequests.pageInfo.endCursor;
-            const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => pr.commits.edges.map(({ node: commit }) => {
-                var _a, _b;
-                return ({
-                    owner,
-                    repo,
-                    number: pr.number,
-                    baseBranch: pr.baseRefName,
-                    sha: commit.commit.oid,
-                    labels: pr.labels.edges.map((l) => l.node.name),
-                    state: (_b = (_a = commit.commit.status) === null || _a === void 0 ? void 0 : _a.context) === null || _b === void 0 ? void 0 : _b.state,
+            const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => {
+                core.debug(`pulls() got the pull request: #${pr.number} ${pr.title}`);
+                return pr.commits.edges.map(({ node: commit }) => {
+                    var _a, _b;
+                    return ({
+                        owner,
+                        repo,
+                        number: pr.number,
+                        baseBranch: pr.baseRefName,
+                        sha: commit.commit.oid,
+                        labels: pr.labels.edges.map((l) => l.node.name),
+                        state: (_b = (_a = commit.commit.status) === null || _a === void 0 ? void 0 : _a.context) === null || _b === void 0 ? void 0 : _b.state,
+                    });
                 });
-            }));
+            });
             statuses = [...statuses, ...data];
         }
         return statuses;
@@ -13831,9 +13845,11 @@ var run_awaiter = (undefined && undefined.__awaiter) || function (thisArg, _argu
 
 
 
+
 function run() {
     return run_awaiter(this, void 0, void 0, function* () {
         const inputs = new Inputs();
+        core.debug(`We got the event ${github.context.eventName}.`);
         switch (github.context.eventName) {
             case "schedule":
             case "workflow_dispatch":
@@ -13860,11 +13876,12 @@ function handleAllPulls(inputs) {
                 !pull.labels.includes(inputs.noBlockLabel)
                 ? "pending"
                 : "success";
+            core.debug(`We decided to make the state "${state}"`);
             try {
                 yield createCommitStatus(octokit, pull, inputs, state);
             }
             catch (error) {
-                console.error(`#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`);
+                core.error(`#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`);
                 errors.push({ pull, error });
             }
         }
@@ -13892,6 +13909,7 @@ function handlePull(inputs) {
             !result.pull.labels.includes(inputs.noBlockLabel)
             ? "pending"
             : "success";
+        core.debug(`We decided to make the state "${state}"`);
         return createCommitStatus(octokit, result.pull, inputs, state);
     });
 }
@@ -13899,10 +13917,11 @@ function handlePull(inputs) {
 ;// CONCATENATED MODULE: ./src/main.ts
 
 
+
 process.on("unhandledRejection", handleError);
 run().catch(handleError);
 function handleError(err) {
-    console.error(err);
+    core.error(`Unhandled error: ${err}`);
     (0,core.setFailed)(`Unhandled error: ${err}`);
 }
 
