@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.13...HEAD)
 
+**Fixed bugs:**
+
+- Handle Validation error of the limit of commit statuses [\#200](https://github.com/yykamei/block-merge-based-on-time/pull/200) ([yykamei](https://github.com/yykamei))
+
 **Merged pull requests:**
 
 - Bump @vercel/ncc from 0.29.0 to 0.29.1 [\#197](https://github.com/yykamei/block-merge-based-on-time/pull/197) ([dependabot[bot]](https://github.com/apps/dependabot))
