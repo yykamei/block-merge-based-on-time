@@ -1,6 +1,11 @@
 import { createCommitStatus, defaultBranch, pull, pulls } from "../src/github"
+import * as core from "@actions/core"
 
 describe("createCommitStatus", () => {
+  beforeAll(() => {
+    jest.spyOn(core, "debug").mockImplementation(jest.fn)
+  })
+
   test("creates a commit status to make it pending", async () => {
     const pull = {
       owner: "Foo",

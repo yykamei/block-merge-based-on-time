@@ -10,6 +10,7 @@ describe("run", () => {
   beforeAll(() => {
     jest.useFakeTimers()
     jest.spyOn(github, "getOctokit").mockImplementation(() => octokit as any)
+    jest.spyOn(core, "debug").mockImplementation(jest.fn)
   })
 
   afterAll(() => {
@@ -130,7 +131,7 @@ describe("run", () => {
           throw new Error("This SHA and context has reached the maximum number of statuses.")
         }
       })
-      const consoleError = jest.spyOn(global.console, "error").mockImplementation(() => undefined)
+      const coreError = jest.spyOn(core, "error").mockImplementation(jest.fn)
       try {
         await run()
       } catch (e: any) {
@@ -176,10 +177,10 @@ describe("run", () => {
           expect.any(Inputs),
           "pending"
         )
-        expect(consoleError).toHaveBeenCalledWith(
+        expect(coreError).toHaveBeenCalledWith(
           '#4\'s head commit is too old to get updated with the commit status context "BB". See the details: Error: This SHA and context has reached the maximum number of statuses.'
         )
-        expect(consoleError).toHaveBeenCalledWith(
+        expect(coreError).toHaveBeenCalledWith(
           '#6\'s head commit is too old to get updated with the commit status context "BB". See the details: Error: This SHA and context has reached the maximum number of statuses.'
         )
         expect(e.message).toEqual(`Some pull requests failed to get updated with the commit status context "BB".
