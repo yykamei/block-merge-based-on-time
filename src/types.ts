@@ -26,3 +26,18 @@ export interface HolidayEntry {
   readonly region: string
   readonly date: string
 }
+
+export interface PullRequestStatus {
+  readonly owner: string
+  readonly repo: string
+  readonly number: number
+  readonly baseBranch: string
+  readonly sha: string
+  readonly labels: string[]
+  readonly state?: string
+}
+
+export interface ErrorPullRequest {
+  readonly pull: PullRequestStatus
+  readonly error: Error
+}

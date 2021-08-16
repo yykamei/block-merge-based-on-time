@@ -17,7 +17,7 @@ describe("run", () => {
   })
 
   describe.each([["schedule"], ["workflow_dispatch"]])("when the event is %s", (event) => {
-    let inputs = {
+    const inputs = {
       token: "abc",
       after: "12:20",
       before: "16:00",
@@ -28,6 +28,7 @@ describe("run", () => {
       "commit-status-description-with-success": "",
       "commit-status-description-while-blocking": "",
       "commit-status-url": "",
+      "base-branches": "/^.*$/",
     }
 
     beforeEach(() => {
@@ -106,6 +107,88 @@ describe("run", () => {
         })
       }
     )
+
+    test("throws an error when some pull requests failed to get updated while successfully updating others", async () => {
+      jest.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
+      jest.spyOn(core, "getInput").mockImplementation(
+        (name) =>
+          ({
+            ...inputs,
+          }[name] as any)
+      )
+      const defaultBranch = jest.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
+      const pullsCall = jest
+        .spyOn(api, "pulls")
+        .mockImplementation(async () => [
+          { number: 3, baseBranch: "main", labels: [] } as any,
+          { number: 4, baseBranch: "main", labels: [] } as any,
+          { number: 5, baseBranch: "main", labels: [] } as any,
+          { number: 6, baseBranch: "main", labels: [] } as any,
+        ])
+      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async (_, pull) => {
+        if (pull.number === 4 || pull.number === 6) {
+          throw new Error("This SHA and context has reached the maximum number of statuses.")
+        }
+      })
+      const consoleError = jest.spyOn(global.console, "error").mockImplementation(() => undefined)
+      try {
+        await run()
+      } catch (e: any) {
+        expect(defaultBranch).toHaveBeenCalledWith(octokit, "foo", "special-repo")
+        expect(pullsCall).toHaveBeenCalledWith(octokit, "foo", "special-repo", "BB")
+        expect(createCommitStatus).toHaveBeenCalledWith(
+          octokit,
+          {
+            number: 3,
+            baseBranch: "main",
+            labels: [],
+          },
+          expect.any(Inputs),
+          "pending"
+        )
+        expect(createCommitStatus).toHaveBeenCalledWith(
+          octokit,
+          {
+            number: 4,
+            baseBranch: "main",
+            labels: [],
+          },
+          expect.any(Inputs),
+          "pending"
+        )
+        expect(createCommitStatus).toHaveBeenCalledWith(
+          octokit,
+          {
+            number: 5,
+            baseBranch: "main",
+            labels: [],
+          },
+          expect.any(Inputs),
+          "pending"
+        )
+        expect(createCommitStatus).toHaveBeenCalledWith(
+          octokit,
+          {
+            number: 6,
+            baseBranch: "main",
+            labels: [],
+          },
+          expect.any(Inputs),
+          "pending"
+        )
+        expect(consoleError).toHaveBeenCalledWith(
+          '#4\'s head commit is too old to get updated with the commit status context "BB". See the details: Error: This SHA and context has reached the maximum number of statuses.'
+        )
+        expect(consoleError).toHaveBeenCalledWith(
+          '#6\'s head commit is too old to get updated with the commit status context "BB". See the details: Error: This SHA and context has reached the maximum number of statuses.'
+        )
+        expect(e.message).toEqual(`Some pull requests failed to get updated with the commit status context "BB".
+The failed pull requests are:
+
+- #4
+- #6`)
+      }
+    })
   })
 
   describe("when the event is pull_request", () => {

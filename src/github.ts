@@ -1,15 +1,6 @@
 import { GitHub } from "@actions/github/lib/utils"
 import { Inputs } from "./inputs"
-
-export interface PullRequestStatus {
-  readonly owner: string
-  readonly repo: string
-  readonly number: number
-  readonly baseBranch: string
-  readonly sha: string
-  readonly labels: string[]
-  readonly state?: string
-}
+import type { PullRequestStatus } from "./types"
 
 interface Pull {
   readonly number: number
