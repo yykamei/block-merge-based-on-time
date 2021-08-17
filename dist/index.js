@@ -13890,7 +13890,9 @@ function handleAllPulls(inputs) {
             throw new Error(`Some pull requests failed to get updated with the commit status context "${inputs.commitStatusContext}".
 The failed pull requests are:
 
-${errors.map((e) => `- #${e.pull.number}`).join("\n")}`);
+${errors.map((e) => `- #${e.pull.number}`).join("\n")}
+
+You can resolve the problems with these actions: updating the pull requests with new commits, or closing them.`);
         }
     });
 }

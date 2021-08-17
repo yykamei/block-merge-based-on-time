@@ -187,7 +187,9 @@ describe("run", () => {
 The failed pull requests are:
 
 - #4
-- #6`)
+- #6
+
+You can resolve the problems with these actions: updating the pull requests with new commits, or closing them.`)
       }
     })
   })
