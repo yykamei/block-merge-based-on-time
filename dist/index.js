@@ -13657,7 +13657,7 @@ function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
     var _a, _b;
     return __awaiter(this, void 0, void 0, function* () {
         const currentState = (_a = pullRequestStatus.state) === null || _a === void 0 ? void 0 : _a.toLowerCase();
-        core.debug(`Start createCommitStatus(), updating the state from ${currentState} to ${state}`);
+        core.debug(`Start createCommitStatus(), updating the state of "${pullRequestStatus.sha}" from "${currentState}" to "${state}"`);
         if (currentState === state) {
             return;
         }
@@ -13675,7 +13675,7 @@ function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
                 break;
             }
         }
-        octokit.rest.repos.createCommitStatus({
+        yield octokit.rest.repos.createCommitStatus({
             owner,
             repo,
             sha,
@@ -13877,7 +13877,7 @@ function handleAllPulls(inputs) {
                 !pull.labels.includes(inputs.noBlockLabel)
                 ? "pending"
                 : "success";
-            core.debug(`We decided to make the state "${state}"`);
+            core.debug(`We decided to make the state "${state}" for "#${pull.number}"`);
             try {
                 yield createCommitStatus(octokit, pull, inputs, state);
             }
@@ -13890,7 +13890,9 @@ function handleAllPulls(inputs) {
             throw new Error(`Some pull requests failed to get updated with the commit status context "${inputs.commitStatusContext}".
 The failed pull requests are:
 
-${errors.map((e) => `- #${e.pull.number}`).join("\n")}`);
+${errors.map((e) => `- #${e.pull.number}`).join("\n")}
+
+You can resolve the problems with these actions: updating the pull requests with new commits, or closing them.`);
         }
     });
 }
@@ -13918,11 +13920,9 @@ function handlePull(inputs) {
 ;// CONCATENATED MODULE: ./src/main.ts
 
 
-
 process.on("unhandledRejection", handleError);
 run().catch(handleError);
 function handleError(err) {
-    core.error(`Unhandled error: ${err}`);
     (0,core.setFailed)(`Unhandled error: ${err}`);
 }
 

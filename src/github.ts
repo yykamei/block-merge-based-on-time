@@ -72,7 +72,9 @@ export async function createCommitStatus(
   state: "success" | "pending"
 ): Promise<void> {
   const currentState = pullRequestStatus.state?.toLowerCase()
-  core.debug(`Start createCommitStatus(), updating the state from ${currentState} to ${state}`)
+  core.debug(
+    `Start createCommitStatus(), updating the state of "${pullRequestStatus.sha}" from "${currentState}" to "${state}"`
+  )
 
   if (currentState === state) {
     return
@@ -91,7 +93,7 @@ export async function createCommitStatus(
       break
     }
   }
-  octokit.rest.repos.createCommitStatus({
+  await octokit.rest.repos.createCommitStatus({
     owner,
     repo,
     sha,
