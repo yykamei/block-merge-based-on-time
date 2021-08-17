@@ -36,7 +36,7 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
       !pull.labels.includes(inputs.noBlockLabel)
         ? "pending"
         : "success"
-    core.debug(`We decided to make the state "${state}"`)
+    core.debug(`We decided to make the state "${state}" for "#${pull.number}"`)
     try {
       await createCommitStatus(octokit, pull, inputs, state)
     } catch (error) {
