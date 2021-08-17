@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.15...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Myanmar \(Burma\) [\#204](https://github.com/yykamei/block-merge-based-on-time/pull/204) ([github-actions[bot]](https://github.com/apps/github-actions))
+
+**Merged pull requests:**
+
+- Bump @typescript-eslint/parser from 4.29.1 to 4.29.2 [\#206](https://github.com/yykamei/block-merge-based-on-time/pull/206) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.15](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.15) (2021-08-16)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.14...v1.1.15)
