@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.16...HEAD)
+
+**Fixed bugs:**
+
+- Put await explicitly for createCommitStatus\(\) [\#209](https://github.com/yykamei/block-merge-based-on-time/pull/209) ([yykamei](https://github.com/yykamei))
+
 ## [v1.1.16](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.16) (2021-08-17)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.15...v1.1.16)
