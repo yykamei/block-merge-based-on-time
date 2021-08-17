@@ -13918,11 +13918,9 @@ function handlePull(inputs) {
 ;// CONCATENATED MODULE: ./src/main.ts
 
 
-
 process.on("unhandledRejection", handleError);
 run().catch(handleError);
 function handleError(err) {
-    core.error(`Unhandled error: ${err}`);
     (0,core.setFailed)(`Unhandled error: ${err}`);
 }
 
