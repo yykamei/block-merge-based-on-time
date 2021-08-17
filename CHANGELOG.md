@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.17...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Gambia [\#211](https://github.com/yykamei/block-merge-based-on-time/pull/211) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.17](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.17) (2021-08-17)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.16...v1.1.17)
