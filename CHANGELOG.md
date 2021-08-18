@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.18...HEAD)
+
+**Merged pull requests:**
+
+- Bump ts-jest from 27.0.4 to 27.0.5 [\#213](https://github.com/yykamei/block-merge-based-on-time/pull/213) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.18](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.18) (2021-08-17)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.17...v1.1.18)
