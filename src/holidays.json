@@ -3227,6 +3227,13 @@
       "date": "2021-10-19"
     },
     {
+      "id": "20211029_ju6fmum3qp9vokuj2p0aml3gjg",
+      "status": "confirmed",
+      "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
+      "region": "Australia",
+      "date": "2021-10-29"
+    },
+    {
       "id": "20211101_9ie6fr7k64fddfa7c57b58u91k",
       "status": "confirmed",
       "summary": "Recreation Day (Tasmania)",
@@ -25825,6 +25832,20 @@
       "date": "2021-06-27"
     },
     {
+      "id": "20210722_uinoprr1i0kj2m8mmp2hivd9es",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Haiti",
+      "date": "2021-07-22"
+    },
+    {
+      "id": "20210723_ge16ka1qg4g6detjgan2l0nu54",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Haiti",
+      "date": "2021-07-23"
+    },
+    {
       "id": "20211017_17aen9qpqmr2i5t6be7qc7tb4o",
       "status": "confirmed",
       "summary": "Dessalines Day",
@@ -31016,11 +31037,39 @@
       "date": "2021-05-13"
     },
     {
+      "id": "20210717_u2ek1q9c7om850l4to4cca179o",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2021-07-17"
+    },
+    {
+      "id": "20210718_ha2mujphmbi578k4gu1tmfaojc",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2021-07-18"
+    },
+    {
+      "id": "20210719_jso8ibqdedd84ffnbph5fnej5k",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2021-07-19"
+    },
+    {
       "id": "20210720_20mc63h3c8vc10j9hrr36mhpps",
       "status": "confirmed",
       "summary": "Kurman Ait",
       "region": "Kyrgyzstan",
       "date": "2021-07-20"
+    },
+    {
+      "id": "20210724_n2crsknv8bj5259rhse45qnhoo",
+      "status": "confirmed",
+      "summary": "Extra Working Day",
+      "region": "Kyrgyzstan",
+      "date": "2021-07-24"
     },
     {
       "id": "20210830_70ko91nua4h00jpta9n7t92gsg",
@@ -33801,6 +33850,13 @@
       "summary": "Eid al-Adha holiday",
       "region": "Lebanon",
       "date": "2021-07-21"
+    },
+    {
+      "id": "20210722_43ei7gj8itio0ni8unqlq2fc3c",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Lebanon",
+      "date": "2021-07-22"
     },
     {
       "id": "20210809_ngp0d82slndq45sv0s84o0uf78",
@@ -38742,6 +38798,13 @@
       "date": "2021-06-26"
     },
     {
+      "id": "20210720_gorjji3j0ll5kur8onbctj86e0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Madagascar",
+      "date": "2021-07-20"
+    },
+    {
       "id": "20210815_11jfn8kuu8nu9na7jvbamsalmk",
       "status": "confirmed",
       "summary": "Assumption of Mary",
@@ -39490,11 +39553,11 @@
       "date": "2021-05-25"
     },
     {
-      "id": "20210720_641meo3b2gsgg9h04mt65915m4",
+      "id": "20210721_kacqs80ua2m8umf9blibu823b0",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Mali",
-      "date": "2021-07-20"
+      "date": "2021-07-21"
     },
     {
       "id": "20210922_mgi58igc5hcdsophv83oq19pe0",
@@ -41555,6 +41618,13 @@
       "date": "2021-06-14"
     },
     {
+      "id": "20210721_34lou1nrgbmml13f8u08bpi9ao",
+      "status": "confirmed",
+      "summary": "National Day of Prayer, Reflection, and Thanksgiving",
+      "region": "Montserrat",
+      "date": "2021-07-21"
+    },
+    {
       "id": "20210802_5s0bu2cjml3c5geketid3cmvtc",
       "status": "confirmed",
       "summary": "Emancipation Day",
@@ -42823,6 +42893,13 @@
       "summary": "Independence Day",
       "region": "Mozambique",
       "date": "2021-06-25"
+    },
+    {
+      "id": "20210720_6k9r5n3pdo6erdp2ikmbm9hje4",
+      "status": "confirmed",
+      "summary": "Eid ul-Adha Public Sector Holiday",
+      "region": "Mozambique",
+      "date": "2021-07-20"
     },
     {
       "id": "20210907_qt3vgori397dfcjr34aq6ddn74",
@@ -51199,9 +51276,9 @@
       "date": "2021-03-21"
     },
     {
-      "id": "20210322_di97mrfgjpngvh6c77q4tc53jc",
+      "id": "20210322_8rdkft8jvltqk35i1emuj3a6tg",
       "status": "confirmed",
-      "summary": "Human Rights Day observed",
+      "summary": "Day off for Human Rights Day",
       "region": "South Africa",
       "date": "2021-03-22"
     },
@@ -51255,20 +51332,6 @@
       "date": "2021-05-09"
     },
     {
-      "id": "20210513_7ur16onjou3dusbh4grgp2u4ik",
-      "status": "confirmed",
-      "summary": "Ascension Day",
-      "region": "South Africa",
-      "date": "2021-05-13"
-    },
-    {
-      "id": "20210523_76k14okk24om19lfpj3nvlmh2k",
-      "status": "confirmed",
-      "summary": "Pentecost",
-      "region": "South Africa",
-      "date": "2021-05-23"
-    },
-    {
       "id": "20210616_if55pqpthbf39kl9hi2v434318",
       "status": "confirmed",
       "summary": "Youth Day",
@@ -51302,13 +51365,6 @@
       "summary": "Heritage Day",
       "region": "South Africa",
       "date": "2021-09-24"
-    },
-    {
-      "id": "20211101_991ne0goqniuaahcnfdf46jgis",
-      "status": "confirmed",
-      "summary": "All Saints' Day",
-      "region": "South Africa",
-      "date": "2021-11-01"
     },
     {
       "id": "20211216_9lakvejr6pktungd3vstbggg6g",
@@ -51409,9 +51465,9 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_ra4stv95oc2b71bmk62e87o524",
+      "id": "20220502_0b6v23i1gugcqgi4bricrerkkk",
       "status": "confirmed",
-      "summary": "Workers' Day observed",
+      "summary": "Day off for Workers' Day",
       "region": "South Africa",
       "date": "2022-05-02"
     },
@@ -51421,20 +51477,6 @@
       "summary": "Mother's Day",
       "region": "South Africa",
       "date": "2022-05-08"
-    },
-    {
-      "id": "20220526_jlrlr05f39tiflfrvfn199ncfo",
-      "status": "confirmed",
-      "summary": "Ascension Day",
-      "region": "South Africa",
-      "date": "2022-05-26"
-    },
-    {
-      "id": "20220605_o06uhnob9vef4s54ch0j041lak",
-      "status": "confirmed",
-      "summary": "Pentecost",
-      "region": "South Africa",
-      "date": "2022-06-05"
     },
     {
       "id": "20220616_66r2gj020dajpsh2aclcjloq2g",
@@ -51472,13 +51514,6 @@
       "date": "2022-09-24"
     },
     {
-      "id": "20221101_2l7tbs01ij4tuba3tnot4qio90",
-      "status": "confirmed",
-      "summary": "All Saints' Day",
-      "region": "South Africa",
-      "date": "2022-11-01"
-    },
-    {
       "id": "20221216_feb214l3pm1drjpap9njh69iko",
       "status": "confirmed",
       "summary": "Day of Reconciliation",
@@ -51507,9 +51542,9 @@
       "date": "2022-12-26"
     },
     {
-      "id": "20221226_tkfgpj836tl11i5g5ipimn5vng",
+      "id": "20221226_igg84isdo5akb2fi8266jstk1o",
       "status": "confirmed",
-      "summary": "Christmas Day observed",
+      "summary": "Day off for Christmas Day",
       "region": "South Africa",
       "date": "2022-12-26"
     },
@@ -62169,9 +62204,9 @@
       "date": "2021-08-24"
     },
     {
-      "id": "20211014_19a1ls9gmkmfobsml8vqg1rqgg",
+      "id": "20211014_iu29oqmdl0o8t63du45bqu3gko",
       "status": "confirmed",
-      "summary": "Defenders' Day",
+      "summary": "Day of Defenders and Defenders of Ukraine",
       "region": "Ukraine",
       "date": "2021-10-14"
     },
@@ -62421,9 +62456,9 @@
       "date": "2022-08-24"
     },
     {
-      "id": "20221014_srvm3k5vv02kkb2munr980u49g",
+      "id": "20221014_1s1m33elpevgkl1fja0hfa7tdk",
       "status": "confirmed",
-      "summary": "Defenders' Day",
+      "summary": "Day of Defenders and Defenders of Ukraine",
       "region": "Ukraine",
       "date": "2022-10-14"
     },
