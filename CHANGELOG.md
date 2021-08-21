@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.18...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Australia, Bangladesh, Bahrain, Canada, Haiti, India, Iraq, Kyrgyzstan, Lebanon, Madagascar, Mali, Montserrat, Mozambique, South Africa, Ukraine [\#223](https://github.com/yykamei/block-merge-based-on-time/pull/223) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump ts-node from 10.2.0 to 10.2.1 [\#217](https://github.com/yykamei/block-merge-based-on-time/pull/217) ([dependabot[bot]](https://github.com/apps/dependabot))
