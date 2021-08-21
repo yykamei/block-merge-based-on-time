@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump @vercel/ncc from 0.29.1 to 0.29.2 [\#222](https://github.com/yykamei/block-merge-based-on-time/pull/222) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @actions/core from 1.4.0 to 1.5.0 [\#221](https://github.com/yykamei/block-merge-based-on-time/pull/221) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.19](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.19) (2021-08-21)
 
