@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.19...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Nepal [\#233](https://github.com/yykamei/block-merge-based-on-time/pull/233) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/node from 16.6.2 to 16.7.1 [\#230](https://github.com/yykamei/block-merge-based-on-time/pull/230) ([dependabot[bot]](https://github.com/apps/dependabot))
