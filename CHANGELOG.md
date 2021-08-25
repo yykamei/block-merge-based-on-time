@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.21...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Australia [\#237](https://github.com/yykamei/block-merge-based-on-time/pull/237) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.21](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.21) (2021-08-24)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.20...v1.1.21)
