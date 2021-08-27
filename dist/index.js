@@ -13457,6 +13457,7 @@ const holidays_namespaceObject = JSON.parse('{"Andorra":[{"id":"20210101_nuhdm07
 
 
 
+console.log('test');
 class Inputs {
     constructor() {
         this.token = (0,core.getInput)("token", { required: true });
