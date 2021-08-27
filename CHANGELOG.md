@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.24...HEAD)
+
+**Merged pull requests:**
+
+- Bump @types/luxon from 2.0.0 to 2.0.1 [\#246](https://github.com/yykamei/block-merge-based-on-time/pull/246) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 4.29.2 to 4.29.3 [\#241](https://github.com/yykamei/block-merge-based-on-time/pull/241) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.24](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.24) (2021-08-27)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.23...v1.1.24)
