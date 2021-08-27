@@ -11,6 +11,7 @@
 **Merged pull requests:**
 
 - Bump @types/luxon from 2.0.0 to 2.0.1 [\#246](https://github.com/yykamei/block-merge-based-on-time/pull/246) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump typescript from 4.3.5 to 4.4.2 [\#245](https://github.com/yykamei/block-merge-based-on-time/pull/245) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @typescript-eslint/parser from 4.29.2 to 4.29.3 [\#242](https://github.com/yykamei/block-merge-based-on-time/pull/242) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @typescript-eslint/eslint-plugin from 4.29.2 to 4.29.3 [\#241](https://github.com/yykamei/block-merge-based-on-time/pull/241) ([dependabot[bot]](https://github.com/apps/dependabot))
 
