@@ -17,12 +17,8 @@ jobs:
       - run: git diff --exit-code --quiet
         id: git_diff
         continue-on-error: true
-      - name: Push changes
+      - uses: yykamei/actions-git-push@main
         if: steps.git_diff.outcome == 'failure'
-        run: |
-          git checkout ${{ github.event.pull_request.head.ref }}
-          git add -A
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git commit -m 'Run `npm run build`'
-          git push
+        with:
+          commit-message: 'Run `npm run build`'
+          branch: ${{ github.event.pull_request.head.ref }}
