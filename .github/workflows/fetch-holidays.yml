@@ -18,20 +18,17 @@ jobs:
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       - run: npm run build
-      - name: git-push(1)
-        run: ./scripts/git-push.sh
-        env:
-          COMMIT_MESSAGE: Update Holidays
-          BRANCH: update-holidays
-      - name: gh-pr-create(1)
-        run: |
-          cat <<BODY | ./scripts/gh-pr-create.sh
-          *This pull request was automatically created to make src/holidays.json the latest*.
+      - uses: yykamei/actions-git-push@main
+        with:
+          commit-message: Update Holidays
+          branch: update-holidays
+      - uses: yykamei/actions-gh-pr-create@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: update-holidays
+          title: Update Holidays
+          label: enhancement
+          body: |
+            *This pull request was automatically created to make src/holidays.json the latest*.
 
-          Check the files changes and merge if the changes make sense.
-          BODY
-        env:
-          BRANCH: update-holidays
-          TITLE: Update Holidays
-          LABEL: enhancement
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            Check the files changes and merge if the changes make sense.
