@@ -36,8 +36,3 @@ export interface PullRequestStatus {
   readonly labels: string[]
   readonly state?: string
 }
-
-export interface ErrorPullRequest {
-  readonly pull: PullRequestStatus
-  readonly error: Error
-}
