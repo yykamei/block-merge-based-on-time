@@ -4,6 +4,7 @@ import { DateTime, Interval } from "luxon"
 import holidays from "./holidays.json"
 import type { Dates, Days, DaysDates, HolidayEntry, Hours } from "./types"
 
+console.log('test')
 export class Inputs {
   public readonly token: string
   public readonly after: Hours
