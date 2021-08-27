@@ -13899,7 +13899,7 @@ function handleAllPulls(inputs) {
         const branch = yield defaultBranch(octokit, owner, repo);
         const results = yield pulls(octokit, owner, repo, inputs.commitStatusContext);
         const isShouldBlock = shouldBlock(inputs);
-        const errors = [];
+        const errorPulls = [];
         for (const pull of results) {
             // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
             const state = inputs.baseBranches(branch).some((b) => b.test(pull.baseBranch)) &&
@@ -13913,14 +13913,14 @@ function handleAllPulls(inputs) {
             }
             catch (error) {
                 core.error(`#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`);
-                errors.push({ pull, error });
+                errorPulls.push(pull);
             }
         }
-        if (errors.length > 0) {
+        if (errorPulls.length > 0) {
             throw new Error(`Some pull requests failed to get updated with the commit status context "${inputs.commitStatusContext}".
 The failed pull requests are:
 
-${errors.map((e) => `- #${e.pull.number}`).join("\n")}
+${errorPulls.map((pull) => `- #${pull.number}`).join("\n")}
 
 You can resolve the problems with these actions: updating the pull requests with new commits, or closing them.`);
         }
