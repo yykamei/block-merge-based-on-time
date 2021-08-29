@@ -33887,6 +33887,13 @@
       "date": "2021-07-22"
     },
     {
+      "id": "20210804_d686mlo66f7jgptcocki00r55g",
+      "status": "confirmed",
+      "summary": "National Day of Mourning",
+      "region": "Lebanon",
+      "date": "2021-08-04"
+    },
+    {
       "id": "20210809_2jur9uodivhk4e8lav6ptmini8",
       "status": "confirmed",
       "summary": "Muharram",
@@ -54445,13 +54452,6 @@
       "date": "2021-12-25"
     },
     {
-      "id": "20211227_78lofb558nbqr590musbr49bk0",
-      "status": "confirmed",
-      "summary": "Day off for Christmas Day",
-      "region": "South Korea",
-      "date": "2021-12-27"
-    },
-    {
       "id": "20211231_9561lcc2j7sankvl74icjibft4",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -54464,13 +54464,6 @@
       "summary": "New Year's Day",
       "region": "South Korea",
       "date": "2022-01-01"
-    },
-    {
-      "id": "20220103_tgdldggdtbv0dsmsasujba9quo",
-      "status": "confirmed",
-      "summary": "Day off for New Year's Day",
-      "region": "South Korea",
-      "date": "2022-01-03"
     },
     {
       "id": "20220201_0s2f14kb1s0a5be2o0sso5u9pk",
@@ -62307,6 +62300,20 @@
       "summary": "Baptism of Kyivan Rus",
       "region": "Ukraine",
       "date": "2021-07-28"
+    },
+    {
+      "id": "20210821_0cvmpauqoovc1l7djnga0ji8vg",
+      "status": "confirmed",
+      "summary": "Extra Working Day",
+      "region": "Ukraine",
+      "date": "2021-08-21"
+    },
+    {
+      "id": "20210823_5g2rois468chnq7d5kig30ciag",
+      "status": "confirmed",
+      "summary": "Public Holiday for Independence Day",
+      "region": "Ukraine",
+      "date": "2021-08-23"
     },
     {
       "id": "20210824_929kio4237mojbrvu0jimi7vdo",
