@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.26...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in St. Lucia, Macao, Spain [\#261](https://github.com/yykamei/block-merge-based-on-time/pull/261) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.26](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.26) (2021-08-29)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.25...v1.1.26)
