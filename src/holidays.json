@@ -34232,6 +34232,13 @@
       "date": "2021-08-01"
     },
     {
+      "id": "20210802_e4cbcvl263n04muq0sgvgquroc",
+      "status": "confirmed",
+      "summary": "Day off for Emancipation Day",
+      "region": "St. Lucia",
+      "date": "2021-08-02"
+    },
+    {
       "id": "20211004_g52cv4vtr410h2bb2lco0u0rg4",
       "status": "confirmed",
       "summary": "Thanksgiving Day",
@@ -40938,6 +40945,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220103_d1d10ich3715nnpo47ra43hj6c",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Macao",
+      "date": "2022-01-03"
+    },
+    {
       "id": "20220131_6ra5kbm2gdin3mnq0r12jj398k",
       "status": "confirmed",
       "summary": "Lunar New Year Eve",
@@ -41001,11 +41015,25 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_m670mi09t24iftdp6rm4t1slfg",
+      "status": "confirmed",
+      "summary": "May Day Holiday",
+      "region": "Macao",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220508_13qi6mj4iu2lgqrmi55dllkhmo",
       "status": "confirmed",
       "summary": "Buddha's Birthday",
       "region": "Macao",
       "date": "2022-05-08"
+    },
+    {
+      "id": "20220509_a6bqt4ukotmn83c8u1u3l8rd5o",
+      "status": "confirmed",
+      "summary": "Buddha's Birthday Holiday",
+      "region": "Macao",
+      "date": "2022-05-09"
     },
     {
       "id": "20220603_nhh0ag5sscah02nddulcjp09k8",
@@ -41088,13 +41116,6 @@
       "id": "20221231_o6rbj9jhcmp361lvjie4iqj00k",
       "status": "confirmed",
       "summary": "New Year's Eve",
-      "region": "Macao",
-      "date": "2022-12-31"
-    },
-    {
-      "id": "20221231_vffpjc8f2anm7u2rpthclff1a8",
-      "status": "confirmed",
-      "summary": "New Year's Eve Afternoon",
       "region": "Macao",
       "date": "2022-12-31"
     }
@@ -55294,11 +55315,11 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_14uiskp2dakq09dc9rs5po2s88",
+      "id": "20220502_pnptnnup9n72bsu501900aci9s",
       "status": "confirmed",
       "summary": "Day of Madrid (Madrid)",
       "region": "Spain",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220515_u9dn732fvmsab33326bd5anvqg",
