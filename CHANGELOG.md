@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.27...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Cambodia [\#263](https://github.com/yykamei/block-merge-based-on-time/pull/263) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.27](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.27) (2021-09-01)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.26...v1.1.27)
