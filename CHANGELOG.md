@@ -1,5 +1,21 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.28...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Gibraltar, Ukraine [\#271](https://github.com/yykamei/block-merge-based-on-time/pull/271) ([github-actions[bot]](https://github.com/apps/github-actions))
+
+**Merged pull requests:**
+
+- Bump @types/luxon from 2.0.1 to 2.0.2 [\#269](https://github.com/yykamei/block-merge-based-on-time/pull/269) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump jest from 27.0.6 to 27.1.0 [\#268](https://github.com/yykamei/block-merge-based-on-time/pull/268) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 16.7.2 to 16.7.10 [\#267](https://github.com/yykamei/block-merge-based-on-time/pull/267) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @vercel/ncc from 0.29.2 to 0.30.0 [\#266](https://github.com/yykamei/block-merge-based-on-time/pull/266) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 4.29.3 to 4.30.0 [\#265](https://github.com/yykamei/block-merge-based-on-time/pull/265) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.28](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.28) (2021-09-02)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.27...v1.1.28)
