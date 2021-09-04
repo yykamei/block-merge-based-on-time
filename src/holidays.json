@@ -22796,11 +22796,18 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220530_ejacp0mrjs3ajcg8n3g3kdlrbk",
+      "id": "20220602_coi08lnoh2begegs63q8gg96uo",
       "status": "confirmed",
       "summary": "Spring Bank Holiday",
       "region": "Gibraltar",
-      "date": "2022-05-30"
+      "date": "2022-06-02"
+    },
+    {
+      "id": "20220603_i6pkdovni542npm12njnimst6s",
+      "status": "confirmed",
+      "summary": "Queen's Platinum Jubilee",
+      "region": "Gibraltar",
+      "date": "2022-06-03"
     },
     {
       "id": "20220620_p25tchqcjqq4f0a1hl3tl6m3dc",
@@ -62566,6 +62573,13 @@
       "summary": "Family Day",
       "region": "Ukraine",
       "date": "2022-07-08"
+    },
+    {
+      "id": "20220728_4m212j9ou8lqjja5sit396mt0k",
+      "status": "confirmed",
+      "summary": "Ukrainian Statehood Day",
+      "region": "Ukraine",
+      "date": "2022-07-28"
     },
     {
       "id": "20220728_rpnkovqs8d7h5ebkeggl58994k",
