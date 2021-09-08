@@ -29445,11 +29445,11 @@
       "date": "2022-05-09"
     },
     {
-      "id": "20220530_3rr8av946fue2ddvj06q24bfsc",
+      "id": "20220602_85h8u7dm7lsm4st3ndo1p1sauk",
       "status": "confirmed",
       "summary": "Spring Bank Holiday",
       "region": "Jersey",
-      "date": "2022-05-30"
+      "date": "2022-06-02"
     },
     {
       "id": "20220829_4r1bo9fd679e1lv9h9nht1jdp8",
@@ -29485,13 +29485,6 @@
       "summary": "Boxing Day",
       "region": "Jersey",
       "date": "2022-12-26"
-    },
-    {
-      "id": "20221227_0p7vcp85e9g99hf87tqkqe5s30",
-      "status": "confirmed",
-      "summary": "Day off for Boxing Day",
-      "region": "Jersey",
-      "date": "2022-12-27"
     }
   ],
   "Israel": [
@@ -40798,6 +40791,20 @@
       "date": "2021-02-14"
     },
     {
+      "id": "20210215_j1upsus6uu1qq7rqpni0ab2a4c",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Macao",
+      "date": "2021-02-15"
+    },
+    {
+      "id": "20210216_v88n9b13ogfdq5r3hdpafdau8g",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Macao",
+      "date": "2021-02-16"
+    },
+    {
       "id": "20210402_gfub518magk3f1f3drl5uc6aec",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -40826,11 +40833,25 @@
       "date": "2021-04-05"
     },
     {
+      "id": "20210406_7025e9vg7rk72oco7sifpk0keo",
+      "status": "confirmed",
+      "summary": "Cheng Ming Holiday",
+      "region": "Macao",
+      "date": "2021-04-06"
+    },
+    {
       "id": "20210501_qpoopapm2uu4r7222trlalamm4",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
       "region": "Macao",
       "date": "2021-05-01"
+    },
+    {
+      "id": "20210503_ut9ra4p1bvneq0i8o1bl87gt54",
+      "status": "confirmed",
+      "summary": "May Day Holiday",
+      "region": "Macao",
+      "date": "2021-05-03"
     },
     {
       "id": "20210519_qk0rahse723p90m424bvlckht0",
@@ -40866,6 +40887,13 @@
       "summary": "Day after PRC National Day",
       "region": "Macao",
       "date": "2021-10-02"
+    },
+    {
+      "id": "20211004_o3aadpbhpnr5sjuv8knj4kbs3c",
+      "status": "confirmed",
+      "summary": "Day off for Day after PRC National Day",
+      "region": "Macao",
+      "date": "2021-10-04"
     },
     {
       "id": "20211014_uq12kjcaj7pv7p33uj6l37al4k",
@@ -40915,6 +40943,13 @@
       "summary": "Christmas Day",
       "region": "Macao",
       "date": "2021-12-25"
+    },
+    {
+      "id": "20211227_neqh37m0gu2qc3fnjgto026l4c",
+      "status": "confirmed",
+      "summary": "Christmas Day Holiday",
+      "region": "Macao",
+      "date": "2021-12-27"
     },
     {
       "id": "20211231_2l3vj2o3h3pl0vgfk29pp5ali4",
@@ -41043,6 +41078,13 @@
       "date": "2022-09-11"
     },
     {
+      "id": "20220912_0o5pmhmv98eqkfac2fdenvat8c",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival Holiday",
+      "region": "Macao",
+      "date": "2022-09-12"
+    },
+    {
       "id": "20221001_r5m7336oeoek30hgl7iu0team8",
       "status": "confirmed",
       "summary": "National Day of the People's Republic of China",
@@ -41057,11 +41099,25 @@
       "date": "2022-10-02"
     },
     {
+      "id": "20221003_384miocn3jk4iki75b0mqh8tkc",
+      "status": "confirmed",
+      "summary": "Day off for National Day of the People's Republic of China",
+      "region": "Macao",
+      "date": "2022-10-03"
+    },
+    {
       "id": "20221004_f5nh1snqu8gov2lp6tei2ce7mo",
       "status": "confirmed",
       "summary": "Chong Yeung Festival (Festival of Ancestors)",
       "region": "Macao",
       "date": "2022-10-04"
+    },
+    {
+      "id": "20221005_thhh20ba35c7ith88j2gikg9a4",
+      "status": "confirmed",
+      "summary": "Day off for Day after PRC National Day",
+      "region": "Macao",
+      "date": "2022-10-05"
     },
     {
       "id": "20221102_r3nd9mt2v62t271g08lkmlhl6c",
@@ -41104,6 +41160,20 @@
       "summary": "Christmas Day",
       "region": "Macao",
       "date": "2022-12-25"
+    },
+    {
+      "id": "20221226_de97r66bdc823b2euf4qvkmpds",
+      "status": "confirmed",
+      "summary": "Christmas Eve Holiday",
+      "region": "Macao",
+      "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_5tknmr7o6tdoo8md7as1er6t9o",
+      "status": "confirmed",
+      "summary": "Christmas Day Holiday",
+      "region": "Macao",
+      "date": "2022-12-27"
     },
     {
       "id": "20221231_o6rbj9jhcmp361lvjie4iqj00k",
