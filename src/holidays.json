@@ -29473,18 +29473,18 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_0h25iand6ubbkfi2i7rvse1dfo",
-      "status": "confirmed",
-      "summary": "Day off for Christmas Day",
-      "region": "Jersey",
-      "date": "2022-12-26"
-    },
-    {
       "id": "20221226_20r5h9v4osr94o57hbm2hcu9jo",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Jersey",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_2hjnrrhcim5crabqgtj69evrjk",
+      "status": "confirmed",
+      "summary": "Day off for Christmas Day",
+      "region": "Jersey",
+      "date": "2022-12-27"
     }
   ],
   "Israel": [
@@ -40120,6 +40120,76 @@
       "summary": "Public Holiday",
       "region": "Myanmar (Burma)",
       "date": "2021-08-31"
+    },
+    {
+      "id": "20210901_u1675049mpqi6s48ut0luc12f8",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-01"
+    },
+    {
+      "id": "20210902_nebttak6neosr0eg7k95eaa680",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-02"
+    },
+    {
+      "id": "20210903_v9mnb9ie3bsnqnt1pfomfarqas",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-03"
+    },
+    {
+      "id": "20210904_lmhpl9c4to0vg54f3nngh2a84o",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-04"
+    },
+    {
+      "id": "20210905_srldo798kpvgfb9ssr4084cb2s",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-05"
+    },
+    {
+      "id": "20210906_t4ilsvbj8g1dcskmpq1socmdac",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-06"
+    },
+    {
+      "id": "20210907_c8sv4eacgp7h416aqha640a5bs",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-07"
+    },
+    {
+      "id": "20210908_ke7ji4roaovhmla38htietvpfo",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-08"
+    },
+    {
+      "id": "20210909_dfb4mmca2e3emts5hhvalb4qfo",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-09"
+    },
+    {
+      "id": "20210910_binvv9kldd8k2uh3617p9jpusc",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-10"
     },
     {
       "id": "20211019_4n831tf71pgv7aet4ncgddhiv8",
