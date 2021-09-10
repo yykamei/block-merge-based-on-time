@@ -13458,6 +13458,18 @@ const holidays_namespaceObject = JSON.parse('{"Andorra":[{"id":"20210101_nuhdm07
 
 
 class Inputs {
+    token;
+    after;
+    before;
+    timezone;
+    prohibitedDays;
+    prohibitedDates;
+    noBlockLabel;
+    commitStatusContext;
+    commitStatusDescriptionWithSuccess;
+    commitStatusDescriptionWhileBlocking;
+    commitStatusURL;
+    rawBaseBranches;
     constructor() {
         this.token = (0,core.getInput)("token", { required: true });
         this.timezone = timeZone();
@@ -13525,14 +13537,14 @@ function hours(key, zone) {
     const daysRegExp = /^(?<hour>\d\d:\d\d) on (?<day>Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)$/;
     const result = input.split(/,\s*/).reduce((result, str) => {
         if (baseRegExp.test(str)) {
-            return Object.assign(Object.assign({}, result), { base: dateTime("hh:mm", str, zone) });
+            return { ...result, base: dateTime("hh:mm", str, zone) };
         }
         else {
             const match = str.match(daysRegExp);
             if (match != null && match.groups != null && match.groups["day"] != null && match.groups["hour"] != null) {
                 const day = match.groups["day"];
                 const hour = match.groups["hour"];
-                return Object.assign(Object.assign({}, result), { [day]: dateTime("hh:mm", hour, zone) });
+                return { ...result, [day]: dateTime("hh:mm", hour, zone) };
             }
             else {
                 throw new Error(`Invalid "${key}" was given. The example format is "16:30 on Monday"`);
@@ -13651,75 +13663,61 @@ function isDuringTime(now, after, before) {
     }
 }
 function hour(now, hours) {
-    var _a, _b, _c, _d, _e, _f, _g;
     switch (now.weekdayLong) {
         case "Sunday":
-            return (_a = hours.Sunday) !== null && _a !== void 0 ? _a : hours.base;
+            return hours.Sunday ?? hours.base;
         case "Monday":
-            return (_b = hours.Monday) !== null && _b !== void 0 ? _b : hours.base;
+            return hours.Monday ?? hours.base;
         case "Tuesday":
-            return (_c = hours.Tuesday) !== null && _c !== void 0 ? _c : hours.base;
+            return hours.Tuesday ?? hours.base;
         case "Wednesday":
-            return (_d = hours.Wednesday) !== null && _d !== void 0 ? _d : hours.base;
+            return hours.Wednesday ?? hours.base;
         case "Thursday":
-            return (_e = hours.Thursday) !== null && _e !== void 0 ? _e : hours.base;
+            return hours.Thursday ?? hours.base;
         case "Friday":
-            return (_f = hours.Friday) !== null && _f !== void 0 ? _f : hours.base;
+            return hours.Friday ?? hours.base;
         case "Saturday":
-            return (_g = hours.Saturday) !== null && _g !== void 0 ? _g : hours.base;
+            return hours.Saturday ?? hours.base;
         default:
             throw new Error(`Unsupported weekday: "${now.weekdayLong}"`);
     }
 }
 
 ;// CONCATENATED MODULE: ./src/github.ts
-var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
-    return new (P || (P = Promise))(function (resolve, reject) {
-        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
-        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
-        step((generator = generator.apply(thisArg, _arguments || [])).next());
-    });
-};
 
-function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
-    var _a, _b;
-    return __awaiter(this, void 0, void 0, function* () {
-        const currentState = (_a = pullRequestStatus.state) === null || _a === void 0 ? void 0 : _a.toLowerCase();
-        core.debug(`Start createCommitStatus(), updating the state of "${pullRequestStatus.sha}" from "${currentState}" to "${state}"`);
-        if (currentState === state) {
-            return;
+async function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
+    const currentState = pullRequestStatus.state?.toLowerCase();
+    core.debug(`Start createCommitStatus(), updating the state of "${pullRequestStatus.sha}" from "${currentState}" to "${state}"`);
+    if (currentState === state) {
+        return;
+    }
+    const { owner, repo, sha } = pullRequestStatus;
+    const targetUrl = inputs.commitStatusURL ?? undefined;
+    const context = inputs.commitStatusContext;
+    let description;
+    switch (state) {
+        case "success": {
+            description = inputs.commitStatusDescriptionWithSuccess;
+            break;
         }
-        const { owner, repo, sha } = pullRequestStatus;
-        const targetUrl = (_b = inputs.commitStatusURL) !== null && _b !== void 0 ? _b : undefined;
-        const context = inputs.commitStatusContext;
-        let description;
-        switch (state) {
-            case "success": {
-                description = inputs.commitStatusDescriptionWithSuccess;
-                break;
-            }
-            case "pending": {
-                description = inputs.commitStatusDescriptionWhileBlocking;
-                break;
-            }
+        case "pending": {
+            description = inputs.commitStatusDescriptionWhileBlocking;
+            break;
         }
-        yield octokit.rest.repos.createCommitStatus({
-            owner,
-            repo,
-            sha,
-            state,
-            context,
-            description,
-            target_url: targetUrl,
-        });
+    }
+    await octokit.rest.repos.createCommitStatus({
+        owner,
+        repo,
+        sha,
+        state,
+        context,
+        description,
+        target_url: targetUrl,
     });
 }
-function defaultBranch(octokit, owner, repo) {
-    return __awaiter(this, void 0, void 0, function* () {
-        core.debug(`Start defaultBranch() to get the default branch of ${owner}/${repo}`);
-        const result = yield octokit.graphql(`
+async function defaultBranch(octokit, owner, repo) {
+    core.debug(`Start defaultBranch() to get the default branch of ${owner}/${repo}`);
+    const result = await octokit.graphql(`
 query($owner: String!, $repo: String!) {
   repository(owner: $owner, name: $repo) {
     defaultBranchRef {
@@ -13727,14 +13725,11 @@ query($owner: String!, $repo: String!) {
     }
   }
 }`, { owner, repo });
-        return result.repository.defaultBranchRef.name;
-    });
+    return result.repository.defaultBranchRef.name;
 }
-function pull(octokit, owner, repo, contextName, pullNumber) {
-    var _a, _b;
-    return __awaiter(this, void 0, void 0, function* () {
-        core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`);
-        const result = yield octokit.graphql(`
+async function pull(octokit, owner, repo, contextName, pullNumber) {
+    core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`);
+    const result = await octokit.graphql(`
 query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!) {
   repository(owner: $owner, name: $repo) {
     defaultBranchRef {
@@ -13769,34 +13764,32 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
     }
   }
 }`, { owner, repo, contextName, pullNumber });
-        core.debug(`pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`);
-        const commit = result.repository.pullRequest.commits.edges[0];
-        if (commit == null) {
-            throw new Error("commit should be present");
-        }
-        const pull = {
-            owner,
-            repo,
-            number: pullNumber,
-            baseBranch: result.repository.pullRequest.baseRefName,
-            sha: commit.node.commit.oid,
-            labels: result.repository.pullRequest.labels.edges.map(({ node: { name } }) => name),
-            state: (_b = (_a = commit.node.commit.status) === null || _a === void 0 ? void 0 : _a.context) === null || _b === void 0 ? void 0 : _b.state,
-        };
-        return {
-            defaultBranch: result.repository.defaultBranchRef.name,
-            pull,
-        };
-    });
+    core.debug(`pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`);
+    const commit = result.repository.pullRequest.commits.edges[0];
+    if (commit == null) {
+        throw new Error("commit should be present");
+    }
+    const pull = {
+        owner,
+        repo,
+        number: pullNumber,
+        baseBranch: result.repository.pullRequest.baseRefName,
+        sha: commit.node.commit.oid,
+        labels: result.repository.pullRequest.labels.edges.map(({ node: { name } }) => name),
+        state: commit.node.commit.status?.context?.state,
+    };
+    return {
+        defaultBranch: result.repository.defaultBranchRef.name,
+        pull,
+    };
 }
-function pulls(octokit, owner, repo, contextName) {
-    return __awaiter(this, void 0, void 0, function* () {
-        core.debug(`Start pulls() to get the pull requests of ${owner}/${repo}`);
-        let after = null;
-        let hasNextPage = true;
-        let statuses = [];
-        while (hasNextPage) {
-            const result = yield octokit.graphql(`
+async function pulls(octokit, owner, repo, contextName) {
+    core.debug(`Start pulls() to get the pull requests of ${owner}/${repo}`);
+    let after = null;
+    let hasNextPage = true;
+    let statuses = [];
+    while (hasNextPage) {
+        const result = await octokit.graphql(`
 query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
   repository(owner: $owner, name: $repo) {
     defaultBranchRef {
@@ -13839,112 +13832,92 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
     }
   }
 }`, { owner, repo, contextName, after });
-            hasNextPage = result.repository.pullRequests.pageInfo.hasNextPage;
-            after = result.repository.pullRequests.pageInfo.endCursor;
-            const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => {
-                core.debug(`pulls() got the pull request: #${pr.number} ${pr.title}`);
-                return pr.commits.edges.map(({ node: commit }) => {
-                    var _a, _b;
-                    return ({
-                        owner,
-                        repo,
-                        number: pr.number,
-                        baseBranch: pr.baseRefName,
-                        sha: commit.commit.oid,
-                        labels: pr.labels.edges.map((l) => l.node.name),
-                        state: (_b = (_a = commit.commit.status) === null || _a === void 0 ? void 0 : _a.context) === null || _b === void 0 ? void 0 : _b.state,
-                    });
-                });
-            });
-            statuses = [...statuses, ...data];
-        }
-        return statuses;
-    });
+        hasNextPage = result.repository.pullRequests.pageInfo.hasNextPage;
+        after = result.repository.pullRequests.pageInfo.endCursor;
+        const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => {
+            core.debug(`pulls() got the pull request: #${pr.number} ${pr.title}`);
+            return pr.commits.edges.map(({ node: commit }) => ({
+                owner,
+                repo,
+                number: pr.number,
+                baseBranch: pr.baseRefName,
+                sha: commit.commit.oid,
+                labels: pr.labels.edges.map((l) => l.node.name),
+                state: commit.commit.status?.context?.state,
+            }));
+        });
+        statuses = [...statuses, ...data];
+    }
+    return statuses;
 }
 
 ;// CONCATENATED MODULE: ./src/run.ts
-var run_awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
-    return new (P || (P = Promise))(function (resolve, reject) {
-        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
-        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
-        step((generator = generator.apply(thisArg, _arguments || [])).next());
-    });
-};
 
 
 
 
 
-function run() {
-    return run_awaiter(this, void 0, void 0, function* () {
-        const inputs = new Inputs();
-        core.debug(`We got the event ${github.context.eventName}.`);
-        switch (github.context.eventName) {
-            case "schedule":
-            case "workflow_dispatch":
-                return handleAllPulls(inputs);
-            case "pull_request":
-                return handlePull(inputs);
-            default:
-                throw new Error(`This action does not support the event "${github.context.eventName}"`);
-        }
-    });
+async function run() {
+    const inputs = new Inputs();
+    core.debug(`We got the event ${github.context.eventName}.`);
+    switch (github.context.eventName) {
+        case "schedule":
+        case "workflow_dispatch":
+            return handleAllPulls(inputs);
+        case "pull_request":
+            return handlePull(inputs);
+        default:
+            throw new Error(`This action does not support the event "${github.context.eventName}"`);
+    }
 }
-function handleAllPulls(inputs) {
-    return run_awaiter(this, void 0, void 0, function* () {
-        const octokit = (0,github.getOctokit)(inputs.token);
-        const { owner, repo } = github.context.repo;
-        const branch = yield defaultBranch(octokit, owner, repo);
-        const results = yield pulls(octokit, owner, repo, inputs.commitStatusContext);
-        const isShouldBlock = shouldBlock(inputs);
-        const errorPulls = [];
-        for (const pull of results) {
-            // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
-            const state = inputs.baseBranches(branch).some((b) => b.test(pull.baseBranch)) &&
-                isShouldBlock &&
-                !pull.labels.includes(inputs.noBlockLabel)
-                ? "pending"
-                : "success";
-            core.debug(`We decided to make the state "${state}" for "#${pull.number}"`);
-            try {
-                yield createCommitStatus(octokit, pull, inputs, state);
-            }
-            catch (error) {
-                core.error(`#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`);
-                errorPulls.push(pull);
-            }
+async function handleAllPulls(inputs) {
+    const octokit = (0,github.getOctokit)(inputs.token);
+    const { owner, repo } = github.context.repo;
+    const branch = await defaultBranch(octokit, owner, repo);
+    const results = await pulls(octokit, owner, repo, inputs.commitStatusContext);
+    const isShouldBlock = shouldBlock(inputs);
+    const errorPulls = [];
+    for (const pull of results) {
+        // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
+        const state = inputs.baseBranches(branch).some((b) => b.test(pull.baseBranch)) &&
+            isShouldBlock &&
+            !pull.labels.includes(inputs.noBlockLabel)
+            ? "pending"
+            : "success";
+        core.debug(`We decided to make the state "${state}" for "#${pull.number}"`);
+        try {
+            await createCommitStatus(octokit, pull, inputs, state);
         }
-        if (errorPulls.length > 0) {
-            throw new Error(`Some pull requests failed to get updated with the commit status context "${inputs.commitStatusContext}".
+        catch (error) {
+            core.error(`#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`);
+            errorPulls.push(pull);
+        }
+    }
+    if (errorPulls.length > 0) {
+        throw new Error(`Some pull requests failed to get updated with the commit status context "${inputs.commitStatusContext}".
 The failed pull requests are:
 
 ${errorPulls.map((pull) => `- #${pull.number}`).join("\n")}
 
 You can resolve the problems with these actions: updating the pull requests with new commits, or closing them.`);
-        }
-    });
+    }
 }
-function handlePull(inputs) {
-    var _a;
-    return run_awaiter(this, void 0, void 0, function* () {
-        const octokit = (0,github.getOctokit)(inputs.token);
-        const { owner, repo } = github.context.repo;
-        const number = (_a = github.context.payload.pull_request) === null || _a === void 0 ? void 0 : _a.number;
-        if (number == null) {
-            throw new Error(`handlePull can only be used for a pull request event`);
-        }
-        const result = yield pull(octokit, owner, repo, inputs.commitStatusContext, number);
-        // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
-        const state = inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
-            shouldBlock(inputs) &&
-            !result.pull.labels.includes(inputs.noBlockLabel)
-            ? "pending"
-            : "success";
-        core.debug(`We decided to make the state "${state}"`);
-        return createCommitStatus(octokit, result.pull, inputs, state);
-    });
+async function handlePull(inputs) {
+    const octokit = (0,github.getOctokit)(inputs.token);
+    const { owner, repo } = github.context.repo;
+    const number = github.context.payload.pull_request.number;
+    if (number == null) {
+        throw new Error(`handlePull can only be used for a pull request event`);
+    }
+    const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number);
+    // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
+    const state = inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
+        shouldBlock(inputs) &&
+        !result.pull.labels.includes(inputs.noBlockLabel)
+        ? "pending"
+        : "success";
+    core.debug(`We decided to make the state "${state}"`);
+    return createCommitStatus(octokit, result.pull, inputs, state);
 }
 
 ;// CONCATENATED MODULE: ./src/main.ts
