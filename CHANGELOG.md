@@ -1,5 +1,18 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.31...HEAD)
+
+**Merged pull requests:**
+
+- Bump @types/luxon from 2.0.2 to 2.0.3 [\#284](https://github.com/yykamei/block-merge-based-on-time/pull/284) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 16.7.10 to 16.9.1 [\#282](https://github.com/yykamei/block-merge-based-on-time/pull/282) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 4.30.0 to 4.31.0 [\#281](https://github.com/yykamei/block-merge-based-on-time/pull/281) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump prettier from 2.3.2 to 2.4.0 [\#280](https://github.com/yykamei/block-merge-based-on-time/pull/280) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/parser from 4.29.3 to 4.31.0 [\#279](https://github.com/yykamei/block-merge-based-on-time/pull/279) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump jest from 27.1.0 to 27.1.1 [\#278](https://github.com/yykamei/block-merge-based-on-time/pull/278) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.31](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.31) (2021-09-09)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.30...v1.1.31)
