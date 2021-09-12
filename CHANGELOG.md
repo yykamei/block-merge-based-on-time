@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.31...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Guatemala, United States [\#286](https://github.com/yykamei/block-merge-based-on-time/pull/286) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/luxon from 2.0.2 to 2.0.3 [\#284](https://github.com/yykamei/block-merge-based-on-time/pull/284) ([dependabot[bot]](https://github.com/apps/dependabot))
