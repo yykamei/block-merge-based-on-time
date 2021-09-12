@@ -24364,6 +24364,13 @@
       "date": "2021-06-30"
     },
     {
+      "id": "20210816_rotbuifku9l3104jqcugi65694",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Guatemala",
+      "date": "2021-08-16"
+    },
+    {
       "id": "20210915_ajvthekrcap878qmojalo8r89s",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -62794,497 +62801,525 @@
   ],
   "United States": [
     {
-      "id": "20210101_3kd7pjip8opfet9c26te8svevo",
+      "id": "20210101_fokaslga04sgnfruusv1tomhs4",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "United States",
       "date": "2021-01-01"
     },
     {
-      "id": "20210118_89o0q6dlenu162lr7qgujspl5k",
+      "id": "20210118_1po1bsgspnatou2qf9gahqc7rk",
       "status": "confirmed",
       "summary": "Martin Luther King Jr. Day",
       "region": "United States",
       "date": "2021-01-18"
     },
     {
-      "id": "20210120_lio9jna06suhmfhid5m485ho4s",
+      "id": "20210120_vtpup7q2um8qbtqccvosgkvmgs",
       "status": "confirmed",
       "summary": "Inauguration Day (regional holiday)",
       "region": "United States",
       "date": "2021-01-20"
     },
     {
-      "id": "20210201_74c6b2bok8dl2j7psk4lairf30",
+      "id": "20210201_0j09arjnv4r8gm0oldpkgua31s",
       "status": "confirmed",
       "summary": "First Day of Black History Month",
       "region": "United States",
       "date": "2021-02-01"
     },
     {
-      "id": "20210214_4qq7h0c6oeak7ooi7speatb5ec",
+      "id": "20210214_reo046tof5lk55gc5kkrlkj778",
       "status": "confirmed",
       "summary": "Valentine's Day",
       "region": "United States",
       "date": "2021-02-14"
     },
     {
-      "id": "20210215_etocncdgqe2dasks3ipvcte72s",
+      "id": "20210215_bjeb700bsa2s8f3llppic71ips",
       "status": "confirmed",
       "summary": "Presidents' Day",
       "region": "United States",
       "date": "2021-02-15"
     },
     {
-      "id": "20210301_mmac1g8c4vgjccmjkbi3g6t9pg",
+      "id": "20210301_lai8o9lsk6jcleuj0u8rshla2g",
       "status": "confirmed",
       "summary": "First Day of Women's History Month",
       "region": "United States",
       "date": "2021-03-01"
     },
     {
-      "id": "20210314_omoru6usmoq6judqgul8ght4qg",
+      "id": "20210314_lkgovfdmgtrqni8f31fis31c5c",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
       "region": "United States",
       "date": "2021-03-14"
     },
     {
-      "id": "20210317_hea26svlm54curlsqrums30vs0",
+      "id": "20210317_t1pnk6k84rhic9mntdrsmqevo0",
       "status": "confirmed",
       "summary": "St. Patrick's Day",
       "region": "United States",
       "date": "2021-03-17"
     },
     {
-      "id": "20210404_64rc8mv5bq62o7bn00eea70cp4",
+      "id": "20210404_u6jdgtbhpnu5uff5es0g2u55p8",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "region": "United States",
       "date": "2021-04-04"
     },
     {
-      "id": "20210405_2g8vs9gbfapgh872oqoqcajfq4",
+      "id": "20210405_6gqtfbnqna8nc2uhejk6g1jpjo",
       "status": "confirmed",
       "summary": "Easter Monday",
       "region": "United States",
       "date": "2021-04-05"
     },
     {
-      "id": "20210501_sa06h2s7vas393tg51fuhm27es",
+      "id": "20210501_0ss4p7f8jhdrr35och32c0n6n8",
       "status": "confirmed",
       "summary": "First Day of Asian Pacific American Heritage Month",
       "region": "United States",
       "date": "2021-05-01"
     },
     {
-      "id": "20210505_ql6uig7lm8l9j7t0ipq644rf6g",
+      "id": "20210505_dg1j991u2tog58jf2omo6ueu44",
       "status": "confirmed",
       "summary": "Cinco de Mayo",
       "region": "United States",
       "date": "2021-05-05"
     },
     {
-      "id": "20210509_tk1n47hri60u6e82bb6v3l1ra4",
+      "id": "20210509_d805mmucb0345vqgfv7f4jdjc8",
       "status": "confirmed",
       "summary": "Mother's Day",
       "region": "United States",
       "date": "2021-05-09"
     },
     {
-      "id": "20210517_srrrh8g7iu7djp062j7uhjkljk",
+      "id": "20210517_2eh4j1ptkb9tn4euk2u03voqdc",
       "status": "confirmed",
       "summary": "Tax Day",
       "region": "United States",
       "date": "2021-05-17"
     },
     {
-      "id": "20210531_bbgventq634bko8nsi6c7duq0g",
+      "id": "20210531_8em61chstgmokrolkqfg29fo64",
       "status": "confirmed",
       "summary": "Memorial Day",
       "region": "United States",
       "date": "2021-05-31"
     },
     {
-      "id": "20210601_74b63abqqp2t6s40q4t8qnlj58",
+      "id": "20210601_g4mul0focalhvsr7uncrdjsj2o",
       "status": "confirmed",
       "summary": "First Day of LGBTQ+ Pride Month",
       "region": "United States",
       "date": "2021-06-01"
     },
     {
-      "id": "20210619_8u28s622a222752lu8r7egcc7o",
+      "id": "20210614_f0h43n320f06b6sl5km26hlgqo",
+      "status": "confirmed",
+      "summary": "Flag Day",
+      "region": "United States",
+      "date": "2021-06-14"
+    },
+    {
+      "id": "20210618_2olaogidmoo4tmqg45afu244bk",
+      "status": "confirmed",
+      "summary": "Day off for Juneteenth",
+      "region": "United States",
+      "date": "2021-06-18"
+    },
+    {
+      "id": "20210619_25s49v545th8e2g1l0s1age4q8",
       "status": "confirmed",
       "summary": "Juneteenth",
       "region": "United States",
       "date": "2021-06-19"
     },
     {
-      "id": "20210620_q2m6j6g53r9v3pd8hb42tcq8ic",
+      "id": "20210620_kvil948slg8fre7sp0udqaske0",
       "status": "confirmed",
       "summary": "Father's Day",
       "region": "United States",
       "date": "2021-06-20"
     },
     {
-      "id": "20210704_4o7qbci4vif533s5p5sn4ovvag",
+      "id": "20210704_rkahlg7dv9hhgsa4hmjtr7ag8c",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "United States",
       "date": "2021-07-04"
     },
     {
-      "id": "20210705_5bme4356j26oma3egi99c945fc",
+      "id": "20210705_v8vrg9o4m2t8d9i3v13quoelms",
       "status": "confirmed",
       "summary": "Independence Day observed",
       "region": "United States",
       "date": "2021-07-05"
     },
     {
-      "id": "20210906_oookpvrrta1bp7t0pl9q7e7ahg",
+      "id": "20210906_tp5ib7il1bg4990u7cjncaelk8",
       "status": "confirmed",
       "summary": "Labor Day",
       "region": "United States",
       "date": "2021-09-06"
     },
     {
-      "id": "20210915_7iu28nd3f6st2o8e1qn01dgfjo",
+      "id": "20210915_mki3pbd3g88fds6gfomm419oqg",
       "status": "confirmed",
       "summary": "First Day of Hispanic Heritage Month",
       "region": "United States",
       "date": "2021-09-15"
     },
     {
-      "id": "20211011_3cr3u9askdrbt5qv41kjg7r64g",
-      "status": "confirmed",
-      "summary": "Indigenous Peoples' Day",
-      "region": "United States",
-      "date": "2021-10-11"
-    },
-    {
-      "id": "20211011_eh4tgcak1vaetud87mvgk0if6g",
+      "id": "20211011_je106i2o07ulmn1oqkhg3bpt20",
       "status": "confirmed",
       "summary": "Columbus Day",
       "region": "United States",
       "date": "2021-10-11"
     },
     {
-      "id": "20211031_a2frojvhd1vvldolshlak8pnbc",
+      "id": "20211011_q11lvsl9kfvn0ub3dmu4mo8pig",
+      "status": "confirmed",
+      "summary": "Indigenous Peoples' Day",
+      "region": "United States",
+      "date": "2021-10-11"
+    },
+    {
+      "id": "20211031_hb7ms1o1dfan5l41e7npt91sks",
       "status": "confirmed",
       "summary": "Halloween",
       "region": "United States",
       "date": "2021-10-31"
     },
     {
-      "id": "20211101_nfooqnm7qu28mjbpqcfn3vbr9o",
+      "id": "20211101_stnvv736fobeq1tpsqjc9eoke0",
       "status": "confirmed",
       "summary": "First Day of American Indian Heritage Month",
       "region": "United States",
       "date": "2021-11-01"
     },
     {
-      "id": "20211102_nehnutq8rdt0tp5fordmb09cdk",
+      "id": "20211102_00haicklogosrcbanisb2cudd4",
       "status": "confirmed",
       "summary": "Election Day",
       "region": "United States",
       "date": "2021-11-02"
     },
     {
-      "id": "20211107_hksmiecdo15d5oe6q3c3kik394",
+      "id": "20211107_n3rolco9cpvq95g7nqvlqsf0l0",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
       "region": "United States",
       "date": "2021-11-07"
     },
     {
-      "id": "20211111_07dsjt7e4uq27ib9ag1ovg8ftk",
+      "id": "20211111_dpg443k4rllrj1j4nuicsaujs0",
       "status": "confirmed",
       "summary": "Veterans Day",
       "region": "United States",
       "date": "2021-11-11"
     },
     {
-      "id": "20211125_8f7fk1580p75s6gm9d71om55us",
+      "id": "20211125_342uhr2rqf1qtvaqlg7nf58l94",
       "status": "confirmed",
       "summary": "Thanksgiving Day",
       "region": "United States",
       "date": "2021-11-25"
     },
     {
-      "id": "20211126_qqm2ljjf4kele0dd9vbmpde3ks",
+      "id": "20211126_f7p24k9moujg3knjk3gqn0uqi0",
       "status": "confirmed",
       "summary": "Native American Heritage Day",
       "region": "United States",
       "date": "2021-11-26"
     },
     {
-      "id": "20211224_pg7d7jkc2mnq3l2arqgraeei4k",
-      "status": "confirmed",
-      "summary": "Christmas Eve",
-      "region": "United States",
-      "date": "2021-12-24"
-    },
-    {
-      "id": "20211224_r003vkloj9gos8okfv74jft1ro",
+      "id": "20211224_qhhhb5n0hinr78i4qd0a8jqan4",
       "status": "confirmed",
       "summary": "Day off for Christmas Day",
       "region": "United States",
       "date": "2021-12-24"
     },
     {
-      "id": "20211225_8t5rnt0s5dlefttotli4nuf1e4",
+      "id": "20211224_vu488ou57f09b0nqdmlat6mork",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "United States",
+      "date": "2021-12-24"
+    },
+    {
+      "id": "20211225_56c03granps4dfloccthnu4288",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "United States",
       "date": "2021-12-25"
     },
     {
-      "id": "20211231_3drdqquvd05vr69e318jichgbc",
-      "status": "confirmed",
-      "summary": "Day off for New Year's Day",
-      "region": "United States",
-      "date": "2021-12-31"
-    },
-    {
-      "id": "20211231_j4epj9eic56kmljutiicldcj1s",
+      "id": "20211231_9cev8pie19qapks49npm04l9rc",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "United States",
       "date": "2021-12-31"
     },
     {
-      "id": "20220101_26f8kd0r1rcqoipmelcs99ms5o",
+      "id": "20211231_rvphfec66rbs3qjhg09l07ln68",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "United States",
+      "date": "2021-12-31"
+    },
+    {
+      "id": "20220101_s1t4egh3li0g082fqkuvevmkq4",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "United States",
       "date": "2022-01-01"
     },
     {
-      "id": "20220117_np61hkudff127qv7r77aiceco0",
+      "id": "20220117_a8pam0i5kuqajqn3gih7bsdfn4",
       "status": "confirmed",
       "summary": "Martin Luther King Jr. Day",
       "region": "United States",
       "date": "2022-01-17"
     },
     {
-      "id": "20220201_a3hbufd1fubs9hh7snou8bob78",
+      "id": "20220201_mu85q94gmfjqkf7je57t4koff0",
       "status": "confirmed",
       "summary": "First Day of Black History Month",
       "region": "United States",
       "date": "2022-02-01"
     },
     {
-      "id": "20220214_l91acr0fc4r3cb8mjqj75qrr6k",
+      "id": "20220214_hahfjb9tapacrm71nkh6qs6egk",
       "status": "confirmed",
       "summary": "Valentine's Day",
       "region": "United States",
       "date": "2022-02-14"
     },
     {
-      "id": "20220221_vubosg1nt255gt727t1a7vavrs",
+      "id": "20220221_9107h5bvj0daipoo5oq1fr1j7g",
       "status": "confirmed",
       "summary": "Presidents' Day",
       "region": "United States",
       "date": "2022-02-21"
     },
     {
-      "id": "20220301_jsf756u72cubla8i0epr667b5c",
+      "id": "20220301_jmeh9p188joa4s1f7udqmi7vcg",
       "status": "confirmed",
       "summary": "First Day of Women's History Month",
       "region": "United States",
       "date": "2022-03-01"
     },
     {
-      "id": "20220313_n726aav2vhgc8vpeun4en9fjr4",
+      "id": "20220313_4k6mqpjvh52h82uasjatksbtpk",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
       "region": "United States",
       "date": "2022-03-13"
     },
     {
-      "id": "20220317_0mlqmsi7mbe5r0vsdj9j9qs3i0",
+      "id": "20220317_mnqa8ubhi14rjesehu00kn46fg",
       "status": "confirmed",
       "summary": "St. Patrick's Day",
       "region": "United States",
       "date": "2022-03-17"
     },
     {
-      "id": "20220417_isilamtm6d701i0b4tunuq1vc4",
+      "id": "20220417_3s7sr1qa2d9o9oe5cbgd3b6ju0",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "region": "United States",
       "date": "2022-04-17"
     },
     {
-      "id": "20220418_cnomd9p3t08o6tajvc69jopeng",
+      "id": "20220418_0jkinfo1hgk7sane6d06im3m0c",
       "status": "confirmed",
       "summary": "Easter Monday",
       "region": "United States",
       "date": "2022-04-18"
     },
     {
-      "id": "20220418_traq7kijnhpivlrgcvqrsui2ok",
+      "id": "20220418_e5hpiqfqkmoe4d34p9d3fcio8s",
       "status": "confirmed",
       "summary": "Tax Day",
       "region": "United States",
       "date": "2022-04-18"
     },
     {
-      "id": "20220501_ffihkecni85v12lshpcj07mcqg",
+      "id": "20220501_4nvga8ab05san3rljmk8gogmek",
       "status": "confirmed",
       "summary": "First Day of Asian Pacific American Heritage Month",
       "region": "United States",
       "date": "2022-05-01"
     },
     {
-      "id": "20220505_hj4dkq80r2h3gsfln98sbg3ecs",
+      "id": "20220505_gnpcourkrjsdqgd6l5p8m00kko",
       "status": "confirmed",
       "summary": "Cinco de Mayo",
       "region": "United States",
       "date": "2022-05-05"
     },
     {
-      "id": "20220508_tgqteifiq7pgag2dqvon6eii8g",
+      "id": "20220508_5j9tt75njq2mc9s84ktghv5uo4",
       "status": "confirmed",
       "summary": "Mother's Day",
       "region": "United States",
       "date": "2022-05-08"
     },
     {
-      "id": "20220530_v0tmn2p80426frl2mf0ub1p4u0",
+      "id": "20220530_mubrcfb1ema52icfs7jvo52i8o",
       "status": "confirmed",
       "summary": "Memorial Day",
       "region": "United States",
       "date": "2022-05-30"
     },
     {
-      "id": "20220601_uubhtt59dhfr87i363lr5t7jhk",
+      "id": "20220601_i22r3so7ahvvng92aakskg64o4",
       "status": "confirmed",
       "summary": "First Day of LGBTQ+ Pride Month",
       "region": "United States",
       "date": "2022-06-01"
     },
     {
-      "id": "20220619_7u2gfvgrvm1k0hh5h80diofh8s",
+      "id": "20220614_afb0e5hutl5v33gf1a3gvqg070",
+      "status": "confirmed",
+      "summary": "Flag Day",
+      "region": "United States",
+      "date": "2022-06-14"
+    },
+    {
+      "id": "20220619_7ctrqsm38ndrv6oopsqviti6rk",
       "status": "confirmed",
       "summary": "Father's Day",
       "region": "United States",
       "date": "2022-06-19"
     },
     {
-      "id": "20220619_ngfleudaan1mql2k3ig9ol5hl4",
+      "id": "20220619_ik9o5ivf47d0lpgavip4bvg8t8",
       "status": "confirmed",
       "summary": "Juneteenth",
       "region": "United States",
       "date": "2022-06-19"
     },
     {
-      "id": "20220704_4b2r4jo9v2t3h0vo2oqmltrv20",
+      "id": "20220620_k7effegtkpl4agm00s4onjp27s",
+      "status": "confirmed",
+      "summary": "Day off for Juneteenth",
+      "region": "United States",
+      "date": "2022-06-20"
+    },
+    {
+      "id": "20220704_7mjropb9h0lmq9902t7jhanq94",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "United States",
       "date": "2022-07-04"
     },
     {
-      "id": "20220905_ujhlulr9tmttqfbdeokj4536go",
+      "id": "20220905_9qfkiuho50ingbggv94h4svbis",
       "status": "confirmed",
       "summary": "Labor Day",
       "region": "United States",
       "date": "2022-09-05"
     },
     {
-      "id": "20220915_83n0d4hu81maohk47o4vh2kh8k",
+      "id": "20220915_6lba3248elmatsabr013c544ns",
       "status": "confirmed",
       "summary": "First Day of Hispanic Heritage Month",
       "region": "United States",
       "date": "2022-09-15"
     },
     {
-      "id": "20221010_2j8vre6ff1nm66ab2tggg0coto",
+      "id": "20221010_e5gn60nvooi7b5n63lgt95svvc",
       "status": "confirmed",
       "summary": "Indigenous Peoples' Day",
       "region": "United States",
       "date": "2022-10-10"
     },
     {
-      "id": "20221010_cg7263rvh86e4hfe85eq3v6cpo",
+      "id": "20221010_h9m1g7t7hs8jujq8o3ub5fmapc",
       "status": "confirmed",
       "summary": "Columbus Day",
       "region": "United States",
       "date": "2022-10-10"
     },
     {
-      "id": "20221031_n8v5k0e3aiij3s6vv6ecm61fn0",
+      "id": "20221031_6glp9tsh22arlfd0ob8jbpneqs",
       "status": "confirmed",
       "summary": "Halloween",
       "region": "United States",
       "date": "2022-10-31"
     },
     {
-      "id": "20221101_3i3bfi6cu4n5hmvec3e5l1i8qg",
+      "id": "20221101_ek6rjrt8667gnvq9gm3h88ad98",
       "status": "confirmed",
       "summary": "First Day of American Indian Heritage Month",
       "region": "United States",
       "date": "2022-11-01"
     },
     {
-      "id": "20221106_8e6a2jm9nhulnvb7htvju3d030",
+      "id": "20221106_lgt8p48405gsmojtl6jcoenne0",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
       "region": "United States",
       "date": "2022-11-06"
     },
     {
-      "id": "20221108_0dv1qpt0m98fmm7joa2262ca1g",
+      "id": "20221108_homlier8gatje3hh76f2ai5lio",
       "status": "confirmed",
       "summary": "Election Day",
       "region": "United States",
       "date": "2022-11-08"
     },
     {
-      "id": "20221111_b5t5d9o1jv6r7p2t8r74rb566s",
+      "id": "20221111_lv2fh3r4enk5a5742uidp649a0",
       "status": "confirmed",
       "summary": "Veterans Day",
       "region": "United States",
       "date": "2022-11-11"
     },
     {
-      "id": "20221124_gfjrgg0uv2jkfgg7cjhsegn9c8",
+      "id": "20221124_q2bltm9681722h5dm8b4nksen4",
       "status": "confirmed",
       "summary": "Thanksgiving Day",
       "region": "United States",
       "date": "2022-11-24"
     },
     {
-      "id": "20221125_c97er4q0njonqdjg0bk2qsbjps",
+      "id": "20221125_5fsp6cfd26fr9m158ot932b994",
       "status": "confirmed",
       "summary": "Native American Heritage Day",
       "region": "United States",
       "date": "2022-11-25"
     },
     {
-      "id": "20221224_5b07r274h34hs7rbj5jj2jjqh4",
+      "id": "20221224_mr7j751ra55nn0kd1lf4objb9g",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "United States",
       "date": "2022-12-24"
     },
     {
-      "id": "20221225_q5se0f3mbqlcdgatifk7ph2m8k",
+      "id": "20221225_j9ti48so951iffnrvplkvirvmg",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "United States",
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_58srrd65t4c24nf46oi92omjjg",
+      "id": "20221226_84kiunub943bguoc5810i3v1us",
       "status": "confirmed",
       "summary": "Day off for Christmas Day",
       "region": "United States",
       "date": "2022-12-26"
     },
     {
-      "id": "20221231_0e91ok3vuag0rd4smsh4j1akvg",
+      "id": "20221231_sis3hnml9ikf19e59a6etn9qug",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "United States",
