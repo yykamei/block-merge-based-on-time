@@ -23199,9 +23199,9 @@
       "date": "2021-08-15"
     },
     {
-      "id": "20210816_2kkc2r18tcf3u1no319knqebuk",
+      "id": "20210816_k77kqivb3tss6jb9jk3k86q3lg",
       "status": "confirmed",
-      "summary": "Assumption holiday",
+      "summary": "Assumption Holiday",
       "region": "Gambia",
       "date": "2021-08-16"
     },
@@ -23395,6 +23395,13 @@
       "summary": "Assumption of Mary",
       "region": "Guinea",
       "date": "2021-08-15"
+    },
+    {
+      "id": "20210816_k2fvvp0qvod34shfsn7t02lmo8",
+      "status": "confirmed",
+      "summary": "Day off for Assumption of Mary",
+      "region": "Guinea",
+      "date": "2021-08-16"
     },
     {
       "id": "20211002_dfsd72vgdu16bn461vu6asetag",
@@ -63566,6 +63573,13 @@
       "summary": "Independence Day Holiday",
       "region": "Uzbekistan",
       "date": "2021-09-04"
+    },
+    {
+      "id": "20210905_rkeau5reqmt57ognqbf0m0mj98",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Uzbekistan",
+      "date": "2021-09-05"
     },
     {
       "id": "20211001_u8773o9qo0s9mjj7r9j4795sko",
