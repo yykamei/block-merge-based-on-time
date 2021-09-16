@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.32...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Gambia, Guinea, Uzbekistan [\#288](https://github.com/yykamei/block-merge-based-on-time/pull/288) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.32](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.32) (2021-09-12)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.31...v1.1.32)
