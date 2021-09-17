@@ -8,6 +8,10 @@
 
 - Update Holidays in Gambia, Guinea, Uzbekistan [\#288](https://github.com/yykamei/block-merge-based-on-time/pull/288) ([github-actions[bot]](https://github.com/apps/github-actions))
 
+**Merged pull requests:**
+
+- Bump @typescript-eslint/parser from 4.31.0 to 4.31.1 [\#294](https://github.com/yykamei/block-merge-based-on-time/pull/294) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.32](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.32) (2021-09-12)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.31...v1.1.32)
