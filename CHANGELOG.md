@@ -1,12 +1,23 @@
 # Changelog
 
-## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+## [v1.1.33](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.33) (2021-09-17)
 
-[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.32...HEAD)
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.32...v1.1.33)
 
 **Implemented enhancements:**
 
 - Update Holidays in Gambia, Guinea, Uzbekistan [\#288](https://github.com/yykamei/block-merge-based-on-time/pull/288) ([github-actions[bot]](https://github.com/apps/github-actions))
+
+**Merged pull requests:**
+
+- Bump @types/luxon from 2.0.3 to 2.0.4 [\#298](https://github.com/yykamei/block-merge-based-on-time/pull/298) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @vercel/ncc from 0.30.0 to 0.31.1 [\#297](https://github.com/yykamei/block-merge-based-on-time/pull/297) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump typescript from 4.4.2 to 4.4.3 [\#295](https://github.com/yykamei/block-merge-based-on-time/pull/295) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/parser from 4.31.0 to 4.31.1 [\#294](https://github.com/yykamei/block-merge-based-on-time/pull/294) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 16.9.1 to 16.9.2 [\#293](https://github.com/yykamei/block-merge-based-on-time/pull/293) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump prettier from 2.4.0 to 2.4.1 [\#292](https://github.com/yykamei/block-merge-based-on-time/pull/292) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 4.31.0 to 4.31.1 [\#291](https://github.com/yykamei/block-merge-based-on-time/pull/291) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump jest from 27.1.1 to 27.2.0 [\#290](https://github.com/yykamei/block-merge-based-on-time/pull/290) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.32](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.32) (2021-09-12)
 
