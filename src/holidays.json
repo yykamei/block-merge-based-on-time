@@ -39602,6 +39602,13 @@
       "date": "2021-07-21"
     },
     {
+      "id": "20210819_f8hhbuhak93773a8aocf921jls",
+      "status": "confirmed",
+      "summary": "Ashura Holiday",
+      "region": "Mali",
+      "date": "2021-08-19"
+    },
+    {
       "id": "20210922_9ihgm9e0vq8sgdiod8d83veqqc",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -59310,11 +59317,32 @@
       "date": "2022-05-13"
     },
     {
+      "id": "20220515_214trh12ktb9ml8nokb20q6ulc",
+      "status": "confirmed",
+      "summary": "Visakha Bucha",
+      "region": "Thailand",
+      "date": "2022-05-15"
+    },
+    {
+      "id": "20220516_lbfvcgtutecrhm4mf68ii06hhg",
+      "status": "confirmed",
+      "summary": "Day off for Visakha Bucha",
+      "region": "Thailand",
+      "date": "2022-05-16"
+    },
+    {
       "id": "20220603_1g75vcofrd75e15mlmb7pm99fk",
       "status": "confirmed",
       "summary": "Queen Suthida's Birthday",
       "region": "Thailand",
       "date": "2022-06-03"
+    },
+    {
+      "id": "20220713_bok4l8ff9gr4qqjjsf2oc8mask",
+      "status": "confirmed",
+      "summary": "Asalha Bucha",
+      "region": "Thailand",
+      "date": "2022-07-13"
     },
     {
       "id": "20220714_8nb2884af2gjdn637oet4p3g6s",
