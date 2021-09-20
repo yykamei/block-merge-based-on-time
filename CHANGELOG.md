@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.34...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Mali, Thailand [\#303](https://github.com/yykamei/block-merge-based-on-time/pull/303) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.34](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.34) (2021-09-18)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.33...v1.1.34)
