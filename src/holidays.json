@@ -8341,9 +8341,9 @@
       "date": "2021-11-15"
     },
     {
-      "id": "20211120_l659t8mjqrjd56ifh1oivkisek",
+      "id": "20211120_2lsfu39dirg0f3tp9kvmgjm5p8",
       "status": "confirmed",
-      "summary": "Black Consciousness Day",
+      "summary": "Black Awareness Day",
       "region": "Brazil",
       "date": "2021-11-20"
     },
@@ -8537,9 +8537,9 @@
       "date": "2022-11-15"
     },
     {
-      "id": "20221120_k320k2v50ft1vca91oc77bi688",
+      "id": "20221120_o1o60t4gkdsdu6g7ndoos602d4",
       "status": "confirmed",
-      "summary": "Black Consciousness Day",
+      "summary": "Black Awareness Day",
       "region": "Brazil",
       "date": "2022-11-20"
     },
@@ -40213,6 +40213,76 @@
       "date": "2021-09-10"
     },
     {
+      "id": "20210911_pt1e9u1snjfmegis4i4n25nmq4",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-11"
+    },
+    {
+      "id": "20210912_8h6pl86cgen200jg8ss63ns7bk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-12"
+    },
+    {
+      "id": "20210913_qpucievpfplkljpvuok0o6ifog",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-13"
+    },
+    {
+      "id": "20210914_ik77qmdkla870t9vgg793jemu4",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-14"
+    },
+    {
+      "id": "20210915_c16dblhuh1j6l2isl9mkrs1irk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-15"
+    },
+    {
+      "id": "20210916_o27kkkfdji4380b4mimmkuui8k",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-16"
+    },
+    {
+      "id": "20210917_5t2vvf2476go066hp0usf2dt78",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-17"
+    },
+    {
+      "id": "20210918_19qg53voq6ta0i7l4ptqr383ns",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-18"
+    },
+    {
+      "id": "20210919_2fqfsobh7fcfhqguu2tlsbt2vc",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-19"
+    },
+    {
+      "id": "20210920_br3c6si6umb4sfqnmnqk2s4n2s",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2021-09-20"
+    },
+    {
       "id": "20211019_4n831tf71pgv7aet4ncgddhiv8",
       "status": "confirmed",
       "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
@@ -65924,13 +65994,6 @@
       "date": "2021-08-09"
     },
     {
-      "id": "20210926_l8ncp0gskg909ogmkodn332d8k",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Samoa",
-      "date": "2021-09-26"
-    },
-    {
       "id": "20211011_tbk41cu9i5bpe59inb2nm3qe0c",
       "status": "confirmed",
       "summary": "Lotu a Tamaiti",
@@ -65980,13 +66043,6 @@
       "date": "2022-01-03"
     },
     {
-      "id": "20220403_pkvn6s3ppuci57q5ac7atsei8k",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time ends",
-      "region": "Samoa",
-      "date": "2022-04-03"
-    },
-    {
       "id": "20220415_g0qnoo92lh53psj1e6larm0elo",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -66027,13 +66083,6 @@
       "summary": "Father's Day",
       "region": "Samoa",
       "date": "2022-08-15"
-    },
-    {
-      "id": "20220925_cvqg74jvjgu48gncd7mk0k1tno",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Samoa",
-      "date": "2022-09-25"
     },
     {
       "id": "20221010_7s89k2mdr965fadest3sderij8",
