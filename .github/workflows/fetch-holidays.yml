@@ -2,7 +2,7 @@ name: Fetch holidays
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 1 * * *"
+    - cron: "5 11 * * *"
 jobs:
   fetch-holidays:
     runs-on: ubuntu-latest
