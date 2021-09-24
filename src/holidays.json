@@ -20740,6 +20740,13 @@
       "date": "2021-12-26"
     },
     {
+      "id": "20211227_ot0h7655kqgpt6esr4bodto61s",
+      "status": "confirmed",
+      "summary": "Day off for Boxing Day",
+      "region": "Grenada",
+      "date": "2021-12-27"
+    },
+    {
       "id": "20220101_q9tqsf99en9gupbmonm6qho7v4",
       "status": "confirmed",
       "summary": "New Year",
@@ -55161,14 +55168,14 @@
       "date": "2021-06-23"
     },
     {
-      "id": "20210624_6h2liljbeelpj6h8n5pvst0lc4",
+      "id": "20210624_8n7pcarbhf00hkk18p7aalts10",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
       "date": "2021-06-24"
     },
     {
-      "id": "20210624_j3fsbft029bocpv1qj7393b7ns",
+      "id": "20210624_n4hnp1l1k84es840gvn7ru4n34",
       "status": "confirmed",
       "summary": "Feast of San Juan (regional holiday)",
       "region": "Spain",
@@ -55210,7 +55217,7 @@
       "date": "2021-08-05"
     },
     {
-      "id": "20210815_ikle5hg4ltifvb0d3km5p8lu14",
+      "id": "20210815_0g2i7758po1701mbdo2vjvsaqs",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Spain",
@@ -55553,9 +55560,9 @@
       "date": "2022-04-28"
     },
     {
-      "id": "20220501_7knn2l6i3m3mbi4j6hcucprhmg",
+      "id": "20220501_4o1gl1p408tius7t3lgc1i7q7k",
       "status": "confirmed",
-      "summary": "Labor Day / May Day",
+      "summary": "Labor Day / May Day (regional holiday)",
       "region": "Spain",
       "date": "2022-05-01"
     },
@@ -55567,16 +55574,16 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_1illdtfr63mlvoo8hi7057dsl4",
+      "id": "20220502_pnptnnup9n72bsu501900aci9s",
       "status": "confirmed",
-      "summary": "Labor Day observed (regional holiday)",
+      "summary": "Day of Madrid (Madrid)",
       "region": "Spain",
       "date": "2022-05-02"
     },
     {
-      "id": "20220502_pnptnnup9n72bsu501900aci9s",
+      "id": "20220502_vq1qkco7iuslm8pkl42oviisa0",
       "status": "confirmed",
-      "summary": "Day of Madrid (Madrid)",
+      "summary": "Monday After The Labor Festival (regional holiday)",
       "region": "Spain",
       "date": "2022-05-02"
     },
@@ -55728,6 +55735,13 @@
       "date": "2022-09-02"
     },
     {
+      "id": "20220906_7uccls51gea2facnur8uockfu0",
+      "status": "confirmed",
+      "summary": "Elcano's Day (Basque Country)",
+      "region": "Spain",
+      "date": "2022-09-06"
+    },
+    {
       "id": "20220908_495o9af97rdkr6tv7ol574eqpc",
       "status": "confirmed",
       "summary": "Day of Extremadura (Extremadura)",
@@ -55826,9 +55840,9 @@
       "date": "2022-12-03"
     },
     {
-      "id": "20221206_r4esf15tn7oc2ouqcu2ab44uas",
+      "id": "20221206_4v9kpcp8ijthd3jav34f5oacto",
       "status": "confirmed",
-      "summary": "Constitution Day (regional holiday)",
+      "summary": "Constitution Day Holiday",
       "region": "Spain",
       "date": "2022-12-06"
     },
