@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.36...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Burundi, Grenada, Sri Lanka, Timor-Leste [\#307](https://github.com/yykamei/block-merge-based-on-time/pull/307) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @typescript-eslint/parser from 4.31.1 to 4.31.2 [\#312](https://github.com/yykamei/block-merge-based-on-time/pull/312) ([dependabot[bot]](https://github.com/apps/dependabot))
