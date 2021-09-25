@@ -48200,6 +48200,13 @@
       "date": "2021-04-05"
     },
     {
+      "id": "20210501_n4mh8n14l7tv4pa3ulfk0keidk",
+      "status": "confirmed",
+      "summary": "Labor Day / May Day",
+      "region": "St. Pierre & Miquelon",
+      "date": "2021-05-01"
+    },
+    {
       "id": "20210508_9aas0gc1bf8491nrhclju07i30",
       "status": "confirmed",
       "summary": "Victory Day",
@@ -48289,6 +48296,13 @@
       "summary": "Easter Monday",
       "region": "St. Pierre & Miquelon",
       "date": "2022-04-18"
+    },
+    {
+      "id": "20220501_0r9vuan70q7oagj8qp53mpivic",
+      "status": "confirmed",
+      "summary": "Labor Day / May Day",
+      "region": "St. Pierre & Miquelon",
+      "date": "2022-05-01"
     },
     {
       "id": "20220508_r21b1q332tm8jlrspo5789l4oc",
@@ -54334,6 +54348,13 @@
       "summary": "Grand Magal de Touba",
       "region": "Senegal",
       "date": "2021-09-26"
+    },
+    {
+      "id": "20210927_8v78tqj2c73hl2j8p1gihp5918",
+      "status": "confirmed",
+      "summary": "Day off for Grand Magal de Touba",
+      "region": "Senegal",
+      "date": "2021-09-27"
     },
     {
       "id": "20211019_m6qg3ov28g4art15rrge3ft6g0",
