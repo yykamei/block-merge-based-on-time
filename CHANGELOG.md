@@ -4,10 +4,6 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.39...HEAD)
 
-**Implemented enhancements:**
-
-- Update Holidays in Nepal, Kosovo [\#324](https://github.com/yykamei/block-merge-based-on-time/pull/324) ([github-actions[bot]](https://github.com/apps/github-actions))
-
 **Closed issues:**
 
 - Update `outputs` in `action.yml` to put correct information [\#232](https://github.com/yykamei/block-merge-based-on-time/issues/232)
