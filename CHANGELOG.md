@@ -12,6 +12,13 @@
 
 - Update `outputs` in `action.yml` to put correct information [\#232](https://github.com/yykamei/block-merge-based-on-time/issues/232)
 
+**Merged pull requests:**
+
+- Bump jest from 27.2.1 to 27.2.3 [\#332](https://github.com/yykamei/block-merge-based-on-time/pull/332) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 16.9.6 to 16.10.1 [\#331](https://github.com/yykamei/block-merge-based-on-time/pull/331) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/parser from 4.31.2 to 4.32.0 [\#330](https://github.com/yykamei/block-merge-based-on-time/pull/330) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 4.31.2 to 4.32.0 [\#329](https://github.com/yykamei/block-merge-based-on-time/pull/329) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.39](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.39) (2021-09-25)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.38...v1.1.39)
