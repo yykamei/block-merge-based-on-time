@@ -16,10 +16,12 @@ jobs:
         with:
           commit-message: Update CHANGELOG.md
           branch: update-changelog
+      - uses: yykamei/actions-date@main
+        id: date
       - uses: yykamei/actions-gh-pr-create@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: update-changelog
+          branch: update-changelog-${{ steps.date.outputs.date }}
           title: Update CHANGELOG.md
           label: chore
           body: |
