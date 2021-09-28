@@ -9,15 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: yykamei/actions-date@main
+        id: date
       - uses: yykamei/actions-update-changelog@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: yykamei/actions-git-push@main
         with:
           commit-message: Update CHANGELOG.md
-          branch: update-changelog
-      - uses: yykamei/actions-date@main
-        id: date
+          branch: update-changelog-${{ steps.date.outputs.date }}
       - uses: yykamei/actions-gh-pr-create@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
