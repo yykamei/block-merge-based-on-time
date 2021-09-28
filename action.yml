@@ -42,9 +42,6 @@ inputs:
     description: The GitHub token used to create an authenticated client
     required: false
     default: ${{ github.token }}
-outputs:
-  result:
-    description: The result of this action
 branding:
   icon: stop-circle
   color: yellow
