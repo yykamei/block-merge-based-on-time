@@ -8,6 +8,10 @@
 
 - Update Holidays in Nepal, Kosovo [\#324](https://github.com/yykamei/block-merge-based-on-time/pull/324) ([github-actions[bot]](https://github.com/apps/github-actions))
 
+**Closed issues:**
+
+- Update `outputs` in `action.yml` to put correct information [\#232](https://github.com/yykamei/block-merge-based-on-time/issues/232)
+
 ## [v1.1.39](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.39) (2021-09-25)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.38...v1.1.39)
