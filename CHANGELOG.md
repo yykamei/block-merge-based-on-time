@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- Update Holidays in Canada [\#337](https://github.com/yykamei/block-merge-based-on-time/pull/337) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Update Holidays in Nepal, Kosovo [\#324](https://github.com/yykamei/block-merge-based-on-time/pull/324) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 **Closed issues:**
