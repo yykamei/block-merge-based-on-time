@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.40...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Bermuda, Botswana [\#339](https://github.com/yykamei/block-merge-based-on-time/pull/339) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.40](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.40) (2021-09-29)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.39...v1.1.40)
