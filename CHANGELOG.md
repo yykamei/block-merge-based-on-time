@@ -8,6 +8,10 @@
 
 - Update Holidays in Bermuda, Botswana [\#339](https://github.com/yykamei/block-merge-based-on-time/pull/339) ([github-actions[bot]](https://github.com/apps/github-actions))
 
+**Merged pull requests:**
+
+- Bump @types/node from 16.10.1 to 16.10.2 [\#340](https://github.com/yykamei/block-merge-based-on-time/pull/340) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.40](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.40) (2021-09-29)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.39...v1.1.40)
