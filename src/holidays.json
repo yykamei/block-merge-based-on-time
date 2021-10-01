@@ -7404,6 +7404,13 @@
       "date": "2021-09-06"
     },
     {
+      "id": "20211018_kjbs40u69qa7dmvr2diq2i33g8",
+      "status": "confirmed",
+      "summary": "Flora Duffy Day",
+      "region": "Bermuda",
+      "date": "2021-10-18"
+    },
+    {
       "id": "20211031_8jelfstatespdvpoidji6k9peo",
       "status": "confirmed",
       "summary": "Halloween",
@@ -9642,6 +9649,13 @@
       "summary": "Public Holiday (January)",
       "region": "Botswana",
       "date": "2022-01-02"
+    },
+    {
+      "id": "20220103_2djsjqrsmf9rl04fp3t45bsi4g",
+      "status": "confirmed",
+      "summary": "Day off for Public Holiday (January)",
+      "region": "Botswana",
+      "date": "2022-01-03"
     },
     {
       "id": "20220415_obc27iiaq5k2gc9v3tlgeon6s8",
