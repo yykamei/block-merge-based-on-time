@@ -2628,6 +2628,13 @@
       "date": "2022-05-02"
     },
     {
+      "id": "20220518_b1r179o4v57v2868jd3fb8okkk",
+      "status": "confirmed",
+      "summary": "Census Day",
+      "region": "Argentina",
+      "date": "2022-05-18"
+    },
+    {
       "id": "20220525_l2kke2i5m8sc0j4ir4161nn080",
       "status": "confirmed",
       "summary": "National Day/May 1810 Revolution",
@@ -55343,7 +55350,7 @@
       "date": "2021-06-23"
     },
     {
-      "id": "20210624_8n7pcarbhf00hkk18p7aalts10",
+      "id": "20210624_6h2liljbeelpj6h8n5pvst0lc4",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -55833,7 +55840,7 @@
       "date": "2022-06-16"
     },
     {
-      "id": "20220624_c3g9j114dfv3tiih66of6o64is",
+      "id": "20220624_7rlh7peipps3vnrupijf0su9eo",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -56050,16 +56057,16 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_1oba8nfg3tauovhq7m2nbseobg",
+      "id": "20221226_20t0g7e9vqujkjbf3503tchsvg",
       "status": "confirmed",
-      "summary": "St Stephen's Day (regional holiday)",
+      "summary": "Day After Christmas Day (regional holiday)",
       "region": "Spain",
       "date": "2022-12-26"
     },
     {
-      "id": "20221226_t5adel26q37rqr6tdh7atcms78",
+      "id": "20221226_aipc9063dlrtlmvk5h49fkafhk",
       "status": "confirmed",
-      "summary": "Christmas Day observed (regional holiday)",
+      "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
       "date": "2022-12-26"
     },
