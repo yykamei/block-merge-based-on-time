@@ -27618,11 +27618,18 @@
       "date": "2022-02-01"
     },
     {
-      "id": "20220301_6ut3q8c9q3gmmie1tqhk9u5iuc",
+      "id": "20220228_ursh73g00qllfakagp6ghq6ud4",
       "status": "confirmed",
       "summary": "Ascension of the Prophet Muhammad",
       "region": "Indonesia",
-      "date": "2022-03-01"
+      "date": "2022-02-28"
+    },
+    {
+      "id": "20220303_c4h9bmq2fgskjg180o2p8fcclo",
+      "status": "confirmed",
+      "summary": "Bali's Day of Silence and Hindu New Year (Nyepi)",
+      "region": "Indonesia",
+      "date": "2022-03-03"
     },
     {
       "id": "20220415_gcugah4mc33l2pc37sps4c4dms",
@@ -27653,18 +27660,25 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_ua6egnv12p4cvc0l1m1qn2bdg4",
+      "id": "20220502_suq3ec8mgjktvs99punpljar7o",
       "status": "confirmed",
       "summary": "Idul Fitri",
+      "region": "Indonesia",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_9mq1tktn05ok72trbqc6o6p8a0",
+      "status": "confirmed",
+      "summary": "Idul Fitri Holiday",
       "region": "Indonesia",
       "date": "2022-05-03"
     },
     {
-      "id": "20220504_ukqbti4rbmtcv0g1cjlfv1iagg",
+      "id": "20220516_qt81mipj938nslbc5a78s15lb8",
       "status": "confirmed",
-      "summary": "Idul Fitri Holiday",
+      "summary": "Waisak Day (Buddha's Anniversary)",
       "region": "Indonesia",
-      "date": "2022-05-04"
+      "date": "2022-05-16"
     },
     {
       "id": "20220526_lck4kav2cnq5gupik42otq8bo4",
@@ -27681,11 +27695,11 @@
       "date": "2022-06-01"
     },
     {
-      "id": "20220710_ice1udc6620fdo21g8bkc49pa0",
+      "id": "20220709_2f2qb7cl7u721tsfdpd4ahlqas",
       "status": "confirmed",
       "summary": "Idul Adha",
       "region": "Indonesia",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220730_t6ge5oi4ogdd2ef9kh1o3ghrfs",
