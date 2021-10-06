@@ -8,6 +8,10 @@
 
 - Update Holidays in Indonesia [\#350](https://github.com/yykamei/block-merge-based-on-time/pull/350) ([github-actions[bot]](https://github.com/apps/github-actions))
 
+**Merged pull requests:**
+
+- Bump @actions/core from 1.5.0 to 1.6.0 [\#341](https://github.com/yykamei/block-merge-based-on-time/pull/341) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.42](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.42) (2021-10-03)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.41...v1.1.42)
