@@ -18466,6 +18466,13 @@
       "date": "2021-10-06"
     },
     {
+      "id": "20211007_haegkiksi0m2tkh789b7vfj4e8",
+      "status": "confirmed",
+      "summary": "Day off for Armed Forces Day",
+      "region": "Egypt",
+      "date": "2021-10-07"
+    },
+    {
       "id": "20211019_ogi2n7d7tcmujid36jaa7mdvkk",
       "status": "confirmed",
       "summary": "Prophet Mohamed's Birthday",
@@ -46443,6 +46450,20 @@
       "date": "2021-08-10"
     },
     {
+      "id": "20211003_5a4r03hl83ojrllae7gn25nrk8",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Oman",
+      "date": "2021-10-03"
+    },
+    {
+      "id": "20211004_22k0c1uoks2v6ruv4io8denhpo",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Oman",
+      "date": "2021-10-04"
+    },
+    {
       "id": "20211019_oicmgarel4l6u5jogbo75ojmmk",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
@@ -56078,9 +56099,9 @@
       "date": "2022-12-24"
     },
     {
-      "id": "20221225_i9ft9mude6n4loi7kofnp3866c",
+      "id": "20221225_8683301fnflu3bdv00cuqf2mg0",
       "status": "confirmed",
-      "summary": "Christmas Day",
+      "summary": "Christmas Day (regional holiday)",
       "region": "Spain",
       "date": "2022-12-25"
     },
