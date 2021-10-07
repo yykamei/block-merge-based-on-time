@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.43...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Egypt, Oman, Spain [\#353](https://github.com/yykamei/block-merge-based-on-time/pull/353) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.43](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.43) (2021-10-06)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.42...v1.1.43)
