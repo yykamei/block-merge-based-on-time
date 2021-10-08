@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.44...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays in Kenya, Kuwait, Myanmar \(Burma\) [\#365](https://github.com/yykamei/block-merge-based-on-time/pull/365) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/node from 16.10.2 to 16.10.3 [\#360](https://github.com/yykamei/block-merge-based-on-time/pull/360) ([dependabot[bot]](https://github.com/apps/dependabot))
