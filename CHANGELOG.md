@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump @types/node from 16.10.2 to 16.10.3 [\#360](https://github.com/yykamei/block-merge-based-on-time/pull/360) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/parser from 4.32.0 to 4.33.0 [\#359](https://github.com/yykamei/block-merge-based-on-time/pull/359) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/luxon from 2.0.4 to 2.0.5 [\#358](https://github.com/yykamei/block-merge-based-on-time/pull/358) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.44](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.44) (2021-10-07)
