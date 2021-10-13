@@ -8910,16 +8910,16 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_6stint5r9qf1c15sg5h4s2mf9o",
+      "id": "20221226_g073uf5c3udpeu9i0of1n80tfg",
       "status": "confirmed",
-      "summary": "Boxing Day",
+      "summary": "Day off for Christmas Day",
       "region": "Bahamas",
       "date": "2022-12-26"
     },
     {
-      "id": "20221226_g073uf5c3udpeu9i0of1n80tfg",
+      "id": "20221226_miqubi11veg18bkm3bnb47stdo",
       "status": "confirmed",
-      "summary": "Day off for Christmas Day",
+      "summary": "Boxing Day",
       "region": "Bahamas",
       "date": "2022-12-26"
     },
@@ -25310,21 +25310,56 @@
       "date": "2021-09-17"
     },
     {
-      "id": "20211003_e7m6bi58dduqs2dkp2hkgfojc8",
+      "id": "20211004_d26k0el1p15ce1nn3k3195fifo",
       "status": "confirmed",
-      "summary": "Morazan's Day",
+      "summary": "Morazan's Week Holiday",
       "region": "Honduras",
-      "date": "2021-10-03"
+      "date": "2021-10-04"
     },
     {
-      "id": "20211012_1kemtnb0h50tu28k9dkc18ms94",
+      "id": "20211005_tgf87rdhkn6ch1f0utf2j2desg",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday",
+      "region": "Honduras",
+      "date": "2021-10-05"
+    },
+    {
+      "id": "20211006_g3kg130pepg4070ivc1life5v4",
+      "status": "confirmed",
+      "summary": "Morazan's Day (Half Day)",
+      "region": "Honduras",
+      "date": "2021-10-06"
+    },
+    {
+      "id": "20211007_ig663do9mat8cghhusum7ggpbo",
+      "status": "confirmed",
+      "summary": "Columbus Day",
+      "region": "Honduras",
+      "date": "2021-10-07"
+    },
+    {
+      "id": "20211008_c6lf20m6qhsrbpfld0ijrg20jo",
+      "status": "confirmed",
+      "summary": "Army Day",
+      "region": "Honduras",
+      "date": "2021-10-08"
+    },
+    {
+      "id": "20211009_ameolfsk605is8ajh7bfo2ae0g",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday (Half Day)",
+      "region": "Honduras",
+      "date": "2021-10-09"
+    },
+    {
+      "id": "20211012_a7dk66q6ejar58a4kb8elcphfc",
       "status": "confirmed",
       "summary": "Columbus Day",
       "region": "Honduras",
       "date": "2021-10-12"
     },
     {
-      "id": "20211021_i2ldsg526j425c423jban6t5b8",
+      "id": "20211021_2b2rsrstpe9enle5rgtq87qfcs",
       "status": "confirmed",
       "summary": "Army Day",
       "region": "Honduras",
@@ -55658,7 +55693,7 @@
       "date": "2022-03-05"
     },
     {
-      "id": "20220319_pdi3jg1eehr1lu38o9bmfqa4b8",
+      "id": "20220319_cqgqs23g866id260e4vfdhotk0",
       "status": "confirmed",
       "summary": "San Jose (regional holiday)",
       "region": "Spain",
