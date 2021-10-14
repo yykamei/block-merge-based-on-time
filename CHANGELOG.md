@@ -8,6 +8,10 @@
 
 - Update Holidays in Fiji [\#369](https://github.com/yykamei/block-merge-based-on-time/pull/369) ([github-actions[bot]](https://github.com/apps/github-actions))
 
+**Merged pull requests:**
+
+- Bump @types/node from 16.10.3 to 16.11.0 [\#375](https://github.com/yykamei/block-merge-based-on-time/pull/375) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.46](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.46) (2021-10-13)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.45...v1.1.46)
