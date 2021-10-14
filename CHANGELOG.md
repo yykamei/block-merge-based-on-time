@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.46...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Fiji [\#369](https://github.com/yykamei/block-merge-based-on-time/pull/369) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.46](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.46) (2021-10-13)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.45...v1.1.46)
