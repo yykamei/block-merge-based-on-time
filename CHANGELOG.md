@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Bump ts-jest from 27.0.5 to 27.0.6 [\#376](https://github.com/yykamei/block-merge-based-on-time/pull/376) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 16.10.3 to 16.11.0 [\#375](https://github.com/yykamei/block-merge-based-on-time/pull/375) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump jest from 27.2.4 to 27.2.5 [\#373](https://github.com/yykamei/block-merge-based-on-time/pull/373) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ts-node from 10.2.1 to 10.3.0 [\#372](https://github.com/yykamei/block-merge-based-on-time/pull/372) ([dependabot[bot]](https://github.com/apps/dependabot))
