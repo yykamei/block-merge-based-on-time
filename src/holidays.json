@@ -3192,16 +3192,16 @@
       "date": "2021-10-03"
     },
     {
-      "id": "20211004_3mf30jngkjn7lamfl3j59v32jc",
+      "id": "20211004_7ju4bd1qnpbjo7o47kfbhjeuoc",
       "status": "confirmed",
-      "summary": "Labour Day (regional holiday)",
+      "summary": "Territory Day (Christmas Island)",
       "region": "Australia",
       "date": "2021-10-04"
     },
     {
-      "id": "20211004_7ju4bd1qnpbjo7o47kfbhjeuoc",
+      "id": "20211004_883fp458bdtn1hkqu9g890kkk4",
       "status": "confirmed",
-      "summary": "Territory Day (Christmas Island)",
+      "summary": "Labour Day (regional holiday)",
       "region": "Australia",
       "date": "2021-10-04"
     },
@@ -3269,7 +3269,7 @@
       "date": "2021-11-24"
     },
     {
-      "id": "20211224_jiiunsnhg9vjb8s263890b1aqg",
+      "id": "20211224_19q81resfq22efgnlk7ddu61h0",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3451,7 +3451,7 @@
       "date": "2022-04-16"
     },
     {
-      "id": "20220417_84ql9q5qrifc7aa7nblqqhn208",
+      "id": "20220417_993kfdgicv9lkca6h1ro7pgu40",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3605,7 +3605,7 @@
       "date": "2022-10-03"
     },
     {
-      "id": "20221003_rncv8cvv94a3gh34up4sup9mmk",
+      "id": "20221003_n03dc7mk67pv7siiheedom1c9k",
       "status": "confirmed",
       "summary": "Labour Day (regional holiday)",
       "region": "Australia",
@@ -3724,7 +3724,7 @@
       "date": "2022-12-27"
     },
     {
-      "id": "20221231_5n8oda639qgcehmurbjnj3lguo",
+      "id": "20221231_5fnj7c6k5cgnmdt0m4q9521nck",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -5584,13 +5584,6 @@
       "date": "2021-10-14"
     },
     {
-      "id": "20211019_emi2j2iq0llduevvg9h8ofj9a8",
-      "status": "confirmed",
-      "summary": "Eid e-Milad-un Nabi",
-      "region": "Bangladesh",
-      "date": "2021-10-19"
-    },
-    {
       "id": "20211020_06d7n5545lkv9tb5a6i50msdbs",
       "status": "confirmed",
       "summary": "Prabarana Purnima",
@@ -5601,6 +5594,13 @@
       "id": "20211020_aspv1pokpb5cc654jgk113hoa4",
       "status": "confirmed",
       "summary": "Lakshmi Puja",
+      "region": "Bangladesh",
+      "date": "2021-10-20"
+    },
+    {
+      "id": "20211020_onqbvehvci7j9v253qf6vne138",
+      "status": "confirmed",
+      "summary": "Eid e-Milad-un Nabi",
       "region": "Bangladesh",
       "date": "2021-10-20"
     },
