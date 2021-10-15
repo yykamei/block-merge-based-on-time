@@ -12,6 +12,7 @@
 
 - Bump @types/node from 16.10.3 to 16.11.0 [\#375](https://github.com/yykamei/block-merge-based-on-time/pull/375) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump jest from 27.2.4 to 27.2.5 [\#373](https://github.com/yykamei/block-merge-based-on-time/pull/373) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ts-node from 10.2.1 to 10.3.0 [\#372](https://github.com/yykamei/block-merge-based-on-time/pull/372) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump typescript from 4.4.3 to 4.4.4 [\#371](https://github.com/yykamei/block-merge-based-on-time/pull/371) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.46](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.46) (2021-10-13)
