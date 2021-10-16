@@ -18249,16 +18249,16 @@
       "date": "2021-01-07"
     },
     {
-      "id": "20210125_bf76sm2hsjcd0ps7uailujhh44",
+      "id": "20210125_7ur52mnmaq0o5rm1smqeadaom4",
       "status": "confirmed",
       "summary": "Revolution Day January 25",
       "region": "Egypt",
       "date": "2021-01-25"
     },
     {
-      "id": "20210128_q5i1hmn3ugk1se99rn2cj290fc",
+      "id": "20210128_50f56q1mrqn03t91jrmg0jfq2c",
       "status": "confirmed",
-      "summary": "Revolution Day January 25",
+      "summary": "Day off for Revolution Day January 25",
       "region": "Egypt",
       "date": "2021-01-28"
     },
@@ -18268,13 +18268,6 @@
       "summary": "Sinai Liberation Day",
       "region": "Egypt",
       "date": "2021-04-25"
-    },
-    {
-      "id": "20210429_kf4rlbbu7f18ghet56qn43jjko",
-      "status": "confirmed",
-      "summary": "Day off for Sinai Liberation Day",
-      "region": "Egypt",
-      "date": "2021-04-29"
     },
     {
       "id": "20210430_v23uidsdeff09n5nua4hfchjsg",
@@ -18352,13 +18345,6 @@
       "summary": "June 30 Revolution",
       "region": "Egypt",
       "date": "2021-06-30"
-    },
-    {
-      "id": "20210701_ct68n73amro1j8a7epjdfbio0o",
-      "status": "confirmed",
-      "summary": "Day off for June 30 Revolution",
-      "region": "Egypt",
-      "date": "2021-07-01"
     },
     {
       "id": "20210717_b046hhsvhrdcklbp2bmqs4g9kk",
@@ -18466,18 +18452,11 @@
       "date": "2021-10-06"
     },
     {
-      "id": "20211007_haegkiksi0m2tkh789b7vfj4e8",
-      "status": "confirmed",
-      "summary": "Day off for Armed Forces Day",
-      "region": "Egypt",
-      "date": "2021-10-07"
-    },
-    {
-      "id": "20211019_ogi2n7d7tcmujid36jaa7mdvkk",
+      "id": "20211021_t6kad64rdua2ns1svov4dk7sbo",
       "status": "confirmed",
       "summary": "Prophet Mohamed's Birthday",
       "region": "Egypt",
-      "date": "2021-10-19"
+      "date": "2021-10-21"
     },
     {
       "id": "20220107_dah88fhqlckhp1l20t2s3ubnrs",
@@ -18492,6 +18471,13 @@
       "summary": "Revolution Day January 25",
       "region": "Egypt",
       "date": "2022-01-25"
+    },
+    {
+      "id": "20220127_09oscrvuuainulmm8j7jf155vc",
+      "status": "confirmed",
+      "summary": "Day off for Revolution Day January 25",
+      "region": "Egypt",
+      "date": "2022-01-27"
     },
     {
       "id": "20220422_u945r3fpbjojalbkbvi20e2ej0",
@@ -18553,6 +18539,13 @@
       "id": "20220505_6s340197hqvbemkgcurtdja08c",
       "status": "confirmed",
       "summary": "Eid el Fitr Holiday",
+      "region": "Egypt",
+      "date": "2022-05-05"
+    },
+    {
+      "id": "20220505_ioi8t1rdiag0s2l42s1l7prm9c",
+      "status": "confirmed",
+      "summary": "Day off for Labor Day",
       "region": "Egypt",
       "date": "2022-05-05"
     },
@@ -27569,9 +27562,16 @@
       "date": "2021-10-02"
     },
     {
-      "id": "20211020_bbf0p3ggmhi1ol51h74scsm7m4",
+      "id": "20211019_jgvlf9g4qlkci83va2tmdas8g0",
       "status": "confirmed",
       "summary": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
+      "region": "Indonesia",
+      "date": "2021-10-19"
+    },
+    {
+      "id": "20211020_47mh7faf57klrqr3ldammdj6s0",
+      "status": "confirmed",
+      "summary": "Day off for Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
       "region": "Indonesia",
       "date": "2021-10-20"
     },
@@ -34027,11 +34027,11 @@
       "date": "2021-09-08"
     },
     {
-      "id": "20211019_fde55t0653lj60ie80e1va4094",
+      "id": "20211018_mc1gaidd7vsb9jmcj56la6836c",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Lebanon",
-      "date": "2021-10-19"
+      "date": "2021-10-18"
     },
     {
       "id": "20211031_1l2agik81nvg7hlcl4me91arek",
@@ -39062,6 +39062,13 @@
       "summary": "Independence Day",
       "region": "Madagascar",
       "date": "2022-06-26"
+    },
+    {
+      "id": "20220710_e6sibiq387ec5disnesramrsjk",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Madagascar",
+      "date": "2022-07-10"
     },
     {
       "id": "20220815_5c8b5dqfgc5jgn9k0pn99t13k4",
@@ -51969,6 +51976,13 @@
       "date": "2021-09-24"
     },
     {
+      "id": "20211101_diq7cucr60ujf0tbub55cncscs",
+      "status": "confirmed",
+      "summary": "Local Government Elections",
+      "region": "South Africa",
+      "date": "2021-11-01"
+    },
+    {
       "id": "20211216_0auv0qmsk2g2mn787t0fvi6bf4",
       "status": "confirmed",
       "summary": "Day of Reconciliation",
@@ -54539,11 +54553,11 @@
       "date": "2021-09-27"
     },
     {
-      "id": "20211019_m6qg3ov28g4art15rrge3ft6g0",
+      "id": "20211018_6acv5ljv95ndjjf8bbtggi5l0s",
       "status": "confirmed",
       "summary": "Maouloud",
       "region": "Senegal",
-      "date": "2021-10-19"
+      "date": "2021-10-18"
     },
     {
       "id": "20211101_p52nfjkkkdjh41r56het9j5mck",
