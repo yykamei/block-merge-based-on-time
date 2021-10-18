@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- Update Holidays in Benin [\#389](https://github.com/yykamei/block-merge-based-on-time/pull/389) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Update Holidays in Germany, Mexico [\#387](https://github.com/yykamei/block-merge-based-on-time/pull/387) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 ## [v1.1.48](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.48) (2021-10-16)
