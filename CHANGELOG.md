@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.49...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in Bahrain, Côte d’Ivoire, Egypt, Eritrea, Ethiopia, Fiji, Guinea, Iraq, Mali, Niger, Sierra Leone, Somalia, Chad, Tunisia, Yemen [\#391](https://github.com/yykamei/block-merge-based-on-time/pull/391) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.49](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.49) (2021-10-18)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.48...v1.1.49)
