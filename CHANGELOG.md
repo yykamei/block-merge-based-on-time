@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.50...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays in United Kingdom [\#393](https://github.com/yykamei/block-merge-based-on-time/pull/393) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.1.50](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.50) (2021-10-19)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.49...v1.1.50)
