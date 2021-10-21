@@ -53353,11 +53353,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_2ufm05c12glu88vrsn4h0dascs",
+      "id": "20220502_a3od5r765t8424der029gj7c5c",
       "status": "confirmed",
       "summary": "Hari Raya Puasa",
       "region": "Singapore",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220503_qrcid7mge0ulvpkn4a7em7hg8g",
@@ -55413,14 +55413,14 @@
       "date": "2021-06-23"
     },
     {
-      "id": "20210624_8n7pcarbhf00hkk18p7aalts10",
+      "id": "20210624_6h2liljbeelpj6h8n5pvst0lc4",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
       "date": "2021-06-24"
     },
     {
-      "id": "20210624_n4hnp1l1k84es840gvn7ru4n34",
+      "id": "20210624_j3fsbft029bocpv1qj7393b7ns",
       "status": "confirmed",
       "summary": "Feast of San Juan (regional holiday)",
       "region": "Spain",
@@ -55551,6 +55551,13 @@
       "summary": "Day of Saint Tecla (Tarragona)",
       "region": "Spain",
       "date": "2021-09-23"
+    },
+    {
+      "id": "20210924_p2pieiiq5gd79ile7s9om3u8ls",
+      "status": "confirmed",
+      "summary": "Virgin of Mercy (Barcelona)",
+      "region": "Spain",
+      "date": "2021-09-24"
     },
     {
       "id": "20211009_5kivfcr3l3ua8a2luudli42cl4",
@@ -56048,6 +56055,13 @@
       "summary": "Day of Saint Tecla (Tarragona)",
       "region": "Spain",
       "date": "2022-09-23"
+    },
+    {
+      "id": "20220924_3tmnak7fmqd7padp8ti5v2cfk0",
+      "status": "confirmed",
+      "summary": "Virgin of Mercy (Barcelona)",
+      "region": "Spain",
+      "date": "2022-09-24"
     },
     {
       "id": "20221009_mn4rsk1eq8vvbfsm835h9pdgh0",
@@ -56926,7 +56940,7 @@
       "date": "2021-06-17"
     },
     {
-      "id": "20210622_v9aeoh9vho41nvj3cro7ac01no",
+      "id": "20210622_gk3h5jrj7rtrv3lm9gg83a4hms",
       "status": "confirmed",
       "summary": "Teachers' Day",
       "region": "El Salvador",
@@ -57087,7 +57101,7 @@
       "date": "2022-06-17"
     },
     {
-      "id": "20220622_gv0s4nq2pejk6u1tb78a7tq9uo",
+      "id": "20220622_e8q8cbf38n16qdcknv7t4rlh00",
       "status": "confirmed",
       "summary": "Teachers' Day",
       "region": "El Salvador",
@@ -57141,13 +57155,6 @@
       "summary": "Christmas Day",
       "region": "El Salvador",
       "date": "2022-12-25"
-    },
-    {
-      "id": "20221226_cdrvf597obgd7r6sajjtt9psb8",
-      "status": "confirmed",
-      "summary": "Christmas Day observed",
-      "region": "El Salvador",
-      "date": "2022-12-26"
     },
     {
       "id": "20221231_v1khs09fr8q8hkicuuali2i4rg",
@@ -65067,11 +65074,25 @@
       "date": "2021-08-04"
     },
     {
+      "id": "20211018_86bavgie8u88ne13f4fk9othhc",
+      "status": "confirmed",
+      "summary": "Heroes and Forefathers Day",
+      "region": "British Virgin Islands",
+      "date": "2021-10-18"
+    },
+    {
       "id": "20211021_7vqt3jn8aqi61qviq1k87rj75g",
       "status": "confirmed",
       "summary": "Saint Ursula's Day",
       "region": "British Virgin Islands",
       "date": "2021-10-21"
+    },
+    {
+      "id": "20211122_c5cmth7l0eph9i2rrpgen7p7lo",
+      "status": "confirmed",
+      "summary": "The Great March of 1949 and Restoration Day",
+      "region": "British Virgin Islands",
+      "date": "2021-11-22"
     },
     {
       "id": "20211225_3t10931c9s0qnpf07328cr53os",
@@ -65172,11 +65193,25 @@
       "date": "2022-08-03"
     },
     {
+      "id": "20221017_l9fqf64j36ts111t4go3nb0pno",
+      "status": "confirmed",
+      "summary": "Heroes and Forefathers Day",
+      "region": "British Virgin Islands",
+      "date": "2022-10-17"
+    },
+    {
       "id": "20221021_quk1oa2t6nnimiu09tifo6vel4",
       "status": "confirmed",
       "summary": "Saint Ursula's Day",
       "region": "British Virgin Islands",
       "date": "2022-10-21"
+    },
+    {
+      "id": "20221114_tmmje74519p1ukhfra9buh2800",
+      "status": "confirmed",
+      "summary": "The Great March of 1949 and Restoration Day",
+      "region": "British Virgin Islands",
+      "date": "2022-11-14"
     },
     {
       "id": "20221225_j3j09scuvt8t0af7354pi6m738",
