@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.52...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays [\#407](https://github.com/yykamei/block-merge-based-on-time/pull/407) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump ts-node from 10.3.0 to 10.3.1 [\#400](https://github.com/yykamei/block-merge-based-on-time/pull/400) ([dependabot[bot]](https://github.com/apps/dependabot))
