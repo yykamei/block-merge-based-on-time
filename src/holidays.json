@@ -51440,6 +51440,41 @@
       "date": "2021-10-05"
     },
     {
+      "id": "20211030_fg1f4pthbdkptfeuekde550tns",
+      "status": "confirmed",
+      "summary": "Non-Working Day (COVID-19)",
+      "region": "Russia",
+      "date": "2021-10-30"
+    },
+    {
+      "id": "20211031_kbk5t0kks32mt0hvfuhgg5puok",
+      "status": "confirmed",
+      "summary": "Non-Working Day (COVID-19)",
+      "region": "Russia",
+      "date": "2021-10-31"
+    },
+    {
+      "id": "20211101_3c93ndfq7e3jcu9e73qn6v7aec",
+      "status": "confirmed",
+      "summary": "Non-Working Day (COVID-19)",
+      "region": "Russia",
+      "date": "2021-11-01"
+    },
+    {
+      "id": "20211102_pthp1ipfdmdgftmngo9lgpjj9k",
+      "status": "confirmed",
+      "summary": "Non-Working Day (COVID-19)",
+      "region": "Russia",
+      "date": "2021-11-02"
+    },
+    {
+      "id": "20211103_gf424j0mngmbomvm6p4197pbmg",
+      "status": "confirmed",
+      "summary": "Non-Working Day (COVID-19)",
+      "region": "Russia",
+      "date": "2021-11-03"
+    },
+    {
       "id": "20211104_8v333i49v2ail2ugb81fqfvm04",
       "status": "confirmed",
       "summary": "Unity Day",
@@ -51452,6 +51487,20 @@
       "summary": "Public holiday",
       "region": "Russia",
       "date": "2021-11-05"
+    },
+    {
+      "id": "20211106_l1sjffb11lsdqr3ggmacktsaj8",
+      "status": "confirmed",
+      "summary": "Non-Working Day (COVID-19)",
+      "region": "Russia",
+      "date": "2021-11-06"
+    },
+    {
+      "id": "20211107_pig2423rqf7cvesr865pth6i7k",
+      "status": "confirmed",
+      "summary": "Non-Working Day (COVID-19)",
+      "region": "Russia",
+      "date": "2021-11-07"
     },
     {
       "id": "20211231_tc60qieuuepgmsqi6r605e616s",
@@ -53353,11 +53402,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_a3od5r765t8424der029gj7c5c",
+      "id": "20220503_2ufm05c12glu88vrsn4h0dascs",
       "status": "confirmed",
       "summary": "Hari Raya Puasa",
       "region": "Singapore",
-      "date": "2022-05-02"
+      "date": "2022-05-03"
     },
     {
       "id": "20220503_qrcid7mge0ulvpkn4a7em7hg8g",
@@ -53381,11 +53430,11 @@
       "date": "2022-05-16"
     },
     {
-      "id": "20220709_010p70f2ep73hcrlmos7qctbos",
+      "id": "20220710_05fdb8o361k8ni409g7n0u8l80",
       "status": "confirmed",
       "summary": "Hari Raya Haji",
       "region": "Singapore",
-      "date": "2022-07-09"
+      "date": "2022-07-10"
     },
     {
       "id": "20220809_9u4a06530o6b6g0pfo9f4aih58",
