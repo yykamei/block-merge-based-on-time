@@ -8,6 +8,10 @@
 
 - Update Holidays [\#413](https://github.com/yykamei/block-merge-based-on-time/pull/413) ([github-actions[bot]](https://github.com/apps/github-actions))
 
+**Merged pull requests:**
+
+- Bump @types/node from 16.11.2 to 16.11.6 [\#414](https://github.com/yykamei/block-merge-based-on-time/pull/414) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.1.54](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.54) (2021-10-26)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.1.53...v1.1.54)
