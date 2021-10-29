@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Bump ts-node from 10.3.1 to 10.4.0 [\#416](https://github.com/yykamei/block-merge-based-on-time/pull/416) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 16.11.2 to 16.11.6 [\#414](https://github.com/yykamei/block-merge-based-on-time/pull/414) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.54](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.54) (2021-10-26)
