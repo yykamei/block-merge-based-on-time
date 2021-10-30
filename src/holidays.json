@@ -465,9 +465,16 @@
       "date": "2022-07-01"
     },
     {
-      "id": "20220709_cujm5k86baph535rar9r6c455o",
+      "id": "20220708_oo1ugrfi6vqq21miejpg81i870",
       "status": "confirmed",
       "summary": "Arafat (Hajj) Day",
+      "region": "United Arab Emirates",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_r9vtqndg2jf2a6p4a8bc0naobk",
+      "status": "confirmed",
+      "summary": "Eid al-Adha (Feast of Sacrifice)",
       "region": "United Arab Emirates",
       "date": "2022-07-09"
     },
@@ -475,13 +482,6 @@
       "id": "20220710_8vk7quau7s8800efcvmnsbc87g",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
-      "region": "United Arab Emirates",
-      "date": "2022-07-10"
-    },
-    {
-      "id": "20220710_jias7niiadsr9m8v0t6rbittck",
-      "status": "confirmed",
-      "summary": "Eid al-Adha (Feast of Sacrifice)",
       "region": "United Arab Emirates",
       "date": "2022-07-10"
     },
@@ -45000,6 +45000,34 @@
       "date": "2021-09-02"
     },
     {
+      "id": "20210910_0jvvbibacohe1fd7unm0thpjf8",
+      "status": "confirmed",
+      "summary": "Bicentennial Celebrations Holiday",
+      "region": "Nicaragua",
+      "date": "2021-09-10"
+    },
+    {
+      "id": "20210911_kedk6jl49dt7kjp466jbdbedgc",
+      "status": "confirmed",
+      "summary": "Bicentennial Celebrations Holiday",
+      "region": "Nicaragua",
+      "date": "2021-09-11"
+    },
+    {
+      "id": "20210912_c4qv7orls77i3rrdrnenfrl5l0",
+      "status": "confirmed",
+      "summary": "Bicentennial Celebrations Holiday",
+      "region": "Nicaragua",
+      "date": "2021-09-12"
+    },
+    {
+      "id": "20210913_e5al1ovcc9lqt37ebakmidb3f0",
+      "status": "confirmed",
+      "summary": "Bicentennial Celebrations Holiday",
+      "region": "Nicaragua",
+      "date": "2021-09-13"
+    },
+    {
       "id": "20210914_e5fvv4ummt5p3jimhabcq60jhk",
       "status": "confirmed",
       "summary": "Battle of San Jacinto",
@@ -45012,6 +45040,34 @@
       "summary": "Independence Day",
       "region": "Nicaragua",
       "date": "2021-09-15"
+    },
+    {
+      "id": "20210916_3vignb2g4dermpbrlf58k7mfc8",
+      "status": "confirmed",
+      "summary": "Bicentennial Celebrations Holiday",
+      "region": "Nicaragua",
+      "date": "2021-09-16"
+    },
+    {
+      "id": "20210917_fha8bj43hehr71hbb7qetbsq74",
+      "status": "confirmed",
+      "summary": "Bicentennial Celebrations Holiday",
+      "region": "Nicaragua",
+      "date": "2021-09-17"
+    },
+    {
+      "id": "20210918_0qi6n9a2su4dobuph70r9p67j0",
+      "status": "confirmed",
+      "summary": "Bicentennial Celebrations Holiday",
+      "region": "Nicaragua",
+      "date": "2021-09-18"
+    },
+    {
+      "id": "20210919_543q7uttkkmjempa0li7qulfgo",
+      "status": "confirmed",
+      "summary": "Bicentennial Celebrations Holiday",
+      "region": "Nicaragua",
+      "date": "2021-09-19"
     },
     {
       "id": "20211012_d3k7i9foo7p9vsmf6dvbufr34g",
@@ -55798,7 +55854,7 @@
       "date": "2022-04-10"
     },
     {
-      "id": "20220414_08tc0bbpv25oe7r29d0hdbvjic",
+      "id": "20220414_5v0uv9fog9mmbce9cgd7kuao2c",
       "status": "confirmed",
       "summary": "Maundy Thursday (regional holiday)",
       "region": "Spain",
@@ -55875,7 +55931,7 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_ankbjg8vn7hvej0h13fo5f91mo",
+      "id": "20220502_2d0qfleb0nd4ocopjrlu6lut6o",
       "status": "confirmed",
       "summary": "Monday After The Labor Festival (regional holiday)",
       "region": "Spain",
@@ -55889,9 +55945,9 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_q4uuf5ddt22hu7m9aabvkp36q4",
+      "id": "20220503_aqsui7hboj0kisuf4jmg4aei1o",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (regional holiday)",
+      "summary": "Eid al-Fitr (Melilla)",
       "region": "Spain",
       "date": "2022-05-03"
     },
@@ -55966,7 +56022,7 @@
       "date": "2022-06-16"
     },
     {
-      "id": "20220624_7rlh7peipps3vnrupijf0su9eo",
+      "id": "20220624_c3g9j114dfv3tiih66of6o64is",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -55994,7 +56050,7 @@
       "date": "2022-07-13"
     },
     {
-      "id": "20220725_mlibouj2lveghi87kl9trircj8",
+      "id": "20220725_5jusqha9lg95qqltk3mn2ol8v0",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -56190,14 +56246,14 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_1oba8nfg3tauovhq7m2nbseobg",
+      "id": "20221226_aipc9063dlrtlmvk5h49fkafhk",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
       "date": "2022-12-26"
     },
     {
-      "id": "20221226_mdkc654tbmfgnmknfe8ikco03g",
+      "id": "20221226_bmc9r5rvj7q43tpk198t6n9cns",
       "status": "confirmed",
       "summary": "Day After Christmas Day (regional holiday)",
       "region": "Spain",
