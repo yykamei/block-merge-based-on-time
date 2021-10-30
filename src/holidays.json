@@ -10003,6 +10003,13 @@
       "date": "2022-02-23"
     },
     {
+      "id": "20220307_83aqf2vq5v00fi8p1m9lhdoejk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Belarus",
+      "date": "2022-03-07"
+    },
+    {
       "id": "20220308_rcr8g7hfo826q8tdumd92gp2os",
       "status": "confirmed",
       "summary": "Women's Day",
@@ -10050,6 +10057,20 @@
       "summary": "Labour Day",
       "region": "Belarus",
       "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_l3jhj19neg42nd0l3m5af1qjss",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Belarus",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_pl2sjnhe9sdk2o9q7ksl5h1c40",
+      "status": "confirmed",
+      "summary": "Radonitsa",
+      "region": "Belarus",
+      "date": "2022-05-03"
     },
     {
       "id": "20220508_0pv9mi700sehbkjfnft3ujukic",
