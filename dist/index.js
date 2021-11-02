@@ -13801,7 +13801,12 @@ function isProhibitedDay(now, days, dates) {
 function isDuringTime(now, after, before) {
     const a = hour(now, after);
     const b = hour(now, before);
-    if (a.diff(b).toMillis() > 0) {
+    if (a.diff(b).toMillis() === 0) {
+        // NOTE: The same time between `before` and `after` means the user who configured like this
+        //       does not have an interest in blocking based on time. They might just want to prohibit based on holidays.
+        return false;
+    }
+    else if (a.diff(b).toMillis() > 0) {
         return now.diff(a).toMillis() >= 0 || now.diff(b).toMillis() <= 0;
     }
     else {
