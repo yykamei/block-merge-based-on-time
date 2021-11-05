@@ -47021,6 +47021,13 @@
       "date": "2021-10-08"
     },
     {
+      "id": "20211011_ghao75eeq60jrhg297c19jcn0o",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2021-10-11"
+    },
+    {
       "id": "20211101_auev9h0df9nfmjs7v9eg340qf8",
       "status": "confirmed",
       "summary": "All Saints' Day",
@@ -47031,6 +47038,13 @@
       "id": "20211102_2pes0f393hpb46c26pm59ro6ic",
       "status": "confirmed",
       "summary": "All Souls' Day",
+      "region": "Peru",
+      "date": "2021-11-02"
+    },
+    {
+      "id": "20211102_7pspc3oorimqcnsh9nlhp78vps",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
       "region": "Peru",
       "date": "2021-11-02"
     },
@@ -47049,11 +47063,25 @@
       "date": "2021-12-24"
     },
     {
+      "id": "20211224_j0i3uoil8o0dfffqrvbqnjsa78",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2021-12-24"
+    },
+    {
       "id": "20211225_oehbkl8af292u7v1j1aftfql0o",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "Peru",
       "date": "2021-12-25"
+    },
+    {
+      "id": "20211227_0e35uf9rq8metfsvsj6lihggt0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2021-12-27"
     },
     {
       "id": "20211231_klbhg19gjepcr39f5oed1l8ljo",
@@ -47063,11 +47091,25 @@
       "date": "2021-12-31"
     },
     {
+      "id": "20211231_lida2ssbp2k97pifgv2j522dq4",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2021-12-31"
+    },
+    {
       "id": "20220101_19v31832cgdhmggh2dvj7b1nn0",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Peru",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220103_83lj6rqah6eilv1ppghismjifo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2022-01-03"
     },
     {
       "id": "20220106_382rotmkf4e66qfm9gvv71ugm0",
