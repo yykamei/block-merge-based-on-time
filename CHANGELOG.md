@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.2...HEAD)
+
+**Implemented enhancements:**
+
+- Update Holidays [\#431](https://github.com/yykamei/block-merge-based-on-time/pull/431) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v1.2.2](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.2) (2021-11-10)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.1...v1.2.2)
