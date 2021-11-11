@@ -59898,11 +59898,25 @@
       "date": "2022-07-14"
     },
     {
+      "id": "20220715_djhd7v4hi1rcfctu9arrk7t2gk",
+      "status": "confirmed",
+      "summary": "Bridge Public holiday",
+      "region": "Thailand",
+      "date": "2022-07-15"
+    },
+    {
       "id": "20220728_nmg71h048qdlfgeep1k2ggba9g",
       "status": "confirmed",
       "summary": "King Vajiralongkorn's Birthday",
       "region": "Thailand",
       "date": "2022-07-28"
+    },
+    {
+      "id": "20220729_1nbcc9cn9cs70nubi8p6gd5pko",
+      "status": "confirmed",
+      "summary": "Bridge Public holiday",
+      "region": "Thailand",
+      "date": "2022-07-29"
     },
     {
       "id": "20220812_b60rrgeuci06bgsqscbqab527s",
@@ -59917,6 +59931,13 @@
       "summary": "Anniversary of the Death of King Bhumibol",
       "region": "Thailand",
       "date": "2022-10-13"
+    },
+    {
+      "id": "20221014_0vjpm538gqk4h7av59hpjdv2bk",
+      "status": "confirmed",
+      "summary": "Bridge Public holiday",
+      "region": "Thailand",
+      "date": "2022-10-14"
     },
     {
       "id": "20221023_ktfi1pjdkld48l3lclddt76sus",
@@ -59966,6 +59987,13 @@
       "summary": "Christmas Day",
       "region": "Thailand",
       "date": "2022-12-25"
+    },
+    {
+      "id": "20221230_v8meceeh8osimkt0cdmfrh6fh8",
+      "status": "confirmed",
+      "summary": "Bridge Public holiday",
+      "region": "Thailand",
+      "date": "2022-12-30"
     },
     {
       "id": "20221231_p8vaauia84rhqur3upvq6ds2qs",
