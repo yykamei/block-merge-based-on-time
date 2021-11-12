@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump @types/node from 16.11.6 to 16.11.7 [\#436](https://github.com/yykamei/block-merge-based-on-time/pull/436) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump luxon from 2.0.2 to 2.1.1 [\#435](https://github.com/yykamei/block-merge-based-on-time/pull/435) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/luxon from 2.0.5 to 2.0.7 [\#434](https://github.com/yykamei/block-merge-based-on-time/pull/434) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.2.3](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.3) (2021-11-11)
