@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.3...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays [\#440](https://github.com/yykamei/block-merge-based-on-time/pull/440) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/node from 16.11.6 to 16.11.7 [\#436](https://github.com/yykamei/block-merge-based-on-time/pull/436) ([dependabot[bot]](https://github.com/apps/dependabot))
