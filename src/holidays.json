@@ -10159,6 +10159,13 @@
       "date": "2021-01-01"
     },
     {
+      "id": "20210115_6etiuml08un28hivvsrskpelq8",
+      "status": "confirmed",
+      "summary": "George Price Day",
+      "region": "Belize",
+      "date": "2021-01-15"
+    },
+    {
       "id": "20210308_4mubf22r1nhm1kasjmnjoo0m18",
       "status": "confirmed",
       "summary": "National Heroes and Benefactors Day",
@@ -10201,6 +10208,20 @@
       "date": "2021-05-24"
     },
     {
+      "id": "20210801_7l9v0ii91jp76k92q5tqegmuco",
+      "status": "confirmed",
+      "summary": "Emancipation Day",
+      "region": "Belize",
+      "date": "2021-08-01"
+    },
+    {
+      "id": "20210802_0gdiesu0o31ebiuf7c1svm0br8",
+      "status": "confirmed",
+      "summary": "Day off for Emancipation Day",
+      "region": "Belize",
+      "date": "2021-08-02"
+    },
+    {
       "id": "20210910_e4ut0i6c15dt5c1gqpq7jp4r34",
       "status": "confirmed",
       "summary": "St. George's Caye Day",
@@ -10215,9 +10236,9 @@
       "date": "2021-09-21"
     },
     {
-      "id": "20211011_uct63nq0ujjegrqqr63roup448",
+      "id": "20211011_l0q7lfoskhmfokuolqkb50slb0",
       "status": "confirmed",
-      "summary": "Pan American Day",
+      "summary": "El Día de la Raza",
       "region": "Belize",
       "date": "2021-10-11"
     },
@@ -10255,6 +10276,13 @@
       "summary": "New Year's Day",
       "region": "Belize",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220115_9502migkcttoa39kj171nlbtoc",
+      "status": "confirmed",
+      "summary": "George Price Day",
+      "region": "Belize",
+      "date": "2022-01-15"
     },
     {
       "id": "20220307_gsihkki71csrdo4hdrb2r68a88",
@@ -10299,18 +10327,11 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220523_trds83f3r7q8teeuesju9annsk",
+      "id": "20220801_427724r2qtnu0v1ghucp2r58q8",
       "status": "confirmed",
-      "summary": "Day off for Commonwealth Day",
+      "summary": "Emancipation Day",
       "region": "Belize",
-      "date": "2022-05-23"
-    },
-    {
-      "id": "20220524_l2gtqfg5abcds649e0c96h1tfs",
-      "status": "confirmed",
-      "summary": "Commonwealth Day",
-      "region": "Belize",
-      "date": "2022-05-24"
+      "date": "2022-08-01"
     },
     {
       "id": "20220910_dig8aqt21k3e76gn9upa37e360",
@@ -10327,9 +10348,9 @@
       "date": "2022-09-21"
     },
     {
-      "id": "20221010_p2jmdt6ib275kotspgmpicq2ik",
+      "id": "20221010_svi20n7t25t56omre9s0ocbcuk",
       "status": "confirmed",
-      "summary": "Pan American Day",
+      "summary": "El Día de la Raza",
       "region": "Belize",
       "date": "2022-10-10"
     },
@@ -10348,25 +10369,11 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_8duvek8afi5ak19too4imniu7c",
-      "status": "confirmed",
-      "summary": "Day off for Christmas Day",
-      "region": "Belize",
-      "date": "2022-12-26"
-    },
-    {
       "id": "20221226_u72kecutcg5b4efirk3ka5nvek",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Belize",
       "date": "2022-12-26"
-    },
-    {
-      "id": "20221227_31b6qcrcvbra0rhgee8hvarhbs",
-      "status": "confirmed",
-      "summary": "Day off for Boxing Day",
-      "region": "Belize",
-      "date": "2022-12-27"
     }
   ],
   "Canada": [
@@ -12607,6 +12614,20 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220102_rssssp3ai8gi4140svj1c50838",
+      "status": "confirmed",
+      "summary": "New Year's Holiday",
+      "region": "China",
+      "date": "2022-01-02"
+    },
+    {
+      "id": "20220103_pilajj6it1b9ldpfjbmludnur0",
+      "status": "confirmed",
+      "summary": "New Year's Holiday",
+      "region": "China",
+      "date": "2022-01-03"
+    },
+    {
       "id": "20220131_kn1ccj591hrll07t9759h2bj1g",
       "status": "confirmed",
       "summary": "Spring Festival Eve",
@@ -12684,11 +12705,25 @@
       "date": "2022-03-12"
     },
     {
+      "id": "20220404_tfl7710q2mk1rgbu397u0vb5lc",
+      "status": "confirmed",
+      "summary": "Qing Ming Jie holiday",
+      "region": "China",
+      "date": "2022-04-04"
+    },
+    {
       "id": "20220405_0dihrregf9jer1nnjmrs9ut0eo",
       "status": "confirmed",
       "summary": "Qing Ming Jie",
       "region": "China",
       "date": "2022-04-05"
+    },
+    {
+      "id": "20220430_akecr0s2qg2mj2kd0hhqr0lojs",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2022-04-30"
     },
     {
       "id": "20220501_h9lqe98c2avbsevn9h9u4q86uk",
@@ -12698,9 +12733,30 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_e1acr4e07c3m0toddr4bhfli48",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_snlu7srmh3s92mcskdk1832jn4",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2022-05-03"
+    },
+    {
       "id": "20220504_34vkhme7rg2gmq5k9b2h3kadbo",
       "status": "confirmed",
       "summary": "Youth Day",
+      "region": "China",
+      "date": "2022-05-04"
+    },
+    {
+      "id": "20220504_hbs1m5bs6tkguv1vmmkjqjueh0",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
       "region": "China",
       "date": "2022-05-04"
     },
@@ -12710,6 +12766,20 @@
       "summary": "Dragon Boat Festival",
       "region": "China",
       "date": "2022-06-03"
+    },
+    {
+      "id": "20220604_0bdfkoq41opehkpgmb2pd3rkv0",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival holiday",
+      "region": "China",
+      "date": "2022-06-04"
+    },
+    {
+      "id": "20220605_8k0iksst0ademt17s9qq4bfkag",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival holiday",
+      "region": "China",
+      "date": "2022-06-05"
     },
     {
       "id": "20220804_ig89h8snmq7q144gkckfg7oddg",
@@ -12738,6 +12808,20 @@
       "summary": "Mid-Autumn Festival",
       "region": "China",
       "date": "2022-09-10"
+    },
+    {
+      "id": "20220911_nmors1jqs0j004jj9d6bgo3394",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival holiday",
+      "region": "China",
+      "date": "2022-09-11"
+    },
+    {
+      "id": "20220912_9sjv6t8pi758n0uhpuql2anioo",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival holiday",
+      "region": "China",
+      "date": "2022-09-12"
     },
     {
       "id": "20221001_lgleq4sib6gftv4uhr4aknvm6o",
@@ -22309,6 +22393,13 @@
       "date": "2022-05-30"
     },
     {
+      "id": "20220603_c0l5r9hh8c5j0d8p0d6q0jb1s8",
+      "status": "confirmed",
+      "summary": "Queen's Platinum Jubilee",
+      "region": "Guernsey",
+      "date": "2022-06-03"
+    },
+    {
       "id": "20221030_v2f2oj5rolgphlfpu5855jeb1k",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
@@ -29606,6 +29697,13 @@
       "date": "2022-06-02"
     },
     {
+      "id": "20220603_2rev7b1hdoq0guul7vi6rd6sls",
+      "status": "confirmed",
+      "summary": "Queen's Platinum Jubilee",
+      "region": "Jersey",
+      "date": "2022-06-03"
+    },
+    {
       "id": "20220829_4r1bo9fd679e1lv9h9nht1jdp8",
       "status": "confirmed",
       "summary": "Summer Bank Holiday",
@@ -33971,6 +34069,13 @@
       "date": "2021-05-01"
     },
     {
+      "id": "20210502_5auiecgtchjiktpjjqs71e3dv8",
+      "status": "confirmed",
+      "summary": "Martyr's Day",
+      "region": "Lebanon",
+      "date": "2021-05-02"
+    },
+    {
       "id": "20210502_q9qvo34todn96qftd2o7hg8jqg",
       "status": "confirmed",
       "summary": "Orthodox Easter Day",
@@ -33985,11 +34090,11 @@
       "date": "2021-05-03"
     },
     {
-      "id": "20210506_r3m8gs888ggk80m3oo537t4oa4",
+      "id": "20210509_228gflu9pkgjmo9f69pep1hv3k",
       "status": "confirmed",
-      "summary": "Martyr's Day",
+      "summary": "Liberation and Resistance Day",
       "region": "Lebanon",
-      "date": "2021-05-06"
+      "date": "2021-05-09"
     },
     {
       "id": "20210513_a15gv3mvdhb94mmskms9doom1o",
@@ -34006,18 +34111,11 @@
       "date": "2021-05-13"
     },
     {
-      "id": "20210514_pnr4dp77d0ljpq89pirpsvgd4s",
+      "id": "20210514_1jf1arqbl3fbahnf3dilosfmh8",
       "status": "confirmed",
-      "summary": "Eid ul Fitr Day Two",
+      "summary": "Eid ul Fitr Holiday",
       "region": "Lebanon",
       "date": "2021-05-14"
-    },
-    {
-      "id": "20210525_rtqrbsdaa5j4bprku4lk3lm3q8",
-      "status": "confirmed",
-      "summary": "Liberation and Resistance Day",
-      "region": "Lebanon",
-      "date": "2021-05-25"
     },
     {
       "id": "20210720_rrdlt6v6ae3lfavkdupg5je5rg",
@@ -34027,9 +34125,9 @@
       "date": "2021-07-20"
     },
     {
-      "id": "20210721_rhpqsuqhlksukolinvnhekn6hk",
+      "id": "20210721_2a4g8q8fhi24lml6gkivbebhno",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "region": "Lebanon",
       "date": "2021-07-21"
     },
@@ -34118,11 +34216,11 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220107_ds5nqea3gu9benjo18v8tr8hk4",
+      "id": "20220106_cas7l4b8bgijmh6purnns4u0dc",
       "status": "confirmed",
       "summary": "Orthodox Christmas",
       "region": "Lebanon",
-      "date": "2022-01-07"
+      "date": "2022-01-06"
     },
     {
       "id": "20220209_09sr78i8uqmsl6prs2278qga90",
@@ -34209,6 +34307,20 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220501_imrlfdts7nme64t48vof34468g",
+      "status": "confirmed",
+      "summary": "Martyr's Day",
+      "region": "Lebanon",
+      "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_oufsqfktsgtk5sdakm7v804ibo",
+      "status": "confirmed",
+      "summary": "Day off for Labor Day",
+      "region": "Lebanon",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220503_0cn69fhorrstlli9ps10vkhh70",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -34216,25 +34328,18 @@
       "date": "2022-05-03"
     },
     {
-      "id": "20220504_tbnkk3mg9p22dtujqfd83lqd34",
+      "id": "20220504_mtiiuhgi2o9dj7uji3023ng1k4",
       "status": "confirmed",
-      "summary": "Eid ul Fitr Day Two",
+      "summary": "Eid ul Fitr Holiday",
       "region": "Lebanon",
       "date": "2022-05-04"
     },
     {
-      "id": "20220506_8p6ltav2fa8lf7spjs582s7mm0",
-      "status": "confirmed",
-      "summary": "Martyr's Day",
-      "region": "Lebanon",
-      "date": "2022-05-06"
-    },
-    {
-      "id": "20220525_kh179pdd8b1poif7jr6insbp3c",
+      "id": "20220508_j7g5os9n7t5hahpod12gi82dk0",
       "status": "confirmed",
       "summary": "Liberation and Resistance Day",
       "region": "Lebanon",
-      "date": "2022-05-25"
+      "date": "2022-05-08"
     },
     {
       "id": "20220526_shp77f72lp416dlmdu2eb44t4c",
@@ -34251,9 +34356,9 @@
       "date": "2022-07-10"
     },
     {
-      "id": "20220711_jqlqaufg6km9640tkkpifq6ig0",
+      "id": "20220711_jn9d0edno49kqkfcr7lcimcnh8",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "region": "Lebanon",
       "date": "2022-07-11"
     },
