@@ -8031,6 +8031,13 @@
       "date": "2021-08-17"
     },
     {
+      "id": "20211011_84qj42rg1c3rc417c5539v1pck",
+      "status": "confirmed",
+      "summary": "Bolivian Women's Day",
+      "region": "Bolivia",
+      "date": "2021-10-11"
+    },
+    {
       "id": "20211012_cmlojbrg0rh7t6abb67tvihfic",
       "status": "confirmed",
       "summary": "Indigenous Resistance's Day",
@@ -8183,6 +8190,13 @@
       "summary": "Flag Day",
       "region": "Bolivia",
       "date": "2022-08-17"
+    },
+    {
+      "id": "20221011_bc3u3aq1bsgau853pa62gt0qng",
+      "status": "confirmed",
+      "summary": "Bolivian Women's Day",
+      "region": "Bolivia",
+      "date": "2022-10-11"
     },
     {
       "id": "20221012_ea0vcu6e6oeg9rbqit3v5keauk",
@@ -24595,13 +24609,6 @@
       "date": "2021-12-25"
     },
     {
-      "id": "20211226_var9p5oc8n35bk1lar7ft0vqp8",
-      "status": "confirmed",
-      "summary": "Boxing Day",
-      "region": "Guatemala",
-      "date": "2021-12-26"
-    },
-    {
       "id": "20211231_d6d350k2irqniopbae8fv5c8so",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -24712,13 +24719,6 @@
       "summary": "Christmas Day",
       "region": "Guatemala",
       "date": "2022-12-25"
-    },
-    {
-      "id": "20221226_3bnski6vdki3fknl6a51cbqpb8",
-      "status": "confirmed",
-      "summary": "Boxing Day",
-      "region": "Guatemala",
-      "date": "2022-12-26"
     },
     {
       "id": "20221231_p9dha5bdiucmbm906dpuqeh90s",
@@ -28672,6 +28672,13 @@
       "summary": "New Year's Day",
       "region": "Ireland",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220103_do3he1u90797gn1vrrci4ud4l8",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Ireland",
+      "date": "2022-01-03"
     },
     {
       "id": "20220317_g5f69qaau5k19sdh1brs3ii508",
@@ -50855,9 +50862,9 @@
       "date": "2021-11-30"
     },
     {
-      "id": "20211201_0gds26li0gbjh14ak2dq44na24",
+      "id": "20211201_56dhqs0qsbh48q1s2nf5gq96gs",
       "status": "confirmed",
-      "summary": "National holiday",
+      "summary": "National Day",
       "region": "Romania",
       "date": "2021-12-01"
     },
@@ -51065,9 +51072,9 @@
       "date": "2022-11-30"
     },
     {
-      "id": "20221201_h178d6hnsoqa5gt43v8a4ds3p0",
+      "id": "20221201_f6tgbqado40mrq0keeb96i6sbo",
       "status": "confirmed",
-      "summary": "National holiday",
+      "summary": "National Day",
       "region": "Romania",
       "date": "2022-12-01"
     },
