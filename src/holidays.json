@@ -14763,7 +14763,7 @@
       "date": "2021-01-06"
     },
     {
-      "id": "20210107_8qaqiu2fq7dipksahh3tel79a8",
+      "id": "20210107_211m9igcpvnkkdop90ftr2viso",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
       "region": "Croatia",
@@ -14826,14 +14826,14 @@
       "date": "2021-05-01"
     },
     {
-      "id": "20210502_1b752oh72114rsftc2415i0ufc",
+      "id": "20210502_2rudushqn2h6hmsnnbmojp4hhg",
       "status": "confirmed",
       "summary": "Orthodox Easter Day",
       "region": "Croatia",
       "date": "2021-05-02"
     },
     {
-      "id": "20210503_4qgefuvko4j2gad7r73317id7k",
+      "id": "20210503_1r6d61d73595qrcalcskpgf64o",
       "status": "confirmed",
       "summary": "Orthodox Easter Monday",
       "region": "Croatia",
@@ -14847,7 +14847,7 @@
       "date": "2021-05-09"
     },
     {
-      "id": "20210513_3s2llcvkgckokmpb7hfjgotom8",
+      "id": "20210513_l9qgti6ts48c386tupaeljpsq4",
       "status": "confirmed",
       "summary": "Ramadan Bayram",
       "region": "Croatia",
@@ -14889,7 +14889,7 @@
       "date": "2021-06-25"
     },
     {
-      "id": "20210720_9a09ifq1aviibvr6gnsorlehnk",
+      "id": "20210720_hggqj5550paq7a0bi5qn568j8s",
       "status": "confirmed",
       "summary": "Kurban Bayram",
       "region": "Croatia",
@@ -14924,14 +14924,14 @@
       "date": "2021-08-30"
     },
     {
-      "id": "20210907_2kvt7k68g36vogikb1e0l5dgug",
+      "id": "20210907_bnrh4tladlqj89cr4qig4kosng",
       "status": "confirmed",
       "summary": "Rosh Hashana",
       "region": "Croatia",
       "date": "2021-09-07"
     },
     {
-      "id": "20210916_2e7m2eau0od2u0lf8v1kbiu77o",
+      "id": "20210916_4et35ck22k43v71qbaqfiemupk",
       "status": "confirmed",
       "summary": "Yom Kippur",
       "region": "Croatia",
@@ -14994,7 +14994,7 @@
       "date": "2022-01-06"
     },
     {
-      "id": "20220107_p5qqb298rnos9oq6svcm71lgrk",
+      "id": "20220107_c09rlifpf1p8nc82lat6ii19ac",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
       "region": "Croatia",
@@ -15043,14 +15043,14 @@
       "date": "2022-04-18"
     },
     {
-      "id": "20220424_k3mnovhq5ji4hgj7sejsk3reec",
+      "id": "20220424_uonh4alavojpslp5l0hl6eqilo",
       "status": "confirmed",
       "summary": "Orthodox Easter Day",
       "region": "Croatia",
       "date": "2022-04-24"
     },
     {
-      "id": "20220425_b1c4cu43v7ep9r1onq5el8mjec",
+      "id": "20220425_p1b689tr97d3chk560rm5cqe58",
       "status": "confirmed",
       "summary": "Orthodox Easter Monday",
       "region": "Croatia",
@@ -15071,7 +15071,7 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_9eb1tubvrdqmer54877tbf8j44",
+      "id": "20220503_38s466h8dn7qo4119drjgf2omg",
       "status": "confirmed",
       "summary": "Ramadan Bayram",
       "region": "Croatia",
@@ -15113,7 +15113,7 @@
       "date": "2022-06-25"
     },
     {
-      "id": "20220710_5hs7m2u4v7skohrk8t0jcfkre8",
+      "id": "20220710_v0k31am7eonmirmatnillacja4",
       "status": "confirmed",
       "summary": "Kurban Bayram",
       "region": "Croatia",
@@ -15155,14 +15155,14 @@
       "date": "2022-09-25"
     },
     {
-      "id": "20220926_ken0sgcaa8ei95it6l1idga094",
+      "id": "20220926_5pen32kn2ach53ms1qsjfv29l4",
       "status": "confirmed",
       "summary": "Rosh Hashana",
       "region": "Croatia",
       "date": "2022-09-26"
     },
     {
-      "id": "20221005_8jperoqco4f8serhhvkqtmjle0",
+      "id": "20221005_ft64in8dpqbu9dn5badusk7s20",
       "status": "confirmed",
       "summary": "Yom Kippur",
       "region": "Croatia",
@@ -15693,13 +15693,6 @@
       "date": "2021-12-26"
     },
     {
-      "id": "20211231_bl33kr7r9ddldg2trl17lpqtno",
-      "status": "confirmed",
-      "summary": "New Year's Eve",
-      "region": "Curaçao",
-      "date": "2021-12-31"
-    },
-    {
       "id": "20220101_mk2rfu2pn24aetjg1sufcksus0",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -15782,13 +15775,6 @@
       "summary": "Boxing Day",
       "region": "Curaçao",
       "date": "2022-12-26"
-    },
-    {
-      "id": "20221231_j7dhsvru6pf2c9b483muf02ck0",
-      "status": "confirmed",
-      "summary": "New Year's Eve",
-      "region": "Curaçao",
-      "date": "2022-12-31"
     }
   ],
   "Cyprus": [
@@ -23120,13 +23106,6 @@
       "date": "2021-04-30"
     },
     {
-      "id": "20210501_rdi1k4ggtaigja90furvip48sg",
-      "status": "confirmed",
-      "summary": "May Day",
-      "region": "Greenland",
-      "date": "2021-05-01"
-    },
-    {
       "id": "20210513_2li71e5mekp10ad1d5poabjang",
       "status": "confirmed",
       "summary": "Ascension Day",
@@ -23223,13 +23202,6 @@
       "summary": "Easter Monday",
       "region": "Greenland",
       "date": "2022-04-18"
-    },
-    {
-      "id": "20220501_d2as3vj1lggb801pihq78857kc",
-      "status": "confirmed",
-      "summary": "May Day",
-      "region": "Greenland",
-      "date": "2022-05-01"
     },
     {
       "id": "20220513_elum985qiolvb12v9vi301sioc",
@@ -28672,13 +28644,6 @@
       "summary": "New Year's Day",
       "region": "Ireland",
       "date": "2022-01-01"
-    },
-    {
-      "id": "20220103_do3he1u90797gn1vrrci4ud4l8",
-      "status": "confirmed",
-      "summary": "Day off for New Year's Day",
-      "region": "Ireland",
-      "date": "2022-01-03"
     },
     {
       "id": "20220317_g5f69qaau5k19sdh1brs3ii508",
@@ -36099,13 +36064,6 @@
       "date": "2021-11-01"
     },
     {
-      "id": "20211224_vcosjs93pdsvb1l2r9tgaimrvc",
-      "status": "confirmed",
-      "summary": "Christmas Eve",
-      "region": "Luxembourg",
-      "date": "2021-12-24"
-    },
-    {
       "id": "20211225_v5jmhp5dna1e5rk10e1al2c5bk",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -36202,13 +36160,6 @@
       "summary": "All Saints' Day",
       "region": "Luxembourg",
       "date": "2022-11-01"
-    },
-    {
-      "id": "20221224_pgnigq8cr46g2s2qi9s0t5pt58",
-      "status": "confirmed",
-      "summary": "Christmas Eve",
-      "region": "Luxembourg",
-      "date": "2022-12-24"
     },
     {
       "id": "20221225_b86djf9mo3udhsnic793tmtqv0",
@@ -41540,11 +41491,11 @@
       "date": "2022-12-20"
     },
     {
-      "id": "20221221_292335h9fhlc01qaq7eiv8gikk",
+      "id": "20221222_q589jqngvs9v5r6dct3673vn18",
       "status": "confirmed",
       "summary": "Winter Solstice",
       "region": "Macao",
-      "date": "2022-12-21"
+      "date": "2022-12-22"
     },
     {
       "id": "20221224_oks0d4mqlmk61ph2e0f6fmncb8",
@@ -45865,7 +45816,7 @@
       "date": "2021-01-14"
     },
     {
-      "id": "20210212_a4dbuq8r4i4pjs7hadenp95u0s",
+      "id": "20210212_395k0ornrvmn8potkbvmslkmtk",
       "status": "confirmed",
       "summary": "Sonam Losar (Tamang New Year)",
       "region": "Nepal",
@@ -45886,7 +45837,7 @@
       "date": "2021-03-11"
     },
     {
-      "id": "20210314_2qe8v7nved1pprnve071pr6ntk",
+      "id": "20210314_800241ancn1f4n90r7d8p73ag0",
       "status": "confirmed",
       "summary": "Gyalpo Losar",
       "region": "Nepal",
@@ -45907,7 +45858,7 @@
       "date": "2021-05-01"
     },
     {
-      "id": "20210514_s2lhi2vkn4sr01u5994f7hun0c",
+      "id": "20210514_ev07nvn1ub6o0onl8h4tm0b774",
       "status": "confirmed",
       "summary": "Ramjan Edul Fikra",
       "region": "Nepal",
@@ -45921,7 +45872,7 @@
       "date": "2021-05-26"
     },
     {
-      "id": "20210526_rugd7159vh0lfis9tqveenp1fc",
+      "id": "20210526_4kds7npl45qqor5edv2ofol3og",
       "status": "confirmed",
       "summary": "Ubhauli Parva",
       "region": "Nepal",
@@ -45935,7 +45886,7 @@
       "date": "2021-05-29"
     },
     {
-      "id": "20210721_oonbhcue16c01kj1masrhhf3b0",
+      "id": "20210721_p4qqvu9o464bou7q6enf32jd3s",
       "status": "confirmed",
       "summary": "Edul Aajaha",
       "region": "Nepal",
@@ -45956,7 +45907,7 @@
       "date": "2021-08-23"
     },
     {
-      "id": "20210830_9p7npejcbs4mbcv3c61i9u3eag",
+      "id": "20210830_75ap4j6g8qq8hp55vgh25q7f3k",
       "status": "confirmed",
       "summary": "Gaura Parba",
       "region": "Nepal",
@@ -45970,7 +45921,7 @@
       "date": "2021-08-30"
     },
     {
-      "id": "20210909_6gpa0qqbhpup87hki0u06oslho",
+      "id": "20210909_qd1jvfa5367o4bh2g1eavdpv34",
       "status": "confirmed",
       "summary": "Hartalika Teej",
       "region": "Nepal",
@@ -45991,7 +45942,7 @@
       "date": "2021-09-19"
     },
     {
-      "id": "20210929_c4sloarltpogdqp387q44npd7g",
+      "id": "20210929_qpvf1iktuvckb5o7q0nljkn270",
       "status": "confirmed",
       "summary": "Jitiya Parwa",
       "region": "Nepal",
@@ -46068,42 +46019,42 @@
       "date": "2021-11-10"
     },
     {
-      "id": "20211111_4ut55pblhj5ctn4bsbdju2aq90",
+      "id": "20211111_99u3nve1mvfsajrcobvnk2nv28",
       "status": "confirmed",
       "summary": "Phalgunanda Jayanti",
       "region": "Nepal",
       "date": "2021-11-11"
     },
     {
-      "id": "20211119_4avj1dnp4v89c9nvehuarpos7g",
+      "id": "20211119_pfjh2bj9rsqu1k124462efoj60",
       "status": "confirmed",
       "summary": "Guru Nanak Jayanti",
       "region": "Nepal",
       "date": "2021-11-19"
     },
     {
-      "id": "20211203_0rd8ej40uf6bop6q2nrq6538e4",
+      "id": "20211203_ns9hriu4eoklg70tpq8lnf3ao4",
       "status": "confirmed",
       "summary": "International Day of Disabled Persons",
       "region": "Nepal",
       "date": "2021-12-03"
     },
     {
-      "id": "20211219_312vk2mhbaohujsq21g4rkhku4",
+      "id": "20211219_psd50l5sq73rl96o2del11s24s",
       "status": "confirmed",
       "summary": "Udhauli Parva",
       "region": "Nepal",
       "date": "2021-12-19"
     },
     {
-      "id": "20211225_srdmdibkd4ddqq2t67soqplpig",
+      "id": "20211225_57l5e6551o4pmmefuvruuugom0",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "Nepal",
       "date": "2021-12-25"
     },
     {
-      "id": "20211230_1l3cm81eilml6hn9t75cfemr94",
+      "id": "20211230_dfe87k68bem5nckrgbs668843c",
       "status": "confirmed",
       "summary": "Tamu Lhosar",
       "region": "Nepal",
@@ -46117,7 +46068,7 @@
       "date": "2022-01-15"
     },
     {
-      "id": "20220202_9bmb16jbju4m3h95maad8cmhpc",
+      "id": "20220202_c83u4kq618mvkr2h84mt0q0g0s",
       "status": "confirmed",
       "summary": "Sonam Losar (Tamang New Year)",
       "region": "Nepal",
@@ -46131,7 +46082,7 @@
       "date": "2022-03-01"
     },
     {
-      "id": "20220303_62qgv67tm6cu5jmuqhn2b4jcts",
+      "id": "20220303_csirnme233bjftuif5hq6pkmmg",
       "status": "confirmed",
       "summary": "Gyalpo Losar",
       "region": "Nepal",
@@ -46152,14 +46103,14 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_vj9164bkni3bccfph02oa2jpqc",
+      "id": "20220503_fimai4167ds0ibjs5dve2tkco0",
       "status": "confirmed",
       "summary": "Ramjan Edul Fikra",
       "region": "Nepal",
       "date": "2022-05-03"
     },
     {
-      "id": "20220516_mn2qdo3p8r1vo4u388sdj6dlb8",
+      "id": "20220516_ns72g8cv7qektkvgruekf320m4",
       "status": "confirmed",
       "summary": "Ubhauli Parva",
       "region": "Nepal",
@@ -46180,7 +46131,7 @@
       "date": "2022-05-29"
     },
     {
-      "id": "20220710_s8vhhs10i5b92iho464bqnskdo",
+      "id": "20220710_mob2pstoegjnph0o9tvembca2k",
       "status": "confirmed",
       "summary": "Edul Aajaha",
       "region": "Nepal",
@@ -46201,21 +46152,21 @@
       "date": "2022-08-18"
     },
     {
-      "id": "20220819_pmh23373ookfaa1624b8veqt64",
+      "id": "20220819_0tlntgcuomv55osh074ji9de5o",
       "status": "confirmed",
       "summary": "Gaura Parba",
       "region": "Nepal",
       "date": "2022-08-19"
     },
     {
-      "id": "20220830_fltthvl1hbuko8m1qd7rfkje4k",
+      "id": "20220830_6lcvkt8sfq0u53hv5lbuca78lo",
       "status": "confirmed",
       "summary": "Hartalika Teej",
       "region": "Nepal",
       "date": "2022-08-30"
     },
     {
-      "id": "20220918_k6m7c5hsdq2gnfftt73d7akfe4",
+      "id": "20220918_698udsv3pd2ut4jebl2u7ujt8o",
       "status": "confirmed",
       "summary": "Jitiya Parwa",
       "region": "Nepal",
@@ -46292,28 +46243,28 @@
       "date": "2022-10-30"
     },
     {
-      "id": "20221111_803snh8c9e7dg4rikbpehjb1bc",
+      "id": "20221111_ct2g0o9okbfp9gejkbpkaaiji8",
       "status": "confirmed",
       "summary": "Phalgunanda Jayanti",
       "region": "Nepal",
       "date": "2022-11-11"
     },
     {
-      "id": "20221207_rsngfupnisbneuvn7qh2ocicr4",
+      "id": "20221207_a4tcpgnn60e713ekeeruru4le0",
       "status": "confirmed",
       "summary": "Udhauli Parva",
       "region": "Nepal",
       "date": "2022-12-07"
     },
     {
-      "id": "20221225_8d4jnlompa97naapgnvgvhrv68",
+      "id": "20221225_k4h77049oohi2dea3jvcm1nafg",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "Nepal",
       "date": "2022-12-25"
     },
     {
-      "id": "20221230_h0d90j5sh99m5r4qp2fh579gls",
+      "id": "20221230_2n1puh0dpm1pso4lm5neg00h70",
       "status": "confirmed",
       "summary": "Tamu Lhosar",
       "region": "Nepal",
