@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.6...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays [\#453](https://github.com/yykamei/block-merge-based-on-time/pull/453) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/jest from 27.0.2 to 27.0.3 [\#449](https://github.com/yykamei/block-merge-based-on-time/pull/449) ([dependabot[bot]](https://github.com/apps/dependabot))
