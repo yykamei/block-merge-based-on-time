@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump @types/jest from 27.0.2 to 27.0.3 [\#449](https://github.com/yykamei/block-merge-based-on-time/pull/449) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump typescript from 4.4.4 to 4.5.2 [\#448](https://github.com/yykamei/block-merge-based-on-time/pull/448) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 16.11.7 to 16.11.8 [\#446](https://github.com/yykamei/block-merge-based-on-time/pull/446) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.2.6](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.6) (2021-11-18)
