@@ -10490,7 +10490,7 @@
       "date": "2021-04-04"
     },
     {
-      "id": "20210405_m4d8pgil0cj39132lnankipff0",
+      "id": "20210405_46gs24o78oousuvt5irdvepso8",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -10623,7 +10623,7 @@
       "date": "2021-08-02"
     },
     {
-      "id": "20210802_iiu6bseo84lh19im2hur0o3uv0",
+      "id": "20210802_fo5pt9e61bsclt8kvvkfpni524",
       "status": "confirmed",
       "summary": "Heritage Day (Alberta)",
       "region": "Canada",
@@ -10966,13 +10966,6 @@
       "date": "2022-07-11"
     },
     {
-      "id": "20220801_7bsqa3auqh7vd8he7uujor5r6g",
-      "status": "confirmed",
-      "summary": "Heritage Day (Alberta)",
-      "region": "Canada",
-      "date": "2022-08-01"
-    },
-    {
       "id": "20220801_eq2pcc4oqpnehcutgmb6nh40ac",
       "status": "confirmed",
       "summary": "Saskatchewan Day (Saskatchewan)",
@@ -10990,6 +10983,13 @@
       "id": "20220801_k0ud4qhs50tmpsi2q0dnhuhs3k",
       "status": "confirmed",
       "summary": "New Brunswick Day (New Brunswick)",
+      "region": "Canada",
+      "date": "2022-08-01"
+    },
+    {
+      "id": "20220801_rpgqp54v6vv3ek7tc29j4j2eos",
+      "status": "confirmed",
+      "summary": "Heritage Day (Alberta)",
       "region": "Canada",
       "date": "2022-08-01"
     },
