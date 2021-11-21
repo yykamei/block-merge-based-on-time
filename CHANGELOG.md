@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.8...HEAD)
+
+**Merged pull requests:**
+
+- Bump @vercel/ncc from 0.31.1 to 0.32.0 [\#447](https://github.com/yykamei/block-merge-based-on-time/pull/447) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.2.8](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.8) (2021-11-21)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.7...v1.2.8)
