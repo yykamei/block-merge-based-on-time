@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump eslint from 7.32.0 to 8.3.0 [\#458](https://github.com/yykamei/block-merge-based-on-time/pull/458) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @vercel/ncc from 0.31.1 to 0.32.0 [\#447](https://github.com/yykamei/block-merge-based-on-time/pull/447) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.2.8](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.8) (2021-11-21)
