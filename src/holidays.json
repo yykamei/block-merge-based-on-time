@@ -5374,6 +5374,13 @@
       "date": "2021-03-26"
     },
     {
+      "id": "20210330_c03irve4n55so5emirikf7ctc8",
+      "status": "confirmed",
+      "summary": "Shab e-Barat",
+      "region": "Bangladesh",
+      "date": "2021-03-30"
+    },
+    {
       "id": "20210409_b7f59an43svm889894e5n1mdio",
       "status": "confirmed",
       "summary": "Arrival Day of Sri Sri Harichand Tagore",
@@ -5647,6 +5654,13 @@
       "date": "2022-02-14"
     },
     {
+      "id": "20220216_6hbc19irs3q8t0qnou3rq37708",
+      "status": "confirmed",
+      "summary": "Maghi Purnima",
+      "region": "Bangladesh",
+      "date": "2022-02-16"
+    },
+    {
       "id": "20220221_ss78ananp13m3iebvq3sk9os24",
       "status": "confirmed",
       "summary": "Language Martyrs' Day",
@@ -5675,11 +5689,39 @@
       "date": "2022-03-26"
     },
     {
+      "id": "20220330_8ctd71en2j0317u64k89513hl0",
+      "status": "confirmed",
+      "summary": "Arrival Day of Sri Sri Harichand Tagore",
+      "region": "Bangladesh",
+      "date": "2022-03-30"
+    },
+    {
+      "id": "20220413_jdu9q1qg2utslcnf1vkgkfrbe8",
+      "status": "confirmed",
+      "summary": "Chaitra Sankranti",
+      "region": "Bangladesh",
+      "date": "2022-04-13"
+    },
+    {
       "id": "20220414_8g6qqcqt8c6rbf0e2k5l7ihmp4",
       "status": "confirmed",
       "summary": "Bengali New Year",
       "region": "Bangladesh",
       "date": "2022-04-14"
+    },
+    {
+      "id": "20220418_ortc1lk1po0io94dlucp45ohqg",
+      "status": "confirmed",
+      "summary": "Easter Monday",
+      "region": "Bangladesh",
+      "date": "2022-04-18"
+    },
+    {
+      "id": "20220419_0chntacj2oaei97fmlhboiqr2k",
+      "status": "confirmed",
+      "summary": "Shab e-Barat",
+      "region": "Bangladesh",
+      "date": "2022-04-19"
     },
     {
       "id": "20220429_2tpgomqn4lh4287gv8869uh1t0",
@@ -5703,6 +5745,13 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_ftq6dk6on44kvvt43cvskda21c",
+      "status": "confirmed",
+      "summary": "Eid ul-Fitr Holiday",
+      "region": "Bangladesh",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220503_0piqugkbcr3981samnjd4ho9lo",
       "status": "confirmed",
       "summary": "Eid ul-Fitr",
@@ -5717,18 +5766,11 @@
       "date": "2022-05-04"
     },
     {
-      "id": "20220505_r1mu673591e3ajno82h0b1p57s",
+      "id": "20220505_hvem663ualsvtfjnbdperhjkhg",
       "status": "confirmed",
       "summary": "Eid ul-Fitr Holiday",
       "region": "Bangladesh",
       "date": "2022-05-05"
-    },
-    {
-      "id": "20220506_9vc34brk4v4gklk5jems6t56j8",
-      "status": "confirmed",
-      "summary": "Eid ul-Fitr Holiday",
-      "region": "Bangladesh",
-      "date": "2022-05-06"
     },
     {
       "id": "20220508_57k708la6papnq3dl2sv7jivjg",
@@ -5738,11 +5780,25 @@
       "date": "2022-05-08"
     },
     {
+      "id": "20220515_00751mr7f83lf7cipjq5e99lf4",
+      "status": "confirmed",
+      "summary": "Buddha Purnima/Vesak",
+      "region": "Bangladesh",
+      "date": "2022-05-15"
+    },
+    {
       "id": "20220619_gcaau3c633lo0anobglt2rmohg",
       "status": "confirmed",
       "summary": "Fathers' Day",
       "region": "Bangladesh",
       "date": "2022-06-19"
+    },
+    {
+      "id": "20220709_5185bknnl3mctajr1k542540f8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Bangladesh",
+      "date": "2022-07-09"
     },
     {
       "id": "20220710_k1814plcen7jnsdjvdaioo0fq8",
@@ -5759,25 +5815,25 @@
       "date": "2022-07-11"
     },
     {
-      "id": "20220712_br7uh7dv9a5tk428c6lnss4bho",
+      "id": "20220712_ji4iu0kn9faa9qt2dptrr5aim8",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
+      "summary": "Ashari Purnima",
       "region": "Bangladesh",
       "date": "2022-07-12"
     },
     {
-      "id": "20220730_tkmrlr5bju8mjdn2l5i84snacs",
+      "id": "20220730_38fnujiqgeki41hml2m1ittkp4",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Bangladesh",
       "date": "2022-07-30"
     },
     {
-      "id": "20220808_u4gff7lq1irgqcl663jhdkstkc",
+      "id": "20220809_mgiesk3p4l6pc1lppit7nro4nc",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Bangladesh",
-      "date": "2022-08-08"
+      "date": "2022-08-09"
     },
     {
       "id": "20220815_ifnqhasr12n7nucrdrrv099eec",
@@ -5787,11 +5843,18 @@
       "date": "2022-08-15"
     },
     {
-      "id": "20220922_2v70qs7ers0d7ufgqq0fctfjcg",
+      "id": "20220909_atj33lomsdf5t88rgvrr3otknk",
+      "status": "confirmed",
+      "summary": "Madhu Purnima",
+      "region": "Bangladesh",
+      "date": "2022-09-09"
+    },
+    {
+      "id": "20220921_9m7rj8mif73qcv8od39k4c51d0",
       "status": "confirmed",
       "summary": "Akhari Chahar Somba",
       "region": "Bangladesh",
-      "date": "2022-09-22"
+      "date": "2022-09-21"
     },
     {
       "id": "20220925_i9eakbsjnobulsps52h6mlumec",
@@ -5801,11 +5864,39 @@
       "date": "2022-09-25"
     },
     {
-      "id": "20221008_ekghmu7cgpmr4kk4gum4fgiqc8",
+      "id": "20221004_b8j85v0rv9tgmhje8c0o6hd43g",
+      "status": "confirmed",
+      "summary": "Mahanabami",
+      "region": "Bangladesh",
+      "date": "2022-10-04"
+    },
+    {
+      "id": "20221009_6kd2ruhfki91mfccf6qf1cqrss",
+      "status": "confirmed",
+      "summary": "Lakshmi Puja",
+      "region": "Bangladesh",
+      "date": "2022-10-09"
+    },
+    {
+      "id": "20221009_ff76mshftvececa72ottinrsf0",
       "status": "confirmed",
       "summary": "Eid e-Milad-un Nabi",
       "region": "Bangladesh",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
+    },
+    {
+      "id": "20221009_idt3gmgvo64iat2fnt6cs11qvc",
+      "status": "confirmed",
+      "summary": "Prabarana Purnima",
+      "region": "Bangladesh",
+      "date": "2022-10-09"
+    },
+    {
+      "id": "20221024_9jj2b7qvolag7nqkg68s8ts958",
+      "status": "confirmed",
+      "summary": "Sri Shayama Puja",
+      "region": "Bangladesh",
+      "date": "2022-10-24"
     },
     {
       "id": "20221031_m3drtdfi65vgrfu0fltrrmo60g",
@@ -5815,11 +5906,11 @@
       "date": "2022-10-31"
     },
     {
-      "id": "20221106_5tv76tkn1ep890mtpcu412fo48",
+      "id": "20221107_g4pnc08sa8igp8t4eifa1o1n18",
       "status": "confirmed",
       "summary": "Fateha-i-Yajdaham",
       "region": "Bangladesh",
-      "date": "2022-11-06"
+      "date": "2022-11-07"
     },
     {
       "id": "20221216_pbv3hgs1titci1qmkv8uifkqc4",
@@ -7784,11 +7875,11 @@
       "date": "2022-02-23"
     },
     {
-      "id": "20220301_4rqkpbkph2sntc0da26pautvkg",
+      "id": "20220228_o4irg0mecd1nr33glldm12sq9k",
       "status": "confirmed",
       "summary": "Isra and Mi'raj",
       "region": "Brunei",
-      "date": "2022-03-01"
+      "date": "2022-02-28"
     },
     {
       "id": "20220403_8sjqckja8cjd87mumipr0a983k",
@@ -7812,9 +7903,16 @@
       "date": "2022-04-19"
     },
     {
-      "id": "20220503_d2vhj238827bkq6bsfe1sir27c",
+      "id": "20220502_ddlgkf3pvdespfr4sg1q5b6ucg",
       "status": "confirmed",
       "summary": "Eid ul Fitr",
+      "region": "Brunei",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_uesnncmroqkj8ktu8tel8p04p0",
+      "status": "confirmed",
+      "summary": "Eid Al Fitr Holiday",
       "region": "Brunei",
       "date": "2022-05-03"
     },
@@ -7826,13 +7924,6 @@
       "date": "2022-05-04"
     },
     {
-      "id": "20220505_od8hfj99cu0tkqdjrj75fk0as0",
-      "status": "confirmed",
-      "summary": "Eid Al Fitr Holiday",
-      "region": "Brunei",
-      "date": "2022-05-05"
-    },
-    {
       "id": "20220531_m1nft7fdrl4qqpsjskp5og12f8",
       "status": "confirmed",
       "summary": "Royal Brunei Armed Forces Day",
@@ -7840,18 +7931,11 @@
       "date": "2022-05-31"
     },
     {
-      "id": "20220710_fnslpng3tf0h2fu4vogmiu9458",
+      "id": "20220709_u1gi5ej4n1163a9s6staq3or3s",
       "status": "confirmed",
       "summary": "Eid ul Adha",
       "region": "Brunei",
-      "date": "2022-07-10"
-    },
-    {
-      "id": "20220711_dasu7v57tjk0sp2pqsud61n9vs",
-      "status": "confirmed",
-      "summary": "Eid ul Adha observed",
-      "region": "Brunei",
-      "date": "2022-07-11"
+      "date": "2022-07-09"
     },
     {
       "id": "20220715_1d0tkchh2so16l2l6oke3tuo4o",
@@ -17028,9 +17112,9 @@
       "date": "2021-01-21"
     },
     {
-      "id": "20210125_vu2r5qc0gandc66hmd9qr57o4o",
+      "id": "20210125_kl6emki4q3o0ejts4qttv2g0gs",
       "status": "confirmed",
-      "summary": "Duarte's Day",
+      "summary": "Day off for Duarte's Day",
       "region": "Dominican Republic",
       "date": "2021-01-25"
     },
@@ -17140,11 +17224,18 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220106_dctgjvoqk9m6iph7189b2rfe0g",
+      "id": "20220106_nhgkhdgvst6jil6bf0u2sj3gds",
       "status": "confirmed",
       "summary": "Epiphany",
       "region": "Dominican Republic",
       "date": "2022-01-06"
+    },
+    {
+      "id": "20220110_g1ti905mj4qd1hbe96efjpe4vo",
+      "status": "confirmed",
+      "summary": "Epiphany",
+      "region": "Dominican Republic",
+      "date": "2022-01-10"
     },
     {
       "id": "20220121_s748hd3gomru770t182kdtermg",
@@ -17161,7 +17252,7 @@
       "date": "2022-01-24"
     },
     {
-      "id": "20220126_l7nnr8t07tldti113rgvo22gig",
+      "id": "20220126_ltdjv098cct0k0cq0qringorc8",
       "status": "confirmed",
       "summary": "Duarte's Day",
       "region": "Dominican Republic",
@@ -17196,9 +17287,9 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_vai7mf88ge8nko2mh1sn6bapis",
+      "id": "20220502_3gbtmpkitake9d7i2fqo0faho0",
       "status": "confirmed",
-      "summary": "Labor Day observed",
+      "summary": "Day off for Labor Day",
       "region": "Dominican Republic",
       "date": "2022-05-02"
     },
@@ -17888,14 +17979,14 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220523_hdaqg9qlr4i419oiajpf41odec",
+      "id": "20220523_0d75fl9ctp1su4e8sq52uibc24",
       "status": "confirmed",
-      "summary": "Day off for The Battle of Pichincha",
+      "summary": "The Battle of Pichincha Holiday",
       "region": "Ecuador",
       "date": "2022-05-23"
     },
     {
-      "id": "20220524_vaecl5vhk5rnmkmsgtudakcf6o",
+      "id": "20220524_d3t2441qok1no7a81tf3tdqq1s",
       "status": "confirmed",
       "summary": "The Battle of Pichincha",
       "region": "Ecuador",
@@ -17909,7 +18000,7 @@
       "date": "2022-07-24"
     },
     {
-      "id": "20220810_2ck4ur44q04oqmodfhi0n12o7g",
+      "id": "20220810_30r9oqlkn4shgspbuhhpo32k1k",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "Ecuador",
@@ -17958,18 +18049,18 @@
       "date": "2022-11-04"
     },
     {
+      "id": "20221206_tc9qto754kldq5gpmqu282qk5c",
+      "status": "confirmed",
+      "summary": "Foundation of Quito",
+      "region": "Ecuador",
+      "date": "2022-12-06"
+    },
+    {
       "id": "20221225_g4o2ots2vc9gl3fhn85hrbsaf4",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "Ecuador",
       "date": "2022-12-25"
-    },
-    {
-      "id": "20221226_06c57qrn53tkokd17nuvfffjc8",
-      "status": "confirmed",
-      "summary": "Day off for Christmas Day",
-      "region": "Ecuador",
-      "date": "2022-12-26"
     },
     {
       "id": "20221231_bb62lqiqs1g9nae18223inq93s",
@@ -23665,28 +23756,28 @@
       "date": "2021-01-01"
     },
     {
-      "id": "20210215_v85cv1bdf14vtiucpiqg0snfnc",
+      "id": "20210215_85qrnh26h7vt7pb85j0g3mg1mk",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
       "region": "Guadeloupe",
       "date": "2021-02-15"
     },
     {
-      "id": "20210216_019vofqodhs8076qvnr41hqvvk",
+      "id": "20210216_h7bbr0njteb8hik0vmc4ao1ce4",
       "status": "confirmed",
       "summary": "Carnival / Shrove Tuesday",
       "region": "Guadeloupe",
       "date": "2021-02-16"
     },
     {
-      "id": "20210217_mre50682oil6hsgeodb0o9tcg0",
+      "id": "20210217_dlap273ng02skbt5tdi8o4344k",
       "status": "confirmed",
       "summary": "Carnival / Ash Wednesday",
       "region": "Guadeloupe",
       "date": "2021-02-17"
     },
     {
-      "id": "20210311_jn4ce467c3a0ft9f9vumjm1jv0",
+      "id": "20210311_mll42rcp7pe018079eg6h26n4c",
       "status": "confirmed",
       "summary": "Mid Lent Thursday",
       "region": "Guadeloupe",
@@ -23798,28 +23889,28 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220228_01u98it6jn44l2egb4isgull2s",
+      "id": "20220228_qrrcnm7pv86alcs0uk225mv73g",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
       "region": "Guadeloupe",
       "date": "2022-02-28"
     },
     {
-      "id": "20220301_161ncdtm51d8ub176dobdhhcn8",
+      "id": "20220301_9aihtn8k3u2cbugfjbj5qjfnos",
       "status": "confirmed",
       "summary": "Carnival / Shrove Tuesday",
       "region": "Guadeloupe",
       "date": "2022-03-01"
     },
     {
-      "id": "20220302_rc6hk9uq8f6tes45lu24kdamk4",
+      "id": "20220302_otue2dmnvtkskh91b3g7tlbvbo",
       "status": "confirmed",
       "summary": "Carnival / Ash Wednesday",
       "region": "Guadeloupe",
       "date": "2022-03-02"
     },
     {
-      "id": "20220324_8vh8cigt34ba1j0cl5fi2kq3kc",
+      "id": "20220324_oavnlhkgiadlvraka46cgpq8o4",
       "status": "confirmed",
       "summary": "Mid Lent Thursday",
       "region": "Guadeloupe",
@@ -31373,9 +31464,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220103_g1qtfph2vcdhmre2mp8ap1msmo",
+      "id": "20220103_h0o087ookhsnb5b1ro6i2a0l8c",
       "status": "confirmed",
-      "summary": "New Year observed",
+      "summary": "Day off for New Year",
       "region": "Kyrgyzstan",
       "date": "2022-01-03"
     },
@@ -33342,6 +33433,13 @@
       "date": "2022-01-07"
     },
     {
+      "id": "20220307_s4hupe5pe579hisi3q4jh9utjo",
+      "status": "confirmed",
+      "summary": "International Women's Day (extra holiday)",
+      "region": "Kazakhstan",
+      "date": "2022-03-07"
+    },
+    {
       "id": "20220308_pm9e45369t5as3fqg4l84jvk8g",
       "status": "confirmed",
       "summary": "International Women's Day",
@@ -33417,6 +33515,13 @@
       "summary": "Kurban Ait",
       "region": "Kazakhstan",
       "date": "2022-07-10"
+    },
+    {
+      "id": "20220829_q9na8pe4bu0oij4capbje2vt0o",
+      "status": "confirmed",
+      "summary": "Constitution Day (extra holiday)",
+      "region": "Kazakhstan",
+      "date": "2022-08-29"
     },
     {
       "id": "20220830_ee98rfqiv4f5brve4d72t9bb54",
@@ -54502,9 +54607,9 @@
       "date": "2021-11-01"
     },
     {
-      "id": "20211102_je3qlongfltr10ge4aal327ass",
+      "id": "20211102_4gbcrn35joghvvd4a7d52h6i2s",
       "status": "confirmed",
-      "summary": "All Saints' Day",
+      "summary": "All Souls' Day",
       "region": "San Marino",
       "date": "2021-11-02"
     },
@@ -54537,7 +54642,7 @@
       "date": "2021-12-26"
     },
     {
-      "id": "20211231_gharrvdib78s3evfi0vrc3is7k",
+      "id": "20211231_1jj6n85u84gn37cnv7ref7t37c",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "San Marino",
@@ -54670,9 +54775,9 @@
       "date": "2022-11-01"
     },
     {
-      "id": "20221102_ehhfal0ckjs2a04ihmuccg87to",
+      "id": "20221102_u152312918n2u732s14d7c1oog",
       "status": "confirmed",
-      "summary": "All Saints' Day",
+      "summary": "All Souls' Day",
       "region": "San Marino",
       "date": "2022-11-02"
     },
@@ -54705,7 +54810,7 @@
       "date": "2022-12-26"
     },
     {
-      "id": "20221231_ei2o83ult0j5bu99qqqtleboc8",
+      "id": "20221231_n3jf5qajq2ajvfjsnrd0g13gfk",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "San Marino",
@@ -55651,7 +55756,7 @@
       "date": "2021-06-24"
     },
     {
-      "id": "20210624_j3fsbft029bocpv1qj7393b7ns",
+      "id": "20210624_n4hnp1l1k84es840gvn7ru4n34",
       "status": "confirmed",
       "summary": "Feast of San Juan (regional holiday)",
       "region": "Spain",
@@ -55693,7 +55798,7 @@
       "date": "2021-08-05"
     },
     {
-      "id": "20210815_0g2i7758po1701mbdo2vjvsaqs",
+      "id": "20210815_ikle5hg4ltifvb0d3km5p8lu14",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Spain",
@@ -56008,6 +56113,13 @@
       "date": "2022-04-17"
     },
     {
+      "id": "20220418_4gpuppg23qlbkbbn63v9sbuql0",
+      "status": "confirmed",
+      "summary": "Whit Monday (Catalonia)",
+      "region": "Spain",
+      "date": "2022-04-18"
+    },
+    {
       "id": "20220418_h5j2oh9cm0ibhhkh0smj9r7jp0",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
@@ -56113,13 +56225,6 @@
       "date": "2022-06-05"
     },
     {
-      "id": "20220606_k1rov07njjvslqfso695qcp8bc",
-      "status": "confirmed",
-      "summary": "Whit Monday (regional holiday)",
-      "region": "Spain",
-      "date": "2022-06-06"
-    },
-    {
       "id": "20220609_j29boa3742aag9opisiigbu5ac",
       "status": "confirmed",
       "summary": "Day of Murcia (Murcia)",
@@ -56148,7 +56253,7 @@
       "date": "2022-06-16"
     },
     {
-      "id": "20220624_c3g9j114dfv3tiih66of6o64is",
+      "id": "20220624_7rlh7peipps3vnrupijf0su9eo",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -56372,7 +56477,7 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_aipc9063dlrtlmvk5h49fkafhk",
+      "id": "20221226_1oba8nfg3tauovhq7m2nbseobg",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
@@ -60124,6 +60229,13 @@
       "date": "2021-05-09"
     },
     {
+      "id": "20210510_ssovp9mi9pt4rvqon697qqne2c",
+      "status": "confirmed",
+      "summary": "Day off for Victory Day",
+      "region": "Tajikistan",
+      "date": "2021-05-10"
+    },
+    {
       "id": "20210513_l7chgq1ncb7oijeojg3fksp014",
       "status": "confirmed",
       "summary": "Eid ul Fitr",
@@ -60136,6 +60248,13 @@
       "summary": "Day of National Unity",
       "region": "Tajikistan",
       "date": "2021-06-27"
+    },
+    {
+      "id": "20210628_m9fgutlu8prkkql1cd68a056ns",
+      "status": "confirmed",
+      "summary": "Day off for Day of National Unity",
+      "region": "Tajikistan",
+      "date": "2021-06-28"
     },
     {
       "id": "20210720_vjnn649miu17hib6hjgnklrdoo",
@@ -60159,9 +60278,9 @@
       "date": "2021-11-06"
     },
     {
-      "id": "20211108_mj17hq27897pptsljgfpj0lirk",
+      "id": "20211108_f2i4h1c6n14160g40rlub0daj0",
       "status": "confirmed",
-      "summary": "Constitution Day observed",
+      "summary": "Day off for Constitution Day",
       "region": "Tajikistan",
       "date": "2021-11-08"
     },
@@ -60171,6 +60290,13 @@
       "summary": "New Year's Day",
       "region": "Tajikistan",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220103_adtcvp7vu9cpbrvfk4t1bu4p8s",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Tajikistan",
+      "date": "2022-01-03"
     },
     {
       "id": "20220308_vvu5n70ppvtkao3fl08or9hs1c",
@@ -60257,9 +60383,9 @@
       "date": "2022-11-06"
     },
     {
-      "id": "20221107_jeeru2hvci5jndediulae5n7e0",
+      "id": "20221107_1gh9hnd4j71khfnm4p60j19brc",
       "status": "confirmed",
-      "summary": "Constitution Day observed",
+      "summary": "Day off for Constitution Day",
       "region": "Tajikistan",
       "date": "2022-11-07"
     }
