@@ -7,8 +7,7 @@ on:
         required: true
       apply:
         description: apply. Specify whether the actual release should be performed or not
-        default: "false"
-        required: true
+        type: boolean
 jobs:
   release:
     runs-on: ubuntu-latest
