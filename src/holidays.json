@@ -9411,6 +9411,13 @@
       "date": "2021-11-01"
     },
     {
+      "id": "20211124_ecjjfj45emq1np9drepc6i8v6k",
+      "status": "confirmed",
+      "summary": "National Day of Mourning",
+      "region": "Bulgaria",
+      "date": "2021-11-24"
+    },
+    {
       "id": "20211224_1tff3jlaaam4ad5n7jbjirp5qg",
       "status": "confirmed",
       "summary": "Christmas Eve",
@@ -30161,11 +30168,11 @@
       "date": "2022-04-22"
     },
     {
-      "id": "20220427_tckqv7i8eqeu8gbfu61jf3eolg",
+      "id": "20220428_nkc0rim3rf88ssfiq868ae8ddk",
       "status": "confirmed",
       "summary": "Yom HaShoah",
       "region": "Israel",
-      "date": "2022-04-27"
+      "date": "2022-04-28"
     },
     {
       "id": "20220504_5touecgjvvroi7etapnjopvccg",
@@ -49387,9 +49394,9 @@
       "date": "2021-09-21"
     },
     {
-      "id": "20211005_h4sr60t7p3bi0146o4u0vr46j4",
+      "id": "20211005_u0dfitjhhq2sie9hdv1bg8dl9k",
       "status": "confirmed",
-      "summary": "Republic Implantation",
+      "summary": "Republic Day",
       "region": "Portugal",
       "date": "2021-10-05"
     },
@@ -49660,9 +49667,9 @@
       "date": "2022-09-21"
     },
     {
-      "id": "20221005_srnjr9901ereuvolg92aeri7n0",
+      "id": "20221005_va3foahsjuk2upq9do1989egic",
       "status": "confirmed",
-      "summary": "Republic Implantation",
+      "summary": "Republic Day",
       "region": "Portugal",
       "date": "2022-10-05"
     },
@@ -65226,6 +65233,20 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220106_tc88938trb93jqrcppj2aet1es",
+      "status": "confirmed",
+      "summary": "The Three Wise Men Day",
+      "region": "Venezuela",
+      "date": "2022-01-06"
+    },
+    {
+      "id": "20220114_5cgv3o8r2qe13cnjui2fdldfgk",
+      "status": "confirmed",
+      "summary": "Divina Pastora Day",
+      "region": "Venezuela",
+      "date": "2022-01-14"
+    },
+    {
       "id": "20220228_2hb5siuemu8d4ra8ae3msh5aa4",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
@@ -65238,6 +65259,13 @@
       "summary": "Carnival / Shrove Tuesday",
       "region": "Venezuela",
       "date": "2022-03-01"
+    },
+    {
+      "id": "20220319_bjl52qpovbqr0tsdrk3phn7224",
+      "status": "confirmed",
+      "summary": "Saint Joseph's Day",
+      "region": "Venezuela",
+      "date": "2022-03-19"
     },
     {
       "id": "20220410_jn9aghad4llmk8o4k5mion31uc",
@@ -65282,6 +65310,13 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220526_7i950f91jnf598s3qhoifmhsdk",
+      "status": "confirmed",
+      "summary": "Ascension Day",
+      "region": "Venezuela",
+      "date": "2022-05-26"
+    },
+    {
       "id": "20220613_65km8pmo65pcntq4la10l55nfo",
       "status": "confirmed",
       "summary": "St Anthony's Day",
@@ -65289,11 +65324,25 @@
       "date": "2022-06-13"
     },
     {
+      "id": "20220616_iq3k1dmhb9ton01cgg7ec917vs",
+      "status": "confirmed",
+      "summary": "Corpus Christi",
+      "region": "Venezuela",
+      "date": "2022-06-16"
+    },
+    {
       "id": "20220624_4tjfdee7tiuge1rkasc5mmo0m4",
       "status": "confirmed",
       "summary": "Carabobo Battle",
       "region": "Venezuela",
       "date": "2022-06-24"
+    },
+    {
+      "id": "20220629_3u1edci4ovum1upmmtkui389d4",
+      "status": "confirmed",
+      "summary": "Saint Peter and Saint Paul",
+      "region": "Venezuela",
+      "date": "2022-06-29"
     },
     {
       "id": "20220705_c0hug7kd2djde0t5fdas2sc5ak",
@@ -65338,7 +65387,14 @@
       "date": "2022-10-12"
     },
     {
-      "id": "20221101_ene809o546036pirqmk4n0lbhg",
+      "id": "20221026_mste5ohjeknpj7p3rr7a2el5h4",
+      "status": "confirmed",
+      "summary": "Dr. José Gregorio Hernández Day",
+      "region": "Venezuela",
+      "date": "2022-10-26"
+    },
+    {
+      "id": "20221101_v5dqj0n912fcui92k499vk2juc",
       "status": "confirmed",
       "summary": "All Saints Day",
       "region": "Venezuela",
@@ -65352,11 +65408,25 @@
       "date": "2022-11-02"
     },
     {
+      "id": "20221118_oal7bgfgnnor3eu2rba2q6kiic",
+      "status": "confirmed",
+      "summary": "Day of the Virgin of the Rosary of Chiquinquirá",
+      "region": "Venezuela",
+      "date": "2022-11-18"
+    },
+    {
       "id": "20221127_4h1e8ugcpeoq75k7v31vdcle1c",
       "status": "confirmed",
       "summary": "Aviation Day",
       "region": "Venezuela",
       "date": "2022-11-27"
+    },
+    {
+      "id": "20221208_67e93cm2ku040oq60id390ac0g",
+      "status": "confirmed",
+      "summary": "Feast of the Immaculate Conception",
+      "region": "Venezuela",
+      "date": "2022-12-08"
     },
     {
       "id": "20221224_ko1anp62loa4o0nrpaph5ibeoc",
@@ -65371,13 +65441,6 @@
       "summary": "Christmas Day",
       "region": "Venezuela",
       "date": "2022-12-25"
-    },
-    {
-      "id": "20221226_al3h87gngebkcmlg3tis02jsnk",
-      "status": "confirmed",
-      "summary": "Christmas Day observed",
-      "region": "Venezuela",
-      "date": "2022-12-26"
     },
     {
       "id": "20221231_2an4vltrsnruiobepd0gd5eg30",
