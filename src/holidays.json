@@ -60660,6 +60660,27 @@
       "date": "2021-01-01"
     },
     {
+      "id": "20210127_hpdt6m7asttgmsr2co9rbdmdso",
+      "status": "confirmed",
+      "summary": "Day of Fatherland Defenders",
+      "region": "Turkmenistan",
+      "date": "2021-01-27"
+    },
+    {
+      "id": "20210218_nttilrvo2o92ro37e36lht9qmg",
+      "status": "confirmed",
+      "summary": "Day of Diplomatic Staff of Turkmenistan",
+      "region": "Turkmenistan",
+      "date": "2021-02-18"
+    },
+    {
+      "id": "20210307_gk5nf171s3lje8gcjkervcobcg",
+      "status": "confirmed",
+      "summary": "Day of Transport and Communication Workers",
+      "region": "Turkmenistan",
+      "date": "2021-03-07"
+    },
+    {
       "id": "20210308_foibl1ucanovtm03b0v9pj0op8",
       "status": "confirmed",
       "summary": "International Women's Day",
@@ -60681,11 +60702,25 @@
       "date": "2021-03-22"
     },
     {
+      "id": "20210331_cib1ef40lf4jk0r16qqn7m7tss",
+      "status": "confirmed",
+      "summary": "Day of Chemical Industry Workers",
+      "region": "Turkmenistan",
+      "date": "2021-03-31"
+    },
+    {
       "id": "20210407_c7q5io62ihci174qi46dfqqhv4",
       "status": "confirmed",
       "summary": "World Health Day",
       "region": "Turkmenistan",
       "date": "2021-04-07"
+    },
+    {
+      "id": "20210417_irc34n4nkecouvae12ldp37mso",
+      "status": "confirmed",
+      "summary": "Migration Workers Day",
+      "region": "Turkmenistan",
+      "date": "2021-04-17"
     },
     {
       "id": "20210425_le981qgg7v9jmm1drvpi5tmcf4",
@@ -60723,6 +60758,55 @@
       "date": "2021-05-23"
     },
     {
+      "id": "20210525_43jltn2vrc5i6tsa49bkl7ah1k",
+      "status": "confirmed",
+      "summary": "Ashgabat City Day",
+      "region": "Turkmenistan",
+      "date": "2021-05-25"
+    },
+    {
+      "id": "20210529_fso1a1g9lccn5o70ebl5e94lfk",
+      "status": "confirmed",
+      "summary": "Internal Affairs Officers Day",
+      "region": "Turkmenistan",
+      "date": "2021-05-29"
+    },
+    {
+      "id": "20210601_a4oj70o2c0u91jde9aev3digso",
+      "status": "confirmed",
+      "summary": "International Childrens Day",
+      "region": "Turkmenistan",
+      "date": "2021-06-01"
+    },
+    {
+      "id": "20210605_gepgkimvsh1330gs2mq5apjb8o",
+      "status": "confirmed",
+      "summary": "World Envrionment Day",
+      "region": "Turkmenistan",
+      "date": "2021-06-05"
+    },
+    {
+      "id": "20210606_kokglg4fj3174fd3k1dgmpmt18",
+      "status": "confirmed",
+      "summary": "Textile Workers Day",
+      "region": "Turkmenistan",
+      "date": "2021-06-06"
+    },
+    {
+      "id": "20210612_d68oe338ocqb68jv2v9ho3i68s",
+      "status": "confirmed",
+      "summary": "Science Day",
+      "region": "Turkmenistan",
+      "date": "2021-06-12"
+    },
+    {
+      "id": "20210626_p6ku5l42dq56e79csnil44d7os",
+      "status": "confirmed",
+      "summary": "Day of Prosecutor's Office Employees",
+      "region": "Turkmenistan",
+      "date": "2021-06-26"
+    },
+    {
       "id": "20210627_auiakgs1m1n66ae9oa91ddh3ss",
       "status": "confirmed",
       "summary": "Day of Turkmen Workers of Culture and Art",
@@ -60730,11 +60814,25 @@
       "date": "2021-06-27"
     },
     {
+      "id": "20210705_erjjo52bgjcu5d34mm2t03mbtg",
+      "status": "confirmed",
+      "summary": "Day of Judicial Employees",
+      "region": "Turkmenistan",
+      "date": "2021-07-05"
+    },
+    {
       "id": "20210720_93tncukm4it5h80vh70i6a0g2c",
       "status": "confirmed",
       "summary": "Kurban Bayramy",
       "region": "Turkmenistan",
       "date": "2021-07-20"
+    },
+    {
+      "id": "20210721_ono9s9s49einvvno7p72i5rs3k",
+      "status": "confirmed",
+      "summary": "Health and Medical Industry Workers Day",
+      "region": "Turkmenistan",
+      "date": "2021-07-21"
     },
     {
       "id": "20210721_p3nnm4fu3prifnuto0f6gjkuuo",
@@ -60751,6 +60849,20 @@
       "date": "2021-07-22"
     },
     {
+      "id": "20210811_tcs022sv9ogn0oc4tc50bbll38",
+      "status": "confirmed",
+      "summary": "Day of Frontiersmen",
+      "region": "Turkmenistan",
+      "date": "2021-08-11"
+    },
+    {
+      "id": "20210901_6s8opsjdv8bh0ahsps99j2da40",
+      "status": "confirmed",
+      "summary": "Day of Students and Knowledge",
+      "region": "Turkmenistan",
+      "date": "2021-09-01"
+    },
+    {
       "id": "20210911_b0aabdpvvjjmbhfi5ps99gpl0o",
       "status": "confirmed",
       "summary": "Day of the Workers in the Energy Sector",
@@ -60765,11 +60877,25 @@
       "date": "2021-09-27"
     },
     {
+      "id": "20211001_j80947h7ctec7qkfbrvtcp4ud0",
+      "status": "confirmed",
+      "summary": "International Day of Senior Citizens",
+      "region": "Turkmenistan",
+      "date": "2021-10-01"
+    },
+    {
       "id": "20211006_p4cg7gd4m128sd5rm7c2kqck9g",
       "status": "confirmed",
       "summary": "Day of Commemoration and National Mourning",
       "region": "Turkmenistan",
       "date": "2021-10-06"
+    },
+    {
+      "id": "20211009_a32iq52iicqur34oq8n8h5bjm4",
+      "status": "confirmed",
+      "summary": "Day of Naval Forces of Turkmenistan",
+      "region": "Turkmenistan",
+      "date": "2021-10-09"
     },
     {
       "id": "20211114_nsqcuonrslrqvnuce6273j24uc",
@@ -60786,11 +60912,46 @@
       "date": "2021-12-12"
     },
     {
+      "id": "20211214_uu3n7h9ljqdopvb5tfqfc0r204",
+      "status": "confirmed",
+      "summary": "Day of the Workers of Oil, Gas, Power and Geological Industry",
+      "region": "Turkmenistan",
+      "date": "2021-12-14"
+    },
+    {
+      "id": "20211221_o6n3suv86ifo7h2ah0ubptklec",
+      "status": "confirmed",
+      "summary": "Niyazov Day",
+      "region": "Turkmenistan",
+      "date": "2021-12-21"
+    },
+    {
       "id": "20220101_1opbe89ou6oms1rt4lpv4am0bc",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Turkmenistan",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220127_5eer5q94ee59jghlqalgcqfr5o",
+      "status": "confirmed",
+      "summary": "Day of Fatherland Defenders",
+      "region": "Turkmenistan",
+      "date": "2022-01-27"
+    },
+    {
+      "id": "20220218_e6utpeng32jqq3iuaapr0214dg",
+      "status": "confirmed",
+      "summary": "Day of Diplomatic Staff of Turkmenistan",
+      "region": "Turkmenistan",
+      "date": "2022-02-18"
+    },
+    {
+      "id": "20220307_pg77qchi8c2rnarrunvmn1s570",
+      "status": "confirmed",
+      "summary": "Day of Transport and Communication Workers",
+      "region": "Turkmenistan",
+      "date": "2022-03-07"
     },
     {
       "id": "20220308_n5cnkbphfhu6t8483ffjt8vm48",
@@ -60814,11 +60975,25 @@
       "date": "2022-03-22"
     },
     {
+      "id": "20220331_aucomotk5t88drkjqd3nnrkatc",
+      "status": "confirmed",
+      "summary": "Day of Chemical Industry Workers",
+      "region": "Turkmenistan",
+      "date": "2022-03-31"
+    },
+    {
       "id": "20220407_pgm5sm2ke2eiaorph284ro4k44",
       "status": "confirmed",
       "summary": "World Health Day",
       "region": "Turkmenistan",
       "date": "2022-04-07"
+    },
+    {
+      "id": "20220417_8i4v45k4rk8c6b56uuhopffsbo",
+      "status": "confirmed",
+      "summary": "Migration Workers Day",
+      "region": "Turkmenistan",
+      "date": "2022-04-17"
     },
     {
       "id": "20220424_32v24946he23lf55fhro8lkd5s",
@@ -60828,11 +61003,11 @@
       "date": "2022-04-24"
     },
     {
-      "id": "20220503_gghr53emv7nro1mpv03bakqh3g",
+      "id": "20220502_qtbkjvuvlt8dcvrr0h44ha3ui0",
       "status": "confirmed",
       "summary": "Oraza Bayram",
       "region": "Turkmenistan",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220509_fpl7v8emkq2kcuvgh4bqdu76s0",
@@ -60856,6 +61031,55 @@
       "date": "2022-05-22"
     },
     {
+      "id": "20220525_iiv18mf3q2rkblvir8nperpg44",
+      "status": "confirmed",
+      "summary": "Ashgabat City Day",
+      "region": "Turkmenistan",
+      "date": "2022-05-25"
+    },
+    {
+      "id": "20220529_fdfp9hf53rjlke6ggju08vvnag",
+      "status": "confirmed",
+      "summary": "Internal Affairs Officers Day",
+      "region": "Turkmenistan",
+      "date": "2022-05-29"
+    },
+    {
+      "id": "20220601_9ibmrf6bu908lbfa1i62vi0rro",
+      "status": "confirmed",
+      "summary": "International Childrens Day",
+      "region": "Turkmenistan",
+      "date": "2022-06-01"
+    },
+    {
+      "id": "20220605_fumdqeacdsmiirq8bk7vepmmig",
+      "status": "confirmed",
+      "summary": "World Envrionment Day",
+      "region": "Turkmenistan",
+      "date": "2022-06-05"
+    },
+    {
+      "id": "20220605_jp5nmth0hv7pr6ulq09i38v0kk",
+      "status": "confirmed",
+      "summary": "Textile Workers Day",
+      "region": "Turkmenistan",
+      "date": "2022-06-05"
+    },
+    {
+      "id": "20220612_75jeh121c9n5ptagktji5b5hb0",
+      "status": "confirmed",
+      "summary": "Science Day",
+      "region": "Turkmenistan",
+      "date": "2022-06-12"
+    },
+    {
+      "id": "20220626_e4s716us5e3b7laomcojgkakqo",
+      "status": "confirmed",
+      "summary": "Day of Prosecutor's Office Employees",
+      "region": "Turkmenistan",
+      "date": "2022-06-26"
+    },
+    {
       "id": "20220627_4d4t7co6rs61r1nl3epgig08rc",
       "status": "confirmed",
       "summary": "Day of Turkmen Workers of Culture and Art",
@@ -60863,11 +61087,53 @@
       "date": "2022-06-27"
     },
     {
+      "id": "20220705_pb2mdthue15lbq6p5hq1danvsk",
+      "status": "confirmed",
+      "summary": "Day of Judicial Employees",
+      "region": "Turkmenistan",
+      "date": "2022-07-05"
+    },
+    {
+      "id": "20220709_f03dspui4h7lndv9ul0thr1ul4",
+      "status": "confirmed",
+      "summary": "Kurban Bayramy Holiday",
+      "region": "Turkmenistan",
+      "date": "2022-07-09"
+    },
+    {
       "id": "20220710_mnc0e7r3p5f9lov01ej7l58a5o",
       "status": "confirmed",
       "summary": "Kurban Bayramy",
       "region": "Turkmenistan",
       "date": "2022-07-10"
+    },
+    {
+      "id": "20220711_9mtl31rima6u7q1qvttsfojits",
+      "status": "confirmed",
+      "summary": "Kurban Bayramy Holiday",
+      "region": "Turkmenistan",
+      "date": "2022-07-11"
+    },
+    {
+      "id": "20220721_d1d7i69qsijifp1b2ll069fe9s",
+      "status": "confirmed",
+      "summary": "Health and Medical Industry Workers Day",
+      "region": "Turkmenistan",
+      "date": "2022-07-21"
+    },
+    {
+      "id": "20220811_i1fijaat6vg12ahki1v35tkujc",
+      "status": "confirmed",
+      "summary": "Day of Frontiersmen",
+      "region": "Turkmenistan",
+      "date": "2022-08-11"
+    },
+    {
+      "id": "20220901_a9ih7opkd586u7sbmfn4b85qrc",
+      "status": "confirmed",
+      "summary": "Day of Students and Knowledge",
+      "region": "Turkmenistan",
+      "date": "2022-09-01"
     },
     {
       "id": "20220910_g7p27rjkp5k5t88055jhqshke4",
@@ -60884,11 +61150,25 @@
       "date": "2022-09-27"
     },
     {
+      "id": "20221001_vuq10rr8ivc0qpqcls5d2dh8g4",
+      "status": "confirmed",
+      "summary": "International Day of Senior Citizens",
+      "region": "Turkmenistan",
+      "date": "2022-10-01"
+    },
+    {
       "id": "20221006_7bkp67796t4rdhib4opt74c0h8",
       "status": "confirmed",
       "summary": "Day of Commemoration and National Mourning",
       "region": "Turkmenistan",
       "date": "2022-10-06"
+    },
+    {
+      "id": "20221009_9hqlu073s41g1cvhphemdosvfc",
+      "status": "confirmed",
+      "summary": "Day of Naval Forces of Turkmenistan",
+      "region": "Turkmenistan",
+      "date": "2022-10-09"
     },
     {
       "id": "20221113_d2cqrpegu0s8s233vic04tb7u8",
@@ -60903,6 +61183,20 @@
       "summary": "Day of Neutrality",
       "region": "Turkmenistan",
       "date": "2022-12-12"
+    },
+    {
+      "id": "20221214_bc0ko56um0t4vvnm3kj8v8769g",
+      "status": "confirmed",
+      "summary": "Day of the Workers of Oil, Gas, Power and Geological Industry",
+      "region": "Turkmenistan",
+      "date": "2022-12-14"
+    },
+    {
+      "id": "20221221_scid1c1srn4tta1hih9io8blac",
+      "status": "confirmed",
+      "summary": "Niyazov Day",
+      "region": "Turkmenistan",
+      "date": "2022-12-21"
     }
   ],
   "Tunisia": [
