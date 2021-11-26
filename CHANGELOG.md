@@ -8,6 +8,10 @@
 
 - Update Holidays [\#465](https://github.com/yykamei/block-merge-based-on-time/pull/465) ([github-actions[bot]](https://github.com/apps/github-actions))
 
+**Merged pull requests:**
+
+- Bump prettier from 2.4.1 to 2.5.0 [\#468](https://github.com/yykamei/block-merge-based-on-time/pull/468) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.2.10](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.10) (2021-11-24)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.9...v1.2.10)
