@@ -16525,6 +16525,13 @@
       "date": "2021-06-05"
     },
     {
+      "id": "20211031_pc08fgecdggf1imqgvcsp9rits",
+      "status": "confirmed",
+      "summary": "Halloween",
+      "region": "Denmark",
+      "date": "2021-10-31"
+    },
+    {
       "id": "20211031_qfggq5m00me06toilp1p56a2oo",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
@@ -16691,6 +16698,13 @@
       "summary": "Daylight Saving Time ends",
       "region": "Denmark",
       "date": "2022-10-30"
+    },
+    {
+      "id": "20221031_ll7mveqk91rkufm006inb5prdo",
+      "status": "confirmed",
+      "summary": "Halloween",
+      "region": "Denmark",
+      "date": "2022-10-31"
     },
     {
       "id": "20221224_do7ugiu9du40ibr09igjc5df0o",
@@ -33503,7 +33517,7 @@
       "date": "2022-05-07"
     },
     {
-      "id": "20220509_jlu8382guos941su6r7bfaf4ck",
+      "id": "20220509_1htjk7pqfo1d1vgd8rvr0nmses",
       "status": "confirmed",
       "summary": "Victory Day",
       "region": "Kazakhstan",
@@ -33515,6 +33529,13 @@
       "summary": "Day off for Defender of the Fatherland Day",
       "region": "Kazakhstan",
       "date": "2022-05-09"
+    },
+    {
+      "id": "20220510_11465ch0f7uqh4tnl7ph20crio",
+      "status": "confirmed",
+      "summary": "Victory Day",
+      "region": "Kazakhstan",
+      "date": "2022-05-10"
     },
     {
       "id": "20220706_sp8h9cj1hjsip2jja36gngll1k",
@@ -49035,6 +49056,13 @@
       "date": "2021-12-26"
     },
     {
+      "id": "20211227_llf9jltuts7mncprmpcheedsm8",
+      "status": "confirmed",
+      "summary": "National Day of the Victorious Greater Poland Uprising",
+      "region": "Poland",
+      "date": "2021-12-27"
+    },
+    {
       "id": "20211231_23jd8bt1rrp5d8u6ghpc66veug",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -49180,6 +49208,13 @@
       "summary": "Second Day of Christmas",
       "region": "Poland",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_b7k14r0rtopq382nifjtnimq18",
+      "status": "confirmed",
+      "summary": "National Day of the Victorious Greater Poland Uprising",
+      "region": "Poland",
+      "date": "2022-12-27"
     },
     {
       "id": "20221231_tp1cumba25nl8dl6v1i8g9bbjk",
@@ -52319,6 +52354,13 @@
       "date": "2021-05-09"
     },
     {
+      "id": "20210616_9bcp2obbmdc7r4r7df9iltfn4g",
+      "status": "confirmed",
+      "summary": "Tweede Nuwe Jaar",
+      "region": "South Africa",
+      "date": "2021-06-16"
+    },
+    {
       "id": "20210616_pqp94lc5ierac2d452jomnmsrc",
       "status": "confirmed",
       "summary": "Youth Day",
@@ -52408,6 +52450,13 @@
       "summary": "New Year's Day",
       "region": "South Africa",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220102_5c0bboohl769rrppt09571t7n4",
+      "status": "confirmed",
+      "summary": "Tweede Nuwe Jaar",
+      "region": "South Africa",
+      "date": "2022-01-02"
     },
     {
       "id": "20220321_bbes83mvc5f9gprmh8djbob1q4",
@@ -52532,13 +52581,6 @@
       "id": "20221226_8o598l7s29kt5n5se65j60rnbk",
       "status": "confirmed",
       "summary": "Day of Goodwill",
-      "region": "South Africa",
-      "date": "2022-12-26"
-    },
-    {
-      "id": "20221226_9de02ea8db29bhbkfhn4ibvn60",
-      "status": "confirmed",
-      "summary": "Day off for Christmas Day",
       "region": "South Africa",
       "date": "2022-12-26"
     },
@@ -62679,13 +62721,6 @@
       "summary": "Eid el Fitri",
       "region": "Tanzania",
       "date": "2022-05-03"
-    },
-    {
-      "id": "20220504_hhbo382771b1mre7afbsemh6lg",
-      "status": "confirmed",
-      "summary": "Eid el Fitri Holiday",
-      "region": "Tanzania",
-      "date": "2022-05-04"
     },
     {
       "id": "20220508_ke8847ku0udbgbp7f3t88c9m9g",
