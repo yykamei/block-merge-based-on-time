@@ -48070,13 +48070,6 @@
       "date": "2022-11-01"
     },
     {
-      "id": "20221102_it9imtrjenbu5eouef4mog7vu4",
-      "status": "confirmed",
-      "summary": "All Souls' Day",
-      "region": "Philippines",
-      "date": "2022-11-02"
-    },
-    {
       "id": "20221130_9u2mcuapr72g2kg984nm4oigb8",
       "status": "confirmed",
       "summary": "Bonifacio Day",
@@ -48091,13 +48084,6 @@
       "date": "2022-12-08"
     },
     {
-      "id": "20221224_bnc7jgt9slbf5ohikvqp130fjg",
-      "status": "confirmed",
-      "summary": "Christmas Eve",
-      "region": "Philippines",
-      "date": "2022-12-24"
-    },
-    {
       "id": "20221225_evukba5silq0ikbsnjn6slf74s",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -48110,13 +48096,6 @@
       "summary": "Rizal Day",
       "region": "Philippines",
       "date": "2022-12-30"
-    },
-    {
-      "id": "20221231_58b85sng9aho2bmqvsp9gfs1lk",
-      "status": "confirmed",
-      "summary": "New Year's Eve",
-      "region": "Philippines",
-      "date": "2022-12-31"
     }
   ],
   "Pakistan": [
