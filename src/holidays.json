@@ -2544,7 +2544,7 @@
       "date": "2022-04-02"
     },
     {
-      "id": "20220414_2ltsa0f9mfi25dq9fcgv23m7vk",
+      "id": "20220414_chgn3mn044k7k0iat9i4jm76bg",
       "status": "confirmed",
       "summary": "Maundy Thursday",
       "region": "Argentina",
@@ -12794,6 +12794,13 @@
       "summary": "Arbor Day",
       "region": "China",
       "date": "2022-03-12"
+    },
+    {
+      "id": "20220403_cfqu0f65tl1u0trqtv7emkccd0",
+      "status": "confirmed",
+      "summary": "Qing Ming Jie holiday",
+      "region": "China",
+      "date": "2022-04-03"
     },
     {
       "id": "20220404_tfl7710q2mk1rgbu397u0vb5lc",
