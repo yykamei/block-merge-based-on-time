@@ -23013,11 +23013,11 @@
       "date": "2022-01-03"
     },
     {
-      "id": "20220314_mgiqhonc8p4nc0cd3s4biae1pk",
+      "id": "20220221_pbk3oicqlgbif3686uapoa7rek",
       "status": "confirmed",
       "summary": "Commonwealth Day",
       "region": "Gibraltar",
-      "date": "2022-03-14"
+      "date": "2022-02-21"
     },
     {
       "id": "20220327_g8nhne45rpug27q8gp2a2lgb0o",
@@ -33200,18 +33200,25 @@
       "date": "2022-05-16"
     },
     {
+      "id": "20220603_ctomhdlgilafkai32obupkj174",
+      "status": "confirmed",
+      "summary": "Queen's Platinum Jubilee",
+      "region": "Cayman Islands",
+      "date": "2022-06-03"
+    },
+    {
+      "id": "20220606_0u2jbeml7i49o8oapgrq10qf2g",
+      "status": "confirmed",
+      "summary": "Queen's Birthday",
+      "region": "Cayman Islands",
+      "date": "2022-06-06"
+    },
+    {
       "id": "20220619_v0bat3a39bj0rjgtc3odnpnmcg",
       "status": "confirmed",
       "summary": "Fathers' Day",
       "region": "Cayman Islands",
       "date": "2022-06-19"
-    },
-    {
-      "id": "20220620_v2hbvqtuaa2nhbhflijeuei6fc",
-      "status": "confirmed",
-      "summary": "Queen's Birthday",
-      "region": "Cayman Islands",
-      "date": "2022-06-20"
     },
     {
       "id": "20220704_endt2co5krnfbl93qd8vo4vg3k",
@@ -33247,6 +33254,13 @@
       "summary": "Christmas Day",
       "region": "Cayman Islands",
       "date": "2022-12-25"
+    },
+    {
+      "id": "20221226_20gg0cmopr3hs8megr7f6r3ous",
+      "status": "confirmed",
+      "summary": "Day off for Christmas Day",
+      "region": "Cayman Islands",
+      "date": "2022-12-26"
     },
     {
       "id": "20221226_l5av7d61mt7koenfrkkmhdrkek",
