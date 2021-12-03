@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.16...HEAD)
+
+**Merged pull requests:**
+
+- Bump @typescript-eslint/parser from 5.4.0 to 5.5.0 [\#486](https://github.com/yykamei/block-merge-based-on-time/pull/486) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.2.16](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.16) (2021-12-02)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.15...v1.2.16)
