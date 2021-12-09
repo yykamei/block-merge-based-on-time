@@ -423,6 +423,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220102_306nq68f1344eced5brgkoib6g",
+      "status": "confirmed",
+      "summary": "New Year's Day Holiday",
+      "region": "United Arab Emirates",
+      "date": "2022-01-02"
+    },
+    {
       "id": "20220301_h3vm2b3iohl6mnmg1n1c1fuv70",
       "status": "confirmed",
       "summary": "Leilat al-Meiraj (The Prophet's Ascension)",
@@ -812,6 +819,13 @@
       "date": "2021-08-26"
     },
     {
+      "id": "20211026_6av1djfudqg9dv3s2fo9ipe2pk",
+      "status": "confirmed",
+      "summary": "National Heroes Day",
+      "region": "Antigua & Barbuda",
+      "date": "2021-10-26"
+    },
+    {
       "id": "20211101_0t8rei56f0fghue33oet02968o",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -819,9 +833,9 @@
       "date": "2021-11-01"
     },
     {
-      "id": "20211209_gpqam680kqf5fuuflk5ntak7vo",
+      "id": "20211209_qt2me8v3sn5rehff7vdg23teq4",
       "status": "confirmed",
-      "summary": "National Heroes Day",
+      "summary": "V.C. Bird Day",
       "region": "Antigua & Barbuda",
       "date": "2021-12-09"
     },
@@ -896,6 +910,13 @@
       "date": "2022-08-02"
     },
     {
+      "id": "20221026_8l3gti2ikfkuieuh1hajqvlh7c",
+      "status": "confirmed",
+      "summary": "National Heroes Day",
+      "region": "Antigua & Barbuda",
+      "date": "2022-10-26"
+    },
+    {
       "id": "20221101_mg9p4m16t9tb5moos1adeu50p8",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -903,9 +924,9 @@
       "date": "2022-11-01"
     },
     {
-      "id": "20221209_eqhhaik8lg0gao3hg68c6bbgg4",
+      "id": "20221209_eq7f083v7hnhah4ct3gtrnncm4",
       "status": "confirmed",
-      "summary": "National Heroes Day",
+      "summary": "V.C. Bird Day",
       "region": "Antigua & Barbuda",
       "date": "2022-12-09"
     },
@@ -21549,7 +21570,7 @@
       "date": "2021-04-03"
     },
     {
-      "id": "20210404_pfcadd6qkkr1an1k72j23rql14",
+      "id": "20210404_krk0p4n6o2mkgv5olo4bv8cimo",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -21598,7 +21619,7 @@
       "date": "2021-05-13"
     },
     {
-      "id": "20210523_ul4ppujskrjmtnbg4u1fa9qln8",
+      "id": "20210523_aqor0qm7va9cm0uv88evphghho",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -21626,7 +21647,7 @@
       "date": "2021-08-08"
     },
     {
-      "id": "20210815_5jqtv18f3kvjdlq6g7r5k7ahcs",
+      "id": "20210815_dpk79ojt82ko33566pi26eip20",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -21885,7 +21906,7 @@
       "date": "2022-05-26"
     },
     {
-      "id": "20220605_80q2t6tu49jlnmtpe50jj1b4oo",
+      "id": "20220605_m2v6gi5ice1nvoka2dm0cpu91k",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -21913,7 +21934,7 @@
       "date": "2022-08-08"
     },
     {
-      "id": "20220815_gscu1jmj7eq23ls7g0nj5he50s",
+      "id": "20220815_nbr82ik53b9tspg9dbnoqse9p4",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -41957,6 +41978,13 @@
       "date": "2021-05-22"
     },
     {
+      "id": "20210523_pbve9iat2s3n63m225ndf99of0",
+      "status": "confirmed",
+      "summary": "Whit Sunday",
+      "region": "Martinique",
+      "date": "2021-05-23"
+    },
+    {
       "id": "20210524_dtlgtfh8kbhhekkdpreh488tac",
       "status": "confirmed",
       "summary": "Whit Monday",
@@ -42067,6 +42095,13 @@
       "summary": "Ascension Day",
       "region": "Martinique",
       "date": "2022-05-26"
+    },
+    {
+      "id": "20220605_voio6lcev4um9qumf0j4ejht5k",
+      "status": "confirmed",
+      "summary": "Whit Sunday",
+      "region": "Martinique",
+      "date": "2022-06-05"
     },
     {
       "id": "20220606_tccitq1p597kvae2o2ljp3ko1o",
@@ -43942,6 +43977,13 @@
       "date": "2021-05-13"
     },
     {
+      "id": "20210523_vtuh0ik8o5tuue7ns3cvbisd4o",
+      "status": "confirmed",
+      "summary": "Whit Sunday",
+      "region": "New Caledonia",
+      "date": "2021-05-23"
+    },
+    {
       "id": "20210524_cl3957n0cr6n15mnu35hfklkkk",
       "status": "confirmed",
       "summary": "Whit Monday",
@@ -44031,6 +44073,13 @@
       "summary": "Ascension Day",
       "region": "New Caledonia",
       "date": "2022-05-26"
+    },
+    {
+      "id": "20220605_e2k0bbob2m6bmo1ehdkcuour1o",
+      "status": "confirmed",
+      "summary": "Whit Sunday",
+      "region": "New Caledonia",
+      "date": "2022-06-05"
     },
     {
       "id": "20220606_phaulgmm03clsbvfpbvekls934",
@@ -67890,6 +67939,13 @@
       "date": "2021-05-14"
     },
     {
+      "id": "20210523_t5r12nvsgi4vl30qnsmrvsp0bk",
+      "status": "confirmed",
+      "summary": "Whit Sunday",
+      "region": "Mayotte",
+      "date": "2021-05-23"
+    },
+    {
       "id": "20210524_53e1o6rmq4iu4qa7rja4arlls8",
       "status": "confirmed",
       "summary": "Whit Monday",
@@ -68000,6 +68056,13 @@
       "summary": "Ascension Day",
       "region": "Mayotte",
       "date": "2022-05-26"
+    },
+    {
+      "id": "20220605_3cfgsi2h1ftk2nhvrrmq76lrpc",
+      "status": "confirmed",
+      "summary": "Whit Sunday",
+      "region": "Mayotte",
+      "date": "2022-06-05"
     },
     {
       "id": "20220606_gmbas0lhj529i65e7eguam05ik",
