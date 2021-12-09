@@ -21598,7 +21598,7 @@
       "date": "2021-05-13"
     },
     {
-      "id": "20210523_aqor0qm7va9cm0uv88evphghho",
+      "id": "20210523_ul4ppujskrjmtnbg4u1fa9qln8",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -21626,7 +21626,7 @@
       "date": "2021-08-08"
     },
     {
-      "id": "20210815_dpk79ojt82ko33566pi26eip20",
+      "id": "20210815_5jqtv18f3kvjdlq6g7r5k7ahcs",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -21738,13 +21738,6 @@
       "date": "2021-12-19"
     },
     {
-      "id": "20211224_69es86ga2m70omcq7er88k1t6k",
-      "status": "confirmed",
-      "summary": "Christmas Eve",
-      "region": "Germany",
-      "date": "2021-12-24"
-    },
-    {
       "id": "20211225_88ho159vol4gcavv4mb3j6c5c4",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -21757,13 +21750,6 @@
       "summary": "Boxing Day",
       "region": "Germany",
       "date": "2021-12-26"
-    },
-    {
-      "id": "20211231_3b1jain70i4lkrir259tkl9oho",
-      "status": "confirmed",
-      "summary": "New Year's Eve",
-      "region": "Germany",
-      "date": "2021-12-31"
     },
     {
       "id": "20220101_13vmgnb1vg8pqltbub7s3cfkt8",
@@ -21899,7 +21885,7 @@
       "date": "2022-05-26"
     },
     {
-      "id": "20220605_m2v6gi5ice1nvoka2dm0cpu91k",
+      "id": "20220605_80q2t6tu49jlnmtpe50jj1b4oo",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -21927,7 +21913,7 @@
       "date": "2022-08-08"
     },
     {
-      "id": "20220815_nbr82ik53b9tspg9dbnoqse9p4",
+      "id": "20220815_gscu1jmj7eq23ls7g0nj5he50s",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -22039,13 +22025,6 @@
       "date": "2022-12-18"
     },
     {
-      "id": "20221224_pg8vq0g569e51ona29eb4ufk1g",
-      "status": "confirmed",
-      "summary": "Christmas Eve",
-      "region": "Germany",
-      "date": "2022-12-24"
-    },
-    {
       "id": "20221225_2mku5o08kanr9u1ir3hg7aghuc",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -22058,13 +22037,6 @@
       "summary": "Boxing Day",
       "region": "Germany",
       "date": "2022-12-26"
-    },
-    {
-      "id": "20221231_5f0eusvnlrsh6fllkq6m1guu6g",
-      "status": "confirmed",
-      "summary": "New Year's Eve",
-      "region": "Germany",
-      "date": "2022-12-31"
     }
   ],
   "French Guiana": [
@@ -57565,13 +57537,6 @@
       "date": "2021-01-01"
     },
     {
-      "id": "20210105_7prqc4vcqjcpkbmmu00p8p9rgc",
-      "status": "confirmed",
-      "summary": "Twelfth Night",
-      "region": "Sweden",
-      "date": "2021-01-05"
-    },
-    {
       "id": "20210106_vbc6mq0t4hlg0ro674664bqeu8",
       "status": "confirmed",
       "summary": "Epiphany",
@@ -57619,13 +57584,6 @@
       "summary": "Easter Monday",
       "region": "Sweden",
       "date": "2021-04-05"
-    },
-    {
-      "id": "20210430_oto41dd0gr12vq0kuq4gklmnds",
-      "status": "confirmed",
-      "summary": "Walpurgis Night",
-      "region": "Sweden",
-      "date": "2021-04-30"
     },
     {
       "id": "20210501_4tgu841emkpfktp5524f1ptt38",
@@ -57689,13 +57647,6 @@
       "summary": "Daylight Saving Time ends",
       "region": "Sweden",
       "date": "2021-10-31"
-    },
-    {
-      "id": "20211105_3uv5qtfratmt4fq0peig286ars",
-      "status": "confirmed",
-      "summary": "All Saints' Eve",
-      "region": "Sweden",
-      "date": "2021-11-05"
     },
     {
       "id": "20211106_oc0cerltq41kqlnm5navthqms8",
@@ -57775,13 +57726,6 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220105_p08ua34ui7hs3okq5m2tkg5pfo",
-      "status": "confirmed",
-      "summary": "Twelfth Night",
-      "region": "Sweden",
-      "date": "2022-01-05"
-    },
-    {
       "id": "20220106_89nae7i8uj8gcp9cs05ombtim0",
       "status": "confirmed",
       "summary": "Epiphany",
@@ -57829,13 +57773,6 @@
       "summary": "Easter Monday",
       "region": "Sweden",
       "date": "2022-04-18"
-    },
-    {
-      "id": "20220430_an6ii17n0v9l4ktu6gf8ojn6uk",
-      "status": "confirmed",
-      "summary": "Walpurgis Night",
-      "region": "Sweden",
-      "date": "2022-04-30"
     },
     {
       "id": "20220501_lljse6vvk6ctap0ubomuf3a0mo",
@@ -57899,13 +57836,6 @@
       "summary": "Daylight Saving Time ends",
       "region": "Sweden",
       "date": "2022-10-30"
-    },
-    {
-      "id": "20221104_f20nb9n06lk66lm0li3g2asc54",
-      "status": "confirmed",
-      "summary": "All Saints' Eve",
-      "region": "Sweden",
-      "date": "2022-11-04"
     },
     {
       "id": "20221105_dh1cudh9p8q98f2op357l5h6e0",
