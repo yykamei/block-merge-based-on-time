@@ -1,5 +1,16 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.20...HEAD)
+
+**Merged pull requests:**
+
+- Bump @types/node from 16.11.11 to 16.11.12 [\#507](https://github.com/yykamei/block-merge-based-on-time/pull/507) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump prettier from 2.5.0 to 2.5.1 [\#506](https://github.com/yykamei/block-merge-based-on-time/pull/506) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ts-jest from 27.0.7 to 27.1.1 [\#503](https://github.com/yykamei/block-merge-based-on-time/pull/503) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump eslint from 8.3.0 to 8.4.1 [\#502](https://github.com/yykamei/block-merge-based-on-time/pull/502) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.2.20](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.20) (2021-12-09)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.19...v1.2.20)
