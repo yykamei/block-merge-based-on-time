@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.20...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays [\#514](https://github.com/yykamei/block-merge-based-on-time/pull/514) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump typescript from 4.5.2 to 4.5.3 [\#510](https://github.com/yykamei/block-merge-based-on-time/pull/510) ([dependabot[bot]](https://github.com/apps/dependabot))
