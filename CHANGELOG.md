@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ts-jest from 27.1.1 to 27.1.2 [\#520](https://github.com/yykamei/block-merge-based-on-time/pull/520) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 16.11.12 to 17.0.0 [\#519](https://github.com/yykamei/block-merge-based-on-time/pull/519) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/luxon from 2.0.7 to 2.0.8 [\#518](https://github.com/yykamei/block-merge-based-on-time/pull/518) ([dependabot[bot]](https://github.com/apps/dependabot))
 
