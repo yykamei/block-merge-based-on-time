@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump @types/node from 17.0.0 to 17.0.4 [\#538](https://github.com/yykamei/block-merge-based-on-time/pull/538) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump luxon from 2.1.1 to 2.2.0 [\#526](https://github.com/yykamei/block-merge-based-on-time/pull/526) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump jest from 27.4.3 to 27.4.5 [\#524](https://github.com/yykamei/block-merge-based-on-time/pull/524) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @typescript-eslint/eslint-plugin from 5.6.0 to 5.7.0 [\#521](https://github.com/yykamei/block-merge-based-on-time/pull/521) ([dependabot[bot]](https://github.com/apps/dependabot))
