@@ -854,11 +854,18 @@
       "date": "2021-12-26"
     },
     {
-      "id": "20211227_8fggsbclu97ua9oehhj7mg61lg",
+      "id": "20211227_2fgb04urnahdbejcoomp9rrtlo",
       "status": "confirmed",
-      "summary": "Christmas Day observed",
+      "summary": "Day off for Christmas Day",
       "region": "Antigua & Barbuda",
       "date": "2021-12-27"
+    },
+    {
+      "id": "20211228_bmbu2tpr370u0vrps3kakga17g",
+      "status": "confirmed",
+      "summary": "Day off for Boxing Day",
+      "region": "Antigua & Barbuda",
+      "date": "2021-12-28"
     },
     {
       "id": "20220101_ml77euct7de7t11vc3kmeltp8k",
@@ -945,9 +952,9 @@
       "date": "2022-12-26"
     },
     {
-      "id": "20221227_a2oct6k8bj6kvovcapf4bb60e0",
+      "id": "20221227_2r4da59l2kt74r9660rafn59fo",
       "status": "confirmed",
-      "summary": "Christmas Day observed",
+      "summary": "Day off for Christmas Day",
       "region": "Antigua & Barbuda",
       "date": "2022-12-27"
     }
@@ -1285,6 +1292,13 @@
       "date": "2021-04-04"
     },
     {
+      "id": "20210405_4l0jemaqv8api4jcnk3ck88rfg",
+      "status": "confirmed",
+      "summary": "Day off for Easter Sunday",
+      "region": "Albania",
+      "date": "2021-04-05"
+    },
+    {
       "id": "20210405_tf5qoute0eebsmd77iba7inih0",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -1323,6 +1337,13 @@
       "id": "20210503_8nmd1sbcm2t25tfmnajdcghois",
       "status": "confirmed",
       "summary": "Day off for International Worker’s Day",
+      "region": "Albania",
+      "date": "2021-05-03"
+    },
+    {
+      "id": "20210503_8vd35p0ho4sat0a57d5eoqh1g8",
+      "status": "confirmed",
+      "summary": "Day off for Easter Sunday (Orthodox)",
       "region": "Albania",
       "date": "2021-05-03"
     },
@@ -1523,6 +1544,13 @@
       "date": "2022-04-17"
     },
     {
+      "id": "20220418_3jtuolpqvc6ktdvqd88kaphnnk",
+      "status": "confirmed",
+      "summary": "Day off for Easter Sunday",
+      "region": "Albania",
+      "date": "2022-04-18"
+    },
+    {
       "id": "20220418_cfl1fnadue11110ts7v9ssdpos",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -1554,6 +1582,13 @@
       "id": "20220425_ksvs3ouubq8i735cjfb48fo4no",
       "status": "confirmed",
       "summary": "Easter Monday (Orthodox)",
+      "region": "Albania",
+      "date": "2022-04-25"
+    },
+    {
+      "id": "20220425_vbtfljrtt90ntvupj4t10kfkas",
+      "status": "confirmed",
+      "summary": "Day off for Easter Sunday (Orthodox)",
       "region": "Albania",
       "date": "2022-04-25"
     },
@@ -5703,6 +5738,13 @@
       "date": "2022-03-17"
     },
     {
+      "id": "20220319_65pnr98fd76fdn2quon3ao77ds",
+      "status": "confirmed",
+      "summary": "Shab e-Barat",
+      "region": "Bangladesh",
+      "date": "2022-03-19"
+    },
+    {
       "id": "20220326_ion52d3dq9ph9qd8v6erlj1968",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -5736,13 +5778,6 @@
       "summary": "Easter Monday",
       "region": "Bangladesh",
       "date": "2022-04-18"
-    },
-    {
-      "id": "20220419_0chntacj2oaei97fmlhboiqr2k",
-      "status": "confirmed",
-      "summary": "Shab e-Barat",
-      "region": "Bangladesh",
-      "date": "2022-04-19"
     },
     {
       "id": "20220429_2tpgomqn4lh4287gv8869uh1t0",
@@ -13656,11 +13691,11 @@
       "date": "2022-06-16"
     },
     {
-      "id": "20220620_1rkls891tc3cq1i6b72sm3t7ao",
+      "id": "20220621_i1f6sskhct1b926ls3pqkimt7s",
       "status": "confirmed",
       "summary": "National Day of Indigenous Peoples",
       "region": "Chile",
-      "date": "2022-06-20"
+      "date": "2022-06-21"
     },
     {
       "id": "20220627_sdl6i08biaa0p8jt15tj794be0",
@@ -23479,11 +23514,25 @@
       "date": "2021-12-25"
     },
     {
+      "id": "20211227_lq6ej8s1ts77rdi2o2fp2q55ig",
+      "status": "confirmed",
+      "summary": "Day off for Christmas Day",
+      "region": "Gambia",
+      "date": "2021-12-27"
+    },
+    {
       "id": "20220101_p3kuhrde631sujbnei9vji9ils",
       "status": "confirmed",
       "summary": "New Year",
       "region": "Gambia",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220103_id8bgbmj264e57i1891enihuv0",
+      "status": "confirmed",
+      "summary": "Day off for New Year",
+      "region": "Gambia",
+      "date": "2022-01-03"
     },
     {
       "id": "20220218_fsbn4o2dfnork3c1ab6afr8r3k",
@@ -27420,11 +27469,11 @@
       "date": "2022-07-10"
     },
     {
-      "id": "20220808_kld26ald5j65gh2cl7e6g6pp58",
+      "id": "20220809_vqjbhctlld2e2mol2056m5jqq8",
       "status": "confirmed",
       "summary": "Muharram/Ashura",
       "region": "India",
-      "date": "2022-08-08"
+      "date": "2022-08-09"
     },
     {
       "id": "20220811_tbmsqo4fcbe3bsr4upd5nc0lk0",
@@ -32070,11 +32119,25 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220103_s2kv15aln8hb1im79a26fvhvio",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Kiribati",
+      "date": "2022-01-03"
+    },
+    {
       "id": "20220308_df965rdslreii2tmpelfcofesk",
       "status": "confirmed",
       "summary": "International Women's Day",
       "region": "Kiribati",
       "date": "2022-03-08"
+    },
+    {
+      "id": "20220408_k1s9tjh76f51cgnrisr4qnbuac",
+      "status": "confirmed",
+      "summary": "National Health Day",
+      "region": "Kiribati",
+      "date": "2022-04-08"
     },
     {
       "id": "20220415_lp7so3lj69lpk1t561vq3krd1s",
@@ -32091,9 +32154,30 @@
       "date": "2022-04-18"
     },
     {
-      "id": "20220711_kltamcmoocoibmblh5v677pqk8",
+      "id": "20220501_196oq1f7ha9e3hbrtggsgqs7h0",
       "status": "confirmed",
-      "summary": "Independence Day holiday",
+      "summary": "Labor Day / May Day",
+      "region": "Kiribati",
+      "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_deurtfk67pioo40c326lotmjak",
+      "status": "confirmed",
+      "summary": "Day off for Labor Day / May Day",
+      "region": "Kiribati",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220708_ap2fhj542ck6gfu1g84u8a5heo",
+      "status": "confirmed",
+      "summary": "Gospel Day",
+      "region": "Kiribati",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220711_gc6gbhi1rqhpiqfimfrkissmbg",
+      "status": "confirmed",
+      "summary": "National Culture and Senior Citizen Day",
       "region": "Kiribati",
       "date": "2022-07-11"
     },
@@ -32103,6 +32187,13 @@
       "summary": "Independence Day",
       "region": "Kiribati",
       "date": "2022-07-12"
+    },
+    {
+      "id": "20220713_fi5j2nqd6ienijajlojhgmkgns",
+      "status": "confirmed",
+      "summary": "Kiribati Special Day",
+      "region": "Kiribati",
+      "date": "2022-07-13"
     },
     {
       "id": "20220715_om3e5aeim2ibthuha9tv34okk4",
@@ -32119,11 +32210,18 @@
       "date": "2022-07-16"
     },
     {
-      "id": "20220801_97p87sc61ikm71g8c46vks3v9k",
+      "id": "20220805_hb2ksc7trgrrj3l67ok4fdk2t0",
       "status": "confirmed",
       "summary": "Youth Day",
       "region": "Kiribati",
-      "date": "2022-08-01"
+      "date": "2022-08-05"
+    },
+    {
+      "id": "20221005_kapluupss81emsu03jlapo6d8s",
+      "status": "confirmed",
+      "summary": "World Teachers' Day",
+      "region": "Kiribati",
+      "date": "2022-10-05"
     },
     {
       "id": "20221211_4nu0unphcqboldu4oq790o2t4c",
@@ -32131,6 +32229,13 @@
       "summary": "Human Rights and Peace Day",
       "region": "Kiribati",
       "date": "2022-12-11"
+    },
+    {
+      "id": "20221212_fnteg6co3re4s7jmr4og7673ug",
+      "status": "confirmed",
+      "summary": "Day off for Human Rights and Peace Day",
+      "region": "Kiribati",
+      "date": "2022-12-12"
     },
     {
       "id": "20221225_atvrhtmfhufmkohicmg80hlba4",
@@ -32145,6 +32250,20 @@
       "summary": "Boxing Day",
       "region": "Kiribati",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221226_kun7ggc6dg2mnmlpbdl180em1c",
+      "status": "confirmed",
+      "summary": "Day off for Christmas Day",
+      "region": "Kiribati",
+      "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_6dhfud5i1vjue60prv3a23fgj4",
+      "status": "confirmed",
+      "summary": "Day off for Boxing Day",
+      "region": "Kiribati",
+      "date": "2022-12-27"
     }
   ],
   "Comoros": [
@@ -37085,7 +37204,7 @@
       "date": "2022-01-14"
     },
     {
-      "id": "20220118_nsga3sodku2rmogh86t5n5ghqs",
+      "id": "20220118_f3s8lb66sp900bc3jre0hn2clg",
       "status": "confirmed",
       "summary": "Thaipusam (regional holiday)",
       "region": "Malaysia",
@@ -39663,18 +39782,18 @@
       "date": "2021-05-13"
     },
     {
-      "id": "20210521_7nk846dcmtvtpurjjue6504gf8",
-      "status": "confirmed",
-      "summary": "Friday before Pentecost",
-      "region": "North Macedonia",
-      "date": "2021-05-21"
-    },
-    {
       "id": "20210524_c01fg6gvlhot7lq18iakqk5410",
       "status": "confirmed",
       "summary": "Saints Cyril and Methodius' Day",
       "region": "North Macedonia",
       "date": "2021-05-24"
+    },
+    {
+      "id": "20210618_sraniit1le1arfu8ialgksmugs",
+      "status": "confirmed",
+      "summary": "Friday before Pentecost",
+      "region": "North Macedonia",
+      "date": "2021-06-18"
     },
     {
       "id": "20210802_43726h7oh2nkqjlpc9jj31q558",
@@ -39831,18 +39950,18 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_t1ns08hip6gmrvg80h33bndiqk",
+      "id": "20220502_3im96fm8k8fa7q41kecj1sl37c",
       "status": "confirmed",
-      "summary": "Labor Day observed",
+      "summary": "Day off for Labor Day",
       "region": "North Macedonia",
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_difj8ls8a501i60safb4kd0ocg",
+      "id": "20220502_hav1tt8jrf9bf5mdh7vucn3l44",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "North Macedonia",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220524_u9e03iig09nf7jmh7nk292u1j4",
@@ -39852,11 +39971,11 @@
       "date": "2022-05-24"
     },
     {
-      "id": "20220603_t8vgu4lqv429ql1ajesckgris4",
+      "id": "20220610_9oj8d3dcn2ms7vqc7klfq6ecio",
       "status": "confirmed",
       "summary": "Friday before Pentecost",
       "region": "North Macedonia",
-      "date": "2022-06-03"
+      "date": "2022-06-10"
     },
     {
       "id": "20220802_v6lq2o8ivlh1ervkjrkal85sbk",
@@ -39894,9 +40013,9 @@
       "date": "2022-10-23"
     },
     {
-      "id": "20221024_oqdpothtrddf1vheghuci43cqs",
+      "id": "20221024_dfsdes2sjm6q4jmk1ll9rdp6b8",
       "status": "confirmed",
-      "summary": "Day of the Macedonian Revolutionary Struggle observed",
+      "summary": "Day off for Day of the Macedonian Revolutionary Struggle",
       "region": "North Macedonia",
       "date": "2022-10-24"
     },
@@ -40703,6 +40822,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220102_26jjufu9ithdc6boiigjfolsag",
+      "status": "confirmed",
+      "summary": "Kayin New Year Day",
+      "region": "Myanmar (Burma)",
+      "date": "2022-01-02"
+    },
+    {
       "id": "20220104_h8kf3e6ntmufcigcbsmunl5be4",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -40738,6 +40864,34 @@
       "date": "2022-03-27"
     },
     {
+      "id": "20220409_ak9g80jbmrtrrtpiu1j8feafgs",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2022-04-09"
+    },
+    {
+      "id": "20220410_63oou3kbriotgp9jkuffgejr90",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2022-04-10"
+    },
+    {
+      "id": "20220411_5i38odvaskqne8o3ep8573rf0s",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2022-04-11"
+    },
+    {
+      "id": "20220412_rib78muketknccv139rrqi4odo",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2022-04-12"
+    },
+    {
       "id": "20220413_1u0ljn4ss6obofcto6s6c3ema4",
       "status": "confirmed",
       "summary": "Maha Thingyan (Water Festival)",
@@ -40766,11 +40920,25 @@
       "date": "2022-04-16"
     },
     {
+      "id": "20220417_m66931uqp00b4peqg8kibhr4ss",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2022-04-17"
+    },
+    {
       "id": "20220501_fr3ree2a65nqg06lfnogvsihic",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
       "region": "Myanmar (Burma)",
       "date": "2022-05-01"
+    },
+    {
+      "id": "20220514_jpi1gtpfpl6p13lkp57ut19bts",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Kasong",
+      "region": "Myanmar (Burma)",
+      "date": "2022-05-14"
     },
     {
       "id": "20220710_7dk3p139rk43a9hh64q9jk7c9s",
@@ -40780,11 +40948,11 @@
       "date": "2022-07-10"
     },
     {
-      "id": "20220713_pqfk5d9jbkb41u4j5kaju424c8",
+      "id": "20220712_ig9jc6nkm3mviaogdnegcrr9g8",
       "status": "confirmed",
       "summary": "Full Moon Day of Waso (Beginning of Buddhist Lent)",
       "region": "Myanmar (Burma)",
-      "date": "2022-07-13"
+      "date": "2022-07-12"
     },
     {
       "id": "20220719_p8sarqankugfkiu3tbpl8jmntc",
@@ -40794,25 +40962,25 @@
       "date": "2022-07-19"
     },
     {
-      "id": "20221009_lc2c92bsiaf633rp717iqhdfv0",
+      "id": "20221008_1fjrhi2pt0tbuoqaou1roj8ivg",
       "status": "confirmed",
       "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
+      "region": "Myanmar (Burma)",
+      "date": "2022-10-08"
+    },
+    {
+      "id": "20221009_h011il7vv5lqai7rornmmjalhs",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Thadingyut (End of Buddhist Lent)",
       "region": "Myanmar (Burma)",
       "date": "2022-10-09"
     },
     {
-      "id": "20221010_0rq79gt0rfiq9v018pkq81i2ts",
-      "status": "confirmed",
-      "summary": "Full Moon Day of Thadingyut (End of Buddhist Lent)",
-      "region": "Myanmar (Burma)",
-      "date": "2022-10-10"
-    },
-    {
-      "id": "20221011_flugpmvg008m3nmqm8jd1if7a0",
+      "id": "20221010_6b05leafp80ruk6t95cg0slr80",
       "status": "confirmed",
       "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
       "region": "Myanmar (Burma)",
-      "date": "2022-10-11"
+      "date": "2022-10-10"
     },
     {
       "id": "20221024_dolnbr7uvdkraitnfatldj8040",
@@ -40822,25 +40990,32 @@
       "date": "2022-10-24"
     },
     {
-      "id": "20221108_7kjn9bii0opvasd42brihoh1u4",
+      "id": "20221106_j371jsii5s5ka41f52geb338k8",
       "status": "confirmed",
       "summary": "Full Moon Day of Tazaungmone",
       "region": "Myanmar (Burma)",
-      "date": "2022-11-08"
+      "date": "2022-11-06"
     },
     {
-      "id": "20221109_cehe4l4smag803cj9eujiaof58",
+      "id": "20221107_5err2ln7usnc3vqmk5ucpdgus8",
       "status": "confirmed",
       "summary": "Full Moon Day of Tazaungmone Holiday",
       "region": "Myanmar (Burma)",
-      "date": "2022-11-09"
+      "date": "2022-11-07"
     },
     {
-      "id": "20221118_na0dir6gkcu2mkrim6klcvacg0",
+      "id": "20221117_h7rk6ujp1ft2m78nv2f0l8p4sc",
       "status": "confirmed",
       "summary": "National Day",
       "region": "Myanmar (Burma)",
-      "date": "2022-11-18"
+      "date": "2022-11-17"
+    },
+    {
+      "id": "20221222_kmemi70t4t1opfnvrseq1quqb4",
+      "status": "confirmed",
+      "summary": "Kayin New Year Day",
+      "region": "Myanmar (Burma)",
+      "date": "2022-12-22"
     },
     {
       "id": "20221225_vcn1ulu5ir5hspd05cmurunp6g",
@@ -43397,6 +43572,13 @@
       "date": "2021-10-15"
     },
     {
+      "id": "20211224_hvo3fuvtomg0ej2vj26nb9hpro",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "Malawi",
+      "date": "2021-12-24"
+    },
+    {
       "id": "20211225_edlu6t7t61a9iln11e10useh90",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -43425,11 +43607,39 @@
       "date": "2021-12-28"
     },
     {
+      "id": "20211229_k8eu48j140vjf8486s72vjhud4",
+      "status": "confirmed",
+      "summary": "Civil Service Holiday",
+      "region": "Malawi",
+      "date": "2021-12-29"
+    },
+    {
+      "id": "20211230_kp0covr3n26rdvmt5b24deutqo",
+      "status": "confirmed",
+      "summary": "Civil Service Holiday",
+      "region": "Malawi",
+      "date": "2021-12-30"
+    },
+    {
+      "id": "20211231_9ka1g0f52tgt0vnbvgpiimk8ds",
+      "status": "confirmed",
+      "summary": "New Year's Eve",
+      "region": "Malawi",
+      "date": "2021-12-31"
+    },
+    {
       "id": "20220101_9dvncdsvldogug0v1o45g96d3c",
       "status": "confirmed",
       "summary": "New Year",
       "region": "Malawi",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220102_27q2ncb7vhp4jk8bi10qk0v04k",
+      "status": "confirmed",
+      "summary": "Civil Service Holiday",
+      "region": "Malawi",
+      "date": "2022-01-02"
     },
     {
       "id": "20220103_8pa7m2sm9rcnmecarhc111co0s",
@@ -45026,6 +45236,20 @@
       "date": "2021-12-26"
     },
     {
+      "id": "20211227_3tmbff4dpjnsqen3jce4kvk4ik",
+      "status": "confirmed",
+      "summary": "Day off for Christmas Day",
+      "region": "Nigeria",
+      "date": "2021-12-27"
+    },
+    {
+      "id": "20211228_9nn9am76r7qckdjhcvoe5qidp8",
+      "status": "confirmed",
+      "summary": "Day off for Boxing Day",
+      "region": "Nigeria",
+      "date": "2021-12-28"
+    },
+    {
       "id": "20211231_t4rc5k459o3s3ioq475r7ei8kg",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -45038,6 +45262,13 @@
       "summary": "New Year's Day",
       "region": "Nigeria",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220103_ip7o968e01f3gcdu234qo9m8og",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Nigeria",
+      "date": "2022-01-03"
     },
     {
       "id": "20220214_nha0bb226hc6hdcvur112u6bmc",
@@ -47795,6 +48026,13 @@
       "date": "2021-12-26"
     },
     {
+      "id": "20211227_al34108akr07er7upum6im73b4",
+      "status": "confirmed",
+      "summary": "Day off for Boxing Day",
+      "region": "Papua New Guinea",
+      "date": "2021-12-27"
+    },
+    {
       "id": "20220101_3n1thpsgi0fcos5o8ko0bt3hgg",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -49830,6 +50068,13 @@
       "date": "2021-02-16"
     },
     {
+      "id": "20210218_i6hb67kccf0mu3nvqq4vehmvjo",
+      "status": "confirmed",
+      "summary": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
+      "region": "Puerto Rico",
+      "date": "2021-02-18"
+    },
+    {
       "id": "20210402_5415a24u7o8ovm53h9pd88ncso",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -49926,6 +50171,13 @@
       "summary": "Valentine's Day",
       "region": "Puerto Rico",
       "date": "2022-02-14"
+    },
+    {
+      "id": "20220218_aqobrtd66tiuth9bkmkmjlfu44",
+      "status": "confirmed",
+      "summary": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
+      "region": "Puerto Rico",
+      "date": "2022-02-18"
     },
     {
       "id": "20220301_23meptmsasgs104545ifgb9okc",
@@ -51396,9 +51648,9 @@
       "date": "2021-05-13"
     },
     {
-      "id": "20210628_m0mif0cirghmet257oj4vti6uc",
+      "id": "20210628_geddovcedmu98l2gfj2dhfjaig",
       "status": "confirmed",
-      "summary": "St Vitus Day",
+      "summary": "St Vitus' Day",
       "region": "Serbia",
       "date": "2021-06-28"
     },
@@ -51571,18 +51823,18 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_278eksetpb6fdc5ud0j3opp2v4",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "Serbia",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220502_3srqjk10ukd76robaoi6prf6l8",
       "status": "confirmed",
       "summary": "Day off for Labor holiday",
       "region": "Serbia",
       "date": "2022-05-02"
-    },
-    {
-      "id": "20220503_3b2dq4i2o9ehj4iq1lfbuo3h6g",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr",
-      "region": "Serbia",
-      "date": "2022-05-03"
     },
     {
       "id": "20220503_5p2r6cq2mbsl3ng22iitkctf2s",
@@ -51599,18 +51851,18 @@
       "date": "2022-05-09"
     },
     {
-      "id": "20220628_mmoh53vnc1r3oe1esdnik8q1q8",
+      "id": "20220628_u4lla2oju72a1pjpsrie8u5e0c",
       "status": "confirmed",
-      "summary": "St Vitus Day",
+      "summary": "St Vitus' Day",
       "region": "Serbia",
       "date": "2022-06-28"
     },
     {
-      "id": "20220710_dph4v0e4ooa4544vpvjc57em84",
+      "id": "20220709_80pb7hump8hbkom936rrpdntec",
       "status": "confirmed",
       "summary": "First Day of Eid al-Adha",
       "region": "Serbia",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20221005_mq5n6tdshklgh2f74dcech1suk",
@@ -56190,13 +56442,6 @@
       "date": "2022-04-17"
     },
     {
-      "id": "20220418_4gpuppg23qlbkbbn63v9sbuql0",
-      "status": "confirmed",
-      "summary": "Whit Monday (Catalonia)",
-      "region": "Spain",
-      "date": "2022-04-18"
-    },
-    {
       "id": "20220418_h5j2oh9cm0ibhhkh0smj9r7jp0",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
@@ -56300,6 +56545,13 @@
       "summary": "Whit Sunday/Pentecost",
       "region": "Spain",
       "date": "2022-06-05"
+    },
+    {
+      "id": "20220606_2jhb3juivueb1bl2jlk8hrj7dg",
+      "status": "confirmed",
+      "summary": "Whit Monday (Catalonia)",
+      "region": "Spain",
+      "date": "2022-06-06"
     },
     {
       "id": "20220609_j29boa3742aag9opisiigbu5ac",
@@ -58206,16 +58458,16 @@
       "date": "2021-04-04"
     },
     {
-      "id": "20210417_pppvirms3dse1lrltbsjkhkqg8",
+      "id": "20210417_0qa3gtumsgo473lofs681hrgk0",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Evacuation Day",
       "region": "Syria",
       "date": "2021-04-17"
     },
     {
-      "id": "20210501_srb8dg3dfsle8i4qfeiusfgg2c",
+      "id": "20210501_h8iah2dnn99kl38s9ajr7gl9o8",
       "status": "confirmed",
-      "summary": "May Day",
+      "summary": "Labor Day",
       "region": "Syria",
       "date": "2021-05-01"
     },
@@ -58318,9 +58570,9 @@
       "date": "2022-03-25"
     },
     {
-      "id": "20220417_nembaifd8tbf3m5phv6h9tgi2c",
+      "id": "20220417_0c67g5re2hlli4517erejtu480",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Evacuation Day",
       "region": "Syria",
       "date": "2022-04-17"
     },
@@ -58339,9 +58591,9 @@
       "date": "2022-04-24"
     },
     {
-      "id": "20220501_r0s9gvpf403vos04bqb9oduuvs",
+      "id": "20220501_qc5m29cqjq6jj6n96vl2dev41s",
       "status": "confirmed",
-      "summary": "May Day",
+      "summary": "Labor Day",
       "region": "Syria",
       "date": "2022-05-01"
     },
@@ -58495,6 +58747,13 @@
       "date": "2021-09-06"
     },
     {
+      "id": "20211222_fgrvl0ecmv6op45c4mu3qietuc",
+      "status": "confirmed",
+      "summary": "Incwala Day",
+      "region": "Eswatini",
+      "date": "2021-12-22"
+    },
+    {
       "id": "20211225_jte7l8t94mgsj9noh623ubpsus",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -58514,13 +58773,6 @@
       "summary": "Day off for Boxing Day",
       "region": "Eswatini",
       "date": "2021-12-27"
-    },
-    {
-      "id": "20211228_sveu1163ulb1p26utlvv5rs7n4",
-      "status": "confirmed",
-      "summary": "Incwala Day",
-      "region": "Eswatini",
-      "date": "2021-12-28"
     },
     {
       "id": "20220101_kvhj24qs1t5i0tml6976cvrr4s",
@@ -61334,13 +61586,6 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220114_bffbe2uia18g4ceg2jklsg0qoo",
-      "status": "confirmed",
-      "summary": "Revolution and Youth Day",
-      "region": "Tunisia",
-      "date": "2022-01-14"
-    },
-    {
       "id": "20220320_1741v2vj5ajl28d8s639u30jlc",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -61430,6 +61675,13 @@
       "summary": "Evacuation Day",
       "region": "Tunisia",
       "date": "2022-10-15"
+    },
+    {
+      "id": "20221217_rpn1uegbca70ns0qu0kirpad3c",
+      "status": "confirmed",
+      "summary": "Revolution and Youth Day",
+      "region": "Tunisia",
+      "date": "2022-12-17"
     }
   ],
   "Tonga": [
@@ -61642,20 +61894,6 @@
       "summary": "Boxing Day",
       "region": "Tonga",
       "date": "2022-12-26"
-    },
-    {
-      "id": "20221226_ccmvn52bvhs8g2ohtetqb21tr0",
-      "status": "confirmed",
-      "summary": "Day off for Christmas Day",
-      "region": "Tonga",
-      "date": "2022-12-26"
-    },
-    {
-      "id": "20221227_cb2t0bu30urm0b9tsbslt7mq7o",
-      "status": "confirmed",
-      "summary": "Day off for Boxing Day",
-      "region": "Tonga",
-      "date": "2022-12-27"
     }
   ],
   "Trinidad & Tobago": [
@@ -62026,7 +62264,7 @@
       "date": "2021-05-01"
     },
     {
-      "id": "20210512_gg21quiide5vinf7737higpcio",
+      "id": "20210512_snu776alrr58ev2oj7jrknq6lk",
       "status": "confirmed",
       "summary": "Ramadan Feast Eve",
       "region": "Turkey",
@@ -62082,23 +62320,23 @@
       "date": "2021-07-20"
     },
     {
-      "id": "20210721_ja002f0ua6m7c09a38l02s8sc8",
+      "id": "20210721_6ns1p58thegbs3j8mhqkbjf0ik",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Day 2",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2021-07-21"
     },
     {
-      "id": "20210722_4svckrm4dq6a0099jqk1unid24",
+      "id": "20210722_7tuv5uqred05tn76u0uod914s0",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Day 3",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2021-07-22"
     },
     {
-      "id": "20210723_1mntmesvk0295k8hhfn0qjvjl0",
+      "id": "20210723_010s8cebjgt5ngi9kisv6rummk",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Day 4",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2021-07-23"
     },
@@ -62159,16 +62397,23 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_876o1u1tq7lmmr2na87m3a2rvk",
+      "id": "20220501_bs9dufivgj0uro1thj3k0h3kd8",
       "status": "confirmed",
       "summary": "Ramadan Feast Eve",
+      "region": "Turkey",
+      "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_5cbnde7e5m8nmnhpudm1pqn5lc",
+      "status": "confirmed",
+      "summary": "Ramadan Feast",
       "region": "Turkey",
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_3st332i7kbk97qi0bglcj0ik14",
+      "id": "20220503_v1egs7kll3d5ea7s6q2jfk4o9k",
       "status": "confirmed",
-      "summary": "Ramadan Feast",
+      "summary": "Ramadan Feast Holiday",
       "region": "Turkey",
       "date": "2022-05-03"
     },
@@ -62180,13 +62425,6 @@
       "date": "2022-05-04"
     },
     {
-      "id": "20220505_p74ec11c1fosrf977d8nnt1emo",
-      "status": "confirmed",
-      "summary": "Ramadan Feast Holiday",
-      "region": "Turkey",
-      "date": "2022-05-05"
-    },
-    {
       "id": "20220519_sjg8eqh4g0jp027i892bsku2og",
       "status": "confirmed",
       "summary": "Commemoration of Atatürk, Youth and Sports Day",
@@ -62194,39 +62432,39 @@
       "date": "2022-05-19"
     },
     {
-      "id": "20220709_3l078p7thp75c8sj648rapv76c",
+      "id": "20220708_r7lqp45h233d1tltc5nm1b5378",
       "status": "confirmed",
       "summary": "Sacrifice Feast Eve",
+      "region": "Turkey",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_s9e243dhuakb4v57hhtv60ecog",
+      "status": "confirmed",
+      "summary": "Sacrifice Feast",
       "region": "Turkey",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_3e49f3d8l36l4o5b09ragn30g4",
+      "id": "20220710_jnn3957ji1dntgqh4e22kmur90",
       "status": "confirmed",
-      "summary": "Sacrifice Feast",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2022-07-10"
     },
     {
-      "id": "20220711_0na52m1d0o693b9oa41nu84idk",
+      "id": "20220711_ss3ese6cj39t428023u0k1ssic",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Day 2",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2022-07-11"
     },
     {
-      "id": "20220712_r6dll2e256486ekh81qvcbkb7k",
+      "id": "20220712_98uh708gdonjphq86o5h24h0hk",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Day 3",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2022-07-12"
-    },
-    {
-      "id": "20220713_ghd4qga4s2tf7f636ovqgcl8l8",
-      "status": "confirmed",
-      "summary": "Sacrifice Feast Day 4",
-      "region": "Turkey",
-      "date": "2022-07-13"
     },
     {
       "id": "20220715_fsmh45h5g7tevlrfaoaee1ftk4",
@@ -65893,6 +66131,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220103_b1q05dcdaf4g1dg1pug8ivingo",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "British Virgin Islands",
+      "date": "2022-01-03"
+    },
+    {
       "id": "20220307_2hj13n9mhl46efj8psu344768o",
       "status": "confirmed",
       "summary": "Lavity Stoutt's Birthday",
@@ -65921,18 +66166,18 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220611_5vff6mskd1ffhcold150bn0dug",
+      "id": "20220610_qla3f52thvsih37brasb8gq94o",
       "status": "confirmed",
       "summary": "Sovereign's Birthday",
       "region": "British Virgin Islands",
-      "date": "2022-06-11"
+      "date": "2022-06-10"
     },
     {
-      "id": "20220701_k49u0jtk6nm7980nnh3fp3ftng",
+      "id": "20220704_no505a7hohgr00549b82288f9g",
       "status": "confirmed",
       "summary": "Virgin Islands Day",
       "region": "British Virgin Islands",
-      "date": "2022-07-01"
+      "date": "2022-07-04"
     },
     {
       "id": "20220801_g0med98hrkms4jotnr7f6la20o",
@@ -65970,11 +66215,11 @@
       "date": "2022-10-21"
     },
     {
-      "id": "20221114_tmmje74519p1ukhfra9buh2800",
+      "id": "20221128_ggth32b66clom8j5gg533ofegc",
       "status": "confirmed",
       "summary": "The Great March of 1949 and Restoration Day",
       "region": "British Virgin Islands",
-      "date": "2022-11-14"
+      "date": "2022-11-28"
     },
     {
       "id": "20221225_j3j09scuvt8t0af7354pi6m738",
@@ -65991,16 +66236,9 @@
       "date": "2022-12-26"
     },
     {
-      "id": "20221226_8h6crtndetpjtcdmc1d1enfv5g",
+      "id": "20221227_cl80lv0pnh5q50vv81dfvbkfl4",
       "status": "confirmed",
       "summary": "Day off for Christmas Day",
-      "region": "British Virgin Islands",
-      "date": "2022-12-26"
-    },
-    {
-      "id": "20221227_50qnb4j3e30neukedp0svcpgn4",
-      "status": "confirmed",
-      "summary": "Day off for Boxing Day",
       "region": "British Virgin Islands",
       "date": "2022-12-27"
     }
@@ -66336,11 +66574,11 @@
       "date": "2022-11-11"
     },
     {
-      "id": "20221201_bh5vs4bsv14f8fhfk6ev5cd6os",
+      "id": "20221124_nhlcbkjuolb5og381luhq1a6h8",
       "status": "confirmed",
       "summary": "Thanksgiving Day",
       "region": "U.S. Virgin Islands",
-      "date": "2022-12-01"
+      "date": "2022-11-24"
     },
     {
       "id": "20221225_68edhjg7q5gvpmq23ehghv5h28",
