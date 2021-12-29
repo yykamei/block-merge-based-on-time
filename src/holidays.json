@@ -10630,14 +10630,14 @@
       "date": "2021-04-02"
     },
     {
-      "id": "20210404_o6d0sjcbjiqms728uifegdnevg",
+      "id": "20210404_4ngek7m5v4rs5q3hv0rbbfj8k4",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
       "date": "2021-04-04"
     },
     {
-      "id": "20210405_46gs24o78oousuvt5irdvepso8",
+      "id": "20210405_m4d8pgil0cj39132lnankipff0",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -10840,7 +10840,7 @@
       "date": "2021-11-07"
     },
     {
-      "id": "20211111_jr2b4m61k6uaskfq6fnei5mdrs",
+      "id": "20211111_c2assmbes85e1inc3cuonl4874",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -10854,7 +10854,7 @@
       "date": "2021-12-11"
     },
     {
-      "id": "20211224_c46nmfidu7mn1odmdklsgf5pus",
+      "id": "20211224_28e2bicg01f292cc80bj7aijqc",
       "status": "confirmed",
       "summary": "Christmas Eve (New Brunswick)",
       "region": "Canada",
@@ -10875,16 +10875,16 @@
       "date": "2021-12-26"
     },
     {
-      "id": "20211227_aqrc67r4ig9ofatsjkf98la1cs",
+      "id": "20211227_uusgk11efs3dflp5o15a3lls28",
       "status": "confirmed",
-      "summary": "Boxing Day (regional holiday)",
+      "summary": "Day off for Christmas Day (regional holiday)",
       "region": "Canada",
       "date": "2021-12-27"
     },
     {
-      "id": "20211228_grr9mtkko841r4eu3bs78v0g58",
+      "id": "20211228_0fanfov2an88uv2k7oekrt5jag",
       "status": "confirmed",
-      "summary": "Boxing Day (Nunavut)",
+      "summary": "Day off for Boxing Day (Ontario)",
       "region": "Canada",
       "date": "2021-12-28"
     },
@@ -10908,6 +10908,13 @@
       "summary": "Day After New Year’s Day (Quebec)",
       "region": "Canada",
       "date": "2022-01-02"
+    },
+    {
+      "id": "20220103_seljc35c62aelohe0dkq5qfp4g",
+      "status": "confirmed",
+      "summary": "New Year's Day Holiday (Nunavut)",
+      "region": "Canada",
+      "date": "2022-01-03"
     },
     {
       "id": "20220106_77aptd9nntet0kll2pqbf5kkk8",
@@ -11015,7 +11022,7 @@
       "date": "2022-04-15"
     },
     {
-      "id": "20220417_t4h8lb9sm6eb1qg5r81tito07c",
+      "id": "20220417_p80b814fde1o0h335pgam3j9gc",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
@@ -11211,7 +11218,7 @@
       "date": "2022-11-06"
     },
     {
-      "id": "20221111_pelo1dnq05c6rpn888o008o42k",
+      "id": "20221111_moh1p4vbq5glub2jku8mpsdi0o",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -11225,7 +11232,7 @@
       "date": "2022-12-11"
     },
     {
-      "id": "20221224_g479r5dh56jujbvmpab56h4j10",
+      "id": "20221224_sbifh9oirp6j2o6sc9ulsreilc",
       "status": "confirmed",
       "summary": "Christmas Eve (New Brunswick)",
       "region": "Canada",
@@ -11239,18 +11246,18 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_jfsqrarvc4lld2qns21l354c3s",
+      "id": "20221226_39clmf99lqlnh6p3iernfvpjv8",
       "status": "confirmed",
-      "summary": "Boxing Day (regional holiday)",
+      "summary": "Day off for Boxing Day (Saskatchewan)",
       "region": "Canada",
       "date": "2022-12-26"
     },
     {
-      "id": "20221227_eugfmchrvbfsnsqmuam2p79cgk",
+      "id": "20221226_6t5ki0np8062fr20u7au25g6v8",
       "status": "confirmed",
-      "summary": "Boxing Day (New Brunswick)",
+      "summary": "Boxing Day (regional holiday)",
       "region": "Canada",
-      "date": "2022-12-27"
+      "date": "2022-12-26"
     },
     {
       "id": "20221231_rv8okjk3ikov69q80nqcvkaius",
@@ -49259,6 +49266,13 @@
       "date": "2021-05-26"
     },
     {
+      "id": "20210601_ol2p8ev5spq0ursr2e1o1p4c30",
+      "status": "confirmed",
+      "summary": "Children’s Day",
+      "region": "Poland",
+      "date": "2021-06-01"
+    },
+    {
       "id": "20210603_4fjjhk8cia03t2bj4d3ipflb3o",
       "status": "confirmed",
       "summary": "Corpus Christi",
@@ -49404,6 +49418,13 @@
       "summary": "Mother's Day",
       "region": "Poland",
       "date": "2022-05-26"
+    },
+    {
+      "id": "20220601_l7i6f3gi7ngp5anf8n5nlpmo4g",
+      "status": "confirmed",
+      "summary": "Children’s Day",
+      "region": "Poland",
+      "date": "2022-06-01"
     },
     {
       "id": "20220605_cqdb33ht6fkvsnrictc010ri68",
