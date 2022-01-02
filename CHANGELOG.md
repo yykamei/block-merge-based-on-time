@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+## [v1.2.26](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.26) (2022-01-02)
 
-[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.25...HEAD)
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.25...v1.2.26)
 
 **Implemented enhancements:**
 
