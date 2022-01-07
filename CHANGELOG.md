@@ -1,13 +1,5 @@
 # Changelog
 
-## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
-
-[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.27...HEAD)
-
-**Merged pull requests:**
-
-- Bump jest from 27.4.5 to 27.4.7 [\#570](https://github.com/yykamei/block-merge-based-on-time/pull/570) ([dependabot[bot]](https://github.com/apps/dependabot))
-
 ## [v1.2.27](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.27) (2022-01-06)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.26...v1.2.27)
@@ -381,15 +373,10 @@
 **Implemented enhancements:**
 
 - Update Holidays in Australia, Bangladesh [\#383](https://github.com/yykamei/block-merge-based-on-time/pull/383) ([github-actions[bot]](https://github.com/apps/github-actions))
-- Update Holidays in Fiji [\#369](https://github.com/yykamei/block-merge-based-on-time/pull/369) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 **Merged pull requests:**
 
 - Bump ts-jest from 27.0.5 to 27.0.6 [\#376](https://github.com/yykamei/block-merge-based-on-time/pull/376) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 16.10.3 to 16.11.0 [\#375](https://github.com/yykamei/block-merge-based-on-time/pull/375) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump jest from 27.2.4 to 27.2.5 [\#373](https://github.com/yykamei/block-merge-based-on-time/pull/373) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump ts-node from 10.2.1 to 10.3.0 [\#372](https://github.com/yykamei/block-merge-based-on-time/pull/372) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump typescript from 4.4.3 to 4.4.4 [\#371](https://github.com/yykamei/block-merge-based-on-time/pull/371) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.1.46](https://github.com/yykamei/block-merge-based-on-time/tree/v1.1.46) (2021-10-13)
 
