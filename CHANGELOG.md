@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.28...HEAD)
+
+**Merged pull requests:**
+
+- Bump luxon from 2.2.0 to 2.3.0 [\#572](https://github.com/yykamei/block-merge-based-on-time/pull/572) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.2.28](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.28) (2022-01-08)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.27...v1.2.28)
