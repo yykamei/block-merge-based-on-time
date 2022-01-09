@@ -2849,7 +2849,7 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220103_afgc2sh8nb6j7he7crsecnbcb4",
+      "id": "20220103_o1bl31s32c7121fgmo134lor5k",
       "status": "confirmed",
       "summary": "Day off for New Year's Day (regional holiday)",
       "region": "Australia",
@@ -2884,16 +2884,16 @@
       "date": "2022-02-14"
     },
     {
-      "id": "20220306_k5s88ki191vmer3ac7bvcule08",
+      "id": "20220306_4mgtbo6v5tclmcdt3vjefqdru8",
       "status": "confirmed",
-      "summary": "Foundation Day (Norfolk Island)",
+      "summary": "Foundation Day",
       "region": "Australia",
       "date": "2022-03-06"
     },
     {
-      "id": "20220307_ebnp1ushohld4k8010mghfa280",
+      "id": "20220307_2vafm8umg3eqk3u0gkcbq7uifk",
       "status": "confirmed",
-      "summary": "Day off for Foundation Day (Norfolk Island)",
+      "summary": "Day off for Foundation Day",
       "region": "Australia",
       "date": "2022-03-07"
     },
@@ -3038,14 +3038,14 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220608_hv57sgih4n6bps3ucqgcfp3ti4",
+      "id": "20220608_5l7oc44n4kli2kheirn7edbqdo",
       "status": "confirmed",
-      "summary": "Bounty Day (Norfolk Island)",
+      "summary": "Bounty Day",
       "region": "Australia",
       "date": "2022-06-08"
     },
     {
-      "id": "20220613_lobovq0k1d952nti9k5v02eaic",
+      "id": "20220613_ajgear9daaip4adsvatoeoujgs",
       "status": "confirmed",
       "summary": "Queen's Birthday (regional holiday)",
       "region": "Australia",
@@ -3136,9 +3136,9 @@
       "date": "2022-10-08"
     },
     {
-      "id": "20221010_4mv04ldp5l7l57sirfhru2dg5g",
+      "id": "20221010_shjqb36esjkfi2lqft27un67cs",
       "status": "confirmed",
-      "summary": "Norfolk Island Agricultural Show Day (Norfolk Island)",
+      "summary": "Norfolk Island Agricultural Show Day",
       "region": "Australia",
       "date": "2022-10-10"
     },
@@ -3185,9 +3185,9 @@
       "date": "2022-11-11"
     },
     {
-      "id": "20221130_ann2dkfd47pt6ft2rekl5qkhc4",
+      "id": "20221130_lmpbf9v6bomtb3j4p3uv677bsk",
       "status": "confirmed",
-      "summary": "Thanksgiving Day (Norfolk Island)",
+      "summary": "Thanksgiving Day",
       "region": "Australia",
       "date": "2022-11-30"
     },
@@ -3227,16 +3227,16 @@
       "date": "2022-12-26"
     },
     {
-      "id": "20221227_2h0g84pn3hravqftv0ab0eakms",
+      "id": "20221227_0oi225ghqnitld69ee75kfnbl4",
       "status": "confirmed",
-      "summary": "Christmas Day Observed (regional holiday)",
+      "summary": "Boxing Day Observed (regional holiday)",
       "region": "Australia",
       "date": "2022-12-27"
     },
     {
-      "id": "20221227_74e0v5lbh6u85ctt5c95kmsa5c",
+      "id": "20221227_2h0g84pn3hravqftv0ab0eakms",
       "status": "confirmed",
-      "summary": "Boxing Day Observed (regional holiday)",
+      "summary": "Christmas Day Observed (regional holiday)",
       "region": "Australia",
       "date": "2022-12-27"
     },
@@ -3262,7 +3262,7 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_h90iqrdc2gimbvn83eiv4tspkk",
+      "id": "20230102_v2cq7nq08mu0m1b3qaptjnrdf8",
       "status": "confirmed",
       "summary": "Day off for New Year's Day (regional holiday)",
       "region": "Australia",
@@ -3304,9 +3304,9 @@
       "date": "2023-03-06"
     },
     {
-      "id": "20230306_mjp1fjffc1c3vaf9p5fp8pm2mg",
+      "id": "20230306_v9dh8b6bu6ro51ncrgqfq71kq8",
       "status": "confirmed",
-      "summary": "Foundation Day (Norfolk Island)",
+      "summary": "Foundation Day",
       "region": "Australia",
       "date": "2023-03-06"
     },
@@ -3451,14 +3451,14 @@
       "date": "2023-06-05"
     },
     {
-      "id": "20230608_v4kdeu9ptn919eeont2co2ee6o",
+      "id": "20230608_f4neev73s2a325mb4iunofb7uc",
       "status": "confirmed",
-      "summary": "Bounty Day (Norfolk Island)",
+      "summary": "Bounty Day",
       "region": "Australia",
       "date": "2023-06-08"
     },
     {
-      "id": "20230612_aumibsm2pr27u71e0v9hfkd438",
+      "id": "20230612_uh73nme4pmjjah2inmjklva9pk",
       "status": "confirmed",
       "summary": "Queen's Birthday (regional holiday)",
       "region": "Australia",
@@ -3542,9 +3542,9 @@
       "date": "2023-10-02"
     },
     {
-      "id": "20231009_628vatnnequ2cf0eeq14lablpk",
+      "id": "20231009_r938d2r2ngbnbk2aa60ktop774",
       "status": "confirmed",
-      "summary": "Norfolk Island Agricultural Show Day (Norfolk Island)",
+      "summary": "Norfolk Island Agricultural Show Day",
       "region": "Australia",
       "date": "2023-10-09"
     },
@@ -3584,9 +3584,9 @@
       "date": "2023-11-11"
     },
     {
-      "id": "20231129_ehdvej07a8v67r9vpavkn1d1ks",
+      "id": "20231129_910hpvgh3fph42d0f1hos8mlak",
       "status": "confirmed",
-      "summary": "Thanksgiving Day (Norfolk Island)",
+      "summary": "Thanksgiving Day",
       "region": "Australia",
       "date": "2023-11-29"
     },
@@ -10133,9 +10133,9 @@
       "date": "2022-01-02"
     },
     {
-      "id": "20220103_seljc35c62aelohe0dkq5qfp4g",
+      "id": "20220103_3qvo5ilon0ehmu1qndkfo4cdtc",
       "status": "confirmed",
-      "summary": "New Year's Day Holiday (Nunavut)",
+      "summary": "Day off for New Year's Day",
       "region": "Canada",
       "date": "2022-01-03"
     },
@@ -10504,6 +10504,13 @@
       "date": "2023-01-02"
     },
     {
+      "id": "20230102_ot7fpq76h8jk5b5peg3or0kjgg",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Canada",
+      "date": "2023-01-02"
+    },
+    {
       "id": "20230106_thtk7g1316ifrr471tug90d8c4",
       "status": "confirmed",
       "summary": "Epiphany",
@@ -10602,7 +10609,7 @@
       "date": "2023-04-07"
     },
     {
-      "id": "20230409_h1a1htc4uih867324bt5icdh8k",
+      "id": "20230409_bb9tn5hjtn0f9djkmjh4ocvq78",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
@@ -44667,6 +44674,13 @@
       "date": "2022-01-09"
     },
     {
+      "id": "20220110_8jjiom4f8uvtn2pooqbeaa8ntc",
+      "status": "confirmed",
+      "summary": "Day off for Martyr's Day",
+      "region": "Panama",
+      "date": "2022-01-10"
+    },
+    {
       "id": "20220226_g16kgf6v8lbidohrtglflsfe08",
       "status": "confirmed",
       "summary": "Carnival",
@@ -44686,6 +44700,13 @@
       "summary": "Carnival / Shrove Tuesday",
       "region": "Panama",
       "date": "2022-03-01"
+    },
+    {
+      "id": "20220403_cgg3sk23c7boum5m8s8upinnvk",
+      "status": "confirmed",
+      "summary": "Holy Saturday",
+      "region": "Panama",
+      "date": "2022-04-03"
     },
     {
       "id": "20220415_hredi60g50j23f95vqf1k13nj4",
@@ -44709,9 +44730,9 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_t5p5950ddu822qsmcguqle0mjs",
+      "id": "20220502_bfqhk88ck4rgmvqqbcg5cbkc74",
       "status": "confirmed",
-      "summary": "Labor Day / May Day observed",
+      "summary": "Day off for Labor Day / May Day",
       "region": "Panama",
       "date": "2022-05-02"
     },
@@ -44758,6 +44779,13 @@
       "date": "2022-12-08"
     },
     {
+      "id": "20221224_61vu1gieff7f2eno04t5a3o2ik",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "Panama",
+      "date": "2022-12-24"
+    },
+    {
       "id": "20221225_ck5880n1mfodhi5j2n9hiqjm48",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -44765,11 +44793,18 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_kl5ooacfk0m1r9b3pavff9g8pg",
+      "id": "20221226_255uo6nqpu4dh200r1g4vvssdk",
       "status": "confirmed",
-      "summary": "Christmas Day observed",
+      "summary": "Day off for Christmas Day",
       "region": "Panama",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221231_u0vjmkt6fsclp8nks5gagshcug",
+      "status": "confirmed",
+      "summary": "New Year's Eve",
+      "region": "Panama",
+      "date": "2022-12-31"
     },
     {
       "id": "20230101_7lq074vnonormo16rbhev9eou8",
@@ -63013,9 +63048,16 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220103_qmislqo2s7r68gs8b70cfiht44",
+      "id": "20220102_4t2khnc8uon5cf1oarighbltq0",
       "status": "confirmed",
-      "summary": "International New Year's Day observed",
+      "summary": "New Year's Day Holiday",
+      "region": "Vietnam",
+      "date": "2022-01-02"
+    },
+    {
+      "id": "20220103_eivjps71rbmqo7hqs9ej9olk7s",
+      "status": "confirmed",
+      "summary": "Day off for International New Year's Day",
       "region": "Vietnam",
       "date": "2022-01-03"
     },
@@ -63069,6 +63111,13 @@
       "date": "2022-04-10"
     },
     {
+      "id": "20220411_4h9trnshohkf4nkibf4dus2pkg",
+      "status": "confirmed",
+      "summary": "Day off for Hung Kings Festival",
+      "region": "Vietnam",
+      "date": "2022-04-11"
+    },
+    {
       "id": "20220430_c5tg2k200k0mmv6pe8qciep6v8",
       "status": "confirmed",
       "summary": "Liberation Day/Reunification Day",
@@ -63083,18 +63132,25 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_bdp2tpe6tdh6p1dhcga6036cuk",
+      "id": "20220502_frnl5hlal7mdnmbl834tq3hq5s",
       "status": "confirmed",
-      "summary": "Liberation Day/Reunification Day observed",
+      "summary": "Day off for Liberation Day/Reunification Day",
       "region": "Vietnam",
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_o1s377vjjt93lcv8jgeuejnbqc",
+      "id": "20220503_19e24d65q52bsek8ta6d5vp2hc",
       "status": "confirmed",
-      "summary": "International Labor Day observed",
+      "summary": "Day off for International Labor Day",
       "region": "Vietnam",
       "date": "2022-05-03"
+    },
+    {
+      "id": "20220901_8rt3js0r5pqgmbn628dtajign4",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Vietnam",
+      "date": "2022-09-01"
     },
     {
       "id": "20220902_s0gqvngnsqura828ddvlsccej0",
@@ -63132,9 +63188,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_4442lnhvuvpmo6l736aq0o4fvs",
+      "id": "20230102_gs8blkpjnvfbo9736vhoc97tro",
       "status": "confirmed",
-      "summary": "International New Year's Day observed",
+      "summary": "Day off for International New Year's Day",
       "region": "Vietnam",
       "date": "2023-01-02"
     },
@@ -63202,16 +63258,16 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230501_nv4sc68vt0535tu4ce0b406u34",
+      "id": "20230501_njg9rsfvhrhld4onuuthu1e1go",
       "status": "confirmed",
-      "summary": "Liberation Day/Reunification Day observed",
+      "summary": "Day off for Liberation Day/Reunification Day",
       "region": "Vietnam",
       "date": "2023-05-01"
     },
     {
-      "id": "20230502_1j2rbub3spn3lnur0dlil42jio",
+      "id": "20230502_j851jvbosqim233mtksucemhq8",
       "status": "confirmed",
-      "summary": "International Labor Day observed",
+      "summary": "Day off for International Labor Day",
       "region": "Vietnam",
       "date": "2023-05-02"
     },
