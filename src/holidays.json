@@ -8938,6 +8938,132 @@
       "summary": "National Day",
       "region": "Bhutan",
       "date": "2022-12-17"
+    },
+    {
+      "id": "20230102_bhs2e63ofi87anc3g6ucs15pnc",
+      "status": "confirmed",
+      "summary": "Winter Solstice (Nyilo)",
+      "region": "Bhutan",
+      "date": "2023-01-02"
+    },
+    {
+      "id": "20230122_7v30b30a5i8tas8sii5nav93l8",
+      "status": "confirmed",
+      "summary": "Traditional Day of Offerings",
+      "region": "Bhutan",
+      "date": "2023-01-22"
+    },
+    {
+      "id": "20230221_774djrn230lvt3i26ubpn6vka8",
+      "status": "confirmed",
+      "summary": "King's Birthday",
+      "region": "Bhutan",
+      "date": "2023-02-21"
+    },
+    {
+      "id": "20230221_joq8290g4orcmtaf0p6jmhsnq0",
+      "status": "confirmed",
+      "summary": "Losar (New Year)",
+      "region": "Bhutan",
+      "date": "2023-02-21"
+    },
+    {
+      "id": "20230222_6fqoosi6eroi9lq3otbetb76h0",
+      "status": "confirmed",
+      "summary": "King's Birthday Holiday",
+      "region": "Bhutan",
+      "date": "2023-02-22"
+    },
+    {
+      "id": "20230222_s4b9sa6m926ufsnfv30iq643jc",
+      "status": "confirmed",
+      "summary": "Losar Holiday",
+      "region": "Bhutan",
+      "date": "2023-02-22"
+    },
+    {
+      "id": "20230223_3csc6pgjjh08gno0c14tajmmug",
+      "status": "confirmed",
+      "summary": "King's Birthday Holiday",
+      "region": "Bhutan",
+      "date": "2023-02-23"
+    },
+    {
+      "id": "20230430_o2bt1fv66rkjofmfbnm76ohnvg",
+      "status": "confirmed",
+      "summary": "Death Anniversary of Zhabdrung (Zhabdrung Kuchoe)",
+      "region": "Bhutan",
+      "date": "2023-04-30"
+    },
+    {
+      "id": "20230502_1k044konmnqp3b70johh70kc7k",
+      "status": "confirmed",
+      "summary": "Birth Anniversary of Third Druk Gyalpo",
+      "region": "Bhutan",
+      "date": "2023-05-02"
+    },
+    {
+      "id": "20230604_losetav9s4gtsqd2gvc0pp353o",
+      "status": "confirmed",
+      "summary": "Buddha's Parinirvana",
+      "region": "Bhutan",
+      "date": "2023-06-04"
+    },
+    {
+      "id": "20230628_udiptlf0uns4iqc2d1nihaeutg",
+      "status": "confirmed",
+      "summary": "Birth Anniversary of Guru Rinpoche",
+      "region": "Bhutan",
+      "date": "2023-06-28"
+    },
+    {
+      "id": "20230721_d183c3d9uso3g107ao7lcpk2fk",
+      "status": "confirmed",
+      "summary": "Buddha's First Sermon",
+      "region": "Bhutan",
+      "date": "2023-07-21"
+    },
+    {
+      "id": "20230923_j4b64qilp0rqtp1hb53u5s8fgs",
+      "status": "confirmed",
+      "summary": "Blessed Rainy Day",
+      "region": "Bhutan",
+      "date": "2023-09-23"
+    },
+    {
+      "id": "20231024_9749871m2puf1tcn9ovqkgco5c",
+      "status": "confirmed",
+      "summary": "Dashain",
+      "region": "Bhutan",
+      "date": "2023-10-24"
+    },
+    {
+      "id": "20231101_mtsnnt56a6a1rqkb9f00akclf0",
+      "status": "confirmed",
+      "summary": "King Jigme Khesar Namgyel's Coronation",
+      "region": "Bhutan",
+      "date": "2023-11-01"
+    },
+    {
+      "id": "20231104_i8e95j8alsh816p4t9iuru2id0",
+      "status": "confirmed",
+      "summary": "Descending Day of Lord Buddha",
+      "region": "Bhutan",
+      "date": "2023-11-04"
+    },
+    {
+      "id": "20231111_23jraovls938ggimn3mj26u32g",
+      "status": "confirmed",
+      "summary": "Birth Anniversary of the Fourth Druk Gyalpo/Consitution Day",
+      "region": "Bhutan",
+      "date": "2023-11-11"
+    },
+    {
+      "id": "20231217_6ro0bt0uem2la43137641tknng",
+      "status": "confirmed",
+      "summary": "National Day",
+      "region": "Bhutan",
+      "date": "2023-12-17"
     }
   ],
   "Bulgaria": [
