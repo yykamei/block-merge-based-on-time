@@ -22143,13 +22143,6 @@
       "date": "2022-12-26"
     },
     {
-      "id": "20221226_vhfhcje0aelj8uc23sohvus8gg",
-      "status": "confirmed",
-      "summary": "Day off for Christmas Day",
-      "region": "Ghana",
-      "date": "2022-12-26"
-    },
-    {
       "id": "20221231_fcir1lovqf7nnstc2hfsd3cv7k",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -32935,7 +32928,7 @@
       "date": "2022-04-22"
     },
     {
-      "id": "20220424_ucncrgtnnbbi3jarlei6bhedug",
+      "id": "20220424_mfsqtpo96qr0q8unbdvukegs34",
       "status": "confirmed",
       "summary": "Orthodox Easter Day",
       "region": "Lebanon",
@@ -33152,7 +33145,7 @@
       "date": "2023-04-14"
     },
     {
-      "id": "20230416_fp308rjmmg5qqsk635r1sgt3gs",
+      "id": "20230416_otlmejomqp8ehnalaabkam48lk",
       "status": "confirmed",
       "summary": "Orthodox Easter Day",
       "region": "Lebanon",
@@ -46035,6 +46028,13 @@
       "date": "2022-02-05"
     },
     {
+      "id": "20220301_c5i24cvdold06nf6f8tuma3dvk",
+      "status": "confirmed",
+      "summary": "Shivaratri",
+      "region": "Pakistan",
+      "date": "2022-03-01"
+    },
+    {
       "id": "20220301_hhitueegjiprjbn7838mdkqm8s",
       "status": "confirmed",
       "summary": "Shab e-Meraj",
@@ -46049,11 +46049,18 @@
       "date": "2022-03-17"
     },
     {
-      "id": "20220319_bphvfj906ugvvp00mqqan3edf0",
+      "id": "20220318_m7airej3f3nf2phr1k0h82psoo",
+      "status": "confirmed",
+      "summary": "Dulhandi",
+      "region": "Pakistan",
+      "date": "2022-03-18"
+    },
+    {
+      "id": "20220318_q08k1b624pnpkcau7ffop9lgb8",
       "status": "confirmed",
       "summary": "Shab e-Barat",
       "region": "Pakistan",
-      "date": "2022-03-19"
+      "date": "2022-03-18"
     },
     {
       "id": "20220323_1ihm9knutcdohq897po9dfbr24",
@@ -46061,6 +46068,13 @@
       "summary": "Pakistan Day",
       "region": "Pakistan",
       "date": "2022-03-23"
+    },
+    {
+      "id": "20220404_mv0br49ejhctapl2kvkq88u89o",
+      "status": "confirmed",
+      "summary": "Ramazan Bank Holiday",
+      "region": "Pakistan",
+      "date": "2022-04-04"
     },
     {
       "id": "20220414_qan1p08ildpdnttn1u77f027os",
@@ -46075,6 +46089,13 @@
       "summary": "Good Friday",
       "region": "Pakistan",
       "date": "2022-04-15"
+    },
+    {
+      "id": "20220417_mmv6hod6vpgad1pc5i51q5q5is",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Pakistan",
+      "date": "2022-04-17"
     },
     {
       "id": "20220418_cr10rvtc7cj5u5ue2es8c90rjc",
@@ -46117,13 +46138,6 @@
       "summary": "Eid-ul-Fitr Holiday",
       "region": "Pakistan",
       "date": "2022-05-05"
-    },
-    {
-      "id": "20220506_9ajm1f834likifutgcgr90lhp8",
-      "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday",
-      "region": "Pakistan",
-      "date": "2022-05-06"
     },
     {
       "id": "20220516_senfb8m4hfoml91od5i0j6qg08",
@@ -46182,6 +46196,13 @@
       "date": "2022-08-14"
     },
     {
+      "id": "20220819_rbfsl53cl8f8qkt1f4s4u9r5lc",
+      "status": "confirmed",
+      "summary": "Janmashtami",
+      "region": "Pakistan",
+      "date": "2022-08-19"
+    },
+    {
       "id": "20220821_96ed1t6henl65hjc0j088l5svo",
       "status": "confirmed",
       "summary": "Birthday of Lord Zoroaster (Khordad Sal)",
@@ -46217,18 +46238,11 @@
       "date": "2022-10-05"
     },
     {
-      "id": "20221007_84mr81ir27hvmiqj7j7i2iguig",
-      "status": "confirmed",
-      "summary": "Giarhwin Sharief",
-      "region": "Pakistan",
-      "date": "2022-10-07"
-    },
-    {
-      "id": "20221008_egeen142dioseqksljisu179gk",
+      "id": "20221009_0ckbdg6krt9qniajfikfj3jj5k",
       "status": "confirmed",
       "summary": "Eid Milad un-Nabi",
       "region": "Pakistan",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
     },
     {
       "id": "20221009_326on11bq84teuufqfg153ecig",
@@ -46243,6 +46257,20 @@
       "summary": "Diwali/Deepavali",
       "region": "Pakistan",
       "date": "2022-10-24"
+    },
+    {
+      "id": "20221107_v8ittvfla02h1k6t5888mst8a8",
+      "status": "confirmed",
+      "summary": "Giarhwin Sharief",
+      "region": "Pakistan",
+      "date": "2022-11-07"
+    },
+    {
+      "id": "20221108_4k8jp4prj8agd4tspn1ocv54gk",
+      "status": "confirmed",
+      "summary": "Guru Nanak's Birthday",
+      "region": "Pakistan",
+      "date": "2022-11-08"
     },
     {
       "id": "20221109_2d64rj5tmffuo3k0toum2gl1sg",
