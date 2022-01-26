@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.32...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays [\#610](https://github.com/yykamei/block-merge-based-on-time/pull/610) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @typescript-eslint/eslint-plugin from 5.9.1 to 5.10.0 [\#604](https://github.com/yykamei/block-merge-based-on-time/pull/604) ([dependabot[bot]](https://github.com/apps/dependabot))
