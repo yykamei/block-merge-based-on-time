@@ -544,6 +544,13 @@
       "date": "2022-04-28"
     },
     {
+      "id": "20220501_cqb4ckursa111u8cspspfo5bc0",
+      "status": "confirmed",
+      "summary": "Labor Day",
+      "region": "Afghanistan",
+      "date": "2022-05-01"
+    },
+    {
       "id": "20220503_n0b84ae3rmvbb4ng9277oivh7s",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -675,6 +682,13 @@
       "summary": "Afghan Victory Day",
       "region": "Afghanistan",
       "date": "2023-04-28"
+    },
+    {
+      "id": "20230501_v9locphnmo8nhklkkp0e5uea8g",
+      "status": "confirmed",
+      "summary": "Labor Day",
+      "region": "Afghanistan",
+      "date": "2023-05-01"
     },
     {
       "id": "20230628_ef7kojmn0cdctsq8qjpdn8do48",
@@ -6127,6 +6141,13 @@
       "date": "2022-10-08"
     },
     {
+      "id": "20221031_cr5mdeq6s5g737lm592j79qa0g",
+      "status": "confirmed",
+      "summary": "Martyrs' Day",
+      "region": "Burkina Faso",
+      "date": "2022-10-31"
+    },
+    {
       "id": "20221101_qn4akc4j30p3q9eqgmsnd6jgag",
       "status": "confirmed",
       "summary": "All Saints",
@@ -6244,6 +6265,13 @@
       "summary": "The Prophet's Birthday",
       "region": "Burkina Faso",
       "date": "2023-09-27"
+    },
+    {
+      "id": "20231031_7fctklq0an5ft3vin86ep400rc",
+      "status": "confirmed",
+      "summary": "Martyrs' Day",
+      "region": "Burkina Faso",
+      "date": "2023-10-31"
     },
     {
       "id": "20231101_kvs4bmjtgrv22tad3guuv2aog4",
@@ -7525,9 +7553,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220201_k83rcsien1g9ft6a8ofhj18lvg",
+      "id": "20220201_4jql7j259pkneeclpjdnico8ok",
       "status": "confirmed",
-      "summary": "Chinese New Year",
+      "summary": "Lunar New Year",
       "region": "Brunei",
       "date": "2022-02-01"
     },
@@ -7651,16 +7679,16 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230122_epp1vm74g2fgcrfjp3pvkhf6t4",
+      "id": "20230122_3d8a3r6lgvck0bnfg9gf3ilhl0",
       "status": "confirmed",
-      "summary": "Chinese New Year",
+      "summary": "Lunar New Year",
       "region": "Brunei",
       "date": "2023-01-22"
     },
     {
-      "id": "20230123_4p1v7g8ofpj9ogps8e1qapnvrg",
+      "id": "20230123_veht4d8f194202k624hg9866tk",
       "status": "confirmed",
-      "summary": "Day off for Chinese New Year",
+      "summary": "Day off for Lunar New Year",
       "region": "Brunei",
       "date": "2023-01-23"
     },
@@ -13723,7 +13751,7 @@
       "date": "2022-08-07"
     },
     {
-      "id": "20220815_ola05e6htbjlhk13u5lpid1h8c",
+      "id": "20220815_tre894t84h31pjel91qbnmku0o",
       "status": "confirmed",
       "summary": "Assumption of Mary",
       "region": "Colombia",
@@ -15166,6 +15194,13 @@
       "date": "2022-01-20"
     },
     {
+      "id": "20220415_dst87d0cthm4pl31j7glolrlo4",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "Cape Verde",
+      "date": "2022-04-15"
+    },
+    {
       "id": "20220501_511afv8mf8jlj9vdahnteqddb8",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -15241,6 +15276,13 @@
       "summary": "National Heroes' Day",
       "region": "Cape Verde",
       "date": "2023-01-20"
+    },
+    {
+      "id": "20230407_k4jv4n78p337of60kgcdiiv0mo",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "Cape Verde",
+      "date": "2023-04-07"
     },
     {
       "id": "20230501_2q4dq51o6l0ki4hormvqa1m728",
@@ -16571,6 +16613,13 @@
       "date": "2022-11-04"
     },
     {
+      "id": "20221113_ho82t6fv668ju5n0pk76ms5k3s",
+      "status": "confirmed",
+      "summary": "Remembrance Sunday",
+      "region": "Dominica",
+      "date": "2022-11-13"
+    },
+    {
       "id": "20221225_c1tlsk7j4bple8c7s2sp79d91c",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -16674,6 +16723,13 @@
       "summary": "Community Service Day",
       "region": "Dominica",
       "date": "2023-11-04"
+    },
+    {
+      "id": "20231112_09c6ehjr1oiuhd9018ls5mjrd8",
+      "status": "confirmed",
+      "summary": "Remembrance Sunday",
+      "region": "Dominica",
+      "date": "2023-11-12"
     },
     {
       "id": "20231225_doscb19r6e7ph8babsev7ngku8",
@@ -20199,6 +20255,13 @@
       "date": "2022-05-08"
     },
     {
+      "id": "20220526_ig38d3gvcf9vu0tt0eh7cikvdo",
+      "status": "confirmed",
+      "summary": "Ascension Day",
+      "region": "Gabon",
+      "date": "2022-05-26"
+    },
+    {
       "id": "20220606_40kaju664lpbq0ubmee53vot48",
       "status": "confirmed",
       "summary": "Whit Monday",
@@ -20302,6 +20365,13 @@
       "summary": "Mother's Day",
       "region": "Gabon",
       "date": "2023-05-14"
+    },
+    {
+      "id": "20230518_euluc5e0ev8cq4imu3pgbchgt0",
+      "status": "confirmed",
+      "summary": "Ascension Day",
+      "region": "Gabon",
+      "date": "2023-05-18"
     },
     {
       "id": "20230529_qoi2a4au0s0ai4etvfisdpeesg",
@@ -21115,7 +21185,7 @@
       "date": "2022-08-08"
     },
     {
-      "id": "20220815_nbr82ik53b9tspg9dbnoqse9p4",
+      "id": "20220815_gscu1jmj7eq23ls7g0nj5he50s",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -21283,7 +21353,7 @@
       "date": "2023-02-22"
     },
     {
-      "id": "20230308_hehnml4jojjas7d2s5vkh708fs",
+      "id": "20230308_ikti9n8863vf71adijij106eu8",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -21325,7 +21395,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_sbhcqcgm1s5duvp1kng37gpiss",
+      "id": "20230409_sn3ugr8sej4mgqdsq9hadv0f10",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -21402,7 +21472,7 @@
       "date": "2023-08-08"
     },
     {
-      "id": "20230815_aeuttpos1vunj33ngfv7kqs23c",
+      "id": "20230815_9l9fbt416f68ojabm7ud4kgfek",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -23082,6 +23152,13 @@
       "date": "2022-10-08"
     },
     {
+      "id": "20221101_kockt5iqfmunapmjqti39u41bk",
+      "status": "confirmed",
+      "summary": "All Saints' Day",
+      "region": "Guinea",
+      "date": "2022-11-01"
+    },
+    {
       "id": "20221225_1gfaqkk210m4bdckfc24589umg",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -23164,6 +23241,13 @@
       "summary": "Independence Day",
       "region": "Guinea",
       "date": "2023-10-02"
+    },
+    {
+      "id": "20231101_qidkdj3r47gfcg4tvr5p6fn79s",
+      "status": "confirmed",
+      "summary": "All Saints' Day",
+      "region": "Guinea",
+      "date": "2023-11-01"
     },
     {
       "id": "20231225_i96da5mhodn3lrdab67hd5aodk",
@@ -25025,23 +25109,23 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220201_5rs5s9j19ih646svpcorujmpm4",
+      "id": "20220201_02qhr1nsuq855dmj1r7fjp7qu0",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Hong Kong",
       "date": "2022-02-01"
     },
     {
-      "id": "20220202_aemh9jpfvc2q37dlks6g4vuh3c",
+      "id": "20220202_suni9mqlle4b8uvoh76djdrjvg",
       "status": "confirmed",
-      "summary": "Second day of Chinese Lunar New Year",
+      "summary": "Second day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2022-02-02"
     },
     {
-      "id": "20220203_oi56tnasqeq7icrqvss5nbovg0",
+      "id": "20220203_nv56aac2seruka34veq81icq2s",
       "status": "confirmed",
-      "summary": "Third day of Chinese Lunar New Year",
+      "summary": "Third day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2022-02-03"
     },
@@ -25221,23 +25305,23 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230121_aulc8v5at8sps8bg9j222b5lp4",
+      "id": "20230121_7opf8hkd5hsjp880ogvq7eo62k",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Hong Kong",
       "date": "2023-01-21"
     },
     {
-      "id": "20230123_bpnv75pdvsvp50t3pqvrh5ll60",
+      "id": "20230123_dpal1a4f39fnv768sujfvcjgps",
       "status": "confirmed",
-      "summary": "Third day of Chinese Lunar New Year",
+      "summary": "Third day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2023-01-23"
     },
     {
-      "id": "20230124_ghg1i27meoj4poh1pvcm8jb18o",
+      "id": "20230124_oi7gu5dvll4rlddtohod87u0e8",
       "status": "confirmed",
-      "summary": "Fourth day of Chinese Lunar New Year",
+      "summary": "Fourth day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2023-01-24"
     },
@@ -26876,9 +26960,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220201_812pi8dj12mossj7kqb0k3v654",
+      "id": "20220201_1qepbfh1afpjm55toeq1150kvc",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Indonesia",
       "date": "2022-02-01"
     },
@@ -27694,6 +27778,13 @@
       "date": "2022-03-17"
     },
     {
+      "id": "20220318_va4dhc361q1o5qi2slkh0hgc94",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Ireland",
+      "date": "2022-03-18"
+    },
+    {
       "id": "20220415_v490ujde8fmc8659pmf33rpjtk",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -27776,6 +27867,13 @@
       "summary": "New Year's Day",
       "region": "Ireland",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230206_q601pvkncenj150f61qrg5tnn4",
+      "status": "confirmed",
+      "summary": "St. Brigid’s Day",
+      "region": "Ireland",
+      "date": "2023-02-06"
     },
     {
       "id": "20230317_sqc5pfqa4fa13ptlj87mkm62kg",
@@ -30274,6 +30372,27 @@
       "date": "2022-01-03"
     },
     {
+      "id": "20220104_51g8ammm85e3u53bu79oaprtp0",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2022-01-04"
+    },
+    {
+      "id": "20220105_163v4atvhj9ce7gsnl0aecf094",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2022-01-05"
+    },
+    {
+      "id": "20220106_dcgh8r9cpuhpof3c22ljn7a6m4",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2022-01-06"
+    },
+    {
       "id": "20220107_go6ul6e1hcsf8j88oq9j8v73ik",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
@@ -31658,6 +31777,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220102_djklprdjfckplq0qufp6lvqi1k",
+      "status": "confirmed",
+      "summary": "New Year's Day Holiday",
+      "region": "Kuwait",
+      "date": "2022-01-02"
+    },
+    {
       "id": "20220225_ilai8mck1huui3vsb9fuefpvt4",
       "status": "confirmed",
       "summary": "National Day",
@@ -31698,6 +31824,13 @@
       "summary": "Eid al-Fitr holiday",
       "region": "Kuwait",
       "date": "2022-05-05"
+    },
+    {
+      "id": "20220709_du6tu98aok6t25h6r4poja3kj8",
+      "status": "confirmed",
+      "summary": "Waqfat Arafat Day",
+      "region": "Kuwait",
+      "date": "2022-07-09"
     },
     {
       "id": "20220710_5c0lfpp2dchsfjmfcmvgqnn7c8",
@@ -31789,6 +31922,13 @@
       "summary": "Eid al-Fitr holiday",
       "region": "Kuwait",
       "date": "2023-04-24"
+    },
+    {
+      "id": "20230628_i5d61epm73plmmnna2qqvim070",
+      "status": "confirmed",
+      "summary": "Waqfat Arafat Day",
+      "region": "Kuwait",
+      "date": "2023-06-28"
     },
     {
       "id": "20230629_u4c8rb2vqvoejhlo4su0jc577o",
@@ -38727,6 +38867,13 @@
       "date": "2022-10-08"
     },
     {
+      "id": "20221016_8ddaang32a3cccgp09mofmp180",
+      "status": "confirmed",
+      "summary": "Baptism of the Prophet",
+      "region": "Mali",
+      "date": "2022-10-16"
+    },
+    {
       "id": "20221225_398paff2p53j9rm6fv8dd76eek",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -38809,6 +38956,13 @@
       "summary": "The Prophet's Birthday",
       "region": "Mali",
       "date": "2023-09-27"
+    },
+    {
+      "id": "20231005_6gfcrd4hmh6ofldfkonm3bha8g",
+      "status": "confirmed",
+      "summary": "Baptism of the Prophet",
+      "region": "Mali",
+      "date": "2023-10-05"
     },
     {
       "id": "20231225_do5l1skr8pu6jnma7spa0k8nqo",
@@ -41302,11 +41456,11 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220403_8bp5vvasagautdn3vvh5id9rkk",
+      "id": "20220402_556no789ip6j20pdbcj1jkfpdg",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Maldives",
-      "date": "2022-04-03"
+      "date": "2022-04-02"
     },
     {
       "id": "20220501_0hmm78o5uvmum9vlc5dtrvh5hk",
@@ -41316,60 +41470,81 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_lh8h8937o6va4p09ktvs1hqo0o",
+      "id": "20220502_ei3kecq9crkdbn5uk8h4ffn77c",
       "status": "confirmed",
-      "summary": "Eid ul Fitr",
+      "summary": "Eid-ul-Fithr",
+      "region": "Maldives",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_2sa4mtmouj2aioqjhsv8k0fc3s",
+      "status": "confirmed",
+      "summary": "Eid-ul-Fithr Holiday",
       "region": "Maldives",
       "date": "2022-05-03"
     },
     {
-      "id": "20220504_qj0tj2t0aef2gt3q1qsso57h94",
+      "id": "20220504_0a5tekbd7dskhcqjogs04ojulk",
       "status": "confirmed",
-      "summary": "Eid al Fitr Holiday",
+      "summary": "Eid-ul-Fithr Holiday",
       "region": "Maldives",
       "date": "2022-05-04"
     },
     {
-      "id": "20220505_0arcu5q2fee6aioi622c8gqnjs",
+      "id": "20220505_9rh8ma5henjk1dkkgor6k4n85k",
       "status": "confirmed",
-      "summary": "Eid al Fitr Holiday",
+      "summary": "Bank Holiday",
       "region": "Maldives",
       "date": "2022-05-05"
     },
     {
-      "id": "20220709_d5a94oj35hbani203d20ngs0t4",
+      "id": "20220708_eufjhfv5hbihj68gop3n3c5e30",
       "status": "confirmed",
       "summary": "Hajj Day",
+      "region": "Maldives",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_r1er8m20o3t6cf45ajvkcacmcc",
+      "status": "confirmed",
+      "summary": "Eid-ul Al'haa",
       "region": "Maldives",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_4agm9kh989b0kucnp5ek62n6e8",
+      "id": "20220710_310mveg0624fd8ifn6su68ti2k",
       "status": "confirmed",
-      "summary": "Eid ul Adha",
+      "summary": "Eid-ul Al'haa Holiday",
       "region": "Maldives",
       "date": "2022-07-10"
     },
     {
-      "id": "20220711_d56mon5qkjqhj5jegdd135e3f4",
+      "id": "20220711_3pjp3l2pdmhbfid6n3qotuj7fs",
       "status": "confirmed",
-      "summary": "Eid ul Adha Holiday",
+      "summary": "Eid-ul Al'haa Holiday",
       "region": "Maldives",
       "date": "2022-07-11"
     },
     {
-      "id": "20220712_314eioe0irb638qo4oq7hbt280",
+      "id": "20220712_vlklmo2admpm9rctrtntfnkjpk",
       "status": "confirmed",
-      "summary": "Eid ul Adha Holiday",
+      "summary": "Eid-ul Al'haa Holiday",
       "region": "Maldives",
       "date": "2022-07-12"
     },
     {
-      "id": "20220713_rt1r9tfre5gt3f119jc9d0l198",
+      "id": "20220713_eg95mlivr8387c27pj0tcs4k04",
       "status": "confirmed",
-      "summary": "Eid ul Adha Holiday",
+      "summary": "Bank Holiday",
       "region": "Maldives",
       "date": "2022-07-13"
+    },
+    {
+      "id": "20220714_c2th58eu2h9ochocuetroguplo",
+      "status": "confirmed",
+      "summary": "Bank Holiday",
+      "region": "Maldives",
+      "date": "2022-07-14"
     },
     {
       "id": "20220726_r9v4l56lhc39ta2aoluevkme40",
@@ -41386,6 +41561,13 @@
       "date": "2022-07-27"
     },
     {
+      "id": "20220728_5o04ojros62liqjb6krnn4pd18",
+      "status": "confirmed",
+      "summary": "Bank Holiday",
+      "region": "Maldives",
+      "date": "2022-07-28"
+    },
+    {
       "id": "20220730_6770l4ovpsrpn089q3lp7vl124",
       "status": "confirmed",
       "summary": "Muharram/Islamic New Year",
@@ -41393,11 +41575,25 @@
       "date": "2022-07-30"
     },
     {
+      "id": "20220927_q29hgsl0nmv7kriu3j1i2u4qp0",
+      "status": "confirmed",
+      "summary": "National Day",
+      "region": "Maldives",
+      "date": "2022-09-27"
+    },
+    {
       "id": "20221008_6oqadbulgtquck165no0h7q7kk",
       "status": "confirmed",
       "summary": "Milad un Nabi (Mawlid)",
       "region": "Maldives",
       "date": "2022-10-08"
+    },
+    {
+      "id": "20221027_l2tv78ktap42ft5uicsc7mro14",
+      "status": "confirmed",
+      "summary": "The Day Maldives Embraced Islam",
+      "region": "Maldives",
+      "date": "2022-10-27"
     },
     {
       "id": "20221103_9orm0208jjlcj0u9iffhg5bjh8",
@@ -41428,23 +41624,23 @@
       "date": "2023-03-23"
     },
     {
-      "id": "20230422_dlqa9874vmk2laodgokuvrpmv8",
+      "id": "20230422_3dlc9dgn1ud9q1j0eq4q4h5unk",
       "status": "confirmed",
-      "summary": "Eid ul Fitr",
+      "summary": "Eid-ul-Fithr",
       "region": "Maldives",
       "date": "2023-04-22"
     },
     {
-      "id": "20230423_lgpfhpalmbgk3m3830iae8nr6s",
+      "id": "20230423_099qotv58fce1ctg47nhb408g8",
       "status": "confirmed",
-      "summary": "Eid al Fitr Holiday",
+      "summary": "Eid-ul-Fithr Holiday",
       "region": "Maldives",
       "date": "2023-04-23"
     },
     {
-      "id": "20230424_ije7p3b1jac7autht4lusm3nmk",
+      "id": "20230424_oi0dftb53ho4nkqtgeupanpa68",
       "status": "confirmed",
-      "summary": "Eid al Fitr Holiday",
+      "summary": "Eid-ul-Fithr Holiday",
       "region": "Maldives",
       "date": "2023-04-24"
     },
@@ -41463,30 +41659,30 @@
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_q9uargeaobl52eut9s6a5tlrso",
+      "id": "20230629_sr33k5h7fkgd86kct6mfajepds",
       "status": "confirmed",
-      "summary": "Eid ul Adha",
+      "summary": "Eid-ul Al'haa",
       "region": "Maldives",
       "date": "2023-06-29"
     },
     {
-      "id": "20230630_7l8c01m4diucnkg610ehglqd60",
+      "id": "20230630_mskgt0fjgs37bodupudefo5hk0",
       "status": "confirmed",
-      "summary": "Eid ul Adha Holiday",
+      "summary": "Eid-ul Al'haa Holiday",
       "region": "Maldives",
       "date": "2023-06-30"
     },
     {
-      "id": "20230701_f8c4nem8gldclpf8g52n9s9v6o",
+      "id": "20230701_16dvt6svorrcht4l4qevssn8g8",
       "status": "confirmed",
-      "summary": "Eid ul Adha Holiday",
+      "summary": "Eid-ul Al'haa Holiday",
       "region": "Maldives",
       "date": "2023-07-01"
     },
     {
-      "id": "20230702_7qpbtpjsnrfamiurodvaofphgg",
+      "id": "20230702_a288t2gqatml6v94pqhc5uun9o",
       "status": "confirmed",
-      "summary": "Eid ul Adha Holiday",
+      "summary": "Eid-ul Al'haa Holiday",
       "region": "Maldives",
       "date": "2023-07-02"
     },
@@ -41512,11 +41708,25 @@
       "date": "2023-07-27"
     },
     {
+      "id": "20230916_g2gr31lc35g3lmfj238rbkqfjo",
+      "status": "confirmed",
+      "summary": "National Day",
+      "region": "Maldives",
+      "date": "2023-09-16"
+    },
+    {
       "id": "20230927_5tosgd5c5e221h4888dlcc8218",
       "status": "confirmed",
       "summary": "Milad un Nabi (Mawlid)",
       "region": "Maldives",
       "date": "2023-09-27"
+    },
+    {
+      "id": "20231016_so2q9e24o6o0s3ac6gleh6crf0",
+      "status": "confirmed",
+      "summary": "The Day Maldives Embraced Islam",
+      "region": "Maldives",
+      "date": "2023-10-16"
     },
     {
       "id": "20231103_nl4qivujmas9q6ripsbe3ofk78",
@@ -53861,9 +54071,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220201_6jmqm5vkh9kvi38qeguvfqi3jo",
+      "id": "20220201_7c5ikgnuk79jr1b9moot9g40i4",
       "status": "confirmed",
-      "summary": "Chinese New Year",
+      "summary": "Lunar New Year",
       "region": "Suriname",
       "date": "2022-02-01"
     },
@@ -53973,9 +54183,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230122_mcs0bc8dq0p1q8c25gr38045b8",
+      "id": "20230122_4ha6m3dsdlg8c0pbu5nkm2mjqs",
       "status": "confirmed",
-      "summary": "Chinese New Year",
+      "summary": "Lunar New Year",
       "region": "Suriname",
       "date": "2023-01-22"
     },
