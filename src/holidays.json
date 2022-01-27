@@ -12222,9 +12222,9 @@
       "date": "2022-01-31"
     },
     {
-      "id": "20220201_tf3eocbh6q9sllothdv7na7cvc",
+      "id": "20220201_himqhg3kfjoacaeiacs0nogrpk",
       "status": "confirmed",
-      "summary": "Chinese New Year",
+      "summary": "Lunar New Year",
       "region": "China",
       "date": "2022-02-01"
     },
@@ -12495,9 +12495,9 @@
       "date": "2023-01-21"
     },
     {
-      "id": "20230122_rb7chpffog3j0fst3nen26ehp0",
+      "id": "20230122_t1km3q960knc14fmc0jf6p1pcs",
       "status": "confirmed",
-      "summary": "Chinese New Year",
+      "summary": "Lunar New Year",
       "region": "China",
       "date": "2023-01-22"
     },
@@ -45935,9 +45935,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220201_2t5a39l24h5gjvki50is456sug",
+      "id": "20220201_pd50vprr780rdur451ls4nccds",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Philippines",
       "date": "2022-02-01"
     },
@@ -46068,9 +46068,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230122_89jcp1nf0npurh3o7hsi3odlag",
+      "id": "20230122_6t416mu5n533selh6fme459dr0",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Philippines",
       "date": "2023-01-22"
     },
@@ -51141,16 +51141,16 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220201_o319r3asqmfg119mvb9o1jhfak",
+      "id": "20220201_jvsfrvs7jbaloja7bqhqud6mq4",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Singapore",
       "date": "2022-02-01"
     },
     {
-      "id": "20220202_oko3ohp04mne96aj9b4te3bkkc",
+      "id": "20220202_jvj9q2k6c051drehhf8p9ekalg",
       "status": "confirmed",
-      "summary": "Second day of Chinese Lunar New Year",
+      "summary": "Second day of Lunar New Year",
       "region": "Singapore",
       "date": "2022-02-02"
     },
@@ -51288,9 +51288,9 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230123_rc49hjjq4a6dfuibmnsvdgcc6c",
+      "id": "20230123_99ga9dlj1fjup58i8ufj7vqt6g",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Singapore",
       "date": "2023-01-23"
     },
@@ -56061,30 +56061,30 @@
       "date": "2022-01-22"
     },
     {
-      "id": "20220131_am27027ukhkah9ttp98f1ao6c8",
+      "id": "20220131_pms1pbktj30fqerqjgmujnra3o",
       "status": "confirmed",
-      "summary": "Chinese New Year's Eve",
+      "summary": "Lunar New Year's Eve",
       "region": "Taiwan",
       "date": "2022-01-31"
     },
     {
-      "id": "20220201_6timqp0pc7udji6kl7bpo8sa28",
+      "id": "20220201_1nh0ble54hf2seuk67nmrttmvs",
       "status": "confirmed",
-      "summary": "Chinese New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Taiwan",
       "date": "2022-02-01"
     },
     {
-      "id": "20220202_1pqh2mc1i5ud2gsnjgv4fuv4dg",
+      "id": "20220202_gfu0i2p1aqn07uhc17t4gsp2kc",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday",
+      "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2022-02-02"
     },
     {
-      "id": "20220203_35o1phkm2s7o1bkek5geufoc2g",
+      "id": "20220203_ehfi6a84kl5pun1h7fk3bvgk84",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday",
+      "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2022-02-03"
     },
@@ -56096,16 +56096,16 @@
       "date": "2022-02-04"
     },
     {
-      "id": "20220204_76ppdf08igq7sso0aj6ekeqmnk",
+      "id": "20220204_bls6av0d41hb9l46m36ccdk6f4",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday",
+      "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2022-02-04"
     },
     {
-      "id": "20220205_m639puk25bdatd8jl5r0b3827s",
+      "id": "20220205_hj4mtglg4jpu4h3lq7qnb8lfjk",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday",
+      "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2022-02-05"
     },
@@ -56250,44 +56250,44 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230121_h6c8i7i2klu2mul74oh4irrlk8",
+      "id": "20230121_1ct6nkaerpsdvg4u9pakt1j24g",
       "status": "confirmed",
-      "summary": "Chinese New Year's Eve",
+      "summary": "Lunar New Year's Eve",
       "region": "Taiwan",
       "date": "2023-01-21"
     },
     {
-      "id": "20230122_jftjugv7pfon037ft667ta7huc",
+      "id": "20230122_gqqdg2g98arkv1fhgc1v8pu3lo",
       "status": "confirmed",
-      "summary": "Chinese New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Taiwan",
       "date": "2023-01-22"
     },
     {
-      "id": "20230123_v1re5r5c9vnoure4dg1rd7i87g",
+      "id": "20230123_ett5nlodeep3o592cttrp9q9so",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday",
+      "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2023-01-23"
     },
     {
-      "id": "20230124_6t04jvp5acbe03ddin3j9mu9k8",
+      "id": "20230124_cgljrbmp473vmt8vmg7j0r1brc",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday",
+      "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2023-01-24"
     },
     {
-      "id": "20230125_7o08c2evf86o8sb8if45ikblik",
+      "id": "20230125_25bgn3fk7o9ptj6q2ddpt39iio",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday",
+      "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2023-01-25"
     },
     {
-      "id": "20230126_t2eico5lph9hrke7aer0t6iais",
+      "id": "20230126_om089moanu2vlaics11c33qlcc",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday",
+      "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2023-01-26"
     },
@@ -57077,23 +57077,23 @@
       "date": "2022-01-03"
     },
     {
-      "id": "20220201_lhmj7or3t3ug80i57sesrbufo8",
+      "id": "20220201_rbvuhqgfeqp3q0voamir0u9n4c",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Thailand",
       "date": "2022-02-01"
     },
     {
-      "id": "20220202_2dv5k3fv5e5gb3s4knii88u4go",
+      "id": "20220202_1vrrk2jus9p35affishleffrto",
       "status": "confirmed",
-      "summary": "Second day of Chinese Lunar New Year",
+      "summary": "Second day of Lunar New Year",
       "region": "Thailand",
       "date": "2022-02-02"
     },
     {
-      "id": "20220203_6qgjps7g5lq2keqncmg99nuek4",
+      "id": "20220203_3i3399tu11ortdku8auhlvdfak",
       "status": "confirmed",
-      "summary": "Third day of Chinese Lunar New Year",
+      "summary": "Third day of Lunar New Year",
       "region": "Thailand",
       "date": "2022-02-03"
     },
@@ -57322,23 +57322,23 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230122_lkfgno89n59n562iirlap9ergo",
+      "id": "20230122_2eigpgbsneps5cnuha42g7mins",
       "status": "confirmed",
-      "summary": "Chinese Lunar New Year's Day",
+      "summary": "Lunar New Year's Day",
       "region": "Thailand",
       "date": "2023-01-22"
     },
     {
-      "id": "20230123_441p70ap37r2p3mi41l949booo",
+      "id": "20230123_8la0pvc22n9rrnpl2lsg4rg9r4",
       "status": "confirmed",
-      "summary": "Second day of Chinese Lunar New Year",
+      "summary": "Second day of Lunar New Year",
       "region": "Thailand",
       "date": "2023-01-23"
     },
     {
-      "id": "20230124_0mo8k5k7djbk0c1d6qmqpckcmk",
+      "id": "20230124_m1qisipq71h58p94br1u8il6s4",
       "status": "confirmed",
-      "summary": "Third day of Chinese Lunar New Year",
+      "summary": "Third day of Lunar New Year",
       "region": "Thailand",
       "date": "2023-01-24"
     },
@@ -61254,9 +61254,9 @@
       "date": "2022-06-19"
     },
     {
-      "id": "20220620_k7effegtkpl4agm00s4onjp27s",
+      "id": "20220620_2ggfpo9bnaj019jh2jn4m15934",
       "status": "confirmed",
-      "summary": "Day off for Juneteenth",
+      "summary": "Juneteenth (substitute)",
       "region": "United States",
       "date": "2022-06-20"
     },
@@ -61359,9 +61359,9 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_84kiunub943bguoc5810i3v1us",
+      "id": "20221226_j7qpbluailblij0c1i09uuia8o",
       "status": "confirmed",
-      "summary": "Day off for Christmas Day",
+      "summary": "Christmas Day (substitute)",
       "region": "United States",
       "date": "2022-12-26"
     },
@@ -61380,9 +61380,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_9r37a9mjt2moclg7hgoflc1c0o",
+      "id": "20230102_qn82d48cimkdg6jtog71ssphi8",
       "status": "confirmed",
-      "summary": "Day off for New Year's Day",
+      "summary": "New Year's Day (substitute)",
       "region": "United States",
       "date": "2023-01-02"
     },
@@ -61576,9 +61576,9 @@
       "date": "2023-11-07"
     },
     {
-      "id": "20231110_9oj4tvbmdfu2eb7i0smh4imtt4",
+      "id": "20231110_rhv0a9kca8mmmdo4ei84ubu46s",
       "status": "confirmed",
-      "summary": "Day off for Veterans Day",
+      "summary": "Veterans Day (substitute)",
       "region": "United States",
       "date": "2023-11-10"
     },
