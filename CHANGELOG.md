@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- Update Holidays [\#621](https://github.com/yykamei/block-merge-based-on-time/pull/621) ([github-actions[bot]](https://github.com/apps/github-actions))
 - Update Holidays [\#612](https://github.com/yykamei/block-merge-based-on-time/pull/612) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 **Merged pull requests:**
