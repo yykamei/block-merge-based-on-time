@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.34...HEAD)
+
+**Merged pull requests:**
+
+- Bump eslint from 8.7.0 to 8.8.0 [\#624](https://github.com/yykamei/block-merge-based-on-time/pull/624) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.2.34](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.34) (2022-01-28)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.33...v1.2.34)
