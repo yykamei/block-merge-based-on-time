@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ts-node from 10.4.0 to 10.5.0 [\#632](https://github.com/yykamei/block-merge-based-on-time/pull/632) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump jest from 27.4.7 to 27.5.1 [\#630](https://github.com/yykamei/block-merge-based-on-time/pull/630) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @typescript-eslint/parser from 5.10.1 to 5.10.2 [\#626](https://github.com/yykamei/block-merge-based-on-time/pull/626) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 17.0.13 to 17.0.14 [\#625](https://github.com/yykamei/block-merge-based-on-time/pull/625) ([dependabot[bot]](https://github.com/apps/dependabot))
