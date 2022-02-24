@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           future-release: v${{ github.event.inputs.version }}
 
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3.0.0
         with:
           node-version: "16"
           check-latest: true
