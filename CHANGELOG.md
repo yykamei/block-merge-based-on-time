@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.34...HEAD)
 
+**Breaking changes:**
+
+- Use node16 [\#663](https://github.com/yykamei/block-merge-based-on-time/pull/663) ([yykamei](https://github.com/yykamei))
+
 **Merged pull requests:**
 
 - Bump @typescript-eslint/eslint-plugin from 5.12.0 to 5.12.1 [\#655](https://github.com/yykamei/block-merge-based-on-time/pull/655) ([dependabot[bot]](https://github.com/apps/dependabot))
