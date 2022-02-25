@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump @typescript-eslint/eslint-plugin from 5.12.0 to 5.12.1 [\#655](https://github.com/yykamei/block-merge-based-on-time/pull/655) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @typescript-eslint/parser from 5.12.0 to 5.12.1 [\#654](https://github.com/yykamei/block-merge-based-on-time/pull/654) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump eslint-config-prettier from 8.3.0 to 8.4.0 [\#653](https://github.com/yykamei/block-merge-based-on-time/pull/653) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 17.0.18 to 17.0.21 [\#652](https://github.com/yykamei/block-merge-based-on-time/pull/652) ([dependabot[bot]](https://github.com/apps/dependabot))
