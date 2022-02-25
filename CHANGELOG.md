@@ -9,6 +9,7 @@
 - Bump @typescript-eslint/parser from 5.12.0 to 5.12.1 [\#654](https://github.com/yykamei/block-merge-based-on-time/pull/654) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump eslint-config-prettier from 8.3.0 to 8.4.0 [\#653](https://github.com/yykamei/block-merge-based-on-time/pull/653) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 17.0.18 to 17.0.21 [\#652](https://github.com/yykamei/block-merge-based-on-time/pull/652) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/jest from 27.4.0 to 27.4.1 [\#651](https://github.com/yykamei/block-merge-based-on-time/pull/651) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @vercel/ncc from 0.33.1 to 0.33.3 [\#645](https://github.com/yykamei/block-merge-based-on-time/pull/645) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump eslint from 8.8.0 to 8.9.0 [\#644](https://github.com/yykamei/block-merge-based-on-time/pull/644) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 17.0.17 to 17.0.18 [\#643](https://github.com/yykamei/block-merge-based-on-time/pull/643) ([dependabot[bot]](https://github.com/apps/dependabot))
