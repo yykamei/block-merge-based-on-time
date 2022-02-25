@@ -1,35 +1,5 @@
 # Changelog
 
-## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
-
-[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.34...HEAD)
-
-**Breaking changes:**
-
-- Use node16 [\#663](https://github.com/yykamei/block-merge-based-on-time/pull/663) ([yykamei](https://github.com/yykamei))
-
-**Merged pull requests:**
-
-- Bump @typescript-eslint/eslint-plugin from 5.12.0 to 5.12.1 [\#655](https://github.com/yykamei/block-merge-based-on-time/pull/655) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/parser from 5.12.0 to 5.12.1 [\#654](https://github.com/yykamei/block-merge-based-on-time/pull/654) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump eslint-config-prettier from 8.3.0 to 8.4.0 [\#653](https://github.com/yykamei/block-merge-based-on-time/pull/653) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 17.0.18 to 17.0.21 [\#652](https://github.com/yykamei/block-merge-based-on-time/pull/652) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/jest from 27.4.0 to 27.4.1 [\#651](https://github.com/yykamei/block-merge-based-on-time/pull/651) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @vercel/ncc from 0.33.1 to 0.33.3 [\#645](https://github.com/yykamei/block-merge-based-on-time/pull/645) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump eslint from 8.8.0 to 8.9.0 [\#644](https://github.com/yykamei/block-merge-based-on-time/pull/644) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 17.0.17 to 17.0.18 [\#643](https://github.com/yykamei/block-merge-based-on-time/pull/643) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/parser from 5.11.0 to 5.12.0 [\#642](https://github.com/yykamei/block-merge-based-on-time/pull/642) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/eslint-plugin from 5.11.0 to 5.12.0 [\#641](https://github.com/yykamei/block-merge-based-on-time/pull/641) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 17.0.14 to 17.0.17 [\#633](https://github.com/yykamei/block-merge-based-on-time/pull/633) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump ts-node from 10.4.0 to 10.5.0 [\#632](https://github.com/yykamei/block-merge-based-on-time/pull/632) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/eslint-plugin from 5.10.2 to 5.11.0 [\#631](https://github.com/yykamei/block-merge-based-on-time/pull/631) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump jest from 27.4.7 to 27.5.1 [\#630](https://github.com/yykamei/block-merge-based-on-time/pull/630) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/parser from 5.10.2 to 5.11.0 [\#629](https://github.com/yykamei/block-merge-based-on-time/pull/629) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/parser from 5.10.1 to 5.10.2 [\#626](https://github.com/yykamei/block-merge-based-on-time/pull/626) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @types/node from 17.0.13 to 17.0.14 [\#625](https://github.com/yykamei/block-merge-based-on-time/pull/625) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump eslint from 8.7.0 to 8.8.0 [\#624](https://github.com/yykamei/block-merge-based-on-time/pull/624) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump @typescript-eslint/eslint-plugin from 5.10.1 to 5.10.2 [\#623](https://github.com/yykamei/block-merge-based-on-time/pull/623) ([dependabot[bot]](https://github.com/apps/dependabot))
-
 ## [v1.2.34](https://github.com/yykamei/block-merge-based-on-time/tree/v1.2.34) (2022-01-28)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v1.2.33...v1.2.34)
