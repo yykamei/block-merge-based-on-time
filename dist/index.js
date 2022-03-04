@@ -5451,7 +5451,6 @@ class SystemZone extends Zone {
 
 }
 
-const matchingRegex = RegExp(`^${ianaRegex.source}$`);
 let dtfCache = {};
 
 function makeDTF(zone) {
@@ -5538,14 +5537,14 @@ class IANAZone extends Zone {
    * Returns whether the provided string is a valid specifier. This only checks the string's format, not that the specifier identifies a known zone; see isValidZone for that.
    * @param {string} s - The string to check validity on
    * @example IANAZone.isValidSpecifier("America/New_York") //=> true
-   * @example IANAZone.isValidSpecifier("Fantasia/Castle") //=> true
    * @example IANAZone.isValidSpecifier("Sport~~blorp") //=> false
+   * @deprecated This method returns false some valid IANA names. Use isValidZone instead
    * @return {boolean}
    */
 
 
   static isValidSpecifier(s) {
-    return !!(s && s.match(matchingRegex));
+    return this.isValidZone(s);
   }
   /**
    * Returns whether the provided string identifies a real zone
@@ -5834,7 +5833,7 @@ function normalizeZone(input, defaultZone) {
     return input;
   } else if (isString(input)) {
     const lowered = input.toLowerCase();
-    if (lowered === "local" || lowered === "system") return defaultZone;else if (lowered === "utc" || lowered === "gmt") return FixedOffsetZone.utcInstance;else if (IANAZone.isValidSpecifier(lowered)) return IANAZone.create(input);else return FixedOffsetZone.parseSpecifier(lowered) || new InvalidZone(input);
+    if (lowered === "local" || lowered === "system") return defaultZone;else if (lowered === "utc" || lowered === "gmt") return FixedOffsetZone.utcInstance;else return FixedOffsetZone.parseSpecifier(lowered) || IANAZone.create(input);
   } else if (isNumber(input)) {
     return FixedOffsetZone.instance(input);
   } else if (typeof input === "object" && input.offset && typeof input.offset === "number") {
@@ -7506,7 +7505,7 @@ class Duration {
     const negated = {};
 
     for (const k of Object.keys(this.values)) {
-      negated[k] = -this.values[k];
+      negated[k] = this.values[k] === 0 ? 0 : -this.values[k];
     }
 
     return clone$1(this, {
@@ -8336,7 +8335,7 @@ class Info {
 
 
   static isValidIANAZone(zone) {
-    return IANAZone.isValidSpecifier(zone) && IANAZone.isValidZone(zone);
+    return IANAZone.isValidZone(zone);
   }
   /**
    * Converts the input into a {@link Zone} instance.
@@ -11084,6 +11083,7 @@ class DateTime {
    * @param {Object} opts - options
    * @param {boolean} [opts.includeZone=false] - include the zone, such as 'America/New_York'. Overrides includeOffset.
    * @param {boolean} [opts.includeOffset=true] - include the offset, such as 'Z' or '-04:00'
+   * @param {boolean} [opts.includeOffsetSpace=true] - include the space between the time and the offset, such as '05:15:16.345 -04:00'
    * @example DateTime.utc().toSQL() //=> '05:15:16.345'
    * @example DateTime.now().toSQL() //=> '05:15:16.345 -04:00'
    * @example DateTime.now().toSQL({ includeOffset: false }) //=> '05:15:16.345'
@@ -11094,12 +11094,15 @@ class DateTime {
 
   toSQLTime({
     includeOffset = true,
-    includeZone = false
+    includeZone = false,
+    includeOffsetSpace = true
   } = {}) {
     let fmt = "HH:mm:ss.SSS";
 
     if (includeZone || includeOffset) {
-      fmt += " ";
+      if (includeOffsetSpace) {
+        fmt += " ";
+      }
 
       if (includeZone) {
         fmt += "z";
@@ -11115,6 +11118,7 @@ class DateTime {
    * @param {Object} opts - options
    * @param {boolean} [opts.includeZone=false] - include the zone, such as 'America/New_York'. Overrides includeOffset.
    * @param {boolean} [opts.includeOffset=true] - include the offset, such as 'Z' or '-04:00'
+   * @param {boolean} [opts.includeOffsetSpace=true] - include the space between the time and the offset, such as '05:15:16.345 -04:00'
    * @example DateTime.utc(2014, 7, 13).toSQL() //=> '2014-07-13 00:00:00.000 Z'
    * @example DateTime.local(2014, 7, 13).toSQL() //=> '2014-07-13 00:00:00.000 -04:00'
    * @example DateTime.local(2014, 7, 13).toSQL({ includeOffset: false }) //=> '2014-07-13 00:00:00.000'
@@ -11165,6 +11169,15 @@ class DateTime {
 
   toSeconds() {
     return this.isValid ? this.ts / 1000 : NaN;
+  }
+  /**
+   * Returns the epoch seconds (as a whole number) of this DateTime.
+   * @return {number}
+   */
+
+
+  toUnixInteger() {
+    return this.isValid ? Math.floor(this.ts / 1000) : NaN;
   }
   /**
    * Returns an ISO 8601 representation of this DateTime appropriate for use in JSON.
@@ -11644,7 +11657,7 @@ function friendlyDateTime(dateTimeish) {
   }
 }
 
-const VERSION = "2.3.0";
+const VERSION = "2.3.1";
 
 exports.ou = DateTime;
 __webpack_unused_export__ = Duration;
