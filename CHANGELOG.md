@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ts-node from 10.5.0 to 10.6.0 [\#674](https://github.com/yykamei/block-merge-based-on-time/pull/674) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 2 to 3 [\#668](https://github.com/yykamei/block-merge-based-on-time/pull/668) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v2.0.0](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.0) (2022-02-25)
