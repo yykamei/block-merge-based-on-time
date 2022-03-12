@@ -933,9 +933,16 @@
   ],
   "Anguilla": [
     {
-      "id": "20220103_3iv7ttaau08g47oh8cv3b4s95c",
+      "id": "20220101_lab6s41lsd3lfj0r7pk0sobn8c",
       "status": "confirmed",
       "summary": "New Year's Day",
+      "region": "Anguilla",
+      "date": "2022-01-01"
+    },
+    {
+      "id": "20220103_qav54m1i8vhe1cnlui43c65if0",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
       "region": "Anguilla",
       "date": "2022-01-03"
     },
@@ -982,18 +989,18 @@
       "date": "2022-05-30"
     },
     {
+      "id": "20220603_d6e3t5blltlurp1afvlfmfub6s",
+      "status": "confirmed",
+      "summary": "Celebration of the Platinum Jubilee and Official Birthday of Her Majesty The Queen",
+      "region": "Anguilla",
+      "date": "2022-06-03"
+    },
+    {
       "id": "20220606_57885p14co2b6dn913jtlpl1ec",
       "status": "confirmed",
       "summary": "Whit Monday",
       "region": "Anguilla",
       "date": "2022-06-06"
-    },
-    {
-      "id": "20220613_1m5bqa7505qg3v6l4034g9shn0",
-      "status": "confirmed",
-      "summary": "Sovereign's Birthday",
-      "region": "Anguilla",
-      "date": "2022-06-13"
     },
     {
       "id": "20220801_7qqoot3i2d79oei4md9kgnggro",
@@ -1052,9 +1059,16 @@
       "date": "2022-12-27"
     },
     {
-      "id": "20230102_ost8fbupnaou3dl18pkcmmlij0",
+      "id": "20230101_7fgnkn7d5e3p7863dafvm5v46s",
       "status": "confirmed",
       "summary": "New Year's Day",
+      "region": "Anguilla",
+      "date": "2023-01-01"
+    },
+    {
+      "id": "20230102_todp2thhrcmmskq70m08m61t3o",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
       "region": "Anguilla",
       "date": "2023-01-02"
     },
@@ -1623,21 +1637,7 @@
       "date": "2022-01-02"
     },
     {
-      "id": "20220103_u0pfkhldd4qfogtrjntshi4d6g",
-      "status": "confirmed",
-      "summary": "New Year's Day (Day 3)",
-      "region": "Armenia",
-      "date": "2022-01-03"
-    },
-    {
-      "id": "20220104_afofovep3bvf32p28cprm8koog",
-      "status": "confirmed",
-      "summary": "New Year's Day (Day 4)",
-      "region": "Armenia",
-      "date": "2022-01-04"
-    },
-    {
-      "id": "20220105_sorio9gl8pqo7qtm4c14cf3eqk",
+      "id": "20220105_vjrgie0d5aefu8jddo6akr75pg",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Armenia",
@@ -1651,7 +1651,7 @@
       "date": "2022-01-06"
     },
     {
-      "id": "20220107_qnn7j2fq1n500ef5hsg8hfvcl0",
+      "id": "20220107_sb4uf6e4jd16jnfn6niclppmag",
       "status": "confirmed",
       "summary": "Christmas Remembrance Day",
       "region": "Armenia",
@@ -1826,21 +1826,7 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230103_5tnl6v5eviqd09ukbh4pbsuph0",
-      "status": "confirmed",
-      "summary": "New Year's Day (Day 3)",
-      "region": "Armenia",
-      "date": "2023-01-03"
-    },
-    {
-      "id": "20230104_c9q26u2efdipkjfsqcm9275g4k",
-      "status": "confirmed",
-      "summary": "New Year's Day (Day 4)",
-      "region": "Armenia",
-      "date": "2023-01-04"
-    },
-    {
-      "id": "20230105_4a3257vql8u8b55j4huhsjq3qo",
+      "id": "20230105_nhctofj0rr7223h5hscnb8co1k",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Armenia",
@@ -1854,7 +1840,7 @@
       "date": "2023-01-06"
     },
     {
-      "id": "20230107_2a6bth1bj3pf1svgp7nn8p60a4",
+      "id": "20230107_t2u3osve5fn0oc7co0hgvfleo8",
       "status": "confirmed",
       "summary": "Christmas Remembrance Day",
       "region": "Armenia",
@@ -2222,6 +2208,20 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220113_lipgvl8lkb38do02cnsu0m6h10",
+      "status": "confirmed",
+      "summary": "Public Sector Half Day",
+      "region": "Argentina",
+      "date": "2022-01-13"
+    },
+    {
+      "id": "20220114_jotdis5dsrteqpi7t3b1i9aus8",
+      "status": "confirmed",
+      "summary": "Public Sector Half Day",
+      "region": "Argentina",
+      "date": "2022-01-14"
+    },
+    {
       "id": "20220228_elcqa9qemunrmff20fama2qkpg",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
@@ -2229,9 +2229,9 @@
       "date": "2022-02-28"
     },
     {
-      "id": "20220301_e186ujo8bpnagis8mnqdnbnprk",
+      "id": "20220301_ifsknc7u24ncmrna5pnjuqtrqs",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Argentina",
       "date": "2022-03-01"
     },
@@ -2411,9 +2411,9 @@
       "date": "2022-10-05"
     },
     {
-      "id": "20221010_jvmenh2pug6p27pnjd5eo97jmk",
+      "id": "20221010_p7h1jikrd0m62pkcdn9lvfd7f4",
       "status": "confirmed",
-      "summary": "Day of respect for cultural diversity",
+      "summary": "Day of Respect for Cultural Diversity",
       "region": "Argentina",
       "date": "2022-10-10"
     },
@@ -2460,9 +2460,9 @@
       "date": "2023-02-20"
     },
     {
-      "id": "20230221_3bjffcvs122ubqaun7t5agla60",
+      "id": "20230221_8ugfq2rh0sccgstgfabsu1ok90",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Argentina",
       "date": "2023-02-21"
     },
@@ -2635,9 +2635,9 @@
       "date": "2023-09-25"
     },
     {
-      "id": "20231009_9f12m41vadagt9hpok8aofoaqg",
+      "id": "20231009_l874ksveeehito1vjfdultn48s",
       "status": "confirmed",
-      "summary": "Day of respect for cultural diversity",
+      "summary": "Day of Respect for Cultural Diversity",
       "region": "Argentina",
       "date": "2023-10-09"
     },
@@ -6311,9 +6311,16 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_5ghp0mj2071legjc8cpi7e28o4",
+      "id": "20220502_pvj75avk5sro8b7h8vqq4efdgs",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
+      "region": "Bahrain",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_sehk9ahn659a8flhjcrljn7m2c",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Bahrain",
       "date": "2022-05-03"
     },
@@ -6325,23 +6332,23 @@
       "date": "2022-05-04"
     },
     {
-      "id": "20220505_5mvrpp649ds0fgfbipukr73kq0",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
-      "region": "Bahrain",
-      "date": "2022-05-05"
-    },
-    {
-      "id": "20220709_nqoqtvj00dhrmgru6rq5i5aicc",
+      "id": "20220708_vbo4l9vjvs13undvefuvativv8",
       "status": "confirmed",
       "summary": "Arafat Day",
+      "region": "Bahrain",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_aldhm5kpp5i8agu0c66tp16f0k",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Bahrain",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_e0rfssu5uot6p6rkm2jedevqjs",
+      "id": "20220710_ig8tb4lob0g3p60949gpcsn41k",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Bahrain",
       "date": "2022-07-10"
     },
@@ -6353,13 +6360,6 @@
       "date": "2022-07-11"
     },
     {
-      "id": "20220712_6acnbndgg6hufp9l2drfs0vto0",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
-      "region": "Bahrain",
-      "date": "2022-07-12"
-    },
-    {
       "id": "20220730_sd6lr3b0ksnrakij1eausu59s8",
       "status": "confirmed",
       "summary": "Muharram",
@@ -6367,18 +6367,18 @@
       "date": "2022-07-30"
     },
     {
-      "id": "20220808_8iihb3fs4l55tdevsbojj6vma4",
+      "id": "20220807_uk8j2uh7v6k4qj5r1gbufa9200",
       "status": "confirmed",
       "summary": "Ashoora",
       "region": "Bahrain",
-      "date": "2022-08-08"
+      "date": "2022-08-07"
     },
     {
-      "id": "20220809_mr3o9nk5olfcfmp4qjbiq1cuts",
+      "id": "20220808_ut9uluboasa7ah3i5kns5bukj0",
       "status": "confirmed",
       "summary": "Ashoora (second day)",
       "region": "Bahrain",
-      "date": "2022-08-09"
+      "date": "2022-08-08"
     },
     {
       "id": "20221008_a3eeueatfnacdaf2e9cg1c7734",
@@ -6416,18 +6416,18 @@
       "date": "2023-04-22"
     },
     {
+      "id": "20230422_fak3k1rjad00bvij7db0h468fk",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Bahrain",
+      "date": "2023-04-22"
+    },
+    {
       "id": "20230423_idl7j5b02phi7j8n2fmkmse694",
       "status": "confirmed",
       "summary": "Eid al-Fitr Holiday",
       "region": "Bahrain",
       "date": "2023-04-23"
-    },
-    {
-      "id": "20230424_gddp603gkl8ispkbem9t77m698",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
-      "region": "Bahrain",
-      "date": "2023-04-24"
     },
     {
       "id": "20230501_sbjiplmvc9ru3u5bre60d9ej88",
@@ -7828,9 +7828,9 @@
       "date": "2022-02-28"
     },
     {
-      "id": "20220301_tccnaftpsnt59qhlli1g7gdh84",
+      "id": "20220301_1k0qebu365f3bdgqaprmb5ur84",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Bolivia",
       "date": "2022-03-01"
     },
@@ -8010,9 +8010,9 @@
       "date": "2023-02-20"
     },
     {
-      "id": "20230221_ct4fjoneohimlrdgto49slr1lc",
+      "id": "20230221_2g7dnjtiarfenesohnh5nkt8ro",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Bolivia",
       "date": "2023-02-21"
     },
@@ -13292,11 +13292,11 @@
       "date": "2023-06-08"
     },
     {
-      "id": "20230619_2hm3vunvruu784l5pcpdgq022c",
+      "id": "20230621_6a2qamr391dn3omlu5h8pb1174",
       "status": "confirmed",
       "summary": "National Day of Indigenous Peoples",
       "region": "Chile",
-      "date": "2023-06-19"
+      "date": "2023-06-21"
     },
     {
       "id": "20230626_8eei61l5uug9fjhsuciioo2i9k",
@@ -14595,9 +14595,9 @@
       "date": "2022-07-10"
     },
     {
-      "id": "20220805_k3ovnaitu9spdn9fmst3bpc874",
+      "id": "20220805_engcsc367a5rllf671c0o670no",
       "status": "confirmed",
-      "summary": "Homeland Thanksgiving Day",
+      "summary": "Victory Day",
       "region": "Croatia",
       "date": "2022-08-05"
     },
@@ -14819,9 +14819,9 @@
       "date": "2023-06-29"
     },
     {
-      "id": "20230805_ro2t1r6nf9fj4r7i9dutkn3kb4",
+      "id": "20230805_3vtqbti18uc3ll59qlst6s8p0c",
       "status": "confirmed",
-      "summary": "Homeland Thanksgiving Day",
+      "summary": "Victory Day",
       "region": "Croatia",
       "date": "2023-08-05"
     },
@@ -15194,11 +15194,25 @@
       "date": "2022-01-20"
     },
     {
+      "id": "20220302_guilm6s24fo3grariauof1i45g",
+      "status": "confirmed",
+      "summary": "Ash Wednesday",
+      "region": "Cape Verde",
+      "date": "2022-03-02"
+    },
+    {
       "id": "20220415_dst87d0cthm4pl31j7glolrlo4",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Cape Verde",
       "date": "2022-04-15"
+    },
+    {
+      "id": "20220417_4o8iniai13pfed59nlusm504d4",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Cape Verde",
+      "date": "2022-04-17"
     },
     {
       "id": "20220501_511afv8mf8jlj9vdahnteqddb8",
@@ -15278,11 +15292,25 @@
       "date": "2023-01-20"
     },
     {
+      "id": "20230222_ioh6707ousqovuuvb889lnhn7k",
+      "status": "confirmed",
+      "summary": "Ash Wednesday",
+      "region": "Cape Verde",
+      "date": "2023-02-22"
+    },
+    {
       "id": "20230407_k4jv4n78p337of60kgcdiiv0mo",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Cape Verde",
       "date": "2023-04-07"
+    },
+    {
+      "id": "20230409_b7c9clls2u6rjaiqudelrl3k7k",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Cape Verde",
+      "date": "2023-04-09"
     },
     {
       "id": "20230501_2q4dq51o6l0ki4hormvqa1m728",
@@ -16373,11 +16401,11 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220301_i8rqnuv8a2fsbdojof8lfjge50",
+      "id": "20220228_mt9bsufp9nlf357314mi7poom0",
       "status": "confirmed",
       "summary": "Isra and Miraj",
       "region": "Djibouti",
-      "date": "2022-03-01"
+      "date": "2022-02-28"
     },
     {
       "id": "20220501_pkod3mvmq9vcuokpdvgdmrn70c",
@@ -16541,13 +16569,6 @@
       "summary": "New Year's Day",
       "region": "Dominica",
       "date": "2022-01-01"
-    },
-    {
-      "id": "20220103_hnfrkcvua57bq8c69v2a8gok9k",
-      "status": "confirmed",
-      "summary": "New Year's Day observed",
-      "region": "Dominica",
-      "date": "2022-01-03"
     },
     {
       "id": "20220228_6ne10ra65uuppdgeicljann3do",
@@ -18053,6 +18074,13 @@
   ],
   "Egypt": [
     {
+      "id": "20220106_5q8v9s2kkvn0d6mg2eu36ilmv8",
+      "status": "confirmed",
+      "summary": "Day off for Coptic Christmas Day",
+      "region": "Egypt",
+      "date": "2022-01-06"
+    },
+    {
       "id": "20220107_dah88fhqlckhp1l20t2s3ubnrs",
       "status": "confirmed",
       "summary": "Coptic Christmas Day",
@@ -18088,7 +18116,7 @@
       "date": "2022-04-23"
     },
     {
-      "id": "20220424_tcub9qb7ud1atldu2hhc3dgkgo",
+      "id": "20220424_lcq5e6dkqhgrsns2gf539qojgg",
       "status": "confirmed",
       "summary": "Coptic Easter Sunday",
       "region": "Egypt",
@@ -18107,13 +18135,6 @@
       "summary": "Spring Festival",
       "region": "Egypt",
       "date": "2022-04-25"
-    },
-    {
-      "id": "20220428_m7k1pep7msrtpkhn4dffq3gnvg",
-      "status": "confirmed",
-      "summary": "Day off for Sinai Liberation Day",
-      "region": "Egypt",
-      "date": "2022-04-28"
     },
     {
       "id": "20220501_v43dor8pjcb5n5186l337k0lr0",
@@ -18140,13 +18161,6 @@
       "id": "20220505_6s340197hqvbemkgcurtdja08c",
       "status": "confirmed",
       "summary": "Eid el Fitr Holiday",
-      "region": "Egypt",
-      "date": "2022-05-05"
-    },
-    {
-      "id": "20220505_ioi8t1rdiag0s2l42s1l7prm9c",
-      "status": "confirmed",
-      "summary": "Day off for Labor Day",
       "region": "Egypt",
       "date": "2022-05-05"
     },
@@ -18277,7 +18291,7 @@
       "date": "2023-04-15"
     },
     {
-      "id": "20230416_k82mt7oeaomf9vlkvee6diuqfc",
+      "id": "20230416_91v7gu2uf3tehgf9ckqk26f1bc",
       "status": "confirmed",
       "summary": "Coptic Easter Sunday",
       "region": "Egypt",
@@ -18319,25 +18333,11 @@
       "date": "2023-04-25"
     },
     {
-      "id": "20230427_55r5klm7dh1nk2ader6qfitjno",
-      "status": "confirmed",
-      "summary": "Day off for Sinai Liberation Day",
-      "region": "Egypt",
-      "date": "2023-04-27"
-    },
-    {
       "id": "20230501_g1a2q988mffoh1s1pqul2i88bk",
       "status": "confirmed",
       "summary": "Labor Day",
       "region": "Egypt",
       "date": "2023-05-01"
-    },
-    {
-      "id": "20230504_69n9vfnanj1ad5hmj2vcalshac",
-      "status": "confirmed",
-      "summary": "Day off for Labor Day",
-      "region": "Egypt",
-      "date": "2023-05-04"
     },
     {
       "id": "20230628_papu69cu7tlgjp9dhb1crjj6sk",
@@ -18694,9 +18694,9 @@
       "date": "2022-04-22"
     },
     {
-      "id": "20220424_6nh1967mon62bgausr9nl0af4o",
+      "id": "20220424_ich3udn5pdo745t1j8jddp0pd8",
       "status": "confirmed",
-      "summary": "Ethiopian Easter Sunday",
+      "summary": "Fasika",
       "region": "Ethiopia",
       "date": "2022-04-24"
     },
@@ -18785,9 +18785,9 @@
       "date": "2023-04-14"
     },
     {
-      "id": "20230416_g2hq1klhi1vumrbvcrvvcp6unk",
+      "id": "20230416_r45o4paji3f2s448v6shj58jnk",
       "status": "confirmed",
-      "summary": "Ethiopian Easter Sunday",
+      "summary": "Fasika",
       "region": "Ethiopia",
       "date": "2023-04-16"
     },
@@ -21052,9 +21052,9 @@
       "date": "2022-02-28"
     },
     {
-      "id": "20220301_u55a2lti9mh05egks9bd0q14j0",
+      "id": "20220301_afr90tqnkk23feerog8bnpn4n0",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Germany",
       "date": "2022-03-01"
     },
@@ -21339,9 +21339,9 @@
       "date": "2023-02-20"
     },
     {
-      "id": "20230221_nfv6r5ubb4hhu564qvvg105bjg",
+      "id": "20230221_fp5j2rild5t106eq2eq7vl1ems",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Germany",
       "date": "2023-02-21"
     },
@@ -21614,9 +21614,9 @@
       "date": "2022-02-28"
     },
     {
-      "id": "20220301_cv4im9ogeop2fvueblh9rht728",
+      "id": "20220301_h71tkjli9vj4ilshacl1gj2oh0",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "French Guiana",
       "date": "2022-03-01"
     },
@@ -21768,9 +21768,9 @@
       "date": "2023-02-20"
     },
     {
-      "id": "20230221_fla5n6lk9qvdesljav64r6psvo",
+      "id": "20230221_ucki889gff0vphjbq23iqv7oeo",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "French Guiana",
       "date": "2023-02-21"
     },
@@ -22446,11 +22446,11 @@
       "date": "2022-06-03"
     },
     {
-      "id": "20220620_p25tchqcjqq4f0a1hl3tl6m3dc",
+      "id": "20220613_0m154g7db4d9mn3n59l36jfdfo",
       "status": "confirmed",
       "summary": "Queen's Birthday",
       "region": "Gibraltar",
-      "date": "2022-06-20"
+      "date": "2022-06-13"
     },
     {
       "id": "20220829_ubf2h9uf3iu5hnddu2i0erlt48",
@@ -23273,9 +23273,9 @@
       "date": "2022-02-28"
     },
     {
-      "id": "20220301_9aihtn8k3u2cbugfjbj5qjfnos",
+      "id": "20220301_bm0df2397k0306plh3l66h5bt0",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Guadeloupe",
       "date": "2022-03-01"
     },
@@ -23406,9 +23406,9 @@
       "date": "2023-02-20"
     },
     {
-      "id": "20230221_1pn0judq2tugaobrp7jmgbpeqs",
+      "id": "20230221_cb3marq68q3vieha7v9vd5cpu4",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Guadeloupe",
       "date": "2023-02-21"
     },
@@ -23788,16 +23788,16 @@
       "date": "2022-03-07"
     },
     {
-      "id": "20220325_0fi0g5n52uhvsbtkkeuchepdn4",
+      "id": "20220325_1sv4qfggdmepemamnp770gfh6g",
       "status": "confirmed",
-      "summary": "25th of March (national holiday)",
+      "summary": "Annunciation of the Lord",
       "region": "Greece",
       "date": "2022-03-25"
     },
     {
-      "id": "20220325_1sv4qfggdmepemamnp770gfh6g",
+      "id": "20220325_v1e2b7d409np8pq1sso6h087b0",
       "status": "confirmed",
-      "summary": "Annunciation of the Lord",
+      "summary": "25th of March (National Holiday)",
       "region": "Greece",
       "date": "2022-03-25"
     },
@@ -23942,9 +23942,9 @@
       "date": "2023-03-25"
     },
     {
-      "id": "20230325_dfqvhlc2p2bir7olij1lp3pjhk",
+      "id": "20230325_uve3i4npbnj5ep9puardtvfuvk",
       "status": "confirmed",
-      "summary": "25th of March (national holiday)",
+      "summary": "25th of March (National Holiday)",
       "region": "Greece",
       "date": "2023-03-25"
     },
@@ -25116,16 +25116,16 @@
       "date": "2022-02-01"
     },
     {
-      "id": "20220202_suni9mqlle4b8uvoh76djdrjvg",
+      "id": "20220202_vqfiltujdsb7jbc76o001oidek",
       "status": "confirmed",
-      "summary": "Second day of Lunar New Year",
+      "summary": "Second Day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2022-02-02"
     },
     {
-      "id": "20220203_nv56aac2seruka34veq81icq2s",
+      "id": "20220203_a0as7m2b0ndo855v211jn0rqf8",
       "status": "confirmed",
-      "summary": "Third day of Lunar New Year",
+      "summary": "Third Day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2022-02-03"
     },
@@ -25312,16 +25312,16 @@
       "date": "2023-01-21"
     },
     {
-      "id": "20230123_dpal1a4f39fnv768sujfvcjgps",
+      "id": "20230123_815d2ps72c33ijk24cdvt4li84",
       "status": "confirmed",
-      "summary": "Third day of Lunar New Year",
+      "summary": "Third Day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2023-01-23"
     },
     {
-      "id": "20230124_oi7gu5dvll4rlddtohod87u0e8",
+      "id": "20230124_palfalspcurdhvg6d1ek8q1h78",
       "status": "confirmed",
-      "summary": "Fourth day of Lunar New Year",
+      "summary": "Fourth Day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2023-01-24"
     },
@@ -28314,6 +28314,20 @@
       "date": "2022-01-06"
     },
     {
+      "id": "20220302_e2odno8gt1mm3sglnrnnb4elj0",
+      "status": "confirmed",
+      "summary": "Ash Wednesday",
+      "region": "Italy",
+      "date": "2022-03-02"
+    },
+    {
+      "id": "20220319_6s772d1fqahuklf6sbj05v3s4o",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Italy",
+      "date": "2022-03-19"
+    },
+    {
       "id": "20220415_nip7953f4ebaojei0cqtmumjs4",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -28347,6 +28361,13 @@
       "summary": "Labor Day / May Day",
       "region": "Italy",
       "date": "2022-05-01"
+    },
+    {
+      "id": "20220508_mmekrama815ajcelpbogdfufmc",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Italy",
+      "date": "2022-05-08"
     },
     {
       "id": "20220602_mqjtvihnf9uibaolmne5ioab4s",
@@ -28419,6 +28440,20 @@
       "date": "2023-01-06"
     },
     {
+      "id": "20230222_ca6q49e06lbi5qf9nrfea511s0",
+      "status": "confirmed",
+      "summary": "Ash Wednesday",
+      "region": "Italy",
+      "date": "2023-02-22"
+    },
+    {
+      "id": "20230319_7eoj6enfn5o5mqdfd23gup4720",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Italy",
+      "date": "2023-03-19"
+    },
+    {
       "id": "20230407_p7prg1ecvu3594koiass1diio0",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -28452,6 +28487,13 @@
       "summary": "Labor Day / May Day",
       "region": "Italy",
       "date": "2023-05-01"
+    },
+    {
+      "id": "20230514_td9lkehuop6q9ls8headpv1ino",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Italy",
+      "date": "2023-05-14"
     },
     {
       "id": "20230602_b8mb4pujqv2t82n3au31lb22cc",
@@ -29575,11 +29617,11 @@
       "date": "2022-08-01"
     },
     {
-      "id": "20220808_purjqkqsl9o59r8d4t85r4ue3c",
+      "id": "20220806_2dvs6pc10s1i28r07q6a7buhu0",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "Jamaica",
-      "date": "2022-08-08"
+      "date": "2022-08-06"
     },
     {
       "id": "20221017_bh8s1gqpsuv2df31df2m02jij0",
@@ -31169,11 +31211,11 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220301_67t0ltfj6q2ov95e4uqoc7sus0",
+      "id": "20220228_mm8caku7p8j27dr879ul5sou20",
       "status": "confirmed",
       "summary": "Isra and Mi'raj",
       "region": "Comoros",
-      "date": "2022-03-01"
+      "date": "2022-02-28"
     },
     {
       "id": "20220318_vjlsisi8kabg9hcsv03d8j3nng",
@@ -31798,11 +31840,39 @@
       "date": "2022-02-26"
     },
     {
+      "id": "20220227_spp00aagt704oi2nc3qmp5l00s",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2022-02-27"
+    },
+    {
+      "id": "20220228_f5j9kg2fi6e418hmejkt3alfqg",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2022-02-28"
+    },
+    {
       "id": "20220301_mco8tsvh3grgnpceidktqigk6o",
       "status": "confirmed",
       "summary": "Isra and Miraj",
       "region": "Kuwait",
       "date": "2022-03-01"
+    },
+    {
+      "id": "20220302_9p8q9l2l9us0eh18bjll7d66vo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2022-03-02"
+    },
+    {
+      "id": "20220303_um2qcof1i8roavfrb9h0grgcok",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2022-03-03"
     },
     {
       "id": "20220503_6gil81s05in403ubotq50jlo6k",
@@ -32602,6 +32672,34 @@
       "date": "2022-03-08"
     },
     {
+      "id": "20220414_7r31eg8ahu3u8q395ejh0esdo4",
+      "status": "confirmed",
+      "summary": "Lao New Year Holiday",
+      "region": "Laos",
+      "date": "2022-04-14"
+    },
+    {
+      "id": "20220415_01fg6vmrrbuv4ehqe4kg85838s",
+      "status": "confirmed",
+      "summary": "Lao New Year Holiday",
+      "region": "Laos",
+      "date": "2022-04-15"
+    },
+    {
+      "id": "20220416_0gishc32vf8qqm51rucvc8hvnc",
+      "status": "confirmed",
+      "summary": "Lao New Year Holiday",
+      "region": "Laos",
+      "date": "2022-04-16"
+    },
+    {
+      "id": "20220418_e634aoaaqkbuuq3itrhirfobns",
+      "status": "confirmed",
+      "summary": "Day off for Lao New Year Holiday",
+      "region": "Laos",
+      "date": "2022-04-18"
+    },
+    {
       "id": "20220501_6pg4e02rp5uii878rdkfudfth8",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
@@ -32609,11 +32707,32 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_bbl3uu4p0brnv55p19faf5f8mk",
+      "status": "confirmed",
+      "summary": "Day off for Labor Day / May Day",
+      "region": "Laos",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220601_rv5ukakpblk4di56mdiddnqfrc",
       "status": "confirmed",
       "summary": "Children's Day",
       "region": "Laos",
       "date": "2022-06-01"
+    },
+    {
+      "id": "20220720_r0nq7ebue7krltjd8kqgl15qlg",
+      "status": "confirmed",
+      "summary": "Lao Women Union's Day",
+      "region": "Laos",
+      "date": "2022-07-20"
+    },
+    {
+      "id": "20221108_u86iis8p7s4ftk8tvhegk9bu9s",
+      "status": "confirmed",
+      "summary": "That Luang Festival",
+      "region": "Laos",
+      "date": "2022-11-08"
     },
     {
       "id": "20221202_fh38uolmti024rokr113i4e8c0",
@@ -32637,6 +32756,27 @@
       "date": "2023-03-08"
     },
     {
+      "id": "20230414_eumuqkg0cpijl1v5b4j9apggj0",
+      "status": "confirmed",
+      "summary": "Lao New Year Holiday",
+      "region": "Laos",
+      "date": "2023-04-14"
+    },
+    {
+      "id": "20230415_u8h3mi41d1bq45rt34dvt3bfic",
+      "status": "confirmed",
+      "summary": "Lao New Year Holiday",
+      "region": "Laos",
+      "date": "2023-04-15"
+    },
+    {
+      "id": "20230416_tg5jpicpss3g0j06jn1niqdr0s",
+      "status": "confirmed",
+      "summary": "Lao New Year Holiday",
+      "region": "Laos",
+      "date": "2023-04-16"
+    },
+    {
       "id": "20230501_oc7gugm239lpv89vthnmc4cfso",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
@@ -32649,6 +32789,20 @@
       "summary": "Children's Day",
       "region": "Laos",
       "date": "2023-06-01"
+    },
+    {
+      "id": "20230720_hgeul71uu4psjchulriddh1rns",
+      "status": "confirmed",
+      "summary": "Lao Women Union's Day",
+      "region": "Laos",
+      "date": "2023-07-20"
+    },
+    {
+      "id": "20231127_d7ardd34n2no77eulm0mnrbg3o",
+      "status": "confirmed",
+      "summary": "That Luang Festival",
+      "region": "Laos",
+      "date": "2023-11-27"
     },
     {
       "id": "20231202_j7fa4btkiohbgdn7nkqb25vd64",
@@ -33117,11 +33271,18 @@
       "date": "2022-05-04"
     },
     {
-      "id": "20220508_j7g5os9n7t5hahpod12gi82dk0",
+      "id": "20220508_p4d9b7b84un5judpjch74q1l28",
+      "status": "confirmed",
+      "summary": "Liberation and Resistance Holiday",
+      "region": "Lebanon",
+      "date": "2022-05-08"
+    },
+    {
+      "id": "20220525_5or77flu6kta02dp5r4nal9efg",
       "status": "confirmed",
       "summary": "Liberation and Resistance Day",
       "region": "Lebanon",
-      "date": "2022-05-08"
+      "date": "2022-05-25"
     },
     {
       "id": "20220526_shp77f72lp416dlmdu2eb44t4c",
@@ -33327,9 +33488,9 @@
       "date": "2023-05-07"
     },
     {
-      "id": "20230507_volc3tafdm4hs2h1ilpr505hdg",
+      "id": "20230507_pgmkdkgfj4erp9bsrbmlee9gt8",
       "status": "confirmed",
-      "summary": "Liberation and Resistance Day",
+      "summary": "Liberation and Resistance Holiday",
       "region": "Lebanon",
       "date": "2023-05-07"
     },
@@ -33339,6 +33500,13 @@
       "summary": "Ascension Day",
       "region": "Lebanon",
       "date": "2023-05-18"
+    },
+    {
+      "id": "20230525_qtqnhpd65t0rd2iggic95fq5u8",
+      "status": "confirmed",
+      "summary": "Liberation and Resistance Day",
+      "region": "Lebanon",
+      "date": "2023-05-25"
     },
     {
       "id": "20230629_7dee5q5cgubtli6nsme3qrd2j8",
@@ -35594,9 +35762,9 @@
       "date": "2022-02-02"
     },
     {
-      "id": "20220202_g310h8a8on7k6073njrm91e4ts",
+      "id": "20220202_rsb6u1tpum19ruk7kqlls6uoa0",
       "status": "confirmed",
-      "summary": "Second day of Lunar New Year (regional holiday)",
+      "summary": "Second Day of Lunar New Year (regional holiday)",
       "region": "Malaysia",
       "date": "2022-02-02"
     },
@@ -35986,16 +36154,16 @@
       "date": "2023-01-22"
     },
     {
-      "id": "20230123_2fhuh22n1h9rm6fcun7fo80glk",
+      "id": "20230123_o8gq0qv63hov2bmldnf9dtblfg",
       "status": "confirmed",
-      "summary": "Second day of Lunar New Year (regional holiday)",
+      "summary": "Lunar New Year Holiday (regional holiday)",
       "region": "Malaysia",
       "date": "2023-01-23"
     },
     {
-      "id": "20230123_o8gq0qv63hov2bmldnf9dtblfg",
+      "id": "20230123_sq2lrid79jcf17ovg6qgvetfhc",
       "status": "confirmed",
-      "summary": "Lunar New Year Holiday (regional holiday)",
+      "summary": "Second Day of Lunar New Year (regional holiday)",
       "region": "Malaysia",
       "date": "2023-01-23"
     },
@@ -38091,7 +38259,7 @@
       "date": "2022-06-26"
     },
     {
-      "id": "20220710_e6sibiq387ec5disnesramrsjk",
+      "id": "20220710_k58j3drtjgu3025dsg9i5a6o98",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Madagascar",
@@ -38189,7 +38357,7 @@
       "date": "2023-06-26"
     },
     {
-      "id": "20230629_ehistr9uoe7c9l0740rtaicuu4",
+      "id": "20230629_rk6ef33nc67gmp7l63u2h91u50",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Madagascar",
@@ -40389,9 +40557,9 @@
       "date": "2022-02-28"
     },
     {
-      "id": "20220301_qurm1c2jkj72sg18q3kockjahs",
+      "id": "20220301_oleieg1v4putgv55i463b79s28",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Martinique",
       "date": "2022-03-01"
     },
@@ -40508,9 +40676,9 @@
       "date": "2023-02-20"
     },
     {
-      "id": "20230221_gipgrvl5ui7a6vejog30epiqvg",
+      "id": "20230221_91qhr33ckeovlffl3rigknrdc0",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Martinique",
       "date": "2023-02-21"
     },
@@ -41456,6 +41624,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220203_c4jefgfa489od9h6p5cccemuk0",
+      "status": "confirmed",
+      "summary": "Presidential Address Holiday",
+      "region": "Maldives",
+      "date": "2022-02-03"
+    },
+    {
       "id": "20220402_556no789ip6j20pdbcj1jkfpdg",
       "status": "confirmed",
       "summary": "Ramadan Start",
@@ -42211,7 +42386,7 @@
       "date": "2022-04-15"
     },
     {
-      "id": "20220417_8sodiohp0hjvn8tpv1tolr2nk0",
+      "id": "20220417_bosbj8d14eao2i0i40dti429p8",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "region": "Namibia",
@@ -43868,9 +44043,9 @@
       "date": "2022-01-21"
     },
     {
-      "id": "20220206_l0nvfd1kipr22c619mtimu3n64",
+      "id": "20220206_v5qns24m6pvl7l6nnjag8s39hs",
       "status": "confirmed",
-      "summary": "The Saami people's day",
+      "summary": "Saami National Day",
       "region": "Norway",
       "date": "2022-02-06"
     },
@@ -44113,9 +44288,9 @@
       "date": "2023-01-21"
     },
     {
-      "id": "20230206_7pnijl3fg59aa8ll960ufthqs8",
+      "id": "20230206_bt6dji4p3ccm2co2m43ucupdk4",
       "status": "confirmed",
-      "summary": "The Saami people's day",
+      "summary": "Saami National Day",
       "region": "Norway",
       "date": "2023-02-06"
     },
@@ -45024,9 +45199,9 @@
       "date": "2022-02-27"
     },
     {
-      "id": "20220301_31auis2bat8c0q2rjtkuvgu92s",
+      "id": "20220301_bdiab68o7p1eagj085er5i6nts",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Panama",
       "date": "2022-03-01"
     },
@@ -45080,9 +45255,9 @@
       "date": "2022-11-04"
     },
     {
-      "id": "20221105_fumeluhgt2pjtm6ac3a9l91hkk",
+      "id": "20221105_ngtuc2h9ohu8mn6grdon2hl7jg",
       "status": "confirmed",
-      "summary": "Colon Day",
+      "summary": "Colón Day",
       "region": "Panama",
       "date": "2022-11-05"
     },
@@ -45164,9 +45339,9 @@
       "date": "2023-02-19"
     },
     {
-      "id": "20230221_ccuf87alfuk095fndesn7221p0",
+      "id": "20230221_iubvai2d6rulvq8ugrebt7s270",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Panama",
       "date": "2023-02-21"
     },
@@ -45206,9 +45381,9 @@
       "date": "2023-11-04"
     },
     {
-      "id": "20231105_0mun8tp7h462q20mnk559u2svc",
+      "id": "20231105_5k4uap05ho9meih53klmj99ipc",
       "status": "confirmed",
-      "summary": "Colon Day",
+      "summary": "Colón Day",
       "region": "Panama",
       "date": "2023-11-05"
     },
@@ -45784,6 +45959,13 @@
       "summary": "National Remembrance Day In Memory of Late Grand Chief Sir Michael Somare",
       "region": "Papua New Guinea",
       "date": "2022-02-26"
+    },
+    {
+      "id": "20220228_s5kv3842ogjumqd24vta7h523o",
+      "status": "confirmed",
+      "summary": "Day off for National Remembrance Day In Memory of Late Grand Chief Sir Michael Somare",
+      "region": "Papua New Guinea",
+      "date": "2022-02-28"
     },
     {
       "id": "20220415_1mrj2q80vajge3fjuk8hsqhuk8",
@@ -47063,9 +47245,9 @@
       "date": "2022-02-14"
     },
     {
-      "id": "20220301_pqnt6m6hc8vbgcl6351pc3e9fo",
+      "id": "20220301_totpclsl3rvvulm4g1tqpo7fg4",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Portugal",
       "date": "2022-03-01"
     },
@@ -47336,9 +47518,9 @@
       "date": "2023-02-14"
     },
     {
-      "id": "20230221_b9stufhi3asnfk273d3m05qqbc",
+      "id": "20230221_oqpik60gur0j9hghqevl934ous",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Portugal",
       "date": "2023-02-21"
     },
@@ -48042,7 +48224,14 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220301_pp0aikjh3f4h44m631qiih8tjs",
+      "id": "20220228_l9dmfkp0umr6o2jrf5sblleev8",
+      "status": "confirmed",
+      "summary": "Heroes' Day",
+      "region": "Paraguay",
+      "date": "2022-02-28"
+    },
+    {
+      "id": "20220301_glm96h133su8arttr33o619lqk",
       "status": "confirmed",
       "summary": "Heroes' Day",
       "region": "Paraguay",
@@ -48105,7 +48294,7 @@
       "date": "2022-08-15"
     },
     {
-      "id": "20220929_k9leom1f54jbv94550o7ri5uhg",
+      "id": "20220929_542qa9nlamjq3kghbjo9ungltc",
       "status": "confirmed",
       "summary": "Boqueron Battle Victory Day",
       "region": "Paraguay",
@@ -48117,6 +48306,13 @@
       "summary": "Daylight Saving Time starts",
       "region": "Paraguay",
       "date": "2022-10-02"
+    },
+    {
+      "id": "20221003_h99vg7lfhdvnrhqipe5ff32r1s",
+      "status": "confirmed",
+      "summary": "Boqueron Battle Victory Day",
+      "region": "Paraguay",
+      "date": "2022-10-03"
     },
     {
       "id": "20221208_hqas73j84f4o949bnjq25c8o3o",
@@ -48268,9 +48464,16 @@
       "date": "2022-02-08"
     },
     {
-      "id": "20220503_rsoi6v2igc85kav8t8o3o5msm8",
+      "id": "20220502_otidind082k1ft9uods4o7cd2o",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
+      "region": "Qatar",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_ek91ia1741hd1frhekqj3t23uo",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Qatar",
       "date": "2022-05-03"
     },
@@ -48280,13 +48483,6 @@
       "summary": "Eid al-Fitr Holiday",
       "region": "Qatar",
       "date": "2022-05-04"
-    },
-    {
-      "id": "20220505_0r6k5fuvtqjv6ojbvvb87lg72o",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
-      "region": "Qatar",
-      "date": "2022-05-05"
     },
     {
       "id": "20220710_md953rrubn9s08iv00ak7frneg",
@@ -48732,6 +48928,13 @@
       "summary": "National Day",
       "region": "Romania",
       "date": "2022-12-01"
+    },
+    {
+      "id": "20221202_fs1uuo92bjgaqil7ql3gb2rs5c",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Romania",
+      "date": "2022-12-02"
     },
     {
       "id": "20221208_rs6qk224lk4evfu25nk99sl3lk",
@@ -49678,13 +49881,6 @@
       "date": "2022-01-03"
     },
     {
-      "id": "20220103_ro5fi43h3jt45kcu2mmop2gqrc",
-      "status": "confirmed",
-      "summary": "Day After New Year's Day observed",
-      "region": "Rwanda",
-      "date": "2022-01-03"
-    },
-    {
       "id": "20220201_rjmqfo346m9e48ta5dmj8168f0",
       "status": "confirmed",
       "summary": "National Heroes' Day",
@@ -49783,11 +49979,11 @@
       "date": "2022-12-26"
     },
     {
-      "id": "20221226_lmcf15ldm017cu6p8tpti5b3v0",
+      "id": "20221227_bh7bb8jeuq0q00fg3uhsvnau7c",
       "status": "confirmed",
       "summary": "Christmas Day observed",
       "region": "Rwanda",
-      "date": "2022-12-26"
+      "date": "2022-12-27"
     },
     {
       "id": "20230101_tv3dbsf3t2augsvm2vdj0s61s8",
@@ -50221,6 +50417,13 @@
   ],
   "Saudi Arabia": [
     {
+      "id": "20220222_fip05ausqb9kifpafsgg14t870",
+      "status": "confirmed",
+      "summary": "Founding Day",
+      "region": "Saudi Arabia",
+      "date": "2022-02-22"
+    },
+    {
       "id": "20220403_0m4pvcdq4pk552ngft31pt3v6c",
       "status": "confirmed",
       "summary": "Ramadan begins",
@@ -50289,6 +50492,13 @@
       "summary": "Saudi National Day",
       "region": "Saudi Arabia",
       "date": "2022-09-22"
+    },
+    {
+      "id": "20230222_2ulkhtarj2bpnr1c8qram3v02g",
+      "status": "confirmed",
+      "summary": "Founding Day",
+      "region": "Saudi Arabia",
+      "date": "2023-02-22"
     },
     {
       "id": "20230323_fnmirsrn0jvpmov1shtroeuuh4",
@@ -51148,9 +51358,9 @@
       "date": "2022-02-01"
     },
     {
-      "id": "20220202_jvj9q2k6c051drehhf8p9ekalg",
+      "id": "20220202_3oevi84a7k24qko2f20fa91s64",
       "status": "confirmed",
-      "summary": "Second day of Lunar New Year",
+      "summary": "Second Day of Lunar New Year",
       "region": "Singapore",
       "date": "2022-02-02"
     },
@@ -51407,6 +51617,13 @@
       "summary": "New Year",
       "region": "Sierra Leone",
       "date": "2022-01-01"
+    },
+    {
+      "id": "20220103_ql2j017ti65apj439fvk78em1g",
+      "status": "confirmed",
+      "summary": "Day off for New Year",
+      "region": "Sierra Leone",
+      "date": "2022-01-03"
     },
     {
       "id": "20220218_5jmpjm042n35482gajjcve6vso",
@@ -52446,6 +52663,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220207_b6p0ejtc17mgadne9vcf6dgnf4",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Senegal",
+      "date": "2022-02-07"
+    },
+    {
       "id": "20220404_54344pftjq4bo6doutvcm7dj4g",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -52800,6 +53024,13 @@
       "date": "2022-03-01"
     },
     {
+      "id": "20220309_24ro03kp6qav37r5v5ivvue4cs",
+      "status": "confirmed",
+      "summary": "Presidential Election",
+      "region": "South Korea",
+      "date": "2022-03-09"
+    },
+    {
       "id": "20220405_imm3fbpjkrep3ng7t9g0m4gnfc",
       "status": "confirmed",
       "summary": "Arbor Day",
@@ -52833,6 +53064,13 @@
       "summary": "Teacher's Day",
       "region": "South Korea",
       "date": "2022-05-15"
+    },
+    {
+      "id": "20220601_kdl2oesujnivq1gd2nvkpu47ng",
+      "status": "confirmed",
+      "summary": "Local Election Day",
+      "region": "South Korea",
+      "date": "2022-06-01"
     },
     {
       "id": "20220606_ccvmo19gh7mut9r598ddpvb464",
@@ -54099,6 +54337,13 @@
       "date": "2022-04-15"
     },
     {
+      "id": "20220417_7bc97f6u8tccptk0mtfidtpbek",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Suriname",
+      "date": "2022-04-17"
+    },
+    {
       "id": "20220418_q47g0n5ut8n8h46bu4b963jus0",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -54209,6 +54454,13 @@
       "summary": "Good Friday",
       "region": "Suriname",
       "date": "2023-04-07"
+    },
+    {
+      "id": "20230409_9p9b9049jjdc89hduiuaoekakk",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Suriname",
+      "date": "2023-04-09"
     },
     {
       "id": "20230410_aqapesfpn52eik9ub52p6i9md4",
@@ -56455,11 +56707,18 @@
       "date": "2022-05-30"
     },
     {
-      "id": "20220613_a9p62fmi2rmnqb01q9558rcrdo",
+      "id": "20220603_hrgfuq6n2588mj9277lm6dmu74",
       "status": "confirmed",
       "summary": "Queen's Birthday",
       "region": "Turks & Caicos Islands",
-      "date": "2022-06-13"
+      "date": "2022-06-03"
+    },
+    {
+      "id": "20220606_dcakm2p4rtqmjsm79k5h0stbbc",
+      "status": "confirmed",
+      "summary": "Queen's Platinum Jubilee",
+      "region": "Turks & Caicos Islands",
+      "date": "2022-06-06"
     },
     {
       "id": "20220801_54il8dad0efu23iimfvj840s6g",
@@ -57084,16 +57343,16 @@
       "date": "2022-02-01"
     },
     {
-      "id": "20220202_1vrrk2jus9p35affishleffrto",
+      "id": "20220202_5tnpi2vcuqllbrnef7p3co6mj0",
       "status": "confirmed",
-      "summary": "Second day of Lunar New Year",
+      "summary": "Second Day of Lunar New Year",
       "region": "Thailand",
       "date": "2022-02-02"
     },
     {
-      "id": "20220203_3i3399tu11ortdku8auhlvdfak",
+      "id": "20220203_hnb786vatl6533us4nbjq9tcsg",
       "status": "confirmed",
-      "summary": "Third day of Lunar New Year",
+      "summary": "Third Day of Lunar New Year",
       "region": "Thailand",
       "date": "2022-02-03"
     },
@@ -57329,16 +57588,16 @@
       "date": "2023-01-22"
     },
     {
-      "id": "20230123_8la0pvc22n9rrnpl2lsg4rg9r4",
+      "id": "20230123_cjuu0f1gjqmjm2i9il7gl45vm8",
       "status": "confirmed",
-      "summary": "Second day of Lunar New Year",
+      "summary": "Second Day of Lunar New Year",
       "region": "Thailand",
       "date": "2023-01-23"
     },
     {
-      "id": "20230124_m1qisipq71h58p94br1u8il6s4",
+      "id": "20230124_niaqvcadk2faca6hv2d3j5r9so",
       "status": "confirmed",
-      "summary": "Third day of Lunar New Year",
+      "summary": "Third Day of Lunar New Year",
       "region": "Thailand",
       "date": "2023-01-24"
     },
@@ -57732,13 +57991,6 @@
       "date": "2022-03-03"
     },
     {
-      "id": "20220328_2tqs371aa1egsk88st6o8j8as8",
-      "status": "confirmed",
-      "summary": "Proclamation of Independence Day",
-      "region": "Timor-Leste",
-      "date": "2022-03-28"
-    },
-    {
       "id": "20220415_f4pkqikgj9i4rj8u5vd326bhlg",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -57809,6 +58061,13 @@
       "date": "2022-11-12"
     },
     {
+      "id": "20221128_rb0pgi19j9a496k2k9fuj35db4",
+      "status": "confirmed",
+      "summary": "Proclamation of Independence Day",
+      "region": "Timor-Leste",
+      "date": "2022-11-28"
+    },
+    {
       "id": "20221207_4mgbc6n9k31q46tjck4lg2sjhs",
       "status": "confirmed",
       "summary": "Day of Remembrance",
@@ -57849,13 +58108,6 @@
       "summary": "Veteran's Day",
       "region": "Timor-Leste",
       "date": "2023-03-03"
-    },
-    {
-      "id": "20230328_0dfi2c2i9v3s1rc1116n1c0les",
-      "status": "confirmed",
-      "summary": "Proclamation of Independence Day",
-      "region": "Timor-Leste",
-      "date": "2023-03-28"
     },
     {
       "id": "20230407_9lkeo3fgrlgamr88pra3rdi0qg",
@@ -57926,6 +58178,13 @@
       "summary": "Youth National Day",
       "region": "Timor-Leste",
       "date": "2023-11-12"
+    },
+    {
+      "id": "20231128_qa20kd6msj8th4t2636luhcro4",
+      "status": "confirmed",
+      "summary": "Proclamation of Independence Day",
+      "region": "Timor-Leste",
+      "date": "2023-11-28"
     },
     {
       "id": "20231207_cn95e11igssuqpo0iqt769ifto",
@@ -60643,6 +60902,13 @@
       "date": "2022-02-14"
     },
     {
+      "id": "20220216_2qrmc03hc50tu3euk9nbfl9c3o",
+      "status": "confirmed",
+      "summary": "Unity Day",
+      "region": "Ukraine",
+      "date": "2022-02-16"
+    },
+    {
       "id": "20220308_kpudck3tluqsg777h85hsqceas",
       "status": "confirmed",
       "summary": "International Women's Day",
@@ -60907,6 +61173,13 @@
       "summary": "Valentine's Day",
       "region": "Ukraine",
       "date": "2023-02-14"
+    },
+    {
+      "id": "20230216_8tasnlvh4gvj7k8gd679s9and0",
+      "status": "confirmed",
+      "summary": "Unity Day",
+      "region": "Ukraine",
+      "date": "2023-02-16"
     },
     {
       "id": "20230308_thue01p6qoq59b2saud8ls2ucg",
@@ -62277,6 +62550,13 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_nj4k5uvvknc0733mh16p5jh8r4",
+      "status": "confirmed",
+      "summary": "National Workers Day observed",
+      "region": "St. Vincent & Grenadines",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220606_invaac30vrto1rm8rihtof5dd8",
       "status": "confirmed",
       "summary": "Whit Monday",
@@ -62324,6 +62604,13 @@
       "summary": "Boxing Day",
       "region": "St. Vincent & Grenadines",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_jc2fh4c3fd1l0vi684rj56846o",
+      "status": "confirmed",
+      "summary": "Christmas Day observed",
+      "region": "St. Vincent & Grenadines",
+      "date": "2022-12-27"
     },
     {
       "id": "20230101_tj5ijos9duuldarj8u2e90l5ss",
@@ -62447,9 +62734,9 @@
       "date": "2022-02-28"
     },
     {
-      "id": "20220301_uv3lsfm3t0cj19o4m3fl7c9bj4",
+      "id": "20220301_tppmdaev0t37vpl3b7u4ldrgj4",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Venezuela",
       "date": "2022-03-01"
     },
@@ -62657,9 +62944,9 @@
       "date": "2023-02-20"
     },
     {
-      "id": "20230221_df25tknairpleoi36km0m4dvg8",
+      "id": "20230221_dummkefir5efdjkqo3eoo6ltqk",
       "status": "confirmed",
-      "summary": "Carnival / Shrove Tuesday",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Venezuela",
       "date": "2023-02-21"
     },
@@ -62846,6 +63133,13 @@
       "summary": "Easter Monday",
       "region": "British Virgin Islands",
       "date": "2022-04-18"
+    },
+    {
+      "id": "20220603_5mjgh93ccffas9hp2540l344qg",
+      "status": "confirmed",
+      "summary": "Queen's Platinum Jubilee Holiday",
+      "region": "British Virgin Islands",
+      "date": "2022-06-03"
     },
     {
       "id": "20220606_nbk8ls4lqug2c68igklu7osdbk",
@@ -64167,16 +64461,16 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_jhtt07p6f3rcnic7gku8idl5h4",
+      "id": "20230102_a3i0ppdn1hpvj3q4aj32if9a7o",
       "status": "confirmed",
-      "summary": "Day After New Year's Day",
+      "summary": "New Year's Day observed",
       "region": "Samoa",
       "date": "2023-01-02"
     },
     {
-      "id": "20230103_o5r5gm2ela4d8nh3hnold0cdp4",
+      "id": "20230103_7fl7jcsf8pqn99gc9lct8mhr7s",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day After New Year's Day",
       "region": "Samoa",
       "date": "2023-01-03"
     },
@@ -64922,11 +65216,11 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220301_e8e71kpet70q152sdhp8gb46rs",
+      "id": "20220228_8a54c4jodv20sv3gosvc6qc38c",
       "status": "confirmed",
       "summary": "Mi'raj",
       "region": "Mayotte",
-      "date": "2022-03-01"
+      "date": "2022-02-28"
     },
     {
       "id": "20220418_ti7277c0daeq8mf22kkmk6bd68",
