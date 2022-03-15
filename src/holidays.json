@@ -2877,16 +2877,16 @@
       "date": "2022-01-26"
     },
     {
-      "id": "20220201_4k14q4ho3tcguqblb1msl7ckt8",
+      "id": "20220201_7a0mborrfgft79h1jtih9ce8qo",
       "status": "confirmed",
-      "summary": "Chinese New Year (Christmas Island)",
+      "summary": "Lunar New Year (Christmas Island)",
       "region": "Australia",
       "date": "2022-02-01"
     },
     {
-      "id": "20220202_6o1rmg0g72d7abvpp543gbv4h8",
+      "id": "20220202_kvfc42l35n4et6jqtb3e177t8c",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday (Day 2) (Christmas Island)",
+      "summary": "Lunar New Year Holiday (Day 2) (Christmas Island)",
       "region": "Australia",
       "date": "2022-02-02"
     },
@@ -2896,20 +2896,6 @@
       "summary": "Royal Hobart Regatta (Tasmania)",
       "region": "Australia",
       "date": "2022-02-14"
-    },
-    {
-      "id": "20220306_4mgtbo6v5tclmcdt3vjefqdru8",
-      "status": "confirmed",
-      "summary": "Foundation Day",
-      "region": "Australia",
-      "date": "2022-03-06"
-    },
-    {
-      "id": "20220307_2vafm8umg3eqk3u0gkcbq7uifk",
-      "status": "confirmed",
-      "summary": "Day off for Foundation Day",
-      "region": "Australia",
-      "date": "2022-03-07"
     },
     {
       "id": "20220307_rsfctrp74oteoc9dp35tlqkc40",
@@ -3052,13 +3038,6 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220608_5l7oc44n4kli2kheirn7edbqdo",
-      "status": "confirmed",
-      "summary": "Bounty Day",
-      "region": "Australia",
-      "date": "2022-06-08"
-    },
-    {
       "id": "20220613_ajgear9daaip4adsvatoeoujgs",
       "status": "confirmed",
       "summary": "Queen's Birthday (regional holiday)",
@@ -3150,13 +3129,6 @@
       "date": "2022-10-08"
     },
     {
-      "id": "20221010_shjqb36esjkfi2lqft27un67cs",
-      "status": "confirmed",
-      "summary": "Norfolk Island Agricultural Show Day",
-      "region": "Australia",
-      "date": "2022-10-10"
-    },
-    {
       "id": "20221010_vbsisns534c1gojkd681rn6jko",
       "status": "confirmed",
       "summary": "Day off for Hari Maulad Nabi (Cocos and Keeling Islands)",
@@ -3197,13 +3169,6 @@
       "summary": "Remembrance Day",
       "region": "Australia",
       "date": "2022-11-11"
-    },
-    {
-      "id": "20221130_lmpbf9v6bomtb3j4p3uv677bsk",
-      "status": "confirmed",
-      "summary": "Thanksgiving Day",
-      "region": "Australia",
-      "date": "2022-11-30"
     },
     {
       "id": "20221224_1jq24gbu4oe8ln0lbpo5ro68vo",
@@ -3283,16 +3248,16 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230122_ca9hh77v2dj0jthhqpcc94o5t8",
+      "id": "20230122_eedimsk5ut0k5up5ut9bu52pd4",
       "status": "confirmed",
-      "summary": "Chinese New Year (Christmas Island)",
+      "summary": "Lunar New Year (Christmas Island)",
       "region": "Australia",
       "date": "2023-01-22"
     },
     {
-      "id": "20230123_v8rnhq0hefe4h2k9qbrql5s9s8",
+      "id": "20230123_919v1dm9chs0n91qgvehntsjgk",
       "status": "confirmed",
-      "summary": "Chinese New Year Holiday (Day 2) (Christmas Island)",
+      "summary": "Lunar New Year Holiday (Day 2) (Christmas Island)",
       "region": "Australia",
       "date": "2023-01-23"
     },
@@ -3314,13 +3279,6 @@
       "id": "20230306_03g77qvhlq9n1pjgm6fc57rp9g",
       "status": "confirmed",
       "summary": "Labour Day (Western Australia)",
-      "region": "Australia",
-      "date": "2023-03-06"
-    },
-    {
-      "id": "20230306_v9dh8b6bu6ro51ncrgqfq71kq8",
-      "status": "confirmed",
-      "summary": "Foundation Day",
       "region": "Australia",
       "date": "2023-03-06"
     },
@@ -3388,7 +3346,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_gi3s397tdfb9t1cqnc0ne8ba2c",
+      "id": "20230409_kmf23o7r1gu7iema5nvhjkite0",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3463,13 +3421,6 @@
       "summary": "Western Australia Day (Western Australia)",
       "region": "Australia",
       "date": "2023-06-05"
-    },
-    {
-      "id": "20230608_f4neev73s2a325mb4iunofb7uc",
-      "status": "confirmed",
-      "summary": "Bounty Day",
-      "region": "Australia",
-      "date": "2023-06-08"
     },
     {
       "id": "20230612_uh73nme4pmjjah2inmjklva9pk",
@@ -3556,13 +3507,6 @@
       "date": "2023-10-02"
     },
     {
-      "id": "20231009_r938d2r2ngbnbk2aa60ktop774",
-      "status": "confirmed",
-      "summary": "Norfolk Island Agricultural Show Day",
-      "region": "Australia",
-      "date": "2023-10-09"
-    },
-    {
       "id": "20231015_i6dvkqdv5ugejl3brbd1a3je7s",
       "status": "confirmed",
       "summary": "International Pregnancy and Infant Loss Remembrance Day",
@@ -3596,13 +3540,6 @@
       "summary": "Remembrance Day",
       "region": "Australia",
       "date": "2023-11-11"
-    },
-    {
-      "id": "20231129_910hpvgh3fph42d0f1hos8mlak",
-      "status": "confirmed",
-      "summary": "Thanksgiving Day",
-      "region": "Australia",
-      "date": "2023-11-29"
     },
     {
       "id": "20231224_casiql9vr1r1t535t4gujpkel8",
