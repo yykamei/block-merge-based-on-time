@@ -21122,7 +21122,7 @@
       "date": "2022-08-08"
     },
     {
-      "id": "20220815_gscu1jmj7eq23ls7g0nj5he50s",
+      "id": "20220815_nbr82ik53b9tspg9dbnoqse9p4",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -43740,6 +43740,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220214_pp32rlv5sglnmtd0hkg8quu6gg",
+      "status": "confirmed",
+      "summary": "Day of Love and Friendship",
+      "region": "Nicaragua",
+      "date": "2022-02-14"
+    },
+    {
       "id": "20220414_4mt0jq9sjfjg2nrau6fevigh5o",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -43857,6 +43864,13 @@
       "summary": "New Year's Day",
       "region": "Nicaragua",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230214_b05vf4151sqbkb1ok3n5v1etq4",
+      "status": "confirmed",
+      "summary": "Day of Love and Friendship",
+      "region": "Nicaragua",
+      "date": "2023-02-14"
     },
     {
       "id": "20230406_8udnh0kplm08ej4bhg64e860m8",
@@ -57730,6 +57744,13 @@
       "date": "2022-01-03"
     },
     {
+      "id": "20220307_ds00h3um57bbn9l2tb3ljulghs",
+      "status": "confirmed",
+      "summary": "International Women's Day Holiday",
+      "region": "Tajikistan",
+      "date": "2022-03-07"
+    },
+    {
       "id": "20220308_vvu5n70ppvtkao3fl08or9hs1c",
       "status": "confirmed",
       "summary": "International Women's Day",
@@ -57763,6 +57784,13 @@
       "summary": "Navruz Celebration",
       "region": "Tajikistan",
       "date": "2022-03-24"
+    },
+    {
+      "id": "20220325_sjs7or0t7o6s8mvvsoemu4dms4",
+      "status": "confirmed",
+      "summary": "Navruz Celebration",
+      "region": "Tajikistan",
+      "date": "2022-03-25"
     },
     {
       "id": "20220501_goja52lt6la5pnujoroh4dsbm0",
