@@ -33539,6 +33539,13 @@
       "date": "2022-01-02"
     },
     {
+      "id": "20220103_ha50sb7iqpd3qj7hk5foplral8",
+      "status": "confirmed",
+      "summary": "New Year holiday observed",
+      "region": "St. Lucia",
+      "date": "2022-01-03"
+    },
+    {
       "id": "20220222_ms0a20iimnq6jdp1ohlc7cgufk",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -33565,6 +33572,13 @@
       "summary": "Labor Day / May Day",
       "region": "St. Lucia",
       "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_uj33eeugsf2f046n7ths4mkdqs",
+      "status": "confirmed",
+      "summary": "Labor Day / May Day observed",
+      "region": "St. Lucia",
+      "date": "2022-05-02"
     },
     {
       "id": "20220606_utm19l6fvtrs0g830fdrd37ef4",
@@ -33609,11 +33623,25 @@
       "date": "2022-12-25"
     },
     {
+      "id": "20221226_2f6v4sc9gshjbi6l1sl5v9aop8",
+      "status": "confirmed",
+      "summary": "Christmas Day observed",
+      "region": "St. Lucia",
+      "date": "2022-12-26"
+    },
+    {
       "id": "20221226_n139hig89v6ic5lpm3bfahvl2k",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "St. Lucia",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_ef849drhtr8pstkmpgi6pqc4s4",
+      "status": "confirmed",
+      "summary": "Boxing Day observed",
+      "region": "St. Lucia",
+      "date": "2022-12-27"
     },
     {
       "id": "20230101_tmg83hkp7qp1to9dt38gdce73s",
