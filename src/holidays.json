@@ -44514,6 +44514,20 @@
       "date": "2022-02-02"
     },
     {
+      "id": "20220206_lm4fj1ade02qe09k9j34cd23jk",
+      "status": "confirmed",
+      "summary": "Basant Panchami",
+      "region": "Nepal",
+      "date": "2022-02-06"
+    },
+    {
+      "id": "20220219_abt9f2291g8f13ev809a7kklv0",
+      "status": "confirmed",
+      "summary": "National Democracy Day",
+      "region": "Nepal",
+      "date": "2022-02-19"
+    },
+    {
       "id": "20220301_05q9jn76n9q0qmtevfa71asd24",
       "status": "confirmed",
       "summary": "Maha Shivaratri",
@@ -44533,6 +44547,13 @@
       "summary": "Nari Dibas",
       "region": "Nepal",
       "date": "2022-03-08"
+    },
+    {
+      "id": "20220414_ba53k40egqg1irm9tn7ktcmlco",
+      "status": "confirmed",
+      "summary": "Nepali New Year",
+      "region": "Nepal",
+      "date": "2022-04-14"
     },
     {
       "id": "20220501_a0ghq5sm01ocrdabe07h7np2rc",
@@ -44577,23 +44598,23 @@
       "date": "2022-07-10"
     },
     {
-      "id": "20220811_tljt4279dr9cr5apgep8l6gu2k",
+      "id": "20220812_dt1ifpqgm9bs7bs50ik8gb9cs4",
       "status": "confirmed",
       "summary": "Janai Purnima",
       "region": "Nepal",
-      "date": "2022-08-11"
+      "date": "2022-08-12"
     },
     {
-      "id": "20220818_m3l3qr8u9p5oh363lp5jcmlv60",
+      "id": "20220812_h378atoja63ig0f8e5o6b2bhcg",
+      "status": "confirmed",
+      "summary": "Gai Jatra",
+      "region": "Nepal",
+      "date": "2022-08-12"
+    },
+    {
+      "id": "20220819_98vil9rda06of74a7ljbpocfjk",
       "status": "confirmed",
       "summary": "Shree Krishna Janamashtami",
-      "region": "Nepal",
-      "date": "2022-08-18"
-    },
-    {
-      "id": "20220819_0tlntgcuomv55osh074ji9de5o",
-      "status": "confirmed",
-      "summary": "Gaura Parba",
       "region": "Nepal",
       "date": "2022-08-19"
     },
@@ -44603,6 +44624,13 @@
       "summary": "Hartalika Teej",
       "region": "Nepal",
       "date": "2022-08-30"
+    },
+    {
+      "id": "20220903_16rf08t34hr6mpu2ljdur2bpdo",
+      "status": "confirmed",
+      "summary": "Gaura Parba",
+      "region": "Nepal",
+      "date": "2022-09-03"
     },
     {
       "id": "20220918_698udsv3pd2ut4jebl2u7ujt8o",
@@ -44617,6 +44645,13 @@
       "summary": "Constitution Day",
       "region": "Nepal",
       "date": "2022-09-19"
+    },
+    {
+      "id": "20220926_v73opviojbq5aum99kaq586ti4",
+      "status": "confirmed",
+      "summary": "Ghatasthapana",
+      "region": "Nepal",
+      "date": "2022-09-26"
     },
     {
       "id": "20221002_ns4b9tim5a4ph1th6rm0afjsrs",
@@ -44647,11 +44682,18 @@
       "date": "2022-10-05"
     },
     {
-      "id": "20221020_msps12q6va7m8nf6mi6krk74ho",
+      "id": "20221006_jdr3ig6326qfelahq93t8mhfi8",
       "status": "confirmed",
       "summary": "Ekadashi (Dashain)",
       "region": "Nepal",
-      "date": "2022-10-20"
+      "date": "2022-10-06"
+    },
+    {
+      "id": "20221007_s8v43eq7dpq3et1beh5v60vo7k",
+      "status": "confirmed",
+      "summary": "Duwadashi (Dashain)",
+      "region": "Nepal",
+      "date": "2022-10-07"
     },
     {
       "id": "20221024_5527m5isrr2t4soa08hb7o1ok0",
@@ -44659,6 +44701,13 @@
       "summary": "Laxmi Puja (Tihar)",
       "region": "Nepal",
       "date": "2022-10-24"
+    },
+    {
+      "id": "20221025_pdih2pjhab2lc6vcp6hhmekg58",
+      "status": "confirmed",
+      "summary": "Gai Tihar",
+      "region": "Nepal",
+      "date": "2022-10-25"
     },
     {
       "id": "20221026_av5nnk3bcel2p8jvddj5586c3g",
@@ -44682,6 +44731,13 @@
       "date": "2022-10-30"
     },
     {
+      "id": "20221108_qqg72345ejhnd8r8e2csr5spk8",
+      "status": "confirmed",
+      "summary": "Guru Nanak Jayanti",
+      "region": "Nepal",
+      "date": "2022-11-08"
+    },
+    {
       "id": "20221111_ct2g0o9okbfp9gejkbpkaaiji8",
       "status": "confirmed",
       "summary": "Phalgunanda Jayanti",
@@ -44689,11 +44745,18 @@
       "date": "2022-11-11"
     },
     {
-      "id": "20221207_a4tcpgnn60e713ekeeruru4le0",
+      "id": "20221203_q3018ahei8sc16jvivi3pshftc",
+      "status": "confirmed",
+      "summary": "International Day of Disabled Persons",
+      "region": "Nepal",
+      "date": "2022-12-03"
+    },
+    {
+      "id": "20221208_i4rg2db5qe4cfj8l1g7mjj6s0c",
       "status": "confirmed",
       "summary": "Udhauli Parva",
       "region": "Nepal",
-      "date": "2022-12-07"
+      "date": "2022-12-08"
     },
     {
       "id": "20221225_k4h77049oohi2dea3jvcm1nafg",
