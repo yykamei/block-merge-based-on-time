@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.7...HEAD)
 
+**Implemented enhancements:**
+
+- Update Holidays [\#720](https://github.com/yykamei/block-merge-based-on-time/pull/720) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 **Merged pull requests:**
 
 - Bump @types/luxon from 2.3.0 to 2.3.1 [\#715](https://github.com/yykamei/block-merge-based-on-time/pull/715) ([dependabot[bot]](https://github.com/apps/dependabot))
