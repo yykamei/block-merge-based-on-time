@@ -2250,7 +2250,7 @@
       "date": "2022-04-02"
     },
     {
-      "id": "20220414_chgn3mn044k7k0iat9i4jm76bg",
+      "id": "20220414_2ltsa0f9mfi25dq9fcgv23m7vk",
       "status": "confirmed",
       "summary": "Maundy Thursday",
       "region": "Argentina",
@@ -2411,6 +2411,13 @@
       "date": "2022-10-05"
     },
     {
+      "id": "20221007_u6e559ok19qastt5q186k4l6do",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Argentina",
+      "date": "2022-10-07"
+    },
+    {
       "id": "20221010_p7h1jikrd0m62pkcdn9lvfd7f4",
       "status": "confirmed",
       "summary": "Day of Respect for Cultural Diversity",
@@ -2418,9 +2425,16 @@
       "date": "2022-10-10"
     },
     {
-      "id": "20221121_o9v341inp835q9c79miev5216g",
+      "id": "20221120_3noj248iikboionvt1rrp6olug",
       "status": "confirmed",
       "summary": "National Sovereignty Day",
+      "region": "Argentina",
+      "date": "2022-11-20"
+    },
+    {
+      "id": "20221121_o9usbmujd8a7m4ot0tl5hlor7k",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
       "region": "Argentina",
       "date": "2022-11-21"
     },
@@ -2430,6 +2444,13 @@
       "summary": "Feast of the Immaculate Conception",
       "region": "Argentina",
       "date": "2022-12-08"
+    },
+    {
+      "id": "20221209_ep3dofs8b5hq461g58c3ll7kfc",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Argentina",
+      "date": "2022-12-09"
     },
     {
       "id": "20221225_coahccckmoi4cmkdo44gfd34t0",
