@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.9...HEAD)
+
+**Merged pull requests:**
+
+- Bump minimist from 1.2.5 to 1.2.6 [\#724](https://github.com/yykamei/block-merge-based-on-time/pull/724) ([yykamei](https://github.com/yykamei))
+
 ## [v2.0.9](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.9) (2022-03-23)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.8...v2.0.9)
