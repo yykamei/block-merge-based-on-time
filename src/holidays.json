@@ -27433,11 +27433,11 @@
       "date": "2022-03-01"
     },
     {
-      "id": "20220319_l1lvpf3bfb39vtnkfbl3c0ei9o",
+      "id": "20220318_u5l2mmuqve8s3838vpp6ea47g4",
       "status": "confirmed",
       "summary": "Imam Mahdi's birthday",
       "region": "Iran",
-      "date": "2022-03-19"
+      "date": "2022-03-18"
     },
     {
       "id": "20220320_abvagkrtq3d1bupc99hf5jot10",
@@ -27606,6 +27606,34 @@
       "summary": "Oil Nationalization Day",
       "region": "Iran",
       "date": "2023-03-20"
+    },
+    {
+      "id": "20230321_ehfg3aojfb5f4p0244c56l7qes",
+      "status": "confirmed",
+      "summary": "Norooz (Persian New Year)",
+      "region": "Iran",
+      "date": "2023-03-21"
+    },
+    {
+      "id": "20230322_tp8h6i6robpflcjr95se03r16k",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2023-03-22"
+    },
+    {
+      "id": "20230323_7rt00i37o1q9eufgbuhvrhdvto",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2023-03-23"
+    },
+    {
+      "id": "20230324_45vad8rrq4atnpahti9udk1pe4",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2023-03-24"
     },
     {
       "id": "20230401_g3ol1geihrviqisbqrtd0j9qss",
@@ -62133,6 +62161,20 @@
       "date": "2022-03-21"
     },
     {
+      "id": "20220322_83fjpfhg8kng9hjrhabb0um93o",
+      "status": "confirmed",
+      "summary": "Nowruz Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-03-22"
+    },
+    {
+      "id": "20220323_7rqgus2vjhls144m5fcd6rc07c",
+      "status": "confirmed",
+      "summary": "Nowruz Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-03-23"
+    },
+    {
       "id": "20220503_bmckt8vnin6vf6cfun81vc2ue4",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -65561,9 +65603,9 @@
       "date": "2022-03-12"
     },
     {
-      "id": "20220318_mov3bhbeop015tghgbp60q1kos",
+      "id": "20220318_qtjr0skvi8p67dg05bgrtuhsnc",
       "status": "confirmed",
-      "summary": "State Funeral for President Banda",
+      "summary": "State Funeral for Former President Banda",
       "region": "Zambia",
       "date": "2022-03-18"
     },
