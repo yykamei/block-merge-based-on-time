@@ -6,6 +6,9 @@
 
 **Merged pull requests:**
 
+- Bump typescript from 4.6.2 to 4.6.3 [\#728](https://github.com/yykamei/block-merge-based-on-time/pull/728) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 17.0.22 to 17.0.23 [\#727](https://github.com/yykamei/block-merge-based-on-time/pull/727) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ts-jest from 27.1.3 to 27.1.4 [\#726](https://github.com/yykamei/block-merge-based-on-time/pull/726) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump minimist from 1.2.5 to 1.2.6 [\#724](https://github.com/yykamei/block-merge-based-on-time/pull/724) ([yykamei](https://github.com/yykamei))
 
 ## [v2.0.9](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.9) (2022-03-23)
