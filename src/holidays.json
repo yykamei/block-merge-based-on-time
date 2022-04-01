@@ -516,18 +516,11 @@
       "date": "2022-02-15"
     },
     {
-      "id": "20220321_jfgg2hvl786ed6f02u3b13ci44",
+      "id": "20220321_icjh7ig2pb91jkm9bbsrdrcsf8",
       "status": "confirmed",
       "summary": "Nauruz",
       "region": "Afghanistan",
       "date": "2022-03-21"
-    },
-    {
-      "id": "20220322_q2uvvnp7bp3rv8a6mejo70c8bg",
-      "status": "confirmed",
-      "summary": "Nauruz",
-      "region": "Afghanistan",
-      "date": "2022-03-22"
     },
     {
       "id": "20220403_bk7rshok5dl73arh869ig66mg4",
@@ -635,18 +628,11 @@
       "date": "2023-02-15"
     },
     {
-      "id": "20230321_r06chiv2vb8p1kvud6idgf428k",
+      "id": "20230321_m2rbs4c00t1goct68lig0al6tk",
       "status": "confirmed",
       "summary": "Nauruz",
       "region": "Afghanistan",
       "date": "2023-03-21"
-    },
-    {
-      "id": "20230322_j46721em4nnjjukaocdbvvir3c",
-      "status": "confirmed",
-      "summary": "Nauruz",
-      "region": "Afghanistan",
-      "date": "2023-03-22"
     },
     {
       "id": "20230323_nophbeaqpo5qh82ecdp223k5fc",
@@ -17044,6 +17030,13 @@
       "date": "2022-05-05"
     },
     {
+      "id": "20220508_bf1h4tv6akniol5if1qjofud60",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Netherlands",
+      "date": "2022-05-08"
+    },
+    {
       "id": "20220526_6971d153b880f3g8s3ipo548t0",
       "status": "confirmed",
       "summary": "Ascension Day",
@@ -17063,6 +17056,13 @@
       "summary": "Whit Monday",
       "region": "Netherlands",
       "date": "2022-06-06"
+    },
+    {
+      "id": "20220619_feommve53p6jl8nkc3n9fjvbi0",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Netherlands",
+      "date": "2022-06-19"
     },
     {
       "id": "20220701_ej1837al9rpksjds2uq8lq66io",
@@ -17156,6 +17156,13 @@
       "date": "2023-05-05"
     },
     {
+      "id": "20230514_9q8js4snr6eknt72fcsdfkr08c",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Netherlands",
+      "date": "2023-05-14"
+    },
+    {
       "id": "20230518_m43u81dvgn787tkljmfbsrkkf8",
       "status": "confirmed",
       "summary": "Ascension Day",
@@ -17175,6 +17182,13 @@
       "summary": "Whit Monday",
       "region": "Netherlands",
       "date": "2023-05-29"
+    },
+    {
+      "id": "20230618_dk26dfkqhfpgof9ijajlg00ots",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Netherlands",
+      "date": "2023-06-18"
     },
     {
       "id": "20230701_j9lc8efqq2t1kbo8qaiqkdrids",
@@ -22115,6 +22129,13 @@
       "date": "2022-05-08"
     },
     {
+      "id": "20220525_5fipflo81n15347hku6gqani0o",
+      "status": "confirmed",
+      "summary": "African Union Day",
+      "region": "Ghana",
+      "date": "2022-05-25"
+    },
+    {
       "id": "20220619_glpp1em30nt6vtb4rihnd003vc",
       "status": "confirmed",
       "summary": "Fathers' Day",
@@ -22253,6 +22274,13 @@
       "summary": "Mothers' Day",
       "region": "Ghana",
       "date": "2023-05-14"
+    },
+    {
+      "id": "20230525_na50llpmgln4leae3otmrmpac8",
+      "status": "confirmed",
+      "summary": "African Union Day",
+      "region": "Ghana",
+      "date": "2023-05-25"
     },
     {
       "id": "20230618_26fahlu1hjl2mmtk6adf8csft8",
@@ -35501,6 +35529,13 @@
       "date": "2022-03-27"
     },
     {
+      "id": "20220402_3rsbnal1atsvs6lsphpvcb5t0s",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Morocco",
+      "date": "2022-04-02"
+    },
+    {
       "id": "20220501_1v07qc64vdkrjbtdr678p0bt90",
       "status": "confirmed",
       "summary": "Labour Day/May Day",
@@ -35625,6 +35660,13 @@
       "summary": "Daylight Saving Time ends",
       "region": "Morocco",
       "date": "2023-03-19"
+    },
+    {
+      "id": "20230323_3am3p7ab723o91j0rnfdetfqbo",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Morocco",
+      "date": "2023-03-23"
     },
     {
       "id": "20230422_ckb5e7idbhvu2t37ibq434pok4",
@@ -36618,6 +36660,20 @@
       "date": "2022-06-24"
     },
     {
+      "id": "20220808_bgo7cbjlr5d91085tr7nnj3a18",
+      "status": "confirmed",
+      "summary": "Feast of Saint Roman Eve",
+      "region": "Monaco",
+      "date": "2022-08-08"
+    },
+    {
+      "id": "20220809_3mloohnihcdg5qo12kk4sq6o8o",
+      "status": "confirmed",
+      "summary": "Feast of Saint Roman",
+      "region": "Monaco",
+      "date": "2022-08-09"
+    },
+    {
       "id": "20220815_gvt6ms2h340orbb7lnovuq8b7s",
       "status": "confirmed",
       "summary": "Assumption of Mary",
@@ -36784,6 +36840,20 @@
       "summary": "Saint John's Day",
       "region": "Monaco",
       "date": "2023-06-24"
+    },
+    {
+      "id": "20230808_50ejvio4uesg4dgdj25be7lkgs",
+      "status": "confirmed",
+      "summary": "Feast of Saint Roman Eve",
+      "region": "Monaco",
+      "date": "2023-08-08"
+    },
+    {
+      "id": "20230809_olp00t4dfuk8o5u6r6a78u85v8",
+      "status": "confirmed",
+      "summary": "Feast of Saint Roman",
+      "region": "Monaco",
+      "date": "2023-08-09"
     },
     {
       "id": "20230815_vig94h6gdul87l8e7t7u37ouj0",
@@ -37800,9 +37870,9 @@
       "date": "2022-09-16"
     },
     {
-      "id": "20221012_6tosjp1jodbasg0hvg66am7t88",
+      "id": "20221012_n4iirjvh6mr2gf7g7h0rnbas0o",
       "status": "confirmed",
-      "summary": "Columbus Day",
+      "summary": "Day of Race",
       "region": "Mexico",
       "date": "2022-10-12"
     },
@@ -37933,9 +38003,9 @@
       "date": "2023-09-16"
     },
     {
-      "id": "20231012_qjj7i8eu8443h15ecq16l9k1j0",
+      "id": "20231012_t8c800logkvltnlo8185vqb7cs",
       "status": "confirmed",
-      "summary": "Columbus Day",
+      "summary": "Day of Race",
       "region": "Mexico",
       "date": "2023-10-12"
     },
@@ -40585,6 +40655,27 @@
       "date": "2022-03-02"
     },
     {
+      "id": "20220327_ni1h4im95eola4mc5elv7ekn70",
+      "status": "confirmed",
+      "summary": "Laetare Sunday",
+      "region": "Martinique",
+      "date": "2022-03-27"
+    },
+    {
+      "id": "20220415_3gpoh5iuhlmduq30e9ur20pcao",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "Martinique",
+      "date": "2022-04-15"
+    },
+    {
+      "id": "20220417_u72hl5ak9g6urqtagickpvqfjk",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Martinique",
+      "date": "2022-04-17"
+    },
+    {
       "id": "20220418_9mubca7q2elrnbfkpa3roupk78",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -40702,6 +40793,27 @@
       "summary": "Carnival / Ash Wednesday",
       "region": "Martinique",
       "date": "2023-02-22"
+    },
+    {
+      "id": "20230319_1dtdes88avp2ha56mo491kr0gs",
+      "status": "confirmed",
+      "summary": "Laetare Sunday",
+      "region": "Martinique",
+      "date": "2023-03-19"
+    },
+    {
+      "id": "20230407_9egp5vchhm02h46m7vk5air74s",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "Martinique",
+      "date": "2023-04-07"
+    },
+    {
+      "id": "20230409_3dcupvfbq0h4pk4k2tdmhupu8o",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Martinique",
+      "date": "2023-04-09"
     },
     {
       "id": "20230410_ktsvi4aik2piof26frajoan9e0",
@@ -42591,6 +42703,20 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220415_ftnqvi92igij57eq2l2ddggq5s",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "New Caledonia",
+      "date": "2022-04-15"
+    },
+    {
+      "id": "20220417_2k7853n3ssmk97msgvca69u5lc",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "New Caledonia",
+      "date": "2022-04-17"
+    },
+    {
       "id": "20220418_tmsm2bod2eplggfh512dettb4k",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -42687,6 +42813,20 @@
       "summary": "New Year's Day",
       "region": "New Caledonia",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230407_p5u4h73jhhgah9tfishqmbnhlo",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "New Caledonia",
+      "date": "2023-04-07"
+    },
+    {
+      "id": "20230409_esn62kcgci39f5q0vn2tq9j1v8",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "New Caledonia",
+      "date": "2023-04-09"
     },
     {
       "id": "20230410_rsph5tfgq9r88dv9v7pp2jk9j0",
@@ -60427,6 +60567,13 @@
       "summary": "International Women's Day",
       "region": "Uganda",
       "date": "2022-03-08"
+    },
+    {
+      "id": "20220408_ilq5b1tnv6jdfitgoa53o100eo",
+      "status": "confirmed",
+      "summary": "Funeral of Jacob Oulanyah",
+      "region": "Uganda",
+      "date": "2022-04-08"
     },
     {
       "id": "20220415_o8ds1ic51o7iroil9pv6cb8o04",
