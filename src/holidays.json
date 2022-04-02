@@ -12644,11 +12644,11 @@
       "date": "2022-04-18"
     },
     {
-      "id": "20220429_c6maabk1obua6ubjv4agaksppg",
+      "id": "20220428_araa5t4lkk7jvsh38pdup3qakg",
       "status": "confirmed",
       "summary": "Day After Laila tou-Kadr",
       "region": "Côte d’Ivoire",
-      "date": "2022-04-29"
+      "date": "2022-04-28"
     },
     {
       "id": "20220501_m67dmf0kim77qnj5u8835vltjg",
@@ -13145,9 +13145,9 @@
       "date": "2022-09-19"
     },
     {
-      "id": "20221010_pdt27cjh5oe050hqlqdef8i5e4",
+      "id": "20221010_0s1me310ti53gi0gfmhinoqk38",
       "status": "confirmed",
-      "summary": "Columbus Day",
+      "summary": "Day of the Discovery of Two Worlds",
       "region": "Chile",
       "date": "2022-10-10"
     },
@@ -13278,9 +13278,9 @@
       "date": "2023-09-19"
     },
     {
-      "id": "20231009_rt3migbj9t0hdiandevr522anc",
+      "id": "20231009_gt9m3q9s61n6q2uu5qjh641atc",
       "status": "confirmed",
-      "summary": "Columbus Day",
+      "summary": "Day of the Discovery of Two Worlds",
       "region": "Chile",
       "date": "2023-10-09"
     },
@@ -27799,6 +27799,13 @@
       "date": "2022-03-18"
     },
     {
+      "id": "20220327_a4nik4hekuseh85udlbsrluclk",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Ireland",
+      "date": "2022-03-27"
+    },
+    {
       "id": "20220415_v490ujde8fmc8659pmf33rpjtk",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -27895,6 +27902,13 @@
       "summary": "St. Patrick's Day",
       "region": "Ireland",
       "date": "2023-03-17"
+    },
+    {
+      "id": "20230319_3nmc6mdeonbcgfhfia7rrj2o34",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Ireland",
+      "date": "2023-03-19"
     },
     {
       "id": "20230407_h4e2m077fsqanntvmrlkpt6338",
@@ -50669,11 +50683,11 @@
       "date": "2022-02-22"
     },
     {
-      "id": "20220403_0m4pvcdq4pk552ngft31pt3v6c",
+      "id": "20220402_ioc706cfetvl2t168s00g4rtp4",
       "status": "confirmed",
       "summary": "Ramadan begins",
       "region": "Saudi Arabia",
-      "date": "2022-04-03"
+      "date": "2022-04-02"
     },
     {
       "id": "20220503_hphr2g3vutbmndutvsel3p15og",
