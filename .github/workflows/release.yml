@@ -18,7 +18,6 @@ jobs:
 
       - uses: yykamei/actions-update-changelog@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           future-release: v${{ github.event.inputs.version }}
 
       - uses: actions/setup-node@v3
@@ -40,7 +39,6 @@ jobs:
 
       - uses: yykamei/actions-release-actions@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           tag: v${{ github.event.inputs.version }}
           title: Release v${{ github.event.inputs.version }}
           apply: ${{ github.event.inputs.apply }}
