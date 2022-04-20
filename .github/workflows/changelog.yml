@@ -18,7 +18,6 @@ jobs:
           branch: update-changelog-${{ steps.date.outputs.date }}
       - uses: yykamei/actions-gh-pr-create@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           branch: update-changelog-${{ steps.date.outputs.date }}
           title: Update CHANGELOG.md
           label: chore
