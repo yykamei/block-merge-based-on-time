@@ -311,9 +311,30 @@
       "date": "2022-04-02"
     },
     {
-      "id": "20220503_stdkp6ppaahc9qv9k699rmtvgs",
+      "id": "20220430_r2d1a5rvqd9h2eqn60ckrk88gc",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "United Arab Emirates",
+      "date": "2022-04-30"
+    },
+    {
+      "id": "20220501_p8cqimhds35269og8ridp3hcug",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "United Arab Emirates",
+      "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_58svj878r4fsbdolho4idela34",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
+      "region": "United Arab Emirates",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_k5579rkdtjuvu8ma7inp867h2k",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "United Arab Emirates",
       "date": "2022-05-03"
     },
@@ -325,11 +346,18 @@
       "date": "2022-05-04"
     },
     {
-      "id": "20220505_m9ska102bug79ksbfsr0euospk",
+      "id": "20220505_5a70bttkaeq3qegh8lfv49kmoc",
       "status": "confirmed",
       "summary": "Eid al-Fitr Holiday",
       "region": "United Arab Emirates",
       "date": "2022-05-05"
+    },
+    {
+      "id": "20220506_csn7m9iddv5nm3kb4k54g3rmqk",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "United Arab Emirates",
+      "date": "2022-05-06"
     },
     {
       "id": "20220701_g3q2opcgra06o77gdnvrosi66c",
@@ -2975,7 +3003,7 @@
       "date": "2022-04-16"
     },
     {
-      "id": "20220417_kee75sb71q678psgjvn1ea2mi0",
+      "id": "20220417_9rj5ml3b2e2o0lnaaf53tcqado",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3143,13 +3171,6 @@
       "date": "2022-10-10"
     },
     {
-      "id": "20221015_hq4te97so91dr5khcov64bs4uc",
-      "status": "confirmed",
-      "summary": "International Pregnancy and Infant Loss Remembrance Day",
-      "region": "Australia",
-      "date": "2022-10-15"
-    },
-    {
       "id": "20221020_sqhv3623r0p1vj91s50504cg7k",
       "status": "confirmed",
       "summary": "Royal Hobart Show (Tasmania)",
@@ -3234,7 +3255,7 @@
       "date": "2022-12-27"
     },
     {
-      "id": "20221231_5fnj7c6k5cgnmdt0m4q9521nck",
+      "id": "20221231_5n8oda639qgcehmurbjnj3lguo",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -3353,7 +3374,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_kmf23o7r1gu7iema5nvhjkite0",
+      "id": "20230409_gi3s397tdfb9t1cqnc0ne8ba2c",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3514,13 +3535,6 @@
       "date": "2023-10-02"
     },
     {
-      "id": "20231015_i6dvkqdv5ugejl3brbd1a3je7s",
-      "status": "confirmed",
-      "summary": "International Pregnancy and Infant Loss Remembrance Day",
-      "region": "Australia",
-      "date": "2023-10-15"
-    },
-    {
       "id": "20231026_njbtoin847ivhjdnk4ndki9400",
       "status": "confirmed",
       "summary": "Royal Hobart Show (Tasmania)",
@@ -3577,7 +3591,7 @@
       "date": "2023-12-26"
     },
     {
-      "id": "20231231_krhncjttnbo5m3gn5t9msc0hkg",
+      "id": "20231231_dfrk6670gdkbiafs1rs3nqc1sg",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -18123,6 +18137,13 @@
       "date": "2022-04-25"
     },
     {
+      "id": "20220430_736r998rqtq63an6m2buppulcc",
+      "status": "confirmed",
+      "summary": "Eid el Fitr Holiday",
+      "region": "Egypt",
+      "date": "2022-04-30"
+    },
+    {
       "id": "20220501_v43dor8pjcb5n5186l337k0lr0",
       "status": "confirmed",
       "summary": "Labor Day",
@@ -25305,25 +25326,32 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230121_7opf8hkd5hsjp880ogvq7eo62k",
+      "id": "20230122_1vnji973k5uahudr5sfdutrjsc",
       "status": "confirmed",
       "summary": "Lunar New Year's Day",
       "region": "Hong Kong",
-      "date": "2023-01-21"
+      "date": "2023-01-22"
     },
     {
-      "id": "20230123_815d2ps72c33ijk24cdvt4li84",
+      "id": "20230123_1cofek3pq4vv1iim06e67qkb6g",
       "status": "confirmed",
-      "summary": "Third Day of Lunar New Year",
+      "summary": "Second Day of Lunar New Year",
       "region": "Hong Kong",
       "date": "2023-01-23"
     },
     {
-      "id": "20230124_palfalspcurdhvg6d1ek8q1h78",
+      "id": "20230124_a9jtk93otijpdg5vacrb56u9ns",
+      "status": "confirmed",
+      "summary": "Third Day of Lunar New Year",
+      "region": "Hong Kong",
+      "date": "2023-01-24"
+    },
+    {
+      "id": "20230125_efesdjrhkvdr6dj8nnobovcge8",
       "status": "confirmed",
       "summary": "Fourth Day of Lunar New Year",
       "region": "Hong Kong",
-      "date": "2023-01-24"
+      "date": "2023-01-25"
     },
     {
       "id": "20230214_t9a0n7p1vksr99gp6k3hiuagv4",
@@ -25487,6 +25515,13 @@
       "summary": "Valentine's Day",
       "region": "Haiti",
       "date": "2022-02-14"
+    },
+    {
+      "id": "20220228_7gujhojb1piq64gtgguakm1tso",
+      "status": "confirmed",
+      "summary": "Carnival (From Noon)",
+      "region": "Haiti",
+      "date": "2022-02-28"
     },
     {
       "id": "20220301_0l9fnkckl29lse4btj2kvhc44c",
@@ -27559,6 +27594,20 @@
       "date": "2022-05-27"
     },
     {
+      "id": "20220604_55po8184tqqth57j4au5p6pl3c",
+      "status": "confirmed",
+      "summary": "Demise of Imam Khomeini",
+      "region": "Iran",
+      "date": "2022-06-04"
+    },
+    {
+      "id": "20220605_dlnmln9mdo5jinvus9449k66mo",
+      "status": "confirmed",
+      "summary": "Khordad National Uprising",
+      "region": "Iran",
+      "date": "2022-06-05"
+    },
+    {
       "id": "20220710_s5g07l159njtc2sjuh99k835cs",
       "status": "confirmed",
       "summary": "Eid-e-Ghorban (Feast of Sacrifice)",
@@ -27718,6 +27767,20 @@
       "summary": "Martyrdom of Imam Sadeq",
       "region": "Iran",
       "date": "2023-05-16"
+    },
+    {
+      "id": "20230604_3mdhh99mgqcadj3d3peg7fdrh0",
+      "status": "confirmed",
+      "summary": "Demise of Imam Khomeini",
+      "region": "Iran",
+      "date": "2023-06-04"
+    },
+    {
+      "id": "20230605_aj0r0jhehs830vflrn21o51298",
+      "status": "confirmed",
+      "summary": "Khordad National Uprising",
+      "region": "Iran",
+      "date": "2023-06-05"
     },
     {
       "id": "20230629_439n88e8cutf02226b97u4k89g",
@@ -30209,6 +30272,13 @@
       "date": "2022-04-18"
     },
     {
+      "id": "20220429_knu5c3c7ni0mjriphsmufit600",
+      "status": "confirmed",
+      "summary": "State Funeral for Former President Mwai Kibaki",
+      "region": "Kenya",
+      "date": "2022-04-29"
+    },
+    {
       "id": "20220501_fs78u0k8oicsbbicjikaqifn5o",
       "status": "confirmed",
       "summary": "Labour Day/May Day",
@@ -30223,11 +30293,11 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220504_iu4qocd5th4khdgh09nfh7ctvc",
+      "id": "20220503_23rfqfui3lbccn28e0m09fsbns",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Kenya",
-      "date": "2022-05-04"
+      "date": "2022-05-03"
     },
     {
       "id": "20220508_dv3istkudbc4fsaskkt4mcafkg",
@@ -41093,18 +41163,25 @@
       "date": "2022-05-02"
     },
     {
+      "id": "20220602_186rqrj01alehivlotqgb0reos",
+      "status": "confirmed",
+      "summary": "The Queen's Birthday Celebration",
+      "region": "Montserrat",
+      "date": "2022-06-02"
+    },
+    {
+      "id": "20220603_0g5dllda0ci9i5vh82cbtdn5ak",
+      "status": "confirmed",
+      "summary": "The Queen's Platinum Jubilee",
+      "region": "Montserrat",
+      "date": "2022-06-03"
+    },
+    {
       "id": "20220606_icd5a8p803gj433eeugugf39so",
       "status": "confirmed",
       "summary": "Whit Monday",
       "region": "Montserrat",
       "date": "2022-06-06"
-    },
-    {
-      "id": "20220613_38ikg5q2c9f2a8969fc0dase3k",
-      "status": "confirmed",
-      "summary": "Queen's Birthday Celebration",
-      "region": "Montserrat",
-      "date": "2022-06-13"
     },
     {
       "id": "20220801_nta7p270a4svl7dagp2icpp8gs",
@@ -41191,9 +41268,9 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230612_glt8f1cf9vt85s9eec7mp3kjas",
+      "id": "20230612_nhhjfsenv5518ve3pmou5cdj2k",
       "status": "confirmed",
-      "summary": "Queen's Birthday Celebration",
+      "summary": "The Queen's Birthday Celebration",
       "region": "Montserrat",
       "date": "2023-06-12"
     },
@@ -45542,6 +45619,13 @@
       "date": "2022-12-08"
     },
     {
+      "id": "20221220_0p6qd6he346tla9q8usnk19lcc",
+      "status": "confirmed",
+      "summary": "National Day of Mourning",
+      "region": "Panama",
+      "date": "2022-12-20"
+    },
+    {
       "id": "20221224_61vu1gieff7f2eno04t5a3o2ik",
       "status": "confirmed",
       "summary": "Christmas Eve",
@@ -45666,6 +45750,13 @@
       "summary": "Mother's Day",
       "region": "Panama",
       "date": "2023-12-08"
+    },
+    {
+      "id": "20231220_1jt5onco07663qn5s6o74qkr4g",
+      "status": "confirmed",
+      "summary": "National Day of Mourning",
+      "region": "Panama",
+      "date": "2023-12-20"
     },
     {
       "id": "20231225_ur5pfoujlfhdqf7s7b95mpoe0g",
@@ -46782,6 +46873,13 @@
       "summary": "Labour Day",
       "region": "Pakistan",
       "date": "2022-05-01"
+    },
+    {
+      "id": "20220502_f0ld8dhl702ni4384l7u0q5kn8",
+      "status": "confirmed",
+      "summary": "Eid-ul-Fitr Holiday",
+      "region": "Pakistan",
+      "date": "2022-05-02"
     },
     {
       "id": "20220503_f5dlpo461tlkpdesjoj049s8k0",
@@ -51799,11 +51897,25 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230123_99ga9dlj1fjup58i8ufj7vqt6g",
+      "id": "20230122_9vpcdbdv904gmb4147opjfpv40",
       "status": "confirmed",
       "summary": "Lunar New Year's Day",
       "region": "Singapore",
+      "date": "2023-01-22"
+    },
+    {
+      "id": "20230123_5eeo8jh8593uiah7j546d1mdt0",
+      "status": "confirmed",
+      "summary": "Second Day of Lunar New Year",
+      "region": "Singapore",
       "date": "2023-01-23"
+    },
+    {
+      "id": "20230124_sffnr66o66m23uaroq233pjlkc",
+      "status": "confirmed",
+      "summary": "Day off for Lunar New Year's Day",
+      "region": "Singapore",
+      "date": "2023-01-24"
     },
     {
       "id": "20230407_5053jpk1pj38uk70n1odd4tem8",
@@ -51841,18 +51953,18 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230602_ujgsm0k56b27147c6kqr23c4do",
+      "id": "20230603_e7lv2ce9vlm6fskf8klnus2nr4",
       "status": "confirmed",
       "summary": "Vesak Day",
       "region": "Singapore",
-      "date": "2023-06-02"
+      "date": "2023-06-03"
     },
     {
-      "id": "20230628_hsbnu56kh9b631gqsvp2khpitg",
+      "id": "20230629_qb1ck7425habs72647gf6nbbvc",
       "status": "confirmed",
       "summary": "Hari Raya Haji",
       "region": "Singapore",
-      "date": "2023-06-28"
+      "date": "2023-06-29"
     },
     {
       "id": "20230809_kemba2kno80htnties42svj8mc",
@@ -59539,11 +59651,11 @@
       "date": "2022-04-18"
     },
     {
-      "id": "20220503_f9b7fvnq46vofagjig7ab52ie4",
+      "id": "20220502_jrg580dit1vp4l6ne46u71922k",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Trinidad & Tobago",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220508_ih1nj9bdm90orh9hhhjrjqi1sg",
@@ -61252,30 +61364,30 @@
       "date": "2022-04-01"
     },
     {
-      "id": "20220424_dhc5d3olurt31llvssusq5mj1g",
+      "id": "20220424_3fm24colf7c0cd2osldm73kh2c",
       "status": "confirmed",
-      "summary": "Orthodox Easter Day",
+      "summary": "Othodox Easter Day (Canceled)",
       "region": "Ukraine",
       "date": "2022-04-24"
     },
     {
-      "id": "20220425_v4a2hudv200l0ujeveietd21go",
+      "id": "20220425_e31dror5j78c3trnlnfnv4n0gg",
       "status": "confirmed",
-      "summary": "Orthodox Easter Monday",
+      "summary": "Orthodox Easter Monday (Canceled)",
       "region": "Ukraine",
       "date": "2022-04-25"
     },
     {
-      "id": "20220501_lpdfanh3rcqircjpsf5065vubo",
+      "id": "20220501_cmsspgtkugq206ssgcqibbhvl8",
       "status": "confirmed",
-      "summary": "Labor Day",
+      "summary": "Labor Day (Canceled)",
       "region": "Ukraine",
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_antjm30pq6cmt0pv4mig0n339c",
+      "id": "20220502_uc4qcgqpda937pr048i5e6khqs",
       "status": "confirmed",
-      "summary": "Day off for Labor Day",
+      "summary": "Day off for Labor Day (Canceled)",
       "region": "Ukraine",
       "date": "2022-05-02"
     },
@@ -61287,9 +61399,9 @@
       "date": "2022-05-08"
     },
     {
-      "id": "20220509_og20fo9r5qo2ui5e2uchjk0l18",
+      "id": "20220509_ts5a11p14a77o42iklnau08rhg",
       "status": "confirmed",
-      "summary": "Victory Day",
+      "summary": "Victory Day (Canceled)",
       "region": "Ukraine",
       "date": "2022-05-09"
     },
@@ -61322,16 +61434,16 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220612_f69l97581rlb1rhmeh6kosvs9k",
+      "id": "20220612_vcff0e0i6tio3fn1p0i72ofddg",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost",
+      "summary": "Orthodox Pentecost (Canceled)",
       "region": "Ukraine",
       "date": "2022-06-12"
     },
     {
-      "id": "20220613_ksefti2d1qssfdegnc1k0lnml8",
+      "id": "20220613_5df64ai3af3haddu212k8n0v24",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost Holiday",
+      "summary": "Orthodox Pentecost Holiday (Canceled)",
       "region": "Ukraine",
       "date": "2022-06-13"
     },
@@ -61343,9 +61455,9 @@
       "date": "2022-06-22"
     },
     {
-      "id": "20220628_serddkuqj15vktnh70i99m37k4",
+      "id": "20220628_vn4tevvjjaqf323aq0pao5a6ig",
       "status": "confirmed",
-      "summary": "Constitution Day",
+      "summary": "Constitution Day (Canceled)",
       "region": "Ukraine",
       "date": "2022-06-28"
     },
@@ -61385,16 +61497,16 @@
       "date": "2022-07-28"
     },
     {
-      "id": "20220824_7qufppaeqe5ki06s1nnhakja60",
+      "id": "20220824_fi3e1eaqvpkt0ubd6bum8idttc",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Independence Day (Canceled)",
       "region": "Ukraine",
       "date": "2022-08-24"
     },
     {
-      "id": "20221014_4u46816m6f78q7aurfc99c4qrc",
+      "id": "20221014_muu11kp6da0dt2h88cit68nus8",
       "status": "confirmed",
-      "summary": "Day of Defenders and Defenders of Ukraine",
+      "summary": "Day of Defenders and Defenders of Ukraine (Canceled)",
       "region": "Ukraine",
       "date": "2022-10-14"
     },
@@ -61434,44 +61546,44 @@
       "date": "2022-12-19"
     },
     {
-      "id": "20221225_stkr6fbhtp48l5d258at55cvo4",
+      "id": "20221225_rh3eorlqu4idr39uhka754uikc",
       "status": "confirmed",
-      "summary": "Catholic Christmas Day",
+      "summary": "Catholic Christmas Day (Canceled)",
       "region": "Ukraine",
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_7q4iaf2uj18s7pg6imftcu8alo",
+      "id": "20221226_vdsdi8oepm7131949di1q2rsgo",
       "status": "confirmed",
-      "summary": "Day off for Catholic Christmas Day",
+      "summary": "Day off for Catholic Christmas Day (Canceled)",
       "region": "Ukraine",
       "date": "2022-12-26"
     },
     {
-      "id": "20230101_hb48q0jg4u48ad5nsitpjgthts",
+      "id": "20230101_po3kgug2qgnarsvisfbltev22s",
       "status": "confirmed",
-      "summary": "New Year's Day",
+      "summary": "New Year's Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_ed88cg4llcv9e5l2tpa1u9508k",
+      "id": "20230102_p93sohqo983e03uv7ie9mnfus0",
       "status": "confirmed",
-      "summary": "Day off for New Year's Day",
+      "summary": "Day off for New Year's Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-01-02"
     },
     {
-      "id": "20230107_011492grvtc2kmkogeos6246k0",
+      "id": "20230107_d6vuhuvql8fss5ehf0heain1ec",
       "status": "confirmed",
-      "summary": "Orthodox Christmas Day",
+      "summary": "Orthodox Christmas Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-01-07"
     },
     {
-      "id": "20230109_bmf6crspec2q1u42kkgdd20bu8",
+      "id": "20230109_31vki5us8nht1tp6q8d0o6hl4g",
       "status": "confirmed",
-      "summary": "Day off for Orthodox Christmas Day",
+      "summary": "Day off for Orthodox Christmas Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-01-09"
     },
@@ -61497,16 +61609,16 @@
       "date": "2023-02-14"
     },
     {
-      "id": "20230216_8tasnlvh4gvj7k8gd679s9and0",
+      "id": "20230216_49hid3lsuegl5n5190eupar240",
       "status": "confirmed",
-      "summary": "Unity Day",
+      "summary": "Unity Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-02-16"
     },
     {
-      "id": "20230308_thue01p6qoq59b2saud8ls2ucg",
+      "id": "20230308_59im1t8bae1vpg9otlrep3cme8",
       "status": "confirmed",
-      "summary": "International Women's Day",
+      "summary": "International Women's Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-03-08"
     },
@@ -61525,30 +61637,30 @@
       "date": "2023-04-01"
     },
     {
-      "id": "20230416_qtrlbv5fbcnbm16i2qnid6e5bo",
+      "id": "20230416_b38q9g10oiea1nvmtu1sdh1k18",
       "status": "confirmed",
-      "summary": "Orthodox Easter Day",
+      "summary": "Othodox Easter Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-04-16"
     },
     {
-      "id": "20230417_mg4c2q540rmcdpoc1tk7u19oh0",
+      "id": "20230417_k4akl0qf2nnik4do53k3m0iq9o",
       "status": "confirmed",
-      "summary": "Orthodox Easter Monday",
+      "summary": "Orthodox Easter Monday (Canceled)",
       "region": "Ukraine",
       "date": "2023-04-17"
     },
     {
-      "id": "20230501_pptbticrbma5127srdij8lob7s",
+      "id": "20230501_7ias6pbvd6r89d9n3m8sfnlqd0",
       "status": "confirmed",
-      "summary": "Labor Day",
+      "summary": "Labor Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-05-01"
     },
     {
-      "id": "20230509_b9v6oll8vevvsbtou7t6h93g8c",
+      "id": "20230509_ks1v823h79l7938o650shniffs",
       "status": "confirmed",
-      "summary": "Victory Day",
+      "summary": "Victory Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-05-09"
     },
@@ -61581,16 +61693,16 @@
       "date": "2023-06-01"
     },
     {
-      "id": "20230604_no96som0sfmj691s3rt5o5b014",
+      "id": "20230604_2038p3e94o0ah08usik5m6468s",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost",
+      "summary": "Orthodox Pentecost (Canceled)",
       "region": "Ukraine",
       "date": "2023-06-04"
     },
     {
-      "id": "20230605_50kk0vbtkrfp5tme6qj7q506oc",
+      "id": "20230605_jlsb4jjda0fcfjk949u0iatcpk",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost Holiday",
+      "summary": "Orthodox Pentecost Holiday (Canceled)",
       "region": "Ukraine",
       "date": "2023-06-05"
     },
@@ -61609,9 +61721,9 @@
       "date": "2023-06-22"
     },
     {
-      "id": "20230628_pahoodmca3rqh3t2iotlvnjgk8",
+      "id": "20230628_5n5c920b3bnk5foqa8la5sueoo",
       "status": "confirmed",
-      "summary": "Constitution Day",
+      "summary": "Constitution Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-06-28"
     },
@@ -61651,23 +61763,23 @@
       "date": "2023-07-28"
     },
     {
-      "id": "20230824_baj7udgasi98uhvsj7hkgq83qs",
+      "id": "20230824_7cgtqu98ikgrkvj8isrjagmv1c",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Independence Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-08-24"
     },
     {
-      "id": "20231014_6vocb9e0pjtud3aajb03vjcir4",
+      "id": "20231014_e0h7a1q45jd7e8g0mpia3695no",
       "status": "confirmed",
-      "summary": "Day of Defenders and Defenders of Ukraine",
+      "summary": "Day of Defenders and Defenders of Ukraine (Canceled)",
       "region": "Ukraine",
       "date": "2023-10-14"
     },
     {
-      "id": "20231016_i9ke14unda4s28gs61vn50hdqo",
+      "id": "20231016_tsou8h8b8p8vi8pl2142hf0tc4",
       "status": "confirmed",
-      "summary": "Day off for Day of Defenders and Defenders of Ukraine",
+      "summary": "Day off for Day of Defenders and Defenders of Ukraine (Canceled)",
       "region": "Ukraine",
       "date": "2023-10-16"
     },
@@ -61707,9 +61819,9 @@
       "date": "2023-12-19"
     },
     {
-      "id": "20231225_092v252du6hofsmhi25k9iqsa8",
+      "id": "20231225_jodu3uffst4d53176sfhbj3qt0",
       "status": "confirmed",
-      "summary": "Catholic Christmas Day",
+      "summary": "Catholic Christmas Day (Canceled)",
       "region": "Ukraine",
       "date": "2023-12-25"
     }
@@ -62851,9 +62963,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220103_6pcl7kjtt79jf0ef032t61mbvk",
+      "id": "20220103_ump2e2lj2n86t3tivm4k54ffcg",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "St. Vincent & Grenadines",
       "date": "2022-01-03"
     },
@@ -62956,9 +63068,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_adb39dn0pp061upfhsit5n57ko",
+      "id": "20230102_drhbjolpa11t0p50nf8pr6vo68",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "St. Vincent & Grenadines",
       "date": "2023-01-02"
     },
@@ -64112,6 +64224,13 @@
       "date": "2022-04-11"
     },
     {
+      "id": "20220417_9an5qci0alu23apd33d8conjlo",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Vietnam",
+      "date": "2022-04-17"
+    },
+    {
       "id": "20220430_c5tg2k200k0mmv6pe8qciep6v8",
       "status": "confirmed",
       "summary": "Liberation Day/Reunification Day",
@@ -64229,6 +64348,13 @@
       "summary": "Tet holiday",
       "region": "Vietnam",
       "date": "2023-01-26"
+    },
+    {
+      "id": "20230409_1jmeqq2vtbrefu3oe060h61c10",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Vietnam",
+      "date": "2023-04-09"
     },
     {
       "id": "20230429_dbesdrqrl1eo93nvt00of8p4bs",
