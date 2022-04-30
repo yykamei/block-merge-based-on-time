@@ -1,8 +1,5 @@
 name: Changelog
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 jobs:
   changelog:
