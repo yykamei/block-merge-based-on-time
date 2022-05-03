@@ -6516,18 +6516,18 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_n9n20d4ncg3vo1vrmlrt92m6c4",
+      "status": "confirmed",
+      "summary": "Eid ul Fitr",
+      "region": "Burundi",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220502_ns7gp9h3ckv3ofqpb0ec1tirns",
       "status": "confirmed",
       "summary": "Day off for Labour Day",
       "region": "Burundi",
       "date": "2022-05-02"
-    },
-    {
-      "id": "20220503_sj9deo8774u8r8g7ics0l5h9e0",
-      "status": "confirmed",
-      "summary": "Eid ul Fitr",
-      "region": "Burundi",
-      "date": "2022-05-03"
     },
     {
       "id": "20220526_eda5950h2mrifspqj3vmn56210",
@@ -11285,11 +11285,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_j611as2d64j2jk4mrdpq7r3p5c",
+      "id": "20220502_ci7ep8ngfj4nqqcepq9nk3fjtc",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Central African Republic",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220526_llvdm6n5259id6jke3jtrhlgpc",
@@ -14525,11 +14525,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_38s466h8dn7qo4119drjgf2omg",
+      "id": "20220502_1nj1v77r90t90kp0fu9uf1tjk0",
       "status": "confirmed",
       "summary": "Ramadan Bayram",
       "region": "Croatia",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220509_rsriub84u5rih96ia8ctn35fi0",
@@ -18489,11 +18489,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_25domr5e6m0db3uuieqodnb53o",
+      "id": "20220502_si2spq9uf6gc09pdsdk8mib040",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Eritrea",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220524_7plgfk8sugruhj2outhteueugc",
@@ -20241,11 +20241,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_v3o2r6guqvp3199dk769si05sk",
+      "id": "20220502_noilhgv7ksfadae57frvjb4kjk",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Gabon",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220508_qjg0gbrqdm3celrm4rff2fv1dc",
@@ -23138,11 +23138,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_r60ta6u97grgon6jlm2qudjvok",
+      "id": "20220502_d0hveh13udtn3b9gba4mmuv1qg",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Guinea",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220525_hi8quo5p6ehme2lgniob12kdls",
@@ -30300,6 +30300,13 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_caovo8pue2lkubongnhj33q6r0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "Kenya",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220502_utbh9b3f0ub4da29rbk230f0a8",
       "status": "confirmed",
       "summary": "Labour Day/May Day observed",
@@ -30307,9 +30314,9 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_23rfqfui3lbccn28e0m09fsbns",
+      "id": "20220503_otsl1ja5mdjfoan26mnjb86bh8",
       "status": "confirmed",
-      "summary": "Eid al-Fitr",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Kenya",
       "date": "2022-05-03"
     },
@@ -34581,6 +34588,20 @@
       "date": "2022-03-17"
     },
     {
+      "id": "20220411_17cksk2p89jca5h6gjcnpph660",
+      "status": "confirmed",
+      "summary": "Sinhala And Tamil Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-04-11"
+    },
+    {
+      "id": "20220412_fekk4082a0h971jmu2n7hjnatc",
+      "status": "confirmed",
+      "summary": "Sinhala And Tamil Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-04-12"
+    },
+    {
       "id": "20220413_8gv6jo0rq7o6kt0jr34tps91fo",
       "status": "confirmed",
       "summary": "Sinhala and Tamil New Year's Eve",
@@ -35655,18 +35676,18 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_con0nektfo97hl486f1mfbjk4k",
+      "id": "20220502_q4ja9030rra1l2taqp4jbd164c",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Morocco",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
-      "id": "20220504_0tgs0c5is02h296pkq09mg9ifo",
+      "id": "20220503_n67smgcs4stj2c5ap0m4dlm03o",
       "status": "confirmed",
       "summary": "Eid al-Fitr holiday",
       "region": "Morocco",
-      "date": "2022-05-04"
+      "date": "2022-05-03"
     },
     {
       "id": "20220508_kfkv1bl9gad9n8i94dra30kck8",
@@ -42235,6 +42256,13 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_8meoccfmnuj8l5lmti0ga1duu0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "Malawi",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220502_qmu82sebpghv3eoeb3krnr5mqk",
       "status": "confirmed",
       "summary": "Day off for May Day",
@@ -42242,9 +42270,9 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_9iosh9nukul5q4ri5pehf0i870",
+      "id": "20220503_s74spnf1cjrbnp6tgehe5fagtk",
       "status": "confirmed",
-      "summary": "Eid al-Fitr",
+      "summary": "Holiday for Eid al-Fitr",
       "region": "Malawi",
       "date": "2022-05-03"
     },
@@ -45379,9 +45407,16 @@
       "date": "2022-03-01"
     },
     {
-      "id": "20220503_8343hkte5voct61aaid9s2cato",
+      "id": "20220502_elkpvitopimrpvetj0t1en82l4",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
+      "region": "Oman",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_65o16mlcbbn2okvsm5egl4po94",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Oman",
       "date": "2022-05-03"
     },
@@ -45398,13 +45433,6 @@
       "summary": "Eid al-Fitr Holiday",
       "region": "Oman",
       "date": "2022-05-05"
-    },
-    {
-      "id": "20220506_cagjedrje2kofu9bieo5t0i300",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
-      "region": "Oman",
-      "date": "2022-05-06"
     },
     {
       "id": "20220710_74cjp9j4m7c8t9kr3vg2nsgpd0",
@@ -51431,32 +51459,32 @@
       "date": "2022-04-24"
     },
     {
-      "id": "20220503_4c3gim5dn060s1ae120e7bpors",
+      "id": "20220502_aphqhvllf3rdn7g5a959f4afd8",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
+      "region": "Sudan",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_5qpokl1mva2bt9asiffn5lougg",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Sudan",
       "date": "2022-05-03"
     },
     {
-      "id": "20220504_5tj3qr7hhqf1n96234cthtkb7c",
+      "id": "20220504_f2hgd0dcd8o64dqumk8blertgk",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Sudan",
       "date": "2022-05-04"
     },
     {
-      "id": "20220505_3n2rgbqiici44rrtor18r9sf8k",
+      "id": "20220505_v8i5i2360ip2tkk7n4sfkh2h9c",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Sudan",
       "date": "2022-05-05"
-    },
-    {
-      "id": "20220506_qr8m6ie8jlhle74l7k7dvnfomk",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
-      "region": "Sudan",
-      "date": "2022-05-06"
     },
     {
       "id": "20220709_f1ga77e3jq3hloaar7dt2j99h0",
@@ -51543,23 +51571,23 @@
       "date": "2023-04-22"
     },
     {
-      "id": "20230423_aeldkgf3h3s7hsc75rot23uo8g",
+      "id": "20230423_bmbc336m15lotp86f958qggsjo",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Sudan",
       "date": "2023-04-23"
     },
     {
-      "id": "20230424_b00hmo4l21etnfjnnu40i2b2i8",
+      "id": "20230424_6iqioa0f2e1r7iq7l0h10n1dh0",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Sudan",
       "date": "2023-04-24"
     },
     {
-      "id": "20230425_a3m09md0hl5cgdisokjsvtot9c",
+      "id": "20230425_f70eq2tf8vbnkq43uppadhvpac",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Sudan",
       "date": "2023-04-25"
     },
@@ -52123,11 +52151,11 @@
       "date": "2022-04-27"
     },
     {
-      "id": "20220503_nfigv8063k6hkjgfb55b63sgog",
+      "id": "20220502_4k0drfpfqpfilt4seua9rkfo68",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Sierra Leone",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220710_oqai3k6q8of3gt5ug964htb3qk",
@@ -54827,11 +54855,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_t67g5oek7hdh93hj0ienlf57a8",
+      "id": "20220502_7otdffjkc4qutc3pp8cc15mv6k",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Suriname",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220701_0s4n4cq05e2t95ro3eouc4lcf0",
@@ -55053,11 +55081,25 @@
       "date": "2022-05-02"
     },
     {
+      "id": "20220502_i5dkhtkhltm1g0n1rl4ibl0kfo",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "South Sudan",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220503_ikuij0lhfo6849mirq1nk7nres",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "South Sudan",
       "date": "2022-05-03"
+    },
+    {
+      "id": "20220504_95775uomcnb488hmu5j18g042g",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "South Sudan",
+      "date": "2022-05-04"
     },
     {
       "id": "20220516_ssd2cb1lun7bk0s8h6miok2jv8",
@@ -56372,11 +56414,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_t871m3mr8gg82n675clig3cpgs",
+      "id": "20220502_ighfl98fo07c2tviv16o9cuhfk",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Syria",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220506_oj03jem4opksu5j3uj2gjrgbm4",
@@ -58304,11 +58346,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_k495ajh992lhebfkvooa5tfb0k",
+      "id": "20220502_c70bte098kth0cs8hhgdcmk9tc",
       "status": "confirmed",
       "summary": "Eid ul Fitr",
       "region": "Tajikistan",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220509_vb55pdkoceie2mg3pcmpj4bhu0",
@@ -58474,6 +58516,13 @@
       "date": "2022-03-03"
     },
     {
+      "id": "20220318_h533dlokoigv7195m9anhqv6io",
+      "status": "confirmed",
+      "summary": "Public Sector Election Holiday",
+      "region": "Timor-Leste",
+      "date": "2022-03-18"
+    },
+    {
       "id": "20220415_f4pkqikgj9i4rj8u5vd326bhlg",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -58488,11 +58537,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220503_jqpi33117npcd3l96jrfcfl3k4",
+      "id": "20220502_d64hlbrnnftujdp8gj5nhuco10",
       "status": "confirmed",
       "summary": "Eid ul Fitr",
       "region": "Timor-Leste",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220520_ec5rk4nls2uelace3c18h5udus",
@@ -62546,11 +62595,11 @@
       "date": "2022-03-23"
     },
     {
-      "id": "20220503_bmckt8vnin6vf6cfun81vc2ue4",
+      "id": "20220502_ts7hr121dkrimg27mcuuaqflf0",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Uzbekistan",
-      "date": "2022-05-03"
+      "date": "2022-05-02"
     },
     {
       "id": "20220509_ibmca2p5c3b520lb0t870e2308",
