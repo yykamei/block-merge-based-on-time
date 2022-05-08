@@ -14152,6 +14152,20 @@
       "date": "2022-04-11"
     },
     {
+      "id": "20220412_ru9ruhtj1go480umuu8hlksi5g",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Costa Rica",
+      "date": "2022-04-12"
+    },
+    {
+      "id": "20220413_2r2apf0vfh9fj4s9r339qvg3no",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Costa Rica",
+      "date": "2022-04-13"
+    },
+    {
       "id": "20220414_dc88dmufj7nojomqd8ogi40174",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -65261,13 +65275,6 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_0udp7obrd0qov2hpf86udigogk",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr",
-      "region": "Kosovo",
-      "date": "2022-05-03"
-    },
-    {
       "id": "20220506_67erlsch39kupf991d2m4p5irc",
       "status": "confirmed",
       "summary": "Day of Gorans",
@@ -65280,6 +65287,13 @@
       "summary": "Europe Day",
       "region": "Kosovo",
       "date": "2022-05-09"
+    },
+    {
+      "id": "20220602_machc6nhgpe5g8j111v42p81u0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "Kosovo",
+      "date": "2022-06-02"
     },
     {
       "id": "20220612_ik4brinknpm78skuncfjokiml8",
