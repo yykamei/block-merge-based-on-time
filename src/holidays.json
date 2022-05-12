@@ -15194,6 +15194,20 @@
       "date": "2022-03-02"
     },
     {
+      "id": "20220414_ja5hfn1j0en6qd88iunjqo1rms",
+      "status": "confirmed",
+      "summary": "Public Sector Half Day",
+      "region": "Cape Verde",
+      "date": "2022-04-14"
+    },
+    {
+      "id": "20220414_t3gbaam7j3a4s3vktjn71enla4",
+      "status": "confirmed",
+      "summary": "Holy Thursday",
+      "region": "Cape Verde",
+      "date": "2022-04-14"
+    },
+    {
       "id": "20220415_dst87d0cthm4pl31j7glolrlo4",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -15290,6 +15304,13 @@
       "summary": "Ash Wednesday",
       "region": "Cape Verde",
       "date": "2023-02-22"
+    },
+    {
+      "id": "20230406_54c4b1oam1hpa3rhihucu250vs",
+      "status": "confirmed",
+      "summary": "Holy Thursday",
+      "region": "Cape Verde",
+      "date": "2023-04-06"
     },
     {
       "id": "20230407_k4jv4n78p337of60kgcdiiv0mo",
@@ -44962,6 +44983,13 @@
       "date": "2022-05-02"
     },
     {
+      "id": "20220513_8kuqlchujvmh3mp45hnlt5jsus",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Nepal",
+      "date": "2022-05-13"
+    },
+    {
       "id": "20220516_ns72g8cv7qektkvgruekf320m4",
       "status": "confirmed",
       "summary": "Ubhauli Parva",
@@ -48719,6 +48747,13 @@
       "summary": "Daylight Saving Time ends",
       "region": "Paraguay",
       "date": "2022-03-27"
+    },
+    {
+      "id": "20220413_kdas5jiu14jdejke209csqgavo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Paraguay",
+      "date": "2022-04-13"
     },
     {
       "id": "20220414_v39qurffh429okmgbmvtoop8sk",
