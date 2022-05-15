@@ -22954,6 +22954,13 @@
       "date": "2022-02-18"
     },
     {
+      "id": "20220409_7m8nr722ihjjrh7ig2oaqnvadk",
+      "status": "confirmed",
+      "summary": "Election Day Holiday",
+      "region": "Gambia",
+      "date": "2022-04-09"
+    },
+    {
       "id": "20220415_h76bfofc4f84110257gqsl9ams",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -27079,6 +27086,13 @@
       "date": "2022-04-21"
     },
     {
+      "id": "20220429_bjo5tgq3htco17g51eu0sma3u8",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2022-04-29"
+    },
+    {
       "id": "20220501_5vkk5bd1u1p18gh7vspablddn0",
       "status": "confirmed",
       "summary": "International Labor Day",
@@ -27098,6 +27112,27 @@
       "summary": "Idul Fitri Holiday",
       "region": "Indonesia",
       "date": "2022-05-03"
+    },
+    {
+      "id": "20220504_ot3p0ucbdk11cavgaout6j3sts",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2022-05-04"
+    },
+    {
+      "id": "20220505_ge9vhjdg2ec3p1ps0ghv7cud1s",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2022-05-05"
+    },
+    {
+      "id": "20220506_0p4t2dvddj77abbqa2s0dsdl7g",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2022-05-06"
     },
     {
       "id": "20220516_qt81mipj938nslbc5a78s15lb8",
@@ -30645,13 +30680,6 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_kqgbsgg04on19iqkea5c1k3gek",
-      "status": "confirmed",
-      "summary": "Day off for May Day",
-      "region": "Kyrgyzstan",
-      "date": "2022-05-02"
-    },
-    {
       "id": "20220502_p9msq483fua6fkv1kctk8dmrs8",
       "status": "confirmed",
       "summary": "Orozo Ait",
@@ -30659,11 +30687,32 @@
       "date": "2022-05-02"
     },
     {
+      "id": "20220503_99ttujeo9bfqk6ove2f1brmj60",
+      "status": "confirmed",
+      "summary": "Day off for May Day",
+      "region": "Kyrgyzstan",
+      "date": "2022-05-03"
+    },
+    {
+      "id": "20220504_e0cm87bf8p1her37o3ersi7o5s",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2022-05-04"
+    },
+    {
       "id": "20220505_ghask9v38u9pcqr2bp6nl3obv4",
       "status": "confirmed",
       "summary": "Constitution Day of the Kyrgyz Republic",
       "region": "Kyrgyzstan",
       "date": "2022-05-05"
+    },
+    {
+      "id": "20220506_bd3jrhl1825pv7te7k2r64vevk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2022-05-06"
     },
     {
       "id": "20220509_cn3jqebkrktdm93f0orgkldf4s",
@@ -32840,9 +32889,16 @@
       "date": "2022-03-08"
     },
     {
-      "id": "20220414_7r31eg8ahu3u8q395ejh0esdo4",
+      "id": "20220413_cf4rl3am4uu5t4ahoqdbai238c",
       "status": "confirmed",
       "summary": "Lao New Year Holiday",
+      "region": "Laos",
+      "date": "2022-04-13"
+    },
+    {
+      "id": "20220414_dmd2msnk4nmimsb0ibj4hhhpgs",
+      "status": "confirmed",
+      "summary": "Lao New Year",
       "region": "Laos",
       "date": "2022-04-14"
     },
@@ -32859,13 +32915,6 @@
       "summary": "Lao New Year Holiday",
       "region": "Laos",
       "date": "2022-04-16"
-    },
-    {
-      "id": "20220418_e634aoaaqkbuuq3itrhirfobns",
-      "status": "confirmed",
-      "summary": "Day off for Lao New Year Holiday",
-      "region": "Laos",
-      "date": "2022-04-18"
     },
     {
       "id": "20220501_6pg4e02rp5uii878rdkfudfth8",
@@ -32924,9 +32973,9 @@
       "date": "2023-03-08"
     },
     {
-      "id": "20230414_eumuqkg0cpijl1v5b4j9apggj0",
+      "id": "20230414_5egh3nvhoo33s3unef0594vrn0",
       "status": "confirmed",
-      "summary": "Lao New Year Holiday",
+      "summary": "Lao New Year",
       "region": "Laos",
       "date": "2023-04-14"
     },
@@ -45943,6 +45992,13 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_jg2tuu5ejfuvemq29nfctf08fo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220508_ofv0bohtntueehhjram3u4tbls",
       "status": "confirmed",
       "summary": "Mother's Day",
@@ -45978,6 +46034,13 @@
       "date": "2022-06-24"
     },
     {
+      "id": "20220624_ar6k7drsc0tgr4v9m96f5uldh4",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2022-06-24"
+    },
+    {
       "id": "20220629_nr6ejgtle2670u5tpb97168uas",
       "status": "confirmed",
       "summary": "St Peter and St Paul",
@@ -45999,6 +46062,13 @@
       "date": "2022-07-29"
     },
     {
+      "id": "20220829_csfdav59oqs80vf0nrfp87ungg",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2022-08-29"
+    },
+    {
       "id": "20220830_r2fh4sksh7pbk0457r8g1kb6dk",
       "status": "confirmed",
       "summary": "Santa Rosa De Lima",
@@ -46013,11 +46083,25 @@
       "date": "2022-09-24"
     },
     {
+      "id": "20221007_i0hv6nl3orf3ip8lg8erej1j2o",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2022-10-07"
+    },
+    {
       "id": "20221008_9i4uge409sb2l8rfs2u6ol6rm4",
       "status": "confirmed",
       "summary": "Battle of Angamos",
       "region": "Peru",
       "date": "2022-10-08"
+    },
+    {
+      "id": "20221031_uj7914itt2a2kojq10u7cdqkt0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2022-10-31"
     },
     {
       "id": "20221101_i33sk9f3n2m4imbfi6hpu651vg",
@@ -46060,6 +46144,13 @@
       "summary": "Christmas Day",
       "region": "Peru",
       "date": "2022-12-25"
+    },
+    {
+      "id": "20221230_e39dvqomgsq7j109co0h59q8d8",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2022-12-30"
     },
     {
       "id": "20221231_0a8h6d6k8u30gt5hqar2fkgic4",
