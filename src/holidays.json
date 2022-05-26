@@ -32106,6 +32106,13 @@
       "date": "2022-03-03"
     },
     {
+      "id": "20220501_blp9d9equmrgsp8e38vl2dlqhs",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr holiday",
+      "region": "Kuwait",
+      "date": "2022-05-01"
+    },
+    {
       "id": "20220502_jfj94piu6tdp3utbeeg0hq1b5s",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -32125,6 +32132,13 @@
       "summary": "Eid al-Fitr holiday",
       "region": "Kuwait",
       "date": "2022-05-04"
+    },
+    {
+      "id": "20220505_5uren2vaa904t7fjr9hae7vcc0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr holiday",
+      "region": "Kuwait",
+      "date": "2022-05-05"
     },
     {
       "id": "20220709_du6tu98aok6t25h6r4poja3kj8",
@@ -42580,16 +42594,16 @@
       "date": "2022-04-07"
     },
     {
-      "id": "20220415_a8dm38q2p226r5r8aqrftue82k",
+      "id": "20220415_3lpcpj8nneig6rei3i60s165fg",
       "status": "confirmed",
-      "summary": "Good Friday",
+      "summary": "Public Sector Holiday (Christian Only)",
       "region": "Mozambique",
       "date": "2022-04-15"
     },
     {
-      "id": "20220415_s6jgbofm537u0tjacph2k680sc",
+      "id": "20220415_a8dm38q2p226r5r8aqrftue82k",
       "status": "confirmed",
-      "summary": "Public Sector Holiday",
+      "summary": "Good Friday",
       "region": "Mozambique",
       "date": "2022-04-15"
     },
@@ -46787,6 +46801,13 @@
       "summary": "Eidul-Fitar Holiday",
       "region": "Philippines",
       "date": "2022-05-03"
+    },
+    {
+      "id": "20220509_3m9mqu3j9b7dj2igtejdcdffmo",
+      "status": "confirmed",
+      "summary": "National and Local Election Holiday",
+      "region": "Philippines",
+      "date": "2022-05-09"
     },
     {
       "id": "20220612_u3b219bkahklvc46i1158g3ivc",
@@ -61644,30 +61665,30 @@
       "date": "2022-04-01"
     },
     {
-      "id": "20220424_3fm24colf7c0cd2osldm73kh2c",
+      "id": "20220424_m72du2r5c9qntvusfug0bufhoc",
       "status": "confirmed",
-      "summary": "Othodox Easter Day (Canceled)",
+      "summary": "Othodox Easter Day (Suspended)",
       "region": "Ukraine",
       "date": "2022-04-24"
     },
     {
-      "id": "20220425_e31dror5j78c3trnlnfnv4n0gg",
+      "id": "20220425_rg6ji940hms8aqe3p0ko74vct4",
       "status": "confirmed",
-      "summary": "Orthodox Easter Monday (Canceled)",
+      "summary": "Orthodox Easter Monday (Suspended)",
       "region": "Ukraine",
       "date": "2022-04-25"
     },
     {
-      "id": "20220501_cmsspgtkugq206ssgcqibbhvl8",
+      "id": "20220501_ijqqtaol9gjkebfp83togt4ur0",
       "status": "confirmed",
-      "summary": "Labor Day (Canceled)",
+      "summary": "Labor Day (Suspended)",
       "region": "Ukraine",
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_uc4qcgqpda937pr048i5e6khqs",
+      "id": "20220502_1u9o4qq9q2p75o219i7ql6mp2k",
       "status": "confirmed",
-      "summary": "Day off for Labor Day (Canceled)",
+      "summary": "Labor Day (Suspended) observed",
       "region": "Ukraine",
       "date": "2022-05-02"
     },
@@ -61679,9 +61700,9 @@
       "date": "2022-05-08"
     },
     {
-      "id": "20220509_ts5a11p14a77o42iklnau08rhg",
+      "id": "20220509_ham8hmlag8ij0enavgi6locr2g",
       "status": "confirmed",
-      "summary": "Victory Day (Canceled)",
+      "summary": "Victory Day (Suspended)",
       "region": "Ukraine",
       "date": "2022-05-09"
     },
@@ -61714,16 +61735,16 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220612_vcff0e0i6tio3fn1p0i72ofddg",
+      "id": "20220612_p8b58e6c26tggartoa48lck22g",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost (Canceled)",
+      "summary": "Orthodox Pentecost (Suspended)",
       "region": "Ukraine",
       "date": "2022-06-12"
     },
     {
-      "id": "20220613_5df64ai3af3haddu212k8n0v24",
+      "id": "20220613_23f0mm30j67pktbgenkucf3m34",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost Holiday (Canceled)",
+      "summary": "Orthodox Pentecost Holiday (Suspended)",
       "region": "Ukraine",
       "date": "2022-06-13"
     },
@@ -61735,9 +61756,9 @@
       "date": "2022-06-22"
     },
     {
-      "id": "20220628_vn4tevvjjaqf323aq0pao5a6ig",
+      "id": "20220628_7bco1nfus0hvjpoplgos21eh70",
       "status": "confirmed",
-      "summary": "Constitution Day (Canceled)",
+      "summary": "Constitution Day (Suspended)",
       "region": "Ukraine",
       "date": "2022-06-28"
     },
@@ -61777,16 +61798,16 @@
       "date": "2022-07-28"
     },
     {
-      "id": "20220824_fi3e1eaqvpkt0ubd6bum8idttc",
+      "id": "20220824_7ag982iptsregagvr0buns6mg4",
       "status": "confirmed",
-      "summary": "Independence Day (Canceled)",
+      "summary": "Independence Day (Suspended)",
       "region": "Ukraine",
       "date": "2022-08-24"
     },
     {
-      "id": "20221014_muu11kp6da0dt2h88cit68nus8",
+      "id": "20221014_t7mhov4kpicquph0h7rggc2q14",
       "status": "confirmed",
-      "summary": "Day of Defenders and Defenders of Ukraine (Canceled)",
+      "summary": "Day of Defenders and Defenders of Ukraine (Suspended)",
       "region": "Ukraine",
       "date": "2022-10-14"
     },
@@ -61826,44 +61847,44 @@
       "date": "2022-12-19"
     },
     {
-      "id": "20221225_rh3eorlqu4idr39uhka754uikc",
+      "id": "20221225_98ddhn77qbio7m4no8uvkppv1s",
       "status": "confirmed",
-      "summary": "Catholic Christmas Day (Canceled)",
+      "summary": "Catholic Christmas Day (Suspended)",
       "region": "Ukraine",
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_vdsdi8oepm7131949di1q2rsgo",
+      "id": "20221226_4pvdbsbpsoj5ktftou0b5vv390",
       "status": "confirmed",
-      "summary": "Day off for Catholic Christmas Day (Canceled)",
+      "summary": "Catholic Christmas Day (Suspended) observed",
       "region": "Ukraine",
       "date": "2022-12-26"
     },
     {
-      "id": "20230101_po3kgug2qgnarsvisfbltev22s",
+      "id": "20230101_s746t62diqs0suqatru5nqgmf4",
       "status": "confirmed",
-      "summary": "New Year's Day (Canceled)",
+      "summary": "New Year's Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_p93sohqo983e03uv7ie9mnfus0",
+      "id": "20230102_sb4kfrp5vot5nu211kpip9ohas",
       "status": "confirmed",
-      "summary": "Day off for New Year's Day (Canceled)",
+      "summary": "New Year's Day (Suspended) observed",
       "region": "Ukraine",
       "date": "2023-01-02"
     },
     {
-      "id": "20230107_d6vuhuvql8fss5ehf0heain1ec",
+      "id": "20230107_0br4a95fkr9vo9vrk018dohk44",
       "status": "confirmed",
-      "summary": "Orthodox Christmas Day (Canceled)",
+      "summary": "Orthodox Christmas Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-01-07"
     },
     {
-      "id": "20230109_31vki5us8nht1tp6q8d0o6hl4g",
+      "id": "20230109_46l6phf2v4q0sa71gqdceqdefc",
       "status": "confirmed",
-      "summary": "Day off for Orthodox Christmas Day (Canceled)",
+      "summary": "Orthodox Christmas Day (Suspended) observed",
       "region": "Ukraine",
       "date": "2023-01-09"
     },
@@ -61889,16 +61910,16 @@
       "date": "2023-02-14"
     },
     {
-      "id": "20230216_49hid3lsuegl5n5190eupar240",
+      "id": "20230216_fkdijla69ajc2hkm664ptfknv4",
       "status": "confirmed",
-      "summary": "Unity Day (Canceled)",
+      "summary": "Unity Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-02-16"
     },
     {
-      "id": "20230308_59im1t8bae1vpg9otlrep3cme8",
+      "id": "20230308_39fu54bsjr184vg5ran9p5u42s",
       "status": "confirmed",
-      "summary": "International Women's Day (Canceled)",
+      "summary": "International Women's Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-03-08"
     },
@@ -61917,30 +61938,30 @@
       "date": "2023-04-01"
     },
     {
-      "id": "20230416_b38q9g10oiea1nvmtu1sdh1k18",
+      "id": "20230416_1f6jbskbpqj192ohejrq2gvfqs",
       "status": "confirmed",
-      "summary": "Othodox Easter Day (Canceled)",
+      "summary": "Othodox Easter Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-04-16"
     },
     {
-      "id": "20230417_k4akl0qf2nnik4do53k3m0iq9o",
+      "id": "20230417_rfbmah4lj8hq3o84ungo1k8l8g",
       "status": "confirmed",
-      "summary": "Orthodox Easter Monday (Canceled)",
+      "summary": "Orthodox Easter Monday (Suspended)",
       "region": "Ukraine",
       "date": "2023-04-17"
     },
     {
-      "id": "20230501_7ias6pbvd6r89d9n3m8sfnlqd0",
+      "id": "20230501_3d46agkebeqn69j3a14sh2fmbc",
       "status": "confirmed",
-      "summary": "Labor Day (Canceled)",
+      "summary": "Labor Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-05-01"
     },
     {
-      "id": "20230509_ks1v823h79l7938o650shniffs",
+      "id": "20230509_5toqi5pkojq7uifnooi6neu3bs",
       "status": "confirmed",
-      "summary": "Victory Day (Canceled)",
+      "summary": "Victory Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-05-09"
     },
@@ -61973,16 +61994,16 @@
       "date": "2023-06-01"
     },
     {
-      "id": "20230604_2038p3e94o0ah08usik5m6468s",
+      "id": "20230604_3d02qsjh5fmqbv82hd8fes8uv4",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost (Canceled)",
+      "summary": "Orthodox Pentecost (Suspended)",
       "region": "Ukraine",
       "date": "2023-06-04"
     },
     {
-      "id": "20230605_jlsb4jjda0fcfjk949u0iatcpk",
+      "id": "20230605_lja1clab6v571tspfrtd7e09o0",
       "status": "confirmed",
-      "summary": "Orthodox Pentecost Holiday (Canceled)",
+      "summary": "Orthodox Pentecost Holiday (Suspended)",
       "region": "Ukraine",
       "date": "2023-06-05"
     },
@@ -62001,9 +62022,9 @@
       "date": "2023-06-22"
     },
     {
-      "id": "20230628_5n5c920b3bnk5foqa8la5sueoo",
+      "id": "20230628_qh6j3mb5hd0fj570t16go32om8",
       "status": "confirmed",
-      "summary": "Constitution Day (Canceled)",
+      "summary": "Constitution Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-06-28"
     },
@@ -62043,23 +62064,23 @@
       "date": "2023-07-28"
     },
     {
-      "id": "20230824_7cgtqu98ikgrkvj8isrjagmv1c",
+      "id": "20230824_5v39id7l5cguq8hquou86t3vfc",
       "status": "confirmed",
-      "summary": "Independence Day (Canceled)",
+      "summary": "Independence Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-08-24"
     },
     {
-      "id": "20231014_e0h7a1q45jd7e8g0mpia3695no",
+      "id": "20231014_2soqa01h5ofiq1631iso5ho6pk",
       "status": "confirmed",
-      "summary": "Day of Defenders and Defenders of Ukraine (Canceled)",
+      "summary": "Day of Defenders and Defenders of Ukraine (Suspended)",
       "region": "Ukraine",
       "date": "2023-10-14"
     },
     {
-      "id": "20231016_tsou8h8b8p8vi8pl2142hf0tc4",
+      "id": "20231016_6vu4ahqjtutf093rvu2qa6lcvg",
       "status": "confirmed",
-      "summary": "Day off for Day of Defenders and Defenders of Ukraine (Canceled)",
+      "summary": "Day of Defenders and Defenders of Ukraine (Suspended) observed",
       "region": "Ukraine",
       "date": "2023-10-16"
     },
@@ -62099,9 +62120,9 @@
       "date": "2023-12-19"
     },
     {
-      "id": "20231225_jodu3uffst4d53176sfhbj3qt0",
+      "id": "20231225_rb5956l449lu6c31jh2t70m6bc",
       "status": "confirmed",
-      "summary": "Catholic Christmas Day (Canceled)",
+      "summary": "Catholic Christmas Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-12-25"
     }
