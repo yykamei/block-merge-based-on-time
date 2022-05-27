@@ -36147,13 +36147,6 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_ed34cf83t1vl9eg20vkkjnusj8",
-      "status": "confirmed",
-      "summary": "Labour Day observed",
-      "region": "Malaysia",
-      "date": "2022-05-02"
-    },
-    {
       "id": "20220502_vrt2c4fpe3mtsi4h22u7a4u9s0",
       "status": "confirmed",
       "summary": "Hari Raya Puasa",
@@ -36166,6 +36159,13 @@
       "summary": "Hari Raya Puasa Day 2",
       "region": "Malaysia",
       "date": "2022-05-03"
+    },
+    {
+      "id": "20220504_4al3dp3kik6td8vflbhoi98gec",
+      "status": "confirmed",
+      "summary": "Labour Day observed",
+      "region": "Malaysia",
+      "date": "2022-05-04"
     },
     {
       "id": "20220515_69kimt80ktc2b7v6bru66nj4k0",
