@@ -388,6 +388,27 @@
       "date": "2022-05-06"
     },
     {
+      "id": "20220514_9bt830v6ftkqfj1isvilhr24a0",
+      "status": "confirmed",
+      "summary": "Public Holiday (Death of Sheikh Khalifa bin Zayed Al Nahyan)",
+      "region": "United Arab Emirates",
+      "date": "2022-05-14"
+    },
+    {
+      "id": "20220515_s9cf37037701tmnkj31a9tmuq8",
+      "status": "confirmed",
+      "summary": "Public Holiday (Death of Sheikh Khalifa bin Zayed Al Nahyan)",
+      "region": "United Arab Emirates",
+      "date": "2022-05-15"
+    },
+    {
+      "id": "20220516_vl5cm2ssrtu5592kgqf0fn0h7s",
+      "status": "confirmed",
+      "summary": "Public Holiday (Death of Sheikh Khalifa bin Zayed Al Nahyan)",
+      "region": "United Arab Emirates",
+      "date": "2022-05-16"
+    },
+    {
       "id": "20220701_g3q2opcgra06o77gdnvrosi66c",
       "status": "confirmed",
       "summary": "Hajj season begins",
@@ -44650,6 +44671,41 @@
       "date": "2022-02-14"
     },
     {
+      "id": "20220409_dflo23v1qngs87mmfd9kseiuko",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2022-04-09"
+    },
+    {
+      "id": "20220410_jhd57g1j973i37ocn1qj3qb3bg",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2022-04-10"
+    },
+    {
+      "id": "20220411_epiiaadm36c0ar15rifkrrjk2g",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2022-04-11"
+    },
+    {
+      "id": "20220412_pe7sfn6hc9hnt7h762earn3vb0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2022-04-12"
+    },
+    {
+      "id": "20220413_055f9gde9ovio5mboha9u8jpis",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2022-04-13"
+    },
+    {
       "id": "20220414_4mt0jq9sjfjg2nrau6fevigh5o",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -44676,6 +44732,13 @@
       "summary": "Easter Sunday",
       "region": "Nicaragua",
       "date": "2022-04-17"
+    },
+    {
+      "id": "20220418_rn1eoq4juh74g27v4eaaguh0rc",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2022-04-18"
     },
     {
       "id": "20220501_j5mlmb6rnm7sns3b6a3dnqrjac",
@@ -50227,6 +50290,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220102_44sgf9321i0lb777tpgn6uiklc",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Serbia",
+      "date": "2022-01-02"
+    },
+    {
       "id": "20220103_6jj0e34n6i18pibko8fdonm5kk",
       "status": "confirmed",
       "summary": "Second Day of Western New Year's Day",
@@ -50409,6 +50479,13 @@
       "date": "2022-11-11"
     },
     {
+      "id": "20221225_7pfjg56roi70oflj000b854fhc",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Serbia",
+      "date": "2022-12-25"
+    },
+    {
       "id": "20221225_th6la7mqirbccp13hm8fod3pbg",
       "status": "confirmed",
       "summary": "First Day of Western Christmas",
@@ -50426,6 +50503,13 @@
       "id": "20230101_o37a866a964574j5sqil7rtu58",
       "status": "confirmed",
       "summary": "Western New Year's Day",
+      "region": "Serbia",
+      "date": "2023-01-01"
+    },
+    {
+      "id": "20230101_otn3hnbpir4oqgumjf1rj88unc",
+      "status": "confirmed",
+      "summary": "Father's Day",
       "region": "Serbia",
       "date": "2023-01-01"
     },
@@ -50612,6 +50696,13 @@
       "date": "2023-11-11"
     },
     {
+      "id": "20231224_je27g6mtbgkj6n7hbii1ft8pl0",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Serbia",
+      "date": "2023-12-24"
+    },
+    {
       "id": "20231225_scll87aiqthp94q7n1e78pvkm8",
       "status": "confirmed",
       "summary": "First Day of Western Christmas",
@@ -50622,6 +50713,13 @@
       "id": "20231231_f9at913nd8bc97277pb355dvc0",
       "status": "confirmed",
       "summary": "Western New Year's Eve",
+      "region": "Serbia",
+      "date": "2023-12-31"
+    },
+    {
+      "id": "20231231_m6m79ef1jo3u22ejfuu37p08uk",
+      "status": "confirmed",
+      "summary": "Father's Day",
       "region": "Serbia",
       "date": "2023-12-31"
     }
@@ -54545,6 +54643,13 @@
       "date": "2022-03-19"
     },
     {
+      "id": "20220319_v4fkg8u45gipg7iofl1756u2as",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Spain",
+      "date": "2022-03-19"
+    },
+    {
       "id": "20220327_gej32bd7vkg136q5i3rum2mfec",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
@@ -54951,7 +55056,7 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_1oba8nfg3tauovhq7m2nbseobg",
+      "id": "20221226_aipc9063dlrtlmvk5h49fkafhk",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
@@ -55047,6 +55152,13 @@
       "summary": "Fifth of March (Zaragoza)",
       "region": "Spain",
       "date": "2023-03-06"
+    },
+    {
+      "id": "20230319_gl72m4gam4kbgemoglv9ks6cc4",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Spain",
+      "date": "2023-03-19"
     },
     {
       "id": "20230319_sofvvdjb721mii3q1rfe7aifi4",
@@ -62197,6 +62309,13 @@
       "date": "2022-06-13"
     },
     {
+      "id": "20220619_ada4ppijn2cr4k37f5crj1obk0",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Ukraine",
+      "date": "2022-06-19"
+    },
+    {
       "id": "20220622_14j23jle2bagspgekvpmb4p1h8",
       "status": "confirmed",
       "summary": "Day of Mourning and Commemoration of War Victims",
@@ -62461,6 +62580,13 @@
       "summary": "Journalists' Day",
       "region": "Ukraine",
       "date": "2023-06-06"
+    },
+    {
+      "id": "20230618_89nvpd7i11la0injk9eheqfjok",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Ukraine",
+      "date": "2023-06-18"
     },
     {
       "id": "20230622_jnqmv1kk68jlkpmub25n9ft8vo",
@@ -65905,6 +66031,13 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_fpb2tci83nk503adtjb9k49trc",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "Kosovo",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220502_j8ri5fk6bjelfj1og97mrjelm8",
       "status": "confirmed",
       "summary": "Day off for International Labour Day",
@@ -65924,13 +66057,6 @@
       "summary": "Europe Day",
       "region": "Kosovo",
       "date": "2022-05-09"
-    },
-    {
-      "id": "20220602_machc6nhgpe5g8j111v42p81u0",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr",
-      "region": "Kosovo",
-      "date": "2022-06-02"
     },
     {
       "id": "20220612_ik4brinknpm78skuncfjokiml8",
