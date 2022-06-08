@@ -13546,13 +13546,6 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_25rctunjcs6i96e82bl10dvfck",
-      "status": "confirmed",
-      "summary": "Labour Day observed",
-      "region": "Cameroon",
-      "date": "2022-05-02"
-    },
-    {
       "id": "20220502_ftrabrc6lmn4rftg6kfm4bpspk",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -23206,11 +23199,25 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_1ttb6e9b0qn5cigtql5lrvo13g",
+      "id": "20220502_8ujfns213nob3aqaq99r5t9ii8",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Gambia",
       "date": "2022-05-02"
+    },
+    {
+      "id": "20220502_vtd38rol6j0hnm2r4btgr3spck",
+      "status": "confirmed",
+      "summary": "Day off for Labour Day",
+      "region": "Gambia",
+      "date": "2022-05-02"
+    },
+    {
+      "id": "20220503_hb141gjn0amtiqf2t8a3mv7f5k",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Gambia",
+      "date": "2022-05-03"
     },
     {
       "id": "20220525_662jvv6adcmco0lltcd5udp1lc",
@@ -43615,11 +43622,11 @@
       "date": "2022-04-24"
     },
     {
-      "id": "20220429_n833ic3vsuujfns4etc7508otc",
+      "id": "20220428_ddi1b6lj925nk0esbeg4evus7s",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Niger",
-      "date": "2022-04-29"
+      "date": "2022-04-28"
     },
     {
       "id": "20220501_g1b530pksds7rd0kltmni6ngrc",
@@ -49365,6 +49372,13 @@
       "date": "2022-05-01"
     },
     {
+      "id": "20220502_mb2merhv9bjoig6fo7nooq1n84",
+      "status": "confirmed",
+      "summary": "Labor Day Public Sector Holiday",
+      "region": "Paraguay",
+      "date": "2022-05-02"
+    },
+    {
       "id": "20220514_1hpimekfu716q9o9n8n55cfvrg",
       "status": "confirmed",
       "summary": "National Holiday",
@@ -49563,6 +49577,27 @@
       "date": "2022-02-08"
     },
     {
+      "id": "20220429_e1ujclmmofpfisekba71o5btms",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2022-04-29"
+    },
+    {
+      "id": "20220430_17acl35eih90fd7rumdpiufv1s",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2022-04-30"
+    },
+    {
+      "id": "20220501_km8ft5dhc4m7idhd3gl6orq2mg",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2022-05-01"
+    },
+    {
       "id": "20220502_otidind082k1ft9uods4o7cd2o",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -49582,6 +49617,27 @@
       "summary": "Eid al-Fitr Holiday",
       "region": "Qatar",
       "date": "2022-05-04"
+    },
+    {
+      "id": "20220505_e6srubsfusgopshu6geis79i00",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2022-05-05"
+    },
+    {
+      "id": "20220506_kjjgjlbnhk635rsi5q3b6mnrj0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2022-05-06"
+    },
+    {
+      "id": "20220507_85ge6cttimnnqq9un9rf56v2gs",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2022-05-07"
     },
     {
       "id": "20220710_md953rrubn9s08iv00ak7frneg",
@@ -58200,13 +58256,6 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220502_ncsm3v3abp53q3uhathiac66p8",
-      "status": "confirmed",
-      "summary": "May Day observed",
-      "region": "Chad",
-      "date": "2022-05-02"
-    },
-    {
       "id": "20220508_1eeeohdticcl7mjn7tdjuq7t2c",
       "status": "confirmed",
       "summary": "Mother's Day",
@@ -60079,13 +60128,6 @@
       "summary": "Eid al-Fitr Holiday",
       "region": "Tunisia",
       "date": "2022-05-03"
-    },
-    {
-      "id": "20220504_qdquvi748g8qi3q6p9javgp2v0",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
-      "region": "Tunisia",
-      "date": "2022-05-04"
     },
     {
       "id": "20220710_i92m41a2qdv7p7v09h6cclmn28",
