@@ -1,5 +1,13 @@
 # Changelog
 
+## [v2.0.37](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.37) (2022-06-21)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.36...v2.0.37)
+
+**Implemented enhancements:**
+
+- Update Holidays [\#860](https://github.com/yykamei/block-merge-based-on-time/pull/860) ([github-actions[bot]](https://github.com/apps/github-actions))
+
 ## [v2.0.36](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.36) (2022-06-18)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.35...v2.0.36)
