@@ -35120,6 +35120,13 @@
       "date": "2022-05-16"
     },
     {
+      "id": "20220613_9gq5a5mijsefbvr4ls8hsuktvc",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-06-13"
+    },
+    {
       "id": "20220614_0c87fem56c56vhqm4v5rj58ok0",
       "status": "confirmed",
       "summary": "Poson Full Moon Poya Day",
@@ -35127,11 +35134,39 @@
       "date": "2022-06-14"
     },
     {
+      "id": "20220617_jsmue2p9n6pnqils6vh8g6dgv0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-06-17"
+    },
+    {
       "id": "20220619_0oq33793b6h2bq6vt2mm01b2s8",
       "status": "confirmed",
       "summary": "Father's Day",
       "region": "Sri Lanka",
       "date": "2022-06-19"
+    },
+    {
+      "id": "20220624_8najsbg0oopac9jsvfpvn0mgu0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-06-24"
+    },
+    {
+      "id": "20220701_irkfiqm2ovetdb3badf7i6bhhg",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-07-01"
+    },
+    {
+      "id": "20220708_nsqmrf8vktf4bnl8m4u7d0n9hc",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-07-08"
     },
     {
       "id": "20220710_8jlp036q83kkn7bu6g9hpd8j28",
@@ -35148,6 +35183,34 @@
       "date": "2022-07-13"
     },
     {
+      "id": "20220715_8tsd1f676ngejrjm0hik855ueo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-07-15"
+    },
+    {
+      "id": "20220722_j929cussbj4nr9gb9ba4dk0bp0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-07-22"
+    },
+    {
+      "id": "20220729_da67ttfi0qbv8b4dedkmreofag",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-07-29"
+    },
+    {
+      "id": "20220805_1bftootfsdce4ehpfhlqbsv1kc",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-08-05"
+    },
+    {
       "id": "20220811_33bqheqcdiv5iq8trdjs366ah0",
       "status": "confirmed",
       "summary": "Nikini Full Moon Poya Day",
@@ -35155,11 +35218,60 @@
       "date": "2022-08-11"
     },
     {
+      "id": "20220812_4plllnq9c7tvicvneubsud9aas",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-08-12"
+    },
+    {
+      "id": "20220819_lgg55259ler1jpdt67gi9b4lk0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-08-19"
+    },
+    {
+      "id": "20220826_ai69l6bd9khd6bddj0mdhinr3s",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-08-26"
+    },
+    {
+      "id": "20220902_n1m7ifvpkti4vk83rhrq63letc",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-09-02"
+    },
+    {
+      "id": "20220909_dlaljvg1tsvpnmdsnrgiles604",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-09-09"
+    },
+    {
       "id": "20220910_9gdk1ju011j3jsomtfl0pcev14",
       "status": "confirmed",
       "summary": "Binara Full Moon Poya Day",
       "region": "Sri Lanka",
       "date": "2022-09-10"
+    },
+    {
+      "id": "20220916_dgmf45p5gtdvldm7nhmh8c9hro",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-09-16"
+    },
+    {
+      "id": "20220923_k86puhvdd323jqfasqvdgnhpeg",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2022-09-23"
     },
     {
       "id": "20221008_vcnt22888vg74mqabqmtps4ouc",
@@ -46536,6 +46648,13 @@
       "summary": "Flag Day",
       "region": "Peru",
       "date": "2022-06-07"
+    },
+    {
+      "id": "20220613_efn5ls0nnra9ub9q6hgomnd1nk",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2022-06-13"
     },
     {
       "id": "20220619_4n4l91sqv4231sjh4445ebeqqo",
@@ -61300,11 +61419,11 @@
       "date": "2023-04-10"
     },
     {
-      "id": "20230508_k8gbm17j08u8hugurrbbc84p34",
+      "id": "20230515_gfl66appsr7cikobio85av82s8",
       "status": "confirmed",
       "summary": "Gospel Day",
       "region": "Tuvalu",
-      "date": "2023-05-08"
+      "date": "2023-05-15"
     },
     {
       "id": "20230610_3oml1gnbefcsp6mn3ferictc9s",
