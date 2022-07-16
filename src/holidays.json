@@ -409,11 +409,11 @@
       "date": "2022-05-16"
     },
     {
-      "id": "20220701_g3q2opcgra06o77gdnvrosi66c",
+      "id": "20220630_3crq6bkhcq6imq7v7fjdn8f9cs",
       "status": "confirmed",
       "summary": "Hajj season begins",
       "region": "United Arab Emirates",
-      "date": "2022-07-01"
+      "date": "2022-06-30"
     },
     {
       "id": "20220708_oo1ugrfi6vqq21miejpg81i870",
@@ -4631,6 +4631,20 @@
       "summary": "Ramadan holiday",
       "region": "Azerbaijan",
       "date": "2023-04-23"
+    },
+    {
+      "id": "20230424_sus01j0n7op4lt6gkkgvomk5lk",
+      "status": "confirmed",
+      "summary": "Day off for Ramadan holiday",
+      "region": "Azerbaijan",
+      "date": "2023-04-24"
+    },
+    {
+      "id": "20230425_6klqh4u808ud4l1duefvjtfkt8",
+      "status": "confirmed",
+      "summary": "Day off for Ramadan holiday",
+      "region": "Azerbaijan",
+      "date": "2023-04-25"
     },
     {
       "id": "20230509_r7gp6cmnb76sgsq8u8ne9lkk5k",
@@ -10854,9 +10868,9 @@
       "date": "2022-09-05"
     },
     {
-      "id": "20220930_pa9kamr546htiaqvvcnj2l7c70",
+      "id": "20220930_q3l8r2965ehlo99gbr4tci7eoo",
       "status": "confirmed",
-      "summary": "National Day for Truth and Reconciliation",
+      "summary": "National Day for Truth and Reconciliation (Northwest Territories)",
       "region": "Canada",
       "date": "2022-09-30"
     },
@@ -10896,7 +10910,7 @@
       "date": "2022-12-11"
     },
     {
-      "id": "20221224_sbifh9oirp6j2o6sc9ulsreilc",
+      "id": "20221224_g479r5dh56jujbvmpab56h4j10",
       "status": "confirmed",
       "summary": "Christmas Eve (New Brunswick)",
       "region": "Canada",
@@ -11050,7 +11064,7 @@
       "date": "2023-04-07"
     },
     {
-      "id": "20230409_bb9tn5hjtn0f9djkmjh4ocvq78",
+      "id": "20230409_h1a1htc4uih867324bt5icdh8k",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
@@ -11064,7 +11078,7 @@
       "date": "2023-04-09"
     },
     {
-      "id": "20230410_hesg0h6cabs5u0ebec06cpf01s",
+      "id": "20230410_bt3g2q2qg6518q11hjmag9b7as",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -11232,9 +11246,9 @@
       "date": "2023-09-04"
     },
     {
-      "id": "20230930_f1uf16uodj7on717lf97ll1h84",
+      "id": "20230930_o3jjfsli3oo5j8a96shtvbqnuk",
       "status": "confirmed",
-      "summary": "National Day for Truth and Reconciliation",
+      "summary": "National Day for Truth and Reconciliation (Northwest Territories)",
       "region": "Canada",
       "date": "2023-09-30"
     },
@@ -11260,7 +11274,7 @@
       "date": "2023-11-05"
     },
     {
-      "id": "20231111_oo1ahdmm06eu0lfaq49o2gs7ns",
+      "id": "20231111_fuukhu7gf9vqsjlm064podkbjs",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -26986,9 +27000,9 @@
       "date": "2022-07-01"
     },
     {
-      "id": "20220710_7qf3oo8nd0hou763ufvpn8fb8o",
+      "id": "20220710_e0mi5vg545hv77mgmgf206bepk",
       "status": "confirmed",
-      "summary": "Bakr Id/Eid ul-Adha",
+      "summary": "Bakrid/Eid ul-Adha",
       "region": "India",
       "date": "2022-07-10"
     },
@@ -27196,9 +27210,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230114_5crl7jhjq5s5ii1t96t1s2d904",
+      "id": "20230114_irvsh4fr3t2n4fcl6b10otha6k",
       "status": "confirmed",
-      "summary": "Lohri",
+      "summary": "Makar Sankranti",
       "region": "India",
       "date": "2023-01-14"
     },
@@ -27210,20 +27224,6 @@
       "date": "2023-01-15"
     },
     {
-      "id": "20230115_riu1kg9pbcdorc99taremn22c8",
-      "status": "confirmed",
-      "summary": "Makar Sankranti",
-      "region": "India",
-      "date": "2023-01-15"
-    },
-    {
-      "id": "20230125_gograpqq21lmc6srkq5lk53mug",
-      "status": "confirmed",
-      "summary": "Vasant Panchami",
-      "region": "India",
-      "date": "2023-01-25"
-    },
-    {
       "id": "20230126_32k1n90r06la29e8te70c1u40s",
       "status": "confirmed",
       "summary": "Republic Day",
@@ -27231,11 +27231,18 @@
       "date": "2023-01-26"
     },
     {
-      "id": "20230204_7tcu7dgiokehsa9muier2gu9k0",
+      "id": "20230126_jop3t0vt8i1anit5e8d8tisr24",
+      "status": "confirmed",
+      "summary": "Vasant Panchami",
+      "region": "India",
+      "date": "2023-01-26"
+    },
+    {
+      "id": "20230205_9or44lpflu8s17jug6paodpvck",
       "status": "confirmed",
       "summary": "Hazarat Ali's Birthday",
       "region": "India",
-      "date": "2023-02-04"
+      "date": "2023-02-05"
     },
     {
       "id": "20230205_n1qgojhglm6jjiml166hi307rs",
@@ -27252,7 +27259,7 @@
       "date": "2023-02-15"
     },
     {
-      "id": "20230218_te8dukj2c4isb3ko9kecduldfs",
+      "id": "20230218_ml54actfam30b0c7n1qjunm24o",
       "status": "confirmed",
       "summary": "Maha Shivaratri/Shivaratri",
       "region": "India",
@@ -27350,6 +27357,13 @@
       "date": "2023-04-14"
     },
     {
+      "id": "20230415_0qhjgr255bde37901gcia166vo",
+      "status": "confirmed",
+      "summary": "Mesadi / Vaisakhadi",
+      "region": "India",
+      "date": "2023-04-15"
+    },
+    {
       "id": "20230421_krdodl1tn389lbnjtlhng4e12k",
       "status": "confirmed",
       "summary": "Jamat Ul-Vida",
@@ -27385,18 +27399,18 @@
       "date": "2023-06-20"
     },
     {
-      "id": "20230629_u3dggtpmujdf0omf99hg3f83e4",
+      "id": "20230629_98ps9fnvhlasv30jis8hsgjoc8",
       "status": "confirmed",
-      "summary": "Bakr Id/Eid ul-Adha",
+      "summary": "Bakrid/Eid ul-Adha",
       "region": "India",
       "date": "2023-06-29"
     },
     {
-      "id": "20230728_3viuh4mapdcl37k933eieafo84",
+      "id": "20230729_ek7pmarjtj44d5ui4ipsnh9b2c",
       "status": "confirmed",
       "summary": "Muharram/Ashura",
       "region": "India",
-      "date": "2023-07-28"
+      "date": "2023-07-29"
     },
     {
       "id": "20230815_pic1jqopjio982j3g1kamgo7oc",
@@ -27411,6 +27425,13 @@
       "summary": "Parsi New Year",
       "region": "India",
       "date": "2023-08-16"
+    },
+    {
+      "id": "20230820_eect6491lj340eidcr75ghh620",
+      "status": "confirmed",
+      "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+      "region": "India",
+      "date": "2023-08-20"
     },
     {
       "id": "20230829_paop508c2mdiq9v157bt60ju0o",
@@ -27441,18 +27462,11 @@
       "date": "2023-09-07"
     },
     {
-      "id": "20230919_ikp0lms0a3tbsl0icu7luihvv8",
-      "status": "confirmed",
-      "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
-      "region": "India",
-      "date": "2023-09-19"
-    },
-    {
-      "id": "20230927_tijrkka07q5j7srdhf0nkcngqg",
+      "id": "20230928_b946i0p07urvr85fqe01fnfbns",
       "status": "confirmed",
       "summary": "Milad un-Nabi/Id-e-Milad",
       "region": "India",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231002_atg9ii7gjikmi5jh70kffdugvo",
@@ -27532,18 +27546,18 @@
       "date": "2023-11-12"
     },
     {
-      "id": "20231114_c21tjabvkufj74siqaaeoqbaa8",
-      "status": "confirmed",
-      "summary": "Bhai Duj",
-      "region": "India",
-      "date": "2023-11-14"
-    },
-    {
-      "id": "20231114_f0ar0mphl666rr2mmeqkci6a3o",
+      "id": "20231113_2alkmleq3qq424vlk2htahn8qo",
       "status": "confirmed",
       "summary": "Govardhan Puja",
       "region": "India",
-      "date": "2023-11-14"
+      "date": "2023-11-13"
+    },
+    {
+      "id": "20231115_d9k3f3ogj11ml01e601al1rcck",
+      "status": "confirmed",
+      "summary": "Bhai Duj",
+      "region": "India",
+      "date": "2023-11-15"
     },
     {
       "id": "20231119_k3fg8p74ekr1hi45ck2r5445oo",
