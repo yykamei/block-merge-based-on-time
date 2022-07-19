@@ -1,11 +1,27 @@
 # Changelog
 
-## [Unreleased](https://github.com/yykamei/block-merge-based-on-time/tree/HEAD)
+## [v2.0.39](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.39) (2022-07-17)
 
-[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.37...HEAD)
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.38...v2.0.39)
+
+**Implemented enhancements:**
+
+- Update Holidays [\#880](https://github.com/yykamei/block-merge-based-on-time/pull/880) ([github-actions[bot]](https://github.com/apps/github-actions))
+
+## [v2.0.38](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.38) (2022-07-15)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.37...v2.0.38)
+
+**Implemented enhancements:**
+
+- Update Holidays [\#879](https://github.com/yykamei/block-merge-based-on-time/pull/879) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 **Merged pull requests:**
 
+- Bump ts-node from 10.8.2 to 10.9.1 [\#878](https://github.com/yykamei/block-merge-based-on-time/pull/878) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 5.30.5 to 5.30.6 [\#876](https://github.com/yykamei/block-merge-based-on-time/pull/876) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 18.0.3 to 18.0.4 [\#875](https://github.com/yykamei/block-merge-based-on-time/pull/875) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/parser from 5.30.5 to 5.30.6 [\#874](https://github.com/yykamei/block-merge-based-on-time/pull/874) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump eslint from 8.18.0 to 8.19.0 [\#872](https://github.com/yykamei/block-merge-based-on-time/pull/872) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @types/node from 18.0.0 to 18.0.3 [\#871](https://github.com/yykamei/block-merge-based-on-time/pull/871) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump @typescript-eslint/eslint-plugin from 5.30.0 to 5.30.5 [\#870](https://github.com/yykamei/block-merge-based-on-time/pull/870) ([dependabot[bot]](https://github.com/apps/dependabot))

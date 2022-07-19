@@ -409,11 +409,11 @@
       "date": "2022-05-16"
     },
     {
-      "id": "20220701_g3q2opcgra06o77gdnvrosi66c",
+      "id": "20220630_3crq6bkhcq6imq7v7fjdn8f9cs",
       "status": "confirmed",
       "summary": "Hajj season begins",
       "region": "United Arab Emirates",
-      "date": "2022-07-01"
+      "date": "2022-06-30"
     },
     {
       "id": "20220708_oo1ugrfi6vqq21miejpg81i870",
@@ -642,16 +642,23 @@
       "date": "2022-05-03"
     },
     {
-      "id": "20220709_k7at8nmkgf2l4fkcl3p9c4iskc",
+      "id": "20220708_n54asbl9mjo870jtklc8r2ksas",
       "status": "confirmed",
       "summary": "Day of Arafat",
+      "region": "Afghanistan",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_cpqig24n7gedhkipohstttoang",
+      "status": "confirmed",
+      "summary": "Eid al-Qurban",
       "region": "Afghanistan",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_l3pst1vb4ijqt5g6q67p97o65g",
+      "id": "20220710_jqdbe4mkpgtvfh4te666rpcs1s",
       "status": "confirmed",
-      "summary": "Eid al-Qurban",
+      "summary": "Eid al-Qurban Holiday",
       "region": "Afghanistan",
       "date": "2022-07-10"
     },
@@ -661,13 +668,6 @@
       "summary": "Eid al-Qurban Holiday",
       "region": "Afghanistan",
       "date": "2022-07-11"
-    },
-    {
-      "id": "20220712_hvmel1o4oe7qslhqbgn6hsupk8",
-      "status": "confirmed",
-      "summary": "Eid al-Qurban Holiday",
-      "region": "Afghanistan",
-      "date": "2022-07-12"
     },
     {
       "id": "20220808_8t67jnt5fr5bjd48jjot1bh9sk",
@@ -1397,11 +1397,11 @@
       "date": "2022-06-19"
     },
     {
-      "id": "20220710_3acana4f0bjbfqlnf92c9ujpe0",
+      "id": "20220709_5cu42b14o2dt83bk1cuog1blmc",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice",
       "region": "Albania",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220905_auofap78opjjrb2gfmtdp19nvk",
@@ -1488,11 +1488,11 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230102_biofn2npinvhblq5f2dbjphiu8",
+      "id": "20230103_jqk3gj1uoa0f1k0b8gkcdrs124",
       "status": "confirmed",
       "summary": "Day off for New Year's Day",
       "region": "Albania",
-      "date": "2023-01-02"
+      "date": "2023-01-03"
     },
     {
       "id": "20230214_nkp2evovammbn0lt972hulbl7c",
@@ -1735,6 +1735,13 @@
       "date": "2022-01-28"
     },
     {
+      "id": "20220221_6u390s8rgv5a3ln5150ofloub8",
+      "status": "confirmed",
+      "summary": "Mother Language Day",
+      "region": "Armenia",
+      "date": "2022-02-21"
+    },
+    {
       "id": "20220224_np5ie5o5kmlbkddj7cjdc0a2gk",
       "status": "confirmed",
       "summary": "Feast of Saint Vartan",
@@ -1763,6 +1770,13 @@
       "date": "2022-04-15"
     },
     {
+      "id": "20220416_2dbj4qosvg1v3q99th5n4r3jqs",
+      "status": "confirmed",
+      "summary": "Armenian Cinema Day",
+      "region": "Armenia",
+      "date": "2022-04-16"
+    },
+    {
       "id": "20220416_lu5etv43nlcuk4f109afm4mjfs",
       "status": "confirmed",
       "summary": "Holy Saturday",
@@ -1784,6 +1798,13 @@
       "date": "2022-04-18"
     },
     {
+      "id": "20220419_q6j9sgvo9dc4p0rtl9ut34418c",
+      "status": "confirmed",
+      "summary": "Taxpayer's Day",
+      "region": "Armenia",
+      "date": "2022-04-19"
+    },
+    {
       "id": "20220424_h5160cmhalot0dqpoj04ambc18",
       "status": "confirmed",
       "summary": "Genocide Remembrance Day",
@@ -1791,7 +1812,7 @@
       "date": "2022-04-24"
     },
     {
-      "id": "20220430_rnk5a7unl3f03n3j06qp7t4mb8",
+      "id": "20220430_iavnift67pk09ooijiugm5a7r4",
       "status": "confirmed",
       "summary": "Citizens' Day",
       "region": "Armenia",
@@ -1819,6 +1840,20 @@
       "date": "2022-05-09"
     },
     {
+      "id": "20220515_rlr7eovcrbicmjbqq2imqb3h2s",
+      "status": "confirmed",
+      "summary": "Family Day",
+      "region": "Armenia",
+      "date": "2022-05-15"
+    },
+    {
+      "id": "20220516_f7v4upguf4hfv5vo5f16o3gmog",
+      "status": "confirmed",
+      "summary": "Day of Students and Youth",
+      "region": "Armenia",
+      "date": "2022-05-16"
+    },
+    {
       "id": "20220528_pb0sakbbh9sagvv7d4im11lnis",
       "status": "confirmed",
       "summary": "Republic Day",
@@ -1831,6 +1866,13 @@
       "summary": "Children's Day",
       "region": "Armenia",
       "date": "2022-06-01"
+    },
+    {
+      "id": "20220614_ask9s2q9tp2gl5bse5q90fdrck",
+      "status": "confirmed",
+      "summary": "Remembrance Day of the Oppressed",
+      "region": "Armenia",
+      "date": "2022-06-14"
     },
     {
       "id": "20220705_2p2mbc4dtp9rmk3anu9spiacck",
@@ -1861,6 +1903,20 @@
       "date": "2022-09-21"
     },
     {
+      "id": "20221002_uidp23s5k1bc6ce979ivmq2ip0",
+      "status": "confirmed",
+      "summary": "Day of National Minorities of the Republic of Armenia",
+      "region": "Armenia",
+      "date": "2022-10-02"
+    },
+    {
+      "id": "20221005_adquv6mo9djjgmq1sdoa55aefc",
+      "status": "confirmed",
+      "summary": "Teacher's Day",
+      "region": "Armenia",
+      "date": "2022-10-05"
+    },
+    {
       "id": "20221008_71nqumaihfc08egukdvi0agsl0",
       "status": "confirmed",
       "summary": "Translators' Day",
@@ -1868,11 +1924,25 @@
       "date": "2022-10-08"
     },
     {
+      "id": "20221110_7kkcd09p917rnrt2230hbcjv4k",
+      "status": "confirmed",
+      "summary": "Local Self-Government Day",
+      "region": "Armenia",
+      "date": "2022-11-10"
+    },
+    {
       "id": "20221207_rslkj94rcrmv5ovo1afbl68b28",
       "status": "confirmed",
       "summary": "Spitak Remembrance Day",
       "region": "Armenia",
       "date": "2022-12-07"
+    },
+    {
+      "id": "20221209_7p913ugu9669nttstvm4mjp95c",
+      "status": "confirmed",
+      "summary": "Genocide Condemnation and Prevention Day",
+      "region": "Armenia",
+      "date": "2022-12-09"
     },
     {
       "id": "20221231_bh249l67intnvg3usq2tv27k80",
@@ -1931,6 +2001,13 @@
       "date": "2023-02-16"
     },
     {
+      "id": "20230221_nq0ts9jd6s9qpttp9kauh89q70",
+      "status": "confirmed",
+      "summary": "Mother Language Day",
+      "region": "Armenia",
+      "date": "2023-02-21"
+    },
+    {
       "id": "20230308_g7fgsl9if38cc3hv2o5q2jvn70",
       "status": "confirmed",
       "summary": "International Women's Day",
@@ -1973,6 +2050,20 @@
       "date": "2023-04-10"
     },
     {
+      "id": "20230416_dk7d5ghi6rs6c8o3e0djo5pvo4",
+      "status": "confirmed",
+      "summary": "Armenian Cinema Day",
+      "region": "Armenia",
+      "date": "2023-04-16"
+    },
+    {
+      "id": "20230419_bqshjfcp2kpo4ga3vrpb65cqg4",
+      "status": "confirmed",
+      "summary": "Taxpayer's Day",
+      "region": "Armenia",
+      "date": "2023-04-19"
+    },
+    {
       "id": "20230424_pc932qka40m0vqc5mr4f9k3ops",
       "status": "confirmed",
       "summary": "Genocide Remembrance Day",
@@ -1980,7 +2071,7 @@
       "date": "2023-04-24"
     },
     {
-      "id": "20230429_ljg6hqoqdq4c7bm193hdgp2rck",
+      "id": "20230429_qh48bvpnf6u30blijmh0eprj58",
       "status": "confirmed",
       "summary": "Citizens' Day",
       "region": "Armenia",
@@ -2008,6 +2099,20 @@
       "date": "2023-05-09"
     },
     {
+      "id": "20230515_12t2a921ss01sj7cuj7oopa384",
+      "status": "confirmed",
+      "summary": "Family Day",
+      "region": "Armenia",
+      "date": "2023-05-15"
+    },
+    {
+      "id": "20230516_f38dbvnb9mv7p2k856qhd1vu7s",
+      "status": "confirmed",
+      "summary": "Day of Students and Youth",
+      "region": "Armenia",
+      "date": "2023-05-16"
+    },
+    {
       "id": "20230528_uf0vdlvh9esphjb6c9i9uobm9o",
       "status": "confirmed",
       "summary": "Republic Day",
@@ -2020,6 +2125,13 @@
       "summary": "Children's Day",
       "region": "Armenia",
       "date": "2023-06-01"
+    },
+    {
+      "id": "20230614_qp9tuo9idoif3f6nk1dtd326fg",
+      "status": "confirmed",
+      "summary": "Remembrance Day of the Oppressed",
+      "region": "Armenia",
+      "date": "2023-06-14"
     },
     {
       "id": "20230705_842qubl04vpfuuufpsqctalsag",
@@ -2050,6 +2162,20 @@
       "date": "2023-09-21"
     },
     {
+      "id": "20231001_kenoth9rnt8iu5cp242eckj7d8",
+      "status": "confirmed",
+      "summary": "Day of National Minorities of the Republic of Armenia",
+      "region": "Armenia",
+      "date": "2023-10-01"
+    },
+    {
+      "id": "20231005_df3nerjspeujp4t91v3av5mjbg",
+      "status": "confirmed",
+      "summary": "Teacher's Day",
+      "region": "Armenia",
+      "date": "2023-10-05"
+    },
+    {
       "id": "20231014_gh9g2if92pp1j5ht22f0u4brcs",
       "status": "confirmed",
       "summary": "Translators' Day",
@@ -2057,11 +2183,25 @@
       "date": "2023-10-14"
     },
     {
+      "id": "20231110_bh50enpeft3msru82rrgrpj080",
+      "status": "confirmed",
+      "summary": "Local Self-Government Day",
+      "region": "Armenia",
+      "date": "2023-11-10"
+    },
+    {
       "id": "20231207_8h1a4vivrffh4v56585kjiu21g",
       "status": "confirmed",
       "summary": "Spitak Remembrance Day",
       "region": "Armenia",
       "date": "2023-12-07"
+    },
+    {
+      "id": "20231209_mkoheh02i318ojpdcmguqncm2g",
+      "status": "confirmed",
+      "summary": "Genocide Condemnation and Prevention Day",
+      "region": "Armenia",
+      "date": "2023-12-09"
     },
     {
       "id": "20231231_g0ad2qd7kc46hdrgmn5lkb1670",
@@ -2439,11 +2579,11 @@
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_0ec4aq8qt5oeuop265r8cdbm0g",
+      "id": "20220709_bdfn69punu41rub2uh2fsho1d4",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Argentina",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220730_t0eehjla1ghomlls12oe2pn4ho",
@@ -3171,18 +3311,18 @@
       "date": "2022-08-10"
     },
     {
+      "id": "20220923_msk2q04o4nb8bhe275fpuqrgn0",
+      "status": "confirmed",
+      "summary": "Friday before the AFL Grand Final (Victoria)",
+      "region": "Australia",
+      "date": "2022-09-23"
+    },
+    {
       "id": "20220926_7l17mkabb2jg9vfhn8n3r0im74",
       "status": "confirmed",
       "summary": "Queen's Birthday (Western Australia)",
       "region": "Australia",
       "date": "2022-09-26"
-    },
-    {
-      "id": "20220930_0ndb3r72jnl7cev3nagj4e7g7g",
-      "status": "confirmed",
-      "summary": "Friday before the AFL Grand Final (Victoria)",
-      "region": "Australia",
-      "date": "2022-09-30"
     },
     {
       "id": "20221002_96i5ge8241ladp074jajgqpn6o",
@@ -4318,9 +4458,16 @@
       "date": "2022-06-27"
     },
     {
-      "id": "20220710_nhjjpbjeqld1uqe2bekmd7j9b4",
+      "id": "20220709_2o4lu60qfrtrt0fakk6k4aohlg",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice",
+      "region": "Azerbaijan",
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220710_c8cv2psanqnnh7h1kh3kmju0po",
+      "status": "confirmed",
+      "summary": "Feast of the Sacrifice Holiday",
       "region": "Azerbaijan",
       "date": "2022-07-10"
     },
@@ -4330,6 +4477,13 @@
       "summary": "Feast of the Sacrifice Holiday",
       "region": "Azerbaijan",
       "date": "2022-07-11"
+    },
+    {
+      "id": "20220712_sg9ei1do7dh463dsrinukvln4c",
+      "status": "confirmed",
+      "summary": "Feast of the Sacrifice Holiday",
+      "region": "Azerbaijan",
+      "date": "2022-07-12"
     },
     {
       "id": "20221018_cu6u42jr4clvchefiqrbtm9kug",
@@ -4477,6 +4631,20 @@
       "summary": "Ramadan holiday",
       "region": "Azerbaijan",
       "date": "2023-04-23"
+    },
+    {
+      "id": "20230424_sus01j0n7op4lt6gkkgvomk5lk",
+      "status": "confirmed",
+      "summary": "Day off for Ramadan holiday",
+      "region": "Azerbaijan",
+      "date": "2023-04-24"
+    },
+    {
+      "id": "20230425_6klqh4u808ud4l1duefvjtfkt8",
+      "status": "confirmed",
+      "summary": "Day off for Ramadan holiday",
+      "region": "Azerbaijan",
+      "date": "2023-04-25"
     },
     {
       "id": "20230509_r7gp6cmnb76sgsq8u8ne9lkk5k",
@@ -4733,11 +4901,11 @@
       "date": "2022-06-19"
     },
     {
-      "id": "20220710_94796dk9gifr5kn04oictjevds",
+      "id": "20220709_cpvdt3po031r1c6lt1cot5ka04",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice",
       "region": "Bosnia & Herzegovina",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20221031_7sfdi9c80vqaau3rleraht1ppc",
@@ -6197,11 +6365,11 @@
       "date": "2022-05-26"
     },
     {
-      "id": "20220710_4kirh5lv51mmoakiont7f3ds78",
+      "id": "20220709_44cr03r45nqbtcc97uonvmg9bg",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Burkina Faso",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220805_5s69ccajg5os5ce4bc33h5k4cg",
@@ -6444,6 +6612,13 @@
       "date": "2022-07-11"
     },
     {
+      "id": "20220712_6acnbndgg6hufp9l2drfs0vto0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Bahrain",
+      "date": "2022-07-12"
+    },
+    {
       "id": "20220730_sd6lr3b0ksnrakij1eausu59s8",
       "status": "confirmed",
       "summary": "Muharram",
@@ -6656,11 +6831,11 @@
       "date": "2022-07-01"
     },
     {
-      "id": "20220710_h1gu8fnf1d0o3v3m0utorqkofs",
+      "id": "20220709_endqc95dhi1f299l6c5cass7u8",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Burundi",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220815_avd5lkp2781d7kg5sqb8029m3c",
@@ -6903,11 +7078,11 @@
       "date": "2022-06-19"
     },
     {
-      "id": "20220710_m3124u8ctoe94smi9257somosc",
+      "id": "20220709_7cglt451me5fehn9sdbgvpnjeo",
       "status": "confirmed",
       "summary": "Tabaski",
       "region": "Benin",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220801_u7tqdh2gl4a0d6nj1ot2l28fdo",
@@ -7707,11 +7882,18 @@
       "date": "2022-05-31"
     },
     {
-      "id": "20220709_g6sbchr17k9qio1crv12rk2bj8",
+      "id": "20220710_h0r31lln605938fsgnjed6kpug",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Brunei",
-      "date": "2022-07-09"
+      "date": "2022-07-10"
+    },
+    {
+      "id": "20220711_vd74e4844it0u9o1muuivhvrv4",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Adha",
+      "region": "Brunei",
+      "date": "2022-07-11"
     },
     {
       "id": "20220715_1d0tkchh2so16l2l6oke3tuo4o",
@@ -7966,6 +8148,13 @@
       "summary": "Day off for Labor Day / May Day",
       "region": "Bolivia",
       "date": "2022-05-02"
+    },
+    {
+      "id": "20220527_cem8esjppmqo9tafu96gq5lu7g",
+      "status": "confirmed",
+      "summary": "Mother's Day Public Sector Half-day Holiday",
+      "region": "Bolivia",
+      "date": "2022-05-27"
     },
     {
       "id": "20220527_okur7vbevb6m17tkpmfm5vq5ls",
@@ -10679,9 +10868,9 @@
       "date": "2022-09-05"
     },
     {
-      "id": "20220930_pa9kamr546htiaqvvcnj2l7c70",
+      "id": "20220930_q3l8r2965ehlo99gbr4tci7eoo",
       "status": "confirmed",
-      "summary": "National Day for Truth and Reconciliation",
+      "summary": "National Day for Truth and Reconciliation (Northwest Territories)",
       "region": "Canada",
       "date": "2022-09-30"
     },
@@ -10721,7 +10910,7 @@
       "date": "2022-12-11"
     },
     {
-      "id": "20221224_sbifh9oirp6j2o6sc9ulsreilc",
+      "id": "20221224_g479r5dh56jujbvmpab56h4j10",
       "status": "confirmed",
       "summary": "Christmas Eve (New Brunswick)",
       "region": "Canada",
@@ -10875,7 +11064,7 @@
       "date": "2023-04-07"
     },
     {
-      "id": "20230409_bb9tn5hjtn0f9djkmjh4ocvq78",
+      "id": "20230409_h1a1htc4uih867324bt5icdh8k",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
@@ -10889,7 +11078,7 @@
       "date": "2023-04-09"
     },
     {
-      "id": "20230410_hesg0h6cabs5u0ebec06cpf01s",
+      "id": "20230410_bt3g2q2qg6518q11hjmag9b7as",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -11057,9 +11246,9 @@
       "date": "2023-09-04"
     },
     {
-      "id": "20230930_f1uf16uodj7on717lf97ll1h84",
+      "id": "20230930_o3jjfsli3oo5j8a96shtvbqnuk",
       "status": "confirmed",
-      "summary": "National Day for Truth and Reconciliation",
+      "summary": "National Day for Truth and Reconciliation (Northwest Territories)",
       "region": "Canada",
       "date": "2023-09-30"
     },
@@ -11085,7 +11274,7 @@
       "date": "2023-11-05"
     },
     {
-      "id": "20231111_oo1ahdmm06eu0lfaq49o2gs7ns",
+      "id": "20231111_fuukhu7gf9vqsjlm064podkbjs",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -11446,11 +11635,11 @@
       "date": "2022-06-30"
     },
     {
-      "id": "20220710_l4dsf28gmf5oso7m8vjkoaed3g",
+      "id": "20220709_bb9imimon4kb74rudch7tc6ae0",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Central African Republic",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220813_j6udv3t7vqvtq4lcl2m61mqrv0",
@@ -12882,11 +13071,11 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220710_3v42d0i2e9rjn1m0rrjfl1diak",
+      "id": "20220709_bca7ejjmqqreq0k3kn8e26qfi0",
       "status": "confirmed",
       "summary": "Aid el-Kebir",
       "region": "Côte d’Ivoire",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220807_c8gj9vpgik9r8iosrg9ruh3pfs",
@@ -13327,6 +13516,13 @@
       "date": "2022-08-15"
     },
     {
+      "id": "20220904_34goqdfvosu56fj4ob3hjf428k",
+      "status": "confirmed",
+      "summary": "Public Holiday (Constitutional Plebiscite)",
+      "region": "Chile",
+      "date": "2022-09-04"
+    },
+    {
       "id": "20220918_i9v8bojlooq2ghn9tt9rn8b4i8",
       "status": "confirmed",
       "summary": "National Day",
@@ -13574,18 +13770,11 @@
       "date": "2022-05-26"
     },
     {
-      "id": "20220710_pdcuh84drslpbseival7nfjv28",
+      "id": "20220709_pths7kng7un2c5rrcvaect58a4",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Cameroon",
-      "date": "2022-07-10"
-    },
-    {
-      "id": "20220711_c3c0jn0kju97qnhfbnd6q0jm5o",
-      "status": "confirmed",
-      "summary": "Eid al-Adha observed",
-      "region": "Cameroon",
-      "date": "2022-07-11"
+      "date": "2022-07-09"
     },
     {
       "id": "20220815_bihq4t9f40r3qtohahjip5ndck",
@@ -14756,11 +14945,11 @@
       "date": "2022-06-25"
     },
     {
-      "id": "20220710_v0k31am7eonmirmatnillacja4",
+      "id": "20220709_9d3bu786fs6n679fd6us9l1fm4",
       "status": "confirmed",
       "summary": "Kurban Bayram",
       "region": "Croatia",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220805_engcsc367a5rllf671c0o670no",
@@ -16674,18 +16863,18 @@
       "date": "2022-06-28"
     },
     {
-      "id": "20220709_4g8cpi80v1p93m86sgd5rervoo",
+      "id": "20220708_88a0hattvqjvsatfdkuange1n8",
       "status": "confirmed",
       "summary": "Arafat Day",
       "region": "Djibouti",
-      "date": "2022-07-09"
+      "date": "2022-07-08"
     },
     {
-      "id": "20220710_bcg7b178qs7k4tsgaof058jmjo",
+      "id": "20220709_qgcjeiqltl1jdsa6hivdiepkts",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Djibouti",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220711_og3tm7qhcisrurjk9a9g9mch78",
@@ -17564,11 +17753,11 @@
       "date": "2022-07-05"
     },
     {
-      "id": "20220710_qpq06fmvvpq9rd7q2l6qs96mhs",
+      "id": "20220709_cnilca9ki658t333ksqllgdcno",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Algeria",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220711_01v4p9m2o5h45c8n69os6rdnrc",
@@ -18417,6 +18606,13 @@
       "date": "2022-05-02"
     },
     {
+      "id": "20220503_j999fbvsgbja96bh35mpom48mc",
+      "status": "confirmed",
+      "summary": "Eid el Fitr Holiday",
+      "region": "Egypt",
+      "date": "2022-05-03"
+    },
+    {
       "id": "20220504_6ngd8fjc87lgvj0lhndfqqpni8",
       "status": "confirmed",
       "summary": "Eid el Fitr Holiday",
@@ -18438,16 +18634,23 @@
       "date": "2022-06-30"
     },
     {
-      "id": "20220709_9pl81dc429pbnstql22kld7u6c",
+      "id": "20220708_sb9skcopejpkmpjmg1id7q3ap0",
       "status": "confirmed",
       "summary": "Arafat Day",
+      "region": "Egypt",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_b1m0ckg0mmthbrdt4hp3be1d7o",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Egypt",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_fa219fihmppk2fotb4i4bf7gug",
+      "id": "20220710_eetl6cvps4jnuqktfq8u6arl40",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
       "date": "2022-07-10"
     },
@@ -18466,6 +18669,20 @@
       "date": "2022-07-12"
     },
     {
+      "id": "20220713_t0ljk0qjrbc90mb1vl99bb2328",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Public Sector Holiday",
+      "region": "Egypt",
+      "date": "2022-07-13"
+    },
+    {
+      "id": "20220714_otmjr9p9okb2ldvgas8da5hvg4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Public Sector Holiday",
+      "region": "Egypt",
+      "date": "2022-07-14"
+    },
+    {
       "id": "20220723_tqnhd0s31ce3371b43eo3tvk94",
       "status": "confirmed",
       "summary": "Revolution Day July 23",
@@ -18473,18 +18690,18 @@
       "date": "2022-07-23"
     },
     {
-      "id": "20220730_6saahuulnohq7bf9oodnk7am6o",
+      "id": "20220731_8360m0h621trn7itg57avmcs90",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Egypt",
-      "date": "2022-07-30"
+      "date": "2022-07-31"
     },
     {
-      "id": "20220808_ah7g0tvcvragr59fmfmtrf7a1o",
+      "id": "20220809_s5mgqinnkol8a6aobm976dgkr8",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Egypt",
-      "date": "2022-08-08"
+      "date": "2022-08-09"
     },
     {
       "id": "20220815_2aa136f020m2eqa3tm0n85beko",
@@ -18508,11 +18725,11 @@
       "date": "2022-10-06"
     },
     {
-      "id": "20221008_me9ofj7r483nvsn1hv67gkrd10",
+      "id": "20221009_6j5snetdhop7f9a8afstfna0a0",
       "status": "confirmed",
       "summary": "Prophet Mohamed's Birthday",
       "region": "Egypt",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
     },
     {
       "id": "20230107_ao6lf5glb3jifmjdrrkua3k2v8",
@@ -18634,11 +18851,11 @@
       "date": "2023-07-01"
     },
     {
-      "id": "20230719_654hi14gbr992kmkc8pgdoo9os",
+      "id": "20230720_o6cr3o59mnt0q9uunovm9efbus",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Egypt",
-      "date": "2023-07-19"
+      "date": "2023-07-20"
     },
     {
       "id": "20230723_htshrbpvifdb0rs0a995upr9tc",
@@ -18655,11 +18872,11 @@
       "date": "2023-07-27"
     },
     {
-      "id": "20230728_uvcn7sjf1fvip0s1t3b6usf43o",
+      "id": "20230729_jpgqo2bab38sm3qvl8mbjj83rs",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Egypt",
-      "date": "2023-07-28"
+      "date": "2023-07-29"
     },
     {
       "id": "20230815_ntiradt4sucsjoobblt5ctn04o",
@@ -18676,11 +18893,11 @@
       "date": "2023-09-12"
     },
     {
-      "id": "20230927_4fgthd4u6kuhth24e5gpdl55l0",
+      "id": "20230928_4c9ebb2i86ijvsvdr0m9ach4ko",
       "status": "confirmed",
       "summary": "Prophet Mohamed's Birthday",
       "region": "Egypt",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231006_n864kudgbg8mmjak0ahejbct2s",
@@ -18762,11 +18979,11 @@
       "date": "2022-06-20"
     },
     {
-      "id": "20220710_5gippjnm0d1rkekhoohr5pko6k",
+      "id": "20220709_2rc0nv7pkd43fgplt876tdn94c",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Eritrea",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220901_c100ip106decuuh4rp888q7gg0",
@@ -18981,11 +19198,11 @@
       "date": "2022-05-28"
     },
     {
-      "id": "20220710_g36tfu56lf4pltv7483ibvld4g",
+      "id": "20220709_tk2iai29gpli6fhqg61f6lag68",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Ethiopia",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220911_p3qli9g3afjli7i7ptru4phfgo",
@@ -19524,11 +19741,18 @@
       "date": "2023-09-07"
     },
     {
-      "id": "20230927_81ce1buitc0hdqj41651iauikk",
+      "id": "20230927_bdh7v4m8c1veg4nkm95c0lrde8",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Fiji",
       "date": "2023-09-27"
+    },
+    {
+      "id": "20231002_pf0r880nj4osb9jekuh2erl2h4",
+      "status": "confirmed",
+      "summary": "The Prophet's Birthday Holiday",
+      "region": "Fiji",
+      "date": "2023-10-02"
     },
     {
       "id": "20231010_dv04ne01hcf16evcj9e8suop54",
@@ -19857,9 +20081,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_14fa86ssj4vq0l2du0qqibas30",
+      "id": "20230102_1vg4o9r5jh69ad3fkfu2jajlqo",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Micronesia",
       "date": "2023-01-02"
     },
@@ -19892,9 +20116,9 @@
       "date": "2023-11-03"
     },
     {
-      "id": "20231110_q9h7910mers4rdui3ma5ti1dak",
+      "id": "20231110_tem8198dilmcb7e5pdpk7ji028",
       "status": "confirmed",
-      "summary": "Veterans of Foreign Wars Day observed",
+      "summary": "Day off for Veterans of Foreign Wars Day",
       "region": "Micronesia",
       "date": "2023-11-10"
     },
@@ -20528,11 +20752,11 @@
       "date": "2022-06-19"
     },
     {
-      "id": "20220710_aek1tt25psrun6v0dgdubl14f4",
+      "id": "20220709_te3bft98s8h27rl8tf8cqu010s",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Gabon",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220815_mbk75ra6blqsotc9l969mset18",
@@ -20752,6 +20976,13 @@
       "summary": "Corpus Christi",
       "region": "Grenada",
       "date": "2022-06-16"
+    },
+    {
+      "id": "20220624_gkmn24niubaktoungr2gv8v3oo",
+      "status": "confirmed",
+      "summary": "Election Victory Holiday",
+      "region": "Grenada",
+      "date": "2022-06-24"
     },
     {
       "id": "20220801_svqhgbfv93r6okkqimk58je2vc",
@@ -22430,11 +22661,18 @@
       "date": "2022-07-01"
     },
     {
-      "id": "20220710_hv774kkmb5t5mff9pd3lejkfeg",
+      "id": "20220709_f5sls79khkgis43rom67enmp4s",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Ghana",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220711_hq3n0h6asr4ca3mjcn3eg66r2g",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Adha",
+      "region": "Ghana",
+      "date": "2022-07-11"
     },
     {
       "id": "20220804_kllqfj2nfns40jtvdfrq43r8r4",
@@ -23234,11 +23472,18 @@
       "date": "2022-05-25"
     },
     {
-      "id": "20220710_05om9vpqui0h1jjl0soi0cf9ic",
+      "id": "20220709_keovbmhutcv7gjd03g0v0t9fbs",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Gambia",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220711_6958qg10j3nvn0q97155gag5h4",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Adha",
+      "region": "Gambia",
+      "date": "2022-07-11"
     },
     {
       "id": "20220722_i97ivubk20p4si24h653bd6plg",
@@ -23416,6 +23661,13 @@
       "summary": "Eid al-Fitr",
       "region": "Guinea",
       "date": "2022-05-02"
+    },
+    {
+      "id": "20220514_9ilphf2e767hnocdll1vfa4t7s",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "Guinea",
+      "date": "2022-05-14"
     },
     {
       "id": "20220525_hi8quo5p6ehme2lgniob12kdls",
@@ -24828,6 +25080,13 @@
       "summary": "Eid al-Fitr",
       "region": "Guinea-Bissau",
       "date": "2022-05-03"
+    },
+    {
+      "id": "20220709_l6d7kirnh8d6recipiagh0cas8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Guinea-Bissau",
+      "date": "2022-07-09"
     },
     {
       "id": "20220710_p16qvkoilimh0kt7lbbm758lvg",
@@ -26741,9 +27000,9 @@
       "date": "2022-07-01"
     },
     {
-      "id": "20220710_7qf3oo8nd0hou763ufvpn8fb8o",
+      "id": "20220710_e0mi5vg545hv77mgmgf206bepk",
       "status": "confirmed",
-      "summary": "Bakr Id/Eid ul-Adha",
+      "summary": "Bakrid/Eid ul-Adha",
       "region": "India",
       "date": "2022-07-10"
     },
@@ -26951,9 +27210,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230114_5crl7jhjq5s5ii1t96t1s2d904",
+      "id": "20230114_irvsh4fr3t2n4fcl6b10otha6k",
       "status": "confirmed",
-      "summary": "Lohri",
+      "summary": "Makar Sankranti",
       "region": "India",
       "date": "2023-01-14"
     },
@@ -26965,20 +27224,6 @@
       "date": "2023-01-15"
     },
     {
-      "id": "20230115_riu1kg9pbcdorc99taremn22c8",
-      "status": "confirmed",
-      "summary": "Makar Sankranti",
-      "region": "India",
-      "date": "2023-01-15"
-    },
-    {
-      "id": "20230125_gograpqq21lmc6srkq5lk53mug",
-      "status": "confirmed",
-      "summary": "Vasant Panchami",
-      "region": "India",
-      "date": "2023-01-25"
-    },
-    {
       "id": "20230126_32k1n90r06la29e8te70c1u40s",
       "status": "confirmed",
       "summary": "Republic Day",
@@ -26986,11 +27231,18 @@
       "date": "2023-01-26"
     },
     {
-      "id": "20230204_7tcu7dgiokehsa9muier2gu9k0",
+      "id": "20230126_jop3t0vt8i1anit5e8d8tisr24",
+      "status": "confirmed",
+      "summary": "Vasant Panchami",
+      "region": "India",
+      "date": "2023-01-26"
+    },
+    {
+      "id": "20230205_9or44lpflu8s17jug6paodpvck",
       "status": "confirmed",
       "summary": "Hazarat Ali's Birthday",
       "region": "India",
-      "date": "2023-02-04"
+      "date": "2023-02-05"
     },
     {
       "id": "20230205_n1qgojhglm6jjiml166hi307rs",
@@ -27007,7 +27259,7 @@
       "date": "2023-02-15"
     },
     {
-      "id": "20230218_te8dukj2c4isb3ko9kecduldfs",
+      "id": "20230218_ml54actfam30b0c7n1qjunm24o",
       "status": "confirmed",
       "summary": "Maha Shivaratri/Shivaratri",
       "region": "India",
@@ -27105,6 +27357,13 @@
       "date": "2023-04-14"
     },
     {
+      "id": "20230415_0qhjgr255bde37901gcia166vo",
+      "status": "confirmed",
+      "summary": "Mesadi / Vaisakhadi",
+      "region": "India",
+      "date": "2023-04-15"
+    },
+    {
       "id": "20230421_krdodl1tn389lbnjtlhng4e12k",
       "status": "confirmed",
       "summary": "Jamat Ul-Vida",
@@ -27140,18 +27399,18 @@
       "date": "2023-06-20"
     },
     {
-      "id": "20230629_u3dggtpmujdf0omf99hg3f83e4",
+      "id": "20230629_98ps9fnvhlasv30jis8hsgjoc8",
       "status": "confirmed",
-      "summary": "Bakr Id/Eid ul-Adha",
+      "summary": "Bakrid/Eid ul-Adha",
       "region": "India",
       "date": "2023-06-29"
     },
     {
-      "id": "20230728_3viuh4mapdcl37k933eieafo84",
+      "id": "20230729_ek7pmarjtj44d5ui4ipsnh9b2c",
       "status": "confirmed",
       "summary": "Muharram/Ashura",
       "region": "India",
-      "date": "2023-07-28"
+      "date": "2023-07-29"
     },
     {
       "id": "20230815_pic1jqopjio982j3g1kamgo7oc",
@@ -27166,6 +27425,13 @@
       "summary": "Parsi New Year",
       "region": "India",
       "date": "2023-08-16"
+    },
+    {
+      "id": "20230820_eect6491lj340eidcr75ghh620",
+      "status": "confirmed",
+      "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+      "region": "India",
+      "date": "2023-08-20"
     },
     {
       "id": "20230829_paop508c2mdiq9v157bt60ju0o",
@@ -27196,18 +27462,11 @@
       "date": "2023-09-07"
     },
     {
-      "id": "20230919_ikp0lms0a3tbsl0icu7luihvv8",
-      "status": "confirmed",
-      "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
-      "region": "India",
-      "date": "2023-09-19"
-    },
-    {
-      "id": "20230927_tijrkka07q5j7srdhf0nkcngqg",
+      "id": "20230928_b946i0p07urvr85fqe01fnfbns",
       "status": "confirmed",
       "summary": "Milad un-Nabi/Id-e-Milad",
       "region": "India",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231002_atg9ii7gjikmi5jh70kffdugvo",
@@ -27287,18 +27546,18 @@
       "date": "2023-11-12"
     },
     {
-      "id": "20231114_c21tjabvkufj74siqaaeoqbaa8",
-      "status": "confirmed",
-      "summary": "Bhai Duj",
-      "region": "India",
-      "date": "2023-11-14"
-    },
-    {
-      "id": "20231114_f0ar0mphl666rr2mmeqkci6a3o",
+      "id": "20231113_2alkmleq3qq424vlk2htahn8qo",
       "status": "confirmed",
       "summary": "Govardhan Puja",
       "region": "India",
-      "date": "2023-11-14"
+      "date": "2023-11-13"
+    },
+    {
+      "id": "20231115_d9k3f3ogj11ml01e601al1rcck",
+      "status": "confirmed",
+      "summary": "Bhai Duj",
+      "region": "India",
+      "date": "2023-11-15"
     },
     {
       "id": "20231119_k3fg8p74ekr1hi45ck2r5445oo",
@@ -27457,18 +27716,18 @@
       "date": "2022-06-01"
     },
     {
-      "id": "20220709_2f2qb7cl7u721tsfdpd4ahlqas",
+      "id": "20220710_ice1udc6620fdo21g8bkc49pa0",
       "status": "confirmed",
       "summary": "Idul Adha",
       "region": "Indonesia",
-      "date": "2022-07-09"
+      "date": "2022-07-10"
     },
     {
-      "id": "20220730_t6ge5oi4ogdd2ef9kh1o3ghrfs",
+      "id": "20220731_a1fc6jucdailtj3ii4jgdmqdno",
       "status": "confirmed",
       "summary": "Muharram / Islamic New Year",
       "region": "Indonesia",
-      "date": "2022-07-30"
+      "date": "2022-07-31"
     },
     {
       "id": "20220817_eog37qgqq51u0hjvuvu0vptaq0",
@@ -27485,11 +27744,11 @@
       "date": "2022-10-02"
     },
     {
-      "id": "20221008_9t1ndp0cuejcsi4h2b5u692tao",
+      "id": "20221009_b3b8cui89aaqecm446nlos9oac",
       "status": "confirmed",
       "summary": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
       "region": "Indonesia",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
     },
     {
       "id": "20221024_nbguvulr5ediirvl1fskcptecs",
@@ -27641,9 +27900,16 @@
       "date": "2022-05-23"
     },
     {
-      "id": "20220710_1igtibshgufv8fn1m7431so6ro",
+      "id": "20220709_g5fujjlj7ngm599cef6r1sjd14",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Iraq",
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220710_6ekqtvjpui05oca6aavp41p234",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
       "region": "Iraq",
       "date": "2022-07-10"
     },
@@ -27676,18 +27942,18 @@
       "date": "2022-07-14"
     },
     {
-      "id": "20220731_deii3i0qr5ilud2lmpdqkh3ljo",
+      "id": "20220729_c8f41o1uqinb34d28vg79hbb9s",
       "status": "confirmed",
       "summary": "Islamic New Year",
       "region": "Iraq",
-      "date": "2022-07-31"
+      "date": "2022-07-29"
     },
     {
-      "id": "20220808_d8r2avt3hoverje5k2thg90op8",
+      "id": "20220807_abst35v41rlj5u1n6nuolg2eh0",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Iraq",
-      "date": "2022-08-08"
+      "date": "2022-08-07"
     },
     {
       "id": "20221003_q1ps7qlupbadajhnsrs6vb7kks",
@@ -27753,9 +28019,16 @@
       "date": "2023-03-21"
     },
     {
-      "id": "20230422_2gje0gk42949lj1215aofbl6lo",
+      "id": "20230421_9f9b1qgbdmarenjtbob12o2e84",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
+      "region": "Iraq",
+      "date": "2023-04-21"
+    },
+    {
+      "id": "20230422_l5e8bghs5kg0vvrvctosnhnd9c",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr holiday",
       "region": "Iraq",
       "date": "2023-04-22"
     },
@@ -27767,13 +28040,6 @@
       "date": "2023-04-23"
     },
     {
-      "id": "20230424_6eok7oha6c5rr0jqpg5ot3ag78",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
-      "region": "Iraq",
-      "date": "2023-04-24"
-    },
-    {
       "id": "20230501_4h1a9foc2ucem9hlg18qltkero",
       "status": "confirmed",
       "summary": "Labor Day",
@@ -27781,9 +28047,16 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230629_cfqsfm1ld6tv0meelqccvrgjjs",
+      "id": "20230628_b8gi3rrqmovovu3nsg63e3g6q0",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Iraq",
+      "date": "2023-06-28"
+    },
+    {
+      "id": "20230629_83ka4mlsbdcak7tg8ip3k826jg",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
       "region": "Iraq",
       "date": "2023-06-29"
     },
@@ -27802,13 +28075,6 @@
       "date": "2023-07-01"
     },
     {
-      "id": "20230702_lncothft3fvl8uhune3la6nvag",
-      "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
-      "region": "Iraq",
-      "date": "2023-07-02"
-    },
-    {
       "id": "20230714_fnrqs7jqlptk5dre8thf4btqgo",
       "status": "confirmed",
       "summary": "Republic Day",
@@ -27816,18 +28082,18 @@
       "date": "2023-07-14"
     },
     {
-      "id": "20230719_1uulkavkrgaos0p3hbo1joo178",
+      "id": "20230718_ge7d5imgiomevrm6r6gbgbvfm0",
       "status": "confirmed",
       "summary": "Islamic New Year",
       "region": "Iraq",
-      "date": "2023-07-19"
+      "date": "2023-07-18"
     },
     {
-      "id": "20230728_j3f1r3edq19aq6mrpqa3u0qh8g",
+      "id": "20230727_s2vkupi6baefaficmoid7844cs",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Iraq",
-      "date": "2023-07-28"
+      "date": "2023-07-27"
     },
     {
       "id": "20230927_hrc2ajv9n7srscigta4kkhj1n4",
@@ -28210,25 +28476,25 @@
       "date": "2023-09-14"
     },
     {
-      "id": "20230923_p0r6t3kedpp7h6eaph1uf4i9do",
+      "id": "20230924_cdpdelbnkgihame1ff5fnc51ag",
       "status": "confirmed",
       "summary": "Martyrdom of Imam Hasan al-Askari",
       "region": "Iran",
-      "date": "2023-09-23"
+      "date": "2023-09-24"
     },
     {
-      "id": "20231002_kfcs273ccbsnmihkfrqidkq7j8",
+      "id": "20231003_53le5b25am3ujili60j9q6bdts",
       "status": "confirmed",
       "summary": "Birthday of Prophet Muhammad and Imam Sadeq",
       "region": "Iran",
-      "date": "2023-10-02"
+      "date": "2023-10-03"
     },
     {
-      "id": "20231216_iodfg6835nlh34uvmu2b2g2vao",
+      "id": "20231217_mi9jbqi6fhbd6a0me7u0gagsrg",
       "status": "confirmed",
       "summary": "Martyrdom of Fatima",
       "region": "Iran",
-      "date": "2023-12-16"
+      "date": "2023-12-17"
     }
   ],
   "Ireland": [
@@ -30403,23 +30669,37 @@
       "date": "2022-05-05"
     },
     {
-      "id": "20220525_uoie29do157ncgrd4o62r0g10c",
+      "id": "20220525_sckr9dnv3a2fjn0ehabm53bhes",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Independence Day (From 2pm)",
       "region": "Jordan",
       "date": "2022-05-25"
     },
     {
-      "id": "20220709_nfavbprnqtrgu8n04ithvp25f0",
+      "id": "20220526_lrv85bqd4lorg0gf728ki2fh0k",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Jordan",
+      "date": "2022-05-26"
+    },
+    {
+      "id": "20220708_2i4vnk1og0sfvpkd6c6eahdgcg",
       "status": "confirmed",
       "summary": "Arafah",
+      "region": "Jordan",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_c0ctrepivh88n13uo4g6od7qv0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Jordan",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_2kchu2tgrb1dirakum95l7mm5o",
+      "id": "20220710_e9809ccsj2rl33vvg56v6vc464",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha holiday",
       "region": "Jordan",
       "date": "2022-07-10"
     },
@@ -30438,18 +30718,11 @@
       "date": "2022-07-12"
     },
     {
-      "id": "20220713_fsh7f8lqojfjp09i5u9ir996ok",
-      "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
-      "region": "Jordan",
-      "date": "2022-07-13"
-    },
-    {
-      "id": "20220730_tae8bf31ttkr01310m2usfv91o",
+      "id": "20220729_ksr0esc51eg72dj3423ba9pluo",
       "status": "confirmed",
       "summary": "Muharram/New Year",
       "region": "Jordan",
-      "date": "2022-07-30"
+      "date": "2022-07-29"
     },
     {
       "id": "20221008_asd41njl9n20q09f13u8lumut0",
@@ -30543,9 +30816,16 @@
       "date": "2023-04-17"
     },
     {
-      "id": "20230422_2prdvgp15nbk2j5ev4mq4t4snc",
+      "id": "20230421_24823vqe3240irmfj0neah2o6o",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
+      "region": "Jordan",
+      "date": "2023-04-21"
+    },
+    {
+      "id": "20230422_cakdpk2d5hcvjj55tjq5gbt0hk",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr holiday",
       "region": "Jordan",
       "date": "2023-04-22"
     },
@@ -30564,13 +30844,6 @@
       "date": "2023-04-24"
     },
     {
-      "id": "20230425_25n39raoefgfarsaiog2sfu34s",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
-      "region": "Jordan",
-      "date": "2023-04-25"
-    },
-    {
       "id": "20230501_4l4mt8djs63qai70npl9p6ffq0",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -30585,16 +30858,23 @@
       "date": "2023-05-25"
     },
     {
-      "id": "20230628_be09g9k1csmb7bvkrieklcf1ng",
+      "id": "20230627_35rfs12mlnh64q313df58h1l3o",
       "status": "confirmed",
       "summary": "Arafah",
+      "region": "Jordan",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_0gddtdlopnbahgd691k33ri3rs",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Jordan",
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_o0nl6niv7i2jjoasbugh5euri0",
+      "id": "20230629_n3ge7i51dl5jo9uq2ktean55rs",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha holiday",
       "region": "Jordan",
       "date": "2023-06-29"
     },
@@ -30613,18 +30893,11 @@
       "date": "2023-07-01"
     },
     {
-      "id": "20230702_53i067forlp9igav4lhka90ojo",
-      "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
-      "region": "Jordan",
-      "date": "2023-07-02"
-    },
-    {
-      "id": "20230719_2diq2a0jkt2c9rn29aup2kd2ks",
+      "id": "20230718_18koec7e033c6vpcd6qc9to9os",
       "status": "confirmed",
       "summary": "Muharram/New Year",
       "region": "Jordan",
-      "date": "2023-07-19"
+      "date": "2023-07-18"
     },
     {
       "id": "20230927_r4kt3p88a8c2t5lvqdqu5h9f0c",
@@ -30727,11 +31000,18 @@
       "date": "2022-06-01"
     },
     {
-      "id": "20220710_9i709cfbji6gg0gcdke25tqf3o",
+      "id": "20220710_a37jkoajphrkrirl4pbbf4pg14",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Kenya",
       "date": "2022-07-10"
+    },
+    {
+      "id": "20220711_q5p3pkoimiagldh5stdrtndm98",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Adha",
+      "region": "Kenya",
+      "date": "2022-07-11"
     },
     {
       "id": "20221010_n4k9fgp1aeno22ompturs024s4",
@@ -31044,11 +31324,11 @@
       "date": "2022-05-09"
     },
     {
-      "id": "20220710_1bis5r8kktpb9b1sa47rl349bc",
+      "id": "20220709_gerlnroq4p32sgvketdteqq6bs",
       "status": "confirmed",
       "summary": "Kurman Ait",
       "region": "Kyrgyzstan",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220711_tkp8ca41mirg5fq7bae03bg6oc",
@@ -31799,18 +32079,18 @@
       "date": "2022-07-06"
     },
     {
-      "id": "20220710_8q6i551gft6usrgr49j9eb0un0",
+      "id": "20220709_6kppnee9hg89e1h2rfegejmj0k",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Comoros",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
-      "id": "20220711_6ai6h0m3flf9m6mc3skab3kml8",
+      "id": "20220710_tdqvo3nuldmijm9et7vgmtjvr0",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Comoros",
-      "date": "2022-07-11"
+      "date": "2022-07-10"
     },
     {
       "id": "20220730_4kcn1ue9hj6a0qedmthd6ofomk",
@@ -32449,16 +32729,23 @@
       "date": "2022-05-05"
     },
     {
-      "id": "20220709_du6tu98aok6t25h6r4poja3kj8",
+      "id": "20220708_7p3b4uh7fhb4a51ar0uqs9eapg",
       "status": "confirmed",
       "summary": "Waqfat Arafat Day",
+      "region": "Kuwait",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_5jt8992a8mbuab535etr7ka3m4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Kuwait",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_5c0lfpp2dchsfjmfcmvgqnn7c8",
+      "id": "20220710_30eoule760ht6mp3ql1ap3iv20",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha holiday",
       "region": "Kuwait",
       "date": "2022-07-10"
     },
@@ -32470,11 +32757,25 @@
       "date": "2022-07-11"
     },
     {
-      "id": "20220712_ubmp4tbd5du78vi3pgbu20uov4",
+      "id": "20220712_7eshr5fkkulalpq1ehb6gssg4g",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Public Sector Holiday",
       "region": "Kuwait",
       "date": "2022-07-12"
+    },
+    {
+      "id": "20220713_381mqd8n2cpomsihf3nhe758qc",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2022-07-13"
+    },
+    {
+      "id": "20220714_o9amqsd1fb3hn53den3p4tq3ok",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2022-07-14"
     },
     {
       "id": "20220730_d2nuve7efttdb8hc8002fnbmi0",
@@ -32999,11 +33300,11 @@
       "date": "2022-07-06"
     },
     {
-      "id": "20220710_gc9ag834d05bv680m5cf59oato",
+      "id": "20220709_tiaud65je6h0kg852c4br1qcp8",
       "status": "confirmed",
       "summary": "Kurban Ait",
       "region": "Kazakhstan",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220829_q9na8pe4bu0oij4capbje2vt0o",
@@ -33139,11 +33440,11 @@
       "date": "2023-05-09"
     },
     {
-      "id": "20230629_jf6bol5ip25iq222uqrnlqmars",
+      "id": "20230628_1n9q4cg3ktdgf7i92imbcijbuc",
       "status": "confirmed",
       "summary": "Kurban Ait",
       "region": "Kazakhstan",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230706_0onlmng67ec9httejl4ov8tmtk",
@@ -33612,18 +33913,11 @@
       "date": "2023-06-24"
     },
     {
-      "id": "20230708_sqqc0nf5fclbqa8blc20vgvqco",
+      "id": "20230709_cu6dsees9drmst9gp5553p27rk",
       "status": "confirmed",
       "summary": "Last Day of the Song and Dance Festival",
       "region": "Latvia",
-      "date": "2023-07-08"
-    },
-    {
-      "id": "20230710_qnjg471mh1k6prl557areinikg",
-      "status": "confirmed",
-      "summary": "Last Day of the Song and Dance Festival observed",
-      "region": "Latvia",
-      "date": "2023-07-10"
+      "date": "2023-07-09"
     },
     {
       "id": "20230910_fbo427gc3fgn3pjptddoqeo3lo",
@@ -33838,18 +34132,18 @@
       "date": "2022-05-26"
     },
     {
-      "id": "20220710_dc9vorbjf6lg8ir3p1fpodgdic",
+      "id": "20220709_r6jcml4su99j6598m4bb9ns6nc",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Lebanon",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
-      "id": "20220711_jn9d0edno49kqkfcr7lcimcnh8",
+      "id": "20220710_ebbg943q58tgg1cs563qgmmerg",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Lebanon",
-      "date": "2022-07-11"
+      "date": "2022-07-10"
     },
     {
       "id": "20220730_018tpscatsjud1j53viebcm584",
@@ -36136,11 +36430,11 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220709_lagd80hjp9io44rg5acpgiso80",
+      "id": "20220708_9bjdo1724lg7kdob77lqd2ef4s",
       "status": "confirmed",
       "summary": "Day of Arafah",
       "region": "Libya",
-      "date": "2022-07-09"
+      "date": "2022-07-08"
     },
     {
       "id": "20220916_sfj143sr3k8eklhqaah6sn73hg",
@@ -36945,11 +37239,11 @@
       "date": "2023-02-01"
     },
     {
-      "id": "20230204_327s9an36qpno7fim2ij6jcuag",
+      "id": "20230205_atrojcv2d3lklktv1vi294k0q0",
       "status": "confirmed",
       "summary": "Thaipusam (regional holiday)",
       "region": "Malaysia",
-      "date": "2023-02-04"
+      "date": "2023-02-05"
     },
     {
       "id": "20230214_32roptlqqjmv078njudqq90c0c",
@@ -37043,6 +37337,13 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230504_94ckur2bsi1keh64sq6rd18pps",
+      "status": "confirmed",
+      "summary": "Wesak Day",
+      "region": "Malaysia",
+      "date": "2023-05-04"
+    },
+    {
       "id": "20230522_6kfolib0c27vn6qcqhk4f4nhlo",
       "status": "confirmed",
       "summary": "Pahang State Holiday (Pahang)",
@@ -37092,9 +37393,9 @@
       "date": "2023-06-18"
     },
     {
-      "id": "20230628_gb5aikiop9rf0phei4t97qc434",
+      "id": "20230628_i3h9os1u905fip2ab95f0uftkg",
       "status": "confirmed",
-      "summary": "Day of Arafat (Terengganu)",
+      "summary": "Day of Arafat (regional holiday)",
       "region": "Malaysia",
       "date": "2023-06-28"
     },
@@ -37230,6 +37531,13 @@
       "summary": "Birthday of the Sultan of Kelantan (Kelantan)",
       "region": "Malaysia",
       "date": "2023-11-11"
+    },
+    {
+      "id": "20231112_20ste5lhr2dho8qrc9jb9k8kks",
+      "status": "confirmed",
+      "summary": "Diwali/Deepavali (regional holiday)",
+      "region": "Malaysia",
+      "date": "2023-11-12"
     },
     {
       "id": "20231112_c76ehd1jmk6gopca2807ssul44",
@@ -38225,9 +38533,16 @@
       "date": "2022-05-23"
     },
     {
-      "id": "20220710_08ppe9dgm9l8r1aj9362d9ppgs",
+      "id": "20220709_5jkqa0iels007f3ilcatothud4",
       "status": "confirmed",
       "summary": "Kurban Bayram",
+      "region": "Montenegro",
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220710_8kb5rr1pfpvhveodalhee6r5hs",
+      "status": "confirmed",
+      "summary": "Kurban Bayram Holiday",
       "region": "Montenegro",
       "date": "2022-07-10"
     },
@@ -38237,13 +38552,6 @@
       "summary": "Kurban Bayram Holiday",
       "region": "Montenegro",
       "date": "2022-07-11"
-    },
-    {
-      "id": "20220712_1kq1d7hpf69p9knqsn9n3fom7c",
-      "status": "confirmed",
-      "summary": "Kurban Bayram Holiday",
-      "region": "Montenegro",
-      "date": "2022-07-12"
     },
     {
       "id": "20220713_2a0e0ijriq8u56i1cj7smgp0b4",
@@ -39861,11 +40169,11 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220710_st10085c29bf4me8m96fvf0f94",
+      "id": "20220709_0pv3gbh6dqaocnulfvkn39gc7c",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Mali",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220922_up9jrc75cviepp9tpt496raj7s",
@@ -40903,9 +41211,9 @@
       "date": "2022-10-04"
     },
     {
-      "id": "20221005_thhh20ba35c7ith88j2gikg9a4",
+      "id": "20221005_vu5q1r8191os1q6h158in2t3kk",
       "status": "confirmed",
-      "summary": "Day off for Day after PRC National Day",
+      "summary": "PRC National Day Holiday",
       "region": "Macao",
       "date": "2022-10-05"
     },
@@ -40980,11 +41288,11 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230121_1ntvvk0bklm6laskioqqtg0rc0",
+      "id": "20230102_l5f4lgdbrj10u98osp5fuf573s",
       "status": "confirmed",
-      "summary": "Lunar New Year Eve",
+      "summary": "New Year Holiday",
       "region": "Macao",
-      "date": "2023-01-21"
+      "date": "2023-01-02"
     },
     {
       "id": "20230122_s14h42ik49h6sos3fmpfu83qck",
@@ -41006,6 +41314,13 @@
       "summary": "Lunar New Year (Third Day)",
       "region": "Macao",
       "date": "2023-01-24"
+    },
+    {
+      "id": "20230125_s8nql2sq6itpq30e6cg1s5e4is",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Macao",
+      "date": "2023-01-25"
     },
     {
       "id": "20230405_i1bj7pai71lt52abumrr060cd0",
@@ -41078,6 +41393,13 @@
       "date": "2023-10-02"
     },
     {
+      "id": "20231004_kksa52al127cf94obrem9spg8c",
+      "status": "confirmed",
+      "summary": "PRC National Day Holiday",
+      "region": "Macao",
+      "date": "2023-10-04"
+    },
+    {
       "id": "20231023_cj86jb4ii57mn4l63snstp9lm8",
       "status": "confirmed",
       "summary": "Chong Yeung Festival (Festival of Ancestors)",
@@ -41127,16 +41449,16 @@
       "date": "2023-12-25"
     },
     {
+      "id": "20231226_v1fkrectn88286fi85gg8qmh60",
+      "status": "confirmed",
+      "summary": "Christmas Eve Holiday",
+      "region": "Macao",
+      "date": "2023-12-26"
+    },
+    {
       "id": "20231231_rgqpgh2056930pj1o98s8rrkhs",
       "status": "confirmed",
       "summary": "New Year's Eve",
-      "region": "Macao",
-      "date": "2023-12-31"
-    },
-    {
-      "id": "20231231_sjgfhc5vkkhq13ikm6fcqh70bo",
-      "status": "confirmed",
-      "summary": "New Year's Eve Afternoon",
       "region": "Macao",
       "date": "2023-12-31"
     }
@@ -44571,11 +44893,11 @@
       "date": "2022-06-19"
     },
     {
-      "id": "20220710_m748gc85mdil6hsg3a73bj0u1k",
+      "id": "20220709_lfv4saiq1stpi377s9bjlsk35c",
       "status": "confirmed",
       "summary": "Id el Kabir",
       "region": "Nigeria",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220711_8dqiut94f730j434t2hre7229s",
@@ -44583,6 +44905,13 @@
       "summary": "Id el Kabir additional holiday",
       "region": "Nigeria",
       "date": "2022-07-11"
+    },
+    {
+      "id": "20220712_e8ehfifemmh6ns11datn245fb0",
+      "status": "confirmed",
+      "summary": "Id el Kabir additional holiday",
+      "region": "Nigeria",
+      "date": "2022-07-12"
     },
     {
       "id": "20221001_qgaeit6fqsj3r1nc6d2iubfqgs",
@@ -44909,7 +45238,7 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220530_7s40d3k3ghg5kjfgf7mrppmhh8",
+      "id": "20220530_c3qo2r7d4sqve0f6alaau0g3k8",
       "status": "confirmed",
       "summary": "Mothers' Day",
       "region": "Nicaragua",
@@ -45028,7 +45357,7 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230530_9mjvvp6o0roi9mjj3os5hq5n7o",
+      "id": "20230530_7app5s79ofj1eq19caiuhholj4",
       "status": "confirmed",
       "summary": "Mothers' Day",
       "region": "Nicaragua",
@@ -45107,9 +45436,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220121_hu9ma2mpgdeo08l84ukhm1v6rs",
+      "id": "20220121_c7ttumt8neg4a0h6nlsg0elq20",
       "status": "confirmed",
-      "summary": "Princess Ingrid Alexandra's day",
+      "summary": "Princess Ingrid Alexandra's Day",
       "region": "Norway",
       "date": "2022-01-21"
     },
@@ -45121,9 +45450,9 @@
       "date": "2022-02-06"
     },
     {
-      "id": "20220221_je9tjd456t6eqjb1jqe5180id4",
+      "id": "20220221_bmqh9lj8uh0dtcco4kghnd8140",
       "status": "confirmed",
-      "summary": "King Harald V's day",
+      "summary": "King Harald V's Day",
       "region": "Norway",
       "date": "2022-02-21"
     },
@@ -45184,16 +45513,16 @@
       "date": "2022-04-18"
     },
     {
-      "id": "20220501_boem84si70ca3tn5ns2f04b8j4",
+      "id": "20220501_f4nutal0k26n99lrkr5102704o",
       "status": "confirmed",
-      "summary": "Labor day",
+      "summary": "Labor Day",
       "region": "Norway",
       "date": "2022-05-01"
     },
     {
-      "id": "20220508_sisg2sa9es9bcnmoaftikg8udc",
+      "id": "20220508_8penjv78r7p357t3jpe3pkeu1c",
       "status": "confirmed",
-      "summary": "Day of liberation",
+      "summary": "Day of Liberation",
       "region": "Norway",
       "date": "2022-05-08"
     },
@@ -45233,37 +45562,37 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220607_1thp7auogrjc1lam2e7gv37fe0",
+      "id": "20220607_uocm14i43ien7kb1ftec70t13g",
       "status": "confirmed",
-      "summary": "Dissolution of union with Sweden (1905)",
+      "summary": "Dissolution of Union With Sweden (1905)",
       "region": "Norway",
       "date": "2022-06-07"
     },
     {
-      "id": "20220704_p3e6dd1q6isnfl91g22dql641c",
+      "id": "20220704_q1nkomk34k1rc0gdlomomjsnnc",
       "status": "confirmed",
-      "summary": "Queen Sonja's day",
+      "summary": "Queen Sonja's Day",
       "region": "Norway",
       "date": "2022-07-04"
     },
     {
-      "id": "20220720_k6kjnqe3bqjk7b7arcolpmr5hc",
+      "id": "20220720_kc2ur7rfuonog228q1r94o3ofk",
       "status": "confirmed",
-      "summary": "Crown Prince Haakon's day",
+      "summary": "Crown Prince Haakon's Day",
       "region": "Norway",
       "date": "2022-07-20"
     },
     {
-      "id": "20220729_nlmaje7am7sm6o47p3tvvi6gho",
+      "id": "20220729_fa2j6q99ai1p64926vt4vsirr8",
       "status": "confirmed",
-      "summary": "St. Olaf's day",
+      "summary": "St. Olaf's Day",
       "region": "Norway",
       "date": "2022-07-29"
     },
     {
-      "id": "20220819_39crplqbjugrk2jo5gdoch4k8c",
+      "id": "20220819_8pj6phsip8uc8vohtjhvs5t9uc",
       "status": "confirmed",
-      "summary": "Crown Princess Mette-Marit's day",
+      "summary": "Crown Princess Mette-Marit's Day",
       "region": "Norway",
       "date": "2022-08-19"
     },
@@ -45352,9 +45681,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230121_qnd9vvfu9963gnorohe8u6rd88",
+      "id": "20230121_i9ufqik9b5i2hm2cgtdqkoj52s",
       "status": "confirmed",
-      "summary": "Princess Ingrid Alexandra's day",
+      "summary": "Princess Ingrid Alexandra's Day",
       "region": "Norway",
       "date": "2023-01-21"
     },
@@ -45373,9 +45702,9 @@
       "date": "2023-02-19"
     },
     {
-      "id": "20230221_uckb7rbcisu56lrb04p2p10ktk",
+      "id": "20230221_vffmjh5l1nltfsq1l7cgbrd5j4",
       "status": "confirmed",
-      "summary": "King Harald V's day",
+      "summary": "King Harald V's Day",
       "region": "Norway",
       "date": "2023-02-21"
     },
@@ -45429,16 +45758,16 @@
       "date": "2023-04-10"
     },
     {
-      "id": "20230501_k4eo4rfd016ove7kf39uq7rl7o",
+      "id": "20230501_adnhkrq8t5gno2qd9qnuscqlts",
       "status": "confirmed",
-      "summary": "Labor day",
+      "summary": "Labor Day",
       "region": "Norway",
       "date": "2023-05-01"
     },
     {
-      "id": "20230508_7iteuaughjup88g5c9ashpjuos",
+      "id": "20230508_f2haumaq320js329935b8sgehk",
       "status": "confirmed",
-      "summary": "Day of liberation",
+      "summary": "Day of Liberation",
       "region": "Norway",
       "date": "2023-05-08"
     },
@@ -45478,37 +45807,37 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230607_eeqfnpch67feicqdrjhq0h1l0o",
+      "id": "20230607_t04095n8saqv71oobhtlp1dots",
       "status": "confirmed",
-      "summary": "Dissolution of union with Sweden (1905)",
+      "summary": "Dissolution of Union With Sweden (1905)",
       "region": "Norway",
       "date": "2023-06-07"
     },
     {
-      "id": "20230704_fa17gfkrjudedbb5pn82378q6s",
+      "id": "20230704_5v5c3d4577qv3boh5uriila4cc",
       "status": "confirmed",
-      "summary": "Queen Sonja's day",
+      "summary": "Queen Sonja's Day",
       "region": "Norway",
       "date": "2023-07-04"
     },
     {
-      "id": "20230720_5qreip0vs8908d0a62hud6oqgc",
+      "id": "20230720_g05j1b3a9ac64l8ieokdmurv98",
       "status": "confirmed",
-      "summary": "Crown Prince Haakon's day",
+      "summary": "Crown Prince Haakon's Day",
       "region": "Norway",
       "date": "2023-07-20"
     },
     {
-      "id": "20230729_sgaq7a8ufuke55oetg0vbca49g",
+      "id": "20230729_vegihaanf8ci7h7124cj3i2488",
       "status": "confirmed",
-      "summary": "St. Olaf's day",
+      "summary": "St. Olaf's Day",
       "region": "Norway",
       "date": "2023-07-29"
     },
     {
-      "id": "20230819_048k11u5gacuksumv1i1453ia8",
+      "id": "20230819_j1r5lccs5pnsu7bvl8h6ci66ro",
       "status": "confirmed",
-      "summary": "Crown Princess Mette-Marit's day",
+      "summary": "Crown Princess Mette-Marit's Day",
       "region": "Norway",
       "date": "2023-08-19"
     },
@@ -45697,7 +46026,7 @@
       "date": "2022-05-29"
     },
     {
-      "id": "20220710_mob2pstoegjnph0o9tvembca2k",
+      "id": "20220710_s8vhhs10i5b92iho464bqnskdo",
       "status": "confirmed",
       "summary": "Edul Aajaha",
       "region": "Nepal",
@@ -46170,9 +46499,23 @@
       "date": "2022-05-05"
     },
     {
-      "id": "20220710_74cjp9j4m7c8t9kr3vg2nsgpd0",
+      "id": "20220708_bo5k7tvps57dntdebspv9s2nd4",
+      "status": "confirmed",
+      "summary": "Day of Arafah",
+      "region": "Oman",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_77dse18pp09uqhtop10bov25fc",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Oman",
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220710_njtj3ke99rahi50dcijtm6003o",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Oman",
       "date": "2022-07-10"
     },
@@ -46189,13 +46532,6 @@
       "summary": "Eid al-Adha Holiday",
       "region": "Oman",
       "date": "2022-07-12"
-    },
-    {
-      "id": "20220713_5knspbkper3j7mfjijpbh91j7o",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
-      "region": "Oman",
-      "date": "2022-07-13"
     },
     {
       "id": "20220730_k02gvp4p71auf1l159gl7s9ajg",
@@ -46261,9 +46597,16 @@
       "date": "2023-04-25"
     },
     {
-      "id": "20230629_3k3bkptvfds9d29b2b14dv2mi4",
+      "id": "20230628_o0rmuvr5pl8t5phomc0j2ds4ks",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Oman",
+      "date": "2023-06-28"
+    },
+    {
+      "id": "20230629_sso2m3crsq2lhj2pojakbepfjs",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Oman",
       "date": "2023-06-29"
     },
@@ -46280,13 +46623,6 @@
       "summary": "Eid al-Adha Holiday",
       "region": "Oman",
       "date": "2023-07-01"
-    },
-    {
-      "id": "20230702_phml4satk9n3enqu5cad9riisg",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
-      "region": "Oman",
-      "date": "2023-07-02"
     },
     {
       "id": "20230719_8vtfhoio5c9l1pe4238brqvcgo",
@@ -47433,11 +47769,11 @@
       "date": "2022-06-12"
     },
     {
-      "id": "20220710_kot82ulnv8ro3sslo42nc2h4e4",
+      "id": "20220709_3npapk3c1hmkj4edfuuo1hhodo",
       "status": "confirmed",
       "summary": "Eid al-Adha (Feast of the Sacrifice)",
       "region": "Philippines",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220821_uggnbbcnj2okrsfdtes6sjv9os",
@@ -47797,6 +48133,20 @@
       "summary": "July 1 Bank Holiday",
       "region": "Pakistan",
       "date": "2022-07-01"
+    },
+    {
+      "id": "20220708_it8lj65oe5q31kl6b5d15h2n54",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Pakistan",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_ndh0c7ogn01t5mhvmlfva83tm8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Pakistan",
+      "date": "2022-07-09"
     },
     {
       "id": "20220710_68hfarnurjao2b34s5329k7g88",
@@ -49794,9 +50144,16 @@
       "date": "2022-05-07"
     },
     {
-      "id": "20220710_md953rrubn9s08iv00ak7frneg",
+      "id": "20220709_nftnh7aaoplbr5rsdkis6278a8",
       "status": "confirmed",
       "summary": "Eid al-Adha (Feast of Sacrifice)",
+      "region": "Qatar",
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220710_bmiqaub2qngt94fa378uob3tgg",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Qatar",
       "date": "2022-07-10"
     },
@@ -49813,6 +50170,13 @@
       "summary": "Eid al-Adha Holiday",
       "region": "Qatar",
       "date": "2022-07-12"
+    },
+    {
+      "id": "20220713_t4j0iv6g1dvs9h4b1b9iuokt9c",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Qatar",
+      "date": "2022-07-13"
     },
     {
       "id": "20221218_lcjdpa1j216vb75nemkcaabdjk",
@@ -50507,9 +50871,16 @@
       "date": "2022-01-02"
     },
     {
-      "id": "20220103_6jj0e34n6i18pibko8fdonm5kk",
+      "id": "20220102_fc8aei8j25musl5vmgf4cj0kt4",
       "status": "confirmed",
       "summary": "Second Day of Western New Year's Day",
+      "region": "Serbia",
+      "date": "2022-01-02"
+    },
+    {
+      "id": "20220103_1v59nthh0buu3aon92vr5fpu98",
+      "status": "confirmed",
+      "summary": "Day off for Second Day of Western New Year's Day",
       "region": "Serbia",
       "date": "2022-01-03"
     },
@@ -50640,9 +51011,9 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_5p2r6cq2mbsl3ng22iitkctf2s",
+      "id": "20220503_k824mo080gk2ift3ofl0la5vbo",
       "status": "confirmed",
-      "summary": "Labor holiday second day",
+      "summary": "Labor Day Holiday",
       "region": "Serbia",
       "date": "2022-05-03"
     },
@@ -50724,16 +51095,16 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_0672h9pkrs8ted10m99v3fm5r4",
+      "id": "20230102_sgov1tkpaj3rm9unjul79lt6no",
       "status": "confirmed",
-      "summary": "Western New Year's Day observed",
+      "summary": "Second Day of Western New Year's Day",
       "region": "Serbia",
       "date": "2023-01-02"
     },
     {
-      "id": "20230103_i946d9e9evu00bqnqgpr1bk51c",
+      "id": "20230103_f8l360ngvsfogqll6tcb4qta00",
       "status": "confirmed",
-      "summary": "Second Day of Western New Year's Day",
+      "summary": "Day off for Western New Year's Day",
       "region": "Serbia",
       "date": "2023-01-03"
     },
@@ -50857,9 +51228,9 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230502_84mc59n7n3m2rrc9gmgpdhv328",
+      "id": "20230502_8bjrb7h2gc5ql1icfgs36oki3g",
       "status": "confirmed",
-      "summary": "Labor holiday second day",
+      "summary": "Labor Day Holiday",
       "region": "Serbia",
       "date": "2023-05-02"
     },
@@ -51295,11 +51666,18 @@
       "date": "2022-07-04"
     },
     {
-      "id": "20220710_fj2p21c0lpqsng7fg67ui0u17k",
+      "id": "20220709_11cj01tdcligf8v5rhmt2gfu9c",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Rwanda",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220711_10h8p4dn3fho545e27menaa1o0",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Adha",
+      "region": "Rwanda",
+      "date": "2022-07-11"
     },
     {
       "id": "20220805_9etlok0d5f7qc6cuf416tnll7c",
@@ -51817,16 +52195,23 @@
       "date": "2022-05-04"
     },
     {
-      "id": "20220709_62st152o41jghufio0rdpnc0ks",
+      "id": "20220708_tiof7f71lsra4fo6k61hgrrikk",
       "status": "confirmed",
       "summary": "Arafat Day",
+      "region": "Saudi Arabia",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_hgaomk42i6lj7k7qp0e3f4pntc",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Saudi Arabia",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_5v3gsghriqao3bu09m2h1c86qk",
+      "id": "20220710_fu9ib7gdjtc7jgcjibie28otdg",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Saudi Arabia",
       "date": "2022-07-10"
     },
@@ -51838,18 +52223,11 @@
       "date": "2022-07-11"
     },
     {
-      "id": "20220712_s0c37kf90u1nbek9a8f66gd2bg",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
-      "region": "Saudi Arabia",
-      "date": "2022-07-12"
-    },
-    {
-      "id": "20220730_b8jbgtud1jmua9bt1gs8chkht0",
+      "id": "20220729_vg8po5srp2p0btgm5d27ilt4a8",
       "status": "confirmed",
       "summary": "Muharram (Muslim New Year)",
       "region": "Saudi Arabia",
-      "date": "2022-07-30"
+      "date": "2022-07-29"
     },
     {
       "id": "20220922_noa5gtqp7nulntdgoqs5gv9fj4",
@@ -51901,16 +52279,23 @@
       "date": "2023-04-25"
     },
     {
-      "id": "20230628_7v48dd9mv30ltgviae2ee5llf4",
+      "id": "20230627_m0ce92587il98vt9tgq2g5p13o",
       "status": "confirmed",
       "summary": "Arafat Day",
+      "region": "Saudi Arabia",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_pafb8c8rbmj4t1tfce57j33oas",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Saudi Arabia",
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_hh4cakmi2d4kk795ijkpda41p8",
+      "id": "20230629_h8ngfpqugf3hvsgf2rfslushkc",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Saudi Arabia",
       "date": "2023-06-29"
     },
@@ -51922,18 +52307,11 @@
       "date": "2023-06-30"
     },
     {
-      "id": "20230701_259st6fncnlaprco62mm0uk3k4",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
-      "region": "Saudi Arabia",
-      "date": "2023-07-01"
-    },
-    {
-      "id": "20230719_n70bvincnm3fjm6hq5ler7pb4k",
+      "id": "20230718_kq0q6cvtmbs5kp9vfl90aqnj50",
       "status": "confirmed",
       "summary": "Muharram (Muslim New Year)",
       "region": "Saudi Arabia",
-      "date": "2023-07-19"
+      "date": "2023-07-18"
     },
     {
       "id": "20230924_3bs1evnkk8vgb0fhojljbris2g",
@@ -52397,16 +52775,16 @@
       "date": "2022-05-05"
     },
     {
-      "id": "20220709_f1ga77e3jq3hloaar7dt2j99h0",
+      "id": "20220709_gsd145dc5r6e6djmcp5tlnoca4",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
+      "summary": "Eid al-Adha",
       "region": "Sudan",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_mtftmqctjn8mssd685ssjtjmok",
+      "id": "20220710_c4k4u6e2fte3jkbncl3qjdbi7g",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Sudan",
       "date": "2022-07-10"
     },
@@ -52430,6 +52808,13 @@
       "summary": "Eid al-Adha Holiday",
       "region": "Sudan",
       "date": "2022-07-13"
+    },
+    {
+      "id": "20220714_66ck7u83jaakoh0ns3vre3qlqg",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Sudan",
+      "date": "2022-07-14"
     },
     {
       "id": "20220730_catruoj74cp3h7oimdngcubpr8",
@@ -53068,11 +53453,11 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220710_oqai3k6q8of3gt5ug964htb3qk",
+      "id": "20220709_305qimcola99iik7a6d9v7orl0",
       "status": "confirmed",
       "summary": "Tabaski",
       "region": "Sierra Leone",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220711_kfaho7imk3m12en1ia8bhlue9s",
@@ -55294,7 +55679,7 @@
       "date": "2022-12-31"
     },
     {
-      "id": "20230101_cv1bdgsjickavu5msnfd0kjt2k",
+      "id": "20230101_hfs4mgn6ei4n25343trvu8bn9c",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Spain",
@@ -55304,6 +55689,13 @@
       "id": "20230102_b3amku1r8kpchhbd2pqc4dugvg",
       "status": "confirmed",
       "summary": "Reconquest Day (Granada)",
+      "region": "Spain",
+      "date": "2023-01-02"
+    },
+    {
+      "id": "20230102_f7vpreji5m1m9b40ac64b20e2c",
+      "status": "confirmed",
+      "summary": "New Year's Day Holiday (regional holiday)",
       "region": "Spain",
       "date": "2023-01-02"
     },
@@ -55364,16 +55756,16 @@
       "date": "2023-03-06"
     },
     {
-      "id": "20230319_gl72m4gam4kbgemoglv9ks6cc4",
+      "id": "20230319_80pjqh3n5j2nhm7v75jn6muegs",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "San Jose (regional holiday)",
       "region": "Spain",
       "date": "2023-03-19"
     },
     {
-      "id": "20230319_sofvvdjb721mii3q1rfe7aifi4",
+      "id": "20230319_gl72m4gam4kbgemoglv9ks6cc4",
       "status": "confirmed",
-      "summary": "San Jose (regional holiday)",
+      "summary": "Father's Day",
       "region": "Spain",
       "date": "2023-03-19"
     },
@@ -55434,6 +55826,13 @@
       "date": "2023-04-23"
     },
     {
+      "id": "20230423_lvfrkb48sjultbri3cba0m8gh4",
+      "status": "confirmed",
+      "summary": "Day of Aragón (Aragon)",
+      "region": "Spain",
+      "date": "2023-04-23"
+    },
+    {
       "id": "20230423_ufnleqq30k5csrha1evrf1b8o4",
       "status": "confirmed",
       "summary": "Santa Faz (Alicante)",
@@ -55441,9 +55840,9 @@
       "date": "2023-04-23"
     },
     {
-      "id": "20230424_dtqudldb7s66d1d17pkn9vbccc",
+      "id": "20230424_jq10svib51r00m7lgpha355bh8",
       "status": "confirmed",
-      "summary": "Day of Aragón (Aragon)",
+      "summary": "Day off for Day of Aragón (Aragon)",
       "region": "Spain",
       "date": "2023-04-24"
     },
@@ -55700,9 +56099,9 @@
       "date": "2023-10-29"
     },
     {
-      "id": "20231101_rgref14dqjbamn8b4ea4ejl1sg",
+      "id": "20231101_h7fo0utn18olvfgr9g8kr8ut48",
       "status": "confirmed",
-      "summary": "All Saints' Day (regional holiday)",
+      "summary": "All Saints' Day",
       "region": "Spain",
       "date": "2023-11-01"
     },
@@ -55721,9 +56120,9 @@
       "date": "2023-12-03"
     },
     {
-      "id": "20231206_qblhi74kli3as77bri7p0anvqc",
+      "id": "20231206_nfhfbh01mi66lguf91ea3q5plg",
       "status": "confirmed",
-      "summary": "Constitution Day (regional holiday)",
+      "summary": "Constitution Day",
       "region": "Spain",
       "date": "2023-12-06"
     },
@@ -55849,11 +56248,11 @@
       "date": "2022-07-01"
     },
     {
-      "id": "20220710_4h6um36ofea0gch959alq4tmkg",
+      "id": "20220709_186hi6qm0n7hsiqbsrk28qrrcs",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Suriname",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220809_5sfqo78r7v2bk1qopag3gq2hg0",
@@ -56110,11 +56509,18 @@
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_1c90tq6afkp1fj6n0gmbtq4nlg",
+      "id": "20220709_dvmlq8obv3v0shcegmtuspaoq8",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "South Sudan",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220711_8ctkhviebh7lfohledoavd68mc",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "South Sudan",
+      "date": "2022-07-11"
     },
     {
       "id": "20220730_0atvn1qkbhfmhieibos0i2j8to",
@@ -57394,11 +57800,46 @@
       "date": "2022-05-06"
     },
     {
-      "id": "20220710_4ue3b5a4gh1db45ttsbitid89o",
+      "id": "20220709_94t3qc5kqh3kv96u4s8q0orjj8",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Syria",
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220710_3u6nasnajfmfglouincpbu4oks",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Syria",
       "date": "2022-07-10"
+    },
+    {
+      "id": "20220711_0vju1n2p9n78qko725sjtk9on8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Syria",
+      "date": "2022-07-11"
+    },
+    {
+      "id": "20220712_7q54h20cpjuif5c1q6bukn0t9k",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Syria",
+      "date": "2022-07-12"
+    },
+    {
+      "id": "20220713_jicooitj3n6nof918qe1gmhvhs",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Syria",
+      "date": "2022-07-13"
+    },
+    {
+      "id": "20220714_jif6og11jmu562k09gs6c7h7d0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Syria",
+      "date": "2022-07-14"
     },
     {
       "id": "20220730_udjn69j998as8s8bq5dkc3ncb4",
@@ -57513,11 +57954,11 @@
       "date": "2023-05-06"
     },
     {
-      "id": "20230629_8a850igkv379riir9vj4e5np6g",
+      "id": "20230628_mudgo298gmerfinianl7oie5ho",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Syria",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230719_7mc64k1mv97foq8ln2nae0f9is",
@@ -57979,6 +58420,20 @@
       "date": "2023-01-02"
     },
     {
+      "id": "20230107_afg2gj3gctevgfib14bfkv356s",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Taiwan",
+      "date": "2023-01-07"
+    },
+    {
+      "id": "20230120_jfdme9stmgfl7abbp9qa2ihhd8",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2023-01-20"
+    },
+    {
       "id": "20230121_1ct6nkaerpsdvg4u9pakt1j24g",
       "status": "confirmed",
       "summary": "Lunar New Year's Eve",
@@ -58021,6 +58476,34 @@
       "date": "2023-01-26"
     },
     {
+      "id": "20230127_02f5qgol9db5cp2g5jdds4ip34",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2023-01-27"
+    },
+    {
+      "id": "20230128_i53msdpjf884eik89looepvcfo",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2023-01-28"
+    },
+    {
+      "id": "20230129_vulv6ic9s0668fr6hjd33o4nlo",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2023-01-29"
+    },
+    {
+      "id": "20230204_b983qch45chf3bsbk4u93fn9kk",
+      "status": "confirmed",
+      "summary": "Make up Day for Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2023-02-04"
+    },
+    {
       "id": "20230204_laotg5h42nss93lheqahtjpp48",
       "status": "confirmed",
       "summary": "Farmer's Day",
@@ -58033,6 +58516,34 @@
       "summary": "Lantern Festival",
       "region": "Taiwan",
       "date": "2023-02-05"
+    },
+    {
+      "id": "20230218_m34lndmeo769n5gv65ju865aho",
+      "status": "confirmed",
+      "summary": "Make up Day for Peace Memorial Holiday",
+      "region": "Taiwan",
+      "date": "2023-02-18"
+    },
+    {
+      "id": "20230225_ulkb5dtd947uph3onhcajlui0c",
+      "status": "confirmed",
+      "summary": "Peace Memorial Day Holiday",
+      "region": "Taiwan",
+      "date": "2023-02-25"
+    },
+    {
+      "id": "20230226_nnbr5ok3bdl9crpqjdv8e414f8",
+      "status": "confirmed",
+      "summary": "Peace Memorial Day Holiday",
+      "region": "Taiwan",
+      "date": "2023-02-26"
+    },
+    {
+      "id": "20230227_j9ibh52nke8gi980hki23qajcs",
+      "status": "confirmed",
+      "summary": "Peace Memorial Day Holiday",
+      "region": "Taiwan",
+      "date": "2023-02-27"
     },
     {
       "id": "20230228_3lqd13c4vfrgh5s28m631f3418",
@@ -58049,11 +58560,39 @@
       "date": "2023-03-08"
     },
     {
+      "id": "20230325_bphuash8it7pqnbtj8cvq5mna4",
+      "status": "confirmed",
+      "summary": "Make up Day for Children's Day Holiday",
+      "region": "Taiwan",
+      "date": "2023-03-25"
+    },
+    {
       "id": "20230329_vhh3pdqhorc9g3fdccd8tcocqg",
       "status": "confirmed",
       "summary": "Youth Day",
       "region": "Taiwan",
       "date": "2023-03-29"
+    },
+    {
+      "id": "20230401_ffo0uu4kb61oivti007ur7rcb8",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Taiwan",
+      "date": "2023-04-01"
+    },
+    {
+      "id": "20230402_6ijmng1750q1147ajc6k28iegg",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Taiwan",
+      "date": "2023-04-02"
+    },
+    {
+      "id": "20230403_p10mhd3607d37n3qn2p7scij7c",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Taiwan",
+      "date": "2023-04-03"
     },
     {
       "id": "20230404_9b8273u9lflofgbe3agqk7bjgg",
@@ -58077,11 +58616,39 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230617_joup10v128e6g3okbq4dcrsahg",
+      "status": "confirmed",
+      "summary": "Make up Day for Dragon Boat Festival Holiday",
+      "region": "Taiwan",
+      "date": "2023-06-17"
+    },
+    {
       "id": "20230622_a92ja1njno7d4nkkmrt9ik7g8k",
       "status": "confirmed",
       "summary": "Dragon Boat Festival",
       "region": "Taiwan",
       "date": "2023-06-22"
+    },
+    {
+      "id": "20230623_66rvasa43j3hrq71q0i46gkbpg",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival Holiday",
+      "region": "Taiwan",
+      "date": "2023-06-23"
+    },
+    {
+      "id": "20230624_c2jiaqrdobmk6uh9qbdjd7qqck",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival Holiday",
+      "region": "Taiwan",
+      "date": "2023-06-24"
+    },
+    {
+      "id": "20230625_2use6evjm9690b49um0vbdipd4",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival Holiday",
+      "region": "Taiwan",
+      "date": "2023-06-25"
     },
     {
       "id": "20230830_kg12o8kae1hi5r1iee8opeba2c",
@@ -58098,6 +58665,13 @@
       "date": "2023-09-03"
     },
     {
+      "id": "20230923_62456vq5bklc43u35vo976cpvg",
+      "status": "confirmed",
+      "summary": "Make up Day for National Day Holiday",
+      "region": "Taiwan",
+      "date": "2023-09-23"
+    },
+    {
       "id": "20230928_26v554vg9pnl4u5sro3jeh4thk",
       "status": "confirmed",
       "summary": "Teachers' Day",
@@ -58110,6 +58684,41 @@
       "summary": "Mid-Autumn Festival",
       "region": "Taiwan",
       "date": "2023-09-29"
+    },
+    {
+      "id": "20230930_53p3c03cfig0qbqoffadslamn0",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival Holiday",
+      "region": "Taiwan",
+      "date": "2023-09-30"
+    },
+    {
+      "id": "20231001_t2g3vqdk2c0fsa5s6dth0r8rtk",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival Holiday",
+      "region": "Taiwan",
+      "date": "2023-10-01"
+    },
+    {
+      "id": "20231007_18qlp3jl41nmlfvoegjnbtscdo",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "Taiwan",
+      "date": "2023-10-07"
+    },
+    {
+      "id": "20231008_8gql3k3qskap7bg15tpb2n84n0",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "Taiwan",
+      "date": "2023-10-08"
+    },
+    {
+      "id": "20231009_l2i6m7hpaajntoqu78s0cc9tdk",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "Taiwan",
+      "date": "2023-10-09"
     },
     {
       "id": "20231010_na2602r573spod3dpbg3k3ap78",
@@ -58424,11 +59033,11 @@
       "date": "2022-06-19"
     },
     {
-      "id": "20220710_a1cqmkjus2uuk0krn0pujhdslg",
+      "id": "20220709_vctoavsu2j8loduld2798kvs14",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Chad",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220811_lclrell96sfmgquhk6ac4v4q7s",
@@ -58643,11 +59252,11 @@
       "date": "2022-06-21"
     },
     {
-      "id": "20220710_vh3orvpo3uj6dr37fp76kn3btk",
+      "id": "20220709_6joeqc8ag6kav1v0g567fre8sg",
       "status": "confirmed",
       "summary": "Tabaski",
       "region": "Togo",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220815_3f8mrak9g0gbskbt362p50ru7c",
@@ -59326,11 +59935,18 @@
       "date": "2022-06-27"
     },
     {
-      "id": "20220710_d0j892ovmeaii6bi206sc2t8gc",
+      "id": "20220709_fv8ej2c8so0b6lsnc58g3908s8",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Tajikistan",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220711_pnt6giviauvc9pcsf0i47jqrsk",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Adha",
+      "region": "Tajikistan",
+      "date": "2022-07-11"
     },
     {
       "id": "20220909_0vml71cr7o8oq8gm1hb07d2fek",
@@ -59482,11 +60098,39 @@
       "date": "2022-03-18"
     },
     {
+      "id": "20220414_6306udpu6ll2aoc640ej7k2d70",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday (Half Day)",
+      "region": "Timor-Leste",
+      "date": "2022-04-14"
+    },
+    {
       "id": "20220415_f4pkqikgj9i4rj8u5vd326bhlg",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Timor-Leste",
       "date": "2022-04-15"
+    },
+    {
+      "id": "20220418_9gljtknrab200qq2lhhfg7i1oo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Timor-Leste",
+      "date": "2022-04-18"
+    },
+    {
+      "id": "20220419_aq4939rsrrb22tf10k436hoflo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Timor-Leste",
+      "date": "2022-04-19"
+    },
+    {
+      "id": "20220420_3sr1ho0clvi0969fqtkh6e1r8s",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday (Half Day)",
+      "region": "Timor-Leste",
+      "date": "2022-04-20"
     },
     {
       "id": "20220501_u5gptltft4vofa79dhd9370j6o",
@@ -61088,6 +61732,20 @@
       "date": "2022-07-12"
     },
     {
+      "id": "20220713_3movfm4f25okqtql8eje1r29o0",
+      "status": "confirmed",
+      "summary": "Eid al Adha Public Sector Holiday",
+      "region": "Turkey",
+      "date": "2022-07-13"
+    },
+    {
+      "id": "20220714_itru99v37q9hf59ska5elodrb4",
+      "status": "confirmed",
+      "summary": "Eid al Adha Public Sector Holiday",
+      "region": "Turkey",
+      "date": "2022-07-14"
+    },
+    {
       "id": "20220715_fsmh45h5g7tevlrfaoaee1ftk4",
       "status": "confirmed",
       "summary": "Democracy and National Unity Day",
@@ -61864,11 +62522,11 @@
       "date": "2022-06-21"
     },
     {
-      "id": "20220710_27fmnec7s3ept34mv0plprdvh8",
+      "id": "20220709_4udr3pgk2s2osoc4d5bvcbh4co",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Uganda",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20221009_goote4av6uul0o1nqa5rcd8h2c",
@@ -63526,6 +64184,13 @@
       "date": "2022-01-01"
     },
     {
+      "id": "20220103_co7mnp4t6gfink3382s0kn7v3s",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-01-03"
+    },
+    {
       "id": "20220114_ckqhnc2b1ql3qqbeposldu3kf0",
       "status": "confirmed",
       "summary": "Defenders of the Motherland Day",
@@ -63568,6 +64233,20 @@
       "date": "2022-05-02"
     },
     {
+      "id": "20220503_i1lobc72olmeavgh4hgsraphck",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-05-03"
+    },
+    {
+      "id": "20220504_3rfn4tc0ihqp4qcjjj6r4iu8kg",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-05-04"
+    },
+    {
       "id": "20220509_ibmca2p5c3b520lb0t870e2308",
       "status": "confirmed",
       "summary": "Remembrance Day",
@@ -63575,11 +64254,25 @@
       "date": "2022-05-09"
     },
     {
-      "id": "20220710_7s2p1ntsmsnoa9mb5d80ao1ung",
+      "id": "20220709_aqqq46cnlrihncr00s2cnuekj8",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Uzbekistan",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
+    },
+    {
+      "id": "20220711_v67md0q4m0f4id0hd21ba23ehc",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-07-11"
+    },
+    {
+      "id": "20220712_3hshrglsdon36rgt9qgheefh08",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-07-12"
     },
     {
       "id": "20220901_9befq7j192optn6431tk4ghrk0",
@@ -63587,6 +64280,20 @@
       "summary": "Independence Day",
       "region": "Uzbekistan",
       "date": "2022-09-01"
+    },
+    {
+      "id": "20220902_l462651ivqrhtj7gh69133eo1o",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-09-02"
+    },
+    {
+      "id": "20220903_je050g2v65rbje216k2gvbd3tk",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Uzbekistan",
+      "date": "2022-09-03"
     },
     {
       "id": "20221001_um7ln41al0s7afdrmhr14cp4ho",
@@ -65379,6 +66086,13 @@
       "date": "2022-05-03"
     },
     {
+      "id": "20220516_slkjg4kknidbobis6l6p341dic",
+      "status": "confirmed",
+      "summary": "Vesak",
+      "region": "Vietnam",
+      "date": "2022-05-16"
+    },
+    {
       "id": "20220901_8rt3js0r5pqgmbn628dtajign4",
       "status": "confirmed",
       "summary": "Independence Day Holiday",
@@ -65510,6 +66224,13 @@
       "summary": "Day off for International Labor Day",
       "region": "Vietnam",
       "date": "2023-05-02"
+    },
+    {
+      "id": "20230505_punhj5io59rhl3p8tkg66mb7kk",
+      "status": "confirmed",
+      "summary": "Vesak",
+      "region": "Vietnam",
+      "date": "2023-05-05"
     },
     {
       "id": "20230902_gnhgtcnc01i6cpgtrs7mb7gr4s",
@@ -66283,11 +67004,11 @@
       "date": "2022-06-12"
     },
     {
-      "id": "20220710_opcu7i5i746kfcl9185dqbdci4",
+      "id": "20220709_b4jdjpust600pvb9ecioa6d8cs",
       "status": "confirmed",
       "summary": "Kurban Bayrami",
       "region": "Kosovo",
-      "date": "2022-07-10"
+      "date": "2022-07-09"
     },
     {
       "id": "20220928_8jol5si1usdc7temmlkm5uml40",
@@ -66586,16 +67307,23 @@
       "date": "2022-07-07"
     },
     {
-      "id": "20220709_ccemjhnq5lmb6bstddo2la53gs",
+      "id": "20220708_3c8t4gjhn2dmuhverf5akke9j0",
       "status": "confirmed",
       "summary": "Eid al-Adha Eve",
+      "region": "Yemen",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "20220709_062c6g0k7js8g4fcgmbv562gg8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Yemen",
       "date": "2022-07-09"
     },
     {
-      "id": "20220710_7nea8fbfn7kaokm2etgfc7731s",
+      "id": "20220710_mosmh417mbko76tv8j6hq79tq0",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha holiday",
       "region": "Yemen",
       "date": "2022-07-10"
     },
@@ -66619,6 +67347,27 @@
       "summary": "Eid al-Adha holiday",
       "region": "Yemen",
       "date": "2022-07-13"
+    },
+    {
+      "id": "20220714_d3pcnprdqgf540p8509udncbak",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Yemen",
+      "date": "2022-07-14"
+    },
+    {
+      "id": "20220715_av8ifnmkou6c967cbn5i3ip3t0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Yemen",
+      "date": "2022-07-15"
+    },
+    {
+      "id": "20220716_7fsm3fe7m6j10urlqsa22b23a8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Yemen",
+      "date": "2022-07-16"
     },
     {
       "id": "20220730_2u85qc7fmnp0ubs6npcu9usacs",
