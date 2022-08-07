@@ -2227,6 +2227,13 @@
       "date": "2022-02-04"
     },
     {
+      "id": "20220228_i3irksi5tp31c6sajojvpr9rgg",
+      "status": "confirmed",
+      "summary": "Carnival Holiday",
+      "region": "Angola",
+      "date": "2022-02-28"
+    },
+    {
       "id": "20220301_lq4lnc33vta5hi82mm6ms3g93c",
       "status": "confirmed",
       "summary": "Carnival",
@@ -2316,6 +2323,13 @@
       "summary": "Liberation Movement Day",
       "region": "Angola",
       "date": "2023-02-04"
+    },
+    {
+      "id": "20230220_h0838hb2l193oer0lnoc64rrl8",
+      "status": "confirmed",
+      "summary": "Carnival Holiday",
+      "region": "Angola",
+      "date": "2023-02-20"
     },
     {
       "id": "20230221_06d3c7e8vjnnikbaq9o4nkrba0",
@@ -6626,6 +6640,13 @@
       "date": "2022-07-30"
     },
     {
+      "id": "20220731_sg73kompm9s6babndee6mbs8bo",
+      "status": "confirmed",
+      "summary": "Muharram Holiday",
+      "region": "Bahrain",
+      "date": "2022-07-31"
+    },
+    {
       "id": "20220807_uk8j2uh7v6k4qj5r1gbufa9200",
       "status": "confirmed",
       "summary": "Ashoora",
@@ -9376,9 +9397,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220103_r6qahsd5vq70vj9soehtsfu90s",
+      "id": "20220103_5bh5f3uacj6td33muvalgi1ick",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Bulgaria",
       "date": "2022-01-03"
     },
@@ -9453,9 +9474,9 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_8ouucuoli4go12ribq6b9p5818",
+      "id": "20220502_bda4tiifq4a3enotjn7llte1bc",
       "status": "confirmed",
-      "summary": "Labor Day observed",
+      "summary": "Day off for Labor Day",
       "region": "Bulgaria",
       "date": "2022-05-02"
     },
@@ -9558,9 +9579,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_s6alj4qi0g7ti4h02459smio40",
+      "id": "20230102_ovge8jvjtofhdtqt51qg3sv674",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Bulgaria",
       "date": "2023-01-02"
     },
@@ -9642,9 +9663,9 @@
       "date": "2023-05-06"
     },
     {
-      "id": "20230508_0bcjlgt07jje48vk530isqkrf8",
+      "id": "20230508_148shov4149tgblj73c2afcrbo",
       "status": "confirmed",
-      "summary": "St. George's Day observed",
+      "summary": "Day off for St. George's Day",
       "region": "Bulgaria",
       "date": "2023-05-08"
     },
@@ -10150,6 +10171,13 @@
       "date": "2022-09-17"
     },
     {
+      "id": "20221021_taj4h4h5cf2pk77f8ftg2i307g",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Belarus",
+      "date": "2022-10-21"
+    },
+    {
       "id": "20221102_2hle9is0hh0jcj51nb2n0f9ujk",
       "status": "confirmed",
       "summary": "Remembrance Day",
@@ -10309,6 +10337,13 @@
       "summary": "National Unity Day",
       "region": "Belarus",
       "date": "2023-09-17"
+    },
+    {
+      "id": "20231021_6brnda8is5m5qqshpua7lpu80g",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Belarus",
+      "date": "2023-10-21"
     },
     {
       "id": "20231102_ea0jcepo8k6a1nqp6pertt4o04",
@@ -13269,6 +13304,13 @@
       "date": "2022-04-15"
     },
     {
+      "id": "20220417_afth7qcl4q0fndidcr1r2ba1kg",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Cook Islands",
+      "date": "2022-04-17"
+    },
+    {
       "id": "20220418_3p6j86sqm2l363uiuh4p0t8u5g",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -13372,6 +13414,13 @@
       "summary": "Good Friday",
       "region": "Cook Islands",
       "date": "2023-04-07"
+    },
+    {
+      "id": "20230409_kcl09b5nsr5hmqmdcim2lflv5o",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Cook Islands",
+      "date": "2023-04-09"
     },
     {
       "id": "20230410_vqvf65eo1t6v4mda23kuafhtc0",
@@ -25336,6 +25385,13 @@
       "date": "2023-02-23"
     },
     {
+      "id": "20230307_gier4d28vflnlu1ctar8skvfjg",
+      "status": "confirmed",
+      "summary": "Phagwah (Holi)",
+      "region": "Guyana",
+      "date": "2023-03-07"
+    },
+    {
       "id": "20230407_9q86i2905drj0v018sb1f37jpk",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -26152,6 +26208,13 @@
       "summary": "Mother's Day",
       "region": "Haiti",
       "date": "2022-05-29"
+    },
+    {
+      "id": "20220616_rgqkmj7brqltehkjl7m55a5ai4",
+      "status": "confirmed",
+      "summary": "Corpus Christi",
+      "region": "Haiti",
+      "date": "2022-06-16"
     },
     {
       "id": "20220626_76997923mqnmsns07rvt03f6ck",
@@ -27723,11 +27786,11 @@
       "date": "2022-07-10"
     },
     {
-      "id": "20220731_a1fc6jucdailtj3ii4jgdmqdno",
+      "id": "20220730_t6ge5oi4ogdd2ef9kh1o3ghrfs",
       "status": "confirmed",
       "summary": "Muharram / Islamic New Year",
       "region": "Indonesia",
-      "date": "2022-07-31"
+      "date": "2022-07-30"
     },
     {
       "id": "20220817_eog37qgqq51u0hjvuvu0vptaq0",
@@ -27800,6 +27863,41 @@
       "date": "2022-12-31"
     },
     {
+      "id": "20230101_ar543f6od0iha19pobka29tq4s",
+      "status": "confirmed",
+      "summary": "New Year's Day",
+      "region": "Indonesia",
+      "date": "2023-01-01"
+    },
+    {
+      "id": "20230123_se1nh53pl0bqpkmtkbkamnb8cg",
+      "status": "confirmed",
+      "summary": "Lunar New Year's Day",
+      "region": "Indonesia",
+      "date": "2023-01-23"
+    },
+    {
+      "id": "20230219_a57lp32ckqoqou31vir2i83g4k",
+      "status": "confirmed",
+      "summary": "Ascension of the Prophet Muhammad",
+      "region": "Indonesia",
+      "date": "2023-02-19"
+    },
+    {
+      "id": "20230407_26f1vgjvkor2odo23l39fh1tmg",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "Indonesia",
+      "date": "2023-04-07"
+    },
+    {
+      "id": "20230409_c84si93l7td49i01pnpqchq34k",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Indonesia",
+      "date": "2023-04-09"
+    },
+    {
       "id": "20230421_32h3d1dd0ke0inq3fsri30u4ho",
       "status": "confirmed",
       "summary": "Kartini Day",
@@ -27807,11 +27905,81 @@
       "date": "2023-04-21"
     },
     {
+      "id": "20230422_e04qos5airc2728vnfg7q29nk8",
+      "status": "confirmed",
+      "summary": "Idul Fitri",
+      "region": "Indonesia",
+      "date": "2023-04-22"
+    },
+    {
+      "id": "20230423_409ksl12ao6t9utef0mueu6mng",
+      "status": "confirmed",
+      "summary": "Idul Fitri Holiday",
+      "region": "Indonesia",
+      "date": "2023-04-23"
+    },
+    {
+      "id": "20230501_ajkjmobcg10ab6otbi5pcv0l90",
+      "status": "confirmed",
+      "summary": "International Labor Day",
+      "region": "Indonesia",
+      "date": "2023-05-01"
+    },
+    {
+      "id": "20230518_ojd64jou2jcsduidtgcfhkdgc0",
+      "status": "confirmed",
+      "summary": "Ascension Day of Jesus Christ",
+      "region": "Indonesia",
+      "date": "2023-05-18"
+    },
+    {
+      "id": "20230601_3egtb93l085vs89i4gvhvg0qi8",
+      "status": "confirmed",
+      "summary": "Pancasila Day",
+      "region": "Indonesia",
+      "date": "2023-06-01"
+    },
+    {
+      "id": "20230629_fni44up1c05bjurnk3p62jvbas",
+      "status": "confirmed",
+      "summary": "Idul Adha",
+      "region": "Indonesia",
+      "date": "2023-06-29"
+    },
+    {
+      "id": "20230720_157svu4cddadqijgl193eo134s",
+      "status": "confirmed",
+      "summary": "Muharram / Islamic New Year",
+      "region": "Indonesia",
+      "date": "2023-07-20"
+    },
+    {
+      "id": "20230817_a535sjhtg2fkg8g6o8ekrkfpjc",
+      "status": "confirmed",
+      "summary": "Indonesian Independence Day",
+      "region": "Indonesia",
+      "date": "2023-08-17"
+    },
+    {
+      "id": "20230928_44kf6h716sr69r9femgp7b6glc",
+      "status": "confirmed",
+      "summary": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
+      "region": "Indonesia",
+      "date": "2023-09-28"
+    },
+    {
       "id": "20231002_e9v4io7bond5b1t61pnc9h8o8k",
       "status": "confirmed",
       "summary": "Batik Day",
       "region": "Indonesia",
       "date": "2023-10-02"
+    },
+    {
+      "id": "20231112_g71da2644dhqcfjvkngg7l7rag",
+      "status": "confirmed",
+      "summary": "Diwali / Deepavali",
+      "region": "Indonesia",
+      "date": "2023-11-12"
     },
     {
       "id": "20231112_vucaapqkol8tulfp2smpcuonao",
@@ -27833,6 +28001,27 @@
       "summary": "Mother's Day",
       "region": "Indonesia",
       "date": "2023-12-22"
+    },
+    {
+      "id": "20231224_kt4gnak8ordqdd8ceacu0q85vs",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "Indonesia",
+      "date": "2023-12-24"
+    },
+    {
+      "id": "20231225_jglo22398tfugin7ktqq27ec3g",
+      "status": "confirmed",
+      "summary": "Christmas Day",
+      "region": "Indonesia",
+      "date": "2023-12-25"
+    },
+    {
+      "id": "20231231_hpe5sree5dm2icao0af6ploum4",
+      "status": "confirmed",
+      "summary": "New Year's Eve",
+      "region": "Indonesia",
+      "date": "2023-12-31"
     }
   ],
   "Iraq": [
@@ -27942,11 +28131,11 @@
       "date": "2022-07-14"
     },
     {
-      "id": "20220729_c8f41o1uqinb34d28vg79hbb9s",
+      "id": "20220730_f6cuo9a8nnffamm8pbj63j0gmc",
       "status": "confirmed",
       "summary": "Islamic New Year",
       "region": "Iraq",
-      "date": "2022-07-29"
+      "date": "2022-07-30"
     },
     {
       "id": "20220807_abst35v41rlj5u1n6nuolg2eh0",
@@ -30718,11 +30907,11 @@
       "date": "2022-07-12"
     },
     {
-      "id": "20220729_ksr0esc51eg72dj3423ba9pluo",
+      "id": "20220730_tae8bf31ttkr01310m2usfv91o",
       "status": "confirmed",
       "summary": "Muharram/New Year",
       "region": "Jordan",
-      "date": "2022-07-29"
+      "date": "2022-07-30"
     },
     {
       "id": "20221008_asd41njl9n20q09f13u8lumut0",
@@ -31012,6 +31201,13 @@
       "summary": "Day off for Eid al-Adha",
       "region": "Kenya",
       "date": "2022-07-11"
+    },
+    {
+      "id": "20220809_u0ncj0chp30fijceaghidp7igk",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Kenya",
+      "date": "2022-08-09"
     },
     {
       "id": "20221010_n4k9fgp1aeno22ompturs024s4",
@@ -32783,6 +32979,13 @@
       "summary": "Islamic New Year",
       "region": "Kuwait",
       "date": "2022-07-30"
+    },
+    {
+      "id": "20220731_dkjq6fdmpg650f0toprch1c6os",
+      "status": "confirmed",
+      "summary": "Islamic New Year Holiday",
+      "region": "Kuwait",
+      "date": "2022-07-31"
     },
     {
       "id": "20221008_qp5chgc2bk704c6j04fle3girg",
@@ -42015,16 +42218,16 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220502_vf6e2m5q2vg9945rqviikf7d6c",
+      "id": "20220502_sm7kfj93oann783v280fao247o",
       "status": "confirmed",
-      "summary": "Eid ul Fitr",
+      "summary": "Eid ul-Fitr",
       "region": "Mauritania",
       "date": "2022-05-02"
     },
     {
-      "id": "20220503_j26s3b0daqk7fj0jegujuoqb7s",
+      "id": "20220503_h2a62eikhf5061fogbbjklidb4",
       "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday",
+      "summary": "Eid ul-Fitr Holiday",
       "region": "Mauritania",
       "date": "2022-05-03"
     },
@@ -42043,11 +42246,11 @@
       "date": "2022-07-10"
     },
     {
-      "id": "20220730_qg65bqiigtdi4gb4vrvgqn1l2s",
+      "id": "20220731_hvkuq5gvm4h1nbv46t1te62ig0",
       "status": "confirmed",
       "summary": "Muharram/Islamic New Year",
       "region": "Mauritania",
-      "date": "2022-07-30"
+      "date": "2022-07-31"
     },
     {
       "id": "20221008_1siqsljfm8aog0loo1q1vg929k",
@@ -42071,9 +42274,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230422_u8hgm9unvk8d8ebp2pjpnca3g4",
+      "id": "20230422_p9dvhcb571fem8f65vvbt8gdm0",
       "status": "confirmed",
-      "summary": "Eid ul Fitr",
+      "summary": "Eid ul-Fitr",
       "region": "Mauritania",
       "date": "2023-04-22"
     },
@@ -46539,6 +46742,13 @@
       "summary": "Muharram",
       "region": "Oman",
       "date": "2022-07-30"
+    },
+    {
+      "id": "20220731_dpinpinp6livvpeb3d4qr91t84",
+      "status": "confirmed",
+      "summary": "Muharram Holiday",
+      "region": "Oman",
+      "date": "2022-07-31"
     },
     {
       "id": "20221008_cic843adu7jjd6fn90e92tb2q4",
@@ -52223,11 +52433,11 @@
       "date": "2022-07-11"
     },
     {
-      "id": "20220729_vg8po5srp2p0btgm5d27ilt4a8",
+      "id": "20220730_b8jbgtud1jmua9bt1gs8chkht0",
       "status": "confirmed",
       "summary": "Muharram (Muslim New Year)",
       "region": "Saudi Arabia",
-      "date": "2022-07-29"
+      "date": "2022-07-30"
     },
     {
       "id": "20220922_noa5gtqp7nulntdgoqs5gv9fj4",
@@ -52358,18 +52568,18 @@
       "date": "2022-04-18"
     },
     {
+      "id": "20220603_g0upnrn2omvomrd3olbbfkdq9k",
+      "status": "confirmed",
+      "summary": "Day off for Queen's Official Birthday",
+      "region": "Solomon Islands",
+      "date": "2022-06-03"
+    },
+    {
       "id": "20220606_07ms2vpatlj3sp5lm0ipv1cnkg",
       "status": "confirmed",
       "summary": "Whit Monday",
       "region": "Solomon Islands",
       "date": "2022-06-06"
-    },
-    {
-      "id": "20220610_p9unolacg6ogqj8gh0kuia439k",
-      "status": "confirmed",
-      "summary": "Day off for Queen's Official Birthday",
-      "region": "Solomon Islands",
-      "date": "2022-06-10"
     },
     {
       "id": "20220611_1blo4mf12q2rjqsfi45qdi5id8",
@@ -55012,9 +55222,16 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230122_bmigudp6vfqo450p6a47irc23g",
+      "id": "20230121_nc3retmfk7rfdkb5cpak9bhueo",
       "status": "confirmed",
       "summary": "Seollal Holiday",
+      "region": "South Korea",
+      "date": "2023-01-21"
+    },
+    {
+      "id": "20230122_1jvbk0hnt7e6s5dfgu9acbtvo4",
+      "status": "confirmed",
+      "summary": "Seollal",
       "region": "South Korea",
       "date": "2023-01-22"
     },
@@ -55026,11 +55243,11 @@
       "date": "2023-01-23"
     },
     {
-      "id": "20230123_7mpibav8u4sn5s65dmr0r6vuek",
+      "id": "20230124_7d1ntm16apbkqdpfgad7gmk0ho",
       "status": "confirmed",
-      "summary": "Seollal",
+      "summary": "Seollal Holiday",
       "region": "South Korea",
-      "date": "2023-01-23"
+      "date": "2023-01-24"
     },
     {
       "id": "20230301_c0rsg79u860fd666scmdrrt1l4",
@@ -55427,7 +55644,7 @@
       "date": "2022-06-16"
     },
     {
-      "id": "20220624_7rlh7peipps3vnrupijf0su9eo",
+      "id": "20220624_kda9mobsbafm9gp1tefhm77guc",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -55651,7 +55868,7 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_aipc9063dlrtlmvk5h49fkafhk",
+      "id": "20221226_1oba8nfg3tauovhq7m2nbseobg",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
@@ -55686,16 +55903,16 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_b3amku1r8kpchhbd2pqc4dugvg",
+      "id": "20230102_44decghh4ks1fir11m8p8mtbp0",
       "status": "confirmed",
-      "summary": "Reconquest Day (Granada)",
+      "summary": "New Year's Day Holiday (regional holiday)",
       "region": "Spain",
       "date": "2023-01-02"
     },
     {
-      "id": "20230102_f7vpreji5m1m9b40ac64b20e2c",
+      "id": "20230102_b3amku1r8kpchhbd2pqc4dugvg",
       "status": "confirmed",
-      "summary": "New Year's Day Holiday (regional holiday)",
+      "summary": "Reconquest Day (Granada)",
       "region": "Spain",
       "date": "2023-01-02"
     },
@@ -55728,6 +55945,13 @@
       "date": "2023-02-14"
     },
     {
+      "id": "20230221_28em85ujb2lrebe3091d1hkpq8",
+      "status": "confirmed",
+      "summary": "Carnival Tuesday (Extremadura)",
+      "region": "Spain",
+      "date": "2023-02-21"
+    },
+    {
       "id": "20230222_frtuvqip2binf7kke6vebjl524",
       "status": "confirmed",
       "summary": "Ash Wednesday",
@@ -55756,16 +55980,16 @@
       "date": "2023-03-06"
     },
     {
-      "id": "20230319_80pjqh3n5j2nhm7v75jn6muegs",
+      "id": "20230319_gl72m4gam4kbgemoglv9ks6cc4",
       "status": "confirmed",
-      "summary": "San Jose (regional holiday)",
+      "summary": "Father's Day",
       "region": "Spain",
       "date": "2023-03-19"
     },
     {
-      "id": "20230319_gl72m4gam4kbgemoglv9ks6cc4",
+      "id": "20230319_j3quqf8ioeb4ht1lt4dnl33vco",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "San Jose (Valencia)",
       "region": "Spain",
       "date": "2023-03-19"
     },
@@ -55843,6 +56067,13 @@
       "id": "20230424_jq10svib51r00m7lgpha355bh8",
       "status": "confirmed",
       "summary": "Day off for Day of Aragón (Aragon)",
+      "region": "Spain",
+      "date": "2023-04-24"
+    },
+    {
+      "id": "20230424_m99t2avcmo7k3atiuq4kj6d6no",
+      "status": "confirmed",
+      "summary": "Day off for Castile and León Day (Castile-Leon)",
       "region": "Spain",
       "date": "2023-04-24"
     },
@@ -55938,7 +56169,7 @@
       "date": "2023-06-13"
     },
     {
-      "id": "20230624_je88sdi86aqo6455dr1act6fs8",
+      "id": "20230624_9hqta2eqqs9e1jqv50dhte7cnk",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -55966,7 +56197,7 @@
       "date": "2023-07-13"
     },
     {
-      "id": "20230725_socnp11mhns9c8p9ds1e5jee0g",
+      "id": "20230725_j5hp0h5v67i01vfg4fetdt7l48",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -56118,6 +56349,13 @@
       "summary": "Day of Navarre (Navarre)",
       "region": "Spain",
       "date": "2023-12-03"
+    },
+    {
+      "id": "20231204_kno9pnu06s4qovj1uf1qbp8pps",
+      "status": "confirmed",
+      "summary": "Day off for Day of Navarre (Navarre)",
+      "region": "Spain",
+      "date": "2023-12-04"
     },
     {
       "id": "20231206_nfhfbh01mi66lguf91ea3q5plg",
@@ -60520,18 +60758,18 @@
       "date": "2022-07-05"
     },
     {
+      "id": "20220709_63r5jf5p97kd28nhkt182c7eu8",
+      "status": "confirmed",
+      "summary": "Kurban Bayramy",
+      "region": "Turkmenistan",
+      "date": "2022-07-09"
+    },
+    {
       "id": "20220709_f03dspui4h7lndv9ul0thr1ul4",
       "status": "confirmed",
       "summary": "Kurban Bayramy Holiday",
       "region": "Turkmenistan",
       "date": "2022-07-09"
-    },
-    {
-      "id": "20220710_mnc0e7r3p5f9lov01ej7l58a5o",
-      "status": "confirmed",
-      "summary": "Kurban Bayramy",
-      "region": "Turkmenistan",
-      "date": "2022-07-10"
     },
     {
       "id": "20220711_9mtl31rima6u7q1qvttsfojits",
