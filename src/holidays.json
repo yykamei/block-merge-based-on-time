@@ -677,6 +677,13 @@
       "date": "2022-08-08"
     },
     {
+      "id": "20220815_h1ntsdo2pds9nph2mvsf72m84o",
+      "status": "confirmed",
+      "summary": "First Anniversary of Taliban Rule",
+      "region": "Afghanistan",
+      "date": "2022-08-15"
+    },
+    {
       "id": "20220819_2ndqgv6m6f7eh2uugi9k0i3nfo",
       "status": "confirmed",
       "summary": "Independence Day (National Day)",
@@ -32473,6 +32480,13 @@
       "date": "2022-08-02"
     },
     {
+      "id": "20220808_8q122lq6bjp62acstjm2lnbqhg",
+      "status": "confirmed",
+      "summary": "Election Victory Day",
+      "region": "St. Kitts & Nevis",
+      "date": "2022-08-08"
+    },
+    {
       "id": "20220916_7i8s57n1v6kk3rk99dc82l2tmo",
       "status": "confirmed",
       "summary": "National Heroes Day",
@@ -43234,6 +43248,13 @@
       "date": "2022-09-27"
     },
     {
+      "id": "20221003_3m65625po0fbai3360t2d6qed0",
+      "status": "confirmed",
+      "summary": "National Tourism Day",
+      "region": "Maldives",
+      "date": "2022-10-03"
+    },
+    {
       "id": "20221008_6oqadbulgtquck165no0h7q7kk",
       "status": "confirmed",
       "summary": "Milad un Nabi (Mawlid)",
@@ -52836,18 +52857,18 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_5uknjs3e1t4urp04itu7i02f2s",
-      "status": "confirmed",
-      "summary": "Day off for New Year",
-      "region": "Seychelles",
-      "date": "2023-01-02"
-    },
-    {
       "id": "20230102_6tenkd2vnhvtvnen9t7vphcdq8",
       "status": "confirmed",
       "summary": "New Year holiday",
       "region": "Seychelles",
       "date": "2023-01-02"
+    },
+    {
+      "id": "20230103_nqqhbgdgr5scpmh06ftue21t0g",
+      "status": "confirmed",
+      "summary": "Day off for New Year",
+      "region": "Seychelles",
+      "date": "2023-01-03"
     },
     {
       "id": "20230407_co7fm13eiidlau80q8lqdgbbo8",
