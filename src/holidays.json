@@ -53218,9 +53218,9 @@
       "date": "2022-04-18"
     },
     {
-      "id": "20220520_ep5pspb1s8kl3tabdo17f8aink",
+      "id": "20220520_b2s15flpa83ajrrbp7lcfb5en4",
       "status": "confirmed",
-      "summary": "Saint Helena Day Holiday",
+      "summary": "Day off for Saint Helena Day",
       "region": "St. Helena",
       "date": "2022-05-20"
     },
@@ -53288,6 +53288,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230102_eu1hqesnvkra9kk369ipno8h6g",
+      "status": "confirmed",
+      "summary": "Day off for New Year",
+      "region": "St. Helena",
+      "date": "2023-01-02"
+    },
+    {
       "id": "20230407_kh4qrllde4onc20511rf0540l0",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -53314,6 +53321,13 @@
       "summary": "Saint Helena Day",
       "region": "St. Helena",
       "date": "2023-05-21"
+    },
+    {
+      "id": "20230522_eg90oavm7d857qpcotb5o8e9mg",
+      "status": "confirmed",
+      "summary": "Day off for Saint Helena Day",
+      "region": "St. Helena",
+      "date": "2023-05-22"
     },
     {
       "id": "20230529_nusidbpgeivta6k720g03mcbmc",
@@ -55938,16 +55952,16 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_44decghh4ks1fir11m8p8mtbp0",
+      "id": "20230102_b3amku1r8kpchhbd2pqc4dugvg",
       "status": "confirmed",
-      "summary": "New Year's Day Holiday (regional holiday)",
+      "summary": "Reconquest Day (Granada)",
       "region": "Spain",
       "date": "2023-01-02"
     },
     {
-      "id": "20230102_b3amku1r8kpchhbd2pqc4dugvg",
+      "id": "20230102_i2qqg98t52eb7k68po5l88j3ms",
       "status": "confirmed",
-      "summary": "Reconquest Day (Granada)",
+      "summary": "New Year's Day Holiday (regional holiday)",
       "region": "Spain",
       "date": "2023-01-02"
     },
