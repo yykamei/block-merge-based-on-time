@@ -30639,9 +30639,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_n7h5hgt42onm4aij50563q2ees",
+      "id": "20230102_apt5fshggunhhmiv7quppetrbc",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Jamaica",
       "date": "2023-01-02"
     },
@@ -30709,9 +30709,16 @@
       "date": "2023-08-01"
     },
     {
-      "id": "20230807_7221jjg8ie6l6p6tur7ela8uks",
+      "id": "20230806_gsheut2jrae8uc0kmgir71hqac",
       "status": "confirmed",
       "summary": "Independence Day",
+      "region": "Jamaica",
+      "date": "2023-08-06"
+    },
+    {
+      "id": "20230807_kf3l7ctvb26tajmcman3ip87ok",
+      "status": "confirmed",
+      "summary": "Day off for Independence Day",
       "region": "Jamaica",
       "date": "2023-08-07"
     },
@@ -48077,7 +48084,7 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230122_6t416mu5n533selh6fme459dr0",
+      "id": "20230122_82h2uc5s60vt8duk44n4292cr4",
       "status": "confirmed",
       "summary": "Lunar New Year's Day",
       "region": "Philippines",
@@ -48175,7 +48182,7 @@
       "date": "2023-11-01"
     },
     {
-      "id": "20231102_0tb77s0a97ce2o6nc0hmv69mck",
+      "id": "20231102_a7a5a54d67es2una47pf3hl9sc",
       "status": "confirmed",
       "summary": "All Souls' Day",
       "region": "Philippines",
@@ -59695,9 +59702,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220103_49opg20ll4pk5fhg9f0oraejno",
+      "id": "20220103_d4k4h8i6ndstu6ucrlukdc4v90",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Thailand",
       "date": "2022-01-03"
     },
@@ -59898,9 +59905,9 @@
       "date": "2022-12-10"
     },
     {
-      "id": "20221212_85mhobeinbca6i8v2qecv2nlpg",
+      "id": "20221212_9h1qutlrin506ctk1imagief58",
       "status": "confirmed",
-      "summary": "Constitution Day observed",
+      "summary": "Day off for Constitution Day",
       "region": "Thailand",
       "date": "2022-12-12"
     },
@@ -59940,9 +59947,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_hsg232i1rjdva4ggi6ort8vc10",
+      "id": "20230102_99u88tkttqash2p252c950qa0s",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Thailand",
       "date": "2023-01-02"
     },
@@ -60003,13 +60010,6 @@
       "date": "2023-04-14"
     },
     {
-      "id": "20230415_2152qt68b89brbm6q44c7gnmfc",
-      "status": "confirmed",
-      "summary": "Songkran",
-      "region": "Thailand",
-      "date": "2023-04-15"
-    },
-    {
       "id": "20230501_bigg4ioiu8qlddd8tl8tol7pms",
       "status": "confirmed",
       "summary": "Labor Day",
@@ -60031,6 +60031,13 @@
       "date": "2023-05-11"
     },
     {
+      "id": "20230603_ok4oflhnm6fbl004fje41kkp4s",
+      "status": "confirmed",
+      "summary": "Visakha Bucha",
+      "region": "Thailand",
+      "date": "2023-06-03"
+    },
+    {
       "id": "20230603_v1r7ug7isufi26ftav55umbjos",
       "status": "confirmed",
       "summary": "Queen Suthida's Birthday",
@@ -60038,9 +60045,16 @@
       "date": "2023-06-03"
     },
     {
-      "id": "20230605_2105q3ml3ek8l4bquljlvq6ml8",
+      "id": "20230605_51oosg12kbfr1eb9skd7fhght0",
       "status": "confirmed",
-      "summary": "Queen Suthida's Birthday observed",
+      "summary": "Day off for Queen Suthida's Birthday",
+      "region": "Thailand",
+      "date": "2023-06-05"
+    },
+    {
+      "id": "20230605_hmsf5j7uc67f1dlqh8bl34cqck",
+      "status": "confirmed",
+      "summary": "Day off for Visakha Bucha",
       "region": "Thailand",
       "date": "2023-06-05"
     },
@@ -60052,18 +60066,11 @@
       "date": "2023-07-28"
     },
     {
-      "id": "20230802_u5vg05noialepfl9jvev49qr8g",
+      "id": "20230801_k1l35miru7kooc3rosiu6os5hg",
       "status": "confirmed",
       "summary": "Buddhist Lent Day",
       "region": "Thailand",
-      "date": "2023-08-02"
-    },
-    {
-      "id": "20230811_gor7s118fm71icpb701n8t125s",
-      "status": "confirmed",
-      "summary": "The Queen's Birthday observed",
-      "region": "Thailand",
-      "date": "2023-08-11"
+      "date": "2023-08-01"
     },
     {
       "id": "20230812_vhfdf7c7tl8hoqgo884mtmc488",
@@ -60071,6 +60078,13 @@
       "summary": "The Queen's Birthday",
       "region": "Thailand",
       "date": "2023-08-12"
+    },
+    {
+      "id": "20230814_q0hnge5slkfqe6t9h5si8ffp10",
+      "status": "confirmed",
+      "summary": "Day off for The Queen's Birthday",
+      "region": "Thailand",
+      "date": "2023-08-14"
     },
     {
       "id": "20231013_k0t0cit2314kui1m9qbp14vnvo",
@@ -60101,9 +60115,9 @@
       "date": "2023-12-10"
     },
     {
-      "id": "20231211_mroat3pbu0qbvglu48opd2v9k8",
+      "id": "20231211_crv9hk4ppsl8g9kvk9867v6ji0",
       "status": "confirmed",
-      "summary": "Constitution Day observed",
+      "summary": "Day off for Constitution Day",
       "region": "Thailand",
       "date": "2023-12-11"
     },
