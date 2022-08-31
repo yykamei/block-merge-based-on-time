@@ -31739,13 +31739,6 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220508_peet5beain1ec01r4e2bkg4ttg",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "Cambodia",
-      "date": "2022-05-08"
-    },
-    {
       "id": "20220514_ef38s2eafu1t3d8jgtqfmat4lc",
       "status": "confirmed",
       "summary": "King's Birthday",
@@ -31772,13 +31765,6 @@
       "summary": "King's Mother's Birthday",
       "region": "Cambodia",
       "date": "2022-06-18"
-    },
-    {
-      "id": "20220619_7qh3e6sks72a23l8bcltus59sk",
-      "status": "confirmed",
-      "summary": "Father's Day",
-      "region": "Cambodia",
-      "date": "2022-06-19"
     },
     {
       "id": "20220924_i9nnvu67p57qnscjt177332e44",
@@ -31914,13 +31900,6 @@
       "date": "2023-05-08"
     },
     {
-      "id": "20230514_a05888h0scetm74l3m6ae43sn4",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "Cambodia",
-      "date": "2023-05-14"
-    },
-    {
       "id": "20230514_hgk88lomqn8sm3t83sk9ul6d4s",
       "status": "confirmed",
       "summary": "King's Birthday",
@@ -31928,14 +31907,7 @@
       "date": "2023-05-14"
     },
     {
-      "id": "20230618_l3q3dl1l2rg1rgnqppkagh0fus",
-      "status": "confirmed",
-      "summary": "Father's Day",
-      "region": "Cambodia",
-      "date": "2023-06-18"
-    },
-    {
-      "id": "20230618_m9935h5gq5nebms82fuke9vq30",
+      "id": "20230618_beu7e2qq20jipblsmmjpvi3nj4",
       "status": "confirmed",
       "summary": "King's Mother's Birthday",
       "region": "Cambodia",
@@ -31949,9 +31921,30 @@
       "date": "2023-09-24"
     },
     {
+      "id": "20231013_a9nsblei5eva07o6nvdpb4p970",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2023-10-13"
+    },
+    {
+      "id": "20231014_0kb6qt5216igrakc3gvpvvqm54",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2023-10-14"
+    },
+    {
       "id": "20231015_t3039knugcfm994arbga9c9bes",
       "status": "confirmed",
       "summary": "Commemoration Day of King's Father",
+      "region": "Cambodia",
+      "date": "2023-10-15"
+    },
+    {
+      "id": "20231015_tl004ot1dqqm7jdatqqsdeuk5o",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
       "region": "Cambodia",
       "date": "2023-10-15"
     },
@@ -33007,6 +33000,13 @@
       "summary": "Islamic New Year Holiday",
       "region": "Kuwait",
       "date": "2022-07-31"
+    },
+    {
+      "id": "20220929_lh5nlr2mpbl97i05qarkj7vf30",
+      "status": "confirmed",
+      "summary": "Parliamentary Elections Holiday",
+      "region": "Kuwait",
+      "date": "2022-09-29"
     },
     {
       "id": "20221008_qp5chgc2bk704c6j04fle3girg",
@@ -56822,6 +56822,13 @@
       "summary": "Martyrs Day",
       "region": "South Sudan",
       "date": "2022-07-30"
+    },
+    {
+      "id": "20220830_5gp82m7ooe47gcb34vsmusc1pk",
+      "status": "confirmed",
+      "summary": "Unified Force Graduation Public Holiday",
+      "region": "South Sudan",
+      "date": "2022-08-30"
     },
     {
       "id": "20221113_tiq7oatu91plvb5fq3qkhdbar8",
