@@ -48567,6 +48567,272 @@
       "summary": "New Year's Eve",
       "region": "Pakistan",
       "date": "2022-12-31"
+    },
+    {
+      "id": "20230101_6jqvd18bd5dcqj16d754pmg6vc",
+      "status": "confirmed",
+      "summary": "New Year's Day",
+      "region": "Pakistan",
+      "date": "2023-01-01"
+    },
+    {
+      "id": "20230126_ietg1ubhre72ptu2qm7kver4f8",
+      "status": "confirmed",
+      "summary": "Basant Panchami",
+      "region": "Pakistan",
+      "date": "2023-01-26"
+    },
+    {
+      "id": "20230205_2u0lrt9usg8qr4l4scg4b9enig",
+      "status": "confirmed",
+      "summary": "Kashmir Day",
+      "region": "Pakistan",
+      "date": "2023-02-05"
+    },
+    {
+      "id": "20230218_h9d8d73qop356kmc3dnna45hlg",
+      "status": "confirmed",
+      "summary": "Shab e-Meraj",
+      "region": "Pakistan",
+      "date": "2023-02-18"
+    },
+    {
+      "id": "20230307_nd60j2eu8j04gt36vfqjbsmles",
+      "status": "confirmed",
+      "summary": "Holi",
+      "region": "Pakistan",
+      "date": "2023-03-07"
+    },
+    {
+      "id": "20230308_7e27gbf134v1ogg4n902v7jpp4",
+      "status": "confirmed",
+      "summary": "Shab e-Barat",
+      "region": "Pakistan",
+      "date": "2023-03-08"
+    },
+    {
+      "id": "20230323_l75mmhanc43otqmabnm7g8r66g",
+      "status": "confirmed",
+      "summary": "Pakistan Day",
+      "region": "Pakistan",
+      "date": "2023-03-23"
+    },
+    {
+      "id": "20230407_md1fitt5nbr9g8m5a12mdltaig",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "Pakistan",
+      "date": "2023-04-07"
+    },
+    {
+      "id": "20230410_vted3g2j1mtdcalh04ebptb8ug",
+      "status": "confirmed",
+      "summary": "Easter Monday",
+      "region": "Pakistan",
+      "date": "2023-04-10"
+    },
+    {
+      "id": "20230414_tnk9q7it7p7p4d56q4dec3u13s",
+      "status": "confirmed",
+      "summary": "Baisakhi",
+      "region": "Pakistan",
+      "date": "2023-04-14"
+    },
+    {
+      "id": "20230421_0tqjrmg7c8l6dhdj0al7otq4g4",
+      "status": "confirmed",
+      "summary": "Ridván",
+      "region": "Pakistan",
+      "date": "2023-04-21"
+    },
+    {
+      "id": "20230422_jrr1mot3q1mpgflau7nd0j5i0s",
+      "status": "confirmed",
+      "summary": "Eid-ul-Fitr",
+      "region": "Pakistan",
+      "date": "2023-04-22"
+    },
+    {
+      "id": "20230423_fmf3hekh8mqcvugnl24ljnhq2s",
+      "status": "confirmed",
+      "summary": "Eid-ul-Fitr Holiday",
+      "region": "Pakistan",
+      "date": "2023-04-23"
+    },
+    {
+      "id": "20230424_fk9upf4sch3ndho2r6ermpd3pk",
+      "status": "confirmed",
+      "summary": "Eid-ul-Fitr Holiday",
+      "region": "Pakistan",
+      "date": "2023-04-24"
+    },
+    {
+      "id": "20230425_nv0fltmi7sg2ju1rqht6hk872o",
+      "status": "confirmed",
+      "summary": "Eid-ul-Fitr Holiday",
+      "region": "Pakistan",
+      "date": "2023-04-25"
+    },
+    {
+      "id": "20230501_9j8rutqrb5gk5vk5m5b1rnk5o8",
+      "status": "confirmed",
+      "summary": "Labour Day",
+      "region": "Pakistan",
+      "date": "2023-05-01"
+    },
+    {
+      "id": "20230505_bpp7fll1pna8pijcbn5qnc11po",
+      "status": "confirmed",
+      "summary": "Buddha Purnima",
+      "region": "Pakistan",
+      "date": "2023-05-05"
+    },
+    {
+      "id": "20230629_0ja8bulb9il78nqcq56ecuc8uc",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Pakistan",
+      "date": "2023-06-29"
+    },
+    {
+      "id": "20230630_vk3c1rsd7n62c2uu9b7p8d0ddg",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Pakistan",
+      "date": "2023-06-30"
+    },
+    {
+      "id": "20230701_ct4a21b6c1iq4efrsfukku9f3g",
+      "status": "confirmed",
+      "summary": "July 1 Bank Holiday",
+      "region": "Pakistan",
+      "date": "2023-07-01"
+    },
+    {
+      "id": "20230701_ifcmk101fi551ptiobo61qeka4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Pakistan",
+      "date": "2023-07-01"
+    },
+    {
+      "id": "20230727_p6d631h12u1tnt2ndp6vm242rc",
+      "status": "confirmed",
+      "summary": "Ashura",
+      "region": "Pakistan",
+      "date": "2023-07-27"
+    },
+    {
+      "id": "20230728_qed916ucpder1nhgv9l6ug31u0",
+      "status": "confirmed",
+      "summary": "Ashura Holiday",
+      "region": "Pakistan",
+      "date": "2023-07-28"
+    },
+    {
+      "id": "20230814_1j760f2h1ln799q8ini01eif0o",
+      "status": "confirmed",
+      "summary": "Independence Day",
+      "region": "Pakistan",
+      "date": "2023-08-14"
+    },
+    {
+      "id": "20230906_h0sl3o75d6jprcokd85p2mflkc",
+      "status": "confirmed",
+      "summary": "Defence Day",
+      "region": "Pakistan",
+      "date": "2023-09-06"
+    },
+    {
+      "id": "20230906_ruv4q11t0gslkek0rv5u90t9bc",
+      "status": "confirmed",
+      "summary": "Chelum",
+      "region": "Pakistan",
+      "date": "2023-09-06"
+    },
+    {
+      "id": "20230926_dnvlsr5n6lg9oulst63l240vf8",
+      "status": "confirmed",
+      "summary": "Giarhwin Sharief",
+      "region": "Pakistan",
+      "date": "2023-09-26"
+    },
+    {
+      "id": "20230927_6kvr4h1ncab1tiavo2insu84ag",
+      "status": "confirmed",
+      "summary": "Eid Milad un-Nabi",
+      "region": "Pakistan",
+      "date": "2023-09-27"
+    },
+    {
+      "id": "20231022_ijejbtuaqagq3vl0m2l75edqlo",
+      "status": "confirmed",
+      "summary": "Durga Puja",
+      "region": "Pakistan",
+      "date": "2023-10-22"
+    },
+    {
+      "id": "20231024_nbl6379ag2ue0r30qchv8qbink",
+      "status": "confirmed",
+      "summary": "Dussehra",
+      "region": "Pakistan",
+      "date": "2023-10-24"
+    },
+    {
+      "id": "20231028_p63iuvn5l26eej7od5naho2mpg",
+      "status": "confirmed",
+      "summary": "Birthday of Guru Balmik Sawami Ji",
+      "region": "Pakistan",
+      "date": "2023-10-28"
+    },
+    {
+      "id": "20231109_fc75jfmvt6570bnmh6qam7kcsc",
+      "status": "confirmed",
+      "summary": "Iqbal Day",
+      "region": "Pakistan",
+      "date": "2023-11-09"
+    },
+    {
+      "id": "20231112_4emm37ulkfhe6245fhn1l1gvas",
+      "status": "confirmed",
+      "summary": "Diwali/Deepavali",
+      "region": "Pakistan",
+      "date": "2023-11-12"
+    },
+    {
+      "id": "20231224_jd3h8ghmitk7maernio9do4lr8",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "Pakistan",
+      "date": "2023-12-24"
+    },
+    {
+      "id": "20231225_fad2nigeu5u9jbtd42mpsmvqq0",
+      "status": "confirmed",
+      "summary": "Christmas Day",
+      "region": "Pakistan",
+      "date": "2023-12-25"
+    },
+    {
+      "id": "20231225_t4shqr2idtnpmrfpuk20vkn8v4",
+      "status": "confirmed",
+      "summary": "Quaid-e-Azam Day",
+      "region": "Pakistan",
+      "date": "2023-12-25"
+    },
+    {
+      "id": "20231226_sog68sn2t63u0n9vm7a5utl70o",
+      "status": "confirmed",
+      "summary": "Day After Christmas (Christians only)",
+      "region": "Pakistan",
+      "date": "2023-12-26"
+    },
+    {
+      "id": "20231231_d9miursd9lh4fgnadvekah7tm8",
+      "status": "confirmed",
+      "summary": "New Year's Eve",
+      "region": "Pakistan",
+      "date": "2023-12-31"
     }
   ],
   "St. Pierre & Miquelon": [
