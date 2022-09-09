@@ -19,6 +19,7 @@ jobs:
       - uses: yykamei/actions-update-changelog@main
         with:
           future-release: v${{ github.event.inputs.version }}
+          since-tag: v2.0.55
 
       - uses: actions/setup-node@v3
         with:
