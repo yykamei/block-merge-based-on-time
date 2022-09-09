@@ -9,6 +9,8 @@ jobs:
       - uses: yykamei/actions-date@main
         id: date
       - uses: yykamei/actions-update-changelog@main
+        with:
+          since-tag: v2.0.55
       - uses: yykamei/actions-git-push@main
         with:
           commit-message: Update CHANGELOG.md
