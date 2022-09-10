@@ -53135,6 +53135,13 @@
       "date": "2022-07-07"
     },
     {
+      "id": "20220912_8ictk3t5qideta5jlqva7st580",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Solomon Islands",
+      "date": "2022-09-12"
+    },
+    {
       "id": "20221225_2rn476uehvstnqfaq43pau59cc",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -53161,6 +53168,13 @@
       "summary": "New Year's Day",
       "region": "Solomon Islands",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230102_rp1s0sc2al53q3ug985phvshcg",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Solomon Islands",
+      "date": "2023-01-02"
     },
     {
       "id": "20230407_9e6m9vimrh8sutqglkekehv4d8",
@@ -53203,13 +53217,6 @@
       "summary": "Day off for Queen's Official Birthday",
       "region": "Solomon Islands",
       "date": "2023-06-09"
-    },
-    {
-      "id": "20230610_nu5obivemigqd1kl628m76ggig",
-      "status": "confirmed",
-      "summary": "Queen's Official Birthday",
-      "region": "Solomon Islands",
-      "date": "2023-06-10"
     },
     {
       "id": "20230707_db045im1t3h0ujof80ghc77fhc",
@@ -63740,13 +63747,6 @@
       "summary": "Spring Bank Holiday",
       "region": "United Kingdom",
       "date": "2023-05-29"
-    },
-    {
-      "id": "20230610_0cgus7a6f2ulfehaq6lflbq9ng",
-      "status": "confirmed",
-      "summary": "Queen's Birthday",
-      "region": "United Kingdom",
-      "date": "2023-06-10"
     },
     {
       "id": "20230712_s4r0rfd9g3j02oi16jl8geki50",
