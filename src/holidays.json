@@ -3486,7 +3486,7 @@
       "date": "2022-12-27"
     },
     {
-      "id": "20221231_5n8oda639qgcehmurbjnj3lguo",
+      "id": "20221231_5fnj7c6k5cgnmdt0m4q9521nck",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -3682,13 +3682,6 @@
       "date": "2023-06-05"
     },
     {
-      "id": "20230612_uh73nme4pmjjah2inmjklva9pk",
-      "status": "confirmed",
-      "summary": "Queen's Birthday (regional holiday)",
-      "region": "Australia",
-      "date": "2023-06-12"
-    },
-    {
       "id": "20230629_u40ien98ghvcmeqrkv6vu9bshk",
       "status": "confirmed",
       "summary": "Hari Raya Haji (regional holiday)",
@@ -3715,13 +3708,6 @@
       "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
       "region": "Australia",
       "date": "2023-08-16"
-    },
-    {
-      "id": "20230925_52sf21vh2h7vdn2rd1ih7en860",
-      "status": "confirmed",
-      "summary": "Queen's Birthday (Western Australia)",
-      "region": "Australia",
-      "date": "2023-09-25"
     },
     {
       "id": "20230927_g1fv3goolmlkod7bpg1k85vmlg",
@@ -3755,13 +3741,6 @@
       "id": "20231002_t2nd886j806lqeglfkmgu8lhoc",
       "status": "confirmed",
       "summary": "Territory Day (Christmas Island)",
-      "region": "Australia",
-      "date": "2023-10-02"
-    },
-    {
-      "id": "20231002_un78nqqapbtufjtv49sqqf1kp8",
-      "status": "confirmed",
-      "summary": "Queen's Birthday (Queensland)",
       "region": "Australia",
       "date": "2023-10-02"
     },
