@@ -22498,6 +22498,13 @@
       "date": "2022-06-03"
     },
     {
+      "id": "20220919_kev1jr6206haoci06ae1bfmug4",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth's Funeral Day",
+      "region": "Guernsey",
+      "date": "2022-09-19"
+    },
+    {
       "id": "20221030_v2f2oj5rolgphlfpu5855jeb1k",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
@@ -27490,9 +27497,9 @@
       "date": "2023-08-16"
     },
     {
-      "id": "20230820_eect6491lj340eidcr75ghh620",
+      "id": "20230820_p0osh4rg9o1e8e0nnbcgpm44j8",
       "status": "confirmed",
-      "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+      "summary": "Vinayaka Chathurthi",
       "region": "India",
       "date": "2023-08-20"
     },
@@ -27523,6 +27530,13 @@
       "summary": "Janmashtami",
       "region": "India",
       "date": "2023-09-07"
+    },
+    {
+      "id": "20230919_ikp0lms0a3tbsl0icu7luihvv8",
+      "status": "confirmed",
+      "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+      "region": "India",
+      "date": "2023-09-19"
     },
     {
       "id": "20230928_b946i0p07urvr85fqe01fnfbns",
@@ -33219,6 +33233,13 @@
       "summary": "Constitution Day",
       "region": "Cayman Islands",
       "date": "2022-07-04"
+    },
+    {
+      "id": "20220919_ld628eni5426tlmmh20et0vsd0",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth's Funeral Day",
+      "region": "Cayman Islands",
+      "date": "2022-09-19"
     },
     {
       "id": "20221031_9a5hq1sa8h3fted53li32k4n9k",
@@ -44905,9 +44926,9 @@
       "date": "2023-05-14"
     },
     {
-      "id": "20230605_thikegdofeb0c5k0jd1tosldao",
+      "id": "20230605_2t6ernuso85vc5ttic8vla4dvg",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "King's Birthday",
       "region": "New Zealand",
       "date": "2023-06-05"
     },
@@ -52979,11 +53000,25 @@
       "date": "2022-07-30"
     },
     {
-      "id": "20220922_noa5gtqp7nulntdgoqs5gv9fj4",
+      "id": "20220921_1o7dna039l3ktomou4bn3u9fpk",
+      "status": "confirmed",
+      "summary": "Saudi National Day Holiday",
+      "region": "Saudi Arabia",
+      "date": "2022-09-21"
+    },
+    {
+      "id": "20220922_jlab5eu93qv5ek6hjae313hndo",
+      "status": "confirmed",
+      "summary": "Day off for Saudi National Day",
+      "region": "Saudi Arabia",
+      "date": "2022-09-22"
+    },
+    {
+      "id": "20220923_9riqll9j2d8k1d02p1fdrlbauk",
       "status": "confirmed",
       "summary": "Saudi National Day",
       "region": "Saudi Arabia",
-      "date": "2022-09-22"
+      "date": "2022-09-23"
     },
     {
       "id": "20230222_2ulkhtarj2bpnr1c8qram3v02g",
@@ -53063,9 +53098,16 @@
       "date": "2023-07-18"
     },
     {
-      "id": "20230924_3bs1evnkk8vgb0fhojljbris2g",
+      "id": "20230923_h99ied0tibtsb1hbp5hhna2br4",
       "status": "confirmed",
       "summary": "Saudi National Day",
+      "region": "Saudi Arabia",
+      "date": "2023-09-23"
+    },
+    {
+      "id": "20230924_km5npt23ajdps04i2lvmdusbag",
+      "status": "confirmed",
+      "summary": "Day off for Saudi National Day",
       "region": "Saudi Arabia",
       "date": "2023-09-24"
     }
