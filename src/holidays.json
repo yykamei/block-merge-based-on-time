@@ -3346,6 +3346,13 @@
       "date": "2022-08-10"
     },
     {
+      "id": "20220922_bm1q37c1gl4bk48vorsd9h0m8g",
+      "status": "confirmed",
+      "summary": "National Day of Mourning for Her Majesty The Queen",
+      "region": "Australia",
+      "date": "2022-09-22"
+    },
+    {
       "id": "20220923_msk2q04o4nb8bhe275fpuqrgn0",
       "status": "confirmed",
       "summary": "Friday before the AFL Grand Final (Victoria)",
@@ -3430,7 +3437,7 @@
       "date": "2022-11-11"
     },
     {
-      "id": "20221224_vjb58l8b57tpipupi8rn33gbck",
+      "id": "20221224_1jq24gbu4oe8ln0lbpo5ro68vo",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3801,7 +3808,7 @@
       "date": "2023-12-26"
     },
     {
-      "id": "20231231_dfrk6670gdkbiafs1rs3nqc1sg",
+      "id": "20231231_krhncjttnbo5m3gn5t9msc0hkg",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -63560,11 +63567,32 @@
       "date": "2022-01-05"
     },
     {
+      "id": "20220214_0eo6rvlegsk4epeo3nu4mjvmsk",
+      "status": "confirmed",
+      "summary": "Valentine's Day",
+      "region": "United Kingdom",
+      "date": "2022-02-14"
+    },
+    {
+      "id": "20220301_acuu711u31ff0m3p086bi89v1s",
+      "status": "confirmed",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
+      "region": "United Kingdom",
+      "date": "2022-03-01"
+    },
+    {
       "id": "20220317_gp0k14ratomauctsburk58gtp4",
       "status": "confirmed",
       "summary": "St Patrick's Day (Northern Ireland)",
       "region": "United Kingdom",
       "date": "2022-03-17"
+    },
+    {
+      "id": "20220327_s3f7nnvg99o6j45grks4uqh98s",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "United Kingdom",
+      "date": "2022-03-27"
     },
     {
       "id": "20220327_u5fpavvslvppp2lkan6qcnl2hg",
@@ -63630,6 +63658,13 @@
       "date": "2022-06-11"
     },
     {
+      "id": "20220619_nas1fp6k0a3p9r0bprpq2h9a9k",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "United Kingdom",
+      "date": "2022-06-19"
+    },
+    {
       "id": "20220712_5050kadq5u0tuumarc9gm3k97k",
       "status": "confirmed",
       "summary": "Battle of the Boyne (Northern Ireland)",
@@ -63649,6 +63684,13 @@
       "summary": "Summer Bank Holiday (regional holiday)",
       "region": "United Kingdom",
       "date": "2022-08-29"
+    },
+    {
+      "id": "20220919_3h9maiv19i14ilteqg2gaugbfg",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth's Funeral Day",
+      "region": "United Kingdom",
+      "date": "2022-09-19"
     },
     {
       "id": "20221030_u5g6ujcvoqkotp8bto4aavs41k",
@@ -63686,6 +63728,13 @@
       "date": "2022-11-30"
     },
     {
+      "id": "20221224_qbqlngu9r242c4l1cm12145uok",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "United Kingdom",
+      "date": "2022-12-24"
+    },
+    {
       "id": "20221225_cj9upumqjvesflqvpnd4kctjsg",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -63705,6 +63754,13 @@
       "summary": "Substitute Bank Holiday for Christmas Day",
       "region": "United Kingdom",
       "date": "2022-12-27"
+    },
+    {
+      "id": "20221231_utjffqrsj4sdgltabh0h5ibko0",
+      "status": "confirmed",
+      "summary": "New Year's Eve",
+      "region": "United Kingdom",
+      "date": "2022-12-31"
     },
     {
       "id": "20230101_2r358plhr9ia683p4nnim6op3c",
@@ -63735,11 +63791,32 @@
       "date": "2023-01-05"
     },
     {
+      "id": "20230214_1m7o7keabq0k1qk45vhsivmnc4",
+      "status": "confirmed",
+      "summary": "Valentine's Day",
+      "region": "United Kingdom",
+      "date": "2023-02-14"
+    },
+    {
+      "id": "20230221_krfmku23eds5939qr7bgtiv4po",
+      "status": "confirmed",
+      "summary": "Carnival / Shrove Tuesday / Pancake Day",
+      "region": "United Kingdom",
+      "date": "2023-02-21"
+    },
+    {
       "id": "20230317_50n06s896s1unqh09r5qke8b70",
       "status": "confirmed",
       "summary": "St Patrick's Day (Northern Ireland)",
       "region": "United Kingdom",
       "date": "2023-03-17"
+    },
+    {
+      "id": "20230319_d6mgphgtuorg4mnik3nla4g9h4",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "United Kingdom",
+      "date": "2023-03-19"
     },
     {
       "id": "20230326_ctea5oc71h4hqodmqjtg67j1q4",
@@ -63789,6 +63866,13 @@
       "summary": "Spring Bank Holiday",
       "region": "United Kingdom",
       "date": "2023-05-29"
+    },
+    {
+      "id": "20230618_bbcl76ltq13dmcqqkc1ml1dcq4",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "United Kingdom",
+      "date": "2023-06-18"
     },
     {
       "id": "20230712_s4r0rfd9g3j02oi16jl8geki50",
@@ -63847,6 +63931,13 @@
       "date": "2023-11-30"
     },
     {
+      "id": "20231224_ngoq65qnqia1qnbobnlemhtjb4",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "United Kingdom",
+      "date": "2023-12-24"
+    },
+    {
       "id": "20231225_eg1fud1r5hl0dc535oc5s1blac",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -63859,6 +63950,13 @@
       "summary": "Boxing Day",
       "region": "United Kingdom",
       "date": "2023-12-26"
+    },
+    {
+      "id": "20231231_go4q1k8559pkiintn5mcpk7ec0",
+      "status": "confirmed",
+      "summary": "New Year's Eve",
+      "region": "United Kingdom",
+      "date": "2023-12-31"
     }
   ],
   "Ukraine": [
