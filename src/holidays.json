@@ -22498,16 +22498,16 @@
       "date": "2022-05-30"
     },
     {
-      "id": "20220603_c0l5r9hh8c5j0d8p0d6q0jb1s8",
+      "id": "20220603_5qna8g1cvogdu5i3i8vnc9v97g",
       "status": "confirmed",
-      "summary": "Queen's Platinum Jubilee",
+      "summary": "Queen Elizabeth II's Platinum Jubilee",
       "region": "Guernsey",
       "date": "2022-06-03"
     },
     {
-      "id": "20220919_kev1jr6206haoci06ae1bfmug4",
+      "id": "20220919_qjdvcvhdra6lrv95t7sd2o4cs8",
       "status": "confirmed",
-      "summary": "Queen Elizabeth's Funeral Day",
+      "summary": "Queen Elizabeth II's Funeral Day",
       "region": "Guernsey",
       "date": "2022-09-19"
     },
@@ -23020,16 +23020,16 @@
       "date": "2022-06-02"
     },
     {
-      "id": "20220603_i6pkdovni542npm12njnimst6s",
+      "id": "20220603_7j6eus9o0nc3s4n6brpjcopkm4",
       "status": "confirmed",
-      "summary": "Queen's Platinum Jubilee",
+      "summary": "Queen Elizabeth II's Platinum Jubilee",
       "region": "Gibraltar",
       "date": "2022-06-03"
     },
     {
-      "id": "20220613_0m154g7db4d9mn3n59l36jfdfo",
+      "id": "20220613_qqtqpfp56uv4qictm8qbdlsnvo",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Gibraltar",
       "date": "2022-06-13"
     },
@@ -23174,9 +23174,9 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230619_6k73iranmqqghknfgq7ff9pm3c",
+      "id": "20230619_6gdjqadont4p4ktblo8sanps3c",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Gibraltar",
       "date": "2023-06-19"
     },
@@ -29823,9 +29823,9 @@
       "date": "2022-06-02"
     },
     {
-      "id": "20220603_2rev7b1hdoq0guul7vi6rd6sls",
+      "id": "20220603_ivdee6c3o0hhesjfbgf8cjclf4",
       "status": "confirmed",
-      "summary": "Queen's Platinum Jubilee",
+      "summary": "Queen Elizabeth II's Platinum Jubilee",
       "region": "Jersey",
       "date": "2022-06-03"
     },
@@ -29835,6 +29835,13 @@
       "summary": "Summer Bank Holiday",
       "region": "Jersey",
       "date": "2022-08-29"
+    },
+    {
+      "id": "20220919_3ejcvldl655kjmlevfminq8mvk",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth II's Funeral Day",
+      "region": "Jersey",
+      "date": "2022-09-19"
     },
     {
       "id": "20221030_dl6tn20er10uov7q5f6pp1ofoo",
