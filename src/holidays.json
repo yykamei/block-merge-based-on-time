@@ -33249,9 +33249,9 @@
       "date": "2022-07-04"
     },
     {
-      "id": "20220919_ld628eni5426tlmmh20et0vsd0",
+      "id": "20220919_0a1gqn0p11hmmj0lttpm2t2kt4",
       "status": "confirmed",
-      "summary": "Queen Elizabeth's Funeral Day",
+      "summary": "Queen Elizabeth II's Funeral Day",
       "region": "Cayman Islands",
       "date": "2022-09-19"
     },
@@ -35818,6 +35818,13 @@
       "summary": "Public Sector Holiday",
       "region": "Sri Lanka",
       "date": "2022-09-16"
+    },
+    {
+      "id": "20220919_i1tfg87eps6g1kd5u198r6nd4o",
+      "status": "confirmed",
+      "summary": "National Day of Mourning",
+      "region": "Sri Lanka",
+      "date": "2022-09-19"
     },
     {
       "id": "20220923_k86puhvdd323jqfasqvdgnhpeg",
@@ -44695,9 +44702,9 @@
       "date": "2022-05-08"
     },
     {
-      "id": "20220606_qafe1rkp1a0tj1q2doo3cmafu4",
+      "id": "20220606_ldp5edhbrra21f4h7l2qdod5rg",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "New Zealand",
       "date": "2022-06-06"
     },
@@ -44714,6 +44721,13 @@
       "summary": "Father's Day",
       "region": "New Zealand",
       "date": "2022-09-04"
+    },
+    {
+      "id": "20220926_8nd0u3ofgl98f5qduslttpqhso",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth II Memorial Day",
+      "region": "New Zealand",
+      "date": "2022-09-26"
     },
     {
       "id": "20220926_g25s90qlcug2bkg3loe5q9sjig",
@@ -63651,16 +63665,16 @@
       "date": "2022-06-02"
     },
     {
-      "id": "20220603_gi34btbllu6v6ug47ov7v1q3ks",
+      "id": "20220603_2mhjrmvuuuhjolgk8ghkmbbrr0",
       "status": "confirmed",
-      "summary": "Queen's Platinum Jubilee",
+      "summary": "Queen Elizabeth II's Platinum Jubilee",
       "region": "United Kingdom",
       "date": "2022-06-03"
     },
     {
-      "id": "20220611_av3lg0aa15undmtco59be9uf8g",
+      "id": "20220611_5hrk763mpqar9vr749tk86jmao",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "United Kingdom",
       "date": "2022-06-11"
     },
@@ -63693,9 +63707,9 @@
       "date": "2022-08-29"
     },
     {
-      "id": "20220919_3h9maiv19i14ilteqg2gaugbfg",
+      "id": "20220919_0df3djbaj3vqadcsc386lfbmik",
       "status": "confirmed",
-      "summary": "Queen Elizabeth's Funeral Day",
+      "summary": "State Funeral of Queen Elizabeth II",
       "region": "United Kingdom",
       "date": "2022-09-19"
     },
