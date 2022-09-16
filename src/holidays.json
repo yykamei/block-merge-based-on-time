@@ -875,6 +875,13 @@
       "date": "2022-08-02"
     },
     {
+      "id": "20220919_r77slsbnidice12jpg2hedaqm0",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth II's Funeral Day",
+      "region": "Antigua & Barbuda",
+      "date": "2022-09-19"
+    },
+    {
       "id": "20221026_8l3gti2ikfkuieuh1hajqvlh7c",
       "status": "confirmed",
       "summary": "National Heroes Day",
@@ -7621,6 +7628,13 @@
       "date": "2022-09-05"
     },
     {
+      "id": "20220919_aahssqmkfv5kp1ggpks3p8nuq8",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth II's Funeral Day",
+      "region": "Bermuda",
+      "date": "2022-09-19"
+    },
+    {
       "id": "20221031_mri0339u52732fh2j01eb1q7u0",
       "status": "confirmed",
       "summary": "Halloween",
@@ -13332,9 +13346,9 @@
       "date": "2022-04-25"
     },
     {
-      "id": "20220606_r9p8e8pvnq5sfeg4e9dpv5sd9o",
+      "id": "20220606_8c87u0usr2ih4fbkflkb4k1tqc",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Cook Islands",
       "date": "2022-06-06"
     },
@@ -13444,9 +13458,9 @@
       "date": "2023-04-25"
     },
     {
-      "id": "20230605_54bndr92tsi0cjaq2ll3oiir38",
+      "id": "20230605_7vg3d2ejn3bsof4e3gqe02gop4",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Cook Islands",
       "date": "2023-06-05"
     },
@@ -19876,9 +19890,9 @@
       "date": "2022-04-15"
     },
     {
-      "id": "20220421_utj9k150ubgvvproqerpqd1uj8",
+      "id": "20220421_8lgd3i8c8e773kvp455m72r39s",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Falkland Islands (Islas Malvinas)",
       "date": "2022-04-21"
     },
@@ -19895,6 +19909,13 @@
       "summary": "Falkland Day",
       "region": "Falkland Islands (Islas Malvinas)",
       "date": "2022-08-14"
+    },
+    {
+      "id": "20220919_div3s7u6cbfkhi8dbddk8oei1s",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth II's Funeral Day",
+      "region": "Falkland Islands (Islas Malvinas)",
+      "date": "2022-09-19"
     },
     {
       "id": "20221003_2amg8m09vrrla1sed96tpv2oh8",
@@ -19995,9 +20016,9 @@
       "date": "2023-04-07"
     },
     {
-      "id": "20230421_c16qat6je7e9ahqor9ed4ulncc",
+      "id": "20230421_2n2o27e4rr03kqahfj0nt9m408",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Falkland Islands (Islas Malvinas)",
       "date": "2023-04-21"
     },
@@ -33221,16 +33242,16 @@
       "date": "2022-05-16"
     },
     {
-      "id": "20220603_ctomhdlgilafkai32obupkj174",
+      "id": "20220603_esq7dquofuj9r54dni5m5r5vio",
       "status": "confirmed",
-      "summary": "Queen's Platinum Jubilee",
+      "summary": "Queen Elizabeth II's Platinum Jubilee",
       "region": "Cayman Islands",
       "date": "2022-06-03"
     },
     {
-      "id": "20220606_0u2jbeml7i49o8oapgrq10qf2g",
+      "id": "20220606_9ce29ul8b3ljpu6oeqqakr4fqc",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Cayman Islands",
       "date": "2022-06-06"
     },
@@ -33389,9 +33410,9 @@
       "date": "2023-06-18"
     },
     {
-      "id": "20230619_0rriv5m9klhfbiv8hkdo5754h0",
+      "id": "20230619_q81atsj5vn2ufn8jjrkb0ptr2c",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Cayman Islands",
       "date": "2023-06-19"
     },
@@ -42444,16 +42465,16 @@
       "date": "2022-05-02"
     },
     {
-      "id": "20220602_186rqrj01alehivlotqgb0reos",
+      "id": "20220602_h7cdt66i5j29fnvuebfqtbgad0",
       "status": "confirmed",
-      "summary": "The Queen's Birthday Celebration",
+      "summary": "Queen Elizabeth II's Birthday Celebration",
       "region": "Montserrat",
       "date": "2022-06-02"
     },
     {
-      "id": "20220603_0g5dllda0ci9i5vh82cbtdn5ak",
+      "id": "20220603_b666f7i771jgk86f20q2mt2hb0",
       "status": "confirmed",
-      "summary": "The Queen's Platinum Jubilee",
+      "summary": "Queen Elizabeth II's Platinum Jubilee",
       "region": "Montserrat",
       "date": "2022-06-03"
     },
@@ -42549,9 +42570,9 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230612_nhhjfsenv5518ve3pmou5cdj2k",
+      "id": "20230612_ghg6vrji9vq3bb4pjau58isiqk",
       "status": "confirmed",
-      "summary": "The Queen's Birthday Celebration",
+      "summary": "Queen Elizabeth II's Birthday Celebration",
       "region": "Montserrat",
       "date": "2023-06-12"
     },
@@ -48089,9 +48110,9 @@
       "date": "2022-04-18"
     },
     {
-      "id": "20220613_3ufn98tju4r33bds4mc76mpp8k",
+      "id": "20220613_685dn5egej1ajlec51hiqm9tfk",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Papua New Guinea",
       "date": "2022-06-13"
     },
@@ -48166,9 +48187,9 @@
       "date": "2023-04-10"
     },
     {
-      "id": "20230612_0fdr7ahecg36sv1ito48qn6p5o",
+      "id": "20230612_ab4qq0u0qh3qcsnn9jb7pdsl04",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Papua New Guinea",
       "date": "2023-06-12"
     },
@@ -53205,11 +53226,25 @@
       "date": "2022-07-07"
     },
     {
-      "id": "20220912_8ictk3t5qideta5jlqva7st580",
+      "id": "20220912_8i0f5lnbhi1qrlefl7jjc7a09s",
       "status": "confirmed",
-      "summary": "Public Holiday",
+      "summary": "National Day of Mourning for Queen Elizabeth II",
       "region": "Solomon Islands",
       "date": "2022-09-12"
+    },
+    {
+      "id": "20220913_h5pqdfsqhkut2187s3172artfk",
+      "status": "confirmed",
+      "summary": "National Day of Mourning for Queen Elizabeth II",
+      "region": "Solomon Islands",
+      "date": "2022-09-13"
+    },
+    {
+      "id": "20220914_f9u9otk20iicvsct84vnh0re94",
+      "status": "confirmed",
+      "summary": "National Day of Mourning for Queen Elizabeth II",
+      "region": "Solomon Islands",
+      "date": "2022-09-14"
     },
     {
       "id": "20221225_2rn476uehvstnqfaq43pau59cc",
@@ -59668,16 +59703,16 @@
       "date": "2022-05-30"
     },
     {
-      "id": "20220603_hrgfuq6n2588mj9277lm6dmu74",
+      "id": "20220603_8pcsdmoj2ife5h2p05k5ion7gc",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Turks & Caicos Islands",
       "date": "2022-06-03"
     },
     {
-      "id": "20220606_dcakm2p4rtqmjsm79k5h0stbbc",
+      "id": "20220606_r31gm2j52kjrg0ksfa3535urt4",
       "status": "confirmed",
-      "summary": "Queen's Platinum Jubilee",
+      "summary": "Queen Elizabeth II's Platinum Jubilee",
       "region": "Turks & Caicos Islands",
       "date": "2022-06-06"
     },
@@ -59794,9 +59829,9 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230612_jesg3g70dv7e72337ka8nratv0",
+      "id": "20230612_tk01h69s8v6c7goonq27jnubng",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Turks & Caicos Islands",
       "date": "2023-06-12"
     },
@@ -62847,9 +62882,9 @@
       "date": "2022-05-09"
     },
     {
-      "id": "20220611_gnlh5sl7sr1tjiq0in42md9ac8",
+      "id": "20220611_b2veph2thkcqu3j1l5096bp8vc",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Tuvalu",
       "date": "2022-06-11"
     },
@@ -62966,9 +63001,9 @@
       "date": "2023-05-15"
     },
     {
-      "id": "20230610_3oml1gnbefcsp6mn3ferictc9s",
+      "id": "20230610_rj0heo59mm9n7nor245onn7c3c",
       "status": "confirmed",
-      "summary": "Queen's Birthday",
+      "summary": "Queen Elizabeth II's Birthday",
       "region": "Tuvalu",
       "date": "2023-06-10"
     },
