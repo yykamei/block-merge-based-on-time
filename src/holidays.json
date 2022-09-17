@@ -10756,14 +10756,14 @@
       "date": "2022-04-15"
     },
     {
-      "id": "20220417_p80b814fde1o0h335pgam3j9gc",
+      "id": "20220417_t4h8lb9sm6eb1qg5r81tito07c",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
       "date": "2022-04-17"
     },
     {
-      "id": "20220418_tc9708ea60jd9utcf9sjf6ut98",
+      "id": "20220418_19e11dl08spv8du0ts5d63rrcc",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -10922,6 +10922,13 @@
       "summary": "Labour Day",
       "region": "Canada",
       "date": "2022-09-05"
+    },
+    {
+      "id": "20220919_6qkrbljkmvrbmlpsilmh234g64",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth II's Funeral Day (regional holiday)",
+      "region": "Canada",
+      "date": "2022-09-19"
     },
     {
       "id": "20220930_q3l8r2965ehlo99gbr4tci7eoo",
@@ -23076,6 +23083,13 @@
       "date": "2022-09-12"
     },
     {
+      "id": "20220919_eq4uc5187umv46gof4fsvl0hb4",
+      "status": "confirmed",
+      "summary": "Funeral of Queen Elizabeth II",
+      "region": "Gibraltar",
+      "date": "2022-09-19"
+    },
+    {
       "id": "20221030_bbl4l426fs0isqstfqeppmuna8",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
@@ -26765,6 +26779,13 @@
       "summary": "Summer Bank Holiday",
       "region": "Isle of Man",
       "date": "2022-08-29"
+    },
+    {
+      "id": "20220919_7ja6kh2h2obol3aa6ui7bfb50c",
+      "status": "confirmed",
+      "summary": "State Funeral of Queen Elizabeth II",
+      "region": "Isle of Man",
+      "date": "2022-09-19"
     },
     {
       "id": "20221030_f2bamp070dfeqlgle10trvg824",
@@ -48138,6 +48159,13 @@
       "date": "2022-09-16"
     },
     {
+      "id": "20220919_972fj0p16597r3crh0q69i6g7c",
+      "status": "confirmed",
+      "summary": "Funeral of Queen Elizabeth II",
+      "region": "Papua New Guinea",
+      "date": "2022-09-19"
+    },
+    {
       "id": "20221225_tptn6iu3fdi9vm2g2dkf888ueg",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -66528,13 +66556,6 @@
       "summary": "Whit Monday",
       "region": "British Virgin Islands",
       "date": "2023-05-29"
-    },
-    {
-      "id": "20230610_8v0l0k09qumoe0i47o492aj5do",
-      "status": "confirmed",
-      "summary": "Sovereign's Birthday",
-      "region": "British Virgin Islands",
-      "date": "2023-06-10"
     },
     {
       "id": "20230630_e5aj5m1tf2dquh8vh5041017us",
