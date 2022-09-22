@@ -3311,9 +3311,9 @@
       "date": "2022-06-06"
     },
     {
-      "id": "20220613_ddghgf1jl41maesm95jloticcg",
+      "id": "20220613_ajgear9daaip4adsvatoeoujgs",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday (regional holiday)",
+      "summary": "Queen's Birthday (regional holiday)",
       "region": "Australia",
       "date": "2022-06-13"
     },
@@ -3367,9 +3367,9 @@
       "date": "2022-09-23"
     },
     {
-      "id": "20220926_9qouk1mt202dr2eooi7t69vpl8",
+      "id": "20220926_dsjruo3vg7u5cb4q5evqdfs964",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday (Western Australia)",
+      "summary": "King's Birthday (Western Australia)",
       "region": "Australia",
       "date": "2022-09-26"
     },
@@ -3388,9 +3388,9 @@
       "date": "2022-10-03"
     },
     {
-      "id": "20221003_le1usomg89aavsri2ag38gpvcs",
+      "id": "20221003_fvdr89a8l3fc4b5aofq6r05ouk",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday (Queensland)",
+      "summary": "Queen's Birthday (Queensland)",
       "region": "Australia",
       "date": "2022-10-03"
     },
@@ -3696,6 +3696,13 @@
       "date": "2023-06-05"
     },
     {
+      "id": "20230612_2sg853ijd7el9juqvpubricrb0",
+      "status": "confirmed",
+      "summary": "King's Birthday (regional holiday)",
+      "region": "Australia",
+      "date": "2023-06-12"
+    },
+    {
       "id": "20230629_u40ien98ghvcmeqrkv6vu9bshk",
       "status": "confirmed",
       "summary": "Hari Raya Haji (regional holiday)",
@@ -3722,6 +3729,13 @@
       "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
       "region": "Australia",
       "date": "2023-08-16"
+    },
+    {
+      "id": "20230925_lt89fbgt6hjc697g0skb142nlg",
+      "status": "confirmed",
+      "summary": "King's Birthday (Western Australia)",
+      "region": "Australia",
+      "date": "2023-09-25"
     },
     {
       "id": "20230927_g1fv3goolmlkod7bpg1k85vmlg",
@@ -63901,6 +63915,13 @@
       "summary": "Spring Bank Holiday",
       "region": "United Kingdom",
       "date": "2023-05-29"
+    },
+    {
+      "id": "20230612_44pdqijvm01omkhqm2iah4tfks",
+      "status": "confirmed",
+      "summary": "King's Birthday",
+      "region": "United Kingdom",
+      "date": "2023-06-12"
     },
     {
       "id": "20230618_bbcl76ltq13dmcqqkc1ml1dcq4",
