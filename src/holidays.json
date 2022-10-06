@@ -6435,11 +6435,11 @@
       "date": "2022-08-15"
     },
     {
-      "id": "20221008_1snaevr4er8kcla67ishlsjis0",
+      "id": "20221009_9eqk3ff770l28dtq75001t7po8",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Burkina Faso",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
     },
     {
       "id": "20221031_cr5mdeq6s5g737lm592j79qa0g",
@@ -6701,6 +6701,13 @@
       "summary": "The Prophet's Birthday",
       "region": "Bahrain",
       "date": "2022-10-08"
+    },
+    {
+      "id": "20221009_0o1eqsbev58ro81darsvvelgvo",
+      "status": "confirmed",
+      "summary": "Day off for The Prophet's Birthday",
+      "region": "Bahrain",
+      "date": "2022-10-09"
     },
     {
       "id": "20221216_e20grbkqsg16d49u47ckur6j2g",
@@ -50938,6 +50945,13 @@
       "summary": "Boqueron Battle Victory Day",
       "region": "Paraguay",
       "date": "2022-10-03"
+    },
+    {
+      "id": "20221109_9toitrn5eojf971sgrop75tum4",
+      "status": "confirmed",
+      "summary": "Census Day",
+      "region": "Paraguay",
+      "date": "2022-11-09"
     },
     {
       "id": "20221208_hqas73j84f4o949bnjq25c8o3o",
