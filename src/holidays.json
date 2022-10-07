@@ -18900,11 +18900,11 @@
       "date": "2022-10-06"
     },
     {
-      "id": "20221009_6j5snetdhop7f9a8afstfna0a0",
+      "id": "20221008_me9ofj7r483nvsn1hv67gkrd10",
       "status": "confirmed",
       "summary": "Prophet Mohamed's Birthday",
       "region": "Egypt",
-      "date": "2022-10-09"
+      "date": "2022-10-08"
     },
     {
       "id": "20230107_ao6lf5glb3jifmjdrrkua3k2v8",
@@ -19811,11 +19811,11 @@
       "date": "2022-10-07"
     },
     {
-      "id": "20221008_er5b09luoeurpqo8l2730cedok",
+      "id": "20221009_0h8411tmtgknot6dq20u12p5i0",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Fiji",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
     },
     {
       "id": "20221010_8u85l8cnmsrhv132ui9h0vhs8c",
@@ -36480,6 +36480,13 @@
       "summary": "Independence Day",
       "region": "Lesotho",
       "date": "2022-10-04"
+    },
+    {
+      "id": "20221007_idt0guh3oqvdraj3ivdjm11ktc",
+      "status": "confirmed",
+      "summary": "Election Day Holiday",
+      "region": "Lesotho",
+      "date": "2022-10-07"
     },
     {
       "id": "20221225_6kridl11nkvuetl1k0nj1oshqo",
@@ -56757,7 +56764,7 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_1oba8nfg3tauovhq7m2nbseobg",
+      "id": "20221226_aipc9063dlrtlmvk5h49fkafhk",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
@@ -56869,6 +56876,13 @@
       "date": "2023-03-06"
     },
     {
+      "id": "20230319_0u6ahecdgoijn3vk1o7dnuoi70",
+      "status": "confirmed",
+      "summary": "San Jose (Madrid)",
+      "region": "Spain",
+      "date": "2023-03-19"
+    },
+    {
       "id": "20230319_gl72m4gam4kbgemoglv9ks6cc4",
       "status": "confirmed",
       "summary": "Father's Day",
@@ -56876,11 +56890,11 @@
       "date": "2023-03-19"
     },
     {
-      "id": "20230319_j3quqf8ioeb4ht1lt4dnl33vco",
+      "id": "20230320_sv2p42jfq0j3i25en1htht235k",
       "status": "confirmed",
-      "summary": "San Jose (Valencia)",
+      "summary": "Day off for San Jose (Madrid)",
       "region": "Spain",
-      "date": "2023-03-19"
+      "date": "2023-03-20"
     },
     {
       "id": "20230326_mgvq344ek028f7f6sumd5bp7fk",
@@ -57282,7 +57296,7 @@
       "date": "2023-12-25"
     },
     {
-      "id": "20231226_7lo0tujb4b27iskika8eik3ml0",
+      "id": "20231226_r9d3ct8rf99d2oq5oebkdqjb70",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
@@ -58990,6 +59004,13 @@
       "date": "2022-08-01"
     },
     {
+      "id": "20221004_pjmj0oha0ehuohmivk8eib06l4",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time ends",
+      "region": "Syria",
+      "date": "2022-10-04"
+    },
+    {
       "id": "20221006_53hhpbgihnae62huotpdk4pia8",
       "status": "confirmed",
       "summary": "October Liberation Day",
@@ -59002,13 +59023,6 @@
       "summary": "The Prophet's Birthday",
       "region": "Syria",
       "date": "2022-10-08"
-    },
-    {
-      "id": "20221028_597v10epangobohldmdg56b9r8",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time ends",
-      "region": "Syria",
-      "date": "2022-10-28"
     },
     {
       "id": "20221225_ptj42iobksbmttm95aogs4jptg",
@@ -59037,13 +59051,6 @@
       "summary": "Mothers' Day",
       "region": "Syria",
       "date": "2023-03-21"
-    },
-    {
-      "id": "20230331_sdi5cocb8hcl7pplljhinl00ks",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Syria",
-      "date": "2023-03-31"
     },
     {
       "id": "20230409_s7mf6vg318ga4untjdkm57d08c",
@@ -59121,13 +59128,6 @@
       "summary": "October Liberation Day",
       "region": "Syria",
       "date": "2023-10-06"
-    },
-    {
-      "id": "20231027_h7vtkicro3g7nm7tedsmqnad50",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time ends",
-      "region": "Syria",
-      "date": "2023-10-27"
     },
     {
       "id": "20231225_lpaituj5bued86ldjcb54356d0",
