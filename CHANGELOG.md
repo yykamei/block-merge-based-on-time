@@ -1,5 +1,20 @@
 # Changelog
 
+## [v2.0.67](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.67) (2022-10-08)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.66...v2.0.67)
+
+**Implemented enhancements:**
+
+- Update Holidays [\#967](https://github.com/yykamei/block-merge-based-on-time/pull/967) ([github-actions[bot]](https://github.com/apps/github-actions))
+
+**Merged pull requests:**
+
+- Bump @typescript-eslint/parser from 5.38.1 to 5.39.0 [\#966](https://github.com/yykamei/block-merge-based-on-time/pull/966) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 5.38.1 to 5.39.0 [\#965](https://github.com/yykamei/block-merge-based-on-time/pull/965) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @actions/github from 5.1.0 to 5.1.1 [\#964](https://github.com/yykamei/block-merge-based-on-time/pull/964) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 18.7.23 to 18.8.3 [\#963](https://github.com/yykamei/block-merge-based-on-time/pull/963) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.0.66](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.66) (2022-10-06)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.65...v2.0.66)
