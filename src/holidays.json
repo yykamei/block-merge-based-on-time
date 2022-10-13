@@ -3444,7 +3444,7 @@
       "date": "2022-11-11"
     },
     {
-      "id": "20221224_1jq24gbu4oe8ln0lbpo5ro68vo",
+      "id": "20221224_vjb58l8b57tpipupi8rn33gbck",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3500,7 +3500,7 @@
       "date": "2022-12-27"
     },
     {
-      "id": "20221231_5fnj7c6k5cgnmdt0m4q9521nck",
+      "id": "20221231_5n8oda639qgcehmurbjnj3lguo",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -3619,7 +3619,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_kmf23o7r1gu7iema5nvhjkite0",
+      "id": "20230409_gi3s397tdfb9t1cqnc0ne8ba2c",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3680,6 +3680,13 @@
       "summary": "May Day (Northern Territory)",
       "region": "Australia",
       "date": "2023-05-01"
+    },
+    {
+      "id": "20230506_0gf0ti7a78a9kogd6ev5j204ss",
+      "status": "confirmed",
+      "summary": "The Coronation of King Charles III",
+      "region": "Australia",
+      "date": "2023-05-06"
     },
     {
       "id": "20230529_vposfo9fb16ae26l9qtdbmcluo",
@@ -3808,7 +3815,7 @@
       "date": "2023-11-11"
     },
     {
-      "id": "20231224_m4oscvukqsa0d0v84l45f9cp3o",
+      "id": "20231224_casiql9vr1r1t535t4gujpkel8",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -7162,11 +7169,18 @@
       "date": "2022-08-15"
     },
     {
-      "id": "20221008_af12n42vfg13sht9o3t3lgu0kk",
+      "id": "20221007_ousp5r8ev4csemf53lr6q4qb34",
+      "status": "confirmed",
+      "summary": "Day off for Maouloud",
+      "region": "Benin",
+      "date": "2022-10-07"
+    },
+    {
+      "id": "20221009_19bijh58c6nsiqnkj94ht1og0k",
       "status": "confirmed",
       "summary": "Maouloud",
       "region": "Benin",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
     },
     {
       "id": "20221101_v2e3s8vpjj0h3oq4gbjn67uhc8",
@@ -8985,6 +8999,13 @@
       "summary": "Emancipation Day",
       "region": "Bahamas",
       "date": "2022-08-01"
+    },
+    {
+      "id": "20220919_nfcqlgcd5b39ktfc5omvqfqmcg",
+      "status": "confirmed",
+      "summary": "Funeral of Queen Elizabeth II",
+      "region": "Bahamas",
+      "date": "2022-09-19"
     },
     {
       "id": "20221010_lnsf79jsllf6r21qr41qh9at94",
@@ -23710,6 +23731,13 @@
       "date": "2022-10-08"
     },
     {
+      "id": "20221010_ma5o1287ei5a6b1m3e49p45ogk",
+      "status": "confirmed",
+      "summary": "Day off for The Prophet's Birthday",
+      "region": "Gambia",
+      "date": "2022-10-10"
+    },
+    {
       "id": "20221225_7r9obq1g5t6cae395vop9tnc80",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -25476,11 +25504,18 @@
       "date": "2022-08-01"
     },
     {
-      "id": "20221008_67bq49pa8os3s8jcstd121cpek",
+      "id": "20221009_kr4buustdoot1ujvvgc1fd8nmc",
       "status": "confirmed",
       "summary": "Youman-Nabi (Mawlid)",
       "region": "Guyana",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
+    },
+    {
+      "id": "20221010_ij8n00k8vg88laid4ffdkrli4o",
+      "status": "confirmed",
+      "summary": "Day off for Youman-Nabi (Mawlid)",
+      "region": "Guyana",
+      "date": "2022-10-10"
     },
     {
       "id": "20221024_dk4cd2glt7ah77qj2ddhbopcns",
@@ -28665,11 +28700,11 @@
       "date": "2022-10-04"
     },
     {
-      "id": "20221013_dkkc3h1bkrg2rorcal1t2habak",
+      "id": "20221009_fce5pg8gqbgsv8euq8t4us1r5o",
       "status": "confirmed",
       "summary": "Birthday of Prophet Muhammad and Imam Sadeq",
       "region": "Iran",
-      "date": "2022-10-13"
+      "date": "2022-10-09"
     },
     {
       "id": "20230204_er7irfc3j0jlhfbi3t5r2leppc",
@@ -31411,6 +31446,13 @@
       "summary": "Inauguration Day",
       "region": "Kenya",
       "date": "2022-09-13"
+    },
+    {
+      "id": "20221010_m8mu6pf01v3lfqdflk5ll2q150",
+      "status": "confirmed",
+      "summary": "Utamaduni Day",
+      "region": "Kenya",
+      "date": "2022-10-10"
     },
     {
       "id": "20221010_n4k9fgp1aeno22ompturs024s4",
@@ -35939,16 +35981,16 @@
       "date": "2022-09-19"
     },
     {
-      "id": "20221008_vcnt22888vg74mqabqmtps4ouc",
-      "status": "confirmed",
-      "summary": "Milad-Un-Nabi (Holy Prophet's Birthday)",
-      "region": "Sri Lanka",
-      "date": "2022-10-08"
-    },
-    {
       "id": "20221009_ec67uki5pa9s5iut93c5tp5ijo",
       "status": "confirmed",
       "summary": "Vap Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2022-10-09"
+    },
+    {
+      "id": "20221009_edudprfunuq8r6snorb8r95jq0",
+      "status": "confirmed",
+      "summary": "Milad-Un-Nabi (Holy Prophet's Birthday)",
       "region": "Sri Lanka",
       "date": "2022-10-09"
     },
@@ -42638,6 +42680,13 @@
       "summary": "Emancipation Day",
       "region": "Montserrat",
       "date": "2022-08-01"
+    },
+    {
+      "id": "20220919_2lugjsfj0lcuhuji3pgleqcm8o",
+      "status": "confirmed",
+      "summary": "Queen Elizabeth II's Funeral Day",
+      "region": "Montserrat",
+      "date": "2022-09-19"
     },
     {
       "id": "20221225_l8t6vmrpes0i9a3l9g39laeop8",
@@ -54580,6 +54629,13 @@
       "date": "2022-10-08"
     },
     {
+      "id": "20221010_a9h5ejja4btlqfh2rl7fv926r4",
+      "status": "confirmed",
+      "summary": "Day off for The Prophet's Birthday",
+      "region": "Sierra Leone",
+      "date": "2022-10-10"
+    },
+    {
       "id": "20221225_g285f5ka3splfp58vv1d4q8lpc",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -56764,7 +56820,7 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_aipc9063dlrtlmvk5h49fkafhk",
+      "id": "20221226_1oba8nfg3tauovhq7m2nbseobg",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
@@ -56876,6 +56932,13 @@
       "date": "2023-03-06"
     },
     {
+      "id": "20230313_pv3mphsvhfghva1o18hq2n9jac",
+      "status": "confirmed",
+      "summary": "Statute of the Autonomous City of Melilla Day (Melilla)",
+      "region": "Spain",
+      "date": "2023-03-13"
+    },
+    {
       "id": "20230319_0u6ahecdgoijn3vk1o7dnuoi70",
       "status": "confirmed",
       "summary": "San Jose (Madrid)",
@@ -56911,7 +56974,7 @@
       "date": "2023-04-02"
     },
     {
-      "id": "20230406_el58jj0rja5vjmrehts7bjtq58",
+      "id": "20230406_tbam580q3f64otvbh11l4p2jj4",
       "status": "confirmed",
       "summary": "Maundy Thursday (regional holiday)",
       "region": "Spain",
@@ -56944,6 +57007,13 @@
       "summary": "Sermon of the Tortillas (Teruel)",
       "region": "Spain",
       "date": "2023-04-14"
+    },
+    {
+      "id": "20230422_8krc54ekase70vmbd9t12toens",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr (Melilla)",
+      "region": "Spain",
+      "date": "2023-04-22"
     },
     {
       "id": "20230423_99a0qkp95o4na07nnrd8la4dn0",
@@ -57065,7 +57135,7 @@
       "date": "2023-06-09"
     },
     {
-      "id": "20230613_e891o25i5apddf2d1q345ropj0",
+      "id": "20230613_5p44848t6fe540rq1clo38dt2k",
       "status": "confirmed",
       "summary": "San Antonio (Ceuta)",
       "region": "Spain",
@@ -57142,13 +57212,6 @@
       "date": "2023-08-19"
     },
     {
-      "id": "20230902_nb7odc2tmf6nu6fugbrrmmgkfs",
-      "status": "confirmed",
-      "summary": "Day of the Independent City of Ceuta (Ceuta)",
-      "region": "Spain",
-      "date": "2023-09-02"
-    },
-    {
       "id": "20230908_avksnbt07lbq177ruefr2ep5h0",
       "status": "confirmed",
       "summary": "Day of Asturias (Asturias)",
@@ -57189,13 +57252,6 @@
       "summary": "Nuestra Señora de la Bien Aparecida (Cantabria)",
       "region": "Spain",
       "date": "2023-09-15"
-    },
-    {
-      "id": "20230917_g4e97skbmqf2r79pr5rlibk4uc",
-      "status": "confirmed",
-      "summary": "Day of Melilla (Melilla)",
-      "region": "Spain",
-      "date": "2023-09-17"
     },
     {
       "id": "20230923_lchhe2s8fvjh5mamb1l76brg60",
@@ -57296,7 +57352,7 @@
       "date": "2023-12-25"
     },
     {
-      "id": "20231226_r9d3ct8rf99d2oq5oebkdqjb70",
+      "id": "20231226_7lo0tujb4b27iskika8eik3ml0",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
@@ -57401,6 +57457,13 @@
       "summary": "Indigenous Peoples Day",
       "region": "Suriname",
       "date": "2022-08-09"
+    },
+    {
+      "id": "20220919_pa4jrqfpdnv560vd6pv3u4hpe0",
+      "status": "confirmed",
+      "summary": "260th anniversary of the Saramaccan Day",
+      "region": "Suriname",
+      "date": "2022-09-19"
     },
     {
       "id": "20221010_afp9fv9a8ddutt2bsuj8uskeag",
@@ -63388,11 +63451,11 @@
       "date": "2022-08-23"
     },
     {
-      "id": "20221008_dl5e8khb104lglk2npf9p4mlfg",
+      "id": "20221009_6q2hhvdjef3fnu89qi5uestoao",
       "status": "confirmed",
       "summary": "Maulid",
       "region": "Tanzania",
-      "date": "2022-10-08"
+      "date": "2022-10-09"
     },
     {
       "id": "20221014_i98q302e9f33a0qf9onv0dteho",
@@ -66241,13 +66304,6 @@
       "date": "2022-03-01"
     },
     {
-      "id": "20220319_bjl52qpovbqr0tsdrk3phn7224",
-      "status": "confirmed",
-      "summary": "Saint Joseph's Day",
-      "region": "Venezuela",
-      "date": "2022-03-19"
-    },
-    {
       "id": "20220410_jn9aghad4llmk8o4k5mion31uc",
       "status": "confirmed",
       "summary": "Palm Sunday",
@@ -66740,6 +66796,13 @@
       "date": "2023-01-02"
     },
     {
+      "id": "20230306_u18pns494633782f5sbilsh5l0",
+      "status": "confirmed",
+      "summary": "Lavity Stoutt's Birthday observed",
+      "region": "British Virgin Islands",
+      "date": "2023-03-06"
+    },
+    {
       "id": "20230307_jn5q51nanjeg9kos6hlfr5hfgc",
       "status": "confirmed",
       "summary": "Lavity Stoutt's Birthday",
@@ -66768,18 +66831,18 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230630_e5aj5m1tf2dquh8vh5041017us",
+      "id": "20230609_c4le872jnlnnahtmpfe70mdgj8",
       "status": "confirmed",
-      "summary": "Virgin Islands Day observed",
+      "summary": "Sovereign's Birthday",
       "region": "British Virgin Islands",
-      "date": "2023-06-30"
+      "date": "2023-06-09"
     },
     {
-      "id": "20230701_9ggu96n9d6fl98alhdqik7s0es",
+      "id": "20230703_c4mfmp7vbkoi7rvhbplronj3jc",
       "status": "confirmed",
       "summary": "Virgin Islands Day",
       "region": "British Virgin Islands",
-      "date": "2023-07-01"
+      "date": "2023-07-03"
     },
     {
       "id": "20230807_rnohcjs9eiu9mabqmcr7lfv4qo",
@@ -66817,11 +66880,11 @@
       "date": "2023-10-21"
     },
     {
-      "id": "20231113_de60bf16aduaghcj7lcsu4ko28",
+      "id": "20231128_f16akivqbd0oi13v8ns6l5e4f0",
       "status": "confirmed",
       "summary": "The Great March of 1949 and Restoration Day",
       "region": "British Virgin Islands",
-      "date": "2023-11-13"
+      "date": "2023-11-28"
     },
     {
       "id": "20231225_rqaq0v4nokc3jnfrk1gtp4r5gk",
