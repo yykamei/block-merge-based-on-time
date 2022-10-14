@@ -28003,11 +28003,11 @@
       "date": "2022-10-02"
     },
     {
-      "id": "20221009_b3b8cui89aaqecm446nlos9oac",
+      "id": "20221008_9t1ndp0cuejcsi4h2b5u692tao",
       "status": "confirmed",
       "summary": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
       "region": "Indonesia",
-      "date": "2022-10-09"
+      "date": "2022-10-08"
     },
     {
       "id": "20221024_nbguvulr5ediirvl1fskcptecs",
@@ -28066,18 +28066,39 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230123_se1nh53pl0bqpkmtkbkamnb8cg",
+      "id": "20230122_896fe2b97c18qkm51aodnb1774",
       "status": "confirmed",
       "summary": "Lunar New Year's Day",
+      "region": "Indonesia",
+      "date": "2023-01-22"
+    },
+    {
+      "id": "20230123_l9ds57m6tgh6o0b91jr0dmp28s",
+      "status": "confirmed",
+      "summary": "Lunar New Year Joint Holiday",
       "region": "Indonesia",
       "date": "2023-01-23"
     },
     {
-      "id": "20230219_a57lp32ckqoqou31vir2i83g4k",
+      "id": "20230218_uqmo242k25kj092e9mts5ambds",
       "status": "confirmed",
       "summary": "Ascension of the Prophet Muhammad",
       "region": "Indonesia",
-      "date": "2023-02-19"
+      "date": "2023-02-18"
+    },
+    {
+      "id": "20230322_7qrpfoda2qm9ka8e61l7auncpc",
+      "status": "confirmed",
+      "summary": "Bali's Day of Silence and Hindu New Year (Nyepi)",
+      "region": "Indonesia",
+      "date": "2023-03-22"
+    },
+    {
+      "id": "20230323_kh66m7vjajoeere0ronkgqp5h8",
+      "status": "confirmed",
+      "summary": "Joint Holiday for Bali's Day of Silence and Hindu New Year (Nyepi)",
+      "region": "Indonesia",
+      "date": "2023-03-23"
     },
     {
       "id": "20230407_26f1vgjvkor2odo23l39fh1tmg",
@@ -28101,6 +28122,13 @@
       "date": "2023-04-21"
     },
     {
+      "id": "20230421_54m8v2pqp2c9lg47h5qkrarv88",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2023-04-21"
+    },
+    {
       "id": "20230422_e04qos5airc2728vnfg7q29nk8",
       "status": "confirmed",
       "summary": "Idul Fitri",
@@ -28113,6 +28141,27 @@
       "summary": "Idul Fitri Holiday",
       "region": "Indonesia",
       "date": "2023-04-23"
+    },
+    {
+      "id": "20230424_s3tuq8d4tqpbeknvl0aingqbt4",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2023-04-24"
+    },
+    {
+      "id": "20230425_j5fs092l935c71kuf0muvc5d64",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2023-04-25"
+    },
+    {
+      "id": "20230426_m2n3e49i6arm7qt6r010dafl0s",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2023-04-26"
     },
     {
       "id": "20230501_ajkjmobcg10ab6otbi5pcv0l90",
@@ -28136,6 +28185,20 @@
       "date": "2023-06-01"
     },
     {
+      "id": "20230602_lqv964p70bd5i8q012dgm90ae8",
+      "status": "confirmed",
+      "summary": "Joint Holiday before Waisak Day",
+      "region": "Indonesia",
+      "date": "2023-06-02"
+    },
+    {
+      "id": "20230604_3damjesc9ek7dom9gql36r0qf8",
+      "status": "confirmed",
+      "summary": "Waisak Day (Buddha's Anniversary)",
+      "region": "Indonesia",
+      "date": "2023-06-04"
+    },
+    {
       "id": "20230629_fni44up1c05bjurnk3p62jvbas",
       "status": "confirmed",
       "summary": "Idul Adha",
@@ -28143,11 +28206,11 @@
       "date": "2023-06-29"
     },
     {
-      "id": "20230720_157svu4cddadqijgl193eo134s",
+      "id": "20230719_r092n0avaov709gtt1r0gl2ja0",
       "status": "confirmed",
       "summary": "Muharram / Islamic New Year",
       "region": "Indonesia",
-      "date": "2023-07-20"
+      "date": "2023-07-19"
     },
     {
       "id": "20230817_a535sjhtg2fkg8g6o8ekrkfpjc",
@@ -28211,6 +28274,13 @@
       "summary": "Christmas Day",
       "region": "Indonesia",
       "date": "2023-12-25"
+    },
+    {
+      "id": "20231226_lg3d7n89p7u3v7k1r9caaevt54",
+      "status": "confirmed",
+      "summary": "Boxing Day",
+      "region": "Indonesia",
+      "date": "2023-12-26"
     },
     {
       "id": "20231231_hpe5sree5dm2icao0af6ploum4",
@@ -37554,6 +37624,13 @@
       "date": "2022-10-09"
     },
     {
+      "id": "20221010_3a5aj8qct5uq5um5c6ddpuq8ps",
+      "status": "confirmed",
+      "summary": "The Prophet Muhammad's Birthday Holiday (regional holiday)",
+      "region": "Malaysia",
+      "date": "2022-10-10"
+    },
+    {
       "id": "20221024_q8apldaqm230bbovls7ur18ku8",
       "status": "confirmed",
       "summary": "Diwali/Deepavali (regional holiday)",
@@ -37988,7 +38065,7 @@
       "date": "2023-12-11"
     },
     {
-      "id": "20231224_agfnrlu5nh8g229mqbb074ud8c",
+      "id": "20231224_78o80f90njj7dj9desikq5ti90",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
@@ -45162,6 +45239,13 @@
       "summary": "ANZAC Day",
       "region": "New Zealand",
       "date": "2023-04-25"
+    },
+    {
+      "id": "20230506_2ts5o3lt87bp8h7mvsrcr5lo7c",
+      "status": "confirmed",
+      "summary": "The Coronation of King Charles III",
+      "region": "New Zealand",
+      "date": "2023-05-06"
     },
     {
       "id": "20230514_5ppoj8adcg2ambjbhhfgea3kdk",
@@ -64204,6 +64288,13 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230506_cqolsfib7u0ug6ceehcc6v6da0",
+      "status": "confirmed",
+      "summary": "The Coronation of King Charles III",
+      "region": "United Kingdom",
+      "date": "2023-05-06"
+    },
+    {
       "id": "20230529_rivajv0kua9dnrhdr2n3iru7eg",
       "status": "confirmed",
       "summary": "Spring Bank Holiday",
@@ -67661,6 +67752,13 @@
       "summary": "Constitution Day",
       "region": "Vanuatu",
       "date": "2022-10-05"
+    },
+    {
+      "id": "20221013_mtkmc57632uq47tqlh3gs6fbts",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Vanuatu",
+      "date": "2022-10-13"
     },
     {
       "id": "20221129_0j6oevtjsujh9f7a9otralqm0g",
