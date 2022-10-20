@@ -23272,11 +23272,11 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230313_f9eqipoq79hftib0l4vv7qp85g",
+      "id": "20230220_26i40lokluntoelb9qd4sgi0ks",
       "status": "confirmed",
-      "summary": "Commonwealth Day",
+      "summary": "Winter Midterm Bank Holiday",
       "region": "Gibraltar",
-      "date": "2023-03-13"
+      "date": "2023-02-20"
     },
     {
       "id": "20230326_mugpftkids1dcudequr5p0l718",
@@ -23321,18 +23321,18 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230508_iq9tjv9i8b46fdmem3pg79vc7c",
+      "status": "confirmed",
+      "summary": "Special King's Coronation Bank Holiday",
+      "region": "Gibraltar",
+      "date": "2023-05-08"
+    },
+    {
       "id": "20230529_eranct48ulh1difus170mbl2nc",
       "status": "confirmed",
       "summary": "Spring Bank Holiday",
       "region": "Gibraltar",
       "date": "2023-05-29"
-    },
-    {
-      "id": "20230619_6gdjqadont4p4ktblo8sanps3c",
-      "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
-      "region": "Gibraltar",
-      "date": "2023-06-19"
     },
     {
       "id": "20230828_74njic9ui0rpmu4405r5846j5s",
@@ -46775,6 +46775,13 @@
       "date": "2022-10-07"
     },
     {
+      "id": "20221018_kavvrk5v323qouf74nsqhbja3c",
+      "status": "confirmed",
+      "summary": "National Mourning Day",
+      "region": "Nepal",
+      "date": "2022-10-18"
+    },
+    {
       "id": "20221024_5527m5isrr2t4soa08hb7o1ok0",
       "status": "confirmed",
       "summary": "Laxmi Puja (Tihar)",
@@ -64302,11 +64309,11 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230612_44pdqijvm01omkhqm2iah4tfks",
+      "id": "20230610_a2dr7piglc8t3ef7nic5qip0fk",
       "status": "confirmed",
       "summary": "King's Birthday",
       "region": "United Kingdom",
-      "date": "2023-06-12"
+      "date": "2023-06-10"
     },
     {
       "id": "20230618_bbcl76ltq13dmcqqkc1ml1dcq4",
