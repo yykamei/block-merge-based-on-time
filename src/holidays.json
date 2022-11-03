@@ -38002,11 +38002,11 @@
       "date": "2023-09-16"
     },
     {
-      "id": "20230927_ed5v1lon82o0vdk6dkae7lhoao",
+      "id": "20230928_rse44h6g6s0j0nipjkqrfof2cg",
       "status": "confirmed",
       "summary": "The Prophet Muhammad's Birthday",
       "region": "Malaysia",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231007_vlpcsdap9k75b5rfrmkncuj5lg",
@@ -56216,6 +56216,13 @@
       "date": "2022-09-11"
     },
     {
+      "id": "20220912_lvr7vr1h78753bqiqh7ihq5bdc",
+      "status": "confirmed",
+      "summary": "Chuseok Holiday",
+      "region": "South Korea",
+      "date": "2022-09-12"
+    },
+    {
       "id": "20221001_oiimdrmsrncm4qdq2rpeuc7dnk",
       "status": "confirmed",
       "summary": "Armed Forces Day",
@@ -56235,6 +56242,13 @@
       "summary": "Hangeul Proclamation Day",
       "region": "South Korea",
       "date": "2022-10-09"
+    },
+    {
+      "id": "20221010_qu58eucf12rg0074e0ugirlhdk",
+      "status": "confirmed",
+      "summary": "Day off for Hangeul Proclamation Day",
+      "region": "South Korea",
+      "date": "2022-10-10"
     },
     {
       "id": "20221224_83e5s5i9s4tt8sn7v62asd713k",
@@ -57107,13 +57121,6 @@
       "date": "2023-04-22"
     },
     {
-      "id": "20230423_99a0qkp95o4na07nnrd8la4dn0",
-      "status": "confirmed",
-      "summary": "Castile and León Day (Castile-Leon)",
-      "region": "Spain",
-      "date": "2023-04-23"
-    },
-    {
       "id": "20230423_lvfrkb48sjultbri3cba0m8gh4",
       "status": "confirmed",
       "summary": "Day of Aragón (Aragon)",
@@ -57131,13 +57138,6 @@
       "id": "20230424_jq10svib51r00m7lgpha355bh8",
       "status": "confirmed",
       "summary": "Day off for Day of Aragón (Aragon)",
-      "region": "Spain",
-      "date": "2023-04-24"
-    },
-    {
-      "id": "20230424_m99t2avcmo7k3atiuq4kj6d6no",
-      "status": "confirmed",
-      "summary": "Day off for Castile and León Day (Castile-Leon)",
       "region": "Spain",
       "date": "2023-04-24"
     },
@@ -57394,20 +57394,6 @@
       "date": "2023-11-09"
     },
     {
-      "id": "20231203_qgtdeov2dfang67ad3otpgcbbk",
-      "status": "confirmed",
-      "summary": "Day of Navarre (Navarre)",
-      "region": "Spain",
-      "date": "2023-12-03"
-    },
-    {
-      "id": "20231204_kno9pnu06s4qovj1uf1qbp8pps",
-      "status": "confirmed",
-      "summary": "Day off for Day of Navarre (Navarre)",
-      "region": "Spain",
-      "date": "2023-12-04"
-    },
-    {
       "id": "20231206_nfhfbh01mi66lguf91ea3q5plg",
       "status": "confirmed",
       "summary": "Constitution Day",
@@ -57443,7 +57429,7 @@
       "date": "2023-12-25"
     },
     {
-      "id": "20231226_7lo0tujb4b27iskika8eik3ml0",
+      "id": "20231226_r9d3ct8rf99d2oq5oebkdqjb70",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
