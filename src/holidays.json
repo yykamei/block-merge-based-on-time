@@ -56216,9 +56216,9 @@
       "date": "2022-09-11"
     },
     {
-      "id": "20220912_lvr7vr1h78753bqiqh7ihq5bdc",
+      "id": "20220912_eeahbf3nenmanl5vapgmq8r53o",
       "status": "confirmed",
-      "summary": "Chuseok Holiday",
+      "summary": "Day off for Chuseok Holiday",
       "region": "South Korea",
       "date": "2022-09-12"
     },
@@ -56396,6 +56396,13 @@
       "summary": "Armed Forces Day",
       "region": "South Korea",
       "date": "2023-10-01"
+    },
+    {
+      "id": "20231002_1tvshfu9ii0um2e3pmf0ne0umk",
+      "status": "confirmed",
+      "summary": "Day off for Chuseok Holiday",
+      "region": "South Korea",
+      "date": "2023-10-02"
     },
     {
       "id": "20231003_7bmdohm8k28usd7h5g9o8hfbhc",
