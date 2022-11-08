@@ -8029,6 +8029,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230102_o1q2mht41kb1jjoltudaulmqv4",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Brunei",
+      "date": "2023-01-02"
+    },
+    {
       "id": "20230122_3d8a3r6lgvck0bnfg9gf3ilhl0",
       "status": "confirmed",
       "summary": "Lunar New Year",
@@ -8085,18 +8092,18 @@
       "date": "2023-04-23"
     },
     {
-      "id": "20230424_o3ukj5io55lskjem8c8p3ugivo",
-      "status": "confirmed",
-      "summary": "Eid Al Fitr Holiday observed",
-      "region": "Brunei",
-      "date": "2023-04-24"
-    },
-    {
       "id": "20230424_t78fssdl0968hs2maerptuo2eo",
       "status": "confirmed",
       "summary": "Eid Al Fitr Holiday",
       "region": "Brunei",
       "date": "2023-04-24"
+    },
+    {
+      "id": "20230425_pnlame42ct7mr9cp3m7c1acvqc",
+      "status": "confirmed",
+      "summary": "Day off for Eid Al Fitr Holiday",
+      "region": "Brunei",
+      "date": "2023-04-25"
     },
     {
       "id": "20230531_ik4ur9be2p3g5i27l6389av8n8",
@@ -8127,11 +8134,11 @@
       "date": "2023-07-19"
     },
     {
-      "id": "20230927_joj3uj1ekoot1cpv5t5v4sf1gs",
+      "id": "20230928_p9jvpuk6k1td1dsu27hebtf71k",
       "status": "confirmed",
       "summary": "Milad un Nabi (Mawlid)",
       "region": "Brunei",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231225_107c9oheq59grjsf9mo33452f8",
