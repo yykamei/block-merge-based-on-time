@@ -33853,6 +33853,13 @@
       "date": "2022-08-30"
     },
     {
+      "id": "20221025_ekl3kepor2rp8spk3si1d6ji8c",
+      "status": "confirmed",
+      "summary": "Republic Day",
+      "region": "Kazakhstan",
+      "date": "2022-10-25"
+    },
+    {
       "id": "20221201_p46663q3leh6v8hlrvjgl8u7ug",
       "status": "confirmed",
       "summary": "Day of the First President of the Republic of Kazakhstan",
@@ -33991,6 +33998,13 @@
       "summary": "Constitution Day",
       "region": "Kazakhstan",
       "date": "2023-08-30"
+    },
+    {
+      "id": "20231025_iqaamn55d5lreqt7s1vfh1hknc",
+      "status": "confirmed",
+      "summary": "Republic Day",
+      "region": "Kazakhstan",
+      "date": "2023-10-25"
     },
     {
       "id": "20231201_lut7u8gadi9flhkdu7kummedf4",
@@ -36408,6 +36422,13 @@
       "summary": "Thanksgiving",
       "region": "Liberia",
       "date": "2022-11-03"
+    },
+    {
+      "id": "20221111_kv8c8s5u5bumod3p7ukh94imkc",
+      "status": "confirmed",
+      "summary": "National Census Day",
+      "region": "Liberia",
+      "date": "2022-11-11"
     },
     {
       "id": "20221129_9jg345d39j7m0mm4733s9tvc3g",
@@ -47120,9 +47141,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220103_obotoosqjtgl32hm5jc3cblnh0",
+      "id": "20220103_dqp53vas9e6d4h77pfue3q3qc4",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Nauru",
       "date": "2022-01-03"
     },
@@ -47190,6 +47211,13 @@
       "date": "2022-08-19"
     },
     {
+      "id": "20220912_loff4nvmhgqihj5eiu722ab6fc",
+      "status": "confirmed",
+      "summary": "Remembrance Day",
+      "region": "Nauru",
+      "date": "2022-09-12"
+    },
+    {
       "id": "20220925_fpj8bpkg8am5sat4joup2sjrf8",
       "status": "confirmed",
       "summary": "Sir Hammer DeRoburt Day",
@@ -47239,9 +47267,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_sgqulfunrru3uehaj9n7pqgt48",
+      "id": "20230102_ug6eb32qd6i1u46886b87qesjk",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Day off for New Year's Day",
       "region": "Nauru",
       "date": "2023-01-02"
     },
