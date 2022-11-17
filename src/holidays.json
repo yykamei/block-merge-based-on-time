@@ -37680,6 +37680,20 @@
       "date": "2022-11-12"
     },
     {
+      "id": "20221118_60dqt7eel0jkiqh180n0crdtd4",
+      "status": "confirmed",
+      "summary": "Election Eve Holiday (regional holiday)",
+      "region": "Malaysia",
+      "date": "2022-11-18"
+    },
+    {
+      "id": "20221119_0ha6jq7jijs9o8nu7ghlsntpr4",
+      "status": "confirmed",
+      "summary": "General Elections",
+      "region": "Malaysia",
+      "date": "2022-11-19"
+    },
+    {
       "id": "20221211_l8j01435toc948d81enq7475bk",
       "status": "confirmed",
       "summary": "Birthday of the Sultan of Selangor (Selangor)",
@@ -37694,7 +37708,7 @@
       "date": "2022-12-12"
     },
     {
-      "id": "20221224_6ue96v8bmfl64v4skmbdb1142o",
+      "id": "20221224_u71n71p44lq04mela5201td29c",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
@@ -38086,7 +38100,7 @@
       "date": "2023-12-11"
     },
     {
-      "id": "20231224_78o80f90njj7dj9desikq5ti90",
+      "id": "20231224_agfnrlu5nh8g229mqbb074ud8c",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
