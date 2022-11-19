@@ -10346,6 +10346,13 @@
       "date": "2023-04-16"
     },
     {
+      "id": "20230424_n6cu0ad54r42h2gqub9l9oviek",
+      "status": "confirmed",
+      "summary": "Radonitsa Holiday",
+      "region": "Belarus",
+      "date": "2023-04-24"
+    },
+    {
       "id": "20230425_re7d0mqrog2ci2mriq2vp5a848",
       "status": "confirmed",
       "summary": "Radonitsa",
@@ -10358,6 +10365,13 @@
       "summary": "Day of Remembrance of the Chernobyl Tragedy",
       "region": "Belarus",
       "date": "2023-04-26"
+    },
+    {
+      "id": "20230429_1vrpmcfq36v0c51mrdru5kuiao",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Belarus",
+      "date": "2023-04-29"
     },
     {
       "id": "20230501_50or0hkbgrt64u4hukppi6ruag",
@@ -19858,6 +19872,13 @@
       "summary": "Diwali",
       "region": "Fiji",
       "date": "2022-10-25"
+    },
+    {
+      "id": "20221214_h3rspv2e5jmju63or710sfh0d4",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Fiji",
+      "date": "2022-12-14"
     },
     {
       "id": "20221225_rj7bq62cfb6tdkuipmk1tkr9p0",
@@ -37680,18 +37701,32 @@
       "date": "2022-11-12"
     },
     {
-      "id": "20221118_60dqt7eel0jkiqh180n0crdtd4",
+      "id": "20221118_ik1e3ehdikttjpahgp7t25edhk",
       "status": "confirmed",
       "summary": "Election Eve Holiday (regional holiday)",
       "region": "Malaysia",
       "date": "2022-11-18"
     },
     {
-      "id": "20221119_0ha6jq7jijs9o8nu7ghlsntpr4",
+      "id": "20221119_87fecrgsij8c9d178tk47cd698",
       "status": "confirmed",
-      "summary": "General Elections",
+      "summary": "General Elections (regional holiday)",
       "region": "Malaysia",
       "date": "2022-11-19"
+    },
+    {
+      "id": "20221120_8ea6384kii9tfrgnhg6pjs3o3g",
+      "status": "confirmed",
+      "summary": "Day off for Election Eve Holiday (regional holiday)",
+      "region": "Malaysia",
+      "date": "2022-11-20"
+    },
+    {
+      "id": "20221120_h35dcl1qnhkj0tb9j9go8pv6mo",
+      "status": "confirmed",
+      "summary": "Day off for General Elections (Terengganu)",
+      "region": "Malaysia",
+      "date": "2022-11-20"
     },
     {
       "id": "20221211_l8j01435toc948d81enq7475bk",
@@ -43414,11 +43449,11 @@
       "date": "2023-02-01"
     },
     {
-      "id": "20230205_da1dg3s72esavpg1100v20sv8c",
+      "id": "20230204_utetcu61s55inro6h45e4iplsg",
       "status": "confirmed",
       "summary": "Thaipoosam Cavadee",
       "region": "Mauritius",
-      "date": "2023-02-05"
+      "date": "2023-02-04"
     },
     {
       "id": "20230218_8nd1md84l210334s07iua2tc2g",
