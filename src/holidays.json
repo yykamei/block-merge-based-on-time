@@ -10248,7 +10248,7 @@
       "date": "2022-09-17"
     },
     {
-      "id": "20221021_taj4h4h5cf2pk77f8ftg2i307g",
+      "id": "20221021_5hc80avgssqmtj6ou3u20v18p0",
       "status": "confirmed",
       "summary": "Father's Day",
       "region": "Belarus",
@@ -10381,6 +10381,13 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230508_6sgb5s95quhi2tjtrmddrmbvtg",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Belarus",
+      "date": "2023-05-08"
+    },
+    {
       "id": "20230509_lc5ufh8obv410lltmqa7oq1jn8",
       "status": "confirmed",
       "summary": "Victory Day",
@@ -10430,7 +10437,7 @@
       "date": "2023-09-17"
     },
     {
-      "id": "20231021_6brnda8is5m5qqshpua7lpu80g",
+      "id": "20231021_7rtdst51pvamre7toh72u6304g",
       "status": "confirmed",
       "summary": "Father's Day",
       "region": "Belarus",
@@ -10444,11 +10451,25 @@
       "date": "2023-11-02"
     },
     {
+      "id": "20231106_bmtbcso7jtlbapgkp4sa86qf00",
+      "status": "confirmed",
+      "summary": "October Revolution Day Holiday",
+      "region": "Belarus",
+      "date": "2023-11-06"
+    },
+    {
       "id": "20231107_m6bdmi6i900nnevk9rdgpjcpc4",
       "status": "confirmed",
       "summary": "October Revolution Day",
       "region": "Belarus",
       "date": "2023-11-07"
+    },
+    {
+      "id": "20231111_hblffgq5elgrvb5836l1uf8jo0",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Belarus",
+      "date": "2023-11-11"
     },
     {
       "id": "20231225_1im3ackvl0v0bq3809sv1if88s",
@@ -27010,6 +27031,20 @@
       "summary": "Early May Bank Holiday",
       "region": "Isle of Man",
       "date": "2023-05-01"
+    },
+    {
+      "id": "20230506_b7bhbvgguo4e51agakbr7lbshg",
+      "status": "confirmed",
+      "summary": "The Coronation of King Charles III",
+      "region": "Isle of Man",
+      "date": "2023-05-06"
+    },
+    {
+      "id": "20230508_9vdi3gcgl2q1osm4d66p4r3s2o",
+      "status": "confirmed",
+      "summary": "Bank Holiday for the Coronation of King Charles III",
+      "region": "Isle of Man",
+      "date": "2023-05-08"
     },
     {
       "id": "20230529_kq922tfoaec68r179j1g6fths4",
@@ -47419,13 +47454,6 @@
       "summary": "Christmas Day",
       "region": "Nauru",
       "date": "2023-12-25"
-    },
-    {
-      "id": "20231226_ho68c3k69e6k4qtc0oa2o9pnh0",
-      "status": "confirmed",
-      "summary": "Christmas Day observed",
-      "region": "Nauru",
-      "date": "2023-12-26"
     },
     {
       "id": "20231226_js6tmteg9gkfp29lk70ac07ekk",
