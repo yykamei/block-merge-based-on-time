@@ -31567,6 +31567,27 @@
       "date": "2022-08-09"
     },
     {
+      "id": "20220910_4sd7ppncalubuca2khqo0hvspo",
+      "status": "confirmed",
+      "summary": "Day of Mourning for Queen Elizabeth II",
+      "region": "Kenya",
+      "date": "2022-09-10"
+    },
+    {
+      "id": "20220911_fdbqo239ga07i22ckhdnvlp8rg",
+      "status": "confirmed",
+      "summary": "Day of Mourning for Queen Elizabeth II",
+      "region": "Kenya",
+      "date": "2022-09-11"
+    },
+    {
+      "id": "20220912_66v7s6kav4c0v3q4bdj03vf9d0",
+      "status": "confirmed",
+      "summary": "Day of Mourning for Queen Elizabeth II",
+      "region": "Kenya",
+      "date": "2022-09-12"
+    },
+    {
       "id": "20220913_jgfhpt998roduv804ae9hnju50",
       "status": "confirmed",
       "summary": "Inauguration Day",
@@ -47563,11 +47584,18 @@
       "date": "2022-10-09"
     },
     {
-      "id": "20221118_cb1p60d4o9q4npconbcidqmdc8",
+      "id": "20221130_ov9l2pb4t1va1oetqk7q1bb8v8",
       "status": "confirmed",
       "summary": "National Day",
       "region": "Oman",
-      "date": "2022-11-18"
+      "date": "2022-11-30"
+    },
+    {
+      "id": "20221201_fqb12urr1jquc1se07fn9opfug",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "Oman",
+      "date": "2022-12-01"
     },
     {
       "id": "20230101_e20d3p9mfr5ehfuio4gjagee9c",
