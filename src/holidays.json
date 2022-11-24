@@ -46978,6 +46978,20 @@
       "date": "2022-11-11"
     },
     {
+      "id": "20221120_9l8v59hfo76nlnoailh4qtb4jo",
+      "status": "confirmed",
+      "summary": "General Election Day",
+      "region": "Nepal",
+      "date": "2022-11-20"
+    },
+    {
+      "id": "20221121_q5ld9orl6kkurtumkvfeqnfgcs",
+      "status": "confirmed",
+      "summary": "General Election Holiday",
+      "region": "Nepal",
+      "date": "2022-11-21"
+    },
+    {
       "id": "20221203_q3018ahei8sc16jvivi3pshftc",
       "status": "confirmed",
       "summary": "International Day of Disabled Persons",
@@ -53600,6 +53614,13 @@
       "summary": "Saudi National Day",
       "region": "Saudi Arabia",
       "date": "2022-09-23"
+    },
+    {
+      "id": "20221123_h5rk813r7hmcs1buce75r50bks",
+      "status": "confirmed",
+      "summary": "World Cup Win Public Holiday",
+      "region": "Saudi Arabia",
+      "date": "2022-11-23"
     },
     {
       "id": "20230222_2ulkhtarj2bpnr1c8qram3v02g",
