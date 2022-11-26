@@ -10502,11 +10502,18 @@
       "date": "2022-01-15"
     },
     {
-      "id": "20220307_gsihkki71csrdo4hdrb2r68a88",
+      "id": "20220307_i07tvnv30gbl3o066dl2up7nmc",
+      "status": "confirmed",
+      "summary": "Day off for National Heroes and Benefactors Day",
+      "region": "Belize",
+      "date": "2022-03-07"
+    },
+    {
+      "id": "20220309_7rchs35kol7uleatr37vnglcbg",
       "status": "confirmed",
       "summary": "National Heroes and Benefactors Day",
       "region": "Belize",
-      "date": "2022-03-07"
+      "date": "2022-03-09"
     },
     {
       "id": "20220415_2gj56laqnamlsvct1vb9e6evck",
@@ -10572,11 +10579,18 @@
       "date": "2022-09-21"
     },
     {
-      "id": "20221010_svi20n7t25t56omre9s0ocbcuk",
+      "id": "20221010_9jp9sujnsmn1acj4d4ud3ouqcs",
+      "status": "confirmed",
+      "summary": "Day off for El Día de la Raza",
+      "region": "Belize",
+      "date": "2022-10-10"
+    },
+    {
+      "id": "20221012_f9c6tfu4677ue0g9d3ddfgje0c",
       "status": "confirmed",
       "summary": "El Día de la Raza",
       "region": "Belize",
-      "date": "2022-10-10"
+      "date": "2022-10-12"
     },
     {
       "id": "20221119_jjnvndlv7e0k544n04dpgrdr6c",
@@ -10628,11 +10642,18 @@
       "date": "2023-01-16"
     },
     {
-      "id": "20230306_i5poog7r31hfsflj3a70g2k7ps",
+      "id": "20230306_irdil98l4et8qn3klcodfq6870",
+      "status": "confirmed",
+      "summary": "Day off for National Heroes and Benefactors Day",
+      "region": "Belize",
+      "date": "2023-03-06"
+    },
+    {
+      "id": "20230309_sivcpjdprlf9g495n1edmnnf30",
       "status": "confirmed",
       "summary": "National Heroes and Benefactors Day",
       "region": "Belize",
-      "date": "2023-03-06"
+      "date": "2023-03-09"
     },
     {
       "id": "20230407_q6n91hdat819h4jlji9blpflm8",
@@ -10663,6 +10684,13 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230731_fva4t3a0cuoja9l8f1papf1fa0",
+      "status": "confirmed",
+      "summary": "Day off for Emancipation Day",
+      "region": "Belize",
+      "date": "2023-07-31"
+    },
+    {
       "id": "20230801_j81m1bect86fofjpqug48indeg",
       "status": "confirmed",
       "summary": "Emancipation Day",
@@ -10691,11 +10719,18 @@
       "date": "2023-09-21"
     },
     {
-      "id": "20231009_l5fma0gn44ohgo6c5klddh3n6g",
+      "id": "20231009_bc4mlj2keo2iira8rclsukmkmc",
+      "status": "confirmed",
+      "summary": "Day off for El Día de la Raza",
+      "region": "Belize",
+      "date": "2023-10-09"
+    },
+    {
+      "id": "20231012_opt49cq6o3lr5h20no1btne9lk",
       "status": "confirmed",
       "summary": "El Día de la Raza",
       "region": "Belize",
-      "date": "2023-10-09"
+      "date": "2023-10-12"
     },
     {
       "id": "20231119_fjvsndv81e91lhm3oqumd5v1mk",
@@ -20086,6 +20121,13 @@
       "date": "2022-10-03"
     },
     {
+      "id": "20221114_4gpglr8jm84iqc6dc0ko3nsctg",
+      "status": "confirmed",
+      "summary": "King Charles III's Birthday",
+      "region": "Falkland Islands (Islas Malvinas)",
+      "date": "2022-11-14"
+    },
+    {
       "id": "20221208_tudto0hva4ulfbirkq9d12qab8",
       "status": "confirmed",
       "summary": "Battle Day",
@@ -20177,13 +20219,6 @@
       "date": "2023-04-07"
     },
     {
-      "id": "20230421_2n2o27e4rr03kqahfj0nt9m408",
-      "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
-      "region": "Falkland Islands (Islas Malvinas)",
-      "date": "2023-04-21"
-    },
-    {
       "id": "20230614_5s3f3ns3tuhiphfmqfu65ks7hs",
       "status": "confirmed",
       "summary": "Liberation Day",
@@ -20203,6 +20238,13 @@
       "summary": "Peat Cutting Monday",
       "region": "Falkland Islands (Islas Malvinas)",
       "date": "2023-10-02"
+    },
+    {
+      "id": "20231114_8kmlejruk3can0d90jj6k9b5io",
+      "status": "confirmed",
+      "summary": "King Charles III's Birthday",
+      "region": "Falkland Islands (Islas Malvinas)",
+      "date": "2023-11-14"
     },
     {
       "id": "20231208_6muhk8p69kjr1gkfcnlfu2bev0",
@@ -22771,6 +22813,20 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230506_nhu677di1su2ag3o4ihd0673jg",
+      "status": "confirmed",
+      "summary": "The Coronation of King Charles III",
+      "region": "Guernsey",
+      "date": "2023-05-06"
+    },
+    {
+      "id": "20230508_lpm3rsev2m9itf7cq7i02ivk1s",
+      "status": "confirmed",
+      "summary": "Bank Holiday for the Coronation of King Charles III",
+      "region": "Guernsey",
+      "date": "2023-05-08"
+    },
+    {
       "id": "20230529_lc128uts6u0fh3lru4u8imefuo",
       "status": "confirmed",
       "summary": "Spring Bank Holiday",
@@ -23554,13 +23610,6 @@
       "date": "2023-01-06"
     },
     {
-      "id": "20230325_jm80esij12hl2hjo4rl3tm6of8",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Greenland",
-      "date": "2023-03-25"
-    },
-    {
       "id": "20230406_9319ulofa0t6gscogb0ucrs314",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -23608,13 +23657,6 @@
       "summary": "National Day",
       "region": "Greenland",
       "date": "2023-06-21"
-    },
-    {
-      "id": "20231028_7tr7f0001aqtmst20tkfocrhm0",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time ends",
-      "region": "Greenland",
-      "date": "2023-10-28"
     },
     {
       "id": "20231224_u4qqrr1iatavkvhql38bolksl8",
@@ -25651,11 +25693,11 @@
       "date": "2023-05-26"
     },
     {
-      "id": "20230629_7j2ddngtmct2tgoq4i0kt91sjk",
+      "id": "20230628_jf84dpkffmi2pcpdk4ngaihjeo",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Guyana",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230703_nn274qq8nb00dkru78dcmekq4o",
@@ -25677,6 +25719,13 @@
       "summary": "Youman-Nabi (Mawlid)",
       "region": "Guyana",
       "date": "2023-09-27"
+    },
+    {
+      "id": "20231112_98hmarfdglebb7lhfrr9oq5h98",
+      "status": "confirmed",
+      "summary": "Deepavali",
+      "region": "Guyana",
+      "date": "2023-11-12"
     },
     {
       "id": "20231225_c6s9it6adjl6fe7l4trjsajdps",
@@ -35629,6 +35678,13 @@
       "date": "2022-04-18"
     },
     {
+      "id": "20220501_16bdqrp1nt2dbidno7k2eicvos",
+      "status": "confirmed",
+      "summary": "Mothers' Day",
+      "region": "Lithuania",
+      "date": "2022-05-01"
+    },
+    {
       "id": "20220501_mlal553ka5bhqq9k2omc4sbudc",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -35636,14 +35692,7 @@
       "date": "2022-05-01"
     },
     {
-      "id": "20220501_q69ko8shmmbp80dsapc39p0bb8",
-      "status": "confirmed",
-      "summary": "Mothers' Day",
-      "region": "Lithuania",
-      "date": "2022-05-01"
-    },
-    {
-      "id": "20220605_bifghq72dcerqejuuqm14kghts",
+      "id": "20220605_epbs7s088b3vsalbqc93pc8du8",
       "status": "confirmed",
       "summary": "Fathers' Day",
       "region": "Lithuania",
@@ -35804,14 +35853,14 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230507_707alp7bm84er21mhe18ku27ts",
+      "id": "20230507_mlhit6e6abjmdrdp6uat120d4o",
       "status": "confirmed",
       "summary": "Mothers' Day",
       "region": "Lithuania",
       "date": "2023-05-07"
     },
     {
-      "id": "20230604_5iu1o5rt5qrdsdlii4ro4sef1g",
+      "id": "20230604_dvhsuo5m8r9rr8f2ouq7n9qdl0",
       "status": "confirmed",
       "summary": "Fathers' Day",
       "region": "Lithuania",
@@ -44104,7 +44153,7 @@
       "date": "2023-04-07"
     },
     {
-      "id": "20230408_1er2mdp1lampednddg1g3eq3eg",
+      "id": "20230408_l48sl8tc1lhfn0h7638qe2fme0",
       "status": "confirmed",
       "summary": "Easter Saturday",
       "region": "Malawi",
@@ -48677,6 +48726,27 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230102_n1o6kf9l8fsu4dumpiobfejge0",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Papua New Guinea",
+      "date": "2023-01-02"
+    },
+    {
+      "id": "20230224_lde26kkbnj6fb8nhni7g1mrs8c",
+      "status": "confirmed",
+      "summary": "Day off for National Remembrance Day In Memory of Late Grand Chief Sir Michael Somare",
+      "region": "Papua New Guinea",
+      "date": "2023-02-24"
+    },
+    {
+      "id": "20230226_btet7ql6io75n17nn7uf0609gg",
+      "status": "confirmed",
+      "summary": "National Remembrance Day In Memory of Late Grand Chief Sir Michael Somare",
+      "region": "Papua New Guinea",
+      "date": "2023-02-26"
+    },
+    {
       "id": "20230407_oj406ll5ctbjrhdu2sflgf3iho",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -48712,11 +48782,25 @@
       "date": "2023-07-23"
     },
     {
+      "id": "20230724_pb617q39qoodcnlvhftmreq0ug",
+      "status": "confirmed",
+      "summary": "Day off for National Remembrance Day",
+      "region": "Papua New Guinea",
+      "date": "2023-07-24"
+    },
+    {
       "id": "20230826_3usr1jdhjcdmqo7cb4s0osoeno",
       "status": "confirmed",
       "summary": "National Day of Repentance",
       "region": "Papua New Guinea",
       "date": "2023-08-26"
+    },
+    {
+      "id": "20230915_jbd83ecl7q9rhbcm01tjkbf57k",
+      "status": "confirmed",
+      "summary": "Day off for Independence Day",
+      "region": "Papua New Guinea",
+      "date": "2023-09-15"
     },
     {
       "id": "20230916_g6egdjeq0e7qeip2ad5rrnesho",
