@@ -458,9 +458,16 @@
       "date": "2022-10-08"
     },
     {
-      "id": "20221201_futp9cf9a1knlccc5n7cjmis2s",
+      "id": "20221130_aa4s7fnipcr5j9r16kl36cj4o4",
       "status": "confirmed",
       "summary": "Commemoration Day",
+      "region": "United Arab Emirates",
+      "date": "2022-11-30"
+    },
+    {
+      "id": "20221201_mg61g9v32soju5dq1t08obu7b4",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
       "region": "United Arab Emirates",
       "date": "2022-12-01"
     },
@@ -500,9 +507,23 @@
       "date": "2023-03-23"
     },
     {
-      "id": "20230422_0fcogelud6laspnssrra3nnkic",
+      "id": "20230420_gu7e1m0im27r97gk53nnc4dfrk",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "United Arab Emirates",
+      "date": "2023-04-20"
+    },
+    {
+      "id": "20230421_ev737ocqvnfm2dskmt01h9mh30",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
+      "region": "United Arab Emirates",
+      "date": "2023-04-21"
+    },
+    {
+      "id": "20230422_ookg6t5124ua2bkgqmhfotubdo",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "United Arab Emirates",
       "date": "2023-04-22"
     },
@@ -514,13 +535,6 @@
       "date": "2023-04-23"
     },
     {
-      "id": "20230424_l67r66v14qqjqcgqkrn5eq4tjs",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
-      "region": "United Arab Emirates",
-      "date": "2023-04-24"
-    },
-    {
       "id": "20230620_dc22fkte7n9cq9tpjl8e75oem0",
       "status": "confirmed",
       "summary": "Hajj season begins",
@@ -528,18 +542,18 @@
       "date": "2023-06-20"
     },
     {
-      "id": "20230628_jmkgjs9qebfb6etrp7stk77dm8",
+      "id": "20230627_ddjshal8ikk5nm4ouqe4924ni4",
       "status": "confirmed",
       "summary": "Arafat (Hajj) Day",
       "region": "United Arab Emirates",
-      "date": "2023-06-28"
+      "date": "2023-06-27"
     },
     {
-      "id": "20230629_7c8qg3bfhnrsqaqlq6uq38gsfo",
+      "id": "20230628_j6cjq0355954585plb4rdtto4s",
       "status": "confirmed",
       "summary": "Eid al-Adha (Feast of Sacrifice)",
       "region": "United Arab Emirates",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230629_u138gr9bd3l2ireo09n74an464",
@@ -570,11 +584,32 @@
       "date": "2023-09-27"
     },
     {
+      "id": "20231130_mj5sbpevo6gih908hn6rdqnblg",
+      "status": "confirmed",
+      "summary": "Commemoration Day",
+      "region": "United Arab Emirates",
+      "date": "2023-11-30"
+    },
+    {
+      "id": "20231201_kpegjh6kp01pe7qqplm0klv51g",
+      "status": "confirmed",
+      "summary": "Day off for Commemoration Day",
+      "region": "United Arab Emirates",
+      "date": "2023-12-01"
+    },
+    {
       "id": "20231202_fdim6jspe13n59nn6hnimlijm8",
       "status": "confirmed",
       "summary": "National Day",
       "region": "United Arab Emirates",
       "date": "2023-12-02"
+    },
+    {
+      "id": "20231203_e4coj5n0o4g8ldkvqnvn2fd1i4",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "United Arab Emirates",
+      "date": "2023-12-03"
     },
     {
       "id": "20231231_pt9tfktq85rvrbd0s3qh0012j8",
@@ -2817,11 +2852,11 @@
       "date": "2023-04-13"
     },
     {
-      "id": "20230422_ui0rrle3hkbg2fhbi4851m5rd8",
+      "id": "20230421_1aavf5hem1qg0gi5hgiglirp9s",
       "status": "confirmed",
       "summary": "End of Ramadan",
       "region": "Argentina",
-      "date": "2023-04-22"
+      "date": "2023-04-21"
     },
     {
       "id": "20230424_phn2g0oabi0vnajeu8mgsbfibs",
@@ -2845,11 +2880,25 @@
       "date": "2023-05-25"
     },
     {
+      "id": "20230526_66b9ogrl6kkionkepu7kiik034",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Argentina",
+      "date": "2023-05-26"
+    },
+    {
       "id": "20230617_pdnqf8f7q7gaak2iud9ksr7k14",
       "status": "confirmed",
       "summary": "Commemoration of General Don Martín Miguel de Güemes",
       "region": "Argentina",
       "date": "2023-06-17"
+    },
+    {
+      "id": "20230619_rs7im7hu6gfno9m2vkt377c6g0",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Argentina",
+      "date": "2023-06-19"
     },
     {
       "id": "20230620_eve0sbbci103i18epr5aqt0198",
@@ -2908,11 +2957,18 @@
       "date": "2023-09-25"
     },
     {
-      "id": "20231009_l874ksveeehito1vjfdultn48s",
+      "id": "20231013_u70coaolhl8qje3elgls4i46l4",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Argentina",
+      "date": "2023-10-13"
+    },
+    {
+      "id": "20231016_sko2da3bsgn1kl3b6lqbul90p8",
       "status": "confirmed",
       "summary": "Day of Respect for Cultural Diversity",
       "region": "Argentina",
-      "date": "2023-10-09"
+      "date": "2023-10-16"
     },
     {
       "id": "20231120_c56uo768kpst3uvfm2v5idubss",
@@ -37806,7 +37862,7 @@
       "date": "2022-11-12"
     },
     {
-      "id": "20221118_ik1e3ehdikttjpahgp7t25edhk",
+      "id": "20221118_asmi4mu5j48k45kmufqnj6ba0s",
       "status": "confirmed",
       "summary": "Election Eve Holiday (regional holiday)",
       "region": "Malaysia",
@@ -37820,7 +37876,7 @@
       "date": "2022-11-19"
     },
     {
-      "id": "20221120_8ea6384kii9tfrgnhg6pjs3o3g",
+      "id": "20221120_eu3t4vf6u4epp59o58agm23g14",
       "status": "confirmed",
       "summary": "Day off for Election Eve Holiday (regional holiday)",
       "region": "Malaysia",
@@ -37832,6 +37888,20 @@
       "summary": "Day off for General Elections (Terengganu)",
       "region": "Malaysia",
       "date": "2022-11-20"
+    },
+    {
+      "id": "20221127_pt2omeiq1j40g5o2knojec32mg",
+      "status": "confirmed",
+      "summary": "Malaysia Cup Public Holiday (Johor)",
+      "region": "Malaysia",
+      "date": "2022-11-27"
+    },
+    {
+      "id": "20221128_f1gjjbco4n6m973i6rt0ufrsqo",
+      "status": "confirmed",
+      "summary": "Elections Victory Public Holiday",
+      "region": "Malaysia",
+      "date": "2022-11-28"
     },
     {
       "id": "20221211_l8j01435toc948d81enq7475bk",
@@ -38240,7 +38310,7 @@
       "date": "2023-12-11"
     },
     {
-      "id": "20231224_agfnrlu5nh8g229mqbb074ud8c",
+      "id": "20231224_78o80f90njj7dj9desikq5ti90",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
