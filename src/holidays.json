@@ -66920,6 +66920,20 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230106_irejasdssp8shul7o3kpegr65o",
+      "status": "confirmed",
+      "summary": "The Three Wise Men Day",
+      "region": "Venezuela",
+      "date": "2023-01-06"
+    },
+    {
+      "id": "20230114_tl1og5s2b0aal8tkd8dt5590os",
+      "status": "confirmed",
+      "summary": "Divina Pastora Day",
+      "region": "Venezuela",
+      "date": "2023-01-14"
+    },
+    {
       "id": "20230220_3u9m9monbuqi8ddlhu0m4g3vns",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
@@ -66932,6 +66946,13 @@
       "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Venezuela",
       "date": "2023-02-21"
+    },
+    {
+      "id": "20230319_uu79nb9m7n0lftopfqq8v7pogc",
+      "status": "confirmed",
+      "summary": "Saint Joseph's Day",
+      "region": "Venezuela",
+      "date": "2023-03-19"
     },
     {
       "id": "20230402_4lcbdbfo7llk4gbi094tpqcglo",
@@ -66976,11 +66997,32 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230613_4t4iqrmv2q5mgdqfbjf7psbu4k",
+      "id": "20230518_92d2eborifevkngbqvi9c7ictg",
+      "status": "confirmed",
+      "summary": "Ascension Day",
+      "region": "Venezuela",
+      "date": "2023-05-18"
+    },
+    {
+      "id": "20230608_35hm4ngr4i18vc58pe41t0qmp4",
+      "status": "confirmed",
+      "summary": "Corpus Christi",
+      "region": "Venezuela",
+      "date": "2023-06-08"
+    },
+    {
+      "id": "20230613_lrukbnnimqt296nq989ns93u6k",
       "status": "confirmed",
       "summary": "St Anthony's Day",
       "region": "Venezuela",
       "date": "2023-06-13"
+    },
+    {
+      "id": "20230619_93tvh3b50eira0gpo7heu41doc",
+      "status": "confirmed",
+      "summary": "St Anthony's Day Holiday",
+      "region": "Venezuela",
+      "date": "2023-06-19"
     },
     {
       "id": "20230624_btpiidhtovirmsgj03v6apcr1s",
@@ -66988,6 +67030,13 @@
       "summary": "Carabobo Battle",
       "region": "Venezuela",
       "date": "2023-06-24"
+    },
+    {
+      "id": "20230629_uiiru19j0evsoi1jo43m852354",
+      "status": "confirmed",
+      "summary": "Saint Peter and Saint Paul",
+      "region": "Venezuela",
+      "date": "2023-06-29"
     },
     {
       "id": "20230705_9lfr87ge5gc4a2v1fdvpsj9mac",
@@ -67018,11 +67067,11 @@
       "date": "2023-08-04"
     },
     {
-      "id": "20230911_cqhocnvmc1c8qavpf0mlgp9ru8",
+      "id": "20230815_gsqose2ca9blsr51g6j9efiu14",
       "status": "confirmed",
-      "summary": "Our Lady of Coromoto",
+      "summary": "Assumption of Mary",
       "region": "Venezuela",
-      "date": "2023-09-11"
+      "date": "2023-08-15"
     },
     {
       "id": "20231012_in14s05tg77moeftaatj9hge58",
@@ -67032,7 +67081,14 @@
       "date": "2023-10-12"
     },
     {
-      "id": "20231101_gatjoh9fv2cc3hgm3ptclt9cvk",
+      "id": "20231026_nf8vil1bee8hf7gnh5ddei1djc",
+      "status": "confirmed",
+      "summary": "Dr. José Gregorio Hernández Day",
+      "region": "Venezuela",
+      "date": "2023-10-26"
+    },
+    {
+      "id": "20231101_2eqc6jb7cq0nevl3ekcaeinjm4",
       "status": "confirmed",
       "summary": "All Saints Day",
       "region": "Venezuela",
@@ -67046,6 +67102,13 @@
       "date": "2023-11-02"
     },
     {
+      "id": "20231118_jvqvvb7sq4c2muscg04mgul0lc",
+      "status": "confirmed",
+      "summary": "Day of the Virgin of the Rosary of Chiquinquirá",
+      "region": "Venezuela",
+      "date": "2023-11-18"
+    },
+    {
       "id": "20231127_9tar8f0dilk2bappri3k21u6ks",
       "status": "confirmed",
       "summary": "Aviation Day",
@@ -67053,18 +67116,18 @@
       "date": "2023-11-27"
     },
     {
+      "id": "20231208_ng7lg7c08l242boelr7br36urc",
+      "status": "confirmed",
+      "summary": "Feast of the Immaculate Conception",
+      "region": "Venezuela",
+      "date": "2023-12-08"
+    },
+    {
       "id": "20231224_p3gerjrlmte38gpt1dk8jh78lo",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Venezuela",
       "date": "2023-12-24"
-    },
-    {
-      "id": "20231225_4qu09npeoi8mco0d7b91vofhrg",
-      "status": "confirmed",
-      "summary": "Christmas Eve observed",
-      "region": "Venezuela",
-      "date": "2023-12-25"
     },
     {
       "id": "20231225_gu46rrm0cbp4ekafpi5417ac5k",
