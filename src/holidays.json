@@ -18625,11 +18625,11 @@
       "date": "2022-09-22"
     },
     {
-      "id": "20221008_rgeop21f37ir3i4f9tjini26c8",
+      "id": "20221015_4nearulaqg7rcp3g82ugvlrhnk",
       "status": "confirmed",
       "summary": "Finno-Ugric Day",
       "region": "Estonia",
-      "date": "2022-10-08"
+      "date": "2022-10-15"
     },
     {
       "id": "20221102_h92qlhup3optevp878lts8n2sc",
@@ -18800,11 +18800,11 @@
       "date": "2023-09-22"
     },
     {
-      "id": "20231014_egdah0kevbcp5pl47odankm764",
+      "id": "20231021_h4lrjcj4q8l7q1ejv87793j8c8",
       "status": "confirmed",
       "summary": "Finno-Ugric Day",
       "region": "Estonia",
-      "date": "2023-10-14"
+      "date": "2023-10-21"
     },
     {
       "id": "20231102_lk2dgvk2p7t94ev7dt8aknmj4c",
@@ -53376,6 +53376,13 @@
       "date": "2022-01-02"
     },
     {
+      "id": "20220221_2a617c527lm3uaiotkl36bo1l0",
+      "status": "confirmed",
+      "summary": "Armed Forces Day",
+      "region": "South Africa",
+      "date": "2022-02-21"
+    },
+    {
       "id": "20220321_bbes83mvc5f9gprmh8djbob1q4",
       "status": "confirmed",
       "summary": "Human Rights Day",
@@ -53528,6 +53535,13 @@
       "summary": "Day off for New Year's Day",
       "region": "South Africa",
       "date": "2023-01-02"
+    },
+    {
+      "id": "20230221_h7l40jlnj0g3vk86kiq932277g",
+      "status": "confirmed",
+      "summary": "Armed Forces Day",
+      "region": "South Africa",
+      "date": "2023-02-21"
     },
     {
       "id": "20230321_5inat8ri7qfmmk1gsuhrgt6a7o",
@@ -57156,13 +57170,6 @@
       "date": "2022-09-15"
     },
     {
-      "id": "20220917_c45r2t9vr9g44puf7ppdjbv05s",
-      "status": "confirmed",
-      "summary": "Day of Melilla (Melilla)",
-      "region": "Spain",
-      "date": "2022-09-17"
-    },
-    {
       "id": "20220923_g7bqjuuehkgudd38ien14jisq4",
       "status": "confirmed",
       "summary": "Day of Saint Tecla (Tarragona)",
@@ -57254,7 +57261,7 @@
       "date": "2022-12-25"
     },
     {
-      "id": "20221226_1oba8nfg3tauovhq7m2nbseobg",
+      "id": "20221226_aipc9063dlrtlmvk5h49fkafhk",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
