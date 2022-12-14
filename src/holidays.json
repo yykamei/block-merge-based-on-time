@@ -570,18 +570,18 @@
       "date": "2023-06-30"
     },
     {
-      "id": "20230719_uubdim4krcgmprv07qkhe2c66g",
+      "id": "20230721_2k1cipt53e36ch3voe163j3jv0",
       "status": "confirmed",
       "summary": "Al-Hijra (Islamic New Year)",
       "region": "United Arab Emirates",
-      "date": "2023-07-19"
+      "date": "2023-07-21"
     },
     {
-      "id": "20230927_v389atvkess9f8h91k71t8qsro",
+      "id": "20230929_booq0lbnlh5mv9mf885gajtqmg",
       "status": "confirmed",
       "summary": "Mouloud",
       "region": "United Arab Emirates",
-      "date": "2023-09-27"
+      "date": "2023-09-29"
     },
     {
       "id": "20231130_mj5sbpevo6gih908hn6rdqnblg",
@@ -5857,6 +5857,13 @@
       "date": "2023-03-17"
     },
     {
+      "id": "20230319_i08td796hde6b600muojckbt98",
+      "status": "confirmed",
+      "summary": "Arrival Day of Sri Sri Harichand Tagore",
+      "region": "Bangladesh",
+      "date": "2023-03-19"
+    },
+    {
       "id": "20230326_g8comijk38eiukv526jo7hkues",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -5878,11 +5885,18 @@
       "date": "2023-04-14"
     },
     {
-      "id": "20230418_44nom49d75nuu9uiiclo74npq8",
+      "id": "20230419_m025nmfn000ifjbnf01412g9ic",
       "status": "confirmed",
       "summary": "Shab-e-qadr",
       "region": "Bangladesh",
-      "date": "2023-04-18"
+      "date": "2023-04-19"
+    },
+    {
+      "id": "20230421_7b93jjnm4gnprci11hppsh6p88",
+      "status": "confirmed",
+      "summary": "Jumatul Bidah",
+      "region": "Bangladesh",
+      "date": "2023-04-21"
     },
     {
       "id": "20230422_hqvagt69tabf6bj885c4c3er4s",
@@ -5920,11 +5934,11 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230505_vtp1uagfn05qaapoqdrgtafcgs",
+      "id": "20230504_2kfejss3nq8sa834ifahenfbrk",
       "status": "confirmed",
       "summary": "Buddha Purnima/Vesak",
       "region": "Bangladesh",
-      "date": "2023-05-05"
+      "date": "2023-05-04"
     },
     {
       "id": "20230514_h35s1u5kg0jq2rkfe6scidgnng",
@@ -5976,11 +5990,11 @@
       "date": "2023-07-19"
     },
     {
-      "id": "20230728_krvl3s15mpj2he9us6158fgumo",
+      "id": "20230729_4ncmnumi8q9bsegpu0f9ji7mlg",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Bangladesh",
-      "date": "2023-07-28"
+      "date": "2023-07-29"
     },
     {
       "id": "20230815_odecucfpfnb5f4msgr6k3sr2gk",
@@ -6004,11 +6018,25 @@
       "date": "2023-09-27"
     },
     {
-      "id": "20230929_e57oeq5m78i79ldc3pm5n4qlps",
+      "id": "20230928_fkfbsdk1k4hnft5tg2g88c28a4",
       "status": "confirmed",
       "summary": "Madhu Purnima",
       "region": "Bangladesh",
-      "date": "2023-09-29"
+      "date": "2023-09-28"
+    },
+    {
+      "id": "20231014_duioujq250ah2c7igj39n9lba4",
+      "status": "confirmed",
+      "summary": "Mahalaya",
+      "region": "Bangladesh",
+      "date": "2023-10-14"
+    },
+    {
+      "id": "20231022_7ui2cbp29lljf6ob01uf25nfgs",
+      "status": "confirmed",
+      "summary": "Ashtami",
+      "region": "Bangladesh",
+      "date": "2023-10-22"
     },
     {
       "id": "20231023_c00crg58qci77aojc7qclstrts",
@@ -33725,6 +33753,13 @@
       "date": "2022-11-14"
     },
     {
+      "id": "20221204_2n136rqdrp8ks6ih07mm0iod3s",
+      "status": "confirmed",
+      "summary": "Cayman Thanksgiving",
+      "region": "Cayman Islands",
+      "date": "2022-12-04"
+    },
+    {
       "id": "20221224_tu45fa39gkotq7bndsm1f91i5g",
       "status": "confirmed",
       "summary": "Christmas Eve",
@@ -33823,6 +33858,20 @@
       "date": "2023-04-10"
     },
     {
+      "id": "20230506_fatuf4e486hfld0es0uug6t9ro",
+      "status": "confirmed",
+      "summary": "The Coronation of His Majesty King Charles III",
+      "region": "Cayman Islands",
+      "date": "2023-05-06"
+    },
+    {
+      "id": "20230508_okbeahgjachoeo13r61ughgl5k",
+      "status": "confirmed",
+      "summary": "Holiday for the Coronation of His Majesty King Charles III",
+      "region": "Cayman Islands",
+      "date": "2023-05-08"
+    },
+    {
       "id": "20230514_61shefhh7shf08vvk0sr2bdpjo",
       "status": "confirmed",
       "summary": "Mothers' Day",
@@ -33844,13 +33893,6 @@
       "date": "2023-06-18"
     },
     {
-      "id": "20230619_q81atsj5vn2ufn8jjrkb0ptr2c",
-      "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
-      "region": "Cayman Islands",
-      "date": "2023-06-19"
-    },
-    {
       "id": "20230703_vha7hongns6jpb1ime3c2bf7lo",
       "status": "confirmed",
       "summary": "Constitution Day",
@@ -33870,6 +33912,13 @@
       "summary": "Remembrance Day",
       "region": "Cayman Islands",
       "date": "2023-11-13"
+    },
+    {
+      "id": "20231203_e294qb1veuofcfrpe40k49npc0",
+      "status": "confirmed",
+      "summary": "Cayman Thanksgiving",
+      "region": "Cayman Islands",
+      "date": "2023-12-03"
     },
     {
       "id": "20231224_r570ve8m46plstiks57jolb4q0",
@@ -34042,32 +34091,11 @@
       "date": "2022-10-25"
     },
     {
-      "id": "20221201_p46663q3leh6v8hlrvjgl8u7ug",
-      "status": "confirmed",
-      "summary": "Day of the First President of the Republic of Kazakhstan",
-      "region": "Kazakhstan",
-      "date": "2022-12-01"
-    },
-    {
       "id": "20221216_s8lns2ku4j7rvnuhqmfgnt42eo",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "Kazakhstan",
       "date": "2022-12-16"
-    },
-    {
-      "id": "20221217_enmjsgemdkq6o5jduqg411tr28",
-      "status": "confirmed",
-      "summary": "Independence Day Holiday",
-      "region": "Kazakhstan",
-      "date": "2022-12-17"
-    },
-    {
-      "id": "20221219_hi2ka7uc0bkc1pbajc8mnmoemk",
-      "status": "confirmed",
-      "summary": "Day off for Independence Day Holiday",
-      "region": "Kazakhstan",
-      "date": "2022-12-19"
     },
     {
       "id": "20221231_mu7uutn8kh650u206c5r4as6lg",
@@ -34189,13 +34217,6 @@
       "date": "2023-10-25"
     },
     {
-      "id": "20231201_lut7u8gadi9flhkdu7kummedf4",
-      "status": "confirmed",
-      "summary": "Day of the First President of the Republic of Kazakhstan",
-      "region": "Kazakhstan",
-      "date": "2023-12-01"
-    },
-    {
       "id": "20231216_e4fc4oqj4c85ktoakt3mpkul4o",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -34203,25 +34224,11 @@
       "date": "2023-12-16"
     },
     {
-      "id": "20231217_n3riea4oupan0g7anteb45v53s",
-      "status": "confirmed",
-      "summary": "Independence Day Holiday",
-      "region": "Kazakhstan",
-      "date": "2023-12-17"
-    },
-    {
       "id": "20231218_7m48rqc7di4k0e2aiarvv64u18",
       "status": "confirmed",
       "summary": "Day off for Independence Day",
       "region": "Kazakhstan",
       "date": "2023-12-18"
-    },
-    {
-      "id": "20231219_7qj4bd92smc02bthjrhsn36ubc",
-      "status": "confirmed",
-      "summary": "Day off for Independence Day Holiday",
-      "region": "Kazakhstan",
-      "date": "2023-12-19"
     },
     {
       "id": "20231231_qjs29rrf2e0pd9h4akhfd35534",
@@ -49057,6 +49064,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230102_mld2ukta28ck26tpkuvbru3ack",
+      "status": "confirmed",
+      "summary": "Special non-working day after New Year",
+      "region": "Philippines",
+      "date": "2023-01-02"
+    },
+    {
       "id": "20230122_82h2uc5s60vt8duk44n4292cr4",
       "status": "confirmed",
       "summary": "Lunar New Year's Day",
@@ -49092,7 +49106,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_lnn1ds225kbr4i17f2ctnk5lps",
+      "id": "20230409_2lsqkh82o6rvgea436ubu5bk20",
       "status": "confirmed",
       "summary": "The Day of Valor",
       "region": "Philippines",
@@ -49104,6 +49118,13 @@
       "summary": "Easter Sunday",
       "region": "Philippines",
       "date": "2023-04-09"
+    },
+    {
+      "id": "20230410_p0ncg32tadn9ls4ecf35suuohg",
+      "status": "confirmed",
+      "summary": "The Day of Valor",
+      "region": "Philippines",
+      "date": "2023-04-10"
     },
     {
       "id": "20230422_uaroj5cae01vq3bjbqv9vfb1m8",
@@ -49162,7 +49183,14 @@
       "date": "2023-11-02"
     },
     {
-      "id": "20231130_9oib990psccrvht2s751iiq9vk",
+      "id": "20231127_bpkglp3vgr8h1k67nl0behr828",
+      "status": "confirmed",
+      "summary": "Bonifacio Day",
+      "region": "Philippines",
+      "date": "2023-11-27"
+    },
+    {
+      "id": "20231130_ginin852mf2jm6slhn38slg31s",
       "status": "confirmed",
       "summary": "Bonifacio Day",
       "region": "Philippines",
@@ -61207,9 +61235,9 @@
       "date": "2022-12-10"
     },
     {
-      "id": "20221212_9h1qutlrin506ctk1imagief58",
+      "id": "20221212_1jcqubl527iglv0jobrgktbo6c",
       "status": "confirmed",
-      "summary": "Day off for Constitution Day",
+      "summary": "Substitute Holiday for Constitution Day",
       "region": "Thailand",
       "date": "2022-12-12"
     },
@@ -61417,9 +61445,9 @@
       "date": "2023-12-10"
     },
     {
-      "id": "20231211_crv9hk4ppsl8g9kvk9867v6ji0",
+      "id": "20231211_iiq1ndgo5821n49fk3q14rmk60",
       "status": "confirmed",
-      "summary": "Day off for Constitution Day",
+      "summary": "Substitute Holiday for Constitution Day",
       "region": "Thailand",
       "date": "2023-12-11"
     },
@@ -63582,9 +63610,9 @@
       "date": "2022-05-09"
     },
     {
-      "id": "20220611_b2veph2thkcqu3j1l5096bp8vc",
+      "id": "20220611_638qt4d395sdmfuudckph9m8i0",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
+      "summary": "Anniversary of the Birthday of the Sovereign",
       "region": "Tuvalu",
       "date": "2022-06-11"
     },
@@ -63701,9 +63729,9 @@
       "date": "2023-05-15"
     },
     {
-      "id": "20230610_rj0heo59mm9n7nor245onn7c3c",
+      "id": "20230610_dv4p78e5ije4aas2d92qpgrfi4",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
+      "summary": "Anniversary of the Birthday of the Sovereign",
       "region": "Tuvalu",
       "date": "2023-06-10"
     },
