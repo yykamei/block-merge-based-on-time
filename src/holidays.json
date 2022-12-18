@@ -67976,6 +67976,13 @@
       "date": "2023-01-02"
     },
     {
+      "id": "20230120_msopnunq3fdgmb2o7gd5b9hg3g",
+      "status": "confirmed",
+      "summary": "Tet Holiday",
+      "region": "Vietnam",
+      "date": "2023-01-20"
+    },
+    {
       "id": "20230121_66pmi0u7djrho4qhejsrnuna18",
       "status": "confirmed",
       "summary": "Vietnamese New Year's Eve",
@@ -68046,18 +68053,18 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230501_njg9rsfvhrhld4onuuthu1e1go",
+      "id": "20230502_cth449olsbcoevpln2ltodgg8s",
+      "status": "confirmed",
+      "summary": "Day off for Hung Kings Festival",
+      "region": "Vietnam",
+      "date": "2023-05-02"
+    },
+    {
+      "id": "20230503_8t0hel0qkpjaeq787snud817vo",
       "status": "confirmed",
       "summary": "Day off for Liberation Day/Reunification Day",
       "region": "Vietnam",
-      "date": "2023-05-01"
-    },
-    {
-      "id": "20230502_j851jvbosqim233mtksucemhq8",
-      "status": "confirmed",
-      "summary": "Day off for International Labor Day",
-      "region": "Vietnam",
-      "date": "2023-05-02"
+      "date": "2023-05-03"
     },
     {
       "id": "20230505_punhj5io59rhl3p8tkg66mb7kk",
@@ -68067,11 +68074,25 @@
       "date": "2023-05-05"
     },
     {
+      "id": "20230901_v6b8sbcisl5gi4437kvekv39a0",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Vietnam",
+      "date": "2023-09-01"
+    },
+    {
       "id": "20230902_gnhgtcnc01i6cpgtrs7mb7gr4s",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "Vietnam",
       "date": "2023-09-02"
+    },
+    {
+      "id": "20230903_tiqp0pp9ng6bi22f99rfa46p68",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Vietnam",
+      "date": "2023-09-03"
     },
     {
       "id": "20230904_098v952132gpgfs9285kf9o5c4",
