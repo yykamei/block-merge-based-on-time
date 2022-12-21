@@ -2740,6 +2740,13 @@
       "date": "2022-12-09"
     },
     {
+      "id": "20221220_7krb8d07b5b3op214nvno9dpo0",
+      "status": "confirmed",
+      "summary": "World Cup Win Public Holiday",
+      "region": "Argentina",
+      "date": "2022-12-20"
+    },
+    {
       "id": "20221225_coahccckmoi4cmkdo44gfd34t0",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -13920,6 +13927,13 @@
       "summary": "New Year's Day",
       "region": "Chile",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230102_tikf8aoa8ln77rr1ajnss4l364",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Chile",
+      "date": "2023-01-02"
     },
     {
       "id": "20230406_j62m89kl6mj8uds555kq6r6jkc",
@@ -28966,6 +28980,13 @@
       "date": "2022-10-09"
     },
     {
+      "id": "20221227_qjjc8kv2h9k0jv5k3gcgog7u2k",
+      "status": "confirmed",
+      "summary": "Martyrdom of Hazrat Fatima",
+      "region": "Iran",
+      "date": "2022-12-27"
+    },
+    {
       "id": "20230204_er7irfc3j0jlhfbi3t5r2leppc",
       "status": "confirmed",
       "summary": "Birthday of Imam Ali and Father's Day",
@@ -33026,6 +33047,13 @@
       "date": "2022-12-26"
     },
     {
+      "id": "20221227_620ggmns8h2qkbq4gko294mmuk",
+      "status": "confirmed",
+      "summary": "Day off for Christmas Day",
+      "region": "St. Kitts & Nevis",
+      "date": "2022-12-27"
+    },
+    {
       "id": "20230101_co0a754un94fvbts7blb1v9ecg",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -33040,11 +33068,11 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230102_qvjfi2kbj06dc4adob58p3g1n4",
+      "id": "20230103_edq7d6r79ue3qro0tadblb6uds",
       "status": "confirmed",
-      "summary": "New Year's Day observed",
+      "summary": "Carnival Day (Last Lap)",
       "region": "St. Kitts & Nevis",
-      "date": "2023-01-02"
+      "date": "2023-01-03"
     },
     {
       "id": "20230407_49o9j6hu1sss0mcrjsi0ne6bj8",
@@ -33087,6 +33115,13 @@
       "summary": "Culturama Day",
       "region": "St. Kitts & Nevis",
       "date": "2023-08-08"
+    },
+    {
+      "id": "20230825_t9qka1971ded833kb2m8n4gtvg",
+      "status": "confirmed",
+      "summary": "Kim Collins Day",
+      "region": "St. Kitts & Nevis",
+      "date": "2023-08-25"
     },
     {
       "id": "20230916_bl8aeu4tfmc7rucac68uf6jnp4",
@@ -43116,13 +43151,6 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230612_ghg6vrji9vq3bb4pjau58isiqk",
-      "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday Celebration",
-      "region": "Montserrat",
-      "date": "2023-06-12"
-    },
-    {
       "id": "20230807_l795j3f494b5a8a4cmt6dajmls",
       "status": "confirmed",
       "summary": "Emancipation Day",
@@ -47738,11 +47766,18 @@
       "date": "2022-12-01"
     },
     {
-      "id": "20230101_e20d3p9mfr5ehfuio4gjagee9c",
+      "id": "20230101_a0gqgvbitbo7ikmebs57esigcs",
       "status": "confirmed",
       "summary": "New Year",
       "region": "Oman",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230111_n00lvob9jhn05eeta1fjt7fovk",
+      "status": "confirmed",
+      "summary": "Sultan’s Accession Day",
+      "region": "Oman",
+      "date": "2023-01-11"
     },
     {
       "id": "20230218_pffvb0p37vlce2va900p6jlqtg",
@@ -47827,6 +47862,13 @@
       "summary": "National Day",
       "region": "Oman",
       "date": "2023-11-18"
+    },
+    {
+      "id": "20231119_ov381g0b9jfu0mppjdv9o8761s",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "Oman",
+      "date": "2023-11-19"
     }
   ],
   "Panama": [
@@ -53542,6 +53584,13 @@
       "summary": "Day of Goodwill",
       "region": "South Africa",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_1u0t3eb3bk9bmrmt03cf86ptmg",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "South Africa",
+      "date": "2022-12-27"
     },
     {
       "id": "20221231_hqouahevt735cg2s9fjunf9mv0",
@@ -59720,11 +59769,25 @@
       "date": "2022-12-25"
     },
     {
+      "id": "20221226_ca9i46ihm0pd60gjuvlubjercg",
+      "status": "confirmed",
+      "summary": "Day off for Christmas Day",
+      "region": "Eswatini",
+      "date": "2022-12-26"
+    },
+    {
       "id": "20221226_os7h40r0cnp6a3tm9figoalh54",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Eswatini",
       "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_ouarpbbosdp5fkvu2m1gpt1jh8",
+      "status": "confirmed",
+      "summary": "Day off for Boxing Day",
+      "region": "Eswatini",
+      "date": "2022-12-27"
     },
     {
       "id": "20221228_3r2l189sarj9grpu4g2fev0tfg",
