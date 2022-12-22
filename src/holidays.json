@@ -5878,6 +5878,13 @@
       "date": "2023-03-26"
     },
     {
+      "id": "20230410_p8nr593t7sv4kgcmmdo40osbmg",
+      "status": "confirmed",
+      "summary": "Easter Monday",
+      "region": "Bangladesh",
+      "date": "2023-04-10"
+    },
+    {
       "id": "20230413_mbkajdsdja17g427kch8d4knik",
       "status": "confirmed",
       "summary": "Chaitra Sankranti",
@@ -5897,6 +5904,13 @@
       "summary": "Shab-e-qadr",
       "region": "Bangladesh",
       "date": "2023-04-19"
+    },
+    {
+      "id": "20230421_2v4mucpqtjhi9qk9ppacvp08mk",
+      "status": "confirmed",
+      "summary": "Eid ul-Fitr Holiday",
+      "region": "Bangladesh",
+      "date": "2023-04-21"
     },
     {
       "id": "20230421_7b93jjnm4gnprci11hppsh6p88",
@@ -5920,18 +5934,11 @@
       "date": "2023-04-23"
     },
     {
-      "id": "20230424_nrbid4e2onpfactphs3e672vm0",
+      "id": "20230424_qhfttmn4fo2agofnpm1e494ilg",
       "status": "confirmed",
       "summary": "Eid ul-Fitr Holiday",
       "region": "Bangladesh",
       "date": "2023-04-24"
-    },
-    {
-      "id": "20230425_nci2d1673meer8l13v5m4fufjc",
-      "status": "confirmed",
-      "summary": "Eid ul-Fitr Holiday",
-      "region": "Bangladesh",
-      "date": "2023-04-25"
     },
     {
       "id": "20230501_v6nbhqegvqkd6uni4op6adt0so",
@@ -5962,6 +5969,13 @@
       "date": "2023-06-18"
     },
     {
+      "id": "20230628_1s3ocnb2pmjkfqetdrn1jg7t3o",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Bangladesh",
+      "date": "2023-06-28"
+    },
+    {
       "id": "20230629_4m8era64jrocr2he6ku1mneilo",
       "status": "confirmed",
       "summary": "Eid al-Adha",
@@ -5974,20 +5988,6 @@
       "summary": "Eid al-Adha Holiday",
       "region": "Bangladesh",
       "date": "2023-06-30"
-    },
-    {
-      "id": "20230701_ss62se4e5na2rnqg0pdqqisjc0",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
-      "region": "Bangladesh",
-      "date": "2023-07-01"
-    },
-    {
-      "id": "20230703_iae7en5pu0rv6sekaqd5inkads",
-      "status": "confirmed",
-      "summary": "Ashari Purnima",
-      "region": "Bangladesh",
-      "date": "2023-07-03"
     },
     {
       "id": "20230719_rk4l60f944d9kuvma66hj3meeo",
@@ -6004,6 +6004,13 @@
       "date": "2023-07-29"
     },
     {
+      "id": "20230801_p4lmnthsf4cqajd8nf0cdht13k",
+      "status": "confirmed",
+      "summary": "Ashari Purnima",
+      "region": "Bangladesh",
+      "date": "2023-08-01"
+    },
+    {
       "id": "20230815_odecucfpfnb5f4msgr6k3sr2gk",
       "status": "confirmed",
       "summary": "National Mourning Day",
@@ -6011,11 +6018,11 @@
       "date": "2023-08-15"
     },
     {
-      "id": "20230911_v19rhl8m6r7ta0914sarfr0av8",
+      "id": "20230913_1dfj3er1vi562u9n4at1c9ld9s",
       "status": "confirmed",
       "summary": "Akhari Chahar Somba",
       "region": "Bangladesh",
-      "date": "2023-09-11"
+      "date": "2023-09-13"
     },
     {
       "id": "20230927_h4i38koatgp60hdumvok2kmngo",
@@ -6053,11 +6060,11 @@
       "date": "2023-10-23"
     },
     {
-      "id": "20231026_vmhdmq61anqmffn4dqc41vji6s",
+      "id": "20231027_9dbc9iafj1dcuo5dnn0ge03014",
       "status": "confirmed",
       "summary": "Fateha-i-Yajdaham",
       "region": "Bangladesh",
-      "date": "2023-10-26"
+      "date": "2023-10-27"
     },
     {
       "id": "20231028_9clg5eetqic6qkqocai435e294",
@@ -6081,11 +6088,11 @@
       "date": "2023-10-31"
     },
     {
-      "id": "20231104_fraq7bjb2qipjtfc70fgdr277c",
+      "id": "20231112_qeiv8sko7d16sbt56viv769rlo",
       "status": "confirmed",
       "summary": "Sri Shayama Puja",
       "region": "Bangladesh",
-      "date": "2023-11-04"
+      "date": "2023-11-12"
     },
     {
       "id": "20231216_h92plb3dqtgo8t8djsff1ieirc",
@@ -25975,6 +25982,13 @@
       "date": "2022-12-25"
     },
     {
+      "id": "20221226_q6dau33dhhsdlpe2i7d79t38gs",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Honduras",
+      "date": "2022-12-26"
+    },
+    {
       "id": "20221231_oursdivahqglra4edjmseqacpk",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -25987,6 +26001,13 @@
       "summary": "New Year's Day",
       "region": "Honduras",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230102_o4kvps57cs1sog7htvcl0uvp7c",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Honduras",
+      "date": "2023-01-02"
     },
     {
       "id": "20230106_169vpfegp0qaa3jsrfp31o6vrg",
@@ -32115,18 +32136,39 @@
       "date": "2023-01-02"
     },
     {
+      "id": "20230103_03umtndb24ul1b3sfvn3u0d58s",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2023-01-03"
+    },
+    {
+      "id": "20230104_npdja35164o2k9606dbn83uhhs",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2023-01-04"
+    },
+    {
+      "id": "20230105_un5d3d868nnsq4kam1pi21rljo",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2023-01-05"
+    },
+    {
+      "id": "20230106_59pb0u2h5a2tmdgcjhm6j0t0e4",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2023-01-06"
+    },
+    {
       "id": "20230107_vnqf1fopjvots9pe9ag632j9qc",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
       "region": "Kyrgyzstan",
       "date": "2023-01-07"
-    },
-    {
-      "id": "20230109_n85iq24p44pad3b56blboqj4s8",
-      "status": "confirmed",
-      "summary": "Day off for Orthodox Christmas Day",
-      "region": "Kyrgyzstan",
-      "date": "2023-01-09"
     },
     {
       "id": "20230223_1bcbrkk6fi6ri2jirbv474l2ec",
@@ -32141,6 +32183,13 @@
       "summary": "International Women's Day",
       "region": "Kyrgyzstan",
       "date": "2023-03-08"
+    },
+    {
+      "id": "20230320_9jctmdojm9a57gbdadd4665r2g",
+      "status": "confirmed",
+      "summary": "Nooruz Public Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2023-03-20"
     },
     {
       "id": "20230321_9dmul532hse21nhvglg2e8jdoo",
@@ -32185,6 +32234,13 @@
       "date": "2023-05-05"
     },
     {
+      "id": "20230508_51uodla0do3auqtb3pko067kd0",
+      "status": "confirmed",
+      "summary": "Constitution Day Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2023-05-08"
+    },
+    {
       "id": "20230509_o8ri47enq9us6isbemga7r4emo",
       "status": "confirmed",
       "summary": "Victory Day",
@@ -32204,6 +32260,13 @@
       "summary": "Independence Day of the Kyrgyz Republic",
       "region": "Kyrgyzstan",
       "date": "2023-08-31"
+    },
+    {
+      "id": "20231106_f8mhfqe2k0gtvn4q6iduem4tk4",
+      "status": "confirmed",
+      "summary": "Days of History and Memory of Ancestors Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2023-11-06"
     },
     {
       "id": "20231107_59aakqn1qkhnluaqdn18hne28o",
@@ -58224,11 +58287,32 @@
       "date": "2022-11-13"
     },
     {
+      "id": "20221224_877baurl5a3naq15esinhlrh7k",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "South Sudan",
+      "date": "2022-12-24"
+    },
+    {
       "id": "20221225_5asp0fpk21ku3uma2j7v871a6k",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "South Sudan",
       "date": "2022-12-25"
+    },
+    {
+      "id": "20221226_0jepnpvebjekfd16ps1762i558",
+      "status": "confirmed",
+      "summary": "Boxing Day",
+      "region": "South Sudan",
+      "date": "2022-12-26"
+    },
+    {
+      "id": "20221227_bg2fdnvn825gimmsjt50u2bic4",
+      "status": "confirmed",
+      "summary": "Christmas Holiday",
+      "region": "South Sudan",
+      "date": "2022-12-27"
     },
     {
       "id": "20221228_olq4m0gmldorfk8jknppchkrkg",
@@ -62664,9 +62748,9 @@
       "date": "2022-07-30"
     },
     {
-      "id": "20220813_9bp63gjepsit85538hfht6j6q8",
+      "id": "20220813_4lubrgcqae0tm4jr7h11jjkrug",
       "status": "confirmed",
-      "summary": "Women's and Family Day",
+      "summary": "Women’s Day",
       "region": "Tunisia",
       "date": "2022-08-13"
     },
@@ -62769,9 +62853,9 @@
       "date": "2023-07-25"
     },
     {
-      "id": "20230813_7c7p5f88og8s952vg2ccuopv34",
+      "id": "20230813_n87acqih2qqkvpe3l9cejuhmug",
       "status": "confirmed",
-      "summary": "Women's and Family Day",
+      "summary": "Women’s Day",
       "region": "Tunisia",
       "date": "2023-08-13"
     },
