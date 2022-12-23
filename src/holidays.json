@@ -17714,11 +17714,18 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230106_h871ipfkaq91c56g1ndplkbb6g",
+      "id": "20230106_2l283d75k14dolcd8s56i8o62c",
       "status": "confirmed",
       "summary": "Epiphany",
       "region": "Dominican Republic",
       "date": "2023-01-06"
+    },
+    {
+      "id": "20230109_lsu72r19ph5ib1c04hfr6hudc0",
+      "status": "confirmed",
+      "summary": "Epiphany",
+      "region": "Dominican Republic",
+      "date": "2023-01-09"
     },
     {
       "id": "20230121_4o2fvv5f76trmf78boqbqs4r9s",
@@ -17728,7 +17735,7 @@
       "date": "2023-01-21"
     },
     {
-      "id": "20230126_2ujluuilt5l2nsipa59vf9r1ls",
+      "id": "20230126_k1qerq3ceseii0p0hcd19gmvlc",
       "status": "confirmed",
       "summary": "Duarte's Day",
       "region": "Dominican Republic",
@@ -45941,6 +45948,13 @@
       "summary": "New Year's Day",
       "region": "Nigeria",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230102_7s4vbeu4clkg9erf69m32e346k",
+      "status": "confirmed",
+      "summary": "Day off for New Year's Day",
+      "region": "Nigeria",
+      "date": "2023-01-02"
     },
     {
       "id": "20230214_jm7mgvdikschhakl48ot9chidg",
