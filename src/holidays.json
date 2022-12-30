@@ -4451,9 +4451,9 @@
       "date": "2022-01-01"
     },
     {
-      "id": "20220102_slvl5racmjk40ijvuooasctqpc",
+      "id": "20220102_r25m4lotavhtvk4vqe5p32mec8",
       "status": "confirmed",
-      "summary": "New Year's Day (day 2)",
+      "summary": "New Year's Holiday",
       "region": "Azerbaijan",
       "date": "2022-01-02"
     },
@@ -4465,9 +4465,9 @@
       "date": "2022-01-03"
     },
     {
-      "id": "20220104_8t14eqrjacee8guft2mbccvcog",
+      "id": "20220104_rjgu89f01mm8l2ugpbals62spc",
       "status": "confirmed",
-      "summary": "Day off for New Year's Day (day 2)",
+      "summary": "Day off for New Year's Holiday",
       "region": "Azerbaijan",
       "date": "2022-01-04"
     },
@@ -4661,16 +4661,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_k9bqj11asstjl8nkr558gbjs3c",
+      "id": "20230102_fspgi6d498l6hrtr2olp36bpac",
       "status": "confirmed",
-      "summary": "Day off for World Azerbaijanis Solidarity Day",
-      "region": "Azerbaijan",
-      "date": "2023-01-02"
-    },
-    {
-      "id": "20230102_r089slp0af2skuhpvag9kudrfs",
-      "status": "confirmed",
-      "summary": "New Year's Day (day 2)",
+      "summary": "New Year's Holiday",
       "region": "Azerbaijan",
       "date": "2023-01-02"
     },
@@ -4682,11 +4675,18 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230103_ugnb7jq7f5mvnlb78ujrd9ubk4",
+      "id": "20230103_lm2jfk096c0k36g23ar8n0c230",
       "status": "confirmed",
-      "summary": "Day off for New Year's Day (day 2)",
+      "summary": "Day off for New Year's Holiday",
       "region": "Azerbaijan",
       "date": "2023-01-03"
+    },
+    {
+      "id": "20230104_gochrnsafv5f9roei9pfht4vng",
+      "status": "confirmed",
+      "summary": "New Year's Holiday",
+      "region": "Azerbaijan",
+      "date": "2023-01-04"
     },
     {
       "id": "20230120_1fgsfsjhvhnm536jbq84417e0g",
@@ -4801,18 +4801,18 @@
       "date": "2023-06-26"
     },
     {
-      "id": "20230629_tn1q2l7ea0rma2suhup573udoc",
+      "id": "20230628_buhbrpcem08aop4l2k7294il38",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice",
       "region": "Azerbaijan",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
-      "id": "20230630_4ssepjmuoaef50qs6cs77hq5h4",
+      "id": "20230629_v3dhn5krd50eqs1pmrgr1huk4o",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice Holiday",
       "region": "Azerbaijan",
-      "date": "2023-06-30"
+      "date": "2023-06-29"
     },
     {
       "id": "20231018_1qe0uo9jm38m70ongcrmtptvt0",
@@ -53423,18 +53423,18 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_0ec6r0eg4ban50hbt4046hcj2s",
-      "status": "confirmed",
-      "summary": "New Year observed",
-      "region": "Rwanda",
-      "date": "2023-01-02"
-    },
-    {
       "id": "20230102_m9uh934cvho56nq8rub4pvr5s0",
       "status": "confirmed",
       "summary": "Day After New Year's Day",
       "region": "Rwanda",
       "date": "2023-01-02"
+    },
+    {
+      "id": "20230103_8p7sk8l8btrep70oe269jorpek",
+      "status": "confirmed",
+      "summary": "New Year observed",
+      "region": "Rwanda",
+      "date": "2023-01-03"
     },
     {
       "id": "20230201_ll9c91fbprqr00sb9eaqlf7rk0",
