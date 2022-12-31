@@ -1,5 +1,21 @@
 # Changelog
 
+## [v2.0.100](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.100) (2022-12-31)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.99...v2.0.100)
+
+**Implemented enhancements:**
+
+- Update Holidays [\#1055](https://github.com/yykamei/block-merge-based-on-time/pull/1055) ([github-actions[bot]](https://github.com/apps/github-actions))
+
+**Merged pull requests:**
+
+- Bump luxon from 3.1.1 to 3.2.0 [\#1054](https://github.com/yykamei/block-merge-based-on-time/pull/1054) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump eslint from 8.30.0 to 8.31.0 [\#1053](https://github.com/yykamei/block-merge-based-on-time/pull/1053) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 5.47.0 to 5.47.1 [\#1052](https://github.com/yykamei/block-merge-based-on-time/pull/1052) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 18.11.17 to 18.11.18 [\#1051](https://github.com/yykamei/block-merge-based-on-time/pull/1051) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/parser from 5.47.0 to 5.47.1 [\#1050](https://github.com/yykamei/block-merge-based-on-time/pull/1050) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.0.99](https://github.com/yykamei/block-merge-based-on-time/tree/v2.0.99) (2022-12-30)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.0.98...v2.0.99)
