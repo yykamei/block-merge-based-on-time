@@ -55015,6 +55015,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230102_ru92imr92unl20q3072sggvteg",
+      "status": "confirmed",
+      "summary": "New Year's Day Holiday",
+      "region": "El Salvador",
+      "date": "2023-01-02"
+    },
+    {
       "id": "20230116_jkig4nn1ucmhjqulu878876fh4",
       "status": "confirmed",
       "summary": "Signing of the Peace Accords",
@@ -55153,6 +55160,13 @@
       "summary": "Christmas Day",
       "region": "El Salvador",
       "date": "2023-12-25"
+    },
+    {
+      "id": "20231226_dm322ad611i91nmmhd10nt5o7s",
+      "status": "confirmed",
+      "summary": "Boxing Day",
+      "region": "El Salvador",
+      "date": "2023-12-26"
     },
     {
       "id": "20231231_338hf2bqk5v8oml3rg753s9ig4",
@@ -62168,6 +62182,20 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230102_qcnauc5v6foub99botnhkdnng8",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Uzbekistan",
+      "date": "2023-01-02"
+    },
+    {
+      "id": "20230103_a64op0gdt98els8gvsnbddp0t0",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Uzbekistan",
+      "date": "2023-01-03"
+    },
+    {
       "id": "20230114_5gi1evcehdb29m2gitmjshnqik",
       "status": "confirmed",
       "summary": "Defenders of the Motherland Day",
@@ -62182,6 +62210,13 @@
       "date": "2023-03-08"
     },
     {
+      "id": "20230320_ffff7l84mesb8k96m1rir06270",
+      "status": "confirmed",
+      "summary": "Nowruz Holiday",
+      "region": "Uzbekistan",
+      "date": "2023-03-20"
+    },
+    {
       "id": "20230321_ol6eg1o801nusd79k8lsqnll94",
       "status": "confirmed",
       "summary": "Nowruz",
@@ -62189,11 +62224,32 @@
       "date": "2023-03-21"
     },
     {
+      "id": "20230322_lsu4hnabjjcppeekqq9euc1v2c",
+      "status": "confirmed",
+      "summary": "Nowruz Holiday",
+      "region": "Uzbekistan",
+      "date": "2023-03-22"
+    },
+    {
       "id": "20230422_084i7ephc2qa1mbsq7gj1pefk0",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Uzbekistan",
       "date": "2023-04-22"
+    },
+    {
+      "id": "20230423_o03v69n7nsbgp66359cl79gv7s",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Uzbekistan",
+      "date": "2023-04-23"
+    },
+    {
+      "id": "20230424_vc1d1sa9pe39pujp27bmpprpes",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Uzbekistan",
+      "date": "2023-04-24"
     },
     {
       "id": "20230509_lb64cd2dso01q2edqqolrara7o",
@@ -62210,6 +62266,13 @@
       "date": "2023-06-29"
     },
     {
+      "id": "20230630_qtvpht1fd4kke94p9qck584fbo",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Uzbekistan",
+      "date": "2023-06-30"
+    },
+    {
       "id": "20230901_mvssu4kotqvsj5rtv8ef9omfic",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -62222,6 +62285,13 @@
       "summary": "Teachers Day",
       "region": "Uzbekistan",
       "date": "2023-10-01"
+    },
+    {
+      "id": "20231002_c51ln2a67j4fnba3q16kj85t74",
+      "status": "confirmed",
+      "summary": "Teachers Day Holiday",
+      "region": "Uzbekistan",
+      "date": "2023-10-02"
     },
     {
       "id": "20231208_r79e2lf84qq2nl44tvbmdfgr1o",
