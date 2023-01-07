@@ -73,12 +73,12 @@ describe("shouldBlock", () => {
     ${"16:30, 12:00 on Monday"}                       | ${"09:00, 17:00 on Monday"}  | ${"Australia/Broken_Hill"} | ${""}                                        | ${"2021-07-12T12:01:00+09:30"}                            | ${true}
     ${"16:30, 17:00 on Saturday"}                     | ${"09:00"}                   | ${"Australia/Broken_Hill"} | ${""}                                        | ${"2021-07-17T16:59:59+09:30"}                            | ${false}
     ${"16:30, 17:00 on Saturday"}                     | ${"09:00"}                   | ${"Australia/Broken_Hill"} | ${""}                                        | ${"2021-07-17T17:00:00+09:30"}                            | ${true}
-    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"H:Japan"}                                 | ${"2022-11-23T10:30:00+09:00"}                            | ${true}
-    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"H:Japan"}                                 | ${"2022-11-22T10:30:00+09:00"}                            | ${false}
-    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"BH:Japan"}                                | ${"2022-11-22T10:30:00+09:00"}                            | ${true}
-    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"BH:Japan"}                                | ${"2022-11-23T10:30:00+09:00"}                            | ${false}
-    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"H:Japan, BH:Japan"}                       | ${"2022-11-23T10:30:00+09:00"}                            | ${true}
-    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"H:Japan, BH:Japan"}                       | ${"2022-11-22T10:30:00+09:00"}                            | ${true}
+    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"H:Japan"}                                 | ${"2023-11-23T10:30:00+09:00"}                            | ${true}
+    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"H:Japan"}                                 | ${"2023-11-22T10:30:00+09:00"}                            | ${false}
+    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"BH:Japan"}                                | ${"2023-11-22T10:30:00+09:00"}                            | ${true}
+    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"BH:Japan"}                                | ${"2023-11-23T10:30:00+09:00"}                            | ${false}
+    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"H:Japan, BH:Japan"}                       | ${"2023-11-23T10:30:00+09:00"}                            | ${true}
+    ${"17:00"}                                        | ${"09:00"}                   | ${"Asia/Tokyo"}            | ${"H:Japan, BH:Japan"}                       | ${"2023-11-22T10:30:00+09:00"}                            | ${true}
   `(
     "returns $expected with: now=$now, after=$after, before=$before, timezone=$timezone, prohibited=$prohibited",
     ({ now, after, before, timezone, prohibited, expected }) => {
