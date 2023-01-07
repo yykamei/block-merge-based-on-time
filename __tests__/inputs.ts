@@ -5,7 +5,7 @@ import { DateTime, IANAZone, Interval } from "luxon"
 describe("Inputs", () => {
   beforeAll(() => {
     jest.useFakeTimers()
-    jest.setSystemTime(new Date("2021-06-17T16:30:00-10:00"))
+    jest.setSystemTime(new Date("2023-06-17T16:30:00-10:00"))
     jest.spyOn(core, "debug").mockImplementation(jest.fn)
   })
 
@@ -22,7 +22,7 @@ describe("Inputs", () => {
           after: "12:20",
           before: "16:00",
           timezone: "Pacific/Honolulu",
-          "prohibited-days-dates": "Sunday, 2021-07-01",
+          "prohibited-days-dates": "Sunday, 2023-07-01",
           "no-block-label": "Emergency",
           "commit-status-context": "Blocker",
           "commit-status-description-with-success": "OK",
@@ -61,7 +61,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2021,
+            year: 2023,
             month: 7,
             day: 1,
           },
@@ -71,7 +71,7 @@ describe("Inputs", () => {
         ),
         DateTime.fromObject(
           {
-            year: 2021,
+            year: 2023,
             month: 7,
             day: 1,
           },
@@ -154,7 +154,7 @@ describe("Inputs", () => {
           after: "12:20",
           before: "16:00",
           timezone: "Pacific/Honolulu",
-          "prohibited-days-dates": "Sunday, 2021-07-30, 2021-08-06/2021-08-10",
+          "prohibited-days-dates": "Sunday, 2023-07-30, 2023-08-06/2023-08-10",
           "base-branches": "(default)",
         }[name] as any)
     )
@@ -188,7 +188,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2021,
+            year: 2023,
             month: 7,
             day: 30,
           },
@@ -198,7 +198,7 @@ describe("Inputs", () => {
         ),
         DateTime.fromObject(
           {
-            year: 2021,
+            year: 2023,
             month: 7,
             day: 30,
           },
@@ -210,7 +210,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2021,
+            year: 2023,
             month: 8,
             day: 6,
           },
@@ -220,7 +220,7 @@ describe("Inputs", () => {
         ),
         DateTime.fromObject(
           {
-            year: 2021,
+            year: 2023,
             month: 8,
             day: 10,
           },
@@ -354,7 +354,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2022,
+            year: 2023,
             month: 1,
             day: 23,
           },
@@ -364,7 +364,7 @@ describe("Inputs", () => {
         ).startOf("day"),
         DateTime.fromObject(
           {
-            year: 2022,
+            year: 2023,
             month: 1,
             day: 23,
           },
@@ -378,7 +378,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2022,
+            year: 2023,
             month: 1,
             day: 22,
           },
@@ -388,7 +388,7 @@ describe("Inputs", () => {
         ).startOf("day"),
         DateTime.fromObject(
           {
-            year: 2022,
+            year: 2023,
             month: 1,
             day: 22,
           },
@@ -458,7 +458,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2022,
+            year: 2023,
             month: 1,
             day: 23,
           },
@@ -468,7 +468,7 @@ describe("Inputs", () => {
         ).startOf("day"),
         DateTime.fromObject(
           {
-            year: 2022,
+            year: 2023,
             month: 1,
             day: 23,
           },
@@ -482,7 +482,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2022,
+            year: 2023,
             month: 1,
             day: 22,
           },
@@ -492,7 +492,7 @@ describe("Inputs", () => {
         ).startOf("day"),
         DateTime.fromObject(
           {
-            year: 2022,
+            year: 2023,
             month: 1,
             day: 22,
           },
