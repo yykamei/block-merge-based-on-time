@@ -22066,18 +22066,18 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_ivfsi7ngrdlumu2sc02885imk0",
-      "status": "confirmed",
-      "summary": "New Year's Day observed",
-      "region": "Ghana",
-      "date": "2023-01-02"
-    },
-    {
       "id": "20230107_ngnba2qorlh7nr4a6ul91eir8s",
       "status": "confirmed",
       "summary": "Constitution Day",
       "region": "Ghana",
       "date": "2023-01-07"
+    },
+    {
+      "id": "20230109_cbf1qv4iipj157i2dg6mdf2mus",
+      "status": "confirmed",
+      "summary": "Constitution Day observed",
+      "region": "Ghana",
+      "date": "2023-01-09"
     },
     {
       "id": "20230306_aae2nta4ha34n37dokbcj5pbak",
@@ -44339,6 +44339,13 @@
   ],
   "Nepal": [
     {
+      "id": "20230111_5pjr20ibchd2g1p7ke0a126k7g",
+      "status": "confirmed",
+      "summary": "Prithvi Jayanti",
+      "region": "Nepal",
+      "date": "2023-01-11"
+    },
+    {
       "id": "20230122_h39rrkhbh4ku1e01d97bktld18",
       "status": "confirmed",
       "summary": "Sonam Losar (Tamang New Year)",
@@ -44805,11 +44812,11 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230111_n00lvob9jhn05eeta1fjt7fovk",
+      "id": "20230112_6vitt3cdvpej8ne7jfl5a8hge0",
       "status": "confirmed",
       "summary": "Sultan’s Accession Day",
       "region": "Oman",
-      "date": "2023-01-11"
+      "date": "2023-01-12"
     },
     {
       "id": "20230218_pffvb0p37vlce2va900p6jlqtg",
@@ -56127,6 +56134,13 @@
       "summary": "Day off for New Year",
       "region": "Eswatini",
       "date": "2023-01-02"
+    },
+    {
+      "id": "20230110_19j1apq7cio577ajia9913hbp8",
+      "status": "confirmed",
+      "summary": "Incwala Day",
+      "region": "Eswatini",
+      "date": "2023-01-10"
     },
     {
       "id": "20230407_655149lb4jl0mjeakq9b8d9msg",
