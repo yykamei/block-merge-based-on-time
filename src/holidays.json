@@ -53115,6 +53115,13 @@
       "date": "2023-04-05"
     },
     {
+      "id": "20230501_k4l8hhp7eksbrtbrp8q6vctm2c",
+      "status": "confirmed",
+      "summary": "Labor Day",
+      "region": "South Korea",
+      "date": "2023-05-01"
+    },
+    {
       "id": "20230505_0k3d7b4eqnvqhci3pttrq9vl5g",
       "status": "confirmed",
       "summary": "Children's Day",
@@ -53274,6 +53281,13 @@
       "summary": "Arbor Day",
       "region": "South Korea",
       "date": "2024-04-05"
+    },
+    {
+      "id": "20240501_09getgjjgp6racfandbpgnfjas",
+      "status": "confirmed",
+      "summary": "Labor Day",
+      "region": "South Korea",
+      "date": "2024-05-01"
     },
     {
       "id": "20240505_07jro56oe7k4ob9u82dou6onmo",
@@ -57924,6 +57938,20 @@
       "summary": "International Women's Day",
       "region": "Tajikistan",
       "date": "2023-03-08"
+    },
+    {
+      "id": "20230319_jkdq9cbg1b8n9as7ps1arqj9m0",
+      "status": "confirmed",
+      "summary": "Navruz Celebration",
+      "region": "Tajikistan",
+      "date": "2023-03-19"
+    },
+    {
+      "id": "20230320_0i6sk73hbfuf2oguudrao75re8",
+      "status": "confirmed",
+      "summary": "Navruz Celebration",
+      "region": "Tajikistan",
+      "date": "2023-03-20"
     },
     {
       "id": "20230321_hiac2frbc69984tqopl4tg8io8",
