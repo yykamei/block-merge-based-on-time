@@ -19230,6 +19230,27 @@
       "date": "2023-04-10"
     },
     {
+      "id": "20230514_6920idfqbq9e9ecjjb1tejbouc",
+      "status": "confirmed",
+      "summary": "Girmit Day",
+      "region": "Fiji",
+      "date": "2023-05-14"
+    },
+    {
+      "id": "20230515_kt4pmt5fj8c3idofu81apgn17c",
+      "status": "confirmed",
+      "summary": "Day off for Girmit Day",
+      "region": "Fiji",
+      "date": "2023-05-15"
+    },
+    {
+      "id": "20230530_h674jisshlvqvdhfgmlhgutqc8",
+      "status": "confirmed",
+      "summary": "Sukuna's Day",
+      "region": "Fiji",
+      "date": "2023-05-30"
+    },
+    {
       "id": "20230907_uk2sv03ponne3fv3p9s7a3g30s",
       "status": "confirmed",
       "summary": "Constitution Day",
@@ -22453,6 +22474,13 @@
       "date": "2023-05-29"
     },
     {
+      "id": "20230619_dqolvbhjgddog7objtj0gnku7c",
+      "status": "confirmed",
+      "summary": "King's Birthday Holiday",
+      "region": "Gibraltar",
+      "date": "2023-06-19"
+    },
+    {
       "id": "20230828_74njic9ui0rpmu4405r5846j5s",
       "status": "confirmed",
       "summary": "Late Summer Bank Holiday",
@@ -22570,6 +22598,13 @@
       "summary": "Spring Bank Holiday",
       "region": "Gibraltar",
       "date": "2024-05-27"
+    },
+    {
+      "id": "20240617_u8dbj1qi0fej5atl58919onkdk",
+      "status": "confirmed",
+      "summary": "King's Birthday Holiday",
+      "region": "Gibraltar",
+      "date": "2024-06-17"
     },
     {
       "id": "20240826_aj1km4ruj47e0mti2krfo0duqc",
@@ -38070,6 +38105,13 @@
       "date": "2023-03-29"
     },
     {
+      "id": "20230409_m6dosv4dqkubun71rnl2daq6rc",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Madagascar",
+      "date": "2023-04-09"
+    },
+    {
       "id": "20230410_acr1j2evct1k5i50vdu3juegug",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -38096,6 +38138,13 @@
       "summary": "Ascension Day",
       "region": "Madagascar",
       "date": "2023-05-18"
+    },
+    {
+      "id": "20230528_cdj6g5v52h6bkqvaeu9cheq2ro",
+      "status": "confirmed",
+      "summary": "Whit Sunday",
+      "region": "Madagascar",
+      "date": "2023-05-28"
     },
     {
       "id": "20230529_0vitdoqtus36eu6ert5bbv04r8",
@@ -38168,6 +38217,13 @@
       "date": "2024-03-29"
     },
     {
+      "id": "20240331_s9b2sn2rniht1bcon0gauqgfpk",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Madagascar",
+      "date": "2024-03-31"
+    },
+    {
       "id": "20240401_9d4nro7j63t2knqnk5it5mdumk",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -38194,6 +38250,13 @@
       "summary": "Ascension Day",
       "region": "Madagascar",
       "date": "2024-05-09"
+    },
+    {
+      "id": "20240519_0mpu5nq14t7fdc1e9b2l1as7vs",
+      "status": "confirmed",
+      "summary": "Whit Sunday",
+      "region": "Madagascar",
+      "date": "2024-05-19"
     },
     {
       "id": "20240520_s0imch5kj2vk5ak198ql82gdj0",
@@ -38816,6 +38879,13 @@
       "summary": "New Year",
       "region": "Mali",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230114_kc3f8t7hnrv2jk6fmql3go2sss",
+      "status": "confirmed",
+      "summary": "Day of Regained Sovereignty",
+      "region": "Mali",
+      "date": "2023-01-14"
     },
     {
       "id": "20230120_t6lu0ua5hoauq31negbbfev820",
@@ -43414,6 +43484,13 @@
       "summary": "National Day",
       "region": "Nigeria",
       "date": "2023-10-01"
+    },
+    {
+      "id": "20231002_ee3quff3q9idv8le8ctr6p3p00",
+      "status": "confirmed",
+      "summary": "Day off for National Day",
+      "region": "Nigeria",
+      "date": "2023-10-02"
     },
     {
       "id": "20231224_kbu9dra6g89b73b2r4bpjnsjjo",
