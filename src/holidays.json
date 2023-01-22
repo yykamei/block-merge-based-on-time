@@ -31952,6 +31952,13 @@
       "date": "2023-02-18"
     },
     {
+      "id": "20230219_5khstj7r38m5vhfprgqa45p85k",
+      "status": "confirmed",
+      "summary": "Day off for Isra and Miraj",
+      "region": "Kuwait",
+      "date": "2023-02-19"
+    },
+    {
       "id": "20230225_djee10vblid9v2ntm11im9lqho",
       "status": "confirmed",
       "summary": "National Day",
@@ -31964,6 +31971,13 @@
       "summary": "Liberation Day",
       "region": "Kuwait",
       "date": "2023-02-26"
+    },
+    {
+      "id": "20230227_0mduqftd26il3hob938evvjgj4",
+      "status": "confirmed",
+      "summary": "National Day holiday",
+      "region": "Kuwait",
+      "date": "2023-02-27"
     },
     {
       "id": "20230422_bur2lmbq529k2pe8oiq5ebtjvk",
@@ -37805,13 +37819,6 @@
       "summary": "Day of the Dead",
       "region": "Mexico",
       "date": "2024-11-02"
-    },
-    {
-      "id": "20241118_5heou3qfu0olkhvnn9jesc7bss",
-      "status": "confirmed",
-      "summary": "Revolution Day Memorial",
-      "region": "Mexico",
-      "date": "2024-11-18"
     },
     {
       "id": "20241120_fphafnpmuere4019c6ij6e2tj0",
@@ -57656,6 +57663,13 @@
       "summary": "Coronation Day",
       "region": "Thailand",
       "date": "2023-05-04"
+    },
+    {
+      "id": "20230505_e01s3r5fq44fct8o9dpjkeaaug",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Thailand",
+      "date": "2023-05-05"
     },
     {
       "id": "20230511_85im6hvfeabf1s2rubdjmodbp0",
