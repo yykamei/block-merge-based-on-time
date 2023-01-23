@@ -12285,6 +12285,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230102_hq76a68me7r9r1i3uac486v4h4",
+      "status": "confirmed",
+      "summary": "New Year's Holiday",
+      "region": "China",
+      "date": "2023-01-02"
+    },
+    {
       "id": "20230121_4dqdb9422g2tqphuju6i9t6ono",
       "status": "confirmed",
       "summary": "Spring Festival Eve",
@@ -12362,20 +12369,6 @@
       "date": "2023-03-12"
     },
     {
-      "id": "20230403_qscots6eq5bhj4c0cueaqjlijg",
-      "status": "confirmed",
-      "summary": "Qing Ming Jie holiday",
-      "region": "China",
-      "date": "2023-04-03"
-    },
-    {
-      "id": "20230404_kvp4m6mid5gaqj9o4l9jk6nblo",
-      "status": "confirmed",
-      "summary": "Qing Ming Jie holiday",
-      "region": "China",
-      "date": "2023-04-04"
-    },
-    {
       "id": "20230405_9v7bavahdbucvr0ieegso800t4",
       "status": "confirmed",
       "summary": "Qing Ming Jie",
@@ -12383,11 +12376,39 @@
       "date": "2023-04-05"
     },
     {
+      "id": "20230429_f9sf66c4t629hrefqqo8kv4a7s",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2023-04-29"
+    },
+    {
+      "id": "20230430_kfft7rtte18fsglbn1sgo2gsck",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2023-04-30"
+    },
+    {
       "id": "20230501_rn0qeuk1e26e3qc14d5q8a4dsg",
       "status": "confirmed",
       "summary": "Labour Day",
       "region": "China",
       "date": "2023-05-01"
+    },
+    {
+      "id": "20230502_896nhmvke0s0v1cjm3hj88plfo",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2023-05-02"
+    },
+    {
+      "id": "20230503_dkad18jvahnslm6e5npk80d4gk",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2023-05-03"
     },
     {
       "id": "20230504_ui1qc9lg2e3l9dd6tobuodlr6s",
@@ -12486,13 +12507,6 @@
       "summary": "National Day Golden Week holiday",
       "region": "China",
       "date": "2023-10-06"
-    },
-    {
-      "id": "20231007_59907st1hihoac703o2e8hd8nc",
-      "status": "confirmed",
-      "summary": "National Day Golden Week holiday",
-      "region": "China",
-      "date": "2023-10-07"
     },
     {
       "id": "20231023_d10a3j03ft39383g5gjcnohnnc",
@@ -12689,13 +12703,6 @@
       "summary": "National Day Golden Week holiday",
       "region": "China",
       "date": "2024-10-06"
-    },
-    {
-      "id": "20241007_n0kb243lqht43dpa94cj10nucc",
-      "status": "confirmed",
-      "summary": "National Day Golden Week holiday",
-      "region": "China",
-      "date": "2024-10-07"
     },
     {
       "id": "20241011_bo4uoc87sdi8ra3aodq5v7t0hk",
