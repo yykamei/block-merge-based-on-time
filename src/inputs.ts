@@ -107,11 +107,8 @@ function hours(key: "after" | "before", zone: Zone): Hours {
         }
       }
     },
-    { base: DateTime.fromISO("invalid") }
+    { base: dateTime("hh:mm", "00:00", zone) }
   )
-  if (result.base.invalidExplanation != null) {
-    throw new Error(`"${key}" requires at least basic hour like "16:30"`)
-  }
   return result
 }
 

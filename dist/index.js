@@ -17108,10 +17108,7 @@ function hours(key, zone) {
                 throw new Error(`Invalid "${key}" was given. The example format is "16:30 on Monday"`);
             }
         }
-    }, { base: DateTime.fromISO("invalid") });
-    if (result.base.invalidExplanation != null) {
-        throw new Error(`"${key}" requires at least basic hour like "16:30"`);
-    }
+    }, { base: dateTime("hh:mm", "00:00", zone) });
     return result;
 }
 function holidayEntries(region) {
