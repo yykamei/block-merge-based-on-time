@@ -31,7 +31,7 @@ jobs:
   block:
     runs-on: ubuntu-latest
     steps:
-      - uses: yykamei/block-merge-based-on-time@v1
+      - uses: yykamei/block-merge-based-on-time@main
         with:
           timezone: Pacific/Honolulu
           after: "17:30, 16:30 on Monday"
