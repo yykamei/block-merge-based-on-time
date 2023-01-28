@@ -1,5 +1,17 @@
 # Changelog
 
+## [v2.1.2](https://github.com/yykamei/block-merge-based-on-time/tree/v2.1.2) (2023-01-28)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.1.1...v2.1.2)
+
+**Implemented enhancements:**
+
+- Update Holidays [\#1081](https://github.com/yykamei/block-merge-based-on-time/pull/1081) ([github-actions[bot]](https://github.com/apps/github-actions))
+
+**Merged pull requests:**
+
+- Bump @vercel/ncc from 0.36.0 to 0.36.1 [\#1080](https://github.com/yykamei/block-merge-based-on-time/pull/1080) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.1.1](https://github.com/yykamei/block-merge-based-on-time/tree/v2.1.1) (2023-01-27)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.1.0...v2.1.1)
