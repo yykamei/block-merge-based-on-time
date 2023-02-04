@@ -4227,23 +4227,16 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230102_vv5gfocn4sj5s738hiqklte5d8",
+      "id": "20230103_i4jte50ta51gqeq3c6ghj2u7po",
       "status": "confirmed",
       "summary": "Day off for New Year's Day",
-      "region": "Azerbaijan",
-      "date": "2023-01-02"
-    },
-    {
-      "id": "20230103_lm2jfk096c0k36g23ar8n0c230",
-      "status": "confirmed",
-      "summary": "Day off for New Year's Holiday",
       "region": "Azerbaijan",
       "date": "2023-01-03"
     },
     {
-      "id": "20230104_gochrnsafv5f9roei9pfht4vng",
+      "id": "20230104_fs9jcqh1o195nvq4l84ada49c0",
       "status": "confirmed",
-      "summary": "New Year's Holiday",
+      "summary": "Day off for New Year's Holiday",
       "region": "Azerbaijan",
       "date": "2023-01-04"
     },
@@ -41610,6 +41603,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230206_vlscl0mff12e8pbiro1m8ii7r0",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Maldives",
+      "date": "2023-02-06"
+    },
+    {
       "id": "20230323_ffd24ibde1s8fa39h8v927nnic",
       "status": "confirmed",
       "summary": "Ramadan Start",
@@ -51901,7 +51901,7 @@
     {
       "id": "20240501_avblpf2klhjnid3sfmaj5temk4",
       "status": "confirmed",
-      "summary": "International Worker’s Day",
+      "summary": "International Worker���s Day",
       "region": "Sierra Leone",
       "date": "2024-05-01"
     },
