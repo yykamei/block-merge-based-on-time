@@ -10651,9 +10651,9 @@
       "date": "2023-09-04"
     },
     {
-      "id": "20230930_o3jjfsli3oo5j8a96shtvbqnuk",
+      "id": "20230930_ru2psesmkqhe2437l9581vpor8",
       "status": "confirmed",
-      "summary": "National Day for Truth and Reconciliation (Northwest Territories)",
+      "summary": "National Day for Truth and Reconciliation (regional holiday)",
       "region": "Canada",
       "date": "2023-09-30"
     },
@@ -11008,9 +11008,9 @@
       "date": "2024-09-02"
     },
     {
-      "id": "20240930_ilustivltu7rg340m913mg7rss",
+      "id": "20240930_2pr6c3v8kb4chd9gtt0shfo610",
       "status": "confirmed",
-      "summary": "National Day for Truth and Reconciliation (Northwest Territories)",
+      "summary": "National Day for Truth and Reconciliation (regional holiday)",
       "region": "Canada",
       "date": "2024-09-30"
     },
@@ -15441,6 +15441,13 @@
       "date": "2023-04-07"
     },
     {
+      "id": "20230409_jipnp65kmql77ouc580esdgoi8",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Curaçao",
+      "date": "2023-04-09"
+    },
+    {
       "id": "20230410_jmn9sbh8koe6cr2i7iv0stt7hc",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -15516,6 +15523,13 @@
       "summary": "Good Friday",
       "region": "Curaçao",
       "date": "2024-03-29"
+    },
+    {
+      "id": "20240331_ft6u8om9vsmj8t87nvi5u7799k",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Curaçao",
+      "date": "2024-03-31"
     },
     {
       "id": "20240401_oeodvrhmd3apdgfrd2mgar6bi0",
@@ -16357,7 +16371,7 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240426_fkinj8sdg81fa8r9rulu19uk34",
+      "id": "20240426_33lpa834bk9o4cpgs2rjjggpak",
       "status": "confirmed",
       "summary": "Great Prayer Day",
       "region": "Denmark",
@@ -16937,9 +16951,9 @@
       "date": "2023-08-16"
     },
     {
-      "id": "20230924_deehuf9n0ipbd090lvuhjobea8",
+      "id": "20230924_4h1vfv3e6r734746cfjpe791qs",
       "status": "confirmed",
-      "summary": "Our Lady of Las Mercedes",
+      "summary": "Feast of Our Lady of Mercy",
       "region": "Dominican Republic",
       "date": "2023-09-24"
     },
@@ -17063,9 +17077,9 @@
       "date": "2024-08-16"
     },
     {
-      "id": "20240924_mf1jbpq4aqdhdctk1pkco3c8ac",
+      "id": "20240924_0jn10su8emcaj5fkqk5u59lvg4",
       "status": "confirmed",
-      "summary": "Our Lady of Las Mercedes",
+      "summary": "Feast of Our Lady of Mercy",
       "region": "Dominican Republic",
       "date": "2024-09-24"
     },
@@ -24473,7 +24487,7 @@
       "date": "2023-01-20"
     },
     {
-      "id": "20230308_pji5i30fv47okmp8ufmcd07cao",
+      "id": "20230308_mjbnsn6c8p7jd5kdcdj9annl4c",
       "status": "confirmed",
       "summary": "International Women's Day",
       "region": "Guinea-Bissau",
@@ -24543,7 +24557,7 @@
       "date": "2024-01-20"
     },
     {
-      "id": "20240308_sjq48n8dfe07sj4rmvia53krlk",
+      "id": "20240308_tiu18a7lbgfn1deo86p9uahoq0",
       "status": "confirmed",
       "summary": "International Women's Day",
       "region": "Guinea-Bissau",
@@ -39599,13 +39613,6 @@
       "date": "2023-04-26"
     },
     {
-      "id": "20230505_n4pj098llbfqovdbq89j469p88",
-      "status": "confirmed",
-      "summary": "Great Buddha Day",
-      "region": "Mongolia",
-      "date": "2023-05-05"
-    },
-    {
       "id": "20230515_4d3roucdd21kai7qqlr4pk914s",
       "status": "confirmed",
       "summary": "Family Day",
@@ -39620,6 +39627,13 @@
       "date": "2023-06-01"
     },
     {
+      "id": "20230604_hfmuqqns8na95sd9tlbo6mbr6c",
+      "status": "confirmed",
+      "summary": "Great Buddha Day",
+      "region": "Mongolia",
+      "date": "2023-06-04"
+    },
+    {
       "id": "20230710_bfolufdgiljv3ec7r113ds37o4",
       "status": "confirmed",
       "summary": "Political Flag Day",
@@ -39627,44 +39641,37 @@
       "date": "2023-07-10"
     },
     {
-      "id": "20230710_qqglcpbe4nlm4sbdl14aqj1plc",
+      "id": "20230711_hrp837ccp4l7aksca0ivh0led8",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
-      "region": "Mongolia",
-      "date": "2023-07-10"
-    },
-    {
-      "id": "20230711_htjgpudubijpl1p8sdobh5e7h4",
-      "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam (National Day)",
       "region": "Mongolia",
       "date": "2023-07-11"
     },
     {
-      "id": "20230712_dmo8trjh5ui3rvbhp8snhp6ap4",
+      "id": "20230712_hs74fe7oq3oho5qnbd078pga5k",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam Holiday (National Day Holiday)",
       "region": "Mongolia",
       "date": "2023-07-12"
     },
     {
-      "id": "20230713_k4o6qtegcvq2hjufuervooh3a0",
+      "id": "20230713_b3l57tfnnj78p6qojqj26h27v8",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam Holiday (National Day Holiday)",
       "region": "Mongolia",
       "date": "2023-07-13"
     },
     {
-      "id": "20230714_k8i952gin20o0jos9arm9amjt8",
+      "id": "20230714_ms544o9engqfdcp7vjmjt03te4",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam Holiday (National Day Holiday)",
       "region": "Mongolia",
       "date": "2023-07-14"
     },
     {
-      "id": "20230715_d7e1kr4ituags3u5a14qcapcck",
+      "id": "20230715_45hm1t3d8iap6t8psv4dmdqed4",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam Holiday (National Day Holiday)",
       "region": "Mongolia",
       "date": "2023-07-15"
     },
@@ -39830,44 +39837,37 @@
       "date": "2024-07-10"
     },
     {
-      "id": "20240710_moimrggfgg2mk1tk7905iffv3s",
+      "id": "20240711_g778au2sfq2ta563ucnrest8ek",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
-      "region": "Mongolia",
-      "date": "2024-07-10"
-    },
-    {
-      "id": "20240711_95kabuegb4m6ddira5vf2g1uc4",
-      "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam (National Day)",
       "region": "Mongolia",
       "date": "2024-07-11"
     },
     {
-      "id": "20240712_mi5l4n3dmhodd0d9f7d73v1kb4",
+      "id": "20240712_7shrnjctfboburj319qm1v8plc",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam Holiday (National Day Holiday)",
       "region": "Mongolia",
       "date": "2024-07-12"
     },
     {
-      "id": "20240713_e4tp4rialp854js8te5qvcdpq0",
+      "id": "20240713_4k1av47p8lo69d7jahe5nulbrg",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam Holiday (National Day Holiday)",
       "region": "Mongolia",
       "date": "2024-07-13"
     },
     {
-      "id": "20240714_gd8trevnq8i20i2u2nm60i4vt4",
+      "id": "20240714_kq7m9ge5re3tes0ssncefr5vn8",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam Holiday (National Day Holiday)",
       "region": "Mongolia",
       "date": "2024-07-14"
     },
     {
-      "id": "20240715_nlspmfksjc8mhn7opcbfq11aj4",
+      "id": "20240715_nniq2o86u7fd7bl48i46eqg9ik",
       "status": "confirmed",
-      "summary": "Naadam Holiday (National Day)",
+      "summary": "Naadam Holiday (National Day Holiday)",
       "region": "Mongolia",
       "date": "2024-07-15"
     },
@@ -55971,18 +55971,18 @@
       "date": "2023-04-27"
     },
     {
-      "id": "20230430_kq1oij8kbnlkovq0fmq7hls0l8",
-      "status": "confirmed",
-      "summary": "Carnival Day",
-      "region": "Sint Maarten",
-      "date": "2023-04-30"
-    },
-    {
       "id": "20230501_j20go5307gqgmlt33qj4abqjos",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
       "region": "Sint Maarten",
       "date": "2023-05-01"
+    },
+    {
+      "id": "20230502_sqt03e4e65n0en1mhnnt6oe7qg",
+      "status": "confirmed",
+      "summary": "Carnival Day",
+      "region": "Sint Maarten",
+      "date": "2023-05-02"
     },
     {
       "id": "20230518_1ejpeqcm5328eqr1mlmo0m9up4",
@@ -63068,18 +63068,18 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230703_fbga5tua0reu9qrkehf1oiol34",
+      "id": "20230710_9sc2ipsd35c7ttcs576arq9sns",
       "status": "confirmed",
       "summary": "Carnival Monday",
       "region": "St. Vincent & Grenadines",
-      "date": "2023-07-03"
+      "date": "2023-07-10"
     },
     {
-      "id": "20230704_m3big0521ljfbembvnvv433mf8",
+      "id": "20230711_3tadq02efdti2ku26f7u7o381c",
       "status": "confirmed",
       "summary": "Carnival Tuesday",
       "region": "St. Vincent & Grenadines",
-      "date": "2023-07-04"
+      "date": "2023-07-11"
     },
     {
       "id": "20230801_gaa0ec8orbpajbmuqmkq8rlb94",
