@@ -1,5 +1,25 @@
 # Changelog
 
+## [v2.1.15](https://github.com/yykamei/block-merge-based-on-time/tree/v2.1.15) (2023-03-10)
+
+[Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.1.14...v2.1.15)
+
+**Implemented enhancements:**
+
+- Update Holidays [\#1124](https://github.com/yykamei/block-merge-based-on-time/pull/1124) ([github-actions[bot]](https://github.com/apps/github-actions))
+
+**Closed issues:**
+
+- Cron job is not running on opened PRs [\#1123](https://github.com/yykamei/block-merge-based-on-time/issues/1123)
+
+**Merged pull requests:**
+
+- Bump luxon from 3.2.1 to 3.3.0 [\#1122](https://github.com/yykamei/block-merge-based-on-time/pull/1122) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @types/node from 18.14.1 to 18.14.6 [\#1121](https://github.com/yykamei/block-merge-based-on-time/pull/1121) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/parser from 5.53.0 to 5.54.0 [\#1120](https://github.com/yykamei/block-merge-based-on-time/pull/1120) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump eslint from 8.34.0 to 8.35.0 [\#1119](https://github.com/yykamei/block-merge-based-on-time/pull/1119) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump @typescript-eslint/eslint-plugin from 5.53.0 to 5.54.0 [\#1118](https://github.com/yykamei/block-merge-based-on-time/pull/1118) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v2.1.14](https://github.com/yykamei/block-merge-based-on-time/tree/v2.1.14) (2023-03-03)
 
 [Full Changelog](https://github.com/yykamei/block-merge-based-on-time/compare/v2.1.13...v2.1.14)
