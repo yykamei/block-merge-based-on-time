@@ -7362,6 +7362,20 @@
       "date": "2023-04-09"
     },
     {
+      "id": "20230506_fq63pihfnelrm4g7sjodr0gb94",
+      "status": "confirmed",
+      "summary": "The Coronation of His Majesty King Charles III",
+      "region": "Bermuda",
+      "date": "2023-05-06"
+    },
+    {
+      "id": "20230508_nklmjkr8h3p90cq63mfmtf7s0o",
+      "status": "confirmed",
+      "summary": "Holiday for the Coronation of His Majesty King Charles III",
+      "region": "Bermuda",
+      "date": "2023-05-08"
+    },
+    {
       "id": "20230514_q8j68u0qirnlf0qc1tfv6j0gg4",
       "status": "confirmed",
       "summary": "Mothers' Day",
@@ -14968,6 +14982,13 @@
       "date": "2023-01-02"
     },
     {
+      "id": "20230103_icci64a35pd439gg126t6flrdo",
+      "status": "confirmed",
+      "summary": "Day off for Liberation Day",
+      "region": "Cuba",
+      "date": "2023-01-03"
+    },
+    {
       "id": "20230106_bc9b858nqjatqf9cjib94df5ec",
       "status": "confirmed",
       "summary": "Epiphany",
@@ -17550,6 +17571,13 @@
       "summary": "Day off for New Year's Day",
       "region": "Ecuador",
       "date": "2023-01-02"
+    },
+    {
+      "id": "20230206_v1n5oae0p22da5ib7pioccrfp8",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Ecuador",
+      "date": "2023-02-06"
     },
     {
       "id": "20230220_dv4kfogf23849v0e4eqeissjmo",
@@ -35741,7 +35769,7 @@
       "date": "2023-02-01"
     },
     {
-      "id": "20230205_atrojcv2d3lklktv1vi294k0q0",
+      "id": "20230205_6vc13168dmn2evfmrd6qug3u3c",
       "status": "confirmed",
       "summary": "Thaipusam (regional holiday)",
       "region": "Malaysia",
@@ -41002,11 +41030,18 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_edt7n1h482f3s59q5rgkmmao8o",
+      "id": "20230102_140o3hd0q6hnk8ikmpjph5ep84",
+      "status": "confirmed",
+      "summary": "Festival Day observed",
+      "region": "Montserrat",
+      "date": "2023-01-02"
+    },
+    {
+      "id": "20230103_rqh1s0sqgdlustlete2v2qdqjg",
       "status": "confirmed",
       "summary": "New Year's Day observed",
       "region": "Montserrat",
-      "date": "2023-01-02"
+      "date": "2023-01-03"
     },
     {
       "id": "20230317_eh5u7ru1e19bhie0k5h1sgm404",
@@ -41035,6 +41070,20 @@
       "summary": "Labour Day",
       "region": "Montserrat",
       "date": "2023-05-01"
+    },
+    {
+      "id": "20230506_dlt273nrjii1fotbcds54gria8",
+      "status": "confirmed",
+      "summary": "Coronation of King Charles III",
+      "region": "Montserrat",
+      "date": "2023-05-06"
+    },
+    {
+      "id": "20230508_ugsch44cj8s8f0d2egesabolrs",
+      "status": "confirmed",
+      "summary": "Holiday for the Coronation of King Charles III",
+      "region": "Montserrat",
+      "date": "2023-05-08"
     },
     {
       "id": "20230529_7rejkieoel3dnes77jvtijp62g",
@@ -41072,11 +41121,25 @@
       "date": "2023-12-31"
     },
     {
+      "id": "20240101_mj706o0s6ctfh96k84oukdgep4",
+      "status": "confirmed",
+      "summary": "Festival Day observed",
+      "region": "Montserrat",
+      "date": "2024-01-01"
+    },
+    {
       "id": "20240101_vvi4cig55etvp37ear9rgd7lms",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Montserrat",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240102_hrrq3ko2c384l97bshodt6j77c",
+      "status": "confirmed",
+      "summary": "New Year's Day observed",
+      "region": "Montserrat",
+      "date": "2024-01-02"
     },
     {
       "id": "20240317_vi1ss0ve4sns6djs5cbfvn90t0",
@@ -51531,6 +51594,20 @@
       "date": "2023-04-10"
     },
     {
+      "id": "20230506_0afq3gdt5l0sr2fhq0glqucd3c",
+      "status": "confirmed",
+      "summary": "Holiday for the Coronation of His Majesty King Charles III",
+      "region": "St. Helena",
+      "date": "2023-05-06"
+    },
+    {
+      "id": "20230508_6901mnhkiu4bdgvt4ddiohu8hs",
+      "status": "confirmed",
+      "summary": "Holiday for the Coronation of His Majesty King Charles III",
+      "region": "St. Helena",
+      "date": "2023-05-08"
+    },
+    {
       "id": "20230521_kor32ug9tld4g768sts0ujmip4",
       "status": "confirmed",
       "summary": "Saint Helena Day",
@@ -57148,6 +57225,20 @@
       "date": "2023-04-10"
     },
     {
+      "id": "20230506_5enp4jj0v47olu5q083kl7r724",
+      "status": "confirmed",
+      "summary": "Coronation of King Charles III",
+      "region": "Turks & Caicos Islands",
+      "date": "2023-05-06"
+    },
+    {
+      "id": "20230508_pu8v3bopao2feapkkirn9svg90",
+      "status": "confirmed",
+      "summary": "Public Holiday for the Coronation of King Charles III",
+      "region": "Turks & Caicos Islands",
+      "date": "2023-05-08"
+    },
+    {
       "id": "20230529_m6pmqrpkudn08au217jg6ontac",
       "status": "confirmed",
       "summary": "JAGS McCartney Day",
@@ -57155,11 +57246,11 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230612_tk01h69s8v6c7goonq27jnubng",
+      "id": "20230619_jn790pcthumc8v6j7su3s4h6d0",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
+      "summary": "King's Birthday",
       "region": "Turks & Caicos Islands",
-      "date": "2023-06-12"
+      "date": "2023-06-19"
     },
     {
       "id": "20230801_qse4dco8suh0dgj00o47ca92ss",
@@ -57253,11 +57344,11 @@
       "date": "2024-05-27"
     },
     {
-      "id": "20240610_230j3uurug7e9vjemmehg33f5g",
+      "id": "20240619_4jjnc3nk91t4m1hfhtpfddbfrk",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
+      "summary": "King's Birthday",
       "region": "Turks & Caicos Islands",
-      "date": "2024-06-10"
+      "date": "2024-06-19"
     },
     {
       "id": "20240801_qsl9pm9hsq4qmtaf4p055254pk",
