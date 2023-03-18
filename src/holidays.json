@@ -3129,7 +3129,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_gi3s397tdfb9t1cqnc0ne8ba2c",
+      "id": "20230409_d23ii6866qsqg0qr2fg83qal6c",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3353,7 +3353,7 @@
       "date": "2023-12-26"
     },
     {
-      "id": "20231231_krhncjttnbo5m3gn5t9msc0hkg",
+      "id": "20231231_dfrk6670gdkbiafs1rs3nqc1sg",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -3451,7 +3451,7 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_og52hrcu6ha72ur5c5tu6bh3so",
+      "id": "20240331_av40mfebghje6hhl8148sgdnko",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -6493,13 +6493,6 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240410_bf8t6lt3rl84j2c65q1qbkipao",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
-      "region": "Bahrain",
-      "date": "2024-04-10"
-    },
-    {
       "id": "20240410_upe1mjglu3921qf3qkpv7selmk",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -6512,6 +6505,13 @@
       "summary": "Eid al-Fitr Holiday",
       "region": "Bahrain",
       "date": "2024-04-11"
+    },
+    {
+      "id": "20240412_92u5bctai17jfoaul9k1civc9o",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Bahrain",
+      "date": "2024-04-12"
     },
     {
       "id": "20240501_hco7pufrpmltpfsu3pbt9kqjug",
@@ -10511,6 +10511,13 @@
       "date": "2023-04-24"
     },
     {
+      "id": "20230506_n6skto437o5hu88mjlbvf286t4",
+      "status": "confirmed",
+      "summary": "The Coronation of King Charles III",
+      "region": "Canada",
+      "date": "2023-05-06"
+    },
+    {
       "id": "20230514_eib5fn5f0an0vk50ok2o811fho",
       "status": "confirmed",
       "summary": "Mother's Day",
@@ -10840,14 +10847,14 @@
       "date": "2024-03-29"
     },
     {
-      "id": "20240331_q9tn8s03abt3aco5olqs0dlmpc",
+      "id": "20240331_p0punhe7nedv9mlgnum9u2oeas",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_q95mli7t31cj30od1ofb9jfd6o",
+      "id": "20240401_t2qud387ll2a3ckqsd3oapsjao",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -11050,7 +11057,7 @@
       "date": "2024-11-03"
     },
     {
-      "id": "20241111_mij1qali60ah3sqc9p4dus2drs",
+      "id": "20241111_8v87evs0q7d4pqghjr3i9hiiik",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -50809,6 +50816,13 @@
       "date": "2023-02-23"
     },
     {
+      "id": "20230311_t19jln90lqsbstu4pvrlmq2ju4",
+      "status": "confirmed",
+      "summary": "Flag Day",
+      "region": "Saudi Arabia",
+      "date": "2023-03-11"
+    },
+    {
       "id": "20230323_fnmirsrn0jvpmov1shtroeuuh4",
       "status": "confirmed",
       "summary": "Ramadan begins",
@@ -50898,6 +50912,13 @@
       "summary": "Founding Day",
       "region": "Saudi Arabia",
       "date": "2024-02-22"
+    },
+    {
+      "id": "20240311_ic5j40h7itbhse8s1v33gkenhg",
+      "status": "confirmed",
+      "summary": "Flag Day",
+      "region": "Saudi Arabia",
+      "date": "2024-03-11"
     },
     {
       "id": "20240311_rgkhn6srbqrosss3fsdl24gg64",
