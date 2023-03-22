@@ -6253,9 +6253,9 @@
       "date": "2023-10-31"
     },
     {
-      "id": "20231101_kvs4bmjtgrv22tad3guuv2aog4",
+      "id": "20231101_1bvpa3c6nkj56p0m11segl8nr4",
       "status": "confirmed",
-      "summary": "All Saints",
+      "summary": "All Saints’ Day",
       "region": "Burkina Faso",
       "date": "2023-11-01"
     },
@@ -6358,9 +6358,9 @@
       "date": "2024-10-31"
     },
     {
-      "id": "20241101_jcf6g5gdu379plen4v5k3nlh60",
+      "id": "20241101_6o4tks3vcc49ld92ibksocbsf0",
       "status": "confirmed",
-      "summary": "All Saints",
+      "summary": "All Saints’ Day",
       "region": "Burkina Faso",
       "date": "2024-11-01"
     },
@@ -11425,9 +11425,9 @@
       "date": "2023-08-15"
     },
     {
-      "id": "20231101_h01djutv8u2gfhktkq2mq7cmdg",
+      "id": "20231101_dmf8nee2malrpqrno0pohnhu18",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Central African Republic",
       "date": "2023-11-01"
     },
@@ -11523,9 +11523,9 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20241101_jsfk2b3k5vpoh0g5iah5er73k8",
+      "id": "20241101_dj1ho0gmkgi47a4lphbd9o1ud8",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Central African Republic",
       "date": "2024-11-01"
     },
@@ -11616,9 +11616,9 @@
       "date": "2023-08-15"
     },
     {
-      "id": "20231101_pd9fabodosft7vkoho68g4s9b8",
+      "id": "20231101_cvk7e3pvdh6u4t2tlhrecfvi74",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Congo - Brazzaville",
       "date": "2023-11-01"
     },
@@ -11707,9 +11707,9 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20241101_aubt71bq2kun71ck7tdfkilmv4",
+      "id": "20241101_11suq0dgtjnob1ui9mp1q1c8q0",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Congo - Brazzaville",
       "date": "2024-11-01"
     },
@@ -20416,9 +20416,9 @@
       "date": "2023-08-17"
     },
     {
-      "id": "20231101_c4ipjp9vb4lb29p0hf0h5ddmsk",
+      "id": "20231101_fkectvdom9j9r0jke19km5s7m8",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Gabon",
       "date": "2023-11-01"
     },
@@ -20528,9 +20528,9 @@
       "date": "2024-08-17"
     },
     {
-      "id": "20241101_b8fj0bb1pn8fbqs8qoedgvb76g",
+      "id": "20241101_sku3hp0718i868kagupnguvr30",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Gabon",
       "date": "2024-11-01"
     },
@@ -21129,7 +21129,7 @@
       "date": "2023-02-22"
     },
     {
-      "id": "20230308_ikti9n8863vf71adijij106eu8",
+      "id": "20230308_tdp3dn8etpgf0lf9qhog14qb40",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -21171,7 +21171,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_sn3ugr8sej4mgqdsq9hadv0f10",
+      "id": "20230409_sbhcqcgm1s5duvp1kng37gpiss",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -21416,7 +21416,7 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240308_a5c7rcs2fb8embjvvv2ilaatno",
+      "id": "20240308_47fko4nc5h6rff8u0o34t57oig",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -21451,16 +21451,16 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_lhbmt9cej9n7toq2u5iil3ttro",
+      "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
       "status": "confirmed",
-      "summary": "Easter Sunday (regional holiday)",
+      "summary": "Daylight Saving Time starts",
       "region": "Germany",
       "date": "2024-03-31"
     },
     {
-      "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
+      "id": "20240331_umue8vbd4te9sjondjf55ka904",
       "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
+      "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
       "date": "2024-03-31"
     },
@@ -21507,7 +21507,7 @@
       "date": "2024-05-12"
     },
     {
-      "id": "20240519_isvnoh6auet8v6mbrn55kic1a8",
+      "id": "20240519_2f4ikmc01co4277ji1nj2au848",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -25333,9 +25333,9 @@
       "date": "2023-12-26"
     },
     {
-      "id": "20231231_3ghhp9nc5b19h442evk7d457ec",
+      "id": "20231231_qted6ukggrof3ev4g8au0mck8g",
       "status": "confirmed",
-      "summary": "New Year’ Eve",
+      "summary": "New Year’s Eve",
       "region": "Hong Kong",
       "date": "2023-12-31"
     },
@@ -25501,9 +25501,9 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_uoh39gs7jcd432h8nitdgqogj8",
+      "id": "20241231_vnepkm4onrvl67lman60pf6bjs",
       "status": "confirmed",
-      "summary": "New Year’ Eve",
+      "summary": "New Year’s Eve",
       "region": "Hong Kong",
       "date": "2024-12-31"
     }
