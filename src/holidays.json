@@ -1236,6 +1236,13 @@
       "date": "2023-03-22"
     },
     {
+      "id": "20230323_5ml0r61igb1r3q1gcfpsqheeu8",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Albania",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230326_07advtdk4n45kov2svlok5ldak",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
@@ -1430,6 +1437,13 @@
       "summary": "Mothers' Day",
       "region": "Albania",
       "date": "2024-03-08"
+    },
+    {
+      "id": "20240311_34m4hvs58er04b23hh2bfsiut4",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Albania",
+      "date": "2024-03-11"
     },
     {
       "id": "20240314_7qsu8id4qrviijmldeqbre7thg",
@@ -4663,6 +4677,13 @@
       "date": "2023-03-08"
     },
     {
+      "id": "20230323_4l7p5tgpni2ipmgifkhb2e7stg",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Bosnia & Herzegovina",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230407_n17t2lu98bmqmgpfkmuepkh6q8",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -4836,6 +4857,13 @@
       "summary": "Mothers' Day",
       "region": "Bosnia & Herzegovina",
       "date": "2024-03-08"
+    },
+    {
+      "id": "20240311_ve36ocj4uo0pbgnsf9kt28esg4",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Bosnia & Herzegovina",
+      "date": "2024-03-11"
     },
     {
       "id": "20240329_ucu2ehein35sk3olhe03mm1ork",
@@ -5318,6 +5346,13 @@
       "date": "2023-03-19"
     },
     {
+      "id": "20230324_octq8s463jt0icrlfdc16fjvq4",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Bangladesh",
+      "date": "2023-03-24"
+    },
+    {
       "id": "20230326_g8comijk38eiukv526jo7hkues",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -5582,6 +5617,13 @@
       "summary": "Shab e-Barat",
       "region": "Bangladesh",
       "date": "2024-02-26"
+    },
+    {
+      "id": "20240311_khqkln7p8o1ivh5chs6f6fo6b8",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Bangladesh",
+      "date": "2024-03-11"
     },
     {
       "id": "20240317_2m5g84mnkvok7bherm5f37n0ok",
@@ -6253,9 +6295,9 @@
       "date": "2023-10-31"
     },
     {
-      "id": "20231101_kvs4bmjtgrv22tad3guuv2aog4",
+      "id": "20231101_1bvpa3c6nkj56p0m11segl8nr4",
       "status": "confirmed",
-      "summary": "All Saints",
+      "summary": "All Saints’ Day",
       "region": "Burkina Faso",
       "date": "2023-11-01"
     },
@@ -6358,9 +6400,9 @@
       "date": "2024-10-31"
     },
     {
-      "id": "20241101_jcf6g5gdu379plen4v5k3nlh60",
+      "id": "20241101_6o4tks3vcc49ld92ibksocbsf0",
       "status": "confirmed",
-      "summary": "All Saints",
+      "summary": "All Saints’ Day",
       "region": "Burkina Faso",
       "date": "2024-11-01"
     },
@@ -6386,6 +6428,13 @@
       "summary": "New Year",
       "region": "Bahrain",
       "date": "2023-01-01"
+    },
+    {
+      "id": "20230323_51ep7230ueeeunh9pvd94mvdro",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Bahrain",
+      "date": "2023-03-23"
     },
     {
       "id": "20230422_0uonufa8f494unbnc2598hjit8",
@@ -6491,6 +6540,13 @@
       "summary": "New Year",
       "region": "Bahrain",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240311_1lfu5m47gp93hariqc6v4rfig4",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Bahrain",
+      "date": "2024-03-11"
     },
     {
       "id": "20240410_upe1mjglu3921qf3qkpv7selmk",
@@ -11425,9 +11481,9 @@
       "date": "2023-08-15"
     },
     {
-      "id": "20231101_h01djutv8u2gfhktkq2mq7cmdg",
+      "id": "20231101_dmf8nee2malrpqrno0pohnhu18",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Central African Republic",
       "date": "2023-11-01"
     },
@@ -11523,9 +11579,9 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20241101_jsfk2b3k5vpoh0g5iah5er73k8",
+      "id": "20241101_dj1ho0gmkgi47a4lphbd9o1ud8",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Central African Republic",
       "date": "2024-11-01"
     },
@@ -11616,9 +11672,9 @@
       "date": "2023-08-15"
     },
     {
-      "id": "20231101_pd9fabodosft7vkoho68g4s9b8",
+      "id": "20231101_cvk7e3pvdh6u4t2tlhrecfvi74",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Congo - Brazzaville",
       "date": "2023-11-01"
     },
@@ -11707,9 +11763,9 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20241101_aubt71bq2kun71ck7tdfkilmv4",
+      "id": "20241101_11suq0dgtjnob1ui9mp1q1c8q0",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Congo - Brazzaville",
       "date": "2024-11-01"
     },
@@ -17410,6 +17466,13 @@
       "date": "2023-01-12"
     },
     {
+      "id": "20230323_buvo5o6ehupn2ftfqapj9sgfig",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Algeria",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230422_32pn6g055itu5ovub08ek2vd64",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -17492,6 +17555,13 @@
       "summary": "Berber New Year",
       "region": "Algeria",
       "date": "2024-01-12"
+    },
+    {
+      "id": "20240311_dv1r3o30ea07ssd16ikvssnspg",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Algeria",
+      "date": "2024-03-11"
     },
     {
       "id": "20240410_gf8v62dtqjagr5kob0ln9c7fd4",
@@ -18228,6 +18298,13 @@
       "date": "2023-01-26"
     },
     {
+      "id": "20230323_k0pl2f5reo49o16vour8db942k",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Egypt",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230414_8b6artskaqqj01rl4ehltrrfao",
       "status": "confirmed",
       "summary": "Coptic Good Friday",
@@ -18387,6 +18464,13 @@
       "summary": "Revolution Day January 25",
       "region": "Egypt",
       "date": "2024-01-25"
+    },
+    {
+      "id": "20240312_olbd03lv08qf5bhfquaaf0iqq0",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Egypt",
+      "date": "2024-03-12"
     },
     {
       "id": "20240410_kltmrueuc064h0tbrhs100hl44",
@@ -20416,9 +20500,9 @@
       "date": "2023-08-17"
     },
     {
-      "id": "20231101_c4ipjp9vb4lb29p0hf0h5ddmsk",
+      "id": "20231101_fkectvdom9j9r0jke19km5s7m8",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Gabon",
       "date": "2023-11-01"
     },
@@ -20528,9 +20612,9 @@
       "date": "2024-08-17"
     },
     {
-      "id": "20241101_b8fj0bb1pn8fbqs8qoedgvb76g",
+      "id": "20241101_sku3hp0718i868kagupnguvr30",
       "status": "confirmed",
-      "summary": "All Saints' Eve",
+      "summary": "All Saints' Day",
       "region": "Gabon",
       "date": "2024-11-01"
     },
@@ -21129,7 +21213,7 @@
       "date": "2023-02-22"
     },
     {
-      "id": "20230308_ikti9n8863vf71adijij106eu8",
+      "id": "20230308_tdp3dn8etpgf0lf9qhog14qb40",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -21171,7 +21255,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_sn3ugr8sej4mgqdsq9hadv0f10",
+      "id": "20230409_sbhcqcgm1s5duvp1kng37gpiss",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -21416,7 +21500,7 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240308_a5c7rcs2fb8embjvvv2ilaatno",
+      "id": "20240308_47fko4nc5h6rff8u0o34t57oig",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -21451,16 +21535,16 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_lhbmt9cej9n7toq2u5iil3ttro",
+      "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
       "status": "confirmed",
-      "summary": "Easter Sunday (regional holiday)",
+      "summary": "Daylight Saving Time starts",
       "region": "Germany",
       "date": "2024-03-31"
     },
     {
-      "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
+      "id": "20240331_umue8vbd4te9sjondjf55ka904",
       "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
+      "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
       "date": "2024-03-31"
     },
@@ -21507,7 +21591,7 @@
       "date": "2024-05-12"
     },
     {
-      "id": "20240519_isvnoh6auet8v6mbrn55kic1a8",
+      "id": "20240519_2f4ikmc01co4277ji1nj2au848",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -22714,6 +22798,13 @@
       "date": "2023-01-06"
     },
     {
+      "id": "20230325_jm80esij12hl2hjo4rl3tm6of8",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time starts",
+      "region": "Greenland",
+      "date": "2023-03-25"
+    },
+    {
       "id": "20230406_9319ulofa0t6gscogb0ucrs314",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -22761,6 +22852,13 @@
       "summary": "National Day",
       "region": "Greenland",
       "date": "2023-06-21"
+    },
+    {
+      "id": "20231028_7tr7f0001aqtmst20tkfocrhm0",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time ends",
+      "region": "Greenland",
+      "date": "2023-10-28"
     },
     {
       "id": "20231224_u4qqrr1iatavkvhql38bolksl8",
@@ -22819,6 +22917,13 @@
       "date": "2024-03-29"
     },
     {
+      "id": "20240330_l92bns2k64jhp9fgvqbcemlne4",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time starts",
+      "region": "Greenland",
+      "date": "2024-03-30"
+    },
+    {
       "id": "20240401_qa5h8o61au4hgmbg98nqfct0s0",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -22852,6 +22957,13 @@
       "summary": "National Day",
       "region": "Greenland",
       "date": "2024-06-21"
+    },
+    {
+      "id": "20241027_c6edj0d00junl8srkjas1gaplo",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time ends",
+      "region": "Greenland",
+      "date": "2024-10-27"
     },
     {
       "id": "20241224_ths9661jqfrmqurdm936htgbv8",
@@ -25333,9 +25445,9 @@
       "date": "2023-12-26"
     },
     {
-      "id": "20231231_3ghhp9nc5b19h442evk7d457ec",
+      "id": "20231231_qted6ukggrof3ev4g8au0mck8g",
       "status": "confirmed",
-      "summary": "New Year’ Eve",
+      "summary": "New Year’s Eve",
       "region": "Hong Kong",
       "date": "2023-12-31"
     },
@@ -25501,9 +25613,9 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_uoh39gs7jcd432h8nitdgqogj8",
+      "id": "20241231_vnepkm4onrvl67lman60pf6bjs",
       "status": "confirmed",
-      "summary": "New Year’ Eve",
+      "summary": "New Year’s Eve",
       "region": "Hong Kong",
       "date": "2024-12-31"
     }
@@ -26293,6 +26405,13 @@
       "date": "2023-03-22"
     },
     {
+      "id": "20230324_ncs4fk2ltetqgr5cjfcnh4fags",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "India",
+      "date": "2023-03-24"
+    },
+    {
       "id": "20230330_ulg1qqfo5rtv4oalupifaa6n9c",
       "status": "confirmed",
       "summary": "Rama Navami",
@@ -26662,6 +26781,13 @@
       "summary": "Maha Shivaratri/Shivaratri",
       "region": "India",
       "date": "2024-03-08"
+    },
+    {
+      "id": "20240312_0trljlg0v4sgivu3qr1u9i4cco",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "India",
+      "date": "2024-03-12"
     },
     {
       "id": "20240324_tq78j2vb0hgimvkhl098oqpb4o",
@@ -30433,6 +30559,13 @@
       "date": "2023-01-02"
     },
     {
+      "id": "20230323_bka6k5708u25h3c8s2n6c80j4s",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Kenya",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230407_qb3tntg7k6oc46qlc0pkmm3n7k",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -30550,6 +30683,13 @@
       "summary": "New Year's Day",
       "region": "Kenya",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240311_ce82t7r7g1iqnb18ket707i6mk",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Kenya",
+      "date": "2024-03-11"
     },
     {
       "id": "20240329_635euk6ppb1313hhl9b2pm13o8",
@@ -32092,6 +32232,13 @@
       "date": "2023-02-27"
     },
     {
+      "id": "20230323_nht0254f3bvgds663i5500m08g",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Kuwait",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230422_bur2lmbq529k2pe8oiq5ebtjvk",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -32188,6 +32335,13 @@
       "summary": "Liberation Day",
       "region": "Kuwait",
       "date": "2024-02-26"
+    },
+    {
+      "id": "20240311_20bnbhuekbogf74v4m93dd9uak",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Kuwait",
+      "date": "2024-03-11"
     },
     {
       "id": "20240410_8b052n2npmlb2u7nsinrk564t4",
@@ -39070,6 +39224,13 @@
       "date": "2023-01-20"
     },
     {
+      "id": "20230323_ctqsmlj9506km2gkjn746oi2qg",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Mali",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230326_n5gsr9l5audc21laoevbcn2rr8",
       "status": "confirmed",
       "summary": "Martyrs' Day",
@@ -39173,6 +39334,13 @@
       "summary": "Army Day",
       "region": "Mali",
       "date": "2024-01-20"
+    },
+    {
+      "id": "20240311_er55ttrdjbd9f5oc774rn8p9hk",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Mali",
+      "date": "2024-03-11"
     },
     {
       "id": "20240326_5kq3icnpkt1t8hnme8pbrr9ujk",
@@ -45127,6 +45295,13 @@
       "date": "2023-02-19"
     },
     {
+      "id": "20230323_20kbasrfhj30ds00k8i8npslcc",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Oman",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230422_oq850bfh4a4f0j2g8udgmr6ibs",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -45223,6 +45398,13 @@
       "summary": "Isra and Mi'raj",
       "region": "Oman",
       "date": "2024-02-07"
+    },
+    {
+      "id": "20240311_etlb6n75779ln9eikhtfv9am0c",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Oman",
+      "date": "2024-03-11"
     },
     {
       "id": "20240410_2amjrhp2a6he46ob4fiq3ugj74",
@@ -48849,6 +49031,13 @@
       "date": "2023-02-14"
     },
     {
+      "id": "20230323_150ufn35q80n0q1ujrt5sctv5g",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Qatar",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230421_lu449vk6rtjskkkc2ek7ghili8",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -48917,6 +49106,13 @@
       "summary": "National Sports Day",
       "region": "Qatar",
       "date": "2024-02-13"
+    },
+    {
+      "id": "20240311_8gr4c6b0pihfdereug077hneg0",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Qatar",
+      "date": "2024-03-11"
     },
     {
       "id": "20240410_nta23i5151oukff0g9rtr10bts",
@@ -53104,6 +53300,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230323_ihimv7ci0d9gb4lgs3opocf3k8",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Senegal",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230404_h174m3nhiofgn72uo7kjcha9i4",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -53214,6 +53417,13 @@
       "summary": "New Year",
       "region": "Senegal",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240311_14ae6bhe8fa759eurgp61u9n20",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Senegal",
+      "date": "2024-03-11"
     },
     {
       "id": "20240401_4gcle2jkmmt1trro88d1k4oqjc",
@@ -59290,6 +59500,13 @@
       "date": "2023-03-20"
     },
     {
+      "id": "20230323_k9i6hdul92vifcaf2p7s7m2c5o",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Tunisia",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230409_el6klphbtah8n6kihp5r9id1tg",
       "status": "confirmed",
       "summary": "Martyrs' Day",
@@ -59386,6 +59603,13 @@
       "summary": "New Year",
       "region": "Tunisia",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240311_bbmg4471iimmspsiphi6thous8",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Tunisia",
+      "date": "2024-03-11"
     },
     {
       "id": "20240320_ckvhn4qitrpke4kuhimdv4otu0",
@@ -60786,6 +61010,13 @@
       "date": "2023-03-08"
     },
     {
+      "id": "20230323_3pp7686bp6vrc2gp02ep791tgg",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Uganda",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230407_ouf5kdkfv20v71876eoju77v3o",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -60903,6 +61134,13 @@
       "summary": "International Women's Day",
       "region": "Uganda",
       "date": "2024-03-08"
+    },
+    {
+      "id": "20240311_u2s631lrteq0fc6n14khb2qocc",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Uganda",
+      "date": "2024-03-11"
     },
     {
       "id": "20240329_v1h0e4116ehbogts4lp1hui32g",
@@ -65205,6 +65443,13 @@
       "date": "2023-03-06"
     },
     {
+      "id": "20230323_0fvopf92c3hhiv33rkaghkt5bg",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Kosovo",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230326_60g74kbq290fi6l4okh34vv4ho",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
@@ -65399,6 +65644,13 @@
       "summary": "Day of Memorial and Respect for Veterans",
       "region": "Kosovo",
       "date": "2024-03-06"
+    },
+    {
+      "id": "20240311_m42gshaf0ls28jbbf8oleuust4",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Kosovo",
+      "date": "2024-03-11"
     },
     {
       "id": "20240331_cs4t54pln586d9ateugjt9t7fg",
@@ -65804,6 +66056,13 @@
       "date": "2023-02-18"
     },
     {
+      "id": "20230324_59qk5qmplgjnpe5o6chpo1rpuk",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Mayotte",
+      "date": "2023-03-24"
+    },
+    {
       "id": "20230410_h5tmjf6rlq2ntd1ptvfdqin3m8",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -65921,6 +66180,13 @@
       "summary": "Mi'raj",
       "region": "Mayotte",
       "date": "2024-02-07"
+    },
+    {
+      "id": "20240311_1p1ha9gc6an8u8tc3t1ar6h684",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Mayotte",
+      "date": "2024-03-11"
     },
     {
       "id": "20240401_3661308hvaflesq9dlb6jum7k8",
