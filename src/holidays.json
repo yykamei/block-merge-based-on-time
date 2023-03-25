@@ -20521,6 +20521,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230323_7uuocedoemq65u4t6ueh9c5ino",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Gabon",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230409_iv4mkg37tmvm49i1db9dn8vak8",
       "status": "confirmed",
       "summary": "Easter Sunday",
@@ -20631,6 +20638,13 @@
       "summary": "New Year",
       "region": "Gabon",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240311_ntdhb7clum1s3uocant7cq78no",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Gabon",
+      "date": "2024-03-11"
     },
     {
       "id": "20240331_nccr96ajngpi566212gh7rsnfg",
@@ -28021,6 +28035,13 @@
       "date": "2023-03-23"
     },
     {
+      "id": "20230323_8ceioc311p3r8dpghr0j9qgh8k",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Iran",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230324_45vad8rrq4atnpahti9udk1pe4",
       "status": "confirmed",
       "summary": "Norooz Holiday",
@@ -28180,6 +28201,13 @@
       "summary": "Imam Mahdi's birthday",
       "region": "Iran",
       "date": "2024-02-25"
+    },
+    {
+      "id": "20240312_1t5dnf4j3smdoibdcj808aloo8",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Iran",
+      "date": "2024-03-12"
     },
     {
       "id": "20240320_ree2mat4r41hodisuahc1h43tc",
@@ -33719,13 +33747,6 @@
       "date": "2023-03-25"
     },
     {
-      "id": "20230326_tqh1nbeor88e79i3s6ks9m2mhs",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Lebanon",
-      "date": "2023-03-26"
-    },
-    {
       "id": "20230407_peh8fd3pp2ipi4timgmspcdvfg",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -33759,6 +33780,13 @@
       "summary": "Orthodox Easter Monday",
       "region": "Lebanon",
       "date": "2023-04-17"
+    },
+    {
+      "id": "20230421_sic5q1fefo5comp1u0ectndvtc",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time starts",
+      "region": "Lebanon",
+      "date": "2023-04-21"
     },
     {
       "id": "20230422_onl6fo1b06i4ncsrrmmbt6k42c",
@@ -52366,6 +52394,13 @@
       "date": "2023-01-24"
     },
     {
+      "id": "20230323_td9ctmviadfa9upi7fei1qj3tc",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Singapore",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230407_5053jpk1pj38uk70n1odd4tem8",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -52483,6 +52518,13 @@
       "summary": "Lunar New Year's Day",
       "region": "Singapore",
       "date": "2024-02-10"
+    },
+    {
+      "id": "20240311_phi7sis45i5lc87u30fq0rih7g",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Singapore",
+      "date": "2024-03-11"
     },
     {
       "id": "20240329_ipl8f5douk4hqknhlgg8v9cuf4",
@@ -63379,6 +63421,13 @@
       "date": "2023-03-22"
     },
     {
+      "id": "20230323_4fjbs3rojgt9fg67oaktpd99e8",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Uzbekistan",
+      "date": "2023-03-23"
+    },
+    {
       "id": "20230422_084i7ephc2qa1mbsq7gj1pefk0",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -63468,6 +63517,13 @@
       "summary": "International Women's Day",
       "region": "Uzbekistan",
       "date": "2024-03-08"
+    },
+    {
+      "id": "20240311_52isbbjsdb5e2vcdm5e34kr6d4",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Uzbekistan",
+      "date": "2024-03-11"
     },
     {
       "id": "20240321_unge0m0t0dqe61rrl8r3s4qnn8",
