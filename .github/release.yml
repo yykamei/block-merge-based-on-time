@@ -1,0 +1,21 @@
+changelog:
+  exclude:
+    labels:
+      - chore
+      - no-changelog
+  categories:
+    - title: Features
+      labels:
+        - enhancement
+    - title: Breaking changes
+      labels:
+        - breaking
+    - title: Dependencies
+      labels:
+        - dependencies 
+    - title: Other changes
+      labels:
+        - '*'
+      exclude:
+        labels:
+          - dependencies
