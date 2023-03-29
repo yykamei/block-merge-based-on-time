@@ -12,10 +12,10 @@ changelog:
         - breaking
     - title: Dependencies
       labels:
-        - dependencies 
+        - dependencies
     - title: Other changes
       labels:
-        - '*'
+        - "*"
       exclude:
         labels:
           - dependencies
