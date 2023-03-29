@@ -16,11 +16,6 @@ jobs:
         with:
           token: ${{ secrets.PAT_FOR_RELEASE }}
 
-      - uses: yykamei/actions-update-changelog@main
-        with:
-          future-release: v${{ github.event.inputs.version }}
-          since-tag: v2.0.55
-
       - uses: actions/setup-node@v3
         with:
           node-version: "16"
@@ -41,5 +36,4 @@ jobs:
       - uses: yykamei/actions-release-actions@main
         with:
           tag: v${{ github.event.inputs.version }}
-          title: Release v${{ github.event.inputs.version }}
           apply: ${{ github.event.inputs.apply }}
