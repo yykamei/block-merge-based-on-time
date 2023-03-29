@@ -33754,6 +33754,13 @@
       "date": "2023-03-25"
     },
     {
+      "id": "20230330_ftehu58uod0pjbskltori55kec",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time starts",
+      "region": "Lebanon",
+      "date": "2023-03-30"
+    },
+    {
       "id": "20230407_peh8fd3pp2ipi4timgmspcdvfg",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -33787,13 +33794,6 @@
       "summary": "Orthodox Easter Monday",
       "region": "Lebanon",
       "date": "2023-04-17"
-    },
-    {
-      "id": "20230421_sic5q1fefo5comp1u0ectndvtc",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Lebanon",
-      "date": "2023-04-21"
     },
     {
       "id": "20230422_onl6fo1b06i4ncsrrmmbt6k42c",
