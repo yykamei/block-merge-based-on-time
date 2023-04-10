@@ -153,7 +153,12 @@ function prohibitedDaysDates(zone: Zone): DaysDates {
               holidayEntries(region).forEach((entry) => {
                 let d = DateTime.fromISO(entry.date)
                 d = d.set({ day: d.day - 1 })
-                dates.push(interval(d.toISODate(), zone))
+                // NOTE: `toISODate()` should return string, but the following PR introduced `| IfInvalid<null>`
+                //       for the function, and we cannot succeed type-checking without `!`.
+                //
+                //       https://github.com/DefinitelyTyped/DefinitelyTyped/pull/64995
+                //
+                dates.push(interval(d.toISODate()!, zone))
               })
             }
           } else {
