@@ -18,7 +18,7 @@ export function shouldBlock(inputs: Inputs): boolean {
 }
 
 function isProhibitedDay(now: DateTime, days: Days, dates: Dates) {
-  if (days.includes(now.weekdayLong)) {
+  if (now.weekdayLong && days.includes(now.weekdayLong)) {
     return true
   } else if (dates.some((d) => d.contains(now))) {
     return true

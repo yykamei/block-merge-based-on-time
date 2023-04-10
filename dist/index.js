@@ -17189,6 +17189,11 @@ function prohibitedDaysDates(zone) {
                         holidayEntries(region).forEach((entry) => {
                             let d = DateTime.fromISO(entry.date);
                             d = d.set({ day: d.day - 1 });
+                            // NOTE: `toISODate()` should return string, but the following PR introduced `| IfInvalid<null>`
+                            //       for the function, and we cannot succeed type-checking without `!`.
+                            //
+                            //       https://github.com/DefinitelyTyped/DefinitelyTyped/pull/64995
+                            //
                             dates.push(interval(d.toISODate(), zone));
                         });
                     }
@@ -17236,7 +17241,7 @@ function shouldBlock(inputs) {
     return false;
 }
 function isProhibitedDay(now, days, dates) {
-    if (days.includes(now.weekdayLong)) {
+    if (now.weekdayLong && days.includes(now.weekdayLong)) {
         return true;
     }
     else if (dates.some((d) => d.contains(now))) {
