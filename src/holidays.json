@@ -4768,9 +4768,16 @@
       "date": "2023-04-17"
     },
     {
-      "id": "20230422_bdf584u6g7pnijcr2mm9eu3mio",
+      "id": "20230421_c3nknqr19kgk93951upt15qu3g",
       "status": "confirmed",
       "summary": "End of Ramadan",
+      "region": "Bosnia & Herzegovina",
+      "date": "2023-04-21"
+    },
+    {
+      "id": "20230422_7a901fjf8ih6d9co9rskgm729s",
+      "status": "confirmed",
+      "summary": "End of Ramadan Holiday",
       "region": "Bosnia & Herzegovina",
       "date": "2023-04-22"
     },
@@ -49472,6 +49479,20 @@
       "date": "2023-03-23"
     },
     {
+      "id": "20230419_0mj53q4mpif78tkq5o4igbtee4",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2023-04-19"
+    },
+    {
+      "id": "20230420_0a8kne3bd5rdq7rsph2d888g18",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2023-04-20"
+    },
+    {
       "id": "20230421_lu449vk6rtjskkkc2ek7ghili8",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -49491,6 +49512,34 @@
       "summary": "Eid al-Fitr Holiday",
       "region": "Qatar",
       "date": "2023-04-23"
+    },
+    {
+      "id": "20230424_q2n84plk5aqf41q60r5qs82jmo",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2023-04-24"
+    },
+    {
+      "id": "20230425_pmbbkcktii78fikemg6pvt4hrs",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2023-04-25"
+    },
+    {
+      "id": "20230426_hl8d87b7a6t21kmoio49ps4oio",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2023-04-26"
+    },
+    {
+      "id": "20230427_u1au3nog5mama08a4tdac8h6dk",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2023-04-27"
     },
     {
       "id": "20230628_s9lgejaq5ejqh87mcn3bnlrmuk",
