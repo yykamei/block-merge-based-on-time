@@ -2,9 +2,6 @@ name: Release
 on:
   workflow_dispatch:
     inputs:
-      version:
-        description: version. The next release version (without prefix v)
-        required: true
       apply:
         description: apply. Specify whether the actual release should be performed or not
         type: boolean
@@ -22,18 +19,26 @@ jobs:
           check-latest: true
           cache: npm
       - run: npm ci
+      - name: Decide the next version
+        id: version
+        run: |
+          latest=$(gh release view --json tagName --jq .tagName)
+          next=$(echo ${latest#v} | awk -F . '{patch = $3; patch++; printf "%d.%d.%d", $1, $2, patch}')
+          echo "next=${next}" >> "$GITHUB_OUTPUT"
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Bump the package version
         run: |
           mv package.json /tmp/
-          jq '.version = "${{ github.event.inputs.version }}"' /tmp/package.json | tee package.json
+          jq '.version = "${{ steps.version.outputs.next }}"' /tmp/package.json | tee package.json
           npm i --package-lock-only
 
       - uses: yykamei/actions-git-push@main
         with:
-          commit-message: Bump to ${{ github.event.inputs.version }}
-        if: github.event.inputs.apply == 'true'
+          commit-message: Bump to ${{ steps.version.outputs.next }}
+        if: inputs.apply == 'true'
 
       - uses: yykamei/actions-release-actions@main
         with:
-          tag: v${{ github.event.inputs.version }}
-          apply: ${{ github.event.inputs.apply }}
+          tag: v${{ steps.version.outputs.next }}
+          apply: ${{ inputs.apply }}
