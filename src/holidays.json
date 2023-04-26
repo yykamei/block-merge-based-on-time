@@ -54664,13 +54664,6 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_b3amku1r8kpchhbd2pqc4dugvg",
-      "status": "confirmed",
-      "summary": "Reconquest Day (Granada)",
-      "region": "Spain",
-      "date": "2023-01-02"
-    },
-    {
       "id": "20230102_i2qqg98t52eb7k68po5l88j3ms",
       "status": "confirmed",
       "summary": "New Year's Day Holiday (regional holiday)",
@@ -54690,13 +54683,6 @@
       "summary": "Day of Saint Ildefonso (Toledo)",
       "region": "Spain",
       "date": "2023-01-23"
-    },
-    {
-      "id": "20230129_06eop6s2qhommspc1kbgppc3io",
-      "status": "confirmed",
-      "summary": "St. Valero's Feast (Zaragoza)",
-      "region": "Spain",
-      "date": "2023-01-29"
     },
     {
       "id": "20230214_liloj7v4s1jvlf5kg543lh05j8",
@@ -54732,13 +54718,6 @@
       "summary": "Day of the Balearic Islands (Balearic Islands)",
       "region": "Spain",
       "date": "2023-03-01"
-    },
-    {
-      "id": "20230306_u56bk49bl8be1voa96k8evv3bo",
-      "status": "confirmed",
-      "summary": "Fifth of March (Zaragoza)",
-      "region": "Spain",
-      "date": "2023-03-06"
     },
     {
       "id": "20230319_0u6ahecdgoijn3vk1o7dnuoi70",
@@ -54816,6 +54795,13 @@
       "summary": "Eid al-Fitr (Melilla)",
       "region": "Spain",
       "date": "2023-04-22"
+    },
+    {
+      "id": "20230423_99a0qkp95o4na07nnrd8la4dn0",
+      "status": "confirmed",
+      "summary": "Castile and León Day (Castile-Leon)",
+      "region": "Spain",
+      "date": "2023-04-23"
     },
     {
       "id": "20230423_lvfrkb48sjultbri3cba0m8gh4",
@@ -54965,13 +54951,6 @@
       "date": "2023-08-05"
     },
     {
-      "id": "20230805_i8fjitu2kv9qcsnoenbelm2hnc",
-      "status": "confirmed",
-      "summary": "Feast of the White Virgin (Álava)",
-      "region": "Spain",
-      "date": "2023-08-05"
-    },
-    {
       "id": "20230815_c4pttpbm13ava3d1h7f29k5cds",
       "status": "confirmed",
       "summary": "Assumption of Mary",
@@ -55007,13 +54986,6 @@
       "date": "2023-09-08"
     },
     {
-      "id": "20230908_ojjkjhrc1fjamltdpbt0uu2hu4",
-      "status": "confirmed",
-      "summary": "Virgin of the Plains (Albacete)",
-      "region": "Spain",
-      "date": "2023-09-08"
-    },
-    {
       "id": "20230911_oovfusp1tr2a8oh747csqlmjig",
       "status": "confirmed",
       "summary": "National Day of Catalonia (Catalonia)",
@@ -55033,13 +55005,6 @@
       "summary": "Day of Saint Tecla (Tarragona)",
       "region": "Spain",
       "date": "2023-09-23"
-    },
-    {
-      "id": "20230924_f8849e88d74ukiri8e8m1ttifk",
-      "status": "confirmed",
-      "summary": "Virgin of Mercy (Barcelona)",
-      "region": "Spain",
-      "date": "2023-09-24"
     },
     {
       "id": "20231009_dn3dlhgedq3s7soqeom3memkmg",
@@ -55112,7 +55077,7 @@
       "date": "2023-12-25"
     },
     {
-      "id": "20231226_r9d3ct8rf99d2oq5oebkdqjb70",
+      "id": "20231226_7lo0tujb4b27iskika8eik3ml0",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
@@ -55140,13 +55105,6 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240102_lst3lmhi68vlusosrt97pouets",
-      "status": "confirmed",
-      "summary": "Reconquest Day (Granada)",
-      "region": "Spain",
-      "date": "2024-01-02"
-    },
-    {
       "id": "20240106_lk3geokumbp1deio18hkgee050",
       "status": "confirmed",
       "summary": "Epiphany",
@@ -55159,13 +55117,6 @@
       "summary": "Day of Saint Ildefonso (Toledo)",
       "region": "Spain",
       "date": "2024-01-23"
-    },
-    {
-      "id": "20240129_mfieufaikbfgdm1sntle8jrh80",
-      "status": "confirmed",
-      "summary": "St. Valero's Feast (Zaragoza)",
-      "region": "Spain",
-      "date": "2024-01-29"
     },
     {
       "id": "20240214_fplsq86ffmuipfctjgb5amq1n4",
@@ -55194,13 +55145,6 @@
       "summary": "Day of the Balearic Islands (Balearic Islands)",
       "region": "Spain",
       "date": "2024-03-01"
-    },
-    {
-      "id": "20240305_ssnn523i1r4hgananocp8ouc1o",
-      "status": "confirmed",
-      "summary": "Fifth of March (Zaragoza)",
-      "region": "Spain",
-      "date": "2024-03-05"
     },
     {
       "id": "20240319_5qbe2d7gbecq0icp34hm39179g",
@@ -55441,13 +55385,6 @@
       "date": "2024-08-05"
     },
     {
-      "id": "20240805_b9d71vlfbd6930qibvoq6jh0sc",
-      "status": "confirmed",
-      "summary": "Feast of the White Virgin (Álava)",
-      "region": "Spain",
-      "date": "2024-08-05"
-    },
-    {
       "id": "20240815_vi5uhqpviorj2temb20dcb69gg",
       "status": "confirmed",
       "summary": "Assumption of Mary",
@@ -55472,13 +55409,6 @@
       "id": "20240908_68nbpmtdv3rth2o3kkspimoong",
       "status": "confirmed",
       "summary": "Virgin of the Victory (Melilla)",
-      "region": "Spain",
-      "date": "2024-09-08"
-    },
-    {
-      "id": "20240908_850lbpsou11c8db881kah58k88",
-      "status": "confirmed",
-      "summary": "Virgin of the Plains (Albacete)",
       "region": "Spain",
       "date": "2024-09-08"
     },
@@ -55544,13 +55474,6 @@
       "summary": "Day of Saint Tecla (Tarragona)",
       "region": "Spain",
       "date": "2024-09-23"
-    },
-    {
-      "id": "20240924_cp45da0oh1mjbbumqaf4589fkc",
-      "status": "confirmed",
-      "summary": "Virgin of Mercy (Barcelona)",
-      "region": "Spain",
-      "date": "2024-09-24"
     },
     {
       "id": "20241009_jrdq92qgl4c97flvktmlplq9to",
