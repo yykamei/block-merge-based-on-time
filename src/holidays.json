@@ -1763,9 +1763,9 @@
       "date": "2023-04-29"
     },
     {
-      "id": "20230501_76bdfj0s1skjo8ef1kh2frfn8k",
+      "id": "20230501_kkl9g10afsrb0l83or1nqbfas8",
       "status": "confirmed",
-      "summary": "Labour Day/May Day",
+      "summary": "Labor Day",
       "region": "Armenia",
       "date": "2023-05-01"
     },
@@ -2022,9 +2022,9 @@
       "date": "2024-04-27"
     },
     {
-      "id": "20240501_3mcosihkmt8r77dku6p595v00g",
+      "id": "20240501_c2pkf2t8f2ffc31jmgccc7udo8",
       "status": "confirmed",
-      "summary": "Labour Day/May Day",
+      "summary": "Labor Day",
       "region": "Armenia",
       "date": "2024-05-01"
     },
@@ -32843,6 +32843,13 @@
       "date": "2023-06-18"
     },
     {
+      "id": "20230619_fm3nhv62g7f045vj8u96udd2jg",
+      "status": "confirmed",
+      "summary": "King Charles III's Birthday Holiday",
+      "region": "Cayman Islands",
+      "date": "2023-06-19"
+    },
+    {
       "id": "20230703_vha7hongns6jpb1ime3c2bf7lo",
       "status": "confirmed",
       "summary": "Constitution Day",
@@ -32967,6 +32974,13 @@
       "summary": "Fathers' Day",
       "region": "Cayman Islands",
       "date": "2024-06-16"
+    },
+    {
+      "id": "20240617_uq697hss4edl1tmi5pfm2bbr80",
+      "status": "confirmed",
+      "summary": "King Charles III's Birthday Holiday",
+      "region": "Cayman Islands",
+      "date": "2024-06-17"
     },
     {
       "id": "20240701_a4s80n7qhlaeia9c302jhtp1fk",
