@@ -13334,6 +13334,13 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230507_3ljhdc0g1kf39cso0n7h8iq59o",
+      "status": "confirmed",
+      "summary": "Constitutional Council Elections",
+      "region": "Chile",
+      "date": "2023-05-07"
+    },
+    {
       "id": "20230521_50fppeee126m6g37g2kmhdp63o",
       "status": "confirmed",
       "summary": "Navy Day",
@@ -16413,7 +16420,7 @@
       "date": "2023-04-10"
     },
     {
-      "id": "20230501_smovsnq50vs10r70koboa0ap18",
+      "id": "20230501_p03nmgrhg2tn8hc9renek75o50",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
       "region": "Denmark",
@@ -16469,7 +16476,7 @@
       "date": "2023-06-05"
     },
     {
-      "id": "20230605_scfe8lh0lraqk9n0r18rbq4tn8",
+      "id": "20230605_lmfs0cqe7eq012u43d97q924h8",
       "status": "confirmed",
       "summary": "Constitution Day",
       "region": "Denmark",
@@ -16588,7 +16595,7 @@
       "date": "2024-04-26"
     },
     {
-      "id": "20240501_ha2kphs09qjnnrh5o1ntrr1u3s",
+      "id": "20240501_7mgc30194hno7hipadd2uueb88",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
       "region": "Denmark",
@@ -16630,7 +16637,7 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240605_0ql8odciftusme4ecpk43bjhvs",
+      "id": "20240605_7emnc4objtfrfs4ns3q505os2c",
       "status": "confirmed",
       "summary": "Constitution Day",
       "region": "Denmark",
@@ -30881,18 +30888,11 @@
       "date": "2023-04-10"
     },
     {
-      "id": "20230421_9u0qq073hgv4qk6gmf7g4tq6r0",
-      "status": "confirmed",
-      "summary": "Idd ul-Fitr Holiday",
-      "region": "Kenya",
-      "date": "2023-04-21"
-    },
-    {
-      "id": "20230422_nreco6skh4m4n19lq4sbv9f01c",
+      "id": "20230421_1c68rv7abmn3ce9o15qfc3pqk8",
       "status": "confirmed",
       "summary": "Idd ul-Fitr",
       "region": "Kenya",
-      "date": "2023-04-22"
+      "date": "2023-04-21"
     },
     {
       "id": "20230501_ndj4pnai8eg85oe23kmu5ob1kg",
