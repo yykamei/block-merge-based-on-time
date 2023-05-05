@@ -33542,11 +33542,25 @@
       "date": "2023-05-04"
     },
     {
+      "id": "20230505_m5g0ig14d79kf5ti61gbuetngg",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Latvia",
+      "date": "2023-05-05"
+    },
+    {
       "id": "20230514_3h541omf6cku9qdgnb6453peis",
       "status": "confirmed",
       "summary": "Mothers' Day",
       "region": "Latvia",
       "date": "2023-05-14"
+    },
+    {
+      "id": "20230520_bflpne4v9bbcaisj1efl7qot3s",
+      "status": "confirmed",
+      "summary": "Working Day",
+      "region": "Latvia",
+      "date": "2023-05-20"
     },
     {
       "id": "20230528_pept3kvq73hfuenf4fgbfs2ap0",
@@ -58841,11 +58855,11 @@
       "date": "2023-05-05"
     },
     {
-      "id": "20230511_85im6hvfeabf1s2rubdjmodbp0",
+      "id": "20230517_nmjd7cmj532lohjrbqr1l83dd4",
       "status": "confirmed",
       "summary": "Royal Ploughing Ceremony Day",
       "region": "Thailand",
-      "date": "2023-05-11"
+      "date": "2023-05-17"
     },
     {
       "id": "20230603_ok4oflhnm6fbl004fje41kkp4s",
