@@ -59023,18 +59023,18 @@
       "date": "2024-02-26"
     },
     {
-      "id": "20240405_ouin9ee5hfcluah5rf5ptjbmes",
-      "status": "confirmed",
-      "summary": "Chakri Day observed",
-      "region": "Thailand",
-      "date": "2024-04-05"
-    },
-    {
       "id": "20240406_8klclf2faftv6ot5el00t81e0g",
       "status": "confirmed",
       "summary": "Chakri Day",
       "region": "Thailand",
       "date": "2024-04-06"
+    },
+    {
+      "id": "20240408_ob719r1cnf2sh8th9ccutdhrek",
+      "status": "confirmed",
+      "summary": "Chakri Day observed",
+      "region": "Thailand",
+      "date": "2024-04-08"
     },
     {
       "id": "20240413_38k7gnqbp19eat7qcljcpurqds",
@@ -62428,25 +62428,11 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_sb4kfrp5vot5nu211kpip9ohas",
-      "status": "confirmed",
-      "summary": "New Year's Day (Suspended) observed",
-      "region": "Ukraine",
-      "date": "2023-01-02"
-    },
-    {
       "id": "20230107_0br4a95fkr9vo9vrk018dohk44",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-01-07"
-    },
-    {
-      "id": "20230109_46l6phf2v4q0sa71gqdceqdefc",
-      "status": "confirmed",
-      "summary": "Orthodox Christmas Day (Suspended) observed",
-      "region": "Ukraine",
-      "date": "2023-01-09"
     },
     {
       "id": "20230114_usf67r6umleo2qb7jcuppi9op0",
@@ -62708,13 +62694,6 @@
       "date": "2024-01-07"
     },
     {
-      "id": "20240108_rrbvtlf67phv1jldgte0rrtkdk",
-      "status": "confirmed",
-      "summary": "Orthodox Christmas Day (Suspended) observed",
-      "region": "Ukraine",
-      "date": "2024-01-08"
-    },
-    {
       "id": "20240114_34smf6asaflhqddcvjgo5uqp70",
       "status": "confirmed",
       "summary": "Orthodox New Year",
@@ -62902,13 +62881,6 @@
       "summary": "Independence Day (Suspended)",
       "region": "Ukraine",
       "date": "2024-08-24"
-    },
-    {
-      "id": "20240826_c4mnq6q02jb4egqcoc0dpssnio",
-      "status": "confirmed",
-      "summary": "Independence Day (Suspended) observed",
-      "region": "Ukraine",
-      "date": "2024-08-26"
     },
     {
       "id": "20241014_2jfgbqrbcpdr7fun1pl9lejem8",
