@@ -32596,6 +32596,13 @@
       "date": "2023-04-25"
     },
     {
+      "id": "20230606_vfjrkmd7bgj0v1g4ktql5l0bu0",
+      "status": "confirmed",
+      "summary": "Parliamentary Elections Holiday",
+      "region": "Kuwait",
+      "date": "2023-06-06"
+    },
+    {
       "id": "20230628_i5d61epm73plmmnna2qqvim070",
       "status": "confirmed",
       "summary": "Waqfat Arafat Day",
@@ -39094,13 +39101,6 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230602_ssha4g8qlg0lhivk7kbbmna7as",
-      "status": "confirmed",
-      "summary": "Youth Day",
-      "region": "Marshall Islands",
-      "date": "2023-06-02"
-    },
-    {
       "id": "20230707_th1cvdudtm8psm5gde11odkqb4",
       "status": "confirmed",
       "summary": "Fishermen's Day",
@@ -39115,11 +39115,11 @@
       "date": "2023-09-01"
     },
     {
-      "id": "20230922_slnvcumcmt4q6siimdpd2svkk4",
+      "id": "20230929_hujmkvkkfd85gga9616udbffa0",
       "status": "confirmed",
       "summary": "Manit Day",
       "region": "Marshall Islands",
-      "date": "2023-09-22"
+      "date": "2023-09-29"
     },
     {
       "id": "20231117_057h56tc5oiecra2tog8hgtuo0",
@@ -39176,13 +39176,6 @@
       "summary": "Constitution Day",
       "region": "Marshall Islands",
       "date": "2024-05-01"
-    },
-    {
-      "id": "20240607_fnrkp26ol3hlbenu8psbu41i74",
-      "status": "confirmed",
-      "summary": "Youth Day",
-      "region": "Marshall Islands",
-      "date": "2024-06-07"
     },
     {
       "id": "20240705_19a4orq9q4hmm1csmvneolpi90",
@@ -59023,18 +59016,18 @@
       "date": "2024-02-26"
     },
     {
-      "id": "20240405_ouin9ee5hfcluah5rf5ptjbmes",
-      "status": "confirmed",
-      "summary": "Chakri Day observed",
-      "region": "Thailand",
-      "date": "2024-04-05"
-    },
-    {
       "id": "20240406_8klclf2faftv6ot5el00t81e0g",
       "status": "confirmed",
       "summary": "Chakri Day",
       "region": "Thailand",
       "date": "2024-04-06"
+    },
+    {
+      "id": "20240408_ob719r1cnf2sh8th9ccutdhrek",
+      "status": "confirmed",
+      "summary": "Chakri Day observed",
+      "region": "Thailand",
+      "date": "2024-04-08"
     },
     {
       "id": "20240413_38k7gnqbp19eat7qcljcpurqds",
@@ -62428,25 +62421,11 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230102_sb4kfrp5vot5nu211kpip9ohas",
-      "status": "confirmed",
-      "summary": "New Year's Day (Suspended) observed",
-      "region": "Ukraine",
-      "date": "2023-01-02"
-    },
-    {
       "id": "20230107_0br4a95fkr9vo9vrk018dohk44",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day (Suspended)",
       "region": "Ukraine",
       "date": "2023-01-07"
-    },
-    {
-      "id": "20230109_46l6phf2v4q0sa71gqdceqdefc",
-      "status": "confirmed",
-      "summary": "Orthodox Christmas Day (Suspended) observed",
-      "region": "Ukraine",
-      "date": "2023-01-09"
     },
     {
       "id": "20230114_usf67r6umleo2qb7jcuppi9op0",
@@ -62708,13 +62687,6 @@
       "date": "2024-01-07"
     },
     {
-      "id": "20240108_rrbvtlf67phv1jldgte0rrtkdk",
-      "status": "confirmed",
-      "summary": "Orthodox Christmas Day (Suspended) observed",
-      "region": "Ukraine",
-      "date": "2024-01-08"
-    },
-    {
       "id": "20240114_34smf6asaflhqddcvjgo5uqp70",
       "status": "confirmed",
       "summary": "Orthodox New Year",
@@ -62902,13 +62874,6 @@
       "summary": "Independence Day (Suspended)",
       "region": "Ukraine",
       "date": "2024-08-24"
-    },
-    {
-      "id": "20240826_c4mnq6q02jb4egqcoc0dpssnio",
-      "status": "confirmed",
-      "summary": "Independence Day (Suspended) observed",
-      "region": "Ukraine",
-      "date": "2024-08-26"
     },
     {
       "id": "20241014_2jfgbqrbcpdr7fun1pl9lejem8",
