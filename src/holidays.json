@@ -50507,11 +50507,11 @@
       "date": "2023-04-17"
     },
     {
-      "id": "20230422_igpaed4gcu1lun0sf3mrfkvl6c",
+      "id": "20230421_95l0gtkm67ngdn0i39dasqc3q0",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Serbia",
-      "date": "2023-04-22"
+      "date": "2023-04-21"
     },
     {
       "id": "20230422_ltkvbn39755m3hiqacr6u4lnnk",
@@ -54424,11 +54424,18 @@
       "date": "2023-05-15"
     },
     {
-      "id": "20230527_3pa1u6l26oof68smlk1ns0qneo",
+      "id": "20230527_lbhbe0vdcfvi7fvbbiki0a7eac",
       "status": "confirmed",
-      "summary": "Buddha's Birthday",
+      "summary": "Buddha’s Birthday",
       "region": "South Korea",
       "date": "2023-05-27"
+    },
+    {
+      "id": "20230529_trgq3hq61ioi3eghfkd6ng9e9g",
+      "status": "confirmed",
+      "summary": "Buddha’s Birthday Holiday",
+      "region": "South Korea",
+      "date": "2023-05-29"
     },
     {
       "id": "20230606_e6vpldb808s19chgr25slllo9k",
@@ -54578,9 +54585,9 @@
       "date": "2024-05-08"
     },
     {
-      "id": "20240515_640or7oc0phlcb7sntg5oitksg",
+      "id": "20240515_cl2pn3d1r7s5lr2emgqcjijukk",
       "status": "confirmed",
-      "summary": "Buddha's Birthday",
+      "summary": "Buddha’s Birthday",
       "region": "South Korea",
       "date": "2024-05-15"
     },
