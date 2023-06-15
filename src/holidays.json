@@ -23269,6 +23269,13 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230520_t26lttufjaal7jgrbgf56do06k",
+      "status": "confirmed",
+      "summary": "Election Day Holiday",
+      "region": "Gambia",
+      "date": "2023-05-20"
+    },
+    {
       "id": "20230525_qonc029g7610espkpciqjj0vrg",
       "status": "confirmed",
       "summary": "Africa Day",
@@ -40861,6 +40868,20 @@
       "date": "2024-02-12"
     },
     {
+      "id": "20240213_l9tk8d1tvovqvf3bsioo9s6524",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Macao",
+      "date": "2024-02-13"
+    },
+    {
+      "id": "20240214_a3om1p9cl43fhbb6lug1sgn6i0",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Macao",
+      "date": "2024-02-14"
+    },
+    {
       "id": "20240329_eclujfi6mkmb0699jlmc2hv610",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -40945,11 +40966,25 @@
       "date": "2024-11-02"
     },
     {
+      "id": "20241104_eompbov14ushupp6dvse2a5blk",
+      "status": "confirmed",
+      "summary": "All Soul's Day Holiday",
+      "region": "Macao",
+      "date": "2024-11-04"
+    },
+    {
       "id": "20241208_eu6jucbk2dnfhcuhmohdjtdio8",
       "status": "confirmed",
       "summary": "Feast of the Immaculate Conception",
       "region": "Macao",
       "date": "2024-12-08"
+    },
+    {
+      "id": "20241209_gr0on6qdr9m084ko78cne0f270",
+      "status": "confirmed",
+      "summary": "Feast of the Immaculate Conception Holiday",
+      "region": "Macao",
+      "date": "2024-12-09"
     },
     {
       "id": "20241220_qstma9abbh3gk24a717an1vnbs",
@@ -40964,6 +40999,13 @@
       "summary": "Winter Solstice",
       "region": "Macao",
       "date": "2024-12-21"
+    },
+    {
+      "id": "20241223_nd0qpdkvb14s12bh28jlgbv2f8",
+      "status": "confirmed",
+      "summary": "Winter Solstice Holiday",
+      "region": "Macao",
+      "date": "2024-12-23"
     },
     {
       "id": "20241224_vur9hgcsjrglamsv1u43hsomls",
@@ -49987,6 +50029,13 @@
       "date": "2023-01-02"
     },
     {
+      "id": "20230106_vjj21fql7gvjmt3erbijhkm0kc",
+      "status": "confirmed",
+      "summary": "Epiphany",
+      "region": "Romania",
+      "date": "2023-01-06"
+    },
+    {
       "id": "20230124_r5bod6f9fu47ndje2d8gma4660",
       "status": "confirmed",
       "summary": "Unification Day",
@@ -50195,6 +50244,20 @@
       "summary": "Day after New Year's Day",
       "region": "Romania",
       "date": "2024-01-02"
+    },
+    {
+      "id": "20240106_ft6cgdd8i9500ad0mip4scpkus",
+      "status": "confirmed",
+      "summary": "Epiphany",
+      "region": "Romania",
+      "date": "2024-01-06"
+    },
+    {
+      "id": "20240107_e7ptg69b9iv4vonnjguqq94j3s",
+      "status": "confirmed",
+      "summary": "Synaxis of St. John the Baptist",
+      "region": "Romania",
+      "date": "2024-01-07"
     },
     {
       "id": "20240124_rjv4jhuaak0h6l8j6g3rb2ob00",
