@@ -2593,6 +2593,13 @@
       "date": "2023-10-13"
     },
     {
+      "id": "20231015_3shk9s61m0s47sj6049ns9s884",
+      "status": "confirmed",
+      "summary": "Mothers' Day",
+      "region": "Argentina",
+      "date": "2023-10-15"
+    },
+    {
       "id": "20231016_sko2da3bsgn1kl3b6lqbul90p8",
       "status": "confirmed",
       "summary": "Day of Respect for Cultural Diversity",
@@ -2829,6 +2836,13 @@
       "summary": "Day of Respect for Cultural Diversity",
       "region": "Argentina",
       "date": "2024-10-14"
+    },
+    {
+      "id": "20241020_ehsghkfcoskqm7ebfdg1jlgbpo",
+      "status": "confirmed",
+      "summary": "Mothers' Day",
+      "region": "Argentina",
+      "date": "2024-10-20"
     },
     {
       "id": "20241118_t2kt7lgirsv0romgq832e3i434",
@@ -47160,11 +47174,11 @@
       "date": "2023-06-12"
     },
     {
-      "id": "20230629_o9egsshnfka5k2u25p0huqht3k",
+      "id": "20230628_aj5kl5c62ujgernpt7idmsjmgo",
       "status": "confirmed",
       "summary": "Eid al-Adha (Feast of the Sacrifice)",
       "region": "Philippines",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230821_p0cfcplbk3fju5d447tjugem00",
@@ -48244,9 +48258,9 @@
       "date": "2023-05-28"
     },
     {
-      "id": "20230601_d72kuv3fn5ej1gsp8rp8505q8g",
+      "id": "20230601_p2utjdfdrobjrtskegpcad3rik",
       "status": "confirmed",
-      "summary": "Children’s Day",
+      "summary": "Children's Day",
       "region": "Poland",
       "date": "2023-06-01"
     },
@@ -48412,9 +48426,9 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240601_pr52ctobhbi0i5p82sfpe624sk",
+      "id": "20240601_2dbr6vs4g6ouk9temnkrb49gf4",
       "status": "confirmed",
-      "summary": "Children’s Day",
+      "summary": "Children's Day",
       "region": "Poland",
       "date": "2024-06-01"
     },
