@@ -34020,9 +34020,16 @@
       "date": "2023-05-25"
     },
     {
-      "id": "20230629_7dee5q5cgubtli6nsme3qrd2j8",
+      "id": "20230628_9cjmlu2aaeo7c2rc2d01sra56c",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Lebanon",
+      "date": "2023-06-28"
+    },
+    {
+      "id": "20230629_rf0oak4ihm0j94f535ju5ku5t4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Lebanon",
       "date": "2023-06-29"
     },
@@ -36131,9 +36138,9 @@
       "date": "2023-06-29"
     },
     {
-      "id": "20230630_5v2l15fs0j3idi28clbm38ulm8",
+      "id": "20230630_5onnrl98q3pfct0h700gnb2o9g",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "region": "Morocco",
       "date": "2023-06-30"
     },
@@ -36264,9 +36271,9 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240618_oj7bafkdqgf12i14hfrh4hrp8o",
+      "id": "20240618_es7r2na89rehn8ge0qjl6980t8",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha Holiday",
       "region": "Morocco",
       "date": "2024-06-18"
     },
