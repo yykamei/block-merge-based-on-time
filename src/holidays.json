@@ -628,16 +628,23 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230628_ef7kojmn0cdctsq8qjpdn8do48",
+      "id": "20230627_befomof1qniltiutieg54in1as",
       "status": "confirmed",
       "summary": "Day of Arafat",
+      "region": "Afghanistan",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_g3gb3l5h44i7najk1sgafrskqo",
+      "status": "confirmed",
+      "summary": "Eid al-Qurban",
       "region": "Afghanistan",
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_td33ung3j868tkpsbdf1ckr7a4",
+      "id": "20230629_8ld69na4ktfm1tgj4igoet14n0",
       "status": "confirmed",
-      "summary": "Eid al-Qurban",
+      "summary": "Eid al-Qurban Holiday",
       "region": "Afghanistan",
       "date": "2023-06-29"
     },
@@ -647,13 +654,6 @@
       "summary": "Eid al-Qurban Holiday",
       "region": "Afghanistan",
       "date": "2023-06-30"
-    },
-    {
-      "id": "20230701_q87cq3otto8jrke5c79j2m9t4c",
-      "status": "confirmed",
-      "summary": "Eid al-Qurban Holiday",
-      "region": "Afghanistan",
-      "date": "2023-07-01"
     },
     {
       "id": "20230728_2u9ggep51sqb3grl5ujgov9cgg",
@@ -668,6 +668,13 @@
       "summary": "Independence Day (National Day)",
       "region": "Afghanistan",
       "date": "2023-08-19"
+    },
+    {
+      "id": "20230831_v8oq2pen3me07cqhskm7tjimek",
+      "status": "confirmed",
+      "summary": "Anniversary of the Withdrawal of Foreign Troops",
+      "region": "Afghanistan",
+      "date": "2023-08-31"
     },
     {
       "id": "20230909_88ccsgggkkvtlgppt4eegsvvdg",
@@ -780,6 +787,13 @@
       "summary": "Independence Day (National Day)",
       "region": "Afghanistan",
       "date": "2024-08-19"
+    },
+    {
+      "id": "20240831_eia3forh3orghgs51mlrgur3p8",
+      "status": "confirmed",
+      "summary": "Anniversary of the Withdrawal of Foreign Troops",
+      "region": "Afghanistan",
+      "date": "2024-08-31"
     },
     {
       "id": "20240909_d28ntgv7dlknsljb9plq0f1ffo",
@@ -6542,16 +6556,23 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230628_vmqb7kc1ocd1d16tl71mkrf1cc",
+      "id": "20230627_72d9ulohp7trlm0qk0q90icni8",
       "status": "confirmed",
       "summary": "Arafat Day",
+      "region": "Bahrain",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_gtlij0idsesjgs7u41uu6vvn78",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Bahrain",
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_6jt74gos7e6gmicndq6t22eqok",
+      "id": "20230629_k5k6re3gjordde9r7dh01qkslc",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Bahrain",
       "date": "2023-06-29"
     },
@@ -6563,11 +6584,11 @@
       "date": "2023-06-30"
     },
     {
-      "id": "20230701_j6126kh6aesing9plr2okru7l8",
+      "id": "20230702_i0quhs7i1sg7lnrm82lp0i53j0",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
+      "summary": "Day off for Eid al-Adha Holiday",
       "region": "Bahrain",
-      "date": "2023-07-01"
+      "date": "2023-07-02"
     },
     {
       "id": "20230719_q0rqppk8gvq8mslp167jjqjftc",
@@ -17655,18 +17676,18 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230629_pn90okhulh66edkb838rrvs50s",
+      "id": "20230628_1bmulb19n54brol1grdv9q8g38",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Algeria",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
-      "id": "20230630_c3clfeoummn69bgn2ldsisl8pc",
+      "id": "20230629_4fhb7916famlkuis6tfvbr59us",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Algeria",
-      "date": "2023-06-30"
+      "date": "2023-06-29"
     },
     {
       "id": "20230705_of84slpnec4agrj1smrk4ueaq4",
@@ -39756,11 +39777,11 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230629_a16k0407ilc0aou23rt3u74fok",
+      "id": "20230628_lgi0qah2sf2s92sqqkmg9crco4",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Mali",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230728_cvcadotq6co9ukoue9c0pocl64",
