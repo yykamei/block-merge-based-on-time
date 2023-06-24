@@ -4838,11 +4838,11 @@
       "date": "2023-06-18"
     },
     {
-      "id": "20230629_0ahmj01mon2smbgfru5hbvv5f8",
+      "id": "20230628_3c0qekrts8tatvh26gocmm2gos",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice",
       "region": "Bosnia & Herzegovina",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20231031_pnug8ugllq209su6k7oov8llb8",
@@ -6337,11 +6337,11 @@
       "date": "2023-05-18"
     },
     {
-      "id": "20230629_16qf97iguo196m91pe92smpklk",
+      "id": "20230628_31pljpnugap7vslkhodvok3tr0",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Burkina Faso",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230805_cv63v66d9rtm92ri8bna05rr6g",
@@ -32673,16 +32673,23 @@
       "date": "2023-06-06"
     },
     {
-      "id": "20230628_i5d61epm73plmmnna2qqvim070",
+      "id": "20230627_0o8p9sb4mv8r2ga2ngekkk7mgc",
       "status": "confirmed",
       "summary": "Waqfat Arafat Day",
+      "region": "Kuwait",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_lgdmcgmu90v43g0u3kcve4skko",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Kuwait",
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_u4c8rb2vqvoejhlo4su0jc577o",
+      "id": "20230629_dll2gh2bmu3nildvc4j4shnk4g",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha holiday",
       "region": "Kuwait",
       "date": "2023-06-29"
     },
@@ -32699,6 +32706,13 @@
       "summary": "Eid al-Adha holiday",
       "region": "Kuwait",
       "date": "2023-07-01"
+    },
+    {
+      "id": "20230702_uuu81323qe7bch5fl5c8gtsr3c",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Kuwait",
+      "date": "2023-07-02"
     },
     {
       "id": "20230719_3j5e1l40qf3ogpmli3bq7mdr6k",
@@ -36003,11 +36017,11 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230628_h5tn4opv0hs2mcimftk3pcis6o",
+      "id": "20230627_6dda2jsa4l2f0bilutt5nl6ios",
       "status": "confirmed",
       "summary": "Day of Arafah",
       "region": "Libya",
-      "date": "2023-06-28"
+      "date": "2023-06-27"
     },
     {
       "id": "20230916_netm1s20ukumaf6vo9qgq1gicg",
@@ -38085,9 +38099,16 @@
       "date": "2023-05-23"
     },
     {
-      "id": "20230629_8mqc2c06rnlvf30vo5c41hs0nc",
+      "id": "20230628_6avvmji09mg5ltn1m4ti6bnjr8",
       "status": "confirmed",
       "summary": "Kurban Bayram",
+      "region": "Montenegro",
+      "date": "2023-06-28"
+    },
+    {
+      "id": "20230629_i1iuf2ido7k90mpogm5a36ehcg",
+      "status": "confirmed",
+      "summary": "Kurban Bayram Holiday",
       "region": "Montenegro",
       "date": "2023-06-29"
     },
@@ -38097,13 +38118,6 @@
       "summary": "Kurban Bayram Holiday",
       "region": "Montenegro",
       "date": "2023-06-30"
-    },
-    {
-      "id": "20230701_bpjf010ocirckn7dgbcr1gvt44",
-      "status": "confirmed",
-      "summary": "Kurban Bayram Holiday",
-      "region": "Montenegro",
-      "date": "2023-07-01"
     },
     {
       "id": "20230713_bds10d2cs0hpj6r0k53ghkd5cg",
@@ -41658,11 +41672,11 @@
       "date": "2023-05-25"
     },
     {
-      "id": "20230629_f85aicl2651rtae576kb20qfpg",
+      "id": "20230628_v3m7kok9v9o7ep7fc8onjv9cug",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Mauritania",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230719_04e7f8tjej4n6l4pu0ul014rfk",
@@ -54443,11 +54457,11 @@
       "date": "2023-06-26"
     },
     {
-      "id": "20230629_qad4429bc1krden5k2ueu8d3o8",
+      "id": "20230628_e1j693bshrbc8ai1m062k2bvig",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Somalia",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230728_43f3sp1888s4ee0q18hqcslins",
@@ -58790,11 +58804,11 @@
       "date": "2023-06-21"
     },
     {
-      "id": "20230629_phtpv5o9i9nmk6gf6e5b77d92c",
+      "id": "20230628_rit218h5qq7k0ff50ntprclt0o",
       "status": "confirmed",
       "summary": "Tabaski",
       "region": "Togo",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230815_ojsf4bbihmn8v7snk0vh1dl5lk",
@@ -59459,11 +59473,11 @@
       "date": "2023-06-27"
     },
     {
-      "id": "20230629_pid6s0d6rfnpg1vdphkk2lb20o",
+      "id": "20230628_p32vm7j01tnni249uom4434rik",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Tajikistan",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230909_hjtbsli2c74fmfbr1jut45v464",
@@ -66479,11 +66493,11 @@
       "date": "2023-06-12"
     },
     {
-      "id": "20230629_mjftffks21ee7t84l4ni5kue64",
+      "id": "20230628_o76dpoi4j8sbs16phnd7qeemj0",
       "status": "confirmed",
       "summary": "Kurban Bayrami",
       "region": "Kosovo",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230928_ebpv9mke8dshtm2akj7v2reas0",
