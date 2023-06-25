@@ -2551,11 +2551,11 @@
       "date": "2023-06-20"
     },
     {
-      "id": "20230629_72go7k779p9eairm0b284v753g",
+      "id": "20230628_o93s3gap08gai0e767t1bulvf0",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Argentina",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230709_on9f5fhad34ftrpkii6g0bofqs",
@@ -3381,7 +3381,7 @@
       "date": "2023-11-11"
     },
     {
-      "id": "20231224_casiql9vr1r1t535t4gujpkel8",
+      "id": "20231224_m4oscvukqsa0d0v84l45f9cp3o",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3409,7 +3409,7 @@
       "date": "2023-12-26"
     },
     {
-      "id": "20231231_dfrk6670gdkbiafs1rs3nqc1sg",
+      "id": "20231231_krhncjttnbo5m3gn5t9msc0hkg",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -3710,7 +3710,7 @@
       "date": "2024-11-11"
     },
     {
-      "id": "20241224_2iagjl6rjrlpd55mfi8ff92190",
+      "id": "20241224_nfda3n7f2hjm5fbq4m89bnah9s",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -18564,16 +18564,23 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230628_papu69cu7tlgjp9dhb1crjj6sk",
+      "id": "20230627_cr9h1r15fu0cmcvad9too2htvk",
       "status": "confirmed",
       "summary": "Arafat Day",
+      "region": "Egypt",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_6s1uk6e7huv3r5fuo9k7dkpul8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Egypt",
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_34n8muf56mrq9hg1343lsfver4",
+      "id": "20230629_v5lbpb3q8pbmda3qrnqgspf084",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
       "date": "2023-06-29"
     },
@@ -18592,11 +18599,11 @@
       "date": "2023-06-30"
     },
     {
-      "id": "20230701_nlueb5gd1pcp5lbrp6a98ng0m8",
+      "id": "20230703_d8no56v31v8r8suv0kvi1li96s",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
+      "summary": "Public Holiday",
       "region": "Egypt",
-      "date": "2023-07-01"
+      "date": "2023-07-03"
     },
     {
       "id": "20230720_o6cr3o59mnt0q9uunovm9efbus",
@@ -22521,11 +22528,11 @@
       "date": "2023-06-18"
     },
     {
-      "id": "20230629_7u77olesout4b5ou15o87v0jls",
+      "id": "20230628_6m0behq2skv5forgkvnv039a60",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Ghana",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230701_3qfmfi95ckni81mi1an2a47al8",
@@ -27893,6 +27900,13 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230627_114s75hae1m6b6nc23j3inh250",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Iraq",
+      "date": "2023-06-27"
+    },
+    {
       "id": "20230628_b8gi3rrqmovovu3nsg63e3g6q0",
       "status": "confirmed",
       "summary": "Eid al-Adha",
@@ -27919,6 +27933,13 @@
       "summary": "Eid al-Adha holiday",
       "region": "Iraq",
       "date": "2023-07-01"
+    },
+    {
+      "id": "20230702_lncothft3fvl8uhune3la6nvag",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Iraq",
+      "date": "2023-07-02"
     },
     {
       "id": "20230714_fnrqs7jqlptk5dre8thf4btqgo",
@@ -31310,11 +31331,11 @@
       "date": "2023-05-09"
     },
     {
-      "id": "20230629_7491qdlach4hshjdujqsqe92f4",
+      "id": "20230628_jaq72bbnsfhksoqd59hijgjrj4",
       "status": "confirmed",
       "summary": "Kurman Ait",
       "region": "Kyrgyzstan",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230831_pq1g0auhoh9dp3agjubemi0jm0",
@@ -43713,18 +43734,18 @@
       "date": "2023-06-18"
     },
     {
-      "id": "20230629_j86gder1b7g976ds3pi63gfi7k",
+      "id": "20230628_dv4lneqqi4k0fpp6g5ri3dmn14",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Niger",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
-      "id": "20230630_fqr865e71cq29nqtv7106ht1eo",
+      "id": "20230629_m69tjoaqavqiu5uk2u1lh7n4rc",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Niger",
-      "date": "2023-06-30"
+      "date": "2023-06-29"
     },
     {
       "id": "20230719_el7q58o71rk906iqhp3imqjuo4",
@@ -58133,6 +58154,13 @@
       "date": "2024-02-04"
     },
     {
+      "id": "20240208_q41ge8iqslmpihrce8sfhm7b30",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2024-02-08"
+    },
+    {
       "id": "20240209_agk5etnn6gp2reqik7t4k91jmc",
       "status": "confirmed",
       "summary": "Lunar New Year's Eve",
@@ -58173,6 +58201,13 @@
       "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2024-02-14"
+    },
+    {
+      "id": "20240217_0d3vdamaen2mmpnanmm1e0ln18",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Taiwan",
+      "date": "2024-02-17"
     },
     {
       "id": "20240224_lbrpo0ugfgtpqc8q2g4tvhp75g",
@@ -61228,6 +61263,13 @@
       "date": "2023-05-19"
     },
     {
+      "id": "20230626_sgmdhtm5pl8oto449cn1it2os4",
+      "status": "confirmed",
+      "summary": "Sacrifice Feast Holiday",
+      "region": "Turkey",
+      "date": "2023-06-26"
+    },
+    {
       "id": "20230627_p7t6hcb84qi9pku67t94q15g3o",
       "status": "confirmed",
       "summary": "Sacrifice Feast Eve",
@@ -62025,11 +62067,11 @@
       "date": "2023-06-21"
     },
     {
-      "id": "20230629_tbjp1ba8qamkbuftlc43mh4j7g",
+      "id": "20230628_b5iso4ori7n0pnb9lf6s3ss9qo",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Uganda",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20231009_1p2ooh0fgo6am0fq71pj9vqa1g",
@@ -63834,9 +63876,16 @@
       "date": "2023-05-09"
     },
     {
-      "id": "20230629_juods9n1mms9nib3vdbbb8s9og",
+      "id": "20230628_s6uk06u73g7m146dbo1tf3sjm4",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Uzbekistan",
+      "date": "2023-06-28"
+    },
+    {
+      "id": "20230629_h18koafok67stt7o4ji95hs9f0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Uzbekistan",
       "date": "2023-06-29"
     },
@@ -66789,16 +66838,23 @@
       "date": "2023-05-22"
     },
     {
-      "id": "20230628_o8sqj9ngphfj5qr55773bvu2bo",
+      "id": "20230627_nkcrr4214lhic3v9rick70iojo",
       "status": "confirmed",
       "summary": "Eid al-Adha Eve",
+      "region": "Yemen",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_pqu3i4aoqeemirqbng1p8v7hog",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Yemen",
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_t3r8vhfkcmfa86sn6elmapf0tg",
+      "id": "20230629_dfcpr0baoi6lp7t7i1vf6eba6c",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha holiday",
       "region": "Yemen",
       "date": "2023-06-29"
     },
@@ -66815,13 +66871,6 @@
       "summary": "Eid al-Adha holiday",
       "region": "Yemen",
       "date": "2023-07-01"
-    },
-    {
-      "id": "20230702_cffc5tri9nkveg4cggm4r8pjtc",
-      "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
-      "region": "Yemen",
-      "date": "2023-07-02"
     },
     {
       "id": "20230707_6hta2od3e16pb4ukhsngq4rfok",
