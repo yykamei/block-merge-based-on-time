@@ -2,6 +2,10 @@ version: 2
 updates:
   - package-ecosystem: npm
     directory: /
+    groups:
+      eslint:
+        patterns:
+          - "*eslint*"
     schedule:
       interval: weekly
       day: "saturday"
