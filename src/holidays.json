@@ -11572,11 +11572,11 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230629_gi4sc3be29b7r6805v3ogkva38",
+      "id": "20230628_kioc9ph2ap5qn0rekjthqupkpk",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Central African Republic",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230630_0cvkck1rmo19qofpd7o3elesm4",
@@ -14859,6 +14859,13 @@
       "summary": "Independence Day",
       "region": "Croatia",
       "date": "2023-06-25"
+    },
+    {
+      "id": "20230628_4al8uomihp0muu00kbikpahri8",
+      "status": "confirmed",
+      "summary": "Kurban Bayram",
+      "region": "Croatia",
+      "date": "2023-06-28"
     },
     {
       "id": "20230805_3vtqbti18uc3ll59qlst6s8p0c",
@@ -18909,11 +18916,11 @@
       "date": "2023-06-20"
     },
     {
-      "id": "20230629_3a8p29lcocplhj07rtrb0c8ihk",
+      "id": "20230628_lkd9pcd0qrb9rnpdjs871ujbdo",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Eritrea",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230901_42u1nub8hbrp7aai8nhklc6i60",
@@ -19128,11 +19135,11 @@
       "date": "2023-05-28"
     },
     {
-      "id": "20230629_h986g6j0s4hql9p7kjjcapup30",
+      "id": "20230628_db0e03rehnckbusi303i97bj30",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Ethiopia",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230912_jti8fttqm1hp21gvd11e5tt2jo",
@@ -52453,16 +52460,23 @@
       "date": "2023-04-27"
     },
     {
-      "id": "20230628_3nfrjiu0uv8ccu6sj9cl62iu0g",
+      "id": "20230627_hib29le9j51ss8cio78edpe59s",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
+      "region": "Sudan",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_acs3qe3f0g3rergitpdl2o9pb8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Sudan",
       "date": "2023-06-28"
     },
     {
-      "id": "20230629_5ba1nlcimkon58gaqag2jp8rv0",
+      "id": "20230629_kfoo604j7r0at2tuafq4ae2h7c",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Sudan",
       "date": "2023-06-29"
     },
@@ -52479,13 +52493,6 @@
       "summary": "Eid al-Adha Holiday",
       "region": "Sudan",
       "date": "2023-07-01"
-    },
-    {
-      "id": "20230702_dq74u6sjaj0b9oforpdi91f0jo",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
-      "region": "Sudan",
-      "date": "2023-07-02"
     },
     {
       "id": "20230719_454dsdl7aeea3im760nmpdghko",
@@ -56145,11 +56152,25 @@
       "date": "2023-06-10"
     },
     {
-      "id": "20230629_vt0ij0dp0auoh34odu3r5ejrlg",
+      "id": "20230628_lpjv591qte5tttq0vqu229vano",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "South Sudan",
+      "date": "2023-06-28"
+    },
+    {
+      "id": "20230629_c15ub46j4hugu76rb2chiskh4c",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "South Sudan",
       "date": "2023-06-29"
+    },
+    {
+      "id": "20230630_a988o2472c935kf4mi3dctsing",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "South Sudan",
+      "date": "2023-06-30"
     },
     {
       "id": "20230703_1vr414q8sliasc3eougu7p7hho",
