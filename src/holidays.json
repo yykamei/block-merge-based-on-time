@@ -16779,6 +16779,20 @@
       "date": "2023-06-27"
     },
     {
+      "id": "20230627_figb9llrdcpp5sq890pc1ijli0",
+      "status": "confirmed",
+      "summary": "Arafat Day",
+      "region": "Djibouti",
+      "date": "2023-06-27"
+    },
+    {
+      "id": "20230628_e303130frfpf12ni9ive0stjnk",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Djibouti",
+      "date": "2023-06-28"
+    },
+    {
       "id": "20230628_ialh95h869e9hb31k0759723f0",
       "status": "confirmed",
       "summary": "Independence Day Holiday",
@@ -16786,25 +16800,11 @@
       "date": "2023-06-28"
     },
     {
-      "id": "20230628_lj6aohr7c2a9rkcl438opuigsc",
-      "status": "confirmed",
-      "summary": "Arafat Day",
-      "region": "Djibouti",
-      "date": "2023-06-28"
-    },
-    {
-      "id": "20230629_q3tr0q59jj0mtlq1vrj942nrtg",
-      "status": "confirmed",
-      "summary": "Eid al-Adha",
-      "region": "Djibouti",
-      "date": "2023-06-29"
-    },
-    {
-      "id": "20230630_5j99q40c070e6g50iiup5789bg",
+      "id": "20230629_9s18qsu0pm4cijl1qe6c1a42mg",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Djibouti",
-      "date": "2023-06-30"
+      "date": "2023-06-29"
     },
     {
       "id": "20230719_5sm335v3q3flvltkq16u3lnmb4",
@@ -53159,11 +53159,11 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230629_bt25k87abtb1ll7a7790ukvb6o",
+      "id": "20230628_s5unhfgu2tli095l98kmn1npng",
       "status": "confirmed",
       "summary": "Tabaski",
       "region": "Sierra Leone",
-      "date": "2023-06-29"
+      "date": "2023-06-28"
     },
     {
       "id": "20230927_8lvua7rbhkbnr0884snhu5nvis",
