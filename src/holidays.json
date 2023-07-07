@@ -854,6 +854,13 @@
       "date": "2023-05-29"
     },
     {
+      "id": "20230704_cbgq2407a25fodh3v80s57s8t0",
+      "status": "confirmed",
+      "summary": "50th Anniversary of CARICOM Holiday",
+      "region": "Antigua & Barbuda",
+      "date": "2023-07-04"
+    },
+    {
       "id": "20230807_m7g8cplnt46uj418j5anecjqt0",
       "status": "confirmed",
       "summary": "Carnival Holiday",
@@ -5146,6 +5153,13 @@
       "summary": "Fathers' Day",
       "region": "Barbados",
       "date": "2023-06-18"
+    },
+    {
+      "id": "20230731_ad1f11iqdhjr36nrng08capkag",
+      "status": "confirmed",
+      "summary": "50th Anniversary of CARICOM Holiday",
+      "region": "Barbados",
+      "date": "2023-07-31"
     },
     {
       "id": "20230801_dajtvh4mdj88t2gq742e11a764",
@@ -20913,6 +20927,13 @@
       "summary": "Corpus Christi",
       "region": "Grenada",
       "date": "2023-06-08"
+    },
+    {
+      "id": "20230704_5mjgf0di2jua65s7k6dvub96as",
+      "status": "confirmed",
+      "summary": "50th Anniversary of CARICOM Holiday",
+      "region": "Grenada",
+      "date": "2023-07-04"
     },
     {
       "id": "20230807_gd3b4nka7riuo2blr246c41qak",
@@ -56581,6 +56602,13 @@
       "summary": "Mothers' Day",
       "region": "El Salvador",
       "date": "2023-05-10"
+    },
+    {
+      "id": "20230607_dlotmnsa5rd4oj40ng8mehgb0s",
+      "status": "confirmed",
+      "summary": "San Salvador Games 2023 Public Holiday",
+      "region": "El Salvador",
+      "date": "2023-06-07"
     },
     {
       "id": "20230617_c3v5qg9iuthesqbqbs8mqk9tok",
