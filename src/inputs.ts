@@ -30,11 +30,11 @@ export class Inputs {
     this.commitStatusContext = stringOr(getInput("commit-status-context"), "block-merge-based-on-time")
     this.commitStatusDescriptionWithSuccess = stringOr(
       getInput("commit-status-description-with-success"),
-      "The PR could be merged"
+      "The PR could be merged",
     )
     this.commitStatusDescriptionWhileBlocking = stringOr(
       getInput("commit-status-description-while-blocking"),
-      "The PR can't be merged based on time, which is due to your organization's policy"
+      "The PR can't be merged based on time, which is due to your organization's policy",
     )
     // NOTE: If the string is empty, we're not sure where we should refer to. So, `||` is appropriate here instead of `??`.
     this.commitStatusURL = getInput("commit-status-url") || null
@@ -107,7 +107,7 @@ function hours(key: "after" | "before", zone: Zone): Hours {
         }
       }
     },
-    { base: dateTime("hh:mm", "00:00", zone) }
+    { base: dateTime("hh:mm", "00:00", zone) },
   )
   return result
 }

@@ -107,11 +107,11 @@ describe("shouldBlock", () => {
       const inSpy = jest.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
-          ({ after, before, timezone, "prohibited-days-dates": prohibited, "base-branches": "/^.*$/" }[name] as any)
+          ({ after, before, timezone, "prohibited-days-dates": prohibited, "base-branches": "/^.*$/" })[name] as any,
       )
 
       const inputs = new Inputs()
       expect(shouldBlock(inputs)).toEqual(expected)
-    }
+    },
   )
 })

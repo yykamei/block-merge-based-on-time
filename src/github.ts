@@ -69,11 +69,11 @@ export async function createCommitStatus(
   octokit: InstanceType<typeof GitHub>,
   pullRequestStatus: PullRequestStatus,
   inputs: Inputs,
-  state: "success" | "pending"
+  state: "success" | "pending",
 ): Promise<void> {
   const currentState = pullRequestStatus.state?.toLowerCase()
   core.debug(
-    `Start createCommitStatus(), updating the state of "${pullRequestStatus.sha}" from "${currentState}" to "${state}"`
+    `Start createCommitStatus(), updating the state of "${pullRequestStatus.sha}" from "${currentState}" to "${state}"`,
   )
 
   if (currentState === state) {
@@ -107,7 +107,7 @@ export async function createCommitStatus(
 export async function defaultBranch(
   octokit: InstanceType<typeof GitHub>,
   owner: string,
-  repo: string
+  repo: string,
 ): Promise<string> {
   core.debug(`Start defaultBranch() to get the default branch of ${owner}/${repo}`)
   const result: RepositoryResponse = await octokit.graphql(
@@ -119,7 +119,7 @@ query($owner: String!, $repo: String!) {
     }
   }
 }`,
-    { owner, repo }
+    { owner, repo },
   )
   return result.repository.defaultBranchRef.name
 }
@@ -129,7 +129,7 @@ export async function pull(
   owner: string,
   repo: string,
   contextName: string,
-  pullNumber: number
+  pullNumber: number,
 ): Promise<{ readonly defaultBranch: string; readonly pull: PullRequestStatus }> {
   core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`)
   const result: PullResponse = await octokit.graphql(
@@ -168,10 +168,10 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
     }
   }
 }`,
-    { owner, repo, contextName, pullNumber }
+    { owner, repo, contextName, pullNumber },
   )
   core.debug(
-    `pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`
+    `pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`,
   )
 
   const commit = result.repository.pullRequest.commits.edges[0]
@@ -197,7 +197,7 @@ export async function pulls(
   octokit: InstanceType<typeof GitHub>,
   owner: string,
   repo: string,
-  contextName: string
+  contextName: string,
 ): Promise<PullRequestStatus[]> {
   core.debug(`Start pulls() to get the pull requests of ${owner}/${repo}`)
   let after: string | null = null
@@ -248,7 +248,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
     }
   }
 }`,
-      { owner, repo, contextName, after }
+      { owner, repo, contextName, after },
     )
     hasNextPage = result.repository.pullRequests.pageInfo.hasNextPage
     after = result.repository.pullRequests.pageInfo.endCursor
