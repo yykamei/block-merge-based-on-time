@@ -95,7 +95,7 @@ describe("run", () => {
             ({
               ...inputs,
               "base-branches": inputBaseBranches,
-            }[name] as any)
+            })[name] as any,
         )
         const defaultBranch = jest.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
         const pullsCall = jest.spyOn(api, "pulls").mockImplementation(async () => pulls)
@@ -106,7 +106,7 @@ describe("run", () => {
         pulls.forEach((pull, idx) => {
           expect(createCommitStatus).toHaveBeenCalledWith(octokit, pull, expect.any(Inputs), expectedStates[idx])
         })
-      }
+      },
     )
 
     test("throws an error when some pull requests failed to get updated while successfully updating others", async () => {
@@ -115,7 +115,7 @@ describe("run", () => {
         (name) =>
           ({
             ...inputs,
-          }[name] as any)
+          })[name] as any,
       )
       const defaultBranch = jest.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
       const pullsCall = jest
@@ -145,7 +145,7 @@ describe("run", () => {
             labels: [],
           },
           expect.any(Inputs),
-          "pending"
+          "pending",
         )
         expect(createCommitStatus).toHaveBeenCalledWith(
           octokit,
@@ -155,7 +155,7 @@ describe("run", () => {
             labels: [],
           },
           expect.any(Inputs),
-          "pending"
+          "pending",
         )
         expect(createCommitStatus).toHaveBeenCalledWith(
           octokit,
@@ -165,7 +165,7 @@ describe("run", () => {
             labels: [],
           },
           expect.any(Inputs),
-          "pending"
+          "pending",
         )
         expect(createCommitStatus).toHaveBeenCalledWith(
           octokit,
@@ -175,13 +175,13 @@ describe("run", () => {
             labels: [],
           },
           expect.any(Inputs),
-          "pending"
+          "pending",
         )
         expect(coreError).toHaveBeenCalledWith(
-          '#4\'s head commit is too old to get updated with the commit status context "BB". See the details: Error: This SHA and context has reached the maximum number of statuses.'
+          '#4\'s head commit is too old to get updated with the commit status context "BB". See the details: Error: This SHA and context has reached the maximum number of statuses.',
         )
         expect(coreError).toHaveBeenCalledWith(
-          '#6\'s head commit is too old to get updated with the commit status context "BB". See the details: Error: This SHA and context has reached the maximum number of statuses.'
+          '#6\'s head commit is too old to get updated with the commit status context "BB". See the details: Error: This SHA and context has reached the maximum number of statuses.',
         )
         expect(e.message).toEqual(`Some pull requests failed to get updated with the commit status context "BB".
 The failed pull requests are:
@@ -211,7 +211,7 @@ You can resolve the problems with these actions: updating the pull requests with
             "commit-status-description-while-blocking": "",
             "commit-status-url": "",
             "base-branches": "(default), /staging-.*/, /feature/foo/.*/",
-          }[name] as any)
+          })[name] as any,
       )
     })
 
@@ -248,7 +248,7 @@ You can resolve the problems with these actions: updating the pull requests with
         await run()
         expect(pull).toHaveBeenCalledWith(octokit, "FAORG", "repo1", "my-blocker", 324)
         expect(createCommitStatus).toHaveBeenCalledWith(octokit, pullData, expect.any(Inputs), expectedState)
-      }
+      },
     )
   })
 

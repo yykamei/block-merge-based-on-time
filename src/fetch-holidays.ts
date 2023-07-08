@@ -292,7 +292,7 @@ const fetch = (region: string, calendarId: string): Promise<HolidayEntry[]> => {
                 region,
                 date: start.date,
               }
-            })
+            }),
           )
         } catch (e) {
           reject(e)

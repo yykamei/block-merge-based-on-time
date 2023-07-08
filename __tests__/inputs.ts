@@ -29,7 +29,7 @@ describe("Inputs", () => {
           "commit-status-description-while-blocking": "Blocked!",
           "commit-status-url": "https://example.com",
           "base-branches": "/^.*$/",
-        }[name] as any)
+        })[name] as any,
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
@@ -41,7 +41,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Pacific/Honolulu",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("before", {
@@ -52,7 +52,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Pacific/Honolulu",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
@@ -67,7 +67,7 @@ describe("Inputs", () => {
           },
           {
             zone: "Pacific/Honolulu",
-          }
+          },
         ),
         DateTime.fromObject(
           {
@@ -77,8 +77,8 @@ describe("Inputs", () => {
           },
           {
             zone: "Pacific/Honolulu",
-          }
-        ).endOf("day")
+          },
+        ).endOf("day"),
       ),
     ])
     expect(inputs).toHaveProperty("noBlockLabel", "Emergency")
@@ -105,7 +105,7 @@ describe("Inputs", () => {
           "commit-status-description-while-blocking": "",
           "commit-status-url": "",
           "base-branches": "",
-        }[name] as any)
+        })[name] as any,
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
@@ -117,7 +117,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Pacific/Honolulu",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("before", {
@@ -128,7 +128,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Pacific/Honolulu",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
@@ -139,7 +139,7 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
       "commitStatusDescriptionWhileBlocking",
-      "The PR can't be merged based on time, which is due to your organization's policy"
+      "The PR can't be merged based on time, which is due to your organization's policy",
     )
     expect(inputs).toHaveProperty("commitStatusURL", null)
     expect(inputs).toHaveProperty("rawBaseBranches", [])
@@ -156,7 +156,7 @@ describe("Inputs", () => {
           timezone: "Pacific/Honolulu",
           "prohibited-days-dates": "Sunday, 2023-07-30, 2023-08-06/2023-08-10",
           "base-branches": "(default)",
-        }[name] as any)
+        })[name] as any,
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
@@ -168,7 +168,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Pacific/Honolulu",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("before", {
@@ -179,7 +179,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Pacific/Honolulu",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
@@ -194,7 +194,7 @@ describe("Inputs", () => {
           },
           {
             zone: "Pacific/Honolulu",
-          }
+          },
         ),
         DateTime.fromObject(
           {
@@ -204,8 +204,8 @@ describe("Inputs", () => {
           },
           {
             zone: "Pacific/Honolulu",
-          }
-        ).endOf("day")
+          },
+        ).endOf("day"),
       ),
       Interval.fromDateTimes(
         DateTime.fromObject(
@@ -216,7 +216,7 @@ describe("Inputs", () => {
           },
           {
             zone: "Pacific/Honolulu",
-          }
+          },
         ),
         DateTime.fromObject(
           {
@@ -226,8 +226,8 @@ describe("Inputs", () => {
           },
           {
             zone: "Pacific/Honolulu",
-          }
-        ).endOf("day")
+          },
+        ).endOf("day"),
       ),
     ])
     expect(inputs).toHaveProperty("noBlockLabel", "no-block")
@@ -235,7 +235,7 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
       "commitStatusDescriptionWhileBlocking",
-      "The PR can't be merged based on time, which is due to your organization's policy"
+      "The PR can't be merged based on time, which is due to your organization's policy",
     )
     expect(inputs).toHaveProperty("commitStatusURL", null)
   })
@@ -256,7 +256,7 @@ describe("Inputs", () => {
           "commit-status-description-while-blocking": "",
           "commit-status-url": "",
           "base-branches": "main",
-        }[name] as any)
+        })[name] as any,
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
@@ -268,7 +268,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Europe/Madrid",
-        }
+        },
       ),
       Monday: DateTime.fromObject(
         {
@@ -277,7 +277,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Europe/Madrid",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("before", {
@@ -288,7 +288,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Europe/Madrid",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
@@ -299,7 +299,7 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
       "commitStatusDescriptionWhileBlocking",
-      "The PR can't be merged based on time, which is due to your organization's policy"
+      "The PR can't be merged based on time, which is due to your organization's policy",
     )
     expect(inputs).toHaveProperty("commitStatusURL", null)
     expect(inputs).toHaveProperty("rawBaseBranches", ["main"])
@@ -321,7 +321,7 @@ describe("Inputs", () => {
           "commit-status-description-while-blocking": "",
           "commit-status-url": "",
           "base-branches": "main",
-        }[name] as any)
+        })[name] as any,
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
@@ -333,7 +333,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Europe/Madrid",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("before", {
@@ -344,7 +344,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Europe/Madrid",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
@@ -360,7 +360,7 @@ describe("Inputs", () => {
           },
           {
             zone: "Europe/Madrid",
-          }
+          },
         ).startOf("day"),
         DateTime.fromObject(
           {
@@ -370,9 +370,9 @@ describe("Inputs", () => {
           },
           {
             zone: "Europe/Madrid",
-          }
-        ).endOf("day")
-      )
+          },
+        ).endOf("day"),
+      ),
     )
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
@@ -384,7 +384,7 @@ describe("Inputs", () => {
           },
           {
             zone: "Europe/Madrid",
-          }
+          },
         ).startOf("day"),
         DateTime.fromObject(
           {
@@ -394,16 +394,16 @@ describe("Inputs", () => {
           },
           {
             zone: "Europe/Madrid",
-          }
-        ).endOf("day")
-      )
+          },
+        ).endOf("day"),
+      ),
     )
     expect(inputs).toHaveProperty("noBlockLabel", "no-block")
     expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
       "commitStatusDescriptionWhileBlocking",
-      "The PR can't be merged based on time, which is due to your organization's policy"
+      "The PR can't be merged based on time, which is due to your organization's policy",
     )
     expect(inputs).toHaveProperty("commitStatusURL", null)
     expect(inputs).toHaveProperty("rawBaseBranches", ["main"])
@@ -425,7 +425,7 @@ describe("Inputs", () => {
           "commit-status-description-while-blocking": "",
           "commit-status-url": "",
           "base-branches": "develop, feature/special",
-        }[name] as any)
+        })[name] as any,
     )
     const inputs = new Inputs()
     expect(inputs).toHaveProperty("token", "abc")
@@ -437,7 +437,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Europe/Madrid",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("before", {
@@ -448,7 +448,7 @@ describe("Inputs", () => {
         },
         {
           zone: "Europe/Madrid",
-        }
+        },
       ),
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
@@ -464,7 +464,7 @@ describe("Inputs", () => {
           },
           {
             zone: "Europe/Madrid",
-          }
+          },
         ).startOf("day"),
         DateTime.fromObject(
           {
@@ -474,9 +474,9 @@ describe("Inputs", () => {
           },
           {
             zone: "Europe/Madrid",
-          }
-        ).endOf("day")
-      )
+          },
+        ).endOf("day"),
+      ),
     )
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
@@ -488,7 +488,7 @@ describe("Inputs", () => {
           },
           {
             zone: "Europe/Madrid",
-          }
+          },
         ).startOf("day"),
         DateTime.fromObject(
           {
@@ -498,16 +498,16 @@ describe("Inputs", () => {
           },
           {
             zone: "Europe/Madrid",
-          }
-        ).endOf("day")
-      )
+          },
+        ).endOf("day"),
+      ),
     )
     expect(inputs).toHaveProperty("noBlockLabel", "no-block")
     expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
       "commitStatusDescriptionWhileBlocking",
-      "The PR can't be merged based on time, which is due to your organization's policy"
+      "The PR can't be merged based on time, which is due to your organization's policy",
     )
     expect(inputs).toHaveProperty("commitStatusURL", null)
     expect(inputs).toHaveProperty("rawBaseBranches", ["develop", "feature/special"])
@@ -515,13 +515,13 @@ describe("Inputs", () => {
 
   test("returns an error with invalid zone", () => {
     const inSpy = jest.spyOn(core, "getInput")
-    inSpy.mockImplementation((name) => ({ token: "abc", timezone: "Unknown/Abc" }[name] as any))
+    inSpy.mockImplementation((name) => ({ token: "abc", timezone: "Unknown/Abc" })[name] as any)
     expect(() => new Inputs()).toThrow(new Error('the zone "Unknown/Abc" is not supported'))
   })
 
   test("returns an error with invalid after", () => {
     const inSpy = jest.spyOn(core, "getInput")
-    inSpy.mockImplementation((name) => ({ token: "abc", timezone: "UTC+3", after: "1220" }[name] as any))
+    inSpy.mockImplementation((name) => ({ token: "abc", timezone: "UTC+3", after: "1220" })[name] as any)
     expect(() => new Inputs()).toThrow(new Error('Invalid "after" was given. The example format is "16:30 on Monday"'))
   })
 
@@ -534,7 +534,7 @@ describe("Inputs", () => {
           timezone: "UTC+3",
           after: "21:00",
           before: "invalid",
-        }[name] as any)
+        })[name] as any,
     )
     expect(() => new Inputs()).toThrow(new Error('Invalid "before" was given. The example format is "16:30 on Monday"'))
   })
@@ -549,7 +549,7 @@ describe("Inputs", () => {
           after: "21:00",
           before: "01:20",
           "prohibited-days-dates": "Superday",
-        }[name] as any)
+        })[name] as any,
     )
     expect(() => new Inputs()).toThrow(new Error('the input "Superday" can\'t be parsed as format yyyy-MM-dd'))
   })
@@ -564,7 +564,7 @@ describe("Inputs", () => {
           after: "21:00",
           before: "01:20",
           "prohibited-days-dates": "20:13",
-        }[name] as any)
+        })[name] as any,
     )
     expect(() => new Inputs()).toThrow(new Error('the input "20:13" can\'t be parsed as format yyyy-MM-dd'))
   })
@@ -579,7 +579,7 @@ describe("Inputs", () => {
           after: "21:00",
           before: "01:20",
           "prohibited-days-dates": "mm/20:13",
-        }[name] as any)
+        })[name] as any,
     )
     expect(() => new Inputs()).toThrow(new Error('the input "mm/20:13" can\'t be parsed as ISO 8601'))
   })
@@ -600,7 +600,7 @@ describe("Inputs", () => {
           "commit-status-description-while-blocking": "",
           "commit-status-url": "",
           "base-branches": "(default), special/one, /^feature\\/.*/",
-        }[name] as any)
+        })[name] as any,
     )
     const inputs = new Inputs()
     expect(inputs.baseBranches("main")).toEqual([/^main$/, /^special\/one$/, /^feature\/.*/])

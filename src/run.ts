@@ -41,7 +41,7 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
       await createCommitStatus(octokit, pull, inputs, state)
     } catch (error) {
       core.error(
-        `#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`
+        `#${pull.number}'s head commit is too old to get updated with the commit status context "${inputs.commitStatusContext}". See the details: ${error}`,
       )
       errorPulls.push(pull)
     }
@@ -54,7 +54,7 @@ The failed pull requests are:
 
 ${errorPulls.map((pull) => `- #${pull.number}`).join("\n")}
 
-You can resolve the problems with these actions: updating the pull requests with new commits, or closing them.`
+You can resolve the problems with these actions: updating the pull requests with new commits, or closing them.`,
     )
   }
 }
