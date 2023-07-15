@@ -46454,6 +46454,13 @@
       "date": "2023-01-01"
     },
     {
+      "id": "20230102_or20rf3it9titsusvmtns0ehjk",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2023-01-02"
+    },
+    {
       "id": "20230106_mahgum52t0e68bn0a7fe92l028",
       "status": "confirmed",
       "summary": "The Three Wise Men Day",
@@ -46480,6 +46487,13 @@
       "summary": "Easter Sunday",
       "region": "Peru",
       "date": "2023-04-09"
+    },
+    {
+      "id": "20230428_9cesl5vtkccokjn6ao6bj6go1g",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2023-04-28"
     },
     {
       "id": "20230501_e7o20idvaes6l4sgd34jue04i8",
@@ -46531,6 +46545,27 @@
       "date": "2023-06-29"
     },
     {
+      "id": "20230630_0cu7b263fn931p27osh211g2pk",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2023-06-30"
+    },
+    {
+      "id": "20230723_if3dbcjlkdo826kl6ntcn2ar0g",
+      "status": "confirmed",
+      "summary": "Peruvian Air Force Day",
+      "region": "Peru",
+      "date": "2023-07-23"
+    },
+    {
+      "id": "20230727_5r6bdcea4oapol21t7pjqj8mjo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2023-07-27"
+    },
+    {
       "id": "20230728_7bcqnjp6lh2a0pni5h90bnr42s",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -46566,6 +46601,13 @@
       "date": "2023-10-08"
     },
     {
+      "id": "20231009_60f087epe52q405935cdd7rf8o",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2023-10-09"
+    },
+    {
       "id": "20231101_evmqc0i8np5jce93iu2sv4lq60",
       "status": "confirmed",
       "summary": "All Saints' Day",
@@ -46578,6 +46620,13 @@
       "summary": "All Souls' Day",
       "region": "Peru",
       "date": "2023-11-02"
+    },
+    {
+      "id": "20231207_sp77sau9snh7k9fhsl4ubmorbs",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2023-12-07"
     },
     {
       "id": "20231208_e52a4e9mf8he8a8ju7mualkcsk",
@@ -46606,6 +46655,13 @@
       "summary": "Christmas Day",
       "region": "Peru",
       "date": "2023-12-25"
+    },
+    {
+      "id": "20231226_fp2818m4puan225madfu2u6tng",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2023-12-26"
     },
     {
       "id": "20231231_q3lrfaju2kjvmcbdurasg6ng54",
@@ -46697,6 +46753,13 @@
       "summary": "St Peter and St Paul",
       "region": "Peru",
       "date": "2024-06-29"
+    },
+    {
+      "id": "20240723_n42mbtj2geog8doom3g1vhnn8k",
+      "status": "confirmed",
+      "summary": "Peruvian Air Force Day",
+      "region": "Peru",
+      "date": "2024-07-23"
     },
     {
       "id": "20240728_usfh3259iqfbjl0g60e8er25hk",
