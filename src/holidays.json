@@ -7903,11 +7903,11 @@
       "date": "2023-07-15"
     },
     {
-      "id": "20230719_8kbv4bfu9765l429itfe00l4q0",
+      "id": "20230718_2m6bpabt4cjl3a8ueu428tqkpk",
       "status": "confirmed",
       "summary": "Muharram/Islamic New Year",
       "region": "Brunei",
-      "date": "2023-07-19"
+      "date": "2023-07-18"
     },
     {
       "id": "20230928_p9jvpuk6k1td1dsu27hebtf71k",
@@ -60662,11 +60662,11 @@
       "date": "2023-06-29"
     },
     {
-      "id": "20230718_u73rof1393mvu9o09uvi26epi8",
+      "id": "20230719_og821g57bkjhmrnrab0hoego8c",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Tunisia",
-      "date": "2023-07-18"
+      "date": "2023-07-19"
     },
     {
       "id": "20230725_sagqv6veg67egbm9rrl11l32n0",
@@ -62827,6 +62827,13 @@
       "date": "2023-01-14"
     },
     {
+      "id": "20230119_gk6lc8qa6mkdijicqg2u756tqo",
+      "status": "confirmed",
+      "summary": "Epiphany",
+      "region": "Ukraine",
+      "date": "2023-01-19"
+    },
+    {
       "id": "20230122_lnn10potboiadab6l1v4g81oa8",
       "status": "confirmed",
       "summary": "Ukrainian Unity Day",
@@ -63044,6 +63051,13 @@
       "date": "2023-11-21"
     },
     {
+      "id": "20231206_2tjo5g2dp3tah2jct1v17a9ho8",
+      "status": "confirmed",
+      "summary": "St. Nicholas Day",
+      "region": "Ukraine",
+      "date": "2023-12-06"
+    },
+    {
       "id": "20231206_tujc5iadbv2v93mn90sc2smjv0",
       "status": "confirmed",
       "summary": "Army Day",
@@ -63051,16 +63065,9 @@
       "date": "2023-12-06"
     },
     {
-      "id": "20231219_54ej6k9j1rnk1c14m5mpi9a3ak",
+      "id": "20231225_ib89bm2407sb5o0a7da7b29vq4",
       "status": "confirmed",
-      "summary": "St. Nicholas Day",
-      "region": "Ukraine",
-      "date": "2023-12-19"
-    },
-    {
-      "id": "20231225_rb5956l449lu6c31jh2t70m6bc",
-      "status": "confirmed",
-      "summary": "Catholic Christmas Day (Suspended)",
+      "summary": "Christmas Day",
       "region": "Ukraine",
       "date": "2023-12-25"
     },
@@ -63072,11 +63079,11 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240107_qj6rp3l3ceid7rpef23rujniec",
+      "id": "20240106_i2c0fvf1im3ddosmpl6m0833pg",
       "status": "confirmed",
-      "summary": "Orthodox Christmas Day (Suspended)",
+      "summary": "Epiphany",
       "region": "Ukraine",
-      "date": "2024-01-07"
+      "date": "2024-01-06"
     },
     {
       "id": "20240114_34smf6asaflhqddcvjgo5uqp70",
@@ -63303,6 +63310,13 @@
       "date": "2024-11-21"
     },
     {
+      "id": "20241206_1bc2leq57d0pd0cbaa9bm9gbn8",
+      "status": "confirmed",
+      "summary": "St. Nicholas Day",
+      "region": "Ukraine",
+      "date": "2024-12-06"
+    },
+    {
       "id": "20241206_ap74r9jm0m6aqaa982b7ppbiek",
       "status": "confirmed",
       "summary": "Army Day",
@@ -63310,16 +63324,9 @@
       "date": "2024-12-06"
     },
     {
-      "id": "20241219_4gr9ruqgr5egb7o3lipd88p97g",
+      "id": "20241225_meoae3ppcgpfhshkh9en87sd7c",
       "status": "confirmed",
-      "summary": "St. Nicholas Day",
-      "region": "Ukraine",
-      "date": "2024-12-19"
-    },
-    {
-      "id": "20241225_kor1rk6fsrftpg52q1u6lc7vio",
-      "status": "confirmed",
-      "summary": "Catholic Christmas Day (Suspended)",
+      "summary": "Christmas Day",
       "region": "Ukraine",
       "date": "2024-12-25"
     }
