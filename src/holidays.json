@@ -47757,18 +47757,18 @@
       "date": "2023-07-01"
     },
     {
-      "id": "20230727_p6d631h12u1tnt2ndp6vm242rc",
-      "status": "confirmed",
-      "summary": "Ashura",
-      "region": "Pakistan",
-      "date": "2023-07-27"
-    },
-    {
       "id": "20230728_qed916ucpder1nhgv9l6ug31u0",
       "status": "confirmed",
       "summary": "Ashura Holiday",
       "region": "Pakistan",
       "date": "2023-07-28"
+    },
+    {
+      "id": "20230729_rt0bfm2o37ie6o8v32shs249pk",
+      "status": "confirmed",
+      "summary": "Ashura",
+      "region": "Pakistan",
+      "date": "2023-07-29"
     },
     {
       "id": "20230814_1j760f2h1ln799q8ini01eif0o",
@@ -52826,9 +52826,9 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230619_fld9hngnhrta7b71pglcurg700",
+      "id": "20230619_egtbci521ejqnjrs2k5jp7ilf4",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
+      "summary": "King Charles III's Birthday",
       "region": "St. Helena",
       "date": "2023-06-19"
     },
@@ -52896,9 +52896,9 @@
       "date": "2024-05-21"
     },
     {
-      "id": "20240617_858q6arm8t5glhk88vjrj4ud9c",
+      "id": "20240617_8v2micj3un9cbq5beied39luj0",
       "status": "confirmed",
-      "summary": "Queen Elizabeth II's Birthday",
+      "summary": "King Charles III's Birthday",
       "region": "St. Helena",
       "date": "2024-06-17"
     },
