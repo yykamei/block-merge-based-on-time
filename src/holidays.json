@@ -18683,11 +18683,11 @@
       "date": "2023-09-12"
     },
     {
-      "id": "20230928_4c9ebb2i86ijvsvdr0m9ach4ko",
+      "id": "20230927_4fgthd4u6kuhth24e5gpdl55l0",
       "status": "confirmed",
       "summary": "Prophet Mohamed's Birthday",
       "region": "Egypt",
-      "date": "2023-09-28"
+      "date": "2023-09-27"
     },
     {
       "id": "20231006_n864kudgbg8mmjak0ahejbct2s",
@@ -26769,7 +26769,7 @@
       "date": "2023-04-09"
     },
     {
-      "id": "20230414_414igtm700068dr327kcif0jjc",
+      "id": "20230414_7nh7vol57irs9lk4umo3s1drck",
       "status": "confirmed",
       "summary": "Ambedkar Jayanti",
       "region": "India",
@@ -27035,18 +27035,18 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240114_0gedlkddumvh5ndrcpraukfah4",
+      "id": "20240113_hat7fcp9a4umh3c9q56ipq5i5c",
       "status": "confirmed",
       "summary": "Lohri",
       "region": "India",
-      "date": "2024-01-14"
+      "date": "2024-01-13"
     },
     {
-      "id": "20240115_d4vlnleoqb6af04j0uqu005vh0",
+      "id": "20240114_afnsm6msul4cv6jvfgu1bi8578",
       "status": "confirmed",
       "summary": "Makar Sankranti",
       "region": "India",
-      "date": "2024-01-15"
+      "date": "2024-01-14"
     },
     {
       "id": "20240115_vasn62a9dftsrug1n2jbpgp8eo",
@@ -27098,14 +27098,14 @@
       "date": "2024-02-24"
     },
     {
-      "id": "20240305_v7bn0ck8cvainspup0t7a8hkcs",
+      "id": "20240306_rfotcrsspe8sckct05hidtn86s",
       "status": "confirmed",
       "summary": "Maharishi Dayanand Saraswati Jayanti",
       "region": "India",
-      "date": "2024-03-05"
+      "date": "2024-03-06"
     },
     {
-      "id": "20240308_3rjt1i6o0g5qp1kv41g5hqsrmc",
+      "id": "20240308_aa0givmgt3ht35i9qq2a19rcto",
       "status": "confirmed",
       "summary": "Maha Shivaratri/Shivaratri",
       "region": "India",
@@ -27194,6 +27194,13 @@
       "summary": "Vaisakhi",
       "region": "India",
       "date": "2024-04-13"
+    },
+    {
+      "id": "20240414_g8sjce6t2r699kr4nn983sdbo8",
+      "status": "confirmed",
+      "summary": "Mesadi / Vaisakhadi",
+      "region": "India",
+      "date": "2024-04-14"
     },
     {
       "id": "20240414_t6bil2oac890loodm1fr0d9t9s",
@@ -27343,11 +27350,11 @@
       "date": "2024-10-11"
     },
     {
-      "id": "20241012_8jpo5bfb297120ong5pnli25rc",
+      "id": "20241011_rbm4g88o14ovr4jq25qh0t2kls",
       "status": "confirmed",
       "summary": "Maha Navami",
       "region": "India",
-      "date": "2024-10-12"
+      "date": "2024-10-11"
     },
     {
       "id": "20241012_egjb3ichmunek054p9rp1mcuag",
@@ -27378,11 +27385,11 @@
       "date": "2024-10-31"
     },
     {
-      "id": "20241101_k6p5t3am2dnpearth7ppvofrrc",
+      "id": "20241031_frsesr4i98qdierg4hcme9sr3g",
       "status": "confirmed",
       "summary": "Diwali/Deepavali",
       "region": "India",
-      "date": "2024-11-01"
+      "date": "2024-10-31"
     },
     {
       "id": "20241102_9mqcd5jrd6dct130r11lufktl0",
@@ -59287,6 +59294,13 @@
       "summary": "King Vajiralongkorn's Birthday",
       "region": "Thailand",
       "date": "2023-07-28"
+    },
+    {
+      "id": "20230731_0ef0d6s8h1aj52sq3hotscesuk",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Thailand",
+      "date": "2023-07-31"
     },
     {
       "id": "20230801_k1l35miru7kooc3rosiu6os5hg",
