@@ -27998,11 +27998,11 @@
       "date": "2023-07-19"
     },
     {
-      "id": "20230727_s2vkupi6baefaficmoid7844cs",
+      "id": "20230729_oa6rhbcqh6k9tr145l195btlbc",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Iraq",
-      "date": "2023-07-27"
+      "date": "2023-07-29"
     },
     {
       "id": "20230927_hrc2ajv9n7srscigta4kkhj1n4",
@@ -34174,6 +34174,20 @@
       "date": "2023-07-28"
     },
     {
+      "id": "20230729_csufjbqsn0i6fnmmehssu2f0ko",
+      "status": "confirmed",
+      "summary": "Ashoura Holiday",
+      "region": "Lebanon",
+      "date": "2023-07-29"
+    },
+    {
+      "id": "20230804_eb1mcf27q3jml51lord7e1ohco",
+      "status": "confirmed",
+      "summary": "National Day of Mourning",
+      "region": "Lebanon",
+      "date": "2023-08-04"
+    },
+    {
       "id": "20230815_2h9ns8age6l64pni9an80rncv4",
       "status": "confirmed",
       "summary": "Assumption of Mary",
@@ -35496,6 +35510,223 @@
       "summary": "Unduvap Full Moon Poya Day",
       "region": "Sri Lanka",
       "date": "2023-12-26"
+    },
+    {
+      "id": "20240115_scj5i36as26m8v38aqedkfqtcc",
+      "status": "confirmed",
+      "summary": "Tamil Thai Pongal Day",
+      "region": "Sri Lanka",
+      "date": "2024-01-15"
+    },
+    {
+      "id": "20240125_h59bejr16vk9fib5ifh5bq6b90",
+      "status": "confirmed",
+      "summary": "Duruthu Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-01-25"
+    },
+    {
+      "id": "20240204_8v100ko8f6045lh6q97elbh6cc",
+      "status": "confirmed",
+      "summary": "National Day",
+      "region": "Sri Lanka",
+      "date": "2024-02-04"
+    },
+    {
+      "id": "20240214_5c7lgaqgpqsidh8u5kn8c9970c",
+      "status": "confirmed",
+      "summary": "Valentine's Day",
+      "region": "Sri Lanka",
+      "date": "2024-02-14"
+    },
+    {
+      "id": "20240224_erg15udi1464aiaagfkv1nji30",
+      "status": "confirmed",
+      "summary": "Navam Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-02-24"
+    },
+    {
+      "id": "20240308_se397jm0pup5f2433hmbccba5c",
+      "status": "confirmed",
+      "summary": "Mahasivarathri Day",
+      "region": "Sri Lanka",
+      "date": "2024-03-08"
+    },
+    {
+      "id": "20240311_t01i9d3f8diondpdeefl2j5su8",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Sri Lanka",
+      "date": "2024-03-11"
+    },
+    {
+      "id": "20240324_gmt8oqqvk849uisq8ngek488e4",
+      "status": "confirmed",
+      "summary": "Madin Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-03-24"
+    },
+    {
+      "id": "20240329_5qhmucjr76d7erqssk5vu6la1g",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "Sri Lanka",
+      "date": "2024-03-29"
+    },
+    {
+      "id": "20240331_41gqo5b986ncksbmdhmu8ru69k",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Sri Lanka",
+      "date": "2024-03-31"
+    },
+    {
+      "id": "20240410_gan75u9415fkjmihdm8k2a9loo",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "Sri Lanka",
+      "date": "2024-04-10"
+    },
+    {
+      "id": "20240412_5pahr874t5m09c9aca3poeh4f8",
+      "status": "confirmed",
+      "summary": "Sinhala and Tamil New Year's Eve",
+      "region": "Sri Lanka",
+      "date": "2024-04-12"
+    },
+    {
+      "id": "20240413_ace89om7r2u02oa00cgcu99sdo",
+      "status": "confirmed",
+      "summary": "Sinhala and Tamil New Year's Day",
+      "region": "Sri Lanka",
+      "date": "2024-04-13"
+    },
+    {
+      "id": "20240423_otgqqmut2d8ujp8op296sdud0g",
+      "status": "confirmed",
+      "summary": "Bak Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-04-23"
+    },
+    {
+      "id": "20240501_6isnrbe8tijsvb2aop08oedgnk",
+      "status": "confirmed",
+      "summary": "May Day",
+      "region": "Sri Lanka",
+      "date": "2024-05-01"
+    },
+    {
+      "id": "20240512_qihg65sf26c9ureqe87f5cosao",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Sri Lanka",
+      "date": "2024-05-12"
+    },
+    {
+      "id": "20240523_2ig296c5kljcfemugab61dg5g8",
+      "status": "confirmed",
+      "summary": "Vesak Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-05-23"
+    },
+    {
+      "id": "20240524_n2ut5b6e43q025ble9r3q1c8k8",
+      "status": "confirmed",
+      "summary": "Day after Vesak Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-05-24"
+    },
+    {
+      "id": "20240616_d2c4csfffteshmmnu943rro0c8",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Sri Lanka",
+      "date": "2024-06-16"
+    },
+    {
+      "id": "20240617_nhhv9ba32c6purf9dnmgq7miak",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Sri Lanka",
+      "date": "2024-06-17"
+    },
+    {
+      "id": "20240621_v34kohn79nuetvtsgbm8rsepf8",
+      "status": "confirmed",
+      "summary": "Poson Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-06-21"
+    },
+    {
+      "id": "20240720_53u8p4kebrkj4bj961chjm05ec",
+      "status": "confirmed",
+      "summary": "Esala Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-07-20"
+    },
+    {
+      "id": "20240819_pqj3tujqnksp34dgu8im6trrjg",
+      "status": "confirmed",
+      "summary": "Nikini Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-08-19"
+    },
+    {
+      "id": "20240916_g0l1ro234jrap7tvg7teli3tis",
+      "status": "confirmed",
+      "summary": "Milad-Un-Nabi (Holy Prophet's Birthday)",
+      "region": "Sri Lanka",
+      "date": "2024-09-16"
+    },
+    {
+      "id": "20240917_q52g1qkdbivmvl9dj79ql58mbg",
+      "status": "confirmed",
+      "summary": "Binara Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-09-17"
+    },
+    {
+      "id": "20241017_ficg3n5l3c051q13j2ss1q3e2k",
+      "status": "confirmed",
+      "summary": "Vap Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-10-17"
+    },
+    {
+      "id": "20241101_ec66b7kfv1phc5s443m7ljqgdo",
+      "status": "confirmed",
+      "summary": "Deepavali",
+      "region": "Sri Lanka",
+      "date": "2024-11-01"
+    },
+    {
+      "id": "20241115_1puvgj8ni68vkt0ifu431r514g",
+      "status": "confirmed",
+      "summary": "Ill Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-11-15"
+    },
+    {
+      "id": "20241214_n1851r741hfq531m3mq4i9sh5c",
+      "status": "confirmed",
+      "summary": "Unduvap Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2024-12-14"
+    },
+    {
+      "id": "20241224_ag45b08epa2drqoi6odj65425o",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "Sri Lanka",
+      "date": "2024-12-24"
+    },
+    {
+      "id": "20241225_c7ol3lo4ecjd77o41fqpioen1g",
+      "status": "confirmed",
+      "summary": "Christmas Day",
+      "region": "Sri Lanka",
+      "date": "2024-12-25"
     }
   ],
   "Liberia": [
