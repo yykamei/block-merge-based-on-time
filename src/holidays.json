@@ -55308,11 +55308,11 @@
       "date": "2023-02-21"
     },
     {
-      "id": "20230222_frtuvqip2binf7kke6vebjl524",
+      "id": "20230226_h6u4hdu3qrrog0dd1hdfjqmg10",
       "status": "confirmed",
       "summary": "Ash Wednesday",
       "region": "Spain",
-      "date": "2023-02-22"
+      "date": "2023-02-26"
     },
     {
       "id": "20230228_ee99iunu2bmkbeh3pbdt9m2hf8",
@@ -55460,13 +55460,6 @@
       "summary": "Mothers' Day",
       "region": "Spain",
       "date": "2023-05-07"
-    },
-    {
-      "id": "20230515_l9er13fea4k9f6r67f411s0i04",
-      "status": "confirmed",
-      "summary": "Feast Day of St Isidore (Madrid)",
-      "region": "Spain",
-      "date": "2023-05-15"
     },
     {
       "id": "20230517_ar4vq06nmrmqbu9g7kqhsn0pl0",
@@ -55644,13 +55637,6 @@
       "date": "2023-11-01"
     },
     {
-      "id": "20231109_0paa12r050013lnu9fanoaijnk",
-      "status": "confirmed",
-      "summary": "La Almudena (Madrid)",
-      "region": "Spain",
-      "date": "2023-11-09"
-    },
-    {
       "id": "20231206_nfhfbh01mi66lguf91ea3q5plg",
       "status": "confirmed",
       "summary": "Constitution Day",
@@ -55728,11 +55714,11 @@
       "date": "2024-01-23"
     },
     {
-      "id": "20240214_fplsq86ffmuipfctjgb5amq1n4",
+      "id": "20240213_c41k4gft0e9iv17h5cdlegum9o",
       "status": "confirmed",
-      "summary": "Ash Wednesday",
+      "summary": "Carnival Tuesday (Extremadura)",
       "region": "Spain",
-      "date": "2024-02-14"
+      "date": "2024-02-13"
     },
     {
       "id": "20240214_td36lpj0g44ssab6qpchfi97v4",
@@ -55740,6 +55726,13 @@
       "summary": "Valentine's Day",
       "region": "Spain",
       "date": "2024-02-14"
+    },
+    {
+      "id": "20240226_fge7gvta46i5vefpbaeleqc6eg",
+      "status": "confirmed",
+      "summary": "Ash Wednesday",
+      "region": "Spain",
+      "date": "2024-02-26"
     },
     {
       "id": "20240228_l8ovdo8v9gd2vaere5overvong",
@@ -55756,16 +55749,16 @@
       "date": "2024-03-01"
     },
     {
-      "id": "20240319_5qbe2d7gbecq0icp34hm39179g",
+      "id": "20240319_2oi63oqkekfbcqcgedb016u5m4",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "San Jose (regional holiday)",
       "region": "Spain",
       "date": "2024-03-19"
     },
     {
-      "id": "20240319_h5j2i52fgjvqvr64ess10tppmk",
+      "id": "20240319_5qbe2d7gbecq0icp34hm39179g",
       "status": "confirmed",
-      "summary": "San Jose (Madrid)",
+      "summary": "Father's Day",
       "region": "Spain",
       "date": "2024-03-19"
     },
@@ -55875,13 +55868,6 @@
       "date": "2024-05-05"
     },
     {
-      "id": "20240515_dc951egmeg96j96bplqck4unik",
-      "status": "confirmed",
-      "summary": "Feast Day of St Isidore (Madrid)",
-      "region": "Spain",
-      "date": "2024-05-15"
-    },
-    {
       "id": "20240517_snmbpvvbnn2ar43glj3dt85jlk",
       "status": "confirmed",
       "summary": "Galicia Literature Day (Galicia)",
@@ -55924,20 +55910,6 @@
       "date": "2024-06-09"
     },
     {
-      "id": "20240609_iov42490q59uqo567oh5adu4j8",
-      "status": "confirmed",
-      "summary": "Day of Murcia (Murcia)",
-      "region": "Spain",
-      "date": "2024-06-09"
-    },
-    {
-      "id": "20240610_lh30c74obgk3p2nra0iftou46s",
-      "status": "confirmed",
-      "summary": "Day off for Day of Murcia (Murcia)",
-      "region": "Spain",
-      "date": "2024-06-10"
-    },
-    {
       "id": "20240610_vm9g4fc0n155or7ulrvpbvq61s",
       "status": "confirmed",
       "summary": "Day off for Day of La Rioja (La Rioja)",
@@ -55959,7 +55931,7 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240624_hfobkjohb4g1d8v85j0djb3fe4",
+      "id": "20240624_p92m5mdesnvhasmm829vej0ong",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -56027,20 +55999,6 @@
       "summary": "Day of Asturias (Asturias)",
       "region": "Spain",
       "date": "2024-09-08"
-    },
-    {
-      "id": "20240908_qa3ltp2hu39gn356hlnk02fa34",
-      "status": "confirmed",
-      "summary": "Day of Extremadura (Extremadura)",
-      "region": "Spain",
-      "date": "2024-09-08"
-    },
-    {
-      "id": "20240909_cmmhpd3ol8b0ci9fdgv44i6k40",
-      "status": "confirmed",
-      "summary": "Day of Extremadura observed (Extremadura)",
-      "region": "Spain",
-      "date": "2024-09-09"
     },
     {
       "id": "20240909_l03pvlfkv8qn1q8pf8rpf181tc",
@@ -56113,13 +56071,6 @@
       "date": "2024-11-01"
     },
     {
-      "id": "20241109_l28frb5viipb8sjnldf20t7i4o",
-      "status": "confirmed",
-      "summary": "La Almudena (Madrid)",
-      "region": "Spain",
-      "date": "2024-11-09"
-    },
-    {
       "id": "20241203_uc8khvu1sjbni3l6lr9vvai7sk",
       "status": "confirmed",
       "summary": "Day of Navarre (Navarre)",
@@ -56134,23 +56085,23 @@
       "date": "2024-12-06"
     },
     {
-      "id": "20241208_hdn6n2035o8uh5sds092nsgf6s",
+      "id": "20241208_op8h876js66h38mcr51ofnk7og",
       "status": "confirmed",
       "summary": "Immaculate Conception",
       "region": "Spain",
       "date": "2024-12-08"
     },
     {
-      "id": "20241209_2otldj1g0l28s4kchovuh8mr0k",
+      "id": "20241209_67cloo6ai9oaf8sm69tn772j7g",
       "status": "confirmed",
-      "summary": "Immaculate Conception observed",
+      "summary": "Day of Saint Leocadia (Toledo)",
       "region": "Spain",
       "date": "2024-12-09"
     },
     {
-      "id": "20241209_67cloo6ai9oaf8sm69tn772j7g",
+      "id": "20241209_rsqr538poac4dd78hceetla3tg",
       "status": "confirmed",
-      "summary": "Day of Saint Leocadia (Toledo)",
+      "summary": "Immaculate Conception observed (regional holiday)",
       "region": "Spain",
       "date": "2024-12-09"
     },
@@ -56169,7 +56120,7 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241226_6e7d6jmnbdra8gji3613m81g2k",
+      "id": "20241226_99v4cpbgs3n7rbgqu807cd82bs",
       "status": "confirmed",
       "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
