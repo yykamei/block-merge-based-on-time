@@ -56919,13 +56919,6 @@
       "date": "2023-05-10"
     },
     {
-      "id": "20230607_dlotmnsa5rd4oj40ng8mehgb0s",
-      "status": "confirmed",
-      "summary": "San Salvador Games 2023 Public Holiday",
-      "region": "El Salvador",
-      "date": "2023-06-07"
-    },
-    {
       "id": "20230617_c3v5qg9iuthesqbqbs8mqk9tok",
       "status": "confirmed",
       "summary": "Fathers' Day",
@@ -56938,6 +56931,13 @@
       "summary": "Teachers' Day",
       "region": "El Salvador",
       "date": "2023-06-22"
+    },
+    {
+      "id": "20230707_e9d8jee63pkbuc1svh89ed59lk",
+      "status": "confirmed",
+      "summary": "San Salvador Games 2023 Public Holiday",
+      "region": "El Salvador",
+      "date": "2023-07-07"
     },
     {
       "id": "20230806_roaoo8cppv3d5gljl53ag25sk8",
