@@ -28350,6 +28350,20 @@
       "date": "2023-07-28"
     },
     {
+      "id": "20230802_c3hresp7j4ok0geilr82rsam2k",
+      "status": "confirmed",
+      "summary": "Public Holiday for Extreme Weather",
+      "region": "Iran",
+      "date": "2023-08-02"
+    },
+    {
+      "id": "20230803_2bfm1f0h82er15qmmjgkn7dke0",
+      "status": "confirmed",
+      "summary": "Public Holiday for Extreme Weather",
+      "region": "Iran",
+      "date": "2023-08-03"
+    },
+    {
       "id": "20230906_17i2k1vcgsvpsafmrblmp1uapc",
       "status": "confirmed",
       "summary": "Arbaeen",
@@ -35547,11 +35561,11 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240224_erg15udi1464aiaagfkv1nji30",
+      "id": "20240223_qnlf8j8drhrjcrfd57n66eegls",
       "status": "confirmed",
       "summary": "Navam Full Moon Poya Day",
       "region": "Sri Lanka",
-      "date": "2024-02-24"
+      "date": "2024-02-23"
     },
     {
       "id": "20240308_se397jm0pup5f2433hmbccba5c",
@@ -35589,11 +35603,11 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240410_gan75u9415fkjmihdm8k2a9loo",
+      "id": "20240411_5h1jsm7uhm3jhqm2g8shrvrop8",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Sri Lanka",
-      "date": "2024-04-10"
+      "date": "2024-04-11"
     },
     {
       "id": "20240412_5pahr874t5m09c9aca3poeh4f8",
@@ -35701,11 +35715,11 @@
       "date": "2024-10-17"
     },
     {
-      "id": "20241101_ec66b7kfv1phc5s443m7ljqgdo",
+      "id": "20241031_64latae93kto44hf6adomeula4",
       "status": "confirmed",
       "summary": "Deepavali",
       "region": "Sri Lanka",
-      "date": "2024-11-01"
+      "date": "2024-10-31"
     },
     {
       "id": "20241115_1puvgj8ni68vkt0ifu431r514g",
@@ -55532,7 +55546,7 @@
       "date": "2023-07-13"
     },
     {
-      "id": "20230725_op31h2tkjrqmt4nolaun14rksk",
+      "id": "20230725_j5hp0h5v67i01vfg4fetdt7l48",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -55945,7 +55959,7 @@
       "date": "2024-07-13"
     },
     {
-      "id": "20240725_3a59a5j9f1qk3hgvh2vokasch8",
+      "id": "20240725_mo1gtjkr3eboba95dvpo07rdr8",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -56099,7 +56113,7 @@
       "date": "2024-12-09"
     },
     {
-      "id": "20241209_rsqr538poac4dd78hceetla3tg",
+      "id": "20241209_sjslk5crlvcrjcmd0etqfqm73o",
       "status": "confirmed",
       "summary": "Immaculate Conception observed (regional holiday)",
       "region": "Spain",
