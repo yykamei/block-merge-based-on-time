@@ -10340,7 +10340,7 @@ function intlConfigString(localeStr, numberingSystem, outputCalendar) {
 function mapMonths(f) {
   const ms = [];
   for (let i = 1; i <= 12; i++) {
-    const dt = DateTime.utc(2016, i, 1);
+    const dt = DateTime.utc(2009, i, 1);
     ms.push(f(dt));
   }
   return ms;
@@ -10355,8 +10355,8 @@ function mapWeekdays(f) {
   return ms;
 }
 
-function listStuff(loc, length, defaultOK, englishFn, intlFn) {
-  const mode = loc.listingMode(defaultOK);
+function listStuff(loc, length, englishFn, intlFn) {
+  const mode = loc.listingMode();
 
   if (mode === "error") {
     return null;
@@ -10608,8 +10608,8 @@ class Locale {
     return this.clone({ ...alts, defaultToEN: false });
   }
 
-  months(length, format = false, defaultOK = true) {
-    return listStuff(this, length, defaultOK, months, () => {
+  months(length, format = false) {
+    return listStuff(this, length, months, () => {
       const intl = format ? { month: length, day: "numeric" } : { month: length },
         formatStr = format ? "format" : "standalone";
       if (!this.monthsCache[formatStr][length]) {
@@ -10619,8 +10619,8 @@ class Locale {
     });
   }
 
-  weekdays(length, format = false, defaultOK = true) {
-    return listStuff(this, length, defaultOK, weekdays, () => {
+  weekdays(length, format = false) {
+    return listStuff(this, length, weekdays, () => {
       const intl = format
           ? { weekday: length, year: "numeric", month: "long", day: "numeric" }
           : { weekday: length },
@@ -10634,11 +10634,10 @@ class Locale {
     });
   }
 
-  meridiems(defaultOK = true) {
+  meridiems() {
     return listStuff(
       this,
       undefined,
-      defaultOK,
       () => meridiems,
       () => {
         // In theory there could be aribitrary day periods. We're gonna assume there are exactly two
@@ -10655,8 +10654,8 @@ class Locale {
     );
   }
 
-  eras(length, defaultOK = true) {
-    return listStuff(this, length, defaultOK, eras, () => {
+  eras(length) {
+    return listStuff(this, length, eras, () => {
       const intl = { era: length };
 
       // This is problematic. Different calendars are going to define eras totally differently. What I need is the minimum set of dates
@@ -10899,7 +10898,7 @@ function normalizeZone(input, defaultZone) {
     else return FixedOffsetZone.parseSpecifier(lowered) || IANAZone.create(input);
   } else if (isNumber(input)) {
     return FixedOffsetZone.instance(input);
-  } else if (typeof input === "object" && input.offset && typeof input.offset === "number") {
+  } else if (typeof input === "object" && "offset" in input && typeof input.offset === "function") {
     // This is dumb, but the instanceof check above doesn't seem to really work
     // so we're duck checking it
     return input;
@@ -11023,10 +11022,10 @@ class Settings {
   /**
    * Set the cutoff year after which a string encoding a year as two digits is interpreted to occur in the current century.
    * @type {number}
-   * @example Settings.twoDigitCutoffYear = 0 // cut-off year is 0, so all 'yy' are interpretted as current century
+   * @example Settings.twoDigitCutoffYear = 0 // cut-off year is 0, so all 'yy' are interpreted as current century
    * @example Settings.twoDigitCutoffYear = 50 // '49' -> 1949; '50' -> 2050
-   * @example Settings.twoDigitCutoffYear = 1950 // interpretted as 50
-   * @example Settings.twoDigitCutoffYear = 2050 // ALSO interpretted as 50
+   * @example Settings.twoDigitCutoffYear = 1950 // interpreted as 50
+   * @example Settings.twoDigitCutoffYear = 2050 // ALSO interpreted as 50
    */
   static set twoDigitCutoffYear(cutoffYear) {
     twoDigitCutoffYear = cutoffYear % 100;
@@ -11212,7 +11211,7 @@ function daysInMonth(year, month) {
   }
 }
 
-// covert a calendar object to a local timestamp (epoch, but with the offset baked in)
+// convert a calendar object to a local timestamp (epoch, but with the offset baked in)
 function objToLocalTS(obj) {
   let d = Date.UTC(
     obj.year,
@@ -11673,24 +11672,25 @@ class Formatter {
     return df.format();
   }
 
-  formatDateTime(dt, opts = {}) {
-    const df = this.loc.dtFormatter(dt, { ...this.opts, ...opts });
-    return df.format();
+  dtFormatter(dt, opts = {}) {
+    return this.loc.dtFormatter(dt, { ...this.opts, ...opts });
   }
 
-  formatDateTimeParts(dt, opts = {}) {
-    const df = this.loc.dtFormatter(dt, { ...this.opts, ...opts });
-    return df.formatToParts();
+  formatDateTime(dt, opts) {
+    return this.dtFormatter(dt, opts).format();
   }
 
-  formatInterval(interval, opts = {}) {
-    const df = this.loc.dtFormatter(interval.start, { ...this.opts, ...opts });
+  formatDateTimeParts(dt, opts) {
+    return this.dtFormatter(dt, opts).formatToParts();
+  }
+
+  formatInterval(interval, opts) {
+    const df = this.dtFormatter(interval.start, opts);
     return df.dtf.formatRange(interval.start.toJSDate(), interval.end.toJSDate());
   }
 
-  resolvedOptions(dt, opts = {}) {
-    const df = this.loc.dtFormatter(dt, { ...this.opts, ...opts });
-    return df.resolvedOptions();
+  resolvedOptions(dt, opts) {
+    return this.dtFormatter(dt, opts).resolvedOptions();
   }
 
   num(n, p = 0) {
@@ -11745,7 +11745,7 @@ class Formatter {
       era = (length) =>
         knownEnglish ? eraForDateTime(dt, length) : string({ era: length }, "era"),
       tokenToString = (token) => {
-        // Where possible: http://cldr.unicode.org/translation/date-time-1/date-time#TOC-Standalone-vs.-Format-Styles
+        // Where possible: https://cldr.unicode.org/translation/date-time/date-time-symbols
         switch (token) {
           // ms
           case "S":
@@ -12326,6 +12326,7 @@ function parseSQL(s) {
 
 
 
+
 const INVALID = "Invalid Duration";
 
 // unit conversion constants
@@ -12438,20 +12439,19 @@ function clone(dur, alts, clear = false) {
   return new Duration(conf);
 }
 
-function antiTrunc(n) {
-  return n < 0 ? Math.floor(n) : Math.ceil(n);
+// this is needed since in some test cases it would return 0.9999999999999999 instead of 1
+function removePrecisionIssue(a) {
+  return Math.trunc(a * 1e3) / 1e3;
 }
 
 // NB: mutates parameters
 function convert(matrix, fromMap, fromUnit, toMap, toUnit) {
   const conv = matrix[toUnit][fromUnit],
     raw = fromMap[fromUnit] / conv,
-    sameSign = Math.sign(raw) === Math.sign(toMap[toUnit]),
-    // ok, so this is wild, but see the matrix in the tests
-    added =
-      !sameSign && toMap[toUnit] !== 0 && Math.abs(raw) <= 1 ? antiTrunc(raw) : Math.trunc(raw);
-  toMap[toUnit] += added;
-  fromMap[fromUnit] -= added * conv;
+    added = Math.floor(raw);
+
+  toMap[toUnit] = removePrecisionIssue(toMap[toUnit] + added);
+  fromMap[fromUnit] = removePrecisionIssue(fromMap[fromUnit] - added * conv);
 }
 
 // NB: mutates parameters
@@ -12861,26 +12861,11 @@ class Duration {
       includePrefix: false,
       format: "extended",
       ...opts,
+      includeOffset: false,
     };
 
-    const value = this.shiftTo("hours", "minutes", "seconds", "milliseconds");
-
-    let fmt = opts.format === "basic" ? "hhmm" : "hh:mm";
-
-    if (!opts.suppressSeconds || value.seconds !== 0 || value.milliseconds !== 0) {
-      fmt += opts.format === "basic" ? "ss" : ":ss";
-      if (!opts.suppressMilliseconds || value.milliseconds !== 0) {
-        fmt += ".SSS";
-      }
-    }
-
-    let str = value.toFormat(fmt);
-
-    if (opts.includePrefix) {
-      str = "T" + str;
-    }
-
-    return str;
+    const dateTime = DateTime.fromMillis(millis, { zone: "UTC" });
+    return dateTime.toISOTime(opts);
   }
 
   /**
@@ -12904,7 +12889,13 @@ class Duration {
    * @return {number}
    */
   toMillis() {
-    return this.as("milliseconds");
+    let sum = this.values.milliseconds ?? 0;
+    for (let unit of reverseUnits.slice(1)) {
+      if (this.values?.[unit]) {
+        sum += this.values[unit] * this.matrix[unit]["milliseconds"];
+      }
+    }
+    return sum;
   }
 
   /**
@@ -13021,8 +13012,11 @@ class Duration {
   normalize() {
     if (!this.isValid) return this;
     const vals = this.toObject();
-    normalizeValues(this.matrix, vals);
-    return clone(this, { values: vals }, true);
+    if (this.valueOf() >= 0) {
+      normalizeValues(this.matrix, vals);
+      return clone(this, { values: vals }, true);
+    }
+    return this.negate().normalize().negate();
   }
 
   /**
@@ -14098,6 +14092,14 @@ function highOrderDiffs(cursor, later, units) {
   const earlier = cursor;
   let lowestOrder, highWater;
 
+  /* This loop tries to diff using larger units first.
+     If we overshoot, we backtrack and try the next smaller unit.
+     "cursor" starts out at the earlier timestamp and moves closer and closer to "later"
+     as we use smaller and smaller units.
+     highWater keeps track of where we would be if we added one more of the smallest unit,
+     this is used later to potentially convert any difference smaller than the smallest higher order unit
+     into a fraction of that smallest higher order unit
+  */
   for (const [unit, differ] of differs) {
     if (units.indexOf(unit) >= 0) {
       lowestOrder = unit;
@@ -14106,8 +14108,20 @@ function highOrderDiffs(cursor, later, units) {
       highWater = earlier.plus(results);
 
       if (highWater > later) {
+        // we overshot the end point, backtrack cursor by 1
         results[unit]--;
         cursor = earlier.plus(results);
+
+        // if we are still overshooting now, we need to backtrack again
+        // this happens in certain situations when diffing times in different zones,
+        // because this calculation ignores time zones
+        if (cursor > later) {
+          // keep the "overshot by 1" around as highWater
+          highWater = cursor;
+          // backtrack cursor by 1
+          results[unit]--;
+          cursor = earlier.plus(results);
+        }
       } else {
         cursor = highWater;
       }
@@ -14280,6 +14294,10 @@ function escapeToken(value) {
   return value.replace(/[\-\[\]{}()*+?.,\\\^$|#\s]/g, "\\$&");
 }
 
+/**
+ * @param token
+ * @param {Locale} loc
+ */
 function unitForToken(token, loc) {
   const one = digitRegex(loc),
     two = digitRegex(loc, "{2}"),
@@ -14300,9 +14318,9 @@ function unitForToken(token, loc) {
       switch (t.val) {
         // era
         case "G":
-          return oneOf(loc.eras("short", false), 0);
+          return oneOf(loc.eras("short"), 0);
         case "GG":
-          return oneOf(loc.eras("long", false), 0);
+          return oneOf(loc.eras("long"), 0);
         // years
         case "y":
           return intUnit(oneToSix);
@@ -14320,17 +14338,17 @@ function unitForToken(token, loc) {
         case "MM":
           return intUnit(two);
         case "MMM":
-          return oneOf(loc.months("short", true, false), 1);
+          return oneOf(loc.months("short", true), 1);
         case "MMMM":
-          return oneOf(loc.months("long", true, false), 1);
+          return oneOf(loc.months("long", true), 1);
         case "L":
           return intUnit(oneOrTwo);
         case "LL":
           return intUnit(two);
         case "LLL":
-          return oneOf(loc.months("short", false, false), 1);
+          return oneOf(loc.months("short", false), 1);
         case "LLLL":
-          return oneOf(loc.months("long", false, false), 1);
+          return oneOf(loc.months("long", false), 1);
         // dates
         case "d":
           return intUnit(oneOrTwo);
@@ -14390,13 +14408,13 @@ function unitForToken(token, loc) {
         case "c":
           return intUnit(one);
         case "EEE":
-          return oneOf(loc.weekdays("short", false, false), 1);
+          return oneOf(loc.weekdays("short", false), 1);
         case "EEEE":
-          return oneOf(loc.weekdays("long", false, false), 1);
+          return oneOf(loc.weekdays("long", false), 1);
         case "ccc":
-          return oneOf(loc.weekdays("short", true, false), 1);
+          return oneOf(loc.weekdays("short", true), 1);
         case "cccc":
-          return oneOf(loc.weekdays("long", true, false), 1);
+          return oneOf(loc.weekdays("long", true), 1);
         // offset/zone
         case "Z":
         case "ZZ":
@@ -14446,9 +14464,13 @@ const partTypeStyleToTokenVal = {
   },
   dayperiod: "a",
   dayPeriod: "a",
-  hour: {
+  hour12: {
     numeric: "h",
     "2-digit": "hh",
+  },
+  hour24: {
+    numeric: "H",
+    "2-digit": "HH",
   },
   minute: {
     numeric: "m",
@@ -14464,7 +14486,7 @@ const partTypeStyleToTokenVal = {
   },
 };
 
-function tokenForPart(part, formatOpts) {
+function tokenForPart(part, formatOpts, resolvedOpts) {
   const { type, value } = part;
 
   if (type === "literal") {
@@ -14477,7 +14499,26 @@ function tokenForPart(part, formatOpts) {
 
   const style = formatOpts[type];
 
-  let val = partTypeStyleToTokenVal[type];
+  // The user might have explicitly specified hour12 or hourCycle
+  // if so, respect their decision
+  // if not, refer back to the resolvedOpts, which are based on the locale
+  let actualType = type;
+  if (type === "hour") {
+    if (formatOpts.hour12 != null) {
+      actualType = formatOpts.hour12 ? "hour12" : "hour24";
+    } else if (formatOpts.hourCycle != null) {
+      if (formatOpts.hourCycle === "h11" || formatOpts.hourCycle === "h12") {
+        actualType = "hour12";
+      } else {
+        actualType = "hour24";
+      }
+    } else {
+      // tokens only differentiate between 24 hours or not,
+      // so we do not need to check hourCycle here, which is less supported anyways
+      actualType = resolvedOpts.hour12 ? "hour12" : "hour24";
+    }
+  }
+  let val = partTypeStyleToTokenVal[actualType];
   if (typeof val === "object") {
     val = val[style];
   }
@@ -14666,8 +14707,10 @@ function formatOptsToTokens(formatOpts, locale) {
   }
 
   const formatter = Formatter.create(locale, formatOpts);
-  const parts = formatter.formatDateTimeParts(getDummyDateTime());
-  return parts.map((p) => tokenForPart(p, formatOpts));
+  const df = formatter.dtFormatter(getDummyDateTime());
+  const parts = df.formatToParts();
+  const resolvedOpts = df.resolvedOptions();
+  return parts.map((p) => tokenForPart(p, formatOpts, resolvedOpts));
 }
 
 ;// CONCATENATED MODULE: ./node_modules/luxon/src/impl/conversions.js
@@ -15019,14 +15062,14 @@ function toISOTime(
   if (extended) {
     c += ":";
     c += padStart(o.c.minute);
-    if (o.c.second !== 0 || !suppressSeconds) {
+    if (o.c.millisecond !== 0 || o.c.second !== 0 || !suppressSeconds) {
       c += ":";
     }
   } else {
     c += padStart(o.c.minute);
   }
 
-  if (o.c.second !== 0 || !suppressSeconds) {
+  if (o.c.millisecond !== 0 || o.c.second !== 0 || !suppressSeconds) {
     c += padStart(o.c.second);
 
     if (o.c.millisecond !== 0 || !suppressMilliseconds) {
@@ -15689,7 +15732,7 @@ class DateTime {
 
   /**
    * Create an invalid DateTime.
-   * @param {DateTime} reason - simple string of why this DateTime is invalid. Should not contain parameters or anything else data-dependent
+   * @param {string} reason - simple string of why this DateTime is invalid. Should not contain parameters or anything else data-dependent.
    * @param {string} [explanation=null] - longer explanation, may include parameters and other useful debugging information
    * @return {DateTime}
    */
@@ -16036,6 +16079,43 @@ class DateTime {
         this.offset > this.set({ month: 5 }).offset
       );
     }
+  }
+
+  /**
+   * Get those DateTimes which have the same local time as this DateTime, but a different offset from UTC
+   * in this DateTime's zone. During DST changes local time can be ambiguous, for example
+   * `2023-10-29T02:30:00` in `Europe/Berlin` can have offset `+01:00` or `+02:00`.
+   * This method will return both possible DateTimes if this DateTime's local time is ambiguous.
+   * @returns {DateTime[]}
+   */
+  getPossibleOffsets() {
+    if (!this.isValid || this.isOffsetFixed) {
+      return [this];
+    }
+    const dayMs = 86400000;
+    const minuteMs = 60000;
+    const localTS = objToLocalTS(this.c);
+    const oEarlier = this.zone.offset(localTS - dayMs);
+    const oLater = this.zone.offset(localTS + dayMs);
+
+    const o1 = this.zone.offset(localTS - oEarlier * minuteMs);
+    const o2 = this.zone.offset(localTS - oLater * minuteMs);
+    if (o1 === o2) {
+      return [this];
+    }
+    const ts1 = localTS - o1 * minuteMs;
+    const ts2 = localTS - o2 * minuteMs;
+    const c1 = tsToObj(ts1, o1);
+    const c2 = tsToObj(ts2, o2);
+    if (
+      c1.hour === c2.hour &&
+      c1.minute === c2.minute &&
+      c1.second === c2.second &&
+      c1.millisecond === c2.millisecond
+    ) {
+      return [datetime_clone(this, { ts: ts1 }), datetime_clone(this, { ts: ts2 })];
+    }
+    return [this];
   }
 
   /**
@@ -17054,7 +17134,7 @@ function friendlyDateTime(dateTimeish) {
 
 
 
-const VERSION = "3.3.0";
+const VERSION = "3.4.0";
 
 
 
