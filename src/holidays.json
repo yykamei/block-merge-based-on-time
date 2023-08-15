@@ -1749,9 +1749,9 @@
       "date": "2023-04-16"
     },
     {
-      "id": "20230419_bqshjfcp2kpo4ga3vrpb65cqg4",
+      "id": "20230419_n8lc9qpejlbr9dqu4k31udm0ok",
       "status": "confirmed",
-      "summary": "Taxpayer's Day",
+      "summary": "Taxpayers' Day",
       "region": "Armenia",
       "date": "2023-04-19"
     },
@@ -1861,9 +1861,9 @@
       "date": "2023-10-01"
     },
     {
-      "id": "20231005_df3nerjspeujp4t91v3av5mjbg",
+      "id": "20231005_ekmvuduus08sjojdr91r8uiqhk",
       "status": "confirmed",
-      "summary": "Teacher's Day",
+      "summary": "Teachers' Day",
       "region": "Armenia",
       "date": "2023-10-05"
     },
@@ -2008,9 +2008,9 @@
       "date": "2024-04-16"
     },
     {
-      "id": "20240419_mdmsigindi1kdo3o8h4auo7hhg",
+      "id": "20240419_t7aintlmg4oj6f2s6j1doqnoc8",
       "status": "confirmed",
-      "summary": "Taxpayer's Day",
+      "summary": "Taxpayers' Day",
       "region": "Armenia",
       "date": "2024-04-19"
     },
@@ -2113,9 +2113,9 @@
       "date": "2024-09-21"
     },
     {
-      "id": "20241005_89s53rc3umrlicnh5k16cesjl8",
+      "id": "20241005_e408mg5qfa3ba9tpklup1td22c",
       "status": "confirmed",
-      "summary": "Teacher's Day",
+      "summary": "Teachers' Day",
       "region": "Armenia",
       "date": "2024-10-05"
     },
@@ -42861,18 +42861,18 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240907_d5btjskq0ngacj71dl4jhoc68o",
+      "id": "20240908_pf5mveassbqe115ejvel6vvc7c",
       "status": "confirmed",
       "summary": "Ganesh Chaturthi",
       "region": "Mauritius",
-      "date": "2024-09-07"
+      "date": "2024-09-08"
     },
     {
-      "id": "20241101_8s1t4biko92mmog227jep2n0sg",
+      "id": "20241031_h3sgj379vqq9rkeisfa34u1o0g",
       "status": "confirmed",
       "summary": "Divali",
       "region": "Mauritius",
-      "date": "2024-11-01"
+      "date": "2024-10-31"
     },
     {
       "id": "20241102_7nol3hijfntv5v8apij9223klo",
@@ -46846,6 +46846,13 @@
       "date": "2023-07-29"
     },
     {
+      "id": "20230806_j9v89kip395d7deq8k85ldc94c",
+      "status": "confirmed",
+      "summary": "Battle of Junín",
+      "region": "Peru",
+      "date": "2023-08-06"
+    },
+    {
       "id": "20230830_3ee08ijnjbm3qj88t5j1u4ofb4",
       "status": "confirmed",
       "summary": "Santa Rosa De Lima",
@@ -46993,6 +47000,13 @@
       "date": "2024-06-07"
     },
     {
+      "id": "20240607_d6agqaf5cgclb35n54489nlec8",
+      "status": "confirmed",
+      "summary": "Battle of Arica",
+      "region": "Peru",
+      "date": "2024-06-07"
+    },
+    {
       "id": "20240616_8d5n1u9enk75aa7o2odpav5204",
       "status": "confirmed",
       "summary": "Father's Day",
@@ -47040,6 +47054,13 @@
       "summary": "Independence Day (day 2)",
       "region": "Peru",
       "date": "2024-07-29"
+    },
+    {
+      "id": "20240806_babofpbg7seo6j1mpp2obk916s",
+      "status": "confirmed",
+      "summary": "Battle of Junín",
+      "region": "Peru",
+      "date": "2024-08-06"
     },
     {
       "id": "20240830_k1n8joqimtf02a961vkvojm6hc",
