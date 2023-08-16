@@ -29,9 +29,9 @@
       "date": "2023-03-14"
     },
     {
-      "id": "20230319_8un1gobbrmkg40usr6toldmbn8",
+      "id": "20230319_9pab56qdtpvuhvcpbj4j502ot0",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Andorra",
       "date": "2023-03-19"
     },
@@ -78,9 +78,9 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230507_0bd2lrnqcqgobg816apipotcu4",
+      "id": "20230507_16hlp1ev5fhgfi7a546jmc5478",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Andorra",
       "date": "2023-05-07"
     },
@@ -183,9 +183,9 @@
       "date": "2024-03-14"
     },
     {
-      "id": "20240319_7ddn8osq3cgiqpa4k8r5l2f718",
+      "id": "20240319_csr9km4tivc97hfrptosqdib4g",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Andorra",
       "date": "2024-03-19"
     },
@@ -232,9 +232,9 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240505_69jqh4jik99kq3ohmcni6jq2go",
+      "id": "20240505_9b8bcr9sjt1vm8fen2j6jc9gek",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Andorra",
       "date": "2024-05-05"
     },
@@ -647,6 +647,13 @@
       "summary": "Ashura",
       "region": "Afghanistan",
       "date": "2023-07-28"
+    },
+    {
+      "id": "20230815_ec265a3blcgsksab1vmqhlca8s",
+      "status": "confirmed",
+      "summary": "Anniversary of Taliban Rule",
+      "region": "Afghanistan",
+      "date": "2023-08-15"
     },
     {
       "id": "20230819_2jjl4li9balb530hqiog69icmk",
@@ -1749,9 +1756,9 @@
       "date": "2023-04-16"
     },
     {
-      "id": "20230419_bqshjfcp2kpo4ga3vrpb65cqg4",
+      "id": "20230419_n8lc9qpejlbr9dqu4k31udm0ok",
       "status": "confirmed",
-      "summary": "Taxpayer's Day",
+      "summary": "Taxpayers' Day",
       "region": "Armenia",
       "date": "2023-04-19"
     },
@@ -1861,9 +1868,9 @@
       "date": "2023-10-01"
     },
     {
-      "id": "20231005_df3nerjspeujp4t91v3av5mjbg",
+      "id": "20231005_ekmvuduus08sjojdr91r8uiqhk",
       "status": "confirmed",
-      "summary": "Teacher's Day",
+      "summary": "Teachers' Day",
       "region": "Armenia",
       "date": "2023-10-05"
     },
@@ -2008,9 +2015,9 @@
       "date": "2024-04-16"
     },
     {
-      "id": "20240419_mdmsigindi1kdo3o8h4auo7hhg",
+      "id": "20240419_t7aintlmg4oj6f2s6j1doqnoc8",
       "status": "confirmed",
-      "summary": "Taxpayer's Day",
+      "summary": "Taxpayers' Day",
       "region": "Armenia",
       "date": "2024-04-19"
     },
@@ -2113,9 +2120,9 @@
       "date": "2024-09-21"
     },
     {
-      "id": "20241005_89s53rc3umrlicnh5k16cesjl8",
+      "id": "20241005_e408mg5qfa3ba9tpklup1td22c",
       "status": "confirmed",
-      "summary": "Teacher's Day",
+      "summary": "Teachers' Day",
       "region": "Armenia",
       "date": "2024-10-05"
     },
@@ -2621,9 +2628,9 @@
       "date": "2023-11-20"
     },
     {
-      "id": "20231208_upo5chi4udbg191u4d6vdbkvbo",
+      "id": "20231208_8apja85ihlms8u108a0j8603e0",
       "status": "confirmed",
-      "summary": "Feast of the Immaculate Conception",
+      "summary": "Immaculate Conception",
       "region": "Argentina",
       "date": "2023-12-08"
     },
@@ -2859,9 +2866,9 @@
       "date": "2024-11-18"
     },
     {
-      "id": "20241208_b8ugl754026k2lp2o7ub1oi63o",
+      "id": "20241208_ts7fc7qmhro7tuehi92fk5ndd8",
       "status": "confirmed",
-      "summary": "Feast of the Immaculate Conception",
+      "summary": "Immaculate Conception",
       "region": "Argentina",
       "date": "2024-12-08"
     },
@@ -3796,9 +3803,9 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230514_plg80qjsk5nd5bc504pi7gmd5c",
+      "id": "20230514_de0mc0tsriu2lo5g4rnsithcjo",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Austria",
       "date": "2023-05-14"
     },
@@ -3831,9 +3838,9 @@
       "date": "2023-06-08"
     },
     {
-      "id": "20230611_g3rtmvo55jf8t3qfmqf6e4r1gk",
+      "id": "20230611_jpetgc2l39cidn2ul1ibrlstl8",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Austria",
       "date": "2023-06-11"
     },
@@ -3985,9 +3992,9 @@
       "date": "2024-05-09"
     },
     {
-      "id": "20240512_g2s9t1qtlb188l8tck43ffufgk",
+      "id": "20240512_jbf1orkmfej4hqk77dauo1fuco",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Austria",
       "date": "2024-05-12"
     },
@@ -4013,9 +4020,9 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240609_fmo9ssg5h498342hai8g691n3k",
+      "id": "20240609_m9v681eesti4vu7l2k702spvh8",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Austria",
       "date": "2024-06-09"
     },
@@ -10073,9 +10080,9 @@
       "date": "2023-09-17"
     },
     {
-      "id": "20231021_7rtdst51pvamre7toh72u6304g",
+      "id": "20231021_rtl0j6fpgpufujg649kfomntug",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Belarus",
       "date": "2023-10-21"
     },
@@ -10255,9 +10262,9 @@
       "date": "2024-09-17"
     },
     {
-      "id": "20241021_mu0vcp52bea64033pgmpghv91o",
+      "id": "20241021_0imc3hfpoi9q9808t3qofnisf0",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Belarus",
       "date": "2024-10-21"
     },
@@ -12017,9 +12024,9 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230514_bammq8ctd2pndodae27nu37nc4",
+      "id": "20230514_lsgmkn4dmunp93l617jc9pohfk",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Switzerland",
       "date": "2023-05-14"
     },
@@ -12045,9 +12052,9 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230604_cvi1aet0k0nll7oo9a02pv657c",
+      "id": "20230604_9l1mgnn12gs6jc2cc5tik49jmc",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Switzerland",
       "date": "2023-06-04"
     },
@@ -12304,9 +12311,9 @@
       "date": "2024-05-09"
     },
     {
-      "id": "20240512_3emv91bpfrk3j5vrh9ga717r9s",
+      "id": "20240512_1nopji1nlgt553hpv4gb3j3fbc",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Switzerland",
       "date": "2024-05-12"
     },
@@ -12332,9 +12339,9 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240602_glk4bdmc4qqj5ge091j6i48kv8",
+      "id": "20240602_nm9o3m4pj0lhlrgqrt1rjr193c",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Switzerland",
       "date": "2024-06-02"
     },
@@ -21542,16 +21549,16 @@
       "date": "2023-05-08"
     },
     {
-      "id": "20230514_t5g13g53m5taaahjchmjc1a960",
+      "id": "20230514_36jtrhl4hesl0sr34sfrlng4ic",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Germany",
       "date": "2023-05-14"
     },
     {
-      "id": "20230518_ej3ebua4grghbgtv4pskbfr80k",
+      "id": "20230518_kdmt9f73539f21u9drdmhp1fck",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Germany",
       "date": "2023-05-18"
     },
@@ -21829,9 +21836,9 @@
       "date": "2024-05-08"
     },
     {
-      "id": "20240509_c5kdmjlguqqgufgf6qvjf1gl2c",
+      "id": "20240509_1i5ekir6njn3j8kvre81mcjo14",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Germany",
       "date": "2024-05-09"
     },
@@ -21843,9 +21850,9 @@
       "date": "2024-05-09"
     },
     {
-      "id": "20240512_958cuqq6j3cjsdm1phqlo8behs",
+      "id": "20240512_02clqe57f6m05uc2sedakf9orc",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Germany",
       "date": "2024-05-12"
     },
@@ -25373,9 +25380,9 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230514_m06hii0jg6f25clakgtcvcqm2g",
+      "id": "20230514_2a48clrki83hahm38esmktamkc",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Honduras",
       "date": "2023-05-14"
     },
@@ -25513,9 +25520,9 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240512_jfk5eq0iomtpua23isgonapb58",
+      "id": "20240512_69l5ebup4llufeu3md40c88bi4",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Honduras",
       "date": "2024-05-12"
     },
@@ -34696,16 +34703,16 @@
       "date": "2023-02-02"
     },
     {
-      "id": "20230319_aq3b7socvlrj4bs2n6b0nnolko",
+      "id": "20230319_330iggssemsto5bc7urhe1bnag",
       "status": "confirmed",
-      "summary": "St Joseph's Day",
+      "summary": "Fathers' Day",
       "region": "Liechtenstein",
       "date": "2023-03-19"
     },
     {
-      "id": "20230319_ml310b3e257eqiq3kac3fjvifs",
+      "id": "20230319_aq3b7socvlrj4bs2n6b0nnolko",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "St Joseph's Day",
       "region": "Liechtenstein",
       "date": "2023-03-19"
     },
@@ -34738,9 +34745,9 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230514_4c7mkt67kvkpi1am9tic6eptsg",
+      "id": "20230514_u307gbi1jdmnidjotj5hu5caso",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Liechtenstein",
       "date": "2023-05-14"
     },
@@ -34843,9 +34850,9 @@
       "date": "2024-02-02"
     },
     {
-      "id": "20240319_3716p31l1poqteqbd49hijvvgc",
+      "id": "20240319_qbg8aa4sc6ksr81u5i67ndv5f8",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Liechtenstein",
       "date": "2024-03-19"
     },
@@ -34892,9 +34899,9 @@
       "date": "2024-05-09"
     },
     {
-      "id": "20240512_2q4sqa97p33jtaa9ol6gaa8s84",
+      "id": "20240512_gsm1okvu6q8ktv00cue6pum3ss",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Liechtenstein",
       "date": "2024-05-12"
     },
@@ -36169,9 +36176,9 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230611_6ae9ldqqenon9augpbsskuk72g",
+      "id": "20230611_v3qms43uv5svv0vi7odjoeg3kg",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Luxembourg",
       "date": "2023-06-11"
     },
@@ -36190,9 +36197,9 @@
       "date": "2023-08-15"
     },
     {
-      "id": "20231001_th1hu0t3j08dc5ie4f9f7vctfg",
+      "id": "20231001_rhpbe4blsa8aeqfjdfk9bqg38k",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Luxembourg",
       "date": "2023-10-01"
     },
@@ -36281,9 +36288,9 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240609_bfr30mmtjjvho73eej3jdptal4",
+      "id": "20240609_sh55opiqnd1lffk9bf3kct2ihg",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Luxembourg",
       "date": "2024-06-09"
     },
@@ -36302,9 +36309,9 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20241006_a8gd2lcis5hkkv48upl0f66des",
+      "id": "20241006_i8o1fkiaarm3k4nm5v5n1sbuac",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Luxembourg",
       "date": "2024-10-06"
     },
@@ -37001,6 +37008,13 @@
       "date": "2023-07-31"
     },
     {
+      "id": "20230814_jgea9f7m2fgg1v9q397mdbrtdg",
+      "status": "confirmed",
+      "summary": "Special Public Holiday (Selangor)",
+      "region": "Malaysia",
+      "date": "2023-08-14"
+    },
+    {
       "id": "20230823_j6q22gk8dpcjs703gmr1qted00",
       "status": "confirmed",
       "summary": "Almarhum Sultan Iskandar Hol Day (Johor)",
@@ -37141,11 +37155,11 @@
       "date": "2024-02-01"
     },
     {
-      "id": "20240207_861mifo7ao4q8s16nc3ta9hjr8",
+      "id": "20240208_9oav9fau8rbsdm1eu6gknbj32k",
       "status": "confirmed",
       "summary": "Isra and Mi'raj (regional holiday)",
       "region": "Malaysia",
-      "date": "2024-02-07"
+      "date": "2024-02-08"
     },
     {
       "id": "20240210_6ifr8eh5qluarj4ofgjemcc18o",
@@ -37183,11 +37197,11 @@
       "date": "2024-03-04"
     },
     {
-      "id": "20240311_jn3n7h1g4tjt48hodlnh84445s",
+      "id": "20240312_6t0gkf7bi689mmbp1hs0ta6usg",
       "status": "confirmed",
       "summary": "First Day of Ramadan (regional holiday)",
       "region": "Malaysia",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240323_a2me3ifn6slis5m6lk2jiq6cmk",
@@ -37197,11 +37211,11 @@
       "date": "2024-03-23"
     },
     {
-      "id": "20240327_ksfo6hoc4ehsatodhhpavt5tog",
+      "id": "20240328_j0mb1pou5ol2teacrrkk8419ek",
       "status": "confirmed",
       "summary": "Nuzul Al-Quran (regional holiday)",
       "region": "Malaysia",
-      "date": "2024-03-27"
+      "date": "2024-03-28"
     },
     {
       "id": "20240329_pvislq0ujdt88cg24geijn3e00",
@@ -37253,6 +37267,20 @@
       "date": "2024-05-01"
     },
     {
+      "id": "20240517_830dop9qvt74p0l9k1uiopnpq0",
+      "status": "confirmed",
+      "summary": "Birthday of the Raja of Perlis (Perlis)",
+      "region": "Malaysia",
+      "date": "2024-05-17"
+    },
+    {
+      "id": "20240522_fvn72d5k1152jd4hr8m1mg5lp0",
+      "status": "confirmed",
+      "summary": "Wesak Day",
+      "region": "Malaysia",
+      "date": "2024-05-22"
+    },
+    {
       "id": "20240522_jb3jpbhslqej4v2v4lu916d52c",
       "status": "confirmed",
       "summary": "Pahang State Holiday (Pahang)",
@@ -37302,25 +37330,11 @@
       "date": "2024-06-03"
     },
     {
-      "id": "20240616_ifst6piggcocmllisj9ugvdoao",
-      "status": "confirmed",
-      "summary": "Sultan of Kedah's Birthday (Kedah)",
-      "region": "Malaysia",
-      "date": "2024-06-16"
-    },
-    {
       "id": "20240616_j3sl8nvs8smmhuo487b1nhn5mk",
       "status": "confirmed",
       "summary": "Day of Arafat (regional holiday)",
       "region": "Malaysia",
       "date": "2024-06-16"
-    },
-    {
-      "id": "20240617_3lfhmca6ssevq8861m1mq6g40o",
-      "status": "confirmed",
-      "summary": "Hari Raya Haji holiday",
-      "region": "Malaysia",
-      "date": "2024-06-17"
     },
     {
       "id": "20240617_j2qn0bbvfkvd22ik11glrit58o",
@@ -37337,6 +37351,13 @@
       "date": "2024-06-18"
     },
     {
+      "id": "20240630_kf77bg52p9dgev2a4eatg9o4fo",
+      "status": "confirmed",
+      "summary": "Sultan of Kedah's Birthday (Kedah)",
+      "region": "Malaysia",
+      "date": "2024-06-30"
+    },
+    {
       "id": "20240707_8nt0g80g7fb7t8ubc0s2ba57bk",
       "status": "confirmed",
       "summary": "George Town World Heritage City Day (Penang)",
@@ -37344,11 +37365,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240708_gjekchbuu1aoecniidbg5jc43k",
+      "id": "20240707_dna5hoihi1veefpq8s57r4dg8o",
       "status": "confirmed",
       "summary": "Muharram/New Year",
       "region": "Malaysia",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240713_hh3m1b24ulefrvp5tlu9iv46pk",
@@ -37356,13 +37377,6 @@
       "summary": "Penang Governor's Birthday (Penang)",
       "region": "Malaysia",
       "date": "2024-07-13"
-    },
-    {
-      "id": "20240717_5fl5bdec6m1kp0eoc1hidiuao0",
-      "status": "confirmed",
-      "summary": "Birthday of the Raja of Perlis (Perlis)",
-      "region": "Malaysia",
-      "date": "2024-07-17"
     },
     {
       "id": "20240722_ce3l8pqale3tnb5jsjj1j861k8",
@@ -37379,11 +37393,11 @@
       "date": "2024-07-30"
     },
     {
-      "id": "20240812_he2l6s59mfaa67088cdiikd78s",
+      "id": "20240811_juqjttu6h9q9ec27f0p7drni00",
       "status": "confirmed",
       "summary": "Almarhum Sultan Iskandar Hol Day (Johor)",
       "region": "Malaysia",
-      "date": "2024-08-12"
+      "date": "2024-08-11"
     },
     {
       "id": "20240824_rb563mlls7qvlmmim7lhr1mm8o",
@@ -37414,6 +37428,20 @@
       "date": "2024-09-16"
     },
     {
+      "id": "20240929_nr0qpampecfvldfmv56gnts2jg",
+      "status": "confirmed",
+      "summary": "Birthday of the Sultan of Kelantan (Kelantan)",
+      "region": "Malaysia",
+      "date": "2024-09-29"
+    },
+    {
+      "id": "20240930_dic3vf93m1hp0mr0cjaeondqi8",
+      "status": "confirmed",
+      "summary": "Birthday of the Sultan of Kelantan (Day 2) (Kelantan)",
+      "region": "Malaysia",
+      "date": "2024-09-30"
+    },
+    {
       "id": "20241005_3fulid6rfforq70r74ov9rc7uc",
       "status": "confirmed",
       "summary": "Birthday of the Governor of Sabah (Sabah)",
@@ -37428,25 +37456,18 @@
       "date": "2024-10-12"
     },
     {
+      "id": "20241031_7l4j378v39sce6v5hpbvf73cr8",
+      "status": "confirmed",
+      "summary": "Diwali/Deepavali (regional holiday)",
+      "region": "Malaysia",
+      "date": "2024-10-31"
+    },
+    {
       "id": "20241101_kj8cnlt0o9gfbui3m1jqh6v5rg",
       "status": "confirmed",
       "summary": "Birthday of the Sultan of Perak (Perak)",
       "region": "Malaysia",
       "date": "2024-11-01"
-    },
-    {
-      "id": "20241111_g217dvfplosqho9vlrqrqvbgt4",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Kelantan (Kelantan)",
-      "region": "Malaysia",
-      "date": "2024-11-11"
-    },
-    {
-      "id": "20241112_ko7adspipr2sd8l244h2knpe68",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Kelantan (Day 2) (Kelantan)",
-      "region": "Malaysia",
-      "date": "2024-11-12"
     },
     {
       "id": "20241211_42ivjore1d4ihhki88j53fk5jg",
@@ -37563,9 +37584,9 @@
       "date": "2023-05-29"
     },
     {
-      "id": "20230604_81m1eoa178r02qjj2dc425js04",
+      "id": "20230604_43rei4r435v8brq09m8tkpgkig",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Monaco",
       "date": "2023-06-04"
     },
@@ -37577,9 +37598,9 @@
       "date": "2023-06-08"
     },
     {
-      "id": "20230618_jecvqinoqa314cqkoe1d67ab0o",
+      "id": "20230618_pfrd4tgf6tq5i1bh4d0reb2qas",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Monaco",
       "date": "2023-06-18"
     },
@@ -37752,9 +37773,9 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240526_ku204sn5rsims2krfnsp6usneg",
+      "id": "20240526_6dg8cg12hptcotemsn80i39cio",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Monaco",
       "date": "2024-05-26"
     },
@@ -37766,9 +37787,9 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240616_m9qvieoebef12pmo1b4fj3aols",
+      "id": "20240616_9ka0b2th6gdf452vb7f23eh3b8",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Monaco",
       "date": "2024-06-16"
     },
@@ -38498,16 +38519,16 @@
       "date": "2023-11-01"
     },
     {
-      "id": "20231224_hgkidbs2hehed3f73kvmrqute0",
+      "id": "20231224_2ja8ercqis6ejfgajrrf73ev44",
       "status": "confirmed",
-      "summary": "Christmas Eve",
+      "summary": "Mothers' Day",
       "region": "Montenegro",
       "date": "2023-12-24"
     },
     {
-      "id": "20231224_r8nc9glejooqn3d17mme0v39r4",
+      "id": "20231224_hgkidbs2hehed3f73kvmrqute0",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Christmas Eve",
       "region": "Montenegro",
       "date": "2023-12-24"
     },
@@ -38736,9 +38757,9 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241229_gmdgsekoaqdrc8he7nno58oi8g",
+      "id": "20241229_p21a68giupousth3plr60sut8k",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Montenegro",
       "date": "2024-12-29"
     },
@@ -42376,9 +42397,9 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230514_flcao8jr4h8tmvs1f4ea9s5vn8",
+      "id": "20230514_1a9nh7qr5uvvk5i3gnqrvsm6m8",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Malta",
       "date": "2023-05-14"
     },
@@ -42390,9 +42411,9 @@
       "date": "2023-06-07"
     },
     {
-      "id": "20230618_0k659k69b8edv5c2eplura1h70",
+      "id": "20230618_8s22tkbad7h5c5lp0gk4vt7408",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Malta",
       "date": "2023-06-18"
     },
@@ -42537,9 +42558,9 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240512_fijkpfnla9rnpn7ubsunlrf3ss",
+      "id": "20240512_38fla1u15i037uttd7gp7qufg8",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Malta",
       "date": "2024-05-12"
     },
@@ -42551,9 +42572,9 @@
       "date": "2024-06-07"
     },
     {
-      "id": "20240616_hbu38up9mlekffehbl043jp478",
+      "id": "20240616_rs70njr8b9eg4m72tkj15q8ig0",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Malta",
       "date": "2024-06-16"
     },
@@ -42861,18 +42882,18 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240907_d5btjskq0ngacj71dl4jhoc68o",
+      "id": "20240908_pf5mveassbqe115ejvel6vvc7c",
       "status": "confirmed",
       "summary": "Ganesh Chaturthi",
       "region": "Mauritius",
-      "date": "2024-09-07"
+      "date": "2024-09-08"
     },
     {
-      "id": "20241101_8s1t4biko92mmog227jep2n0sg",
+      "id": "20241031_h3sgj379vqq9rkeisfa34u1o0g",
       "status": "confirmed",
       "summary": "Divali",
       "region": "Mauritius",
-      "date": "2024-11-01"
+      "date": "2024-10-31"
     },
     {
       "id": "20241102_7nol3hijfntv5v8apij9223klo",
@@ -46846,6 +46867,13 @@
       "date": "2023-07-29"
     },
     {
+      "id": "20230806_j9v89kip395d7deq8k85ldc94c",
+      "status": "confirmed",
+      "summary": "Battle of Junín",
+      "region": "Peru",
+      "date": "2023-08-06"
+    },
+    {
       "id": "20230830_3ee08ijnjbm3qj88t5j1u4ofb4",
       "status": "confirmed",
       "summary": "Santa Rosa De Lima",
@@ -46993,6 +47021,13 @@
       "date": "2024-06-07"
     },
     {
+      "id": "20240607_d6agqaf5cgclb35n54489nlec8",
+      "status": "confirmed",
+      "summary": "Battle of Arica",
+      "region": "Peru",
+      "date": "2024-06-07"
+    },
+    {
       "id": "20240616_8d5n1u9enk75aa7o2odpav5204",
       "status": "confirmed",
       "summary": "Father's Day",
@@ -47040,6 +47075,13 @@
       "summary": "Independence Day (day 2)",
       "region": "Peru",
       "date": "2024-07-29"
+    },
+    {
+      "id": "20240806_babofpbg7seo6j1mpp2obk916s",
+      "status": "confirmed",
+      "summary": "Battle of Junín",
+      "region": "Peru",
+      "date": "2024-08-06"
     },
     {
       "id": "20240830_k1n8joqimtf02a961vkvojm6hc",
@@ -50962,9 +51004,9 @@
       "date": "2023-01-01"
     },
     {
-      "id": "20230101_otn3hnbpir4oqgumjf1rj88unc",
+      "id": "20230101_ro93g9mc26nbv2jrq1v738jb4k",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Serbia",
       "date": "2023-01-01"
     },
@@ -51158,9 +51200,9 @@
       "date": "2023-11-11"
     },
     {
-      "id": "20231224_je27g6mtbgkj6n7hbii1ft8pl0",
+      "id": "20231224_bldmmn6bf7irar1rmkv0m5vqs4",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Serbia",
       "date": "2023-12-24"
     },
@@ -51172,16 +51214,16 @@
       "date": "2023-12-25"
     },
     {
-      "id": "20231231_f9at913nd8bc97277pb355dvc0",
+      "id": "20231231_2j20sq2t8e7aafe4gnoks91imk",
       "status": "confirmed",
-      "summary": "Western New Year's Eve",
+      "summary": "Fathers' Day",
       "region": "Serbia",
       "date": "2023-12-31"
     },
     {
-      "id": "20231231_m6m79ef1jo3u22ejfuu37p08uk",
+      "id": "20231231_f9at913nd8bc97277pb355dvc0",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Western New Year's Eve",
       "region": "Serbia",
       "date": "2023-12-31"
     },
@@ -51382,9 +51424,9 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241229_ek0tp7d7t8kntben454rvr0cm4",
+      "id": "20241229_ordqeb4u8n6pfi8ttidle0llkc",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Serbia",
       "date": "2024-12-29"
     },
@@ -53926,9 +53968,9 @@
       "date": "2023-02-08"
     },
     {
-      "id": "20230325_pofq1gnvs926j0ovavfu2f77i8",
+      "id": "20230325_2h9esuqfkf01f54l7sk55p7c00",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Slovenia",
       "date": "2023-03-25"
     },
@@ -53982,9 +54024,9 @@
       "date": "2023-06-08"
     },
     {
-      "id": "20230618_n5d235irpqaeu9lph99kou7788",
+      "id": "20230618_7kk0sm4irpevp82t756mssk1l0",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Slovenia",
       "date": "2023-06-18"
     },
@@ -54087,9 +54129,9 @@
       "date": "2024-02-08"
     },
     {
-      "id": "20240325_mfs7srr28ufsoi57ur9n4n2ta4",
+      "id": "20240325_dgletil2du8hca46jfngef3ef0",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Slovenia",
       "date": "2024-03-25"
     },
@@ -54143,9 +54185,9 @@
       "date": "2024-06-08"
     },
     {
-      "id": "20240616_iq0se884hqe04n5vrcbd4fkid8",
+      "id": "20240616_5cq2i43qee23lmtgm7h5fu603k",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Slovenia",
       "date": "2024-06-16"
     },
@@ -54250,16 +54292,16 @@
       "date": "2023-02-05"
     },
     {
-      "id": "20230315_5tf5ri09qv4rn14b93vonhcgl4",
+      "id": "20230315_hn2tlc6bc63ufn2oqfjcf1uubo",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "San Marino",
       "date": "2023-03-15"
     },
     {
-      "id": "20230319_terj8vrbo7qj6d46i0onfjhd2g",
+      "id": "20230319_vuo9m46n27c2ljcj6r91im5sv0",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "San Marino",
       "date": "2023-03-19"
     },
@@ -54432,16 +54474,16 @@
       "date": "2024-02-05"
     },
     {
-      "id": "20240315_6qonj4gtalalktkhja0uajqbf8",
+      "id": "20240315_n1sssvpoalda0r1uhkbv9e4src",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "San Marino",
       "date": "2024-03-15"
     },
     {
-      "id": "20240319_evvllegkts9480ol4g7hge9e6o",
+      "id": "20240319_ghgbvtnmhsum4h2d250038lp0c",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "San Marino",
       "date": "2024-03-19"
     },
@@ -64431,9 +64473,9 @@
       "date": "2023-03-19"
     },
     {
-      "id": "20230319_jgkpcfag9d6ispc831gasaeo8c",
+      "id": "20230319_r6pigfr34s7dri9vf46t29blek",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Vatican City",
       "date": "2023-03-19"
     },
@@ -64487,9 +64529,9 @@
       "date": "2023-05-01"
     },
     {
-      "id": "20230507_9kacdcdnet5rag7tfes3oeehco",
+      "id": "20230507_qvvf8rsn24l8p7qbiln9b3svb0",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Vatican City",
       "date": "2023-05-07"
     },
@@ -64620,9 +64662,9 @@
       "date": "2024-03-19"
     },
     {
-      "id": "20240319_u5mgl4l8s3t2p5ic8efg76a2p8",
+      "id": "20240319_tqvtchs3uk3hn5nd93022hu4ng",
       "status": "confirmed",
-      "summary": "Father's Day",
+      "summary": "Fathers' Day",
       "region": "Vatican City",
       "date": "2024-03-19"
     },
@@ -64676,9 +64718,9 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240505_7vg7r4rfj03aim1ecqq3ml4u24",
+      "id": "20240505_fj3qkecvhqr0hd1c4umg8gtl50",
       "status": "confirmed",
-      "summary": "Mother's Day",
+      "summary": "Mothers' Day",
       "region": "Vatican City",
       "date": "2024-05-05"
     },
