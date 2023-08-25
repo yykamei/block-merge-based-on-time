@@ -10868,7 +10868,7 @@
       "date": "2023-09-04"
     },
     {
-      "id": "20230930_ru2psesmkqhe2437l9581vpor8",
+      "id": "20230930_309o9a35qqc0nrqobo29ujbnpo",
       "status": "confirmed",
       "summary": "National Day for Truth and Reconciliation (regional holiday)",
       "region": "Canada",
@@ -11225,7 +11225,7 @@
       "date": "2024-09-02"
     },
     {
-      "id": "20240930_2pr6c3v8kb4chd9gtt0shfo610",
+      "id": "20240930_5ci7ro2c8o84mfd18ci24mgjko",
       "status": "confirmed",
       "summary": "National Day for Truth and Reconciliation (regional holiday)",
       "region": "Canada",
@@ -53332,11 +53332,18 @@
       "date": "2023-08-09"
     },
     {
-      "id": "20230901_1rius7q6cs54ntnndnb1p5qrvg",
+      "id": "20230901_cvi4oltdg9cskbkbtv0amjjv40",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Singapore",
+      "date": "2023-09-01"
+    },
+    {
+      "id": "20230911_ra28s6maeu2ioodefdjeu5v4o4",
       "status": "confirmed",
       "summary": "Teachers' Day",
       "region": "Singapore",
-      "date": "2023-09-01"
+      "date": "2023-09-11"
     },
     {
       "id": "20231006_jf7rlhlj3tkdbb5btnofjvk21g",
