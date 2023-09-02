@@ -21479,7 +21479,7 @@
       "date": "2023-02-22"
     },
     {
-      "id": "20230308_tdp3dn8etpgf0lf9qhog14qb40",
+      "id": "20230308_hehnml4jojjas7d2s5vkh708fs",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -21521,7 +21521,7 @@
       "date": "2023-04-08"
     },
     {
-      "id": "20230409_sbhcqcgm1s5duvp1kng37gpiss",
+      "id": "20230409_sn3ugr8sej4mgqdsq9hadv0f10",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -21570,7 +21570,7 @@
       "date": "2023-05-18"
     },
     {
-      "id": "20230528_i6jau632i5tugd6qj4c4ehkke0",
+      "id": "20230528_vo587kht3qjm3fs2b7t7s6tbv0",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -21766,7 +21766,7 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240308_47fko4nc5h6rff8u0o34t57oig",
+      "id": "20240308_fufbbm2f1pro0rhphbjp58hl8k",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -55164,6 +55164,13 @@
       "summary": "Armed Forces Day",
       "region": "South Korea",
       "date": "2023-10-01"
+    },
+    {
+      "id": "20231002_e3g6ddilt8q11tcu818qrlpnrg",
+      "status": "confirmed",
+      "summary": "Chuseok Holiday",
+      "region": "South Korea",
+      "date": "2023-10-02"
     },
     {
       "id": "20231003_7bmdohm8k28usd7h5g9o8hfbhc",
