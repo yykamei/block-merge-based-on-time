@@ -33780,6 +33780,13 @@
       "date": "2023-05-28"
     },
     {
+      "id": "20230529_968avvov8hprn706as4ao32evc",
+      "status": "confirmed",
+      "summary": "Day of the Bronze Medal Win",
+      "region": "Latvia",
+      "date": "2023-05-29"
+    },
+    {
       "id": "20230623_lsh14cut6q8skfsrc3tt90h7l0",
       "status": "confirmed",
       "summary": "Midsummer Eve",
@@ -51573,6 +51580,20 @@
       "date": "2023-11-06"
     },
     {
+      "id": "20231230_37d3qpbr7i6td3it6p7v40bt6k",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Russia",
+      "date": "2023-12-30"
+    },
+    {
+      "id": "20231231_4646tl81rf2qo77a1rgf0u8c0g",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Russia",
+      "date": "2023-12-31"
+    },
+    {
       "id": "20240101_e9ie1nsapv9h1boldb6n12pr6o",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -51718,6 +51739,20 @@
       "summary": "Unity Day",
       "region": "Russia",
       "date": "2024-11-04"
+    },
+    {
+      "id": "20241230_p8v48782231t1lca1q1hrivsrs",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Russia",
+      "date": "2024-12-30"
+    },
+    {
+      "id": "20241231_j02c4609ofd3njsivu2m5ehui0",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Russia",
+      "date": "2024-12-31"
     }
   ],
   "Rwanda": [
