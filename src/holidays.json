@@ -28774,7 +28774,7 @@
     {
       "id": "20240616_50pccittmijn8de84rqa4867ec",
       "status": "confirmed",
-      "summary": "Father���s Day",
+      "summary": "Father’s Day",
       "region": "Ireland",
       "date": "2024-06-16"
     },
@@ -31746,23 +31746,30 @@
       "date": "2024-03-08"
     },
     {
-      "id": "20240414_2gei1tu6oiv402uu6tsjdke0tc",
+      "id": "20240413_0lkfma0ahug2hh48qlu8lnkedk",
       "status": "confirmed",
       "summary": "Khmer New Year Day (Day 1)",
+      "region": "Cambodia",
+      "date": "2024-04-13"
+    },
+    {
+      "id": "20240414_1gcoaqh1stc65ed5hh6vl5p7vc",
+      "status": "confirmed",
+      "summary": "Khmer New Year Day (Day 2)",
       "region": "Cambodia",
       "date": "2024-04-14"
     },
     {
-      "id": "20240415_b3jgqlgcd2sj8lr1ncll223k6o",
+      "id": "20240415_9h5lf3c8kuqkmkl9mgn9drk7s8",
       "status": "confirmed",
-      "summary": "Khmer New Year Day (Day 2)",
+      "summary": "Khmer New Year Day (Day 3)",
       "region": "Cambodia",
       "date": "2024-04-15"
     },
     {
-      "id": "20240416_gol3piromou50de9hhnj6kfprs",
+      "id": "20240416_thinpf9ab8tr6p8mtml4s2lqac",
       "status": "confirmed",
-      "summary": "Khmer New Year Day (Day 3)",
+      "summary": "Khmer New Year Day (Day 4)",
       "region": "Cambodia",
       "date": "2024-04-16"
     },
@@ -31807,6 +31814,27 @@
       "summary": "Constitutional Day",
       "region": "Cambodia",
       "date": "2024-09-24"
+    },
+    {
+      "id": "20241001_6hpdmqj0a145rtoihu5am9o7vo",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2024-10-01"
+    },
+    {
+      "id": "20241002_g0l9b60anj6bnjgjf5vu7778so",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2024-10-02"
+    },
+    {
+      "id": "20241003_i32opqu0j00in69k71nanfgv3o",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2024-10-03"
     },
     {
       "id": "20241015_up7502lb76bsd0rpa1utt8klvg",
@@ -59828,18 +59856,18 @@
       "date": "2024-06-03"
     },
     {
-      "id": "20240721_02iem1jv323jk4qs3sl3jmip0c",
+      "id": "20240720_7lg2tm8mae5n4tq2jteb9mok0c",
       "status": "confirmed",
       "summary": "Buddhist Lent Day",
       "region": "Thailand",
-      "date": "2024-07-21"
+      "date": "2024-07-20"
     },
     {
-      "id": "20240723_85uv7sefie8cc4v4r03rogqd10",
+      "id": "20240722_llte4539kh32up4cue0tgmjhsc",
       "status": "confirmed",
       "summary": "Day off for Buddhist Lent Day",
       "region": "Thailand",
-      "date": "2024-07-23"
+      "date": "2024-07-22"
     },
     {
       "id": "20240728_q7cd19g5gt938gg2kbhk1ur0f0",
