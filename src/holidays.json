@@ -30077,6 +30077,13 @@
       "date": "2023-10-22"
     },
     {
+      "id": "20231031_r5an241bjaarlobv70k2uqs6l8",
+      "status": "confirmed",
+      "summary": "Municipal Election Day",
+      "region": "Israel",
+      "date": "2023-10-31"
+    },
+    {
       "id": "20231208_g3k0uc4t4lr88mrot2ph8kg9gs",
       "status": "confirmed",
       "summary": "Hanukkah (Day 1)",
@@ -36407,6 +36414,20 @@
       "summary": "Day of Arafah",
       "region": "Libya",
       "date": "2023-06-27"
+    },
+    {
+      "id": "20230910_cu074m9q9lprpn21m95i1ld6u0",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Libya",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "20230911_rhokgmmvh6gtc7lmt62jhlgti0",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Libya",
+      "date": "2023-09-11"
     },
     {
       "id": "20230916_netm1s20ukumaf6vo9qgq1gicg",
@@ -47720,6 +47741,13 @@
       "date": "2023-08-28"
     },
     {
+      "id": "20230903_5q6vtc3o3vhpj6c3943q6j17jc",
+      "status": "confirmed",
+      "summary": "Yamashita Surrender Day",
+      "region": "Philippines",
+      "date": "2023-09-03"
+    },
+    {
       "id": "20231101_2n2gi7kmnjp9m1cn21qqu6u84s",
       "status": "confirmed",
       "summary": "All Saints' Day",
@@ -47734,9 +47762,9 @@
       "date": "2023-11-02"
     },
     {
-      "id": "20231127_bpkglp3vgr8h1k67nl0behr828",
+      "id": "20231127_v2g7787fr2fim1mu3c69t1ihr0",
       "status": "confirmed",
-      "summary": "Bonifacio Day",
+      "summary": "Day off for Bonifacio Day",
       "region": "Philippines",
       "date": "2023-11-27"
     },
