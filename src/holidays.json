@@ -6365,11 +6365,11 @@
       "date": "2023-08-15"
     },
     {
-      "id": "20230927_fktke5vfkhe56nfi3dp8c35tfk",
+      "id": "20230928_edmhkbqorm7ufaqd5qjvc5bg1c",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Burkina Faso",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231031_7fctklq0an5ft3vin86ep400rc",
@@ -36621,18 +36621,18 @@
       "date": "2023-08-21"
     },
     {
-      "id": "20230927_v3f8hhl7hd0aqcilqtg2t0fd1g",
+      "id": "20230928_j6voor10hm4vk4hsv6888n95n4",
       "status": "confirmed",
       "summary": "The Prophet Muhammad's Birthday",
       "region": "Morocco",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
-      "id": "20230928_qs7qa8bljmog3d79nvn9c3l5bc",
+      "id": "20230929_tl80kbes94hnjvb9u1s79os4m8",
       "status": "confirmed",
       "summary": "The Prophet Muhammad's Birthday Holiday",
       "region": "Morocco",
-      "date": "2023-09-28"
+      "date": "2023-09-29"
     },
     {
       "id": "20231106_jq78lekoj7nkp4bcqmqjjdi3fc",
@@ -40232,18 +40232,18 @@
       "date": "2023-09-22"
     },
     {
-      "id": "20230927_53623p4fu1vjt1094u5ddq26s0",
+      "id": "20230928_7e9cgkqp5ui1bjgopk4d3sg8ok",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Mali",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
-      "id": "20231005_6gfcrd4hmh6ofldfkonm3bha8g",
+      "id": "20231004_4inh56bpjcqm4gpgik6i922s64",
       "status": "confirmed",
       "summary": "Baptism of the Prophet",
       "region": "Mali",
-      "date": "2023-10-05"
+      "date": "2023-10-04"
     },
     {
       "id": "20231225_do5l1skr8pu6jnma7spa0k8nqo",
@@ -42106,11 +42106,11 @@
       "date": "2023-07-19"
     },
     {
-      "id": "20230927_gp3g55nkc4pgt21jbb77uha1tc",
+      "id": "20230928_764bfs2jc2nr384k9kdu90eoug",
       "status": "confirmed",
       "summary": "Milad un Nabi (Mawlid)",
       "region": "Mauritania",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231128_4v6g4pfkaihj6je5kjkt2br5h4",
@@ -43017,6 +43017,20 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230625_11in4soh82gu5unvorn90jenh4",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Maldives",
+      "date": "2023-06-25"
+    },
+    {
+      "id": "20230626_34lj5feehqca336nfvgn4j4hck",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Maldives",
+      "date": "2023-06-26"
+    },
+    {
       "id": "20230627_r84vlvce39fgkpaqjt44dl0ta8",
       "status": "confirmed",
       "summary": "Hajj Day",
@@ -43073,6 +43087,20 @@
       "date": "2023-07-27"
     },
     {
+      "id": "20230910_orrebl9nqhchqmcnna2c3s4tvs",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Maldives",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "20230911_jgfgqtcn025627cqb7thgoanfc",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Maldives",
+      "date": "2023-09-11"
+    },
+    {
       "id": "20230916_g2gr31lc35g3lmfj238rbkqfjo",
       "status": "confirmed",
       "summary": "National Day",
@@ -43085,6 +43113,13 @@
       "summary": "Milad un Nabi (Mawlid)",
       "region": "Maldives",
       "date": "2023-09-27"
+    },
+    {
+      "id": "20230928_ecegdfj59bc1r8iujjs1v6kmqc",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Maldives",
+      "date": "2023-09-28"
     },
     {
       "id": "20231016_so2q9e24o6o0s3ac6gleh6crf0",
@@ -46450,11 +46485,11 @@
       "date": "2023-07-20"
     },
     {
-      "id": "20230927_fu7qbs3fmi3hopla6l06ud8njs",
+      "id": "20230928_drtcpnh44ttu1qvguc1pii3tfc",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Oman",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231118_4pldc4h4gck47jkln66f92do48",
@@ -67722,11 +67757,11 @@
       "date": "2023-08-15"
     },
     {
-      "id": "20230927_8mr8am1qd6951m6e53emoqde5s",
+      "id": "20230928_i0qfnqh3puqjib18m9on8dr4v8",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Mayotte",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231101_h5fm8asrtqn0p3n21m6qdbst0c",
@@ -68072,6 +68107,13 @@
       "summary": "Kenneth Kaunda Day",
       "region": "Zambia",
       "date": "2024-04-28"
+    },
+    {
+      "id": "20240429_iq9t9qc95fn3796gj28rltl640",
+      "status": "confirmed",
+      "summary": "Day off for Kenneth Kaunda Day",
+      "region": "Zambia",
+      "date": "2024-04-29"
     },
     {
       "id": "20240501_bl0n1tomd1fq9jopslpk014fdo",
