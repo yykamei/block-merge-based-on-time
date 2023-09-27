@@ -17739,11 +17739,11 @@
       "date": "2023-07-28"
     },
     {
-      "id": "20230927_9m29odnpvam5mlqueq05f64kvg",
+      "id": "20230928_kf428idkrdrpia6n6d98kbg3hg",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Algeria",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231101_p3avuvqqet3eh8up3vl27grv2k",
@@ -18592,6 +18592,13 @@
       "date": "2023-05-01"
     },
     {
+      "id": "20230504_69n9vfnanj1ad5hmj2vcalshac",
+      "status": "confirmed",
+      "summary": "Day off for Labor Day",
+      "region": "Egypt",
+      "date": "2023-05-04"
+    },
+    {
       "id": "20230627_cr9h1r15fu0cmcvad9too2htvk",
       "status": "confirmed",
       "summary": "Arafat Day",
@@ -18655,6 +18662,13 @@
       "date": "2023-07-19"
     },
     {
+      "id": "20230720_7qlriikqh4nbnrrsc7hgt92feg",
+      "status": "confirmed",
+      "summary": "Day off for Muharram",
+      "region": "Egypt",
+      "date": "2023-07-20"
+    },
+    {
       "id": "20230723_htshrbpvifdb0rs0a995upr9tc",
       "status": "confirmed",
       "summary": "Revolution Day July 23",
@@ -18683,11 +18697,11 @@
       "date": "2023-09-12"
     },
     {
-      "id": "20230927_4fgthd4u6kuhth24e5gpdl55l0",
+      "id": "20230928_4c9ebb2i86ijvsvdr0m9ach4ko",
       "status": "confirmed",
       "summary": "Prophet Mohamed's Birthday",
       "region": "Egypt",
-      "date": "2023-09-27"
+      "date": "2023-09-28"
     },
     {
       "id": "20231006_n864kudgbg8mmjak0ahejbct2s",
@@ -27583,9 +27597,9 @@
       "date": "2023-06-01"
     },
     {
-      "id": "20230602_lqv964p70bd5i8q012dgm90ae8",
+      "id": "20230602_45dg8ncndcdjin2dj1ahaft1po",
       "status": "confirmed",
-      "summary": "Joint Holiday before Waisak Day",
+      "summary": "Joint Holiday for Waisak Day",
       "region": "Indonesia",
       "date": "2023-06-02"
     },
@@ -27702,6 +27716,13 @@
       "date": "2024-02-08"
     },
     {
+      "id": "20240209_ttnpufjdhdm5fns132kvac71j4",
+      "status": "confirmed",
+      "summary": "Lunar New Year Joint Holiday",
+      "region": "Indonesia",
+      "date": "2024-02-09"
+    },
+    {
       "id": "20240210_o84ahpmh8irkj2unvv2bdq548c",
       "status": "confirmed",
       "summary": "Lunar New Year's Day",
@@ -27723,6 +27744,13 @@
       "date": "2024-03-12"
     },
     {
+      "id": "20240312_l2onng73fgli1ohivvc62ndp2s",
+      "status": "confirmed",
+      "summary": "Joint Holiday for Bali's Day of Silence and Hindu New Year (Nyepi)",
+      "region": "Indonesia",
+      "date": "2024-03-12"
+    },
+    {
       "id": "20240329_t86h8jij2kph3suq0qambetjvs",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -27730,11 +27758,25 @@
       "date": "2024-03-29"
     },
     {
-      "id": "20240331_jrjbdufmivvgi83ao9ka9dptu0",
+      "id": "20240331_eu539mphrm25fkkpv5t6odf2rs",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "region": "Indonesia",
       "date": "2024-03-31"
+    },
+    {
+      "id": "20240408_6ve6k41hb1o2c1ttgis0e4409k",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "20240409_vf3ppng2avmplr5unv3vjphs1g",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2024-04-09"
     },
     {
       "id": "20240410_4dsnocjm79jnliibtqtom64v48",
@@ -27749,6 +27791,20 @@
       "summary": "Idul Fitri Holiday",
       "region": "Indonesia",
       "date": "2024-04-11"
+    },
+    {
+      "id": "20240412_uds94hb5156saob0qnadfdoe9c",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2024-04-12"
+    },
+    {
+      "id": "20240415_8h3pnj5ps0saffdmonvp66vros",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2024-04-15"
     },
     {
       "id": "20240421_sppfibc8q2b8qgmmbgl5gulg0g",
@@ -27772,11 +27828,25 @@
       "date": "2024-05-09"
     },
     {
+      "id": "20240510_ckct4hfupfi0h0ml8jom3n05vk",
+      "status": "confirmed",
+      "summary": "Joint Holiday after Ascension Day",
+      "region": "Indonesia",
+      "date": "2024-05-10"
+    },
+    {
       "id": "20240523_8g5b19p339ebkns0pvl6t83mk8",
       "status": "confirmed",
       "summary": "Waisak Day (Buddha's Anniversary)",
       "region": "Indonesia",
       "date": "2024-05-23"
+    },
+    {
+      "id": "20240524_3u3v9kmagfdhhgj7a1rudu5l6s",
+      "status": "confirmed",
+      "summary": "Joint Holiday for Waisak Day",
+      "region": "Indonesia",
+      "date": "2024-05-24"
     },
     {
       "id": "20240601_905nvp12c3gak2nv74jvor7cc8",
@@ -27791,6 +27861,13 @@
       "summary": "Idul Adha",
       "region": "Indonesia",
       "date": "2024-06-17"
+    },
+    {
+      "id": "20240618_ng9l4jqlnc0v29jk58sl5h0qoc",
+      "status": "confirmed",
+      "summary": "Joint Holiday for Idul Adha",
+      "region": "Indonesia",
+      "date": "2024-06-18"
     },
     {
       "id": "20240707_b3gnqtuo9cfujtkgom3gr9rc4o",
@@ -27861,6 +27938,13 @@
       "summary": "Christmas Day",
       "region": "Indonesia",
       "date": "2024-12-25"
+    },
+    {
+      "id": "20241226_p2j0ghjk1pk2fq3csv87dkmmp4",
+      "status": "confirmed",
+      "summary": "Boxing Day",
+      "region": "Indonesia",
+      "date": "2024-12-26"
     },
     {
       "id": "20241231_2jlef6mtlapkr2dn6qtllqibu0",
@@ -48212,11 +48296,11 @@
       "date": "2023-09-26"
     },
     {
-      "id": "20230927_6kvr4h1ncab1tiavo2insu84ag",
+      "id": "20230929_ahc2re8r3uhteba8bg5sp0cll4",
       "status": "confirmed",
       "summary": "Eid Milad un-Nabi",
       "region": "Pakistan",
-      "date": "2023-09-27"
+      "date": "2023-09-29"
     },
     {
       "id": "20231022_ijejbtuaqagq3vl0m2l75edqlo",
@@ -51650,13 +51734,6 @@
       "date": "2023-06-12"
     },
     {
-      "id": "20230901_ke4q5lh109sjqdvc8jq5m6nhq8",
-      "status": "confirmed",
-      "summary": "Day of Knowledge",
-      "region": "Russia",
-      "date": "2023-09-01"
-    },
-    {
       "id": "20231005_6nndbmsucoomtd7ug299ej19sk",
       "status": "confirmed",
       "summary": "Teacher's Day",
@@ -51809,13 +51886,6 @@
       "summary": "Russia Day",
       "region": "Russia",
       "date": "2024-06-12"
-    },
-    {
-      "id": "20240901_j6b61rpjne9omhk3g71gcistgk",
-      "status": "confirmed",
-      "summary": "Day of Knowledge",
-      "region": "Russia",
-      "date": "2024-09-01"
     },
     {
       "id": "20241005_5509081nm9u8hurlufdrr2lirc",
