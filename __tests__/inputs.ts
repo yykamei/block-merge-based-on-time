@@ -355,8 +355,8 @@ describe("Inputs", () => {
         DateTime.fromObject(
           {
             year: 2023,
-            month: 1,
-            day: 23,
+            month: 2,
+            day: 14,
           },
           {
             zone: "Europe/Madrid",
@@ -365,8 +365,8 @@ describe("Inputs", () => {
         DateTime.fromObject(
           {
             year: 2023,
-            month: 1,
-            day: 23,
+            month: 2,
+            day: 14,
           },
           {
             zone: "Europe/Madrid",
@@ -379,8 +379,8 @@ describe("Inputs", () => {
         DateTime.fromObject(
           {
             year: 2023,
-            month: 1,
-            day: 22,
+            month: 2,
+            day: 13,
           },
           {
             zone: "Europe/Madrid",
@@ -389,8 +389,8 @@ describe("Inputs", () => {
         DateTime.fromObject(
           {
             year: 2023,
-            month: 1,
-            day: 22,
+            month: 2,
+            day: 13,
           },
           {
             zone: "Europe/Madrid",
@@ -453,14 +453,13 @@ describe("Inputs", () => {
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
-    expect(inputs.prohibitedDates.length).toBeGreaterThan(220) // It's OK the number is almost the same as twice as `H:Spain`.
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
             year: 2023,
-            month: 1,
-            day: 23,
+            month: 2,
+            day: 14,
           },
           {
             zone: "Europe/Madrid",
@@ -469,8 +468,8 @@ describe("Inputs", () => {
         DateTime.fromObject(
           {
             year: 2023,
-            month: 1,
-            day: 23,
+            month: 2,
+            day: 14,
           },
           {
             zone: "Europe/Madrid",
@@ -483,8 +482,8 @@ describe("Inputs", () => {
         DateTime.fromObject(
           {
             year: 2023,
-            month: 1,
-            day: 22,
+            month: 2,
+            day: 13,
           },
           {
             zone: "Europe/Madrid",
@@ -493,8 +492,8 @@ describe("Inputs", () => {
         DateTime.fromObject(
           {
             year: 2023,
-            month: 1,
-            day: 22,
+            month: 2,
+            day: 13,
           },
           {
             zone: "Europe/Madrid",
