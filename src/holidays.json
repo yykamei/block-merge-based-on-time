@@ -25436,11 +25436,39 @@
       "date": "2023-09-17"
     },
     {
-      "id": "20231003_1e6h39i2ejo4cnhtu4gk4bbv44",
+      "id": "20231003_1bh48a5fik6agt4vbv1ojpaabs",
       "status": "confirmed",
       "summary": "Morazan's Day",
       "region": "Honduras",
       "date": "2023-10-03"
+    },
+    {
+      "id": "20231004_hj1b7sd16mfrd2c31ocsg0ha5o",
+      "status": "confirmed",
+      "summary": "Morazan's Day (Half Day)",
+      "region": "Honduras",
+      "date": "2023-10-04"
+    },
+    {
+      "id": "20231005_a2hcistu1bur7aburq0r1adu78",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday",
+      "region": "Honduras",
+      "date": "2023-10-05"
+    },
+    {
+      "id": "20231006_50cpc0gbvbaod5u6k4h9r4vslo",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday",
+      "region": "Honduras",
+      "date": "2023-10-06"
+    },
+    {
+      "id": "20231007_tj45eiobkskbdd3mev99gm57fo",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday (Half Day)",
+      "region": "Honduras",
+      "date": "2023-10-07"
     },
     {
       "id": "20231012_58au532vqc5i5r7hhhulgkvt8s",
