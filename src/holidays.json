@@ -19727,6 +19727,20 @@
       "date": "2024-04-01"
     },
     {
+      "id": "20240513_vi0au1k84vc12d90adgf2g0l9g",
+      "status": "confirmed",
+      "summary": "Girmit Day",
+      "region": "Fiji",
+      "date": "2024-05-13"
+    },
+    {
+      "id": "20240531_nf0ngvr3q2gqpmd1pcua53s3cs",
+      "status": "confirmed",
+      "summary": "Sukuna's Day Holiday",
+      "region": "Fiji",
+      "date": "2024-05-31"
+    },
+    {
       "id": "20240907_th43t6016l2g2808d6nqo7kuds",
       "status": "confirmed",
       "summary": "Constitution Day",
@@ -40633,7 +40647,7 @@
       "date": "2023-10-30"
     },
     {
-      "id": "20231112_k3vv50qtp8cp24s27l0p7g3f94",
+      "id": "20231112_irk835m86117obj3imqfb7qcp0",
       "status": "confirmed",
       "summary": "Diwali/Deepavali",
       "region": "Myanmar (Burma)",
@@ -40668,7 +40682,7 @@
       "date": "2023-12-25"
     },
     {
-      "id": "20240101_30g0vf7p684o2a0uj62uimcbhc",
+      "id": "20240101_5ad7p9muj05a8jvgffc45aeh1s",
       "status": "confirmed",
       "summary": "New Year Holiday",
       "region": "Myanmar (Burma)",
@@ -40680,6 +40694,13 @@
       "summary": "Independence Day",
       "region": "Myanmar (Burma)",
       "date": "2024-01-04"
+    },
+    {
+      "id": "20240111_unih3rad3ql0dar0jdq7frs650",
+      "status": "confirmed",
+      "summary": "Kayin New Year Day",
+      "region": "Myanmar (Burma)",
+      "date": "2024-01-11"
     },
     {
       "id": "20240212_7iimqv7v92jtdfd1bg5rmavbto",
@@ -40745,6 +40766,41 @@
       "date": "2024-04-16"
     },
     {
+      "id": "20240417_902bt3u10pcaci8enof953skgg",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2024-04-17"
+    },
+    {
+      "id": "20240418_58l7fsp9081svg5dhvolospd4s",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2024-04-18"
+    },
+    {
+      "id": "20240419_quefgsivo548qcntngjo57rki0",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2024-04-19"
+    },
+    {
+      "id": "20240420_lghrg67kt7n894uj5a4vhjh7hg",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2024-04-20"
+    },
+    {
+      "id": "20240421_rfihcfu96t664p7vh8i04ki65s",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2024-04-21"
+    },
+    {
       "id": "20240501_g7gh5idtvd953qvgoiq4oubv5o",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
@@ -40801,7 +40857,7 @@
       "date": "2024-10-18"
     },
     {
-      "id": "20241101_rd1q6t5k8d7tt9c6galpq665ao",
+      "id": "20241101_5jfk5p6o3gph3r2dbguci6itck",
       "status": "confirmed",
       "summary": "Diwali/Deepavali",
       "region": "Myanmar (Burma)",
@@ -68454,9 +68510,9 @@
       "date": "2024-12-22"
     },
     {
-      "id": "20241223_ceklp9dpimgpognjmc0rmos74c",
+      "id": "20241223_p34sv8fkv1b9npi47gsnaaqbdo",
       "status": "confirmed",
-      "summary": "Unity Day observed",
+      "summary": "Day off for Unity Day",
       "region": "Zimbabwe",
       "date": "2024-12-23"
     },
