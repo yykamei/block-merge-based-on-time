@@ -3276,7 +3276,14 @@
       "date": "2023-06-05"
     },
     {
-      "id": "20230612_2sg853ijd7el9juqvpubricrb0",
+      "id": "20230606_tdc9pc5v86ggk9kn1fg2uvhc5s",
+      "status": "confirmed",
+      "summary": "King's Birthday (Cocos and Keeling Islands)",
+      "region": "Australia",
+      "date": "2023-06-06"
+    },
+    {
+      "id": "20230612_pi7mk867k9dsa6kvv9f9r3kbdo",
       "status": "confirmed",
       "summary": "King's Birthday (regional holiday)",
       "region": "Australia",
@@ -3416,7 +3423,7 @@
       "date": "2023-12-26"
     },
     {
-      "id": "20231231_dfrk6670gdkbiafs1rs3nqc1sg",
+      "id": "20231231_krhncjttnbo5m3gn5t9msc0hkg",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -3449,6 +3456,13 @@
       "summary": "Lunar New Year Holiday (Day 2) (Christmas Island)",
       "region": "Australia",
       "date": "2024-02-11"
+    },
+    {
+      "id": "20240212_nsludm4g2m2qc5h9t7kefnusdo",
+      "status": "confirmed",
+      "summary": "Day off for Lunar New Year (Christmas Island)",
+      "region": "Australia",
+      "date": "2024-02-12"
     },
     {
       "id": "20240212_rsjhmqjj95qib42jfnl0c5d8ns",
@@ -3493,6 +3507,13 @@
       "date": "2024-03-11"
     },
     {
+      "id": "20240316_hgggj7j5kntgkhhvh3s031kuik",
+      "status": "confirmed",
+      "summary": "Labour Day (Christmas Island)",
+      "region": "Australia",
+      "date": "2024-03-16"
+    },
+    {
       "id": "20240321_cq7dnpb5soj1h4dej5ek8kpp7g",
       "status": "confirmed",
       "summary": "Harmony Day",
@@ -3514,7 +3535,7 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_av40mfebghje6hhl8148sgdnko",
+      "id": "20240331_b6mch3na418jnv80p44mlh6su0",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3605,7 +3626,14 @@
       "date": "2024-06-03"
     },
     {
-      "id": "20240610_61rpevrkfdk5jatqbro3vdglb4",
+      "id": "20240606_1mochru4ck8jfmm3su2ttehqao",
+      "status": "confirmed",
+      "summary": "King's Birthday (Cocos and Keeling Islands)",
+      "region": "Australia",
+      "date": "2024-06-06"
+    },
+    {
+      "id": "20240610_savh63aov340ec9dff7km0okto",
       "status": "confirmed",
       "summary": "King's Birthday (regional holiday)",
       "region": "Australia",
