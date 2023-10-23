@@ -258,7 +258,7 @@ You can resolve the problems with these actions: updating the pull requests with
     })
 
     test("does not throw an error", async () => {
-      const warning = jest.spyOn(core, "warning").mockImplementation((jest.fn))
+      const warning = jest.spyOn(core, "warning").mockImplementation(jest.fn)
       await run()
 
       expect(warning).toBeCalledWith(`This action does not support the event "${event}"`)
