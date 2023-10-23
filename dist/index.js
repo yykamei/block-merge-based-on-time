@@ -38006,7 +38006,7 @@ function run() {
             case "pull_request":
                 return handlePull(inputs);
             default:
-                throw new Error(`This action does not support the event "${github.context.eventName}"`);
+                core.warning(`This action does not support the event "${github.context.eventName}"`);
         }
     });
 }
