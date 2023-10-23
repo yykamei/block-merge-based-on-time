@@ -16,7 +16,7 @@ export async function run(): Promise<void> {
     case "pull_request":
       return handlePull(inputs)
     default:
-      throw new Error(`This action does not support the event "${context.eventName}"`)
+      core.warning(`This action does not support the event "${context.eventName}"`)
   }
 }
 
