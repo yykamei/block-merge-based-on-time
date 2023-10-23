@@ -257,12 +257,11 @@ You can resolve the problems with these actions: updating the pull requests with
       Object.defineProperty(github.context, "eventName", { value: event })
     })
 
-    test("throws an error", async () => {
-      try {
-        await run()
-      } catch (e: any) {
-        expect(e.message).toEqual(`This action does not support the event "${event}"`)
-      }
+    test("does not throw an error", async () => {
+      const warning = jest.spyOn(core, "warning").mockImplementation(jest.fn)
+      await run()
+
+      expect(warning).toBeCalledWith(`This action does not support the event "${event}"`)
     })
   })
 })
