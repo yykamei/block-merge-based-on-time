@@ -9840,6 +9840,13 @@
       "date": "2023-10-02"
     },
     {
+      "id": "20231003_tpupno8b0td6ge1n9al6b8unlk",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Botswana",
+      "date": "2023-10-03"
+    },
+    {
       "id": "20231225_4n0o6mk9fls82uoch9vqfas3c8",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -18744,6 +18751,13 @@
       "summary": "Prophet Mohamed's Birthday",
       "region": "Egypt",
       "date": "2023-09-28"
+    },
+    {
+      "id": "20231005_0og929fjn904213aemdp9gjkv0",
+      "status": "confirmed",
+      "summary": "Day off for Armed Forces Day",
+      "region": "Egypt",
+      "date": "2023-10-05"
     },
     {
       "id": "20231006_n864kudgbg8mmjak0ahejbct2s",
@@ -61723,13 +61737,6 @@
       "date": "2023-11-12"
     },
     {
-      "id": "20231113_cpe6t0l3mookghgpm68n38lvd8",
-      "status": "confirmed",
-      "summary": "Diwali/Deepavali observed",
-      "region": "Trinidad & Tobago",
-      "date": "2023-11-13"
-    },
-    {
       "id": "20231224_3cnvi8llmjqj6jvmeqlqmgnglo",
       "status": "confirmed",
       "summary": "Christmas Eve",
@@ -65725,9 +65732,9 @@
       "date": "2023-01-02"
     },
     {
-      "id": "20230306_u18pns494633782f5sbilsh5l0",
+      "id": "20230306_hv7bm356k6cs96rcrjccmjm5vc",
       "status": "confirmed",
-      "summary": "Lavity Stoutt's Birthday observed",
+      "summary": "Day off for Lavity Stoutt's Birthday",
       "region": "British Virgin Islands",
       "date": "2023-03-06"
     },
@@ -65851,7 +65858,14 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240307_fc51b9rohsf6eb7h7tnsapneuk",
+      "id": "20240304_gm8ck91ls15mg2d0pcus26mjts",
+      "status": "confirmed",
+      "summary": "Lavity Stoutt's Birthday",
+      "region": "British Virgin Islands",
+      "date": "2024-03-04"
+    },
+    {
+      "id": "20240307_89rsg0kt3nkmipfi0i24c4gd18",
       "status": "confirmed",
       "summary": "Lavity Stoutt's Birthday",
       "region": "British Virgin Islands",
@@ -65879,11 +65893,11 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240621_2q359cikhd0ko13ppg3tj1k9i4",
+      "id": "20240614_jmo9gu22u5a39cld8e59bam3bc",
       "status": "confirmed",
       "summary": "Sovereign's Birthday",
       "region": "British Virgin Islands",
-      "date": "2024-06-21"
+      "date": "2024-06-14"
     },
     {
       "id": "20240701_9grf7p9va1p94tn86h55d633uo",
@@ -65928,11 +65942,11 @@
       "date": "2024-10-21"
     },
     {
-      "id": "20241111_rkmuggk83in6b2k6p1asn4eij8",
+      "id": "20241125_1494bm7lu6nnmdqu3j4041lvcc",
       "status": "confirmed",
       "summary": "The Great March of 1949 and Restoration Day",
       "region": "British Virgin Islands",
-      "date": "2024-11-11"
+      "date": "2024-11-25"
     },
     {
       "id": "20241225_of03i0c5eaqg0a1trh2caajfrk",
