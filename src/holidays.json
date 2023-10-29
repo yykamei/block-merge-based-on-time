@@ -8050,9 +8050,9 @@
       "date": "2024-05-31"
     },
     {
-      "id": "20240601_u7k5vve26ilj50l7uc9l8tkufk",
+      "id": "20240601_s4n8601s01q4g1pcvtm1g9lr44",
       "status": "confirmed",
-      "summary": "Royal Brunei Armed Forces Day observed",
+      "summary": "Day off for Royal Brunei Armed Forces Day",
       "region": "Brunei",
       "date": "2024-06-01"
     },
@@ -12726,6 +12726,13 @@
       "date": "2023-09-29"
     },
     {
+      "id": "20230930_mp37649hknp1viidrtj3hh21s0",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival holiday",
+      "region": "China",
+      "date": "2023-09-30"
+    },
+    {
       "id": "20231001_04lp1r60n01hc42gdnl2glfdro",
       "status": "confirmed",
       "summary": "National Day",
@@ -12789,7 +12796,7 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240209_6n7t0srfpjvqatto59g6n7ap6g",
+      "id": "20240209_j75v4rcnsdtkfv5ulj1u7hislg",
       "status": "confirmed",
       "summary": "Spring Festival Eve",
       "region": "China",
@@ -12838,6 +12845,20 @@
       "date": "2024-02-15"
     },
     {
+      "id": "20240216_q53n48do72nqrof4fsisicf4eg",
+      "status": "confirmed",
+      "summary": "Spring Festival Golden Week holiday",
+      "region": "China",
+      "date": "2024-02-16"
+    },
+    {
+      "id": "20240217_d8msl09ubf3qdqa581o2foenhc",
+      "status": "confirmed",
+      "summary": "Spring Festival Golden Week holiday",
+      "region": "China",
+      "date": "2024-02-17"
+    },
+    {
       "id": "20240224_g6f3ncieee1f45n3vuuonevkjg",
       "status": "confirmed",
       "summary": "Lantern Festival",
@@ -12873,6 +12894,20 @@
       "date": "2024-04-04"
     },
     {
+      "id": "20240405_ractrecsdsbch79ea4vg0o0pf4",
+      "status": "confirmed",
+      "summary": "Qing Ming Jie holiday",
+      "region": "China",
+      "date": "2024-04-05"
+    },
+    {
+      "id": "20240406_vfit8jbd9gsbads408oe2btqcc",
+      "status": "confirmed",
+      "summary": "Qing Ming Jie holiday",
+      "region": "China",
+      "date": "2024-04-06"
+    },
+    {
       "id": "20240501_damka816sd2dkmn8ldi2p7n5hc",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -12880,11 +12915,39 @@
       "date": "2024-05-01"
     },
     {
+      "id": "20240502_unramqf491puptcg7n897953u0",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2024-05-02"
+    },
+    {
+      "id": "20240503_2bmkqtg53tigjhk3qou1j2sm2c",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2024-05-03"
+    },
+    {
       "id": "20240504_8tvvcsn568taiocboah0045slo",
       "status": "confirmed",
       "summary": "Youth Day",
       "region": "China",
       "date": "2024-05-04"
+    },
+    {
+      "id": "20240504_ep0vbd97aj672k3bc2j7fuq41o",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2024-05-04"
+    },
+    {
+      "id": "20240505_653ucu23gtm37kdnindgvu7488",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2024-05-05"
     },
     {
       "id": "20240610_laeq1lhsu874i8vsbqdnc39gko",
@@ -12913,6 +12976,20 @@
       "summary": "Teachers' Day",
       "region": "China",
       "date": "2024-09-10"
+    },
+    {
+      "id": "20240915_tlihfrh584hl8dcsq2flcl1i8g",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival holiday",
+      "region": "China",
+      "date": "2024-09-15"
+    },
+    {
+      "id": "20240916_o8b7k6knsdohbkj7e70skrt0ds",
+      "status": "confirmed",
+      "summary": "Mid-Autumn Festival holiday",
+      "region": "China",
+      "date": "2024-09-16"
     },
     {
       "id": "20240917_t7pjhem8riuai47qd2bk907uqo",
@@ -12962,6 +13039,13 @@
       "summary": "National Day Golden Week holiday",
       "region": "China",
       "date": "2024-10-06"
+    },
+    {
+      "id": "20241007_n0kb243lqht43dpa94cj10nucc",
+      "status": "confirmed",
+      "summary": "National Day Golden Week holiday",
+      "region": "China",
+      "date": "2024-10-07"
     },
     {
       "id": "20241011_bo4uoc87sdi8ra3aodq5v7t0hk",
@@ -55756,7 +55840,7 @@
       "date": "2023-03-01"
     },
     {
-      "id": "20230319_dtt7qiqjoubtiklsvs0o6fb6m4",
+      "id": "20230319_0u6ahecdgoijn3vk1o7dnuoi70",
       "status": "confirmed",
       "summary": "San Jose (Madrid)",
       "region": "Spain",
@@ -55791,7 +55875,7 @@
       "date": "2023-04-02"
     },
     {
-      "id": "20230406_tbam580q3f64otvbh11l4p2jj4",
+      "id": "20230406_hcfur30t8lpb7emhgsdp8derf4",
       "status": "confirmed",
       "summary": "Maundy Thursday (regional holiday)",
       "region": "Spain",
@@ -55819,7 +55903,7 @@
       "date": "2023-04-09"
     },
     {
-      "id": "20230410_0nr01mvf9dav4lfeh6d8cti6ok",
+      "id": "20230410_7bj4evjeg56vdeh9jaqgohl7t4",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Spain",
@@ -55917,7 +56001,7 @@
       "date": "2023-05-31"
     },
     {
-      "id": "20230608_t6v9lm5dri3h2q50v1fogsoh0k",
+      "id": "20230608_pfmo8vm009e6u5pt93j38rgcgk",
       "status": "confirmed",
       "summary": "Corpus Christi (Castile-La Mancha)",
       "region": "Spain",
@@ -55938,7 +56022,7 @@
       "date": "2023-06-09"
     },
     {
-      "id": "20230624_ab8fv92shbic7fpegtl8f96sq0",
+      "id": "20230624_9hqta2eqqs9e1jqv50dhte7cnk",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -55952,7 +56036,7 @@
       "date": "2023-06-29"
     },
     {
-      "id": "20230725_v7447hu02obn4lq2ik9dqmog1k",
+      "id": "20230725_j5hp0h5v67i01vfg4fetdt7l48",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -56113,7 +56197,7 @@
       "date": "2024-02-12"
     },
     {
-      "id": "20240213_c41k4gft0e9iv17h5cdlegum9o",
+      "id": "20240213_7m7kg9efi99pfst2fgqr2uk15s",
       "status": "confirmed",
       "summary": "Carnival Tuesday (Extremadura)",
       "region": "Spain",
@@ -56148,16 +56232,16 @@
       "date": "2024-03-01"
     },
     {
-      "id": "20240319_9s48ep6t1mi37lfv65um2aq368",
+      "id": "20240319_17rchagl7mbjj2ehtn1aogtve4",
       "status": "confirmed",
-      "summary": "Fathers' Day",
+      "summary": "San Jose (regional holiday)",
       "region": "Spain",
       "date": "2024-03-19"
     },
     {
-      "id": "20240319_caggvp2d08n46k0ddrmm2ccnr0",
+      "id": "20240319_9s48ep6t1mi37lfv65um2aq368",
       "status": "confirmed",
-      "summary": "San Jose (regional holiday)",
+      "summary": "Fathers' Day",
       "region": "Spain",
       "date": "2024-03-19"
     },
@@ -56169,7 +56253,7 @@
       "date": "2024-03-24"
     },
     {
-      "id": "20240328_3oqrqobc8oejmbimq33beivlsk",
+      "id": "20240328_7eijls673pkvo8fon89802snuk",
       "status": "confirmed",
       "summary": "Maundy Thursday (regional holiday)",
       "region": "Spain",
@@ -56204,7 +56288,7 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_4s01v6pajm4cevn348v7ff3er0",
+      "id": "20240401_c2fkcqvlm9k0jngcajjkvs9q6g",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Spain",
@@ -56281,7 +56365,7 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240530_gj6bn7n3ujlsmb8jkf75sa0no4",
+      "id": "20240530_anfkuq5j54l30gogegccn7cm8o",
       "status": "confirmed",
       "summary": "Corpus Christi (Castile-La Mancha)",
       "region": "Spain",
@@ -56316,13 +56400,6 @@
       "date": "2024-06-10"
     },
     {
-      "id": "20240613_ku5mlcsm3tradpeuarj2kaf6a0",
-      "status": "confirmed",
-      "summary": "San Antonio (Ceuta)",
-      "region": "Spain",
-      "date": "2024-06-13"
-    },
-    {
       "id": "20240617_3p7gap1kdakkovq51n16lgj7bs",
       "status": "confirmed",
       "summary": "Eid al-Adha (regional holiday)",
@@ -56337,7 +56414,7 @@
       "date": "2024-06-24"
     },
     {
-      "id": "20240725_6a83tevcd4j0235ua4t4pcsrp0",
+      "id": "20240725_epglvle8h4v1lpnmsedbuf8fu4",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -56358,32 +56435,11 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240902_8c2tjo4ppg5mbphpdma98mep5k",
-      "status": "confirmed",
-      "summary": "Day of the Independent City of Ceuta (Ceuta)",
-      "region": "Spain",
-      "date": "2024-09-02"
-    },
-    {
-      "id": "20240908_68nbpmtdv3rth2o3kkspimoong",
-      "status": "confirmed",
-      "summary": "Virgin of the Victory (Melilla)",
-      "region": "Spain",
-      "date": "2024-09-08"
-    },
-    {
       "id": "20240908_i7tvvp6k0cnac6hdaaqgdmpdcs",
       "status": "confirmed",
       "summary": "Day of Asturias (Asturias)",
       "region": "Spain",
       "date": "2024-09-08"
-    },
-    {
-      "id": "20240909_lefe4ed0e7cbkm7h3gt9rasi9s",
-      "status": "confirmed",
-      "summary": "Virgin of the Victory observed (Melilla)",
-      "region": "Spain",
-      "date": "2024-09-09"
     },
     {
       "id": "20240909_qv7kkg7iseu9c7gi3jig21el80",
@@ -56463,7 +56519,7 @@
       "date": "2024-12-08"
     },
     {
-      "id": "20241209_gupctd8h09ki4h9uo4jphv7a6k",
+      "id": "20241209_8dfi60rhu0d6i4moofl6vq2kuk",
       "status": "confirmed",
       "summary": "Immaculate Conception observed (regional holiday)",
       "region": "Spain",
