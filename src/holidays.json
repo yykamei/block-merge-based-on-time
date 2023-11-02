@@ -23232,13 +23232,6 @@
       "date": "2023-01-06"
     },
     {
-      "id": "20230325_jm80esij12hl2hjo4rl3tm6of8",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Greenland",
-      "date": "2023-03-25"
-    },
-    {
       "id": "20230406_9319ulofa0t6gscogb0ucrs314",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -23286,13 +23279,6 @@
       "summary": "National Day",
       "region": "Greenland",
       "date": "2023-06-21"
-    },
-    {
-      "id": "20231028_7tr7f0001aqtmst20tkfocrhm0",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time ends",
-      "region": "Greenland",
-      "date": "2023-10-28"
     },
     {
       "id": "20231224_u4qqrr1iatavkvhql38bolksl8",
@@ -52478,6 +52464,13 @@
       "summary": "Day off for Heritage Day",
       "region": "South Africa",
       "date": "2023-09-25"
+    },
+    {
+      "id": "20231215_f1be6i13m88cosv7gj4pohpslc",
+      "status": "confirmed",
+      "summary": "Rugby World Cup Win Public Holiday",
+      "region": "South Africa",
+      "date": "2023-12-15"
     },
     {
       "id": "20231216_nmm6d12r6rbr95t78obkvom7u8",
