@@ -30308,13 +30308,6 @@
       "date": "2023-10-22"
     },
     {
-      "id": "20231031_r5an241bjaarlobv70k2uqs6l8",
-      "status": "confirmed",
-      "summary": "Municipal Election Day",
-      "region": "Israel",
-      "date": "2023-10-31"
-    },
-    {
       "id": "20231208_g3k0uc4t4lr88mrot2ph8kg9gs",
       "status": "confirmed",
       "summary": "Hanukkah (Day 1)",
@@ -30369,6 +30362,13 @@
       "summary": "Hanukkah (Day 8)",
       "region": "Israel",
       "date": "2023-12-15"
+    },
+    {
+      "id": "20240130_en8o6304fb5prr0d267bg3f2qc",
+      "status": "confirmed",
+      "summary": "Municipal Election Day",
+      "region": "Israel",
+      "date": "2024-01-30"
     },
     {
       "id": "20240323_1tmmdu1eku7rlvds7qa4u2rntc",
