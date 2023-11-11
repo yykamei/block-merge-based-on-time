@@ -20,9 +20,9 @@
     "luxon": "^3.4.3"
   },
   "devDependencies": {
-    "@types/jest": "^29.5.7",
-    "@types/luxon": "^3.3.3",
-    "@types/node": "^20.8.10",
+    "@types/jest": "^29.5.8",
+    "@types/luxon": "^3.3.4",
+    "@types/node": "^20.9.0",
     "@typescript-eslint/eslint-plugin": "^6.10.0",
     "@typescript-eslint/parser": "^6.10.0",
     "@vercel/ncc": "^0.38.1",
