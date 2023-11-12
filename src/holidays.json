@@ -38820,11 +38820,18 @@
       "date": "2023-09-26"
     },
     {
-      "id": "20231101_q51tmle7ljtpfs22f2i3gjj9k4",
+      "id": "20231101_9sm30vttu7qhjmn9712vnduh6o",
       "status": "confirmed",
-      "summary": "All Saint's Day",
+      "summary": "All Saints' Day",
       "region": "Montenegro",
       "date": "2023-11-01"
+    },
+    {
+      "id": "20231113_t1crtmf79jl778ko19lgpqgndo",
+      "status": "confirmed",
+      "summary": "Njegoš Day",
+      "region": "Montenegro",
+      "date": "2023-11-13"
     },
     {
       "id": "20231224_2ja8ercqis6ejfgajrrf73ev44",
@@ -39037,11 +39044,18 @@
       "date": "2024-10-13"
     },
     {
-      "id": "20241101_uj58a9qmq3du11haeq27p7oai0",
+      "id": "20241101_lkc021ktop6lodf1i32gvr9mj0",
       "status": "confirmed",
-      "summary": "All Saint's Day",
+      "summary": "All Saints' Day",
       "region": "Montenegro",
       "date": "2024-11-01"
+    },
+    {
+      "id": "20241113_3ao9pl3im4nmi5mtfov8pope28",
+      "status": "confirmed",
+      "summary": "Njegoš Day",
+      "region": "Montenegro",
+      "date": "2024-11-13"
     },
     {
       "id": "20241224_86nbjlg4b91hgls3hra7c21gtk",
