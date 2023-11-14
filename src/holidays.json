@@ -3395,7 +3395,7 @@
       "date": "2023-11-11"
     },
     {
-      "id": "20231224_m4oscvukqsa0d0v84l45f9cp3o",
+      "id": "20231224_casiql9vr1r1t535t4gujpkel8",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3535,7 +3535,7 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_b6mch3na418jnv80p44mlh6su0",
+      "id": "20240331_av40mfebghje6hhl8148sgdnko",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3745,7 +3745,7 @@
       "date": "2024-11-11"
     },
     {
-      "id": "20241224_2iagjl6rjrlpd55mfi8ff92190",
+      "id": "20241224_nfda3n7f2hjm5fbq4m89bnah9s",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3773,7 +3773,7 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_ckgiggokfqleel8f6jcad2db5o",
+      "id": "20241231_jfb6done1i91ocilflgrkg4eq0",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -21969,16 +21969,16 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_lhbmt9cej9n7toq2u5iil3ttro",
+      "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
       "status": "confirmed",
-      "summary": "Easter Sunday (regional holiday)",
+      "summary": "Daylight Saving Time starts",
       "region": "Germany",
       "date": "2024-03-31"
     },
     {
-      "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
+      "id": "20240331_umue8vbd4te9sjondjf55ka904",
       "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
+      "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
       "date": "2024-03-31"
     },
