@@ -3395,7 +3395,7 @@
       "date": "2023-11-11"
     },
     {
-      "id": "20231224_m4oscvukqsa0d0v84l45f9cp3o",
+      "id": "20231224_casiql9vr1r1t535t4gujpkel8",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3535,7 +3535,7 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_b6mch3na418jnv80p44mlh6su0",
+      "id": "20240331_av40mfebghje6hhl8148sgdnko",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -3745,7 +3745,7 @@
       "date": "2024-11-11"
     },
     {
-      "id": "20241224_2iagjl6rjrlpd55mfi8ff92190",
+      "id": "20241224_nfda3n7f2hjm5fbq4m89bnah9s",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3773,7 +3773,7 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_ckgiggokfqleel8f6jcad2db5o",
+      "id": "20241231_jfb6done1i91ocilflgrkg4eq0",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -12339,16 +12339,16 @@
       "date": "2024-04-15"
     },
     {
-      "id": "20240501_fuka9mf7632lf67cce2i40g0mk",
+      "id": "20240501_ff808nm1qudni4531mh95fjlhs",
       "status": "confirmed",
-      "summary": "May Day (regional holiday)",
+      "summary": "May Day (Half-Day) (regional holiday)",
       "region": "Switzerland",
       "date": "2024-05-01"
     },
     {
-      "id": "20240501_prhpusk72279dm7vtcrr02rl24",
+      "id": "20240501_fuka9mf7632lf67cce2i40g0mk",
       "status": "confirmed",
-      "summary": "May Day (Half-Day) (regional holiday)",
+      "summary": "May Day (regional holiday)",
       "region": "Switzerland",
       "date": "2024-05-01"
     },
@@ -21969,16 +21969,16 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_lhbmt9cej9n7toq2u5iil3ttro",
+      "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
       "status": "confirmed",
-      "summary": "Easter Sunday (regional holiday)",
+      "summary": "Daylight Saving Time starts",
       "region": "Germany",
       "date": "2024-03-31"
     },
     {
-      "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
+      "id": "20240331_umue8vbd4te9sjondjf55ka904",
       "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
+      "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
       "date": "2024-03-31"
     },
@@ -37491,6 +37491,13 @@
       "date": "2024-02-11"
     },
     {
+      "id": "20240212_deanl36nimpeiame2uik6lvc0g",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday (regional holiday)",
+      "region": "Malaysia",
+      "date": "2024-02-12"
+    },
+    {
       "id": "20240214_0gmq9p5u15nrkbn6ju9rmtgmfg",
       "status": "confirmed",
       "summary": "Valentine's Day",
@@ -37680,6 +37687,13 @@
       "date": "2024-07-07"
     },
     {
+      "id": "20240708_8stogaigntb6j2as5t5074e21s",
+      "status": "confirmed",
+      "summary": "Muharram Holiday (regional holiday)",
+      "region": "Malaysia",
+      "date": "2024-07-08"
+    },
+    {
       "id": "20240713_hh3m1b24ulefrvp5tlu9iv46pk",
       "status": "confirmed",
       "summary": "Penang Governor's Birthday (Penang)",
@@ -37722,6 +37736,13 @@
       "date": "2024-08-31"
     },
     {
+      "id": "20240901_j7hdf1bcqcb1lrf78rav0vdv5o",
+      "status": "confirmed",
+      "summary": "Holiday for Malaysia's National Day (regional holiday)",
+      "region": "Malaysia",
+      "date": "2024-09-01"
+    },
+    {
       "id": "20240916_j09k109vtsrtir98vnj42mdcto",
       "status": "confirmed",
       "summary": "The Prophet Muhammad's Birthday",
@@ -37734,6 +37755,13 @@
       "summary": "Malaysia Day",
       "region": "Malaysia",
       "date": "2024-09-16"
+    },
+    {
+      "id": "20240917_rsa8cpc7h9je2rrnqqu9d5siso",
+      "status": "confirmed",
+      "summary": "Day off for Malaysia Day",
+      "region": "Malaysia",
+      "date": "2024-09-17"
     },
     {
       "id": "20240929_nr0qpampecfvldfmv56gnts2jg",
@@ -55868,7 +55896,7 @@
       "date": "2023-03-01"
     },
     {
-      "id": "20230319_0u6ahecdgoijn3vk1o7dnuoi70",
+      "id": "20230319_dtt7qiqjoubtiklsvs0o6fb6m4",
       "status": "confirmed",
       "summary": "San Jose (Madrid)",
       "region": "Spain",
@@ -55931,7 +55959,7 @@
       "date": "2023-04-09"
     },
     {
-      "id": "20230410_7bj4evjeg56vdeh9jaqgohl7t4",
+      "id": "20230410_0nr01mvf9dav4lfeh6d8cti6ok",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Spain",
@@ -56029,7 +56057,7 @@
       "date": "2023-05-31"
     },
     {
-      "id": "20230608_pfmo8vm009e6u5pt93j38rgcgk",
+      "id": "20230608_t6v9lm5dri3h2q50v1fogsoh0k",
       "status": "confirmed",
       "summary": "Corpus Christi (Castile-La Mancha)",
       "region": "Spain",
@@ -56064,7 +56092,7 @@
       "date": "2023-06-29"
     },
     {
-      "id": "20230725_j5hp0h5v67i01vfg4fetdt7l48",
+      "id": "20230725_v7447hu02obn4lq2ik9dqmog1k",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -56225,7 +56253,7 @@
       "date": "2024-02-12"
     },
     {
-      "id": "20240213_7m7kg9efi99pfst2fgqr2uk15s",
+      "id": "20240213_c41k4gft0e9iv17h5cdlegum9o",
       "status": "confirmed",
       "summary": "Carnival Tuesday (Extremadura)",
       "region": "Spain",
@@ -56260,16 +56288,16 @@
       "date": "2024-03-01"
     },
     {
-      "id": "20240319_17rchagl7mbjj2ehtn1aogtve4",
+      "id": "20240319_9s48ep6t1mi37lfv65um2aq368",
       "status": "confirmed",
-      "summary": "San Jose (regional holiday)",
+      "summary": "Fathers' Day",
       "region": "Spain",
       "date": "2024-03-19"
     },
     {
-      "id": "20240319_9s48ep6t1mi37lfv65um2aq368",
+      "id": "20240319_rksup5podl22a423qk0olt5mpk",
       "status": "confirmed",
-      "summary": "Fathers' Day",
+      "summary": "San Jose (regional holiday)",
       "region": "Spain",
       "date": "2024-03-19"
     },
@@ -56281,7 +56309,7 @@
       "date": "2024-03-24"
     },
     {
-      "id": "20240328_7eijls673pkvo8fon89802snuk",
+      "id": "20240328_fs0cig3duk9ovv41o1nrl0d898",
       "status": "confirmed",
       "summary": "Maundy Thursday (regional holiday)",
       "region": "Spain",
@@ -56316,7 +56344,7 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_c2fkcqvlm9k0jngcajjkvs9q6g",
+      "id": "20240401_4s01v6pajm4cevn348v7ff3er0",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Spain",
@@ -56442,7 +56470,7 @@
       "date": "2024-06-24"
     },
     {
-      "id": "20240725_epglvle8h4v1lpnmsedbuf8fu4",
+      "id": "20240725_6fo4g6iukfgmmi0g8f0c89t15c",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
