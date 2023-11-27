@@ -11316,7 +11316,7 @@
       "date": "2024-12-11"
     },
     {
-      "id": "20241224_0p9hdnjq5bnfo4qu1se8vkdn88",
+      "id": "20241224_k0478dpnc7fcdcqmdkd2frabos",
       "status": "confirmed",
       "summary": "Christmas Eve (New Brunswick)",
       "region": "Canada",
@@ -23125,11 +23125,11 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240219_egg6dojbj1rgijbo0vlca122m4",
+      "id": "20240212_belqe4mq3clhh43fbs45an4idg",
       "status": "confirmed",
       "summary": "Winter Midterm Bank Holiday",
       "region": "Gibraltar",
-      "date": "2024-02-19"
+      "date": "2024-02-12"
     },
     {
       "id": "20240329_li5r0lojnpmqp2va1kadajqgo8",
@@ -23160,11 +23160,11 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240428_11e8qc3dafp291fdg1gkdb7k10",
+      "id": "20240429_8ea39di7ugl11hi2j85f5ks38k",
       "status": "confirmed",
       "summary": "Workers' Memorial Day",
       "region": "Gibraltar",
-      "date": "2024-04-28"
+      "date": "2024-04-29"
     },
     {
       "id": "20240501_hbq4su9slhj0o6omma679898mg",
@@ -25329,6 +25329,13 @@
       "date": "2023-11-12"
     },
     {
+      "id": "20231113_tbv02uoghi8fd0b58b3lm0hu3o",
+      "status": "confirmed",
+      "summary": "Day off for Deepavali",
+      "region": "Guyana",
+      "date": "2023-11-13"
+    },
+    {
       "id": "20231225_c6s9it6adjl6fe7l4trjsajdps",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -25439,6 +25446,13 @@
       "summary": "Youman-Nabi (Mawlid)",
       "region": "Guyana",
       "date": "2024-09-16"
+    },
+    {
+      "id": "20241031_idcdggld0n8cranv3dqbcl4up4",
+      "status": "confirmed",
+      "summary": "Deepavali",
+      "region": "Guyana",
+      "date": "2024-10-31"
     },
     {
       "id": "20241225_92r7m8l5q21f11umsm6e913fdk",
