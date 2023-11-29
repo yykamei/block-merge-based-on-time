@@ -10404,6 +10404,13 @@
       "date": "2023-04-08"
     },
     {
+      "id": "20230409_vb3e5qee8u86snatfg2esflk0k",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Belize",
+      "date": "2023-04-09"
+    },
+    {
       "id": "20230410_msf8k2ago5anujfgs7ngj0m104",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -10537,11 +10544,25 @@
       "date": "2024-03-30"
     },
     {
+      "id": "20240331_qdvob2k8u3qcg2o20bljnekhb8",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Belize",
+      "date": "2024-03-31"
+    },
+    {
       "id": "20240401_nbebj42btoiir80o53n54ibm28",
       "status": "confirmed",
       "summary": "Easter Monday",
       "region": "Belize",
       "date": "2024-04-01"
+    },
+    {
+      "id": "20240429_n8editajjdpkb16tq6afaoe8cc",
+      "status": "confirmed",
+      "summary": "Day off for Labor Day / May Day",
+      "region": "Belize",
+      "date": "2024-04-29"
     },
     {
       "id": "20240501_kfnf245nom01khjbeadki6bcr0",
@@ -17420,11 +17441,11 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240109_f9hmc31i7p3q8anabfolfle7pk",
+      "id": "20240106_q8uovbmifs21u3oao092480ess",
       "status": "confirmed",
       "summary": "Epiphany",
       "region": "Dominican Republic",
-      "date": "2024-01-09"
+      "date": "2024-01-06"
     },
     {
       "id": "20240121_m4ilmr7gsb1sl9bqbtc9f920ho",
@@ -17434,7 +17455,7 @@
       "date": "2024-01-21"
     },
     {
-      "id": "20240126_mppn47ehjgnbdrtku5p02qhigs",
+      "id": "20240126_mir1nujnbpmvteviek3mtr4rtc",
       "status": "confirmed",
       "summary": "Duarte's Day",
       "region": "Dominican Republic",
@@ -17469,7 +17490,14 @@
       "date": "2024-03-29"
     },
     {
-      "id": "20240501_ecf0cb4cs33rb33jnd44ppoh7c",
+      "id": "20240429_n429chl9osbvsokuoq08ooeqc4",
+      "status": "confirmed",
+      "summary": "Day off for Labor Day",
+      "region": "Dominican Republic",
+      "date": "2024-04-29"
+    },
+    {
+      "id": "20240501_pv2nirvptmrnttnn8p10lkn6ls",
       "status": "confirmed",
       "summary": "Labor Day",
       "region": "Dominican Republic",
@@ -17511,11 +17539,18 @@
       "date": "2024-09-24"
     },
     {
-      "id": "20241104_j7h5t7obvna0a95pj731307680",
+      "id": "20241104_hmhutvjc3bkr9bhqibasfgh6rg",
+      "status": "confirmed",
+      "summary": "Day off for Constitution Day",
+      "region": "Dominican Republic",
+      "date": "2024-11-04"
+    },
+    {
+      "id": "20241106_qoqdk1350k6kfml30vmm163eqk",
       "status": "confirmed",
       "summary": "Constitution Day",
       "region": "Dominican Republic",
-      "date": "2024-11-04"
+      "date": "2024-11-06"
     },
     {
       "id": "20241224_afbn357fh8k9je9vklkjusmm2s",
@@ -33466,18 +33501,18 @@
       "date": "2024-04-01"
     },
     {
+      "id": "20240506_on8o0ar02l8cmqk9r83gtcmnds",
+      "status": "confirmed",
+      "summary": "Emancipation Day",
+      "region": "Cayman Islands",
+      "date": "2024-05-06"
+    },
+    {
       "id": "20240512_49p27nrllu24pakvgn4nr6pbgk",
       "status": "confirmed",
       "summary": "Mothers' Day",
       "region": "Cayman Islands",
       "date": "2024-05-12"
-    },
-    {
-      "id": "20240520_3oqb5866n0hnhrk28d8bfn4kq8",
-      "status": "confirmed",
-      "summary": "Discovery Day",
-      "region": "Cayman Islands",
-      "date": "2024-05-20"
     },
     {
       "id": "20240616_jm1pd1k5kdq9stat6rhb88j5qs",
@@ -41088,11 +41123,11 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241231_n36810lld5c25vvij28uqhoan8",
+      "id": "20241230_4hjbbk0nr189egqqgp8s9pnln8",
       "status": "confirmed",
-      "summary": "New Year Holiday",
+      "summary": "Kayin New Year Day",
       "region": "Myanmar (Burma)",
-      "date": "2024-12-31"
+      "date": "2024-12-30"
     }
   ],
   "Mongolia": [
@@ -66646,6 +66681,13 @@
       "date": "2024-01-01"
     },
     {
+      "id": "20240208_hjs3ebi3nbiqqo0v4bdr8mfklo",
+      "status": "confirmed",
+      "summary": "Tet holiday",
+      "region": "Vietnam",
+      "date": "2024-02-08"
+    },
+    {
       "id": "20240209_bka0qlfqk02fncu6ins9h07148",
       "status": "confirmed",
       "summary": "Vietnamese New Year's Eve",
@@ -66728,6 +66770,13 @@
       "summary": "Independence Day",
       "region": "Vietnam",
       "date": "2024-09-02"
+    },
+    {
+      "id": "20240903_9uh6hr5qdregrtqur54d1uvgt8",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Vietnam",
+      "date": "2024-09-03"
     },
     {
       "id": "20241224_ga0vh03v2kdn4r9lh19ae7ut38",
