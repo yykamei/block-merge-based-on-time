@@ -465,6 +465,20 @@
       "date": "2024-03-11"
     },
     {
+      "id": "20240408_c16grmaghbrka6okga3dshns58",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "United Arab Emirates",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "20240409_ttcmibletmah8a6vom8ahc745s",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "United Arab Emirates",
+      "date": "2024-04-09"
+    },
+    {
       "id": "20240410_50olam5ft9a6phhnf201cnsptc",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -493,18 +507,18 @@
       "date": "2024-06-08"
     },
     {
-      "id": "20240616_k3trk3coqhfgd39dsrp07hugac",
+      "id": "20240615_8fql8el6evm6ho40322j6e3ams",
       "status": "confirmed",
       "summary": "Arafat (Hajj) Day",
       "region": "United Arab Emirates",
-      "date": "2024-06-16"
+      "date": "2024-06-15"
     },
     {
-      "id": "20240617_ai0quvbkuuvtnjgir7qflk390g",
+      "id": "20240616_8006eq2jekh7pajodf7hah8a28",
       "status": "confirmed",
       "summary": "Eid al-Adha (Feast of Sacrifice)",
       "region": "United Arab Emirates",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240617_dejeqnbnq63c1avh04ladackk4",
@@ -521,18 +535,18 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240708_g4a2hggd441psr8diafjpvlj2k",
+      "id": "20240707_oisenmlkvm63ib2ipei7sd5pk8",
       "status": "confirmed",
       "summary": "Al-Hijra (Islamic New Year)",
       "region": "United Arab Emirates",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
-      "id": "20240916_10bfm74laimvgm0rpfa8q6uh4k",
+      "id": "20240915_dep628q6kurbon7q0sn7tlk3qs",
       "status": "confirmed",
       "summary": "Mouloud",
       "region": "United Arab Emirates",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241130_knpnlpmij5akgo769d6n4ktpug",
@@ -33184,7 +33198,7 @@
       "date": "2023-09-28"
     },
     {
-      "id": "20231231_v8tvu3i8n0vok6gvqgi7mmpa7s",
+      "id": "20231231_mkv5k0eqol8438qthps9cmiiok",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Kuwait",
@@ -48350,7 +48364,7 @@
       "date": "2024-11-01"
     },
     {
-      "id": "20241102_89rso8inao6kqlq0e919nilnu0",
+      "id": "20241102_h8dahsjjb006l5tn9mtv63lghg",
       "status": "confirmed",
       "summary": "All Souls' Day",
       "region": "Philippines",
@@ -48371,7 +48385,7 @@
       "date": "2024-12-08"
     },
     {
-      "id": "20241224_l15u5oemh0srmb9i46vj7gr770",
+      "id": "20241224_so19v7e6ca0o76kep46831db1k",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Philippines",
@@ -61220,11 +61234,25 @@
       "date": "2024-06-12"
     },
     {
+      "id": "20240616_8mon6oeunr4bajog0u8rkstabc",
+      "status": "confirmed",
+      "summary": "Kurban Bayramy Holiday",
+      "region": "Turkmenistan",
+      "date": "2024-06-16"
+    },
+    {
       "id": "20240617_2d3qfqtj56pne9nqc1s9vjir7g",
       "status": "confirmed",
       "summary": "Kurban Bayramy",
       "region": "Turkmenistan",
       "date": "2024-06-17"
+    },
+    {
+      "id": "20240618_ri4dg5ajuodg8eetltaltah2d4",
+      "status": "confirmed",
+      "summary": "Kurban Bayramy Holiday",
+      "region": "Turkmenistan",
+      "date": "2024-06-18"
     },
     {
       "id": "20240626_58a01mdsek92ie63ncqg4tkrp8",
@@ -63231,7 +63259,7 @@
       "date": "2023-04-10"
     },
     {
-      "id": "20230423_5lam14lfcuick6gktiksfjsh3c",
+      "id": "20230423_4f46k4ct76qrmh6bedbncfa4cg",
       "status": "confirmed",
       "summary": "St. George's Day",
       "region": "United Kingdom",
@@ -63455,7 +63483,7 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240423_14nd09osfel9a81vn3n47c8m0c",
+      "id": "20240423_o1r0m56f43v5njn9k0qr4a8qfs",
       "status": "confirmed",
       "summary": "St. George's Day",
       "region": "United Kingdom",
