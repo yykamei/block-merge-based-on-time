@@ -5773,11 +5773,18 @@
       "date": "2024-03-26"
     },
     {
-      "id": "20240406_uo62jj92o5h9rtaaimc3qcqf4s",
+      "id": "20240401_fl5dujrddcb65pgbmapg1v3so0",
+      "status": "confirmed",
+      "summary": "Easter Monday",
+      "region": "Bangladesh",
+      "date": "2024-04-01"
+    },
+    {
+      "id": "20240405_4t8tc9hecbq4n56tkr3e715gto",
       "status": "confirmed",
       "summary": "Shab-e-qadr",
       "region": "Bangladesh",
-      "date": "2024-04-06"
+      "date": "2024-04-05"
     },
     {
       "id": "20240410_q8sa0h699h8kfe70tdlpib8dgc",
@@ -5885,11 +5892,11 @@
       "date": "2024-07-17"
     },
     {
-      "id": "20240721_ctom0b90ngupdeupgktti8sikk",
+      "id": "20240720_m0eeroj5aiqrfh3svgrmnd81uc",
       "status": "confirmed",
       "summary": "Ashari Purnima",
       "region": "Bangladesh",
-      "date": "2024-07-21"
+      "date": "2024-07-20"
     },
     {
       "id": "20240815_apd4cb2qcvf5a0h88uu6kcjtjg",
@@ -59155,6 +59162,27 @@
       "date": "2024-04-04"
     },
     {
+      "id": "20240405_i9rl9q8ib6fvstd4nkgtcnlsec",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Taiwan",
+      "date": "2024-04-05"
+    },
+    {
+      "id": "20240406_47gd3t87ldajdot40mscour3u8",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Taiwan",
+      "date": "2024-04-06"
+    },
+    {
+      "id": "20240407_i29m4rf3fnvfkman272khpnmqg",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Taiwan",
+      "date": "2024-04-07"
+    },
+    {
       "id": "20240501_e3m7ue14kb73bbjj788qlge77k",
       "status": "confirmed",
       "summary": "Labor Day",
@@ -60099,6 +60127,13 @@
       "summary": "Christmas Day",
       "region": "Thailand",
       "date": "2023-12-25"
+    },
+    {
+      "id": "20231229_a1eitjoura5dffqbgua84is50o",
+      "status": "confirmed",
+      "summary": "New Year Special Public Holiday",
+      "region": "Thailand",
+      "date": "2023-12-29"
     },
     {
       "id": "20231231_pk5b6mlp5h7erfjg585i74vt3c",
