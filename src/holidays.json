@@ -5731,11 +5731,11 @@
       "date": "2024-02-21"
     },
     {
-      "id": "20240224_hs3vv7tjl5sofopt6j3t0sjpcc",
+      "id": "20240223_ovveci2e3c5eckqgnk5tn67j6o",
       "status": "confirmed",
       "summary": "Maghi Purnima",
       "region": "Bangladesh",
-      "date": "2024-02-24"
+      "date": "2024-02-23"
     },
     {
       "id": "20240226_sha4pfgsbq08702e219rtvahho",
@@ -5759,11 +5759,11 @@
       "date": "2024-03-17"
     },
     {
-      "id": "20240324_tp4aehlq439fo2p8e7f8kqsm6c",
+      "id": "20240325_jspeu1r0c4hm1vm3b3fuft2rk0",
       "status": "confirmed",
       "summary": "Doljatra",
       "region": "Bangladesh",
-      "date": "2024-03-24"
+      "date": "2024-03-25"
     },
     {
       "id": "20240326_fcteh9thhm7d0jfvvrm34j1skg",
@@ -5780,11 +5780,18 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240405_4t8tc9hecbq4n56tkr3e715gto",
+      "id": "20240406_asg5hkdui21m0n0csglqnirnbg",
+      "status": "confirmed",
+      "summary": "Arrival Day of Sri Sri Harichand Tagore",
+      "region": "Bangladesh",
+      "date": "2024-04-06"
+    },
+    {
+      "id": "20240407_u2l8i8368bckmqq5f5g1dlir6s",
       "status": "confirmed",
       "summary": "Shab-e-qadr",
       "region": "Bangladesh",
-      "date": "2024-04-05"
+      "date": "2024-04-07"
     },
     {
       "id": "20240410_q8sa0h699h8kfe70tdlpib8dgc",
@@ -5792,13 +5799,6 @@
       "summary": "Eid ul-Fitr",
       "region": "Bangladesh",
       "date": "2024-04-10"
-    },
-    {
-      "id": "20240411_9hb9qk4dgdu473422mbh16bpro",
-      "status": "confirmed",
-      "summary": "Eid ul-Fitr Holiday",
-      "region": "Bangladesh",
-      "date": "2024-04-11"
     },
     {
       "id": "20240412_01lhmqk8p21r3fj4hcviq8mlrg",
@@ -5878,7 +5878,7 @@
       "date": "2024-06-19"
     },
     {
-      "id": "20240708_deu512ks9lomlvmned7a8kor1k",
+      "id": "20240708_mq3f6rv80kd2luc740pu4ls098",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Bangladesh",
@@ -5906,11 +5906,18 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240831_ldfgetsn6fu40gvqtoqntlgnf4",
+      "id": "20240904_n9fnlq2ssmdl8rnlvi08vdsm20",
       "status": "confirmed",
       "summary": "Akhari Chahar Somba",
       "region": "Bangladesh",
-      "date": "2024-08-31"
+      "date": "2024-09-04"
+    },
+    {
+      "id": "20240916_am6gf8l4ehckkgpom1tme0cl68",
+      "status": "confirmed",
+      "summary": "Madhu Purnima",
+      "region": "Bangladesh",
+      "date": "2024-09-16"
     },
     {
       "id": "20240916_oq90td65of56ierqlofpoj462g",
@@ -5920,18 +5927,25 @@
       "date": "2024-09-16"
     },
     {
-      "id": "20240918_ab0bkp170sqbjommumqng357v4",
+      "id": "20241002_e5tk5kd80vdpe4lifrkr3sq4o0",
       "status": "confirmed",
-      "summary": "Madhu Purnima",
+      "summary": "Mahalaya",
       "region": "Bangladesh",
-      "date": "2024-09-18"
+      "date": "2024-10-02"
     },
     {
-      "id": "20241011_lriumosd9sfht6dr3c2lqb6aqg",
+      "id": "20241011_efpac5c6mo4kepkebr0ar9apes",
+      "status": "confirmed",
+      "summary": "Ashtami",
+      "region": "Bangladesh",
+      "date": "2024-10-11"
+    },
+    {
+      "id": "20241012_5g01ff31lnu9ukkofbqf1bug1g",
       "status": "confirmed",
       "summary": "Mahanabami",
       "region": "Bangladesh",
-      "date": "2024-10-11"
+      "date": "2024-10-12"
     },
     {
       "id": "20241015_vph58m2km44rgnhkvavftlee7k",
@@ -5948,11 +5962,18 @@
       "date": "2024-10-16"
     },
     {
-      "id": "20241017_208jm62d80p1scunsi3ruk58gg",
+      "id": "20241016_oicf44pgir7lq2toot1oq1i2hc",
       "status": "confirmed",
       "summary": "Prabarana Purnima",
       "region": "Bangladesh",
-      "date": "2024-10-17"
+      "date": "2024-10-16"
+    },
+    {
+      "id": "20241031_ieks616pgqrtbr02c8fate8dkg",
+      "status": "confirmed",
+      "summary": "Sri Shayama Puja",
+      "region": "Bangladesh",
+      "date": "2024-10-31"
     },
     {
       "id": "20241031_nuqmhjm0gmt7m9o59r29433r20",
@@ -5960,13 +5981,6 @@
       "summary": "Halloween",
       "region": "Bangladesh",
       "date": "2024-10-31"
-    },
-    {
-      "id": "20241101_qhapbeu7lhpqfs2qm1nn5f7pv0",
-      "status": "confirmed",
-      "summary": "Sri Shayama Puja",
-      "region": "Bangladesh",
-      "date": "2024-11-01"
     },
     {
       "id": "20241216_tkqv6rbjitikb9j2n771a1q21k",
@@ -67774,9 +67788,16 @@
       "date": "2024-06-12"
     },
     {
-      "id": "20240617_pv7u5ji6054ha2g9bdsvs4n4vc",
+      "id": "20240616_fh0s85ql46lbb0ued507e70tlg",
       "status": "confirmed",
       "summary": "Kurban Bayrami",
+      "region": "Kosovo",
+      "date": "2024-06-16"
+    },
+    {
+      "id": "20240617_93ugtbesg8498i9j9f10lkukmc",
+      "status": "confirmed",
+      "summary": "Day off for Kurban Bayrami",
       "region": "Kosovo",
       "date": "2024-06-17"
     },
