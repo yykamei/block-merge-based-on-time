@@ -48273,7 +48273,7 @@
       "date": "2023-12-08"
     },
     {
-      "id": "20231224_5n5s6edi556u3feaee793sgkac",
+      "id": "20231224_tub4l9jtoptqrf6b2eo4elhc04",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Philippines",
@@ -48285,6 +48285,13 @@
       "summary": "Christmas Day",
       "region": "Philippines",
       "date": "2023-12-25"
+    },
+    {
+      "id": "20231226_fk4qddvrgq14dmufmokhfhgaps",
+      "status": "confirmed",
+      "summary": "Special Day after Christmas",
+      "region": "Philippines",
+      "date": "2023-12-26"
     },
     {
       "id": "20231230_pjfns6p3vibujla20cqcu3s0is",
