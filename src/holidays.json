@@ -25744,6 +25744,13 @@
       "date": "2023-12-25"
     },
     {
+      "id": "20231226_drol6o7auh95kh0dnhqua9i7t8",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Honduras",
+      "date": "2023-12-26"
+    },
+    {
       "id": "20231231_ir2lcp51pdbnldo6pkstp534po",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -25756,6 +25763,13 @@
       "summary": "New Year's Day",
       "region": "Honduras",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240102_se93oe3cnlmsqhf9f90811o7lg",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Honduras",
+      "date": "2024-01-02"
     },
     {
       "id": "20240106_utilbhh6q54imm7p7h4glk4j0s",
@@ -33252,6 +33266,27 @@
       "summary": "The Prophet's Birthday",
       "region": "Kuwait",
       "date": "2023-09-28"
+    },
+    {
+      "id": "20231217_ub2bo0kjr2n4q8tfj5gicgfpl0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2023-12-17"
+    },
+    {
+      "id": "20231218_0bu46eh7gtdu00tummf7og7k9o",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2023-12-18"
+    },
+    {
+      "id": "20231219_f662f3u9hjiv113jilip1q5t7k",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Kuwait",
+      "date": "2023-12-19"
     },
     {
       "id": "20231231_mkv5k0eqol8438qthps9cmiiok",
