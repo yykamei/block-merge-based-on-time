@@ -28838,11 +28838,11 @@
   ],
   "Israel": [
     {
-      "id": "20240130_en8o6304fb5prr0d267bg3f2qc",
+      "id": "20240227_3a1gnqed763lq28q2d151m3t54",
       "status": "confirmed",
       "summary": "Municipal Election Day",
       "region": "Israel",
-      "date": "2024-01-30"
+      "date": "2024-02-27"
     },
     {
       "id": "20240323_1tmmdu1eku7rlvds7qa4u2rntc",
@@ -56071,6 +56071,13 @@
       "summary": "New Year",
       "region": "Togo",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240102_40ns3am23g3scn1fsedsh4rkts",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Togo",
+      "date": "2024-01-02"
     },
     {
       "id": "20240113_k3bcfdqe4daqbc6likqltjle60",
