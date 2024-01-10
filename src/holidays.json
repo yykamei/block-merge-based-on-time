@@ -919,11 +919,11 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240610_o6njm36cvl61mrr2ob08eg4br0",
+      "id": "20240617_f87q7k7to10tdrblmvufmj5140",
       "status": "confirmed",
       "summary": "Sovereign's Birthday",
       "region": "Anguilla",
-      "date": "2024-06-10"
+      "date": "2024-06-17"
     },
     {
       "id": "20240805_4iis4iptk8o5r3bkq7advd6qso",
@@ -5255,6 +5255,13 @@
   ],
   "Bangladesh": [
     {
+      "id": "20240107_l2oa0nvqq294spesd4gebdqupo",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Bangladesh",
+      "date": "2024-01-07"
+    },
+    {
       "id": "20240214_6m17k15o0ga35paemeov63oeq4",
       "status": "confirmed",
       "summary": "Valentine's Day",
@@ -7744,7 +7751,7 @@
       "date": "2024-10-12"
     },
     {
-      "id": "20241017_edfa57hrqcfnuo919jrgl61sho",
+      "id": "20241017_641et9l0kl2ntnva7vfh24p6j4",
       "status": "confirmed",
       "summary": "Day of Dignity",
       "region": "Bolivia",
@@ -7898,7 +7905,7 @@
       "date": "2025-10-12"
     },
     {
-      "id": "20251017_oohess0mg3vfn4qvkkh13v50ag",
+      "id": "20251017_vbr7t2n1ietf1ntgh7k1nl35ak",
       "status": "confirmed",
       "summary": "Day of Dignity",
       "region": "Bolivia",
@@ -28838,11 +28845,11 @@
   ],
   "Israel": [
     {
-      "id": "20240130_en8o6304fb5prr0d267bg3f2qc",
+      "id": "20240227_3a1gnqed763lq28q2d151m3t54",
       "status": "confirmed",
       "summary": "Municipal Election Day",
       "region": "Israel",
-      "date": "2024-01-30"
+      "date": "2024-02-27"
     },
     {
       "id": "20240323_1tmmdu1eku7rlvds7qa4u2rntc",
@@ -30696,6 +30703,13 @@
       "date": "2024-11-16"
     },
     {
+      "id": "20241229_6ks6qcr70gkoclunsjnim5nqto",
+      "status": "confirmed",
+      "summary": "Peace Day",
+      "region": "Cambodia",
+      "date": "2024-12-29"
+    },
+    {
       "id": "20250101_cde4pp6qu7gu9p60307knijj5c",
       "status": "confirmed",
       "summary": "New Year",
@@ -30764,6 +30778,13 @@
       "summary": "Independence Day",
       "region": "Cambodia",
       "date": "2025-11-09"
+    },
+    {
+      "id": "20251229_j5t7olhkuijvs57e3gf9kcf5k0",
+      "status": "confirmed",
+      "summary": "Peace Day",
+      "region": "Cambodia",
+      "date": "2025-12-29"
     }
   ],
   "Kiribati": [
@@ -41092,6 +41113,76 @@
       "date": "2024-03-11"
     },
     {
+      "id": "20240331_aee67de37ucik7iqkkl5erm4s0",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-03-31"
+    },
+    {
+      "id": "20240401_l4k22v510ho7klc6pgp8ib20l0",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-01"
+    },
+    {
+      "id": "20240402_qf4mho879sbjufi9rkd470f8bg",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-02"
+    },
+    {
+      "id": "20240403_fkc53nk8f2dirjpog3eps4o4t4",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-03"
+    },
+    {
+      "id": "20240404_gugqrgo369p5t8k78nh818di48",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-04"
+    },
+    {
+      "id": "20240405_84jio25mffhet20kn2rs7a1sso",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-05"
+    },
+    {
+      "id": "20240406_v6ccue9risl0t5kf3hvmvkfmu4",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-06"
+    },
+    {
+      "id": "20240407_14ll6dm091apqdecfkbt49geqk",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-07"
+    },
+    {
+      "id": "20240408_tqrqdp9joqc57b2784sea5qqho",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "20240409_3c7h43go7ur92mvdatc5v4g4js",
+      "status": "confirmed",
+      "summary": "Ramadan Holiday",
+      "region": "Maldives",
+      "date": "2024-04-09"
+    },
+    {
       "id": "20240410_mnu06p0dmt2gokig5kvduklb84",
       "status": "confirmed",
       "summary": "Eid-ul-Fithr",
@@ -44125,11 +44216,18 @@
   ],
   "Oman": [
     {
-      "id": "20240101_51q1pjtk3f2cpap0anek23c7ik",
+      "id": "20240101_240bi4sgqh9lctn3gqjn5i5np8",
       "status": "confirmed",
       "summary": "New Year",
       "region": "Oman",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240111_14cirgbdr8tc4cmevd6khfnq50",
+      "status": "confirmed",
+      "summary": "Accession Day of Sultan Haitham bin Tarik",
+      "region": "Oman",
+      "date": "2024-01-11"
     },
     {
       "id": "20240207_gcg2r4f4r1863jonbm9c44t1p8",
@@ -44221,6 +44319,13 @@
       "summary": "National Day",
       "region": "Oman",
       "date": "2024-11-18"
+    },
+    {
+      "id": "20241119_mjpium5ob2sd5l82l2utqh84g8",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "Oman",
+      "date": "2024-11-19"
     },
     {
       "id": "20250101_q8h8hfci5p45iru98orkn1plak",
@@ -44358,6 +44463,13 @@
       "date": "2024-02-13"
     },
     {
+      "id": "20240328_0s9tkotea7bnduam2pm7p3kaeo",
+      "status": "confirmed",
+      "summary": "Maundy Thursday",
+      "region": "Panama",
+      "date": "2024-03-28"
+    },
+    {
       "id": "20240329_2qa8pqetgj2ijtc946bpjs1q70",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -44468,6 +44580,13 @@
       "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Panama",
       "date": "2025-03-04"
+    },
+    {
+      "id": "20250417_7q5qho2t7rdl5d33i4p3folp7s",
+      "status": "confirmed",
+      "summary": "Maundy Thursday",
+      "region": "Panama",
+      "date": "2025-04-17"
     },
     {
       "id": "20250418_1r51338hqqbv5ab3bqr8gb6t4k",
@@ -45628,6 +45747,13 @@
       "date": "2024-02-25"
     },
     {
+      "id": "20240308_ra6d2q03m76glk6qrqgjhi8otk",
+      "status": "confirmed",
+      "summary": "Shivaratri",
+      "region": "Pakistan",
+      "date": "2024-03-08"
+    },
+    {
       "id": "20240311_s17i0a0io9ifgp3okc7vcs3a74",
       "status": "confirmed",
       "summary": "Ramadan Start",
@@ -45649,11 +45775,25 @@
       "date": "2024-03-24"
     },
     {
+      "id": "20240325_4bah6p832e1972pp6c59kkrrkc",
+      "status": "confirmed",
+      "summary": "Dulhandi",
+      "region": "Pakistan",
+      "date": "2024-03-25"
+    },
+    {
       "id": "20240329_h14rs8dvejavor2rgsu8ss2le0",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Pakistan",
       "date": "2024-03-29"
+    },
+    {
+      "id": "20240331_5k26namvtccb2a9lrgkh1ntc40",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Pakistan",
+      "date": "2024-03-31"
     },
     {
       "id": "20240401_n5ub2td4ugcsvspbeglu0e0ja0",
@@ -45768,9 +45908,23 @@
       "date": "2024-08-14"
     },
     {
+      "id": "20240820_e1mr857o1foof7qd628jnlt3q8",
+      "status": "confirmed",
+      "summary": "Birthday of Lord Zoroaster (Khordad Sal)",
+      "region": "Pakistan",
+      "date": "2024-08-20"
+    },
+    {
       "id": "20240826_5msvdk5ijqnv7q3slifklgt12c",
       "status": "confirmed",
       "summary": "Chelum",
+      "region": "Pakistan",
+      "date": "2024-08-26"
+    },
+    {
+      "id": "20240826_d3s4mj47o9hil16afocldvav4g",
+      "status": "confirmed",
+      "summary": "Janmashtami",
       "region": "Pakistan",
       "date": "2024-08-26"
     },
@@ -45829,6 +45983,13 @@
       "summary": "Iqbal Day",
       "region": "Pakistan",
       "date": "2024-11-09"
+    },
+    {
+      "id": "20241115_16ndm1rdjfadnr076o0de1hp3c",
+      "status": "confirmed",
+      "summary": "Guru Nanak's Birthday",
+      "region": "Pakistan",
+      "date": "2024-11-15"
     },
     {
       "id": "20241224_ukuq4bibcn9j0f9fl78m0p3lec",
@@ -56071,6 +56232,13 @@
       "summary": "New Year",
       "region": "Togo",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240102_40ns3am23g3scn1fsedsh4rkts",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Togo",
+      "date": "2024-01-02"
     },
     {
       "id": "20240113_k3bcfdqe4daqbc6likqltjle60",
