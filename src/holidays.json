@@ -3066,25 +3066,11 @@
       "date": "2024-04-02"
     },
     {
-      "id": "20240406_evngj7e2u5gfggv0qbtrsr25cc",
-      "status": "confirmed",
-      "summary": "Self Determination Day (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2024-04-06"
-    },
-    {
       "id": "20240407_mj471m19lhi8l0j87f8rm7b9qs",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
       "region": "Australia",
       "date": "2024-04-07"
-    },
-    {
-      "id": "20240408_cuc7k24u2rkmhm4eu8u5g9qu40",
-      "status": "confirmed",
-      "summary": "Day off for Self Determination Day (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2024-04-08"
     },
     {
       "id": "20240410_fut3a3j2so9c74p4sgp50ro37s",
@@ -3106,6 +3092,13 @@
       "summary": "ANZAC Day Observed (Victoria)",
       "region": "Australia",
       "date": "2024-04-25"
+    },
+    {
+      "id": "20240429_b6vosupmb3cu68g562dd1ik16k",
+      "status": "confirmed",
+      "summary": "Self Determination Day (Cocos and Keeling Islands)",
+      "region": "Australia",
+      "date": "2024-04-29"
     },
     {
       "id": "20240506_8t71fpee19mfd1dt3gkvmjv678",
@@ -3255,7 +3248,7 @@
       "date": "2024-11-11"
     },
     {
-      "id": "20241224_2iagjl6rjrlpd55mfi8ff92190",
+      "id": "20241224_nfda3n7f2hjm5fbq4m89bnah9s",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3283,7 +3276,7 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_ckgiggokfqleel8f6jcad2db5o",
+      "id": "20241231_jfb6done1i91ocilflgrkg4eq0",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -3416,7 +3409,7 @@
       "date": "2025-04-19"
     },
     {
-      "id": "20250420_idlhssj8i1ki6dki7ac9il5ak4",
+      "id": "20250420_f3phtnj3up1523n9vlsq28fk28",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
@@ -35636,7 +35629,7 @@
       "date": "2024-12-11"
     },
     {
-      "id": "20241224_n8ab32s9lsiigql3q6q3pahqb4",
+      "id": "20241224_tt9j2cml481j6q598dpv01m0qk",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
