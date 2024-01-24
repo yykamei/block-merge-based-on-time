@@ -45824,6 +45824,13 @@
       "date": "2024-03-23"
     },
     {
+      "id": "20240323_m22dsh8of0l62cr8643h88c7vg",
+      "status": "confirmed",
+      "summary": "Buddha Purnima",
+      "region": "Pakistan",
+      "date": "2024-03-23"
+    },
+    {
       "id": "20240324_rpaiu4di2qloc9n1vqirrvrp3g",
       "status": "confirmed",
       "summary": "Holi",
@@ -45908,13 +45915,6 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240523_7okfor3vh26ch2dnt94pq0cmm4",
-      "status": "confirmed",
-      "summary": "Buddha Purnima",
-      "region": "Pakistan",
-      "date": "2024-05-23"
-    },
-    {
       "id": "20240617_e6db2r4il6j12lp0ub5csmhtpg",
       "status": "confirmed",
       "summary": "Eid al-Adha",
@@ -45971,13 +45971,6 @@
       "date": "2024-08-20"
     },
     {
-      "id": "20240826_5msvdk5ijqnv7q3slifklgt12c",
-      "status": "confirmed",
-      "summary": "Chelum",
-      "region": "Pakistan",
-      "date": "2024-08-26"
-    },
-    {
       "id": "20240826_d3s4mj47o9hil16afocldvav4g",
       "status": "confirmed",
       "summary": "Janmashtami",
@@ -45985,18 +45978,18 @@
       "date": "2024-08-26"
     },
     {
+      "id": "20240827_cipci676fspil490qc7n7cifs4",
+      "status": "confirmed",
+      "summary": "Chelum",
+      "region": "Pakistan",
+      "date": "2024-08-27"
+    },
+    {
       "id": "20240906_p1g7oikjlo9im3s41eddrflnok",
       "status": "confirmed",
       "summary": "Defence Day",
       "region": "Pakistan",
       "date": "2024-09-06"
-    },
-    {
-      "id": "20240915_8ijv4qd7bfntdch82m9mr6aq00",
-      "status": "confirmed",
-      "summary": "Giarhwin Sharief",
-      "region": "Pakistan",
-      "date": "2024-09-15"
     },
     {
       "id": "20240916_n1djpv5p9iibog7snp864bi30g",
@@ -46013,11 +46006,18 @@
       "date": "2024-10-11"
     },
     {
-      "id": "20241013_etj68qaoeqpi9reeun2kjgg1dc",
+      "id": "20241012_m3at75o0pu8boiu5nu31shu714",
       "status": "confirmed",
       "summary": "Dussehra",
       "region": "Pakistan",
-      "date": "2024-10-13"
+      "date": "2024-10-12"
+    },
+    {
+      "id": "20241016_d9pm32t50j05vue7iov2j4u9tk",
+      "status": "confirmed",
+      "summary": "Giarhwin Sharief",
+      "region": "Pakistan",
+      "date": "2024-10-16"
     },
     {
       "id": "20241017_l1a339ootlk8spcbu5kd0f585k",
