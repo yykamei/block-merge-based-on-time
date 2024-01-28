@@ -8110,7 +8110,7 @@
       "date": "2024-11-15"
     },
     {
-      "id": "20241120_s6se3qn02gark9k7irndjtptl4",
+      "id": "20241120_48qj1ds58uem7qb8g0fh7asrgg",
       "status": "confirmed",
       "summary": "Black Awareness Day",
       "region": "Brazil",
@@ -8306,7 +8306,7 @@
       "date": "2025-11-15"
     },
     {
-      "id": "20251120_s60gbhg66qvmjhn6m2oiajdo4c",
+      "id": "20251120_upbg1tdfmbmdt4tls9601v1lvs",
       "status": "confirmed",
       "summary": "Black Awareness Day",
       "region": "Brazil",
@@ -44029,7 +44029,148 @@
       "date": "2025-12-31"
     }
   ],
-  "Nepal": [],
+  "Nepal": [
+    {
+      "id": "20240308_fmrh4t07naleja1jmb36dp0ss4",
+      "status": "confirmed",
+      "summary": "Maha Shivaratri",
+      "region": "Nepal",
+      "date": "2024-03-08"
+    },
+    {
+      "id": "20240308_j3r9tkr06d5ecl2m384usmskkg",
+      "status": "confirmed",
+      "summary": "Nari Dibas",
+      "region": "Nepal",
+      "date": "2024-03-08"
+    },
+    {
+      "id": "20240410_dnagb83512lrd45pufrrruiucs",
+      "status": "confirmed",
+      "summary": "Ramjan Edul Fikra",
+      "region": "Nepal",
+      "date": "2024-04-10"
+    },
+    {
+      "id": "20240501_49avrkkpq3ps07dkp1nbj4r4ms",
+      "status": "confirmed",
+      "summary": "Majdoor Divas",
+      "region": "Nepal",
+      "date": "2024-05-01"
+    },
+    {
+      "id": "20240523_mijtrv9jlmo3m5b4oaljmh70ps",
+      "status": "confirmed",
+      "summary": "Buddha Jayanti",
+      "region": "Nepal",
+      "date": "2024-05-23"
+    },
+    {
+      "id": "20240617_ro05jeotfv80uolmvlgtcp18l0",
+      "status": "confirmed",
+      "summary": "Edul Aajaha",
+      "region": "Nepal",
+      "date": "2024-06-17"
+    },
+    {
+      "id": "20240819_dr9o5967bnb28k2cfaa0edjm2o",
+      "status": "confirmed",
+      "summary": "Janai Purnima",
+      "region": "Nepal",
+      "date": "2024-08-19"
+    },
+    {
+      "id": "20240826_kskjied2f6vplhbl4a0mntcbbc",
+      "status": "confirmed",
+      "summary": "Shree Krishna Janamashtami",
+      "region": "Nepal",
+      "date": "2024-08-26"
+    },
+    {
+      "id": "20240906_emafathokreusiu3m1qlr8m6dc",
+      "status": "confirmed",
+      "summary": "Hartalika Teej",
+      "region": "Nepal",
+      "date": "2024-09-06"
+    },
+    {
+      "id": "20240919_38207eh3eugisc200jhik9u2ag",
+      "status": "confirmed",
+      "summary": "Constitution Day",
+      "region": "Nepal",
+      "date": "2024-09-19"
+    },
+    {
+      "id": "20241010_lg76mp4r26ua79n4t8ivbta3h4",
+      "status": "confirmed",
+      "summary": "Astami (Dashain)",
+      "region": "Nepal",
+      "date": "2024-10-10"
+    },
+    {
+      "id": "20241010_o2bek19h1h80bhn7o39hag21tk",
+      "status": "confirmed",
+      "summary": "Phulpati (Dashain)",
+      "region": "Nepal",
+      "date": "2024-10-10"
+    },
+    {
+      "id": "20241011_tq61vrgvdptqhnfgvf56847il4",
+      "status": "confirmed",
+      "summary": "Nawami (Dashain)",
+      "region": "Nepal",
+      "date": "2024-10-11"
+    },
+    {
+      "id": "20241012_svp9m2i8v95uej14oaq987k5e8",
+      "status": "confirmed",
+      "summary": "Dashami (Dashain)",
+      "region": "Nepal",
+      "date": "2024-10-12"
+    },
+    {
+      "id": "20241013_v5rcqb9tra4d45ofq57g75jkvg",
+      "status": "confirmed",
+      "summary": "Ekadashi (Dashain)",
+      "region": "Nepal",
+      "date": "2024-10-13"
+    },
+    {
+      "id": "20241101_51rkkburr3k69oppjiom2a98j4",
+      "status": "confirmed",
+      "summary": "Laxmi Puja (Tihar)",
+      "region": "Nepal",
+      "date": "2024-11-01"
+    },
+    {
+      "id": "20241102_7qtlarmk5d6cnafbqan728nj6c",
+      "status": "confirmed",
+      "summary": "Gobhardan Pujan (Tihar)",
+      "region": "Nepal",
+      "date": "2024-11-02"
+    },
+    {
+      "id": "20241103_r912b34o7duujscpaq15ophro8",
+      "status": "confirmed",
+      "summary": "Bhai Tika (Tihar)",
+      "region": "Nepal",
+      "date": "2024-11-03"
+    },
+    {
+      "id": "20241107_idnei9nu7f043rdgvokefke5f0",
+      "status": "confirmed",
+      "summary": "Chhat Parwa",
+      "region": "Nepal",
+      "date": "2024-11-07"
+    },
+    {
+      "id": "20241225_ja1vb14ttf2raaagnfuosmb25s",
+      "status": "confirmed",
+      "summary": "Christmas Day",
+      "region": "Nepal",
+      "date": "2024-12-25"
+    }
+  ],
   "Nauru": [
     {
       "id": "20240101_qno6mtda9mld2pqd9vvc4hkrec",
