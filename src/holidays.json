@@ -5554,6 +5554,195 @@
       "summary": "Christmas Day",
       "region": "Bangladesh",
       "date": "2024-12-25"
+    },
+    {
+      "id": "20250214_n4kj3mtnksih6rrfke57ofe7ko",
+      "status": "confirmed",
+      "summary": "Valentine's Day",
+      "region": "Bangladesh",
+      "date": "2025-02-14"
+    },
+    {
+      "id": "20250221_oevne6vba34un9sl429h7f18eo",
+      "status": "confirmed",
+      "summary": "Language Martyrs' Day",
+      "region": "Bangladesh",
+      "date": "2025-02-21"
+    },
+    {
+      "id": "20250301_5de6rv0b9rem12oij18hk8qn4o",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Bangladesh",
+      "date": "2025-03-01"
+    },
+    {
+      "id": "20250313_vrogjmfa2hu4cf1oj9fjkat61o",
+      "status": "confirmed",
+      "summary": "Doljatra",
+      "region": "Bangladesh",
+      "date": "2025-03-13"
+    },
+    {
+      "id": "20250317_7rq94cb3pcjb997ob5q1b4rpgk",
+      "status": "confirmed",
+      "summary": "Sheikh Mujibur Rahman’s birthday",
+      "region": "Bangladesh",
+      "date": "2025-03-17"
+    },
+    {
+      "id": "20250326_20f5cbbrpoqrcc8kuj418e29ko",
+      "status": "confirmed",
+      "summary": "Independence Day",
+      "region": "Bangladesh",
+      "date": "2025-03-26"
+    },
+    {
+      "id": "20250331_1u84r3pfd591p3ljpa7n45rk04",
+      "status": "confirmed",
+      "summary": "Eid ul-Fitr",
+      "region": "Bangladesh",
+      "date": "2025-03-31"
+    },
+    {
+      "id": "20250401_r0f6c3d30gesh0n904gg11hekg",
+      "status": "confirmed",
+      "summary": "Eid ul-Fitr Holiday",
+      "region": "Bangladesh",
+      "date": "2025-04-01"
+    },
+    {
+      "id": "20250402_tk9btioa2fcfea5r0bjnktqi0g",
+      "status": "confirmed",
+      "summary": "Eid ul-Fitr Holiday",
+      "region": "Bangladesh",
+      "date": "2025-04-02"
+    },
+    {
+      "id": "20250403_5b4r3km24piuqhosl1uo1rqidk",
+      "status": "confirmed",
+      "summary": "Eid ul-Fitr Holiday",
+      "region": "Bangladesh",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "20250413_duejvl2n47e89681vd1lg9chl8",
+      "status": "confirmed",
+      "summary": "Chaitra Sankranti",
+      "region": "Bangladesh",
+      "date": "2025-04-13"
+    },
+    {
+      "id": "20250414_6muittrvsoesls5c1gn6tjss1c",
+      "status": "confirmed",
+      "summary": "Bengali New Year",
+      "region": "Bangladesh",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "20250501_ac944lopssahfkaknffo53ivas",
+      "status": "confirmed",
+      "summary": "May Day",
+      "region": "Bangladesh",
+      "date": "2025-05-01"
+    },
+    {
+      "id": "20250511_mjgirffcco904qs9t09rrcptdc",
+      "status": "confirmed",
+      "summary": "Mothers' Day",
+      "region": "Bangladesh",
+      "date": "2025-05-11"
+    },
+    {
+      "id": "20250607_3lrvta4s78c31ildn67gt5cers",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Bangladesh",
+      "date": "2025-06-07"
+    },
+    {
+      "id": "20250608_sfeskdci6llo3iknt9jgu9qveo",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Bangladesh",
+      "date": "2025-06-08"
+    },
+    {
+      "id": "20250609_vabtru252u89bmdj2thh1cmc5k",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Bangladesh",
+      "date": "2025-06-09"
+    },
+    {
+      "id": "20250615_14ci9htle39p2mngr8tf6nnpjo",
+      "status": "confirmed",
+      "summary": "Fathers' Day",
+      "region": "Bangladesh",
+      "date": "2025-06-15"
+    },
+    {
+      "id": "20250627_04fki108lrrm93deh5fk9rmn0k",
+      "status": "confirmed",
+      "summary": "Muharram",
+      "region": "Bangladesh",
+      "date": "2025-06-27"
+    },
+    {
+      "id": "20250706_30oirkl13eae1g2fs1u3jpsars",
+      "status": "confirmed",
+      "summary": "Ashura",
+      "region": "Bangladesh",
+      "date": "2025-07-06"
+    },
+    {
+      "id": "20250815_um1pkn500u8v9ojbv7m4oqv13g",
+      "status": "confirmed",
+      "summary": "National Mourning Day",
+      "region": "Bangladesh",
+      "date": "2025-08-15"
+    },
+    {
+      "id": "20250820_iakk6koc4s34jkvpk34t4m3gvg",
+      "status": "confirmed",
+      "summary": "Akhari Chahar Somba",
+      "region": "Bangladesh",
+      "date": "2025-08-20"
+    },
+    {
+      "id": "20250905_d32m4a029jtfe653imuajfm200",
+      "status": "confirmed",
+      "summary": "Eid e-Milad-un Nabi",
+      "region": "Bangladesh",
+      "date": "2025-09-05"
+    },
+    {
+      "id": "20251004_2eq7aqjlbeag0hsgl9d7smgml0",
+      "status": "confirmed",
+      "summary": "Fateha-i-Yajdaham",
+      "region": "Bangladesh",
+      "date": "2025-10-04"
+    },
+    {
+      "id": "20251031_e8ji78gnlki0joofk6dddv4ik4",
+      "status": "confirmed",
+      "summary": "Halloween",
+      "region": "Bangladesh",
+      "date": "2025-10-31"
+    },
+    {
+      "id": "20251216_m3qodoia2uktg6e5g9v9of2ddc",
+      "status": "confirmed",
+      "summary": "Victory Day",
+      "region": "Bangladesh",
+      "date": "2025-12-16"
+    },
+    {
+      "id": "20251225_cnar1aavv6qamk92ntgpv50gbo",
+      "status": "confirmed",
+      "summary": "Christmas Day",
+      "region": "Bangladesh",
+      "date": "2025-12-25"
     }
   ],
   "Belgium": [
