@@ -24063,13 +24063,6 @@
       "date": "2024-09-15"
     },
     {
-      "id": "20241012_e92iug56m977f4i4m9sg6fmcqc",
-      "status": "confirmed",
-      "summary": "Dia de la raza",
-      "region": "Guatemala",
-      "date": "2024-10-12"
-    },
-    {
       "id": "20241020_i70jr886invp36g15h43o6gth4",
       "status": "confirmed",
       "summary": "Revolution of 1944",
@@ -24173,13 +24166,6 @@
       "summary": "Independence Day",
       "region": "Guatemala",
       "date": "2025-09-15"
-    },
-    {
-      "id": "20251012_vshfg0dec6rlikrai4mhjcsh5c",
-      "status": "confirmed",
-      "summary": "Dia de la raza",
-      "region": "Guatemala",
-      "date": "2025-10-12"
     },
     {
       "id": "20251020_4cmvm8e5eo3o2il1r2kusoba04",
@@ -44847,11 +44833,11 @@
       "date": "2024-01-11"
     },
     {
-      "id": "20240207_gcg2r4f4r1863jonbm9c44t1p8",
+      "id": "20240208_tu46rem1427uvgclq8925bpn88",
       "status": "confirmed",
       "summary": "Isra and Mi'raj",
       "region": "Oman",
-      "date": "2024-02-07"
+      "date": "2024-02-08"
     },
     {
       "id": "20240311_etlb6n75779ln9eikhtfv9am0c",
@@ -46355,6 +46341,13 @@
       "summary": "Shab e-Meraj",
       "region": "Pakistan",
       "date": "2024-02-07"
+    },
+    {
+      "id": "20240208_5oitc9ghg0835ecltmn0gk755g",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Pakistan",
+      "date": "2024-02-08"
     },
     {
       "id": "20240214_cqv5ljptubjls3ae160i2hcjlg",
