@@ -318,11 +318,11 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240207_4srmhb8gr1ua59n254nnvbvhpk",
+      "id": "20240208_6np2ilfdp4h2vdvrer4cef83cs",
       "status": "confirmed",
       "summary": "Leilat al-Meiraj (The Prophet's Ascension)",
       "region": "United Arab Emirates",
-      "date": "2024-02-07"
+      "date": "2024-02-08"
     },
     {
       "id": "20240311_tp1cai9q5sisfiihr7i22duk9o",
@@ -29990,11 +29990,11 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240207_b0uc65tr3uksfhj3nl15vvkq48",
+      "id": "20240208_tnmij0bgq6ac9h03bl1d5epsgc",
       "status": "confirmed",
       "summary": "Al Isra' wal Miraj",
       "region": "Jordan",
-      "date": "2024-02-07"
+      "date": "2024-02-08"
     },
     {
       "id": "20240311_4f7tbm9l46c5uclqv3mc4633ug",
@@ -46336,16 +46336,16 @@
       "date": "2024-02-05"
     },
     {
-      "id": "20240207_ofsg1icloge12l0s16lk8gldjo",
-      "status": "confirmed",
-      "summary": "Shab e-Meraj",
-      "region": "Pakistan",
-      "date": "2024-02-07"
-    },
-    {
       "id": "20240208_5oitc9ghg0835ecltmn0gk755g",
       "status": "confirmed",
       "summary": "Election Day",
+      "region": "Pakistan",
+      "date": "2024-02-08"
+    },
+    {
+      "id": "20240208_ioc2ae09il7q8cda66h4qkrvpc",
+      "status": "confirmed",
+      "summary": "Shab e-Meraj",
       "region": "Pakistan",
       "date": "2024-02-08"
     },
