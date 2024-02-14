@@ -24827,11 +24827,11 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240414_qj3fikvtpv64cqqkenuti35m4s",
+      "id": "20240415_bhb2po3clv44bh778hlqveani0",
       "status": "confirmed",
       "summary": "America Day",
       "region": "Honduras",
-      "date": "2024-04-14"
+      "date": "2024-04-15"
     },
     {
       "id": "20240501_fpp42a0hjk8koehj6g8du7vfso",
@@ -24883,18 +24883,18 @@
       "date": "2024-10-03"
     },
     {
-      "id": "20241012_csgu0p0cdeplbb6k3ghna00cv0",
+      "id": "20241004_42g56hv0pd5k8sp3ucf5jfd0d0",
       "status": "confirmed",
       "summary": "Columbus Day",
       "region": "Honduras",
-      "date": "2024-10-12"
+      "date": "2024-10-04"
     },
     {
-      "id": "20241021_gabedcf74vgddja544rujb3o3k",
+      "id": "20241005_3mrvf9pksaeusdmp63iotj0k6c",
       "status": "confirmed",
       "summary": "Army Day",
       "region": "Honduras",
-      "date": "2024-10-21"
+      "date": "2024-10-05"
     },
     {
       "id": "20241225_n2v4ivnagait797hj1l71o4lno",
@@ -42169,6 +42169,20 @@
       "date": "2024-01-01"
     },
     {
+      "id": "20240225_ufjhe3hs1j9rcs93ejsqlm6qm8",
+      "status": "confirmed",
+      "summary": "The Passing of President Hage Geingob",
+      "region": "Namibia",
+      "date": "2024-02-25"
+    },
+    {
+      "id": "20240226_v2gctle6ggi30cr9eujj7mafek",
+      "status": "confirmed",
+      "summary": "The Passing of President Hage Geingob observed",
+      "region": "Namibia",
+      "date": "2024-02-26"
+    },
+    {
       "id": "20240321_pokj3n6mien87lsik7q8n56atg",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -45861,6 +45875,13 @@
       "summary": "New Year's Day",
       "region": "Papua New Guinea",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240226_a05ugnrv95m1b8geaitcftsh6c",
+      "status": "confirmed",
+      "summary": "National Remembrance Day In Memory of Late Grand Chief Sir Michael Somare",
+      "region": "Papua New Guinea",
+      "date": "2024-02-26"
     },
     {
       "id": "20240329_6n3d1slprl7reks5s6dcng5aqs",
