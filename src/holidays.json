@@ -45390,6 +45390,13 @@
       "date": "2024-07-23"
     },
     {
+      "id": "20240726_uih4qd3dnmsnoapk8q4am1q8fk",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2024-07-26"
+    },
+    {
       "id": "20240728_usfh3259iqfbjl0g60e8er25hk",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -45425,6 +45432,13 @@
       "date": "2024-09-24"
     },
     {
+      "id": "20241007_7f77fo4mvfoodhcjvcn45jrm38",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2024-10-07"
+    },
+    {
       "id": "20241008_o3ckr6qlm1046ppb1hhb9udn58",
       "status": "confirmed",
       "summary": "Battle of Angamos",
@@ -45446,6 +45460,13 @@
       "date": "2024-11-02"
     },
     {
+      "id": "20241206_avmjudjvhtufbvbgj30vnkcbs8",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2024-12-06"
+    },
+    {
       "id": "20241208_96j6avjfhjg6m0okgmfbrqlbq0",
       "status": "confirmed",
       "summary": "Feast of the Immaculate Conception",
@@ -45460,9 +45481,23 @@
       "date": "2024-12-09"
     },
     {
+      "id": "20241223_ea50bdbifif1q58igd8emtqi5k",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2024-12-23"
+    },
+    {
       "id": "20241224_2tu2chco4jns87sitckbrrmvb0",
       "status": "confirmed",
       "summary": "Christmas Eve",
+      "region": "Peru",
+      "date": "2024-12-24"
+    },
+    {
+      "id": "20241224_akr1jf8ianh4au248tiivnghtg",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
       "region": "Peru",
       "date": "2024-12-24"
     },
@@ -45472,6 +45507,20 @@
       "summary": "Christmas Day",
       "region": "Peru",
       "date": "2024-12-25"
+    },
+    {
+      "id": "20241230_6v6g3nfg2q0n4qh1re8k8bpmh4",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2024-12-30"
+    },
+    {
+      "id": "20241231_447m6eem15nsc40f2d598q8er0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2024-12-31"
     },
     {
       "id": "20241231_otb6ffqe468ud4bq4rnhb1a0q4",
@@ -47814,18 +47863,25 @@
       "date": "2024-04-16"
     },
     {
-      "id": "20240512_0k65dpidtkk6f8nr79kriattno",
+      "id": "20240512_i3cl90p8jfg9oqtlggcbhl48dg",
       "status": "confirmed",
       "summary": "Mothers' Day",
       "region": "Puerto Rico",
       "date": "2024-05-12"
     },
     {
-      "id": "20240616_9ubfmtpokr8kg0uji0m8cvrsgs",
+      "id": "20240616_nd8vrt27tktsvn6ujs6t8ifb68",
       "status": "confirmed",
       "summary": "Fathers' Day",
       "region": "Puerto Rico",
       "date": "2024-06-16"
+    },
+    {
+      "id": "20240619_lrpgkuoqp2s08q1711n96jb588",
+      "status": "confirmed",
+      "summary": "Juneteenth National Independence Day",
+      "region": "Puerto Rico",
+      "date": "2024-06-19"
     },
     {
       "id": "20240727_agkenr3op11mqc97bq2qvuhuik",
@@ -47833,6 +47889,13 @@
       "summary": "José Celso Barbosa’s Birthday",
       "region": "Puerto Rico",
       "date": "2024-07-27"
+    },
+    {
+      "id": "20241105_0qpboa8m9fmki609seg4ruanao",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Puerto Rico",
+      "date": "2024-11-05"
     },
     {
       "id": "20241128_dblb46unj9hmdap6auhrsv14qc",
@@ -47926,18 +47989,25 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250511_8ge6mrr6r1v0905mb7v59ivj4o",
+      "id": "20250511_immomr0m8vuf7gh6i5n1a5erp8",
       "status": "confirmed",
       "summary": "Mothers' Day",
       "region": "Puerto Rico",
       "date": "2025-05-11"
     },
     {
-      "id": "20250615_7oit6gt8qkou0fi085udmth9ac",
+      "id": "20250615_qpjg49jld3qg6uv4vtg8mel1mo",
       "status": "confirmed",
       "summary": "Fathers' Day",
       "region": "Puerto Rico",
       "date": "2025-06-15"
+    },
+    {
+      "id": "20250619_nd6sjpd93g8a2k8027br33v2fo",
+      "status": "confirmed",
+      "summary": "Juneteenth National Independence Day",
+      "region": "Puerto Rico",
+      "date": "2025-06-19"
     },
     {
       "id": "20250727_u6mjdkvnr5ajs6mca6fne2ucsg",
