@@ -17156,6 +17156,13 @@
       "date": "2025-04-26"
     },
     {
+      "id": "20250427_2h5h7hseelnvqakou0jdrhv34o",
+      "status": "confirmed",
+      "summary": "King's Birthday",
+      "region": "Netherlands",
+      "date": "2025-04-27"
+    },
+    {
       "id": "20250505_dpm7cnsfnqr6hi9c0alprtfiao",
       "status": "confirmed",
       "summary": "Liberation Day",
@@ -42183,16 +42190,16 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240225_ufjhe3hs1j9rcs93ejsqlm6qm8",
+      "id": "20240225_83gg416lb19sg7m63kuinabc9k",
       "status": "confirmed",
-      "summary": "The Passing of President Hage Geingob",
+      "summary": "Mourning Day for President Hage Geingob",
       "region": "Namibia",
       "date": "2024-02-25"
     },
     {
-      "id": "20240226_v2gctle6ggi30cr9eujj7mafek",
+      "id": "20240226_ohpeua27oldjsmv0hd4vdienfg",
       "status": "confirmed",
-      "summary": "The Passing of President Hage Geingob observed",
+      "summary": "Mourning Day for President Hage Geingob observed",
       "region": "Namibia",
       "date": "2024-02-26"
     },
@@ -44428,6 +44435,13 @@
       "summary": "Nepali New Year",
       "region": "Nepal",
       "date": "2024-04-13"
+    },
+    {
+      "id": "20240417_iom2ja2nm4kpmh8b1aibvs0hgs",
+      "status": "confirmed",
+      "summary": "Ram Nawami",
+      "region": "Nepal",
+      "date": "2024-04-17"
     },
     {
       "id": "20240501_49avrkkpq3ps07dkp1nbj4r4ms",
@@ -57238,6 +57252,13 @@
       "date": "2024-04-08"
     },
     {
+      "id": "20240412_d25uemuqqaqei0jc89o9pielgo",
+      "status": "confirmed",
+      "summary": "Songkran Holiday",
+      "region": "Thailand",
+      "date": "2024-04-12"
+    },
+    {
       "id": "20240413_38k7gnqbp19eat7qcljcpurqds",
       "status": "confirmed",
       "summary": "Songkran",
@@ -57245,16 +57266,16 @@
       "date": "2024-04-13"
     },
     {
-      "id": "20240414_jj2ai3vl488qubnlqjngbq9c6o",
+      "id": "20240414_u199rb2ejgjnuvgp7mvdh7rdkg",
       "status": "confirmed",
-      "summary": "Songkran",
+      "summary": "Songkran Holiday",
       "region": "Thailand",
       "date": "2024-04-14"
     },
     {
-      "id": "20240415_m6v2gvd0v0fcjl510fi8lnc674",
+      "id": "20240415_kqvalek3fni7u9mm7rt61rr7bk",
       "status": "confirmed",
-      "summary": "Songkran",
+      "summary": "Songkran Holiday",
       "region": "Thailand",
       "date": "2024-04-15"
     },
@@ -57455,16 +57476,16 @@
       "date": "2025-04-13"
     },
     {
-      "id": "20250414_cj83nu1kqc8lbcmgv5udarppss",
+      "id": "20250414_fgaho4fj7hi79edc20s7hd1it8",
       "status": "confirmed",
-      "summary": "Songkran",
+      "summary": "Songkran Holiday",
       "region": "Thailand",
       "date": "2025-04-14"
     },
     {
-      "id": "20250415_jfe8g2kbehcbgukbfvqtn2a4u0",
+      "id": "20250415_cece9jdie1geqhs5soo0afcqd4",
       "status": "confirmed",
-      "summary": "Songkran",
+      "summary": "Songkran Holiday",
       "region": "Thailand",
       "date": "2025-04-15"
     },
@@ -64668,11 +64689,11 @@
   ],
   "Yemen": [
     {
-      "id": "20240207_41npugr9rfo0bbg8ebp037mf7c",
+      "id": "20240208_em547hhcnmrshb9gj4gjdhghm4",
       "status": "confirmed",
       "summary": "Isra and Mi'raj",
       "region": "Yemen",
-      "date": "2024-02-07"
+      "date": "2024-02-08"
     },
     {
       "id": "20240311_tcfq5n7ibdupjuu41ps1mcr3f8",
