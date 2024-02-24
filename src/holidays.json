@@ -2432,7 +2432,7 @@
       "date": "2024-03-24"
     },
     {
-      "id": "20240328_2tk98bjf8v0a6tsdkqqp6faev0",
+      "id": "20240328_gm0tr2hesl39efim6mc6qq39f8",
       "status": "confirmed",
       "summary": "Maundy Thursday",
       "region": "Argentina",
@@ -2451,6 +2451,13 @@
       "summary": "Easter Sunday",
       "region": "Argentina",
       "date": "2024-03-31"
+    },
+    {
+      "id": "20240401_dq68n02pqc41sus9fn1fudioa0",
+      "status": "confirmed",
+      "summary": "Tourist Bridge Holiday",
+      "region": "Argentina",
+      "date": "2024-04-01"
     },
     {
       "id": "20240402_1al5qcnb140v3lpi279gn1k20k",
@@ -2551,6 +2558,13 @@
       "date": "2024-06-20"
     },
     {
+      "id": "20240621_592kkim348sn9hb9qt7a2o1kt0",
+      "status": "confirmed",
+      "summary": "Tourist Bridge Holiday",
+      "region": "Argentina",
+      "date": "2024-06-21"
+    },
+    {
       "id": "20240708_7vrhabc53lgufgldsqle3n1q2o",
       "status": "confirmed",
       "summary": "Muharram/New Year",
@@ -2565,11 +2579,11 @@
       "date": "2024-07-09"
     },
     {
-      "id": "20240819_3gppgiulnlnlhqa01tq2hgktek",
+      "id": "20240817_boe9vikbr1mtd33l5fl7c5vpho",
       "status": "confirmed",
       "summary": "San Martín Day",
       "region": "Argentina",
-      "date": "2024-08-19"
+      "date": "2024-08-17"
     },
     {
       "id": "20241003_g98obi0bukk6p15i53a1l0v4f4",
@@ -2586,18 +2600,25 @@
       "date": "2024-10-04"
     },
     {
+      "id": "20241011_s5qgt08liqn4lu5glr1rcad074",
+      "status": "confirmed",
+      "summary": "Tourist Bridge Holiday",
+      "region": "Argentina",
+      "date": "2024-10-11"
+    },
+    {
+      "id": "20241012_4sshug4tge88dg8pkrnjmi4dps",
+      "status": "confirmed",
+      "summary": "Day of Respect for Cultural Diversity",
+      "region": "Argentina",
+      "date": "2024-10-12"
+    },
+    {
       "id": "20241012_c9ch5q1imj84f51050hublikro",
       "status": "confirmed",
       "summary": "Yom Kippur",
       "region": "Argentina",
       "date": "2024-10-12"
-    },
-    {
-      "id": "20241014_oonj9n8vibn8lv8manhfjpi9ss",
-      "status": "confirmed",
-      "summary": "Day of Respect for Cultural Diversity",
-      "region": "Argentina",
-      "date": "2024-10-14"
     },
     {
       "id": "20241020_ehsghkfcoskqm7ebfdg1jlgbpo",
@@ -2705,7 +2726,7 @@
       "date": "2025-04-14"
     },
     {
-      "id": "20250417_as44jhj5f9dii0tdnrhiu802dg",
+      "id": "20250417_ibhso953vf6f0sg6841h8dotas",
       "status": "confirmed",
       "summary": "Maundy Thursday",
       "region": "Argentina",
@@ -14117,18 +14138,11 @@
       "date": "2024-08-02"
     },
     {
-      "id": "20240815_6iu6hijueqhi8eotc04c7avm7o",
+      "id": "20240815_la40thpkvlat3kvu3ii47bfo74",
       "status": "confirmed",
       "summary": "Mother's Day",
       "region": "Costa Rica",
       "date": "2024-08-15"
-    },
-    {
-      "id": "20240819_il14194guiumt6an36k2ouqm6c",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "Costa Rica",
-      "date": "2024-08-19"
     },
     {
       "id": "20240824_lpdrtoupgmqs6fj50dnhdkrpao",
@@ -32700,9 +32714,9 @@
       "date": "2024-07-20"
     },
     {
-      "id": "20240722_3f6tp5lq7k4vh9c5vo8p4ec7uk",
+      "id": "20240722_ue44ifhnlv2l4jg6st31ko5440",
       "status": "confirmed",
-      "summary": "Lao Women Union's Day observed",
+      "summary": "Day off for Lao Women Union's Day",
       "region": "Laos",
       "date": "2024-07-22"
     },
@@ -32770,9 +32784,9 @@
       "date": "2025-07-20"
     },
     {
-      "id": "20250721_d8epp0adrl28bb57osukeerj1k",
+      "id": "20250721_po34eced24av7l7bk1ah7k1isc",
       "status": "confirmed",
-      "summary": "Lao Women Union's Day observed",
+      "summary": "Day off for Lao Women Union's Day",
       "region": "Laos",
       "date": "2025-07-21"
     },
