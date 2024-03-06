@@ -27650,6 +27650,13 @@
       "date": "2024-02-25"
     },
     {
+      "id": "20240301_m3k40ltcbg2lvbmbft6hfbphec",
+      "status": "confirmed",
+      "summary": "Election Holiday",
+      "region": "Iran",
+      "date": "2024-03-01"
+    },
+    {
       "id": "20240312_1t5dnf4j3smdoibdcj808aloo8",
       "status": "confirmed",
       "summary": "Ramadan Start",
@@ -53593,7 +53600,7 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_4dd72bilf7hqugj8vrjuk34iq8",
+      "id": "20240401_oji0diaj3rtmkfheev1gb98eno",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Spain",
@@ -53663,7 +53670,7 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240530_gj6bn7n3ujlsmb8jkf75sa0no4",
+      "id": "20240530_anfkuq5j54l30gogegccn7cm8o",
       "status": "confirmed",
       "summary": "Corpus Christi (Castile-La Mancha)",
       "region": "Spain",
@@ -53705,14 +53712,14 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240624_lhvgleo600o4fn30f1h66n1ti8",
+      "id": "20240624_g909trkcng75r54g2da5g8p1ag",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
       "date": "2024-06-24"
     },
     {
-      "id": "20240725_epglvle8h4v1lpnmsedbuf8fu4",
+      "id": "20240725_6fo4g6iukfgmmi0g8f0c89t15c",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -53794,13 +53801,6 @@
       "summary": "All Saints' Day",
       "region": "Spain",
       "date": "2024-11-01"
-    },
-    {
-      "id": "20241203_uc8khvu1sjbni3l6lr9vvai7sk",
-      "status": "confirmed",
-      "summary": "Day of Navarre (Navarre)",
-      "region": "Spain",
-      "date": "2024-12-03"
     },
     {
       "id": "20241206_oerk4iun43urj1tj4c57crb4e0",
@@ -53950,7 +53950,7 @@
       "date": "2025-04-13"
     },
     {
-      "id": "20250417_2tgad41r6nlgbap39cdo8bu53c",
+      "id": "20250417_5nocbgav9al19eue5g4lqm4jbg",
       "status": "confirmed",
       "summary": "Maundy Thursday (regional holiday)",
       "region": "Spain",
@@ -53978,7 +53978,7 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_m2h6brvtghj5osm4o2sq0q4jfk",
+      "id": "20250421_6bckq5uo07e3abjst90u63gg70",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Spain",
@@ -54104,7 +54104,7 @@
       "date": "2025-06-24"
     },
     {
-      "id": "20250725_tdte2n0fi496ttob8bglm5oaro",
+      "id": "20250725_54rlnalj0vo8vquhm3j4s9enns",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -57350,6 +57350,13 @@
       "date": "2024-05-06"
     },
     {
+      "id": "20240522_rhjjtom77kgv5nrbp6fthmrnv8",
+      "status": "confirmed",
+      "summary": "Visakha Bucha",
+      "region": "Thailand",
+      "date": "2024-05-22"
+    },
+    {
       "id": "20240603_u2b5ru6ov2jtudplsuc2vdfei8",
       "status": "confirmed",
       "summary": "Queen Suthida's Birthday",
@@ -57551,6 +57558,20 @@
       "summary": "Day off for Coronation Day",
       "region": "Thailand",
       "date": "2025-05-05"
+    },
+    {
+      "id": "20250511_hf9kjg3eijasmfuo4kibld19j4",
+      "status": "confirmed",
+      "summary": "Visakha Bucha",
+      "region": "Thailand",
+      "date": "2025-05-11"
+    },
+    {
+      "id": "20250512_7pdf8h5kg7mnt6v6gkr2fgmia4",
+      "status": "confirmed",
+      "summary": "Day off for Visakha Bucha",
+      "region": "Thailand",
+      "date": "2025-05-12"
     },
     {
       "id": "20250603_idjlqodq52fblr1k934ecolpqg",
