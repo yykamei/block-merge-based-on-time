@@ -38701,8 +38701,8 @@ var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _argume
 };
 
 function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
-    var _a, _b;
     return __awaiter(this, void 0, void 0, function* () {
+        var _a, _b;
         const currentState = (_a = pullRequestStatus.state) === null || _a === void 0 ? void 0 : _a.toLowerCase();
         core.debug(`Start createCommitStatus(), updating the state of "${pullRequestStatus.sha}" from "${currentState}" to "${state}"`);
         if (currentState === state) {
@@ -38748,8 +38748,8 @@ query($owner: String!, $repo: String!) {
     });
 }
 function pull(octokit, owner, repo, contextName, pullNumber) {
-    var _a, _b;
     return __awaiter(this, void 0, void 0, function* () {
+        var _a, _b;
         core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`);
         const result = yield octokit.graphql(`
 query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!) {
@@ -38944,8 +38944,8 @@ You can resolve the problems with these actions: updating the pull requests with
     });
 }
 function handlePull(inputs) {
-    var _a;
     return run_awaiter(this, void 0, void 0, function* () {
+        var _a;
         const octokit = (0,github.getOctokit)(inputs.token);
         const { owner, repo } = github.context.repo;
         const number = (_a = github.context.payload.pull_request) === null || _a === void 0 ? void 0 : _a.number;
