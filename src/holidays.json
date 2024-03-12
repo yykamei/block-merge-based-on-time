@@ -6740,6 +6740,13 @@
       "date": "2024-02-05"
     },
     {
+      "id": "20240311_16q33e52qia91tedkqjin7qmbc",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Burundi",
+      "date": "2024-03-11"
+    },
+    {
       "id": "20240406_hrba5e2ot3phihnsqrj7trh5lc",
       "status": "confirmed",
       "summary": "President Ntaryamira Day",
@@ -6843,6 +6850,13 @@
       "summary": "Unity Day",
       "region": "Burundi",
       "date": "2025-02-05"
+    },
+    {
+      "id": "20250301_p34do4hgj7jifq3ch0ntoj8csc",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Burundi",
+      "date": "2025-03-01"
     },
     {
       "id": "20250331_glbfd1ueirbl5bl4uf9dg22ouk",
@@ -11222,6 +11236,13 @@
       "date": "2024-01-01"
     },
     {
+      "id": "20240311_m1l5t8an8tu02rlrr9e1e5pjts",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Central African Republic",
+      "date": "2024-03-11"
+    },
+    {
       "id": "20240329_39o9fl05lohgb0psl1c29n229g",
       "status": "confirmed",
       "summary": "Commemoration of Boganda",
@@ -11318,6 +11339,13 @@
       "summary": "New Year",
       "region": "Central African Republic",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250301_2qm8ho7mp7ui70f8tgcok2teds",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Central African Republic",
+      "date": "2025-03-01"
     },
     {
       "id": "20250329_hrs7sqgtbdedtg7ojrct43sn78",
@@ -18552,6 +18580,13 @@
       "date": "2024-03-08"
     },
     {
+      "id": "20240311_nrgi07sqijkgu60k9crldf3fo0",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Eritrea",
+      "date": "2024-03-11"
+    },
+    {
       "id": "20240410_1c2akvc1movj8gnvpl421phq3k",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -18655,6 +18690,13 @@
       "summary": "Timket",
       "region": "Eritrea",
       "date": "2025-01-19"
+    },
+    {
+      "id": "20250301_k6qqmfveu70in027idqkc3sed4",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Eritrea",
+      "date": "2025-03-01"
     },
     {
       "id": "20250308_v9jj6go88j7iitnv1vfmhic80s",
@@ -23047,11 +23089,11 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240311_op1e76g85b0bu1evhq2s8095r4",
+      "id": "20240312_8qjtq5mqsq2b6smpr8pvkqm6ps",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Guinea",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240401_vmn708fpdmgs4pclftn255g0jk",
@@ -46194,11 +46236,11 @@
       "date": "2024-02-25"
     },
     {
-      "id": "20240311_e8o6o80up1v5u0ss34ddu3ctfo",
+      "id": "20240312_0d1rc1fqdh5pqvn9jvgm7sfrfg",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Philippines",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240328_do3ui8aurs1nf0s37124oar2fk",
@@ -51491,11 +51533,11 @@
       "date": "2024-02-12"
     },
     {
-      "id": "20240311_phi7sis45i5lc87u30fq0rih7g",
+      "id": "20240312_opead8ovmg63t3715pn1qhnspc",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Singapore",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240329_ipl8f5douk4hqknhlgg8v9cuf4",
@@ -54323,11 +54365,11 @@
       "date": "2024-02-10"
     },
     {
-      "id": "20240311_raacrpcod8t1n9sggu3cojer68",
+      "id": "20240312_hdpvspv3bhdchcdc15i2shterc",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Suriname",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240325_48mtp9hb6l96r8vv5enksg1bls",
@@ -58224,6 +58266,13 @@
       "date": "2024-03-08"
     },
     {
+      "id": "20240311_b7v6rak3m5kru2n2fe5bsas80g",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Turkmenistan",
+      "date": "2024-03-11"
+    },
+    {
       "id": "20240321_cputl0lt3kr0e0e4s4vrln6uuk",
       "status": "confirmed",
       "summary": "Nowruz Bayram (Spring Festival)",
@@ -58481,6 +58530,13 @@
       "summary": "Day of Diplomatic Staff of Turkmenistan",
       "region": "Turkmenistan",
       "date": "2025-02-18"
+    },
+    {
+      "id": "20250301_nj45c0ns48qo2fjcqh885tsehg",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Turkmenistan",
+      "date": "2025-03-01"
     },
     {
       "id": "20250307_nah2s8mveg1lg2c9111e3d9nnc",
