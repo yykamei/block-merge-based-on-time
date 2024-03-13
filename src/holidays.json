@@ -5465,11 +5465,11 @@
       "date": "2024-02-26"
     },
     {
-      "id": "20240311_khqkln7p8o1ivh5chs6f6fo6b8",
+      "id": "20240312_3l2vria5tle9q5sun626nshv5s",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Bangladesh",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240317_2m5g84mnkvok7bherm5f37n0ok",
@@ -18200,11 +18200,11 @@
       "date": "2024-01-25"
     },
     {
-      "id": "20240312_olbd03lv08qf5bhfquaaf0iqq0",
+      "id": "20240311_onia0dho4etndfhnbg5csofpfo",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Egypt",
-      "date": "2024-03-12"
+      "date": "2024-03-11"
     },
     {
       "id": "20240410_kltmrueuc064h0tbrhs100hl44",
@@ -20022,6 +20022,13 @@
       "date": "2024-01-01"
     },
     {
+      "id": "20240311_q3b4fj3inhtdcfq8j786ksbuf4",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "France",
+      "date": "2024-03-11"
+    },
+    {
       "id": "20240331_58h87odv1qcl62evspencd4i70",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
@@ -20153,6 +20160,13 @@
       "summary": "New Year's Day",
       "region": "France",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250301_2ln70hf7c5r3ldtko4b6htg834",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "France",
+      "date": "2025-03-01"
     },
     {
       "id": "20250330_l8ng9fpn1nlnuola0fpdt894ms",
@@ -22101,11 +22115,11 @@
       "date": "2024-03-06"
     },
     {
-      "id": "20240311_j0lrnntekrv3knkgali0q7hrbo",
+      "id": "20240312_9f04qnc4gf0r7ql6ndho7lb5ms",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Ghana",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240329_n4gepimlhkntt1bc58ungvjdes",
@@ -34525,11 +34539,11 @@
       "date": "2024-03-08"
     },
     {
-      "id": "20240311_t01i9d3f8diondpdeefl2j5su8",
+      "id": "20240312_rknou28cqm7nnv2seq1gr3j7f8",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Sri Lanka",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240324_gmt8oqqvk849uisq8ngek488e4",
@@ -44549,6 +44563,13 @@
       "date": "2024-03-11"
     },
     {
+      "id": "20240312_flc8nlo4rld1u4g2d3m6k2thlo",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Nepal",
+      "date": "2024-03-12"
+    },
+    {
       "id": "20240410_dnagb83512lrd45pufrrruiucs",
       "status": "confirmed",
       "summary": "Ramjan Edul Fikra",
@@ -46595,11 +46616,11 @@
       "date": "2024-03-11"
     },
     {
-      "id": "20240311_s17i0a0io9ifgp3okc7vcs3a74",
+      "id": "20240312_dv2dru772u851tv7vdogllcidc",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Pakistan",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240323_73ootkltmjfkbidr14ibih7tnk",
@@ -54619,6 +54640,13 @@
       "date": "2024-03-08"
     },
     {
+      "id": "20240311_jiqftf461qv1pgj39jvr05k85s",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "South Sudan",
+      "date": "2024-03-11"
+    },
+    {
       "id": "20240410_qipgulcbp77d2mhbt7g146f6ic",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -54722,6 +54750,13 @@
       "summary": "Valentine's Day",
       "region": "South Sudan",
       "date": "2025-02-14"
+    },
+    {
+      "id": "20250301_m9av39ckiv7km7ic9thncl2k7c",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "South Sudan",
+      "date": "2025-03-01"
     },
     {
       "id": "20250308_hquc49jel4kc31mhs83c5sbko4",
