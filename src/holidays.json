@@ -9469,9 +9469,9 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240102_br17280j0qvb28i8nj7r2gu4k4",
+      "id": "20240102_ve54u79lv7arhaall50l7j7bjg",
       "status": "confirmed",
-      "summary": "Public Holiday (January)",
+      "summary": "New Year Holiday",
       "region": "Botswana",
       "date": "2024-01-02"
     },
@@ -9539,9 +9539,9 @@
       "date": "2024-07-15"
     },
     {
-      "id": "20240716_in5mfiim96dm4gsd528k0bhc8s",
+      "id": "20240716_jvv1ak17insovi5s869ai6f27s",
       "status": "confirmed",
-      "summary": "Public Holiday (July)",
+      "summary": "President's Day Holiday",
       "region": "Botswana",
       "date": "2024-07-16"
     },
@@ -9553,9 +9553,9 @@
       "date": "2024-09-30"
     },
     {
-      "id": "20241001_qap3jd7r10f1vm2hvto8j9df10",
+      "id": "20241001_mbihfg0p1u8nu05q1c00rm8j3c",
       "status": "confirmed",
-      "summary": "Public Holiday (October)",
+      "summary": "Botswana Day Holiday",
       "region": "Botswana",
       "date": "2024-10-01"
     },
@@ -9581,9 +9581,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250102_amq0lk4acigbv77ef97t4aimr4",
+      "id": "20250102_9b0lc90m5o4oc8ig6g21sqump8",
       "status": "confirmed",
-      "summary": "Public Holiday (January)",
+      "summary": "New Year Holiday",
       "region": "Botswana",
       "date": "2025-01-02"
     },
@@ -9651,9 +9651,9 @@
       "date": "2025-07-21"
     },
     {
-      "id": "20250722_6gds3633o0au4qotoaieb0k734",
+      "id": "20250722_1btmprbhtq6kapk9eg8n67rhkg",
       "status": "confirmed",
-      "summary": "Public Holiday (July)",
+      "summary": "President's Day Holiday",
       "region": "Botswana",
       "date": "2025-07-22"
     },
@@ -9665,9 +9665,9 @@
       "date": "2025-09-30"
     },
     {
-      "id": "20251001_eugrfinbn4kfob3krtds4778vs",
+      "id": "20251001_bnbg15kct39v1fjpeieikoc7us",
       "status": "confirmed",
-      "summary": "Public Holiday (October)",
+      "summary": "Botswana Day Holiday",
       "region": "Botswana",
       "date": "2025-10-01"
     },
@@ -20304,11 +20304,11 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240311_ntdhb7clum1s3uocant7cq78no",
+      "id": "20240323_u3ihmrkohio9pvsqtqbj0v8474",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Gabon",
-      "date": "2024-03-11"
+      "date": "2024-03-23"
     },
     {
       "id": "20240331_nccr96ajngpi566212gh7rsnfg",
@@ -24543,6 +24543,13 @@
       "date": "2024-03-08"
     },
     {
+      "id": "20240311_q3arasom96b9oma9ptdrrr9b68",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Guinea-Bissau",
+      "date": "2024-03-11"
+    },
+    {
       "id": "20240331_vhchgqpgh6nk6rkppjeiqahtcc",
       "status": "confirmed",
       "summary": "Easter Sunday",
@@ -24597,6 +24604,13 @@
       "summary": "Heroes Day",
       "region": "Guinea-Bissau",
       "date": "2025-01-20"
+    },
+    {
+      "id": "20250301_l46pgrhv76dsaqhjjnk1dv7mgo",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Guinea-Bissau",
+      "date": "2025-03-01"
     },
     {
       "id": "20250308_56dno65eh6fojiduht6sqv2utc",
@@ -41976,11 +41990,11 @@
       "date": "2024-03-04"
     },
     {
-      "id": "20240311_toipg4glaq06qu281o3d3fjmi8",
+      "id": "20240312_2ajpkj8thc4roi26m43nrmh3cc",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Malawi",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240329_k0a9voo6t6pnfgah3psr09944s",
