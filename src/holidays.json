@@ -1236,6 +1236,13 @@
       "date": "2024-03-14"
     },
     {
+      "id": "20240315_ikoik55gsclcj00h5ngnrh1asc",
+      "status": "confirmed",
+      "summary": "Summer Day Holiday",
+      "region": "Albania",
+      "date": "2024-03-15"
+    },
+    {
       "id": "20240322_kdiphumojilmq584olq9o1lci0",
       "status": "confirmed",
       "summary": "Nevruz Day",
@@ -27450,6 +27457,13 @@
       "summary": "Ramadan Start",
       "region": "Iraq",
       "date": "2024-03-11"
+    },
+    {
+      "id": "20240312_qu08eo5pqkvfj27ubqe4n7bjls",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Iraq",
+      "date": "2024-03-12"
     },
     {
       "id": "20240321_34r73s35p5b1muh852nn72b780",
@@ -60357,11 +60371,11 @@
       "date": "2024-01-12"
     },
     {
-      "id": "20240311_i73qhdfkrlodisvgt5vl9kv9dg",
+      "id": "20240312_b5o9kre1buio7ppfbqvbqhjtg0",
       "status": "confirmed",
       "summary": "Ramadan Start",
       "region": "Tanzania",
-      "date": "2024-03-11"
+      "date": "2024-03-12"
     },
     {
       "id": "20240329_9oeb4r1gp2gvcq399llfvtb6uk",
