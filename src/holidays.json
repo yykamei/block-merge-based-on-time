@@ -12411,9 +12411,9 @@
       "date": "2024-10-01"
     },
     {
-      "id": "20241002_1nk1a0atn485nea6511f89gi7g",
+      "id": "20241002_jo7qneabik8d1pqhf9ofjsb9qc",
       "status": "confirmed",
-      "summary": "National Day Golden Week holiday",
+      "summary": "National Day Golden Week Holiday",
       "region": "China",
       "date": "2024-10-02"
     },
@@ -12607,9 +12607,9 @@
       "date": "2025-10-01"
     },
     {
-      "id": "20251002_evjetck6sv2i6kkdgl561imib8",
+      "id": "20251002_kdteobhkhhtil75pgjnb3bskv0",
       "status": "confirmed",
-      "summary": "National Day Golden Week holiday",
+      "summary": "National Day Golden Week Holiday",
       "region": "China",
       "date": "2025-10-02"
     },
@@ -27783,6 +27783,34 @@
       "date": "2024-03-20"
     },
     {
+      "id": "20240320_vsqcphd62hee1pe0dd1t019dfc",
+      "status": "confirmed",
+      "summary": "Norooz (Persian New Year)",
+      "region": "Iran",
+      "date": "2024-03-20"
+    },
+    {
+      "id": "20240321_qkir7s6cd3uo619g5c55sucddg",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2024-03-21"
+    },
+    {
+      "id": "20240322_57kk7auirojst75270scqt4c0s",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2024-03-22"
+    },
+    {
+      "id": "20240323_latjvninnhg6lvoi4v73bqor0k",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2024-03-23"
+    },
+    {
       "id": "20240331_iqpb1a64r03u8lplcvm8qe5j60",
       "status": "confirmed",
       "summary": "Islamic Republic Day",
@@ -34714,9 +34742,9 @@
       "date": "2024-10-31"
     },
     {
-      "id": "20241115_1puvgj8ni68vkt0ifu431r514g",
+      "id": "20241115_obj34sa0vmsfj1gn3h659ff0ik",
       "status": "confirmed",
-      "summary": "Ill Full Moon Poya Day",
+      "summary": "Il Full Moon Poya Day",
       "region": "Sri Lanka",
       "date": "2024-11-15"
     },
@@ -39993,9 +40021,9 @@
       "date": "2024-10-11"
     },
     {
-      "id": "20241102_oue3r3bml93o16imr2tnqt06ts",
+      "id": "20241102_c1ko9p1k7o88nj70atn2tq4ukc",
       "status": "confirmed",
-      "summary": "All Soul's Day",
+      "summary": "All Souls' Day",
       "region": "Macao",
       "date": "2024-11-02"
     },
@@ -40182,9 +40210,9 @@
       "date": "2025-10-29"
     },
     {
-      "id": "20251102_niq7a2gl89b2gcsbc63gpt0u7c",
+      "id": "20251102_s24fan0rpes3ac044e1vlu2l84",
       "status": "confirmed",
-      "summary": "All Soul's Day",
+      "summary": "All Souls' Day",
       "region": "Macao",
       "date": "2025-11-02"
     },
