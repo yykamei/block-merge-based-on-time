@@ -9,3 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: yykamei/github-workflows-metrics@main
+        with:
+          exclude-pull-requests: "true"
