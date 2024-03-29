@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: yykamei/github-workflows-metrics@main
         with:
-          exclude-pull-requests: "true"
+          status: "success"
