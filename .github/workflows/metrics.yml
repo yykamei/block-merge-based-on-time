@@ -1,4 +1,4 @@
-name: GitHub Workflow Metrics
+name: GitHub Workflows Metrics
 on:
   workflow_dispatch:
 permissions:
