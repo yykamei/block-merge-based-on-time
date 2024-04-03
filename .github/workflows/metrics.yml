@@ -11,4 +11,4 @@ jobs:
       - uses: yykamei/github-workflows-metrics@main
         with:
           status: "success"
-          aggregate: median
+          aggregate: average
