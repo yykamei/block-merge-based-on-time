@@ -14131,6 +14131,27 @@
       "date": "2024-03-19"
     },
     {
+      "id": "20240325_jmh3v20g6muflv8h1cq8ga4280",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Costa Rica",
+      "date": "2024-03-25"
+    },
+    {
+      "id": "20240326_c9dv58kkg7to5nammb277kr120",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Costa Rica",
+      "date": "2024-03-26"
+    },
+    {
+      "id": "20240327_k6p51i6ja06pmn6ssqbdi7d3v0",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Costa Rica",
+      "date": "2024-03-27"
+    },
+    {
       "id": "20240328_967vnmrceldrud1m3et70tkm1g",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -14173,18 +14194,11 @@
       "date": "2024-06-16"
     },
     {
-      "id": "20240725_g7cs5tl4t5v33crk8csiil3tqo",
+      "id": "20240725_6dlnqka5palabm5nkdm3qju544",
       "status": "confirmed",
       "summary": "Annexation of Guanacaste",
       "region": "Costa Rica",
       "date": "2024-07-25"
-    },
-    {
-      "id": "20240729_4ph28uc2viiq4e6cq5joeutif8",
-      "status": "confirmed",
-      "summary": "Annexation of Guanacaste",
-      "region": "Costa Rica",
-      "date": "2024-07-29"
     },
     {
       "id": "20240802_lutuq3o9n9eobtdfj15h3700ao",
@@ -18242,11 +18256,18 @@
       "date": "2024-04-25"
     },
     {
-      "id": "20240501_sdon8bhk47s7bdi894kv6917h0",
+      "id": "20240501_9ud9trmnpne3t911nhhtsihjfs",
       "status": "confirmed",
       "summary": "Labor Day",
       "region": "Egypt",
       "date": "2024-05-01"
+    },
+    {
+      "id": "20240502_1c5sa3cvvhs8iu90od2dg0j948",
+      "status": "confirmed",
+      "summary": "Labor Day",
+      "region": "Egypt",
+      "date": "2024-05-02"
     },
     {
       "id": "20240503_4svvfcju4kl0ssho8k6nm4umq0",
@@ -22157,11 +22178,11 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240410_a1r10j4td16nng6e4bcdh7q2cg",
+      "id": "20240411_onc1shsnj4vsgutfau5pb8lk2o",
       "status": "confirmed",
       "summary": "Eid ul-Fitr",
       "region": "Ghana",
-      "date": "2024-04-10"
+      "date": "2024-04-11"
     },
     {
       "id": "20240501_jemgd2qqbqpvvd8jd7mnrv7aks",
@@ -35874,6 +35895,13 @@
       "date": "2024-03-31"
     },
     {
+      "id": "20240409_a48445s1k7ulkqurhq05t0c2ks",
+      "status": "confirmed",
+      "summary": "Hari Raya Puasa Holiday (Kelantan)",
+      "region": "Malaysia",
+      "date": "2024-04-09"
+    },
+    {
       "id": "20240410_aoe2fp4qknk102tss8likvih40",
       "status": "confirmed",
       "summary": "Hari Raya Puasa",
@@ -36504,7 +36532,7 @@
       "date": "2025-12-11"
     },
     {
-      "id": "20251224_078ptg45hpii1h9lk3ff8fevmk",
+      "id": "20251224_lki9oppo67tt6sioag4ra76uh0",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
@@ -39112,11 +39140,11 @@
       "date": "2024-04-06"
     },
     {
-      "id": "20240410_8mh30qjdd537u5de2mdscl9kf0",
+      "id": "20240409_lplk6vh5480jrp2sqq8m74qgpk",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Mali",
-      "date": "2024-04-10"
+      "date": "2024-04-09"
     },
     {
       "id": "20240501_tti5f681mh2m04vgf72p370m4g",
@@ -41778,6 +41806,13 @@
       "date": "2024-04-21"
     },
     {
+      "id": "20240422_f748akfhm3pfe3ubmgkeau0uac",
+      "status": "confirmed",
+      "summary": "Election Day Holiday",
+      "region": "Maldives",
+      "date": "2024-04-22"
+    },
+    {
       "id": "20240501_vagk6djmjughm9lk5q8ainq6b0",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
@@ -42852,11 +42887,11 @@
       "date": "2024-04-06"
     },
     {
-      "id": "20240410_38f63d700gn430mrago7pp2v0o",
+      "id": "20240409_2nnt146v0u8e4kukvh8bp0h2h0",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
       "region": "Niger",
-      "date": "2024-04-10"
+      "date": "2024-04-09"
     },
     {
       "id": "20240424_u8atq4hk4qkhcqtugde38sue74",
@@ -45104,6 +45139,13 @@
       "summary": "Ramadan Start",
       "region": "Oman",
       "date": "2024-03-12"
+    },
+    {
+      "id": "20240409_r6k626jh8c6ba5ggm0rgodhchs",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Oman",
+      "date": "2024-04-09"
     },
     {
       "id": "20240410_2amjrhp2a6he46ob4fiq3ugj74",
@@ -50455,11 +50497,18 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240407_jsi2inu2i4muatvoj8lltmb4u4",
+      "id": "20240407_kg58qf0ki38p3n5qloc4slkm4s",
       "status": "confirmed",
-      "summary": "Tutsi Genocide Memorial Day",
+      "summary": "Genocide Against the Tutsi Memorial Day",
       "region": "Rwanda",
       "date": "2024-04-07"
+    },
+    {
+      "id": "20240408_ov3pfcakc14vbgs4uoshubtih8",
+      "status": "confirmed",
+      "summary": "Genocide Against the Tutsi Memorial Day",
+      "region": "Rwanda",
+      "date": "2024-04-08"
     },
     {
       "id": "20240410_0qsqd37a25c3o6qh8qj729uosk",
@@ -50560,9 +50609,9 @@
       "date": "2025-03-31"
     },
     {
-      "id": "20250407_ch30op51o7ba7q0imgp3hdvvcs",
+      "id": "20250407_6nkinkeir48t739ek80o28sujk",
       "status": "confirmed",
-      "summary": "Tutsi Genocide Memorial Day",
+      "summary": "Genocide Against the Tutsi Memorial Day",
       "region": "Rwanda",
       "date": "2025-04-07"
     },
@@ -59933,9 +59982,23 @@
       "date": "2024-03-11"
     },
     {
-      "id": "20240409_l54gqvaj5q406ttllmkpj9spq8",
+      "id": "20240408_qs64i6t0062r5lgu0fo02uu8ko",
       "status": "confirmed",
-      "summary": "Ramadan Feast Eve",
+      "summary": "Ramadan Feast Holiday",
+      "region": "Turkey",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "20240409_j7aj5ljfvqcim0j92051o0r4ls",
+      "status": "confirmed",
+      "summary": "Ramadan Feast Eve (Private Sector)",
+      "region": "Turkey",
+      "date": "2024-04-09"
+    },
+    {
+      "id": "20240409_nifjvj3dh4pv9hmog3mpute6ms",
+      "status": "confirmed",
+      "summary": "Ramadan Feast Eve (Public Sector)",
       "region": "Turkey",
       "date": "2024-04-09"
     },
