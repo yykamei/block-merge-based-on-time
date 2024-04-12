@@ -30,7 +30,7 @@ jobs:
           branch: update-holidays
       - uses: yykamei/actions-gh-pr-create@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ steps.app-token.outputs.token }}
           branch: update-holidays
           title: Update Holidays
           label: enhancement
