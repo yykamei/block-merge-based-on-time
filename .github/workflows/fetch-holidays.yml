@@ -7,7 +7,14 @@ jobs:
   fetch-holidays:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
       - uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
@@ -17,7 +24,6 @@ jobs:
       - run: npm run fetch-holidays
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-      - run: npm run build
       - uses: yykamei/actions-git-push@main
         with:
           commit-message: Update Holidays
