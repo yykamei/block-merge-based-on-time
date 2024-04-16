@@ -2600,9 +2600,9 @@
       "date": "2024-10-03"
     },
     {
-      "id": "20241004_61vkp4asiue2uoslfdjol63oc0",
+      "id": "20241004_c7fegbojobvqu16sa9iarq0mg0",
       "status": "confirmed",
-      "summary": "Second day of Rosh Hashana",
+      "summary": "Second Day of Rosh Hashana",
       "region": "Argentina",
       "date": "2024-10-04"
     },
@@ -2845,9 +2845,9 @@
       "date": "2025-09-23"
     },
     {
-      "id": "20250924_8hp05ihnt0bokprcfr1mpsgkv0",
+      "id": "20250924_bq58ec0asm9ukg5igtujpo4448",
       "status": "confirmed",
-      "summary": "Second day of Rosh Hashana",
+      "summary": "Second Day of Rosh Hashana",
       "region": "Argentina",
       "date": "2025-09-24"
     },
@@ -13187,9 +13187,9 @@
       "date": "2024-09-19"
     },
     {
-      "id": "20240920_ij88gtkvk3b1n5iebf1pvrl1tk",
+      "id": "20240920_eislmq8f41jr0121155m15d9ck",
       "status": "confirmed",
-      "summary": "Extended National Holiday",
+      "summary": "Extended National Day Holiday",
       "region": "Chile",
       "date": "2024-09-20"
     },
@@ -13199,6 +13199,13 @@
       "summary": "Day of the Discovery of Two Worlds",
       "region": "Chile",
       "date": "2024-10-12"
+    },
+    {
+      "id": "20241027_6ls2uj3vp766hj528q4pcpo4us",
+      "status": "confirmed",
+      "summary": "Local elections",
+      "region": "Chile",
+      "date": "2024-10-27"
     },
     {
       "id": "20241031_kds9qfo5m9sl55ope4vlgff1cc",
@@ -13213,6 +13220,13 @@
       "summary": "All Saints' Day",
       "region": "Chile",
       "date": "2024-11-01"
+    },
+    {
+      "id": "20241124_qvv21gni37cjhjnauh6kgov0gk",
+      "status": "confirmed",
+      "summary": "Second Round Local elections",
+      "region": "Chile",
+      "date": "2024-11-24"
     },
     {
       "id": "20241208_ra7pamup6kjac192lnhm3caps8",
