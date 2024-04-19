@@ -39506,6 +39506,7 @@ function handlePull(inputs) {
             ? "pending"
             : "success";
         core.debug(`We decided to make the state "${state}"`);
+        core.setOutput("pr-blocked", state === "success" ? "false" : "true");
         return createCommitStatus(octokit, result.pull, inputs, state);
     });
 }
