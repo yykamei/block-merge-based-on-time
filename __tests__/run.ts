@@ -216,19 +216,20 @@ You can resolve the problems with these actions: updating the pull requests with
     })
 
     test.each`
-      baseBranch            | labels                         | expectedState
-      ${"main"}             | ${["bug", "foo"]}              | ${"pending"}
-      ${"main"}             | ${["bug", "Emergency"]}        | ${"success"}
-      ${"develop"}          | ${["bug", "foo"]}              | ${"success"}
-      ${"test"}             | ${["bug", "foo"]}              | ${"success"}
-      ${"feature/bar/1234"} | ${["bug", "foo"]}              | ${"success"}
-      ${"feature/foo/38"}   | ${["bug", "foo"]}              | ${"pending"}
-      ${"feature/foo/39"}   | ${["bug", "foo", "Emergency"]} | ${"success"}
-      ${"staging-qa"}       | ${["bug", "foo"]}              | ${"pending"}
-      ${"staging-qa"}       | ${["bug", "foo", "Emergency"]} | ${"success"}
+      baseBranch            | labels                         | expectedState | prBlocked
+      ${"main"}             | ${["bug", "foo"]}              | ${"pending"}  | ${"true"}
+      ${"main"}             | ${["bug", "Emergency"]}        | ${"success"}  | ${"false"}
+      ${"develop"}          | ${["bug", "foo"]}              | ${"success"}  | ${"false"}
+      ${"test"}             | ${["bug", "foo"]}              | ${"success"}  | ${"false"}
+      ${"feature/bar/1234"} | ${["bug", "foo"]}              | ${"success"}  | ${"false"}
+      ${"feature/foo/38"}   | ${["bug", "foo"]}              | ${"pending"}  | ${"true"}
+      ${"feature/foo/39"}   | ${["bug", "foo", "Emergency"]} | ${"success"}  | ${"false"}
+      ${"staging-qa"}       | ${["bug", "foo"]}              | ${"pending"}  | ${"true"}
+      ${"staging-qa"}       | ${["bug", "foo", "Emergency"]} | ${"success"}  | ${"false"}
     `(
       "creates a commit status with $expectedState: $baseBranch, $labels",
-      async ({ baseBranch, labels, expectedState }) => {
+      async ({ baseBranch, labels, expectedState, prBlocked }) => {
+        const setOutput = jest.spyOn(core, "setOutput").mockImplementation(jest.fn)
         const pullData = {
           owner: "FAORG",
           repo: "repo1",
@@ -247,6 +248,7 @@ You can resolve the problems with these actions: updating the pull requests with
         Object.defineProperty(github.context, "payload", { value: { pull_request: { number: 324 } } } as any)
         await run()
         expect(pull).toHaveBeenCalledWith(octokit, "FAORG", "repo1", "my-blocker", 324)
+        expect(setOutput).toBeCalledWith("pr-blocked", prBlocked)
         expect(createCommitStatus).toHaveBeenCalledWith(octokit, pullData, expect.any(Inputs), expectedState)
       },
     )
