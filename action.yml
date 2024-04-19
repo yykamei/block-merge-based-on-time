@@ -44,6 +44,9 @@ inputs:
     description: The GitHub token used to create an authenticated client
     required: false
     default: ${{ github.token }}
+outputs:
+  pr-blocked:
+    description: "A boolean value to indicate the pull reuqest is blocked. This is set only when the `pull_request` event occurs."
 branding:
   icon: stop-circle
   color: yellow

@@ -30,12 +30,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: yykamei/block-merge-based-on-time@main
+        id: block
         with:
           timezone: Pacific/Honolulu
           after: "17:30, 16:30 on Monday"
           before: 09:00
           base-branches: "(default)"
           prohibited-days-dates: "Sunday, 2021-10-01, 2021-12-29/2022-01-04, H:United States, BH:United States"
+      - run: echo pr-blocked=${{ steps.block.outputs.pr-blocked }}
+        if: github.event_name == 'pull_request'
 ```
 
 ### Action inputs
@@ -55,6 +58,10 @@ These are all available inputs.
 | `commit-status-description-while-blocking` | The commit status description shown while blocking                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | `false`  | `The PR can't be merged based on time, which is due to your organization's policy` |
 | `commit-status-url`                        | The commit status URL to describe why this action is conducted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | `false`  | `""`                                                                               |
 | `token`                                    | The GitHub token used to create an authenticated client                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | `false`  | `GITHUB_TOKEN`                                                                     |
+
+### Action outputs
+
+- `pr-blocked` — A boolean value to indicate the pull reuqest is blocked. This is set only when the `pull_request` event occurs.
 
 ## Regional holidays
 
