@@ -9,7 +9,7 @@ jobs:
   block:
     runs-on: ubuntu-latest
     steps:
-      - uses: yykamei/block-merge-based-on-time@main
+      - uses: yykamei/block-merge-based-on-time@outputs
         id: block
         with:
           timezone: Asia/Tokyo
