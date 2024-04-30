@@ -57677,7 +57677,7 @@
       "date": "2024-01-02"
     },
     {
-      "id": "20240113_k3bcfdqe4daqbc6likqltjle60",
+      "id": "20240113_t42q7r3raq4uike37ova9psja0",
       "status": "confirmed",
       "summary": "Liberation Day",
       "region": "Togo",
@@ -57710,6 +57710,13 @@
       "summary": "Independence Day",
       "region": "Togo",
       "date": "2024-04-27"
+    },
+    {
+      "id": "20240429_j3m979t7cpou35uljs8b0geu5k",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Togo",
+      "date": "2024-04-29"
     },
     {
       "id": "20240501_rjfn6sel74pt5c2amc82tf50dk",
@@ -57789,7 +57796,7 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250113_7ekndoeahksm2ec4vvc2v9ehgs",
+      "id": "20250113_i0su4eeud10uffeobn3hirae7o",
       "status": "confirmed",
       "summary": "Liberation Day",
       "region": "Togo",
