@@ -32719,11 +32719,25 @@
       "date": "2024-05-01"
     },
     {
+      "id": "20240504_6ifhf9ba19j9rlstm8eed6vl5o",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Kazakhstan",
+      "date": "2024-05-04"
+    },
+    {
       "id": "20240507_2q7qun5idfkj9js49puv3orsng",
       "status": "confirmed",
       "summary": "Defender of the Fatherland Day",
       "region": "Kazakhstan",
       "date": "2024-05-07"
+    },
+    {
+      "id": "20240508_s0c1nm6iblu7e9dcqhgoa0jaig",
+      "status": "confirmed",
+      "summary": "Defender of the Fatherland Day (extra holiday)",
+      "region": "Kazakhstan",
+      "date": "2024-05-08"
     },
     {
       "id": "20240509_3vu4oho496cdfv4nka7ifpj5s8",
