@@ -26002,11 +26002,25 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250502_scvs8mv7cjeg4nt2vr5ve0a874",
+      "status": "confirmed",
+      "summary": "Labor Day Holiday",
+      "region": "Hungary",
+      "date": "2025-05-02"
+    },
+    {
       "id": "20250504_ki0t3032de86mhrhpo84u6rq2o",
       "status": "confirmed",
       "summary": "Mother’s Day",
       "region": "Hungary",
       "date": "2025-05-04"
+    },
+    {
+      "id": "20250517_o00vde5sctc4ae5da3ofuvqves",
+      "status": "confirmed",
+      "summary": "Extra Work Day",
+      "region": "Hungary",
+      "date": "2025-05-17"
     },
     {
       "id": "20250608_i62td8pe3kc4j4cjrale0f58j0",
@@ -26037,11 +26051,25 @@
       "date": "2025-08-20"
     },
     {
+      "id": "20251018_bepl9sr811lstoqq1d2degbfao",
+      "status": "confirmed",
+      "summary": "Extra Work Day",
+      "region": "Hungary",
+      "date": "2025-10-18"
+    },
+    {
       "id": "20251023_h9bfkhf6e1p7aiefbtrjf83idk",
       "status": "confirmed",
       "summary": "1956 Revolution Memorial Day",
       "region": "Hungary",
       "date": "2025-10-23"
+    },
+    {
+      "id": "20251024_p9426pebs2v7v90qddfmnkg1k0",
+      "status": "confirmed",
+      "summary": "1956 Revolution Memorial Day Holiday",
+      "region": "Hungary",
+      "date": "2025-10-24"
     },
     {
       "id": "20251101_dgjel17lq6rokv1a6k9835k720",
@@ -26056,6 +26084,20 @@
       "summary": "Saint Nicholas Day",
       "region": "Hungary",
       "date": "2025-12-06"
+    },
+    {
+      "id": "20251213_1icaf6p465sm9on9gm0c4m1no0",
+      "status": "confirmed",
+      "summary": "Extra Work Day",
+      "region": "Hungary",
+      "date": "2025-12-13"
+    },
+    {
+      "id": "20251224_7dvul4njuisbdtmol40l0vr3cg",
+      "status": "confirmed",
+      "summary": "Christmas Holiday",
+      "region": "Hungary",
+      "date": "2025-12-24"
     },
     {
       "id": "20251224_m35iruvd0kdelul24m8hbutq70",
@@ -40350,6 +40392,13 @@
       "date": "2025-05-31"
     },
     {
+      "id": "20250602_v6tb0a75fn8i35181j2mqid978",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival Holiday (Public Employees Only)",
+      "region": "Macao",
+      "date": "2025-06-02"
+    },
+    {
       "id": "20251001_gqom3ff88ui0lk9i0j43hnaigk",
       "status": "confirmed",
       "summary": "National Day of the People's Republic of China",
@@ -40385,6 +40434,13 @@
       "date": "2025-11-02"
     },
     {
+      "id": "20251103_l58hg3stbj5ioi6rrdofgeu5m4",
+      "status": "confirmed",
+      "summary": "All Soul's Day Holiday",
+      "region": "Macao",
+      "date": "2025-11-03"
+    },
+    {
       "id": "20251208_pid68pufho9br45snc8m5kbbuk",
       "status": "confirmed",
       "summary": "Feast of the Immaculate Conception",
@@ -40404,6 +40460,20 @@
       "summary": "Winter Solstice",
       "region": "Macao",
       "date": "2025-12-21"
+    },
+    {
+      "id": "20251222_vd09drqcj9qkurrdllq0lbkevc",
+      "status": "confirmed",
+      "summary": "Macau S.A.R. Establishment Day Holiday",
+      "region": "Macao",
+      "date": "2025-12-22"
+    },
+    {
+      "id": "20251223_hodbp26oaiglkvseqn8cn66duo",
+      "status": "confirmed",
+      "summary": "Winter Solstice Holiday",
+      "region": "Macao",
+      "date": "2025-12-23"
     },
     {
       "id": "20251224_7b28jbujuukt8jdsoqlpo1l2ts",
@@ -46374,6 +46444,13 @@
       "date": "2024-04-01"
     },
     {
+      "id": "20240617_iidq68k9ke9dvrcmhhbui22m40",
+      "status": "confirmed",
+      "summary": "King's Birthday",
+      "region": "Papua New Guinea",
+      "date": "2024-06-17"
+    },
+    {
       "id": "20240723_7hdoc768au3jhj7b01f7gp16ds",
       "status": "confirmed",
       "summary": "National Remembrance Day",
@@ -46435,6 +46512,13 @@
       "summary": "Easter Monday",
       "region": "Papua New Guinea",
       "date": "2025-04-21"
+    },
+    {
+      "id": "20250617_s38mm4dl10oj6aql4phmtpgpq0",
+      "status": "confirmed",
+      "summary": "King's Birthday",
+      "region": "Papua New Guinea",
+      "date": "2025-06-17"
     },
     {
       "id": "20250723_1ubuo10a55vg7a4q3qjpebkp94",
