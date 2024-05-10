@@ -18354,6 +18354,13 @@
       "date": "2024-05-04"
     },
     {
+      "id": "20240505_1s2ghik9b49710ndjc4ml8g3ko",
+      "status": "confirmed",
+      "summary": "Labor Day Holiday",
+      "region": "Egypt",
+      "date": "2024-05-05"
+    },
+    {
       "id": "20240505_6ujetfff76rudefojuiaugults",
       "status": "confirmed",
       "summary": "Coptic Easter Sunday",
@@ -25473,11 +25480,11 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250405_sm9s4ihgigs0v23opbllvt0feo",
+      "id": "20250404_jbsknr8n5cqqo4kqpgc61usfks",
       "status": "confirmed",
       "summary": "Tomb Sweeping Day",
       "region": "Hong Kong",
-      "date": "2025-04-05"
+      "date": "2025-04-04"
     },
     {
       "id": "20250418_uiaj3fst2i1s3ij44luqsr87ck",
@@ -30319,13 +30326,6 @@
       "date": "2024-03-12"
     },
     {
-      "id": "20240324_nt14gj8g0g78v2hi3ti0tijchs",
-      "status": "confirmed",
-      "summary": "Palm Sunday",
-      "region": "Jordan",
-      "date": "2024-03-24"
-    },
-    {
       "id": "20240329_2cvjjf7lvcup8lfsk6g7i976e4",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -30375,11 +30375,25 @@
       "date": "2024-04-12"
     },
     {
-      "id": "20240501_d2b7o66nb1tdm0l0ngcv41oufk",
+      "id": "20240428_mph031r0pc0t1f39m5trskr52o",
+      "status": "confirmed",
+      "summary": "Orthodox Palm Sunday",
+      "region": "Jordan",
+      "date": "2024-04-28"
+    },
+    {
+      "id": "20240501_muq0q0kkhikv9n08tbl4c4gpfk",
       "status": "confirmed",
       "summary": "Labour Day",
       "region": "Jordan",
       "date": "2024-05-01"
+    },
+    {
+      "id": "20240502_ruomcrc9mptj1fkjrqt7dfedpo",
+      "status": "confirmed",
+      "summary": "Labour Day",
+      "region": "Jordan",
+      "date": "2024-05-02"
     },
     {
       "id": "20240503_4ja1u5hhfd5t9ejt8p6tvgq49g",
@@ -30520,13 +30534,6 @@
       "summary": "Eid al-Fitr holiday",
       "region": "Jordan",
       "date": "2025-04-02"
-    },
-    {
-      "id": "20250413_mchd70l0m07hquk1559b6c77ao",
-      "status": "confirmed",
-      "summary": "Palm Sunday",
-      "region": "Jordan",
-      "date": "2025-04-13"
     },
     {
       "id": "20250418_if0u1h3a396246pt0e0f2dgd0k",
@@ -30699,6 +30706,13 @@
       "date": "2024-05-01"
     },
     {
+      "id": "20240510_32uun6t9alc02p0v5p2ovg8rc4",
+      "status": "confirmed",
+      "summary": "National Tree Planting Day",
+      "region": "Kenya",
+      "date": "2024-05-10"
+    },
+    {
       "id": "20240512_gjplbtk99ims3riu5mjpqblgl8",
       "status": "confirmed",
       "summary": "Mother's Day",
@@ -30720,9 +30734,9 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20241010_0gn9dvaumvg5s0c6pf3n1l42o8",
+      "id": "20241010_288i2seq8olc5ordb68n22d45c",
       "status": "confirmed",
-      "summary": "Huduma Day",
+      "summary": "Mazingira Day",
       "region": "Kenya",
       "date": "2024-10-10"
     },
@@ -30860,9 +30874,9 @@
       "date": "2025-06-07"
     },
     {
-      "id": "20251010_jqhmij1gqfstoolspv5l5thk3s",
+      "id": "20251010_udtm5uoe6tjrq6c2g6kdco3rgs",
       "status": "confirmed",
-      "summary": "Huduma Day",
+      "summary": "Mazingira Day",
       "region": "Kenya",
       "date": "2025-10-10"
     },
@@ -54839,7 +54853,7 @@
       "date": "2025-06-24"
     },
     {
-      "id": "20250725_54rlnalj0vo8vquhm3j4s9enns",
+      "id": "20250725_tdte2n0fi496ttob8bglm5oaro",
       "status": "confirmed",
       "summary": "Feast of Saint James the Apostle (regional holiday)",
       "region": "Spain",
@@ -54923,7 +54937,7 @@
       "date": "2025-10-09"
     },
     {
-      "id": "20251012_o6um6e3j17gteapp4lagovrgks",
+      "id": "20251012_463uopaiqm3j3uldpusjo9npjo",
       "status": "confirmed",
       "summary": "Hispanic Day",
       "region": "Spain",
@@ -54984,6 +54998,13 @@
       "summary": "Christmas Day",
       "region": "Spain",
       "date": "2025-12-25"
+    },
+    {
+      "id": "20251226_oeiek9gkqdr4sf7t4hnsv9fu6k",
+      "status": "confirmed",
+      "summary": "St Stephen's Day (Catalonia)",
+      "region": "Spain",
+      "date": "2025-12-26"
     },
     {
       "id": "20251228_1alr3hsr4qn36kk3f73j7t17gg",
@@ -60008,9 +60029,9 @@
       "date": "2024-06-19"
     },
     {
-      "id": "20240801_30d8qfr3ovaoj9kq0d025f3tco",
+      "id": "20240801_538to3kc53dlkh0dliiq9bodk8",
       "status": "confirmed",
-      "summary": "Emancipation Day",
+      "summary": "African Emancipation Day",
       "region": "Trinidad & Tobago",
       "date": "2024-08-01"
     },
@@ -60176,9 +60197,9 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250801_knr8ie8tmt5qvorpkhkbp1bgjc",
+      "id": "20250801_gkkqtb2uf4e2o0vgg1knrkoq04",
       "status": "confirmed",
-      "summary": "Emancipation Day",
+      "summary": "African Emancipation Day",
       "region": "Trinidad & Tobago",
       "date": "2025-08-01"
     },
