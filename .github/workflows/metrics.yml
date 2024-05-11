@@ -1,6 +1,8 @@
 name: GitHub Workflows Metrics
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
 permissions:
   actions: read
   issues: write
