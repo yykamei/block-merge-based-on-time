@@ -27986,6 +27986,13 @@
       "date": "2024-05-04"
     },
     {
+      "id": "20240522_0cet3hbqjrdc0fq4thakv77440",
+      "status": "confirmed",
+      "summary": "Public Mourning Day",
+      "region": "Iran",
+      "date": "2024-05-22"
+    },
+    {
       "id": "20240604_jgcqnqif8cb974gkpqmocg8q68",
       "status": "confirmed",
       "summary": "Demise of Imam Khomeini",
@@ -30939,18 +30946,46 @@
       "date": "2024-01-01"
     },
     {
+      "id": "20240102_u15dv14vvqafhjiniglbkoi93g",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2024-01-02"
+    },
+    {
+      "id": "20240103_2l5bm9vpb66bafv0oulb4i8mng",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2024-01-03"
+    },
+    {
+      "id": "20240104_jg66p61jomasd18ms5fj28fkmg",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2024-01-04"
+    },
+    {
+      "id": "20240105_qntj44vtsvejqb9qn4jia900jc",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2024-01-05"
+    },
+    {
+      "id": "20240106_l1m18r1epiojj5mmlli246q7vo",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2024-01-06"
+    },
+    {
       "id": "20240107_ok0kkpkt03rglqb1t87qr4u40k",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
       "region": "Kyrgyzstan",
       "date": "2024-01-07"
-    },
-    {
-      "id": "20240108_15q9snnf33tnq2sveveupaecdg",
-      "status": "confirmed",
-      "summary": "Day off for Orthodox Christmas Day",
-      "region": "Kyrgyzstan",
-      "date": "2024-01-08"
     },
     {
       "id": "20240223_k778fv76c34g0o7vtr4chscub8",
@@ -30981,18 +31016,18 @@
       "date": "2024-03-21"
     },
     {
+      "id": "20240322_d3lhaid8h763t3bu0bfs2eom50",
+      "status": "confirmed",
+      "summary": "Nooruz Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2024-03-22"
+    },
+    {
       "id": "20240407_h2p8kn12r023uop6c231qiovfg",
       "status": "confirmed",
       "summary": "April People's Revolution Day",
       "region": "Kyrgyzstan",
       "date": "2024-04-07"
-    },
-    {
-      "id": "20240408_64gah5jt6kndte34j6ouo2a7n8",
-      "status": "confirmed",
-      "summary": "Day off for April People's Revolution Day",
-      "region": "Kyrgyzstan",
-      "date": "2024-04-08"
     },
     {
       "id": "20240410_7tgjr95ttfl6g7dhia2mske7eo",
@@ -31009,18 +31044,25 @@
       "date": "2024-05-01"
     },
     {
+      "id": "20240502_87g7vob861cbavfm4vncpj2fdc",
+      "status": "confirmed",
+      "summary": "May Day Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2024-05-02"
+    },
+    {
+      "id": "20240503_qsetnucdtijlcpkpuklhj4id44",
+      "status": "confirmed",
+      "summary": "May Day Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2024-05-03"
+    },
+    {
       "id": "20240505_ell5fj54jkjn7q2ebqlq2ftjio",
       "status": "confirmed",
       "summary": "Constitution Day of the Kyrgyz Republic",
       "region": "Kyrgyzstan",
       "date": "2024-05-05"
-    },
-    {
-      "id": "20240506_v3891mmq1om9jdten7ici08urg",
-      "status": "confirmed",
-      "summary": "Day off for Constitution Day of the Kyrgyz Republic",
-      "region": "Kyrgyzstan",
-      "date": "2024-05-06"
     },
     {
       "id": "20240509_mjb4gutc618g05edjejd5osf40",
@@ -31042,13 +31084,6 @@
       "summary": "Independence Day of the Kyrgyz Republic",
       "region": "Kyrgyzstan",
       "date": "2024-08-31"
-    },
-    {
-      "id": "20240902_kpm2ib66mf9ceq7ihgjhmbf1f8",
-      "status": "confirmed",
-      "summary": "Day off for Independence Day of the Kyrgyz Republic",
-      "region": "Kyrgyzstan",
-      "date": "2024-09-02"
     },
     {
       "id": "20241107_tg7qmud31s4e2du15i0jrbh890",
@@ -60013,6 +60048,13 @@
       "summary": "Corpus Christi",
       "region": "Trinidad & Tobago",
       "date": "2024-05-30"
+    },
+    {
+      "id": "20240531_0l1rcmga85rriu06hfhn6mlgjs",
+      "status": "confirmed",
+      "summary": "Holiday for Indian Arrival Day and Corpus Christi",
+      "region": "Trinidad & Tobago",
+      "date": "2024-05-31"
     },
     {
       "id": "20240616_frrlqrokv3t0gnimf345i6t8v4",
