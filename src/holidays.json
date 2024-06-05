@@ -27676,6 +27676,13 @@
       "date": "2024-06-19"
     },
     {
+      "id": "20240624_tdipo3tv3qiflreqfmct4a1uk4",
+      "status": "confirmed",
+      "summary": "Eid al-Ghadeer",
+      "region": "Iraq",
+      "date": "2024-06-24"
+    },
+    {
       "id": "20240707_0kiihsmf2c8c7tme9tato11oe0",
       "status": "confirmed",
       "summary": "Islamic New Year",
@@ -27821,6 +27828,13 @@
       "summary": "Eid al-Adha holiday",
       "region": "Iraq",
       "date": "2025-06-09"
+    },
+    {
+      "id": "20250614_2n01758oc730pvvugbqd3pu8f8",
+      "status": "confirmed",
+      "summary": "Eid al-Ghadeer",
+      "region": "Iraq",
+      "date": "2025-06-14"
     },
     {
       "id": "20250626_ngrapsr8np1m6rfamqaea9vfao",
@@ -39702,13 +39716,6 @@
       "date": "2024-07-20"
     },
     {
-      "id": "20240722_lngvi0978jehhu29nflaqru3s4",
-      "status": "confirmed",
-      "summary": "Day off for Full Moon Day of Waso (Beginning of Buddhist Lent)",
-      "region": "Myanmar (Burma)",
-      "date": "2024-07-22"
-    },
-    {
       "id": "20241016_tvhlvfeqijt5c4bd40abcf6ouk",
       "status": "confirmed",
       "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
@@ -39737,25 +39744,18 @@
       "date": "2024-11-01"
     },
     {
-      "id": "20241115_1ka6u349rfefco1p1ms4mpe814",
+      "id": "20241115_out93ib2a01e071q359d4f66i0",
       "status": "confirmed",
-      "summary": "Full Moon Day of Tazaungmone Holiday",
+      "summary": "Full Moon Day of Tazaungmone",
       "region": "Myanmar (Burma)",
       "date": "2024-11-15"
     },
     {
-      "id": "20241116_0ckvo7bjt7q69p5cvicddkgmoo",
-      "status": "confirmed",
-      "summary": "Full Moon Day of Tazaungmone",
-      "region": "Myanmar (Burma)",
-      "date": "2024-11-16"
-    },
-    {
-      "id": "20241209_5j9jhedcljdn2eqibk5rgpl0qs",
+      "id": "20241125_n49veptggqg8cb2k9jlg0glsp0",
       "status": "confirmed",
       "summary": "National Day",
       "region": "Myanmar (Burma)",
-      "date": "2024-12-09"
+      "date": "2024-11-25"
     },
     {
       "id": "20241225_39gvs7344b9ksj0qcqpc8q9vk4",
