@@ -11674,6 +11674,13 @@
       "date": "2024-01-06"
     },
     {
+      "id": "20240208_feq2ab0v7g2oudev0d1pdv2g0c",
+      "status": "confirmed",
+      "summary": "Carnival Thursday (Schwyz)",
+      "region": "Switzerland",
+      "date": "2024-02-08"
+    },
+    {
       "id": "20240214_4boe40pmpdlcfge0upvaf51g68",
       "status": "confirmed",
       "summary": "Valentine's Day",
@@ -11681,9 +11688,9 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240301_br3g5f9aasv78cvmgo56o1b8us",
+      "id": "20240301_d410bfqqt1fg0h36iivlq1cf4c",
       "status": "confirmed",
-      "summary": "Republic Day (Neuchâtel)",
+      "summary": "Neuchâtel Republic Day (Neuchâtel)",
       "region": "Switzerland",
       "date": "2024-03-01"
     },
@@ -11744,7 +11751,7 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240501_jsske1fbm4jvga2nobh0cfveqc",
+      "id": "20240501_usup7ae954400mn4h7csqc4q0s",
       "status": "confirmed",
       "summary": "May Day (Half-Day) (regional holiday)",
       "region": "Switzerland",
@@ -11898,9 +11905,9 @@
       "date": "2024-12-08"
     },
     {
-      "id": "20241224_4grdv0e6vo9lalr9agmo68u9u4",
+      "id": "20241224_hf7adr11pvpioff11aml6bgdak",
       "status": "confirmed",
-      "summary": "Christmas Eve",
+      "summary": "Christmas Eve (Schwyz)",
       "region": "Switzerland",
       "date": "2024-12-24"
     },
@@ -11919,16 +11926,16 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_74g6grv16ffjd3r6c26gm2kh48",
+      "id": "20241231_1ki5pgmdbotq6acpabgfhhg0i4",
       "status": "confirmed",
-      "summary": "New Year's Eve",
+      "summary": "Restoration of the Republic (Geneva)",
       "region": "Switzerland",
       "date": "2024-12-31"
     },
     {
-      "id": "20241231_9vmqtpmsdvjbfj2j5po85ve3rg",
+      "id": "20241231_n213v3g6c7t87g9bcm7sf1bsqk",
       "status": "confirmed",
-      "summary": "Restoration Day (Geneva)",
+      "summary": "New Year's Eve (Schwyz)",
       "region": "Switzerland",
       "date": "2024-12-31"
     },
@@ -11961,9 +11968,16 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_usbvr9h1hc92clud4nojamjo9g",
+      "id": "20250227_4oui5dt0rsm39en9taqtuvhtrc",
       "status": "confirmed",
-      "summary": "Republic Day (Neuchâtel)",
+      "summary": "Carnival Thursday (Schwyz)",
+      "region": "Switzerland",
+      "date": "2025-02-27"
+    },
+    {
+      "id": "20250301_7sl01viujn7crub6bmm4pg7vlo",
+      "status": "confirmed",
+      "summary": "Neuchâtel Republic Day (Neuchâtel)",
       "region": "Switzerland",
       "date": "2025-03-01"
     },
@@ -12017,16 +12031,16 @@
       "date": "2025-04-28"
     },
     {
-      "id": "20250501_hkhi10uivtlpl48ir5k8f376do",
+      "id": "20250501_bam8r6fa523v1amhs1ah04evao",
       "status": "confirmed",
-      "summary": "May Day (regional holiday)",
+      "summary": "May Day (Half-Day) (regional holiday)",
       "region": "Switzerland",
       "date": "2025-05-01"
     },
     {
-      "id": "20250501_mf9cn2h1un6683a3liq8jb7j90",
+      "id": "20250501_hkhi10uivtlpl48ir5k8f376do",
       "status": "confirmed",
-      "summary": "May Day (Half-Day) (regional holiday)",
+      "summary": "May Day (regional holiday)",
       "region": "Switzerland",
       "date": "2025-05-01"
     },
@@ -12178,9 +12192,9 @@
       "date": "2025-12-08"
     },
     {
-      "id": "20251224_kngeebf1il8qvo0k442jalqpi0",
+      "id": "20251224_2ft8psk72usgut10phtl40n49c",
       "status": "confirmed",
-      "summary": "Christmas Eve",
+      "summary": "Christmas Eve (Schwyz)",
       "region": "Switzerland",
       "date": "2025-12-24"
     },
@@ -12199,16 +12213,16 @@
       "date": "2025-12-26"
     },
     {
-      "id": "20251231_eks9ftq06r1o0j9qrdnpcaaibo",
+      "id": "20251231_gp4khqf2fjs6kom2pnjfu55l0k",
       "status": "confirmed",
-      "summary": "New Year's Eve",
+      "summary": "New Year's Eve (Schwyz)",
       "region": "Switzerland",
       "date": "2025-12-31"
     },
     {
-      "id": "20251231_s7tnsq2d7c571t330miolddh8c",
+      "id": "20251231_iddrkqb4sgelsf5f6s5ks21tn4",
       "status": "confirmed",
-      "summary": "Restoration Day (Geneva)",
+      "summary": "Restoration of the Republic (Geneva)",
       "region": "Switzerland",
       "date": "2025-12-31"
     }
@@ -23681,6 +23695,13 @@
       "date": "2024-01-23"
     },
     {
+      "id": "20240308_ajctvl07p4h0ft5nflggesf0pk",
+      "status": "confirmed",
+      "summary": "International Women's Day",
+      "region": "Equatorial Guinea",
+      "date": "2024-03-08"
+    },
+    {
       "id": "20240328_ddapousesif7l7nb8v8t7vtrvo",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -23784,6 +23805,13 @@
       "summary": "New Year's Day",
       "region": "Equatorial Guinea",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250308_af9m5qjt1ea7mcid4uoesqjr5c",
+      "status": "confirmed",
+      "summary": "International Women's Day",
+      "region": "Equatorial Guinea",
+      "date": "2025-03-08"
     },
     {
       "id": "20250417_tkqu931mh9cet6n8rg2gm23qdg",
@@ -31538,9 +31566,37 @@
       "date": "2024-04-01"
     },
     {
+      "id": "20240408_rddr0rtur6n7e8ed2d8uttjcfk",
+      "status": "confirmed",
+      "summary": "National Health Day",
+      "region": "Kiribati",
+      "date": "2024-04-08"
+    },
+    {
+      "id": "20240503_c35jsgcpbns2d7u5m9c89sk49o",
+      "status": "confirmed",
+      "summary": "Labor Day / May Day",
+      "region": "Kiribati",
+      "date": "2024-05-03"
+    },
+    {
+      "id": "20240621_4fph3a8hldupe02i4v1cfji09s",
+      "status": "confirmed",
+      "summary": "Police National Day",
+      "region": "Kiribati",
+      "date": "2024-06-21"
+    },
+    {
       "id": "20240711_3ek41a880v3vh98rfp5g5ueg44",
       "status": "confirmed",
       "summary": "Independence Day Holiday",
+      "region": "Kiribati",
+      "date": "2024-07-11"
+    },
+    {
+      "id": "20240711_vplo3qotti4nk89ntming64n4s",
+      "status": "confirmed",
+      "summary": "Gospel Day",
       "region": "Kiribati",
       "date": "2024-07-11"
     },
@@ -31550,6 +31606,13 @@
       "summary": "Independence Day",
       "region": "Kiribati",
       "date": "2024-07-12"
+    },
+    {
+      "id": "20240713_5cbbn27ncv7hpcndnrf64ogv80",
+      "status": "confirmed",
+      "summary": "National Culture and Senior Citizen Day",
+      "region": "Kiribati",
+      "date": "2024-07-13"
     },
     {
       "id": "20240715_vvq1mrvoiuva94bc1ftepq9oos",
@@ -31573,11 +31636,18 @@
       "date": "2024-08-05"
     },
     {
-      "id": "20241211_gkrq8f1h779letmkna4sdo5i2g",
+      "id": "20241007_0vsobk2f0uo98velcahqbpe2j8",
+      "status": "confirmed",
+      "summary": "World Teachers' Day",
+      "region": "Kiribati",
+      "date": "2024-10-07"
+    },
+    {
+      "id": "20241209_qi9b5v21h95cn3p1pu1g42fgvc",
       "status": "confirmed",
       "summary": "Human Rights and Peace Day",
       "region": "Kiribati",
-      "date": "2024-12-11"
+      "date": "2024-12-09"
     },
     {
       "id": "20241225_id3bvrtp1v83v24ksba41lsh50",
@@ -31620,6 +31690,13 @@
       "summary": "Easter Monday",
       "region": "Kiribati",
       "date": "2025-04-21"
+    },
+    {
+      "id": "20250501_0g72mr4robif1c2vghhdmuksq4",
+      "status": "confirmed",
+      "summary": "Labor Day / May Day",
+      "region": "Kiribati",
+      "date": "2025-05-01"
     },
     {
       "id": "20250711_gv7ocp6mtqkh1kfpclke4o7h14",
@@ -33710,6 +33787,13 @@
       "summary": "Ashoura",
       "region": "Lebanon",
       "date": "2024-07-17"
+    },
+    {
+      "id": "20240804_jn1rmmu31d4j6ukb9vd03fega4",
+      "status": "confirmed",
+      "summary": "National Day of Mourning",
+      "region": "Lebanon",
+      "date": "2024-08-04"
     },
     {
       "id": "20240815_i91e14rvc8npnohmt1opketsmk",
