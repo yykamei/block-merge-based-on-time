@@ -20994,6 +20994,13 @@
       "date": "2024-05-12"
     },
     {
+      "id": "20240517_7bh032cv0j24ttkqloqdshjk28",
+      "status": "confirmed",
+      "summary": "Day of Family Purity And Respect for Parents",
+      "region": "Georgia",
+      "date": "2024-05-17"
+    },
+    {
       "id": "20240526_85ssr1193tv8p0g792rgatfm04",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -21139,6 +21146,13 @@
       "summary": "St Andrew's Day",
       "region": "Georgia",
       "date": "2025-05-12"
+    },
+    {
+      "id": "20250517_l6h50nu7s48cjnnhf2stbombhg",
+      "status": "confirmed",
+      "summary": "Day of Family Purity And Respect for Parents",
+      "region": "Georgia",
+      "date": "2025-05-17"
     },
     {
       "id": "20250526_7v1q2pd383ldab0gesnar67o4g",
@@ -30762,9 +30776,9 @@
       "date": "2024-04-10"
     },
     {
-      "id": "20240501_odkgop94vtou70hu11lg3k3kdk",
+      "id": "20240501_rh7hi71k81pilaqdtjrbojf988",
       "status": "confirmed",
-      "summary": "Labour Day/May Day",
+      "summary": "Labour Day",
       "region": "Kenya",
       "date": "2024-05-01"
     },
@@ -30902,9 +30916,9 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250501_8snr6g09pofg0ns5je117ipjgo",
+      "id": "20250501_dcat7h5lddee23peaog47bvkt0",
       "status": "confirmed",
-      "summary": "Labour Day/May Day",
+      "summary": "Labour Day",
       "region": "Kenya",
       "date": "2025-05-01"
     },
@@ -60980,9 +60994,9 @@
       "date": "2024-04-26"
     },
     {
-      "id": "20240501_jb77jbi7s7mvgevdpop4a52k30",
+      "id": "20240501_5s0t4bro91pkmniasofudoq3d0",
       "status": "confirmed",
-      "summary": "Worker's Day",
+      "summary": "Labour Day",
       "region": "Tanzania",
       "date": "2024-05-01"
     },
@@ -60992,6 +61006,13 @@
       "summary": "Mothers' Day",
       "region": "Tanzania",
       "date": "2024-05-12"
+    },
+    {
+      "id": "20240616_qvbjlh4k17aa86hc2pfiuuaa8g",
+      "status": "confirmed",
+      "summary": "Fathers' Day",
+      "region": "Tanzania",
+      "date": "2024-06-16"
     },
     {
       "id": "20240617_g2o0clmbebbql0eif5svpetu9s",
@@ -61029,9 +61050,9 @@
       "date": "2024-10-14"
     },
     {
-      "id": "20241209_jf8oqu4ilbvsnd78sfruaesaa0",
+      "id": "20241209_hplfbodqa9grfte9ripq5cm9b4",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Republic Day",
       "region": "Tanzania",
       "date": "2024-12-09"
     },
@@ -61127,9 +61148,9 @@
       "date": "2025-04-26"
     },
     {
-      "id": "20250501_4vje28281pit3imoftdmoh3o9k",
+      "id": "20250501_jh4bbn6brl7bdu967b5igg6llo",
       "status": "confirmed",
-      "summary": "Worker's Day",
+      "summary": "Labour Day",
       "region": "Tanzania",
       "date": "2025-05-01"
     },
@@ -61146,6 +61167,13 @@
       "summary": "Eid al-Adha",
       "region": "Tanzania",
       "date": "2025-06-07"
+    },
+    {
+      "id": "20250615_ju6b70ma7743563aefd2816kks",
+      "status": "confirmed",
+      "summary": "Fathers' Day",
+      "region": "Tanzania",
+      "date": "2025-06-15"
     },
     {
       "id": "20250707_q6icuu4ov4hgiod0o4n9hpfiuk",
@@ -61176,9 +61204,9 @@
       "date": "2025-10-14"
     },
     {
-      "id": "20251209_b763msb81ng3pl24h0pporbl3s",
+      "id": "20251209_fp2oehjhdjv1bqaqkm5gt18n7c",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Republic Day",
       "region": "Tanzania",
       "date": "2025-12-09"
     },
@@ -64982,9 +65010,9 @@
       "date": "2024-02-21"
     },
     {
-      "id": "20240305_d4p69motreo32qt49pckn1nph8",
+      "id": "20240305_l9fd82pljti6rjbc6k626qkp1c",
       "status": "confirmed",
-      "summary": "Custom Chief's Day",
+      "summary": "Custom Chiefs' Day",
       "region": "Vanuatu",
       "date": "2024-03-05"
     },
@@ -65087,9 +65115,9 @@
       "date": "2025-02-21"
     },
     {
-      "id": "20250305_hml1vshbnaeke55jgfrea0bru8",
+      "id": "20250305_0a9pjjtoajvu75vs7373lh5ijo",
       "status": "confirmed",
-      "summary": "Custom Chief's Day",
+      "summary": "Custom Chiefs' Day",
       "region": "Vanuatu",
       "date": "2025-03-05"
     },
