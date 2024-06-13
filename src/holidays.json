@@ -22798,13 +22798,6 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240106_lphfgdsd42jjauf388u6hos4v4",
-      "status": "confirmed",
-      "summary": "Epiphany",
-      "region": "Greenland",
-      "date": "2024-01-06"
-    },
-    {
       "id": "20240328_ctbjv05k65lqvh97v4ak27qg5c",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -22868,7 +22861,7 @@
       "date": "2024-10-27"
     },
     {
-      "id": "20241224_pheh403t93e30g609qipbnmb5k",
+      "id": "20241224_bpkab1skmh3okj4l2rv80cav0o",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Greenland",
@@ -22901,13 +22894,6 @@
       "summary": "New Year",
       "region": "Greenland",
       "date": "2025-01-01"
-    },
-    {
-      "id": "20250106_6t3fkp7sfhmegm5cmffo45vtr4",
-      "status": "confirmed",
-      "summary": "Epiphany",
-      "region": "Greenland",
-      "date": "2025-01-06"
     },
     {
       "id": "20250329_g9vjcndrt4jsmp1vtteu6fqsag",
@@ -22973,7 +22959,7 @@
       "date": "2025-10-26"
     },
     {
-      "id": "20251224_lvnjq6r58vuusc1dj1li3mrir0",
+      "id": "20251224_1cq9n00spd7be5v6vkpga51ug0",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Greenland",
@@ -45554,6 +45540,13 @@
       "date": "2024-04-13"
     },
     {
+      "id": "20240616_s107q0kulljaaadm9is0ae4mig",
+      "status": "confirmed",
+      "summary": "Day of Arafah",
+      "region": "Oman",
+      "date": "2024-06-16"
+    },
+    {
       "id": "20240617_lpmdn3g5leb5cet62c4mlqha34",
       "status": "confirmed",
       "summary": "Eid al-Adha",
@@ -58027,11 +58020,11 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240617_9sg1ighrl3u09tc4lbvgt7tge8",
+      "id": "20240616_oibbn3gpf662oj657r8p75g5sk",
       "status": "confirmed",
       "summary": "Tabaski",
       "region": "Togo",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240621_4mkh90skf2b89j5a9amlif3l2g",
