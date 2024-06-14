@@ -13469,11 +13469,11 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240617_umd4g6s439qj3o71mnv071f69c",
+      "id": "20240616_n7nfajl1gdqkbvb0arc4g6ilm8",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Cameroon",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240815_lq4nadnqij4hl83me97rqkslk8",
@@ -18389,35 +18389,42 @@
       "date": "2024-05-06"
     },
     {
-      "id": "20240616_mg3vi7koo080eqsk7rp4pgv7rg",
+      "id": "20240615_immlkc5937l2i9v0onnin88ug4",
       "status": "confirmed",
       "summary": "Arafat Day",
+      "region": "Egypt",
+      "date": "2024-06-15"
+    },
+    {
+      "id": "20240616_0d936qj7md17fb6tsc3kdhckfc",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Egypt",
       "date": "2024-06-16"
     },
     {
-      "id": "20240617_h7hg4dkfebkm7eqbbdm85k2cbs",
+      "id": "20240617_ooljcqoor7cm9ub8hl8qeic410",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
       "date": "2024-06-17"
     },
     {
-      "id": "20240618_tedlndjfc2svbt7sultgnjqo0s",
+      "id": "20240618_7d7j6d7pdmjm2jdhnorm8ukbho",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
       "date": "2024-06-18"
     },
     {
-      "id": "20240619_1rfmkust91r8bf3k6u11s7mpsg",
+      "id": "20240619_oi4up13r0qp80dfggtv53a202g",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
       "date": "2024-06-19"
     },
     {
-      "id": "20240620_p32iao3booj671hrug9ld6gmd0",
+      "id": "20240620_de5jrriig2p4q0ltbtegd8vckc",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
@@ -42953,6 +42960,13 @@
       "date": "2025-05-26"
     },
     {
+      "id": "20250528_f9m86ahk4t9nfgj6vsqfpmi05s",
+      "status": "confirmed",
+      "summary": "Genocide Remembrance Day",
+      "region": "Namibia",
+      "date": "2025-05-28"
+    },
+    {
       "id": "20250529_cl6mdjsng8nunobnmddp8m2f6k",
       "status": "confirmed",
       "summary": "Ascension Day",
@@ -49423,25 +49437,39 @@
       "date": "2024-04-12"
     },
     {
-      "id": "20240617_aqnq72123q3t1busciqho4uha4",
+      "id": "20240616_pui0nm4h57p1ucofdgb74kimfg",
       "status": "confirmed",
       "summary": "Eid al-Adha (Feast of Sacrifice)",
+      "region": "Qatar",
+      "date": "2024-06-16"
+    },
+    {
+      "id": "20240617_qk8h7ph6o2dg4qflmqulu4gads",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Qatar",
       "date": "2024-06-17"
     },
     {
-      "id": "20240618_6tps3s8qd3efrdb3ou5e7vk194",
+      "id": "20240618_90g63jk0sv5iaichdpvd46a6hk",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Qatar",
       "date": "2024-06-18"
     },
     {
-      "id": "20240619_3gji04atkapo5atppq91qhha4s",
+      "id": "20240619_66092plmn41rkj2v1m7kh04nas",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
+      "summary": "Eid al-Adha Public Sector Holiday",
       "region": "Qatar",
       "date": "2024-06-19"
+    },
+    {
+      "id": "20240620_ouvtbaa1tatkrotasuvroemm5k",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Public Sector Holiday",
+      "region": "Qatar",
+      "date": "2024-06-20"
     },
     {
       "id": "20241218_q8tom2ane4c8iho2j2ljsnnmjc",
@@ -50917,11 +50945,11 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240617_92houi4hfn3369hi0h9gvdkl40",
+      "id": "20240616_5dkdi0l48rh9904hbfgtjkt8ko",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Rwanda",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240701_2utrqbfqsad2l4vh5gptsj7ctk",
