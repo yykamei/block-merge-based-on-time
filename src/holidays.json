@@ -2551,11 +2551,11 @@
       "date": "2024-05-25"
     },
     {
-      "id": "20240617_1tbacujjnlbt8dmtbs6kodbig0",
+      "id": "20240616_84kpv9mk80ovfdmapbo26ckiig",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Argentina",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240617_tols3dkuh09plb8llfa36eotnc",
@@ -6845,11 +6845,11 @@
       "date": "2024-06-08"
     },
     {
-      "id": "20240617_h7qd76cjrfq0bh6snuaqm680oo",
+      "id": "20240616_gu5h29f4havurfu9qcnljep144",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Burundi",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240701_vvc6ho8vsve9insv8bvlpcudl0",
@@ -16562,25 +16562,25 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240616_hajsfloqgvnurlse78cht5e58k",
+      "id": "20240615_kn33tu8v1vcdmtbt4jdtcuch84",
       "status": "confirmed",
       "summary": "Arafat Day",
+      "region": "Djibouti",
+      "date": "2024-06-15"
+    },
+    {
+      "id": "20240616_ohir026fthj5drjfelh0h1lkto",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Djibouti",
       "date": "2024-06-16"
     },
     {
-      "id": "20240617_s4ukjmlubvl768e4rev0qn2384",
-      "status": "confirmed",
-      "summary": "Eid al-Adha",
-      "region": "Djibouti",
-      "date": "2024-06-17"
-    },
-    {
-      "id": "20240618_qnqu6nu3r2gfg5l4grr3icmhr8",
+      "id": "20240617_uqrj4d6ueavuuc2e2rjgr9v1mo",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Djibouti",
-      "date": "2024-06-18"
+      "date": "2024-06-17"
     },
     {
       "id": "20240627_fjei1g9aob7oqmlihqdjufd2cg",
@@ -18790,11 +18790,11 @@
       "date": "2024-05-24"
     },
     {
-      "id": "20240617_c6i7nmge8q22g4kgs6kteumjko",
+      "id": "20240616_unc1qoq7f5rkg95nvq7rivd00c",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Eritrea",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240620_tcrit7h2kplfpepboc69e71g3s",
@@ -20528,11 +20528,11 @@
       "date": "2024-06-16"
     },
     {
-      "id": "20240617_vnog28v9tsrn4i4bttjpile3g4",
+      "id": "20240616_ov6f8tfqqs0017olla2lbjeupg",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Gabon",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240815_asl4n5tu3pfcb0cosuj168bots",
@@ -24767,9 +24767,16 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240617_7n4jmh6frmmsvrm80bk8bj0bkk",
+      "id": "20240616_btt6ov0noe1mer7tth33nilca8",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Guinea-Bissau",
+      "date": "2024-06-16"
+    },
+    {
+      "id": "20240617_57q5figp5md2fhdk2rshr3qum4",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Adha",
       "region": "Guinea-Bissau",
       "date": "2024-06-17"
     },
@@ -30853,9 +30860,16 @@
       "date": "2024-06-01"
     },
     {
-      "id": "20240617_nmplkeidqjro1189orpqs83gic",
+      "id": "20240616_8pcbbku85ikomg37vekvacbgms",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Kenya",
+      "date": "2024-06-16"
+    },
+    {
+      "id": "20240617_cqukds6hqn4i719gibkafjb37c",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Adha",
       "region": "Kenya",
       "date": "2024-06-17"
     },
@@ -31191,11 +31205,11 @@
       "date": "2024-05-09"
     },
     {
-      "id": "20240617_lc67mc7kggtp6k3h1ql8ov8m7o",
+      "id": "20240616_np99rdenni4sja7ujrbfoq0664",
       "status": "confirmed",
       "summary": "Kurman Ait",
       "region": "Kyrgyzstan",
-      "date": "2024-06-17"
+      "date": "2024-06-16"
     },
     {
       "id": "20240831_7eigrsvnadtf56qbvk44lpsrqk",
@@ -33824,14 +33838,21 @@
       "date": "2024-05-25"
     },
     {
-      "id": "20240617_po16i5qogemoqt2turc8afi4k8",
+      "id": "20240616_u2vb21sjsoflbutd964fc31ulk",
       "status": "confirmed",
       "summary": "Eid al-Adha",
+      "region": "Lebanon",
+      "date": "2024-06-16"
+    },
+    {
+      "id": "20240617_t6uprn3g8ad6qdpn8f6plt36to",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Lebanon",
       "date": "2024-06-17"
     },
     {
-      "id": "20240618_hok84juoam7tspf27aadp6q3so",
+      "id": "20240618_pnaaof8g5geg5h69h574upkr9o",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Lebanon",
@@ -59400,16 +59421,16 @@
       "date": "2024-06-12"
     },
     {
-      "id": "20240616_4dhqav2nccg4ct9gcijb5l0ve4",
+      "id": "20240616_gc91qtl20qtir0vh2aoheon1j0",
       "status": "confirmed",
-      "summary": "Kurban Bayramy Holiday",
+      "summary": "Kurban Bayramy",
       "region": "Turkmenistan",
       "date": "2024-06-16"
     },
     {
-      "id": "20240617_t3fjrnpoc8crl8vohh7hfb4064",
+      "id": "20240617_369uqvmn2n94oqh0i04jccgho4",
       "status": "confirmed",
-      "summary": "Kurban Bayramy",
+      "summary": "Kurban Bayramy Holiday",
       "region": "Turkmenistan",
       "date": "2024-06-17"
     },
@@ -59419,6 +59440,13 @@
       "summary": "Kurban Bayramy Holiday",
       "region": "Turkmenistan",
       "date": "2024-06-18"
+    },
+    {
+      "id": "20240619_5bbjbjifddb9bbf5jn9cjccrfs",
+      "status": "confirmed",
+      "summary": "Day off for Kurban Bayramy",
+      "region": "Turkmenistan",
+      "date": "2024-06-19"
     },
     {
       "id": "20240626_2vn114hm02k0hsehmqhlp85r30",
@@ -66110,39 +66138,32 @@
       "date": "2024-05-22"
     },
     {
-      "id": "20240616_ir2nipqqgq9e8b6nuephjhfiv4",
+      "id": "20240615_e7lmcgk1knasdkm4i5dv43c260",
       "status": "confirmed",
       "summary": "Eid al-Adha Eve",
+      "region": "Yemen",
+      "date": "2024-06-15"
+    },
+    {
+      "id": "20240616_spv9rs0ont9kgcr5vfmdu808t4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Yemen",
       "date": "2024-06-16"
     },
     {
-      "id": "20240617_9brmdp6p9g3l1fhhlplvb5gim4",
+      "id": "20240617_lc0qfsm1294gvdn9sqqi3jch78",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha holiday",
       "region": "Yemen",
       "date": "2024-06-17"
     },
     {
-      "id": "20240618_f4h7tch7dklcisisfgd0bn8fvk",
+      "id": "20240618_fm26i9hi23hm8avu7dmevgei00",
       "status": "confirmed",
       "summary": "Eid al-Adha holiday",
       "region": "Yemen",
       "date": "2024-06-18"
-    },
-    {
-      "id": "20240619_0fpf5e0dn9rbp8drect1qf5i6o",
-      "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
-      "region": "Yemen",
-      "date": "2024-06-19"
-    },
-    {
-      "id": "20240620_9tvln71v481r7l3dirvhsftok4",
-      "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
-      "region": "Yemen",
-      "date": "2024-06-20"
     },
     {
       "id": "20240707_haapc75rphs7igeml7sc6rplo4",
