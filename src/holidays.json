@@ -1383,6 +1383,13 @@
       "date": "2024-10-31"
     },
     {
+      "id": "20241122_vt27akpmnsj6ka47jicc2rdkv0",
+      "status": "confirmed",
+      "summary": "Alphabet Day",
+      "region": "Albania",
+      "date": "2024-11-22"
+    },
+    {
       "id": "20241128_seep8276n2mrmds47u73un7ka0",
       "status": "confirmed",
       "summary": "Flag and Independence Day",
@@ -1612,6 +1619,20 @@
       "summary": "Halloween",
       "region": "Albania",
       "date": "2025-10-31"
+    },
+    {
+      "id": "20251122_cm42spppq98t6466010a5m3p4c",
+      "status": "confirmed",
+      "summary": "Alphabet Day",
+      "region": "Albania",
+      "date": "2025-11-22"
+    },
+    {
+      "id": "20251124_dh38f8rhe7fcnnj1erv6pa3594",
+      "status": "confirmed",
+      "summary": "Day off for Alphabet Day",
+      "region": "Albania",
+      "date": "2025-11-24"
     },
     {
       "id": "20251128_j0csptmbi39pe4lqsbm4f8jmh0",
@@ -24364,6 +24385,13 @@
       "date": "2024-05-10"
     },
     {
+      "id": "20240628_gppb8ej4cnt1sbhrntiemdlmcc",
+      "status": "confirmed",
+      "summary": "Bank Employee Day",
+      "region": "Guatemala",
+      "date": "2024-06-28"
+    },
+    {
       "id": "20240630_1t3klbs47n42cipggsf6ualo50",
       "status": "confirmed",
       "summary": "Army Day",
@@ -29520,6 +29548,13 @@
       "summary": "Spring Bank Holiday",
       "region": "Jersey",
       "date": "2024-05-27"
+    },
+    {
+      "id": "20240715_np9r38h4lnopug8et0h7aq3epc",
+      "status": "confirmed",
+      "summary": "Royal Visit Holiday",
+      "region": "Jersey",
+      "date": "2024-07-15"
     },
     {
       "id": "20240826_n9f3erfb8mecsu42jrmjvrbnl8",
@@ -45876,6 +45911,13 @@
       "summary": "Labor Day / May Day",
       "region": "Panama",
       "date": "2024-05-01"
+    },
+    {
+      "id": "20240701_ff430a1mcu2gm20gsc92ngdojg",
+      "status": "confirmed",
+      "summary": "Inauguration of the President-Elect",
+      "region": "Panama",
+      "date": "2024-07-01"
     },
     {
       "id": "20241103_ihbrtp1b8cah7c31na869l5kjc",
