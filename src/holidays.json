@@ -656,6 +656,13 @@
       "date": "2024-06-19"
     },
     {
+      "id": "20240620_mj0d70gnu06cp4f2n29tid4k0o",
+      "status": "confirmed",
+      "summary": "Eid al-Qurban Holiday",
+      "region": "Afghanistan",
+      "date": "2024-06-20"
+    },
+    {
       "id": "20240717_rj5tq37lrgu5iq0csatpociq4c",
       "status": "confirmed",
       "summary": "Ashura",
@@ -1383,6 +1390,13 @@
       "date": "2024-10-31"
     },
     {
+      "id": "20241122_vt27akpmnsj6ka47jicc2rdkv0",
+      "status": "confirmed",
+      "summary": "Alphabet Day",
+      "region": "Albania",
+      "date": "2024-11-22"
+    },
+    {
       "id": "20241128_seep8276n2mrmds47u73un7ka0",
       "status": "confirmed",
       "summary": "Flag and Independence Day",
@@ -1612,6 +1626,20 @@
       "summary": "Halloween",
       "region": "Albania",
       "date": "2025-10-31"
+    },
+    {
+      "id": "20251122_cm42spppq98t6466010a5m3p4c",
+      "status": "confirmed",
+      "summary": "Alphabet Day",
+      "region": "Albania",
+      "date": "2025-11-22"
+    },
+    {
+      "id": "20251124_dh38f8rhe7fcnnj1erv6pa3594",
+      "status": "confirmed",
+      "summary": "Day off for Alphabet Day",
+      "region": "Albania",
+      "date": "2025-11-24"
     },
     {
       "id": "20251128_j0csptmbi39pe4lqsbm4f8jmh0",
@@ -3143,6 +3171,13 @@
       "date": "2024-02-12"
     },
     {
+      "id": "20240212_t40t95v533q0cgvo0getgjefkg",
+      "status": "confirmed",
+      "summary": "Day off for Lunar New Year (Christmas Island)",
+      "region": "Australia",
+      "date": "2024-02-12"
+    },
+    {
       "id": "20240213_rq28la4qih86ei2ihg9gfvqs08",
       "status": "confirmed",
       "summary": "Day off for Lunar New Year Holiday (Day 2) (Christmas Island)",
@@ -3416,7 +3451,7 @@
       "date": "2024-11-11"
     },
     {
-      "id": "20241224_g53av735p3k5353vht9m31pmos",
+      "id": "20241224_t5i9arp4uccd6osfipk6rejchc",
       "status": "confirmed",
       "summary": "Christmas Eve (regional holiday)",
       "region": "Australia",
@@ -3444,7 +3479,7 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_43lg4rlpf45jlj704jj8mlrqb4",
+      "id": "20241231_ap9on8kpuvjc9ve4auilqfhnn8",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -3794,7 +3829,7 @@
       "date": "2025-12-26"
     },
     {
-      "id": "20251231_50jpkkm01bl1sjv52jlhednqmo",
+      "id": "20251231_atojk313rfg1b1cobij06retpc",
       "status": "confirmed",
       "summary": "New Year's Eve (regional holiday)",
       "region": "Australia",
@@ -21612,7 +21647,7 @@
       "date": "2025-04-19"
     },
     {
-      "id": "20250420_98g43an5jd0tp39ka3hnooq014",
+      "id": "20250420_30i9tetjgoki7sk1pqha0pg45c",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -21661,7 +21696,7 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250608_crq2g3g3p1nsh754a5jrs02efg",
+      "id": "20250608_hq9rkop7cihfqaagmbs72gbrac",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -21689,7 +21724,7 @@
       "date": "2025-08-08"
     },
     {
-      "id": "20250815_0d38l0s97bb97g120224gs0ctg",
+      "id": "20250815_91j181kp5ug9qhueiq8si4i1ss",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -24364,6 +24399,13 @@
       "date": "2024-05-10"
     },
     {
+      "id": "20240628_gppb8ej4cnt1sbhrntiemdlmcc",
+      "status": "confirmed",
+      "summary": "Bank Employee Day",
+      "region": "Guatemala",
+      "date": "2024-06-28"
+    },
+    {
       "id": "20240630_1t3klbs47n42cipggsf6ualo50",
       "status": "confirmed",
       "summary": "Army Day",
@@ -26023,6 +26065,20 @@
       "date": "2024-06-16"
     },
     {
+      "id": "20240803_t5u7vnh44p74fl9pk7vdck5p6s",
+      "status": "confirmed",
+      "summary": "Extra Work Day",
+      "region": "Hungary",
+      "date": "2024-08-03"
+    },
+    {
+      "id": "20240819_vavf1uomppl2kcehgg2qitt2bc",
+      "status": "confirmed",
+      "summary": "Hungary National Day Holiday",
+      "region": "Hungary",
+      "date": "2024-08-19"
+    },
+    {
       "id": "20240820_vk63j1sipq26hsvfgpdco8qoo8",
       "status": "confirmed",
       "summary": "Hungary National Day",
@@ -26051,7 +26107,21 @@
       "date": "2024-12-06"
     },
     {
-      "id": "20241224_cfj5iuafhsbru47qirdv3nkv1s",
+      "id": "20241207_is0rbfdrbsljs8ckd5kt32b1tc",
+      "status": "confirmed",
+      "summary": "Extra Work Day",
+      "region": "Hungary",
+      "date": "2024-12-07"
+    },
+    {
+      "id": "20241214_hpdsh83l8l2cle1h2955itbe0s",
+      "status": "confirmed",
+      "summary": "Extra Work Day",
+      "region": "Hungary",
+      "date": "2024-12-14"
+    },
+    {
+      "id": "20241224_7kjbqc8i5iv08pmasm1n8tf8ks",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Hungary",
@@ -26070,6 +26140,13 @@
       "summary": "Second Day of Christmas",
       "region": "Hungary",
       "date": "2024-12-26"
+    },
+    {
+      "id": "20241227_m4vc06pq8tinmhhndm8c3g216k",
+      "status": "confirmed",
+      "summary": "Christmas Holiday",
+      "region": "Hungary",
+      "date": "2024-12-27"
     },
     {
       "id": "20241231_s72ir1utj6qa8fvsebd19afafo",
@@ -26212,16 +26289,9 @@
       "date": "2025-12-13"
     },
     {
-      "id": "20251224_0467ui6h9bbsk2c4v0lcck1e58",
+      "id": "20251224_133fe7rf4hbubdkd9v6nfllosk",
       "status": "confirmed",
       "summary": "Christmas Eve",
-      "region": "Hungary",
-      "date": "2025-12-24"
-    },
-    {
-      "id": "20251224_ocr8v4guiofs6om76b1mn9acq4",
-      "status": "confirmed",
-      "summary": "Christmas Holiday",
       "region": "Hungary",
       "date": "2025-12-24"
     },
@@ -29520,6 +29590,13 @@
       "summary": "Spring Bank Holiday",
       "region": "Jersey",
       "date": "2024-05-27"
+    },
+    {
+      "id": "20240715_np9r38h4lnopug8et0h7aq3epc",
+      "status": "confirmed",
+      "summary": "Royal Visit Holiday",
+      "region": "Jersey",
+      "date": "2024-07-15"
     },
     {
       "id": "20240826_n9f3erfb8mecsu42jrmjvrbnl8",
@@ -39877,6 +39954,13 @@
       "date": "2024-06-17"
     },
     {
+      "id": "20240618_r65u880t9rqscajtkj8bpbab9g",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2024-06-18"
+    },
+    {
       "id": "20240719_3ai3f13807dl8gc2ilfe24ak1s",
       "status": "confirmed",
       "summary": "Martyrs' Day",
@@ -40057,6 +40141,13 @@
       "id": "20240710_dff4cm323e7tolkh50sr1bvvls",
       "status": "confirmed",
       "summary": "Political Flag Day",
+      "region": "Mongolia",
+      "date": "2024-07-10"
+    },
+    {
+      "id": "20240710_e5bpi2qmpvir4qpvp4jo1nhfs0",
+      "status": "confirmed",
+      "summary": "Naadam Holiday (National Day)",
       "region": "Mongolia",
       "date": "2024-07-10"
     },
@@ -44995,11 +45086,11 @@
       "date": "2025-08-19"
     },
     {
-      "id": "20250915_j4paat8noj4pvahi9i69n9jumg",
+      "id": "20250908_aispo4k810k5o3a9jdmtsm8n7o",
       "status": "confirmed",
       "summary": "Election Day",
       "region": "Norway",
-      "date": "2025-09-15"
+      "date": "2025-09-08"
     },
     {
       "id": "20251026_k7hll764d1ro946pcgf4ekip74",
@@ -45687,11 +45778,11 @@
       "date": "2024-06-20"
     },
     {
-      "id": "20240708_23raq0n481r250lf3ssq90p0j0",
+      "id": "20240707_vsg4cg7o718at29rcl72slk94k",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Oman",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_645tf14098q2bgnsdho94l4u1g",
@@ -45876,6 +45967,13 @@
       "summary": "Labor Day / May Day",
       "region": "Panama",
       "date": "2024-05-01"
+    },
+    {
+      "id": "20240701_ff430a1mcu2gm20gsc92ngdojg",
+      "status": "confirmed",
+      "summary": "Inauguration of the President-Elect",
+      "region": "Panama",
+      "date": "2024-07-01"
     },
     {
       "id": "20241103_ihbrtp1b8cah7c31na869l5kjc",
@@ -52350,18 +52448,18 @@
       "date": "2024-05-21"
     },
     {
-      "id": "20240617_9masdelju79nj0esu0hgtv143k",
-      "status": "confirmed",
-      "summary": "King Charles III's Birthday",
-      "region": "St. Helena",
-      "date": "2024-06-17"
-    },
-    {
       "id": "20240826_atqa9pjo60uo5tpd5bfd4qgifc",
       "status": "confirmed",
       "summary": "August Bank Holiday",
       "region": "St. Helena",
       "date": "2024-08-26"
+    },
+    {
+      "id": "20241115_hpj8vdsejdpuc7ikkp50falbh8",
+      "status": "confirmed",
+      "summary": "King Charles III's Birthday",
+      "region": "St. Helena",
+      "date": "2024-11-15"
     },
     {
       "id": "20241225_2t352hlkubc0r08oee4sauedas",
@@ -52418,13 +52516,6 @@
       "summary": "Whit Monday",
       "region": "St. Helena",
       "date": "2025-06-09"
-    },
-    {
-      "id": "20250616_6astd13io9edpg8eh4gg3c8c1k",
-      "status": "confirmed",
-      "summary": "King Charles III's Birthday",
-      "region": "St. Helena",
-      "date": "2025-06-16"
     },
     {
       "id": "20250825_lcf6lcsc5qvljltu4sbjh8ihpc",
@@ -55564,7 +55655,7 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240109_toqlioikj1cn4lm9u8c5os7q2g",
+      "id": "20240109_131oim92ksqeaheeie7fnm2ssg",
       "status": "confirmed",
       "summary": "Peace Agreement Day",
       "region": "South Sudan",
@@ -55592,6 +55683,41 @@
       "date": "2024-03-11"
     },
     {
+      "id": "20240329_ao7d38ejto0c4of4prsi2fk99o",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "South Sudan",
+      "date": "2024-03-29"
+    },
+    {
+      "id": "20240330_5t4pmreiup3cjh2arn4k885ujc",
+      "status": "confirmed",
+      "summary": "Holy Saturday",
+      "region": "South Sudan",
+      "date": "2024-03-30"
+    },
+    {
+      "id": "20240331_abb1kapd08hqkms6r2tvejajj0",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "South Sudan",
+      "date": "2024-03-31"
+    },
+    {
+      "id": "20240401_ugq34clns39na3lvp5rgef176o",
+      "status": "confirmed",
+      "summary": "Easter Monday",
+      "region": "South Sudan",
+      "date": "2024-04-01"
+    },
+    {
+      "id": "20240409_d9nqtdc4dlph62huukql6hd1kc",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "South Sudan",
+      "date": "2024-04-09"
+    },
+    {
       "id": "20240410_hfug5ss464roitc5oaqc3g07g8",
       "status": "confirmed",
       "summary": "Eid al-Fitr",
@@ -55599,11 +55725,25 @@
       "date": "2024-04-10"
     },
     {
+      "id": "20240411_6j3ut36abtsm296gqntn3bhqkg",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "South Sudan",
+      "date": "2024-04-11"
+    },
+    {
       "id": "20240501_dp38qso8seodnu2jkt6lfpl85g",
       "status": "confirmed",
       "summary": "May Day",
       "region": "South Sudan",
       "date": "2024-05-01"
+    },
+    {
+      "id": "20240512_b2t396bpcpol1vtg5bp7n0g3e4",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "South Sudan",
+      "date": "2024-05-12"
     },
     {
       "id": "20240516_qd7vrsibt50uap896p82stg8q8",
@@ -55641,13 +55781,6 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240701_o5v3pjpit2t6bgtg0j4iong1gs",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "South Sudan",
-      "date": "2024-07-01"
-    },
-    {
       "id": "20240709_5b286p5tv3mh7tqloj4tiegsms",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -55662,11 +55795,11 @@
       "date": "2024-07-30"
     },
     {
-      "id": "20241110_bm9e19ni65bl5838gbo28s79cg",
+      "id": "20241224_8v4tjrsre1g7e8mv5gdej4k1r8",
       "status": "confirmed",
-      "summary": "Grandparents' Day",
+      "summary": "Christmas Eve",
       "region": "South Sudan",
-      "date": "2024-11-10"
+      "date": "2024-12-24"
     },
     {
       "id": "20241225_hu5fqo9jfej4ndo47u5cq4go14",
@@ -55674,6 +55807,13 @@
       "summary": "Christmas Day",
       "region": "South Sudan",
       "date": "2024-12-25"
+    },
+    {
+      "id": "20241226_2p64bein05f5qjfk9h6ecvjbmc",
+      "status": "confirmed",
+      "summary": "Second Day of Christmas",
+      "region": "South Sudan",
+      "date": "2024-12-26"
     },
     {
       "id": "20241228_t7ecqe0c3hf65qsq3usts5bpd8",
@@ -55697,7 +55837,7 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250109_f6flbgn1pd1aefejfrot12u0ps",
+      "id": "20250109_93ftvq7h9rite8mkfo7o7nun2o",
       "status": "confirmed",
       "summary": "Peace Agreement Day",
       "region": "South Sudan",
@@ -55732,11 +55872,46 @@
       "date": "2025-03-31"
     },
     {
+      "id": "20250418_3bcsd2mhjirfodg6lsoqjipi2k",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "South Sudan",
+      "date": "2025-04-18"
+    },
+    {
+      "id": "20250419_oorvjid76n5vp0bpsuc709culk",
+      "status": "confirmed",
+      "summary": "Holy Saturday",
+      "region": "South Sudan",
+      "date": "2025-04-19"
+    },
+    {
+      "id": "20250420_m0m83jbug2t0hgrpvivl034et8",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "South Sudan",
+      "date": "2025-04-20"
+    },
+    {
+      "id": "20250421_51i9q502g6mh0ak6brm2b5j3d8",
+      "status": "confirmed",
+      "summary": "Easter Monday",
+      "region": "South Sudan",
+      "date": "2025-04-21"
+    },
+    {
       "id": "20250501_gajk85oj6th1nipe0gohgrb7bc",
       "status": "confirmed",
       "summary": "May Day",
       "region": "South Sudan",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250512_c96llou5qhs6gcd3bc2vn8ark4",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "South Sudan",
+      "date": "2025-05-12"
     },
     {
       "id": "20250516_lmchhdsbonh7q9g9j8jvpvefkc",
@@ -55760,13 +55935,6 @@
       "date": "2025-06-10"
     },
     {
-      "id": "20250707_ir983istn12eik2ndfjech4cto",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "South Sudan",
-      "date": "2025-07-07"
-    },
-    {
       "id": "20250709_23obgn1h3158opuk13ehil8dlc",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -55781,11 +55949,11 @@
       "date": "2025-07-30"
     },
     {
-      "id": "20251109_vd3tn6hk4ekufg579bkup3f7hc",
+      "id": "20251224_7lphuctf9a2aqunhme343n2m7o",
       "status": "confirmed",
-      "summary": "Grandparents' Day",
+      "summary": "Christmas Eve",
       "region": "South Sudan",
-      "date": "2025-11-09"
+      "date": "2025-12-24"
     },
     {
       "id": "20251225_pr8lcu29sped4f3mb42r1fkrvk",
@@ -55793,6 +55961,13 @@
       "summary": "Christmas Day",
       "region": "South Sudan",
       "date": "2025-12-25"
+    },
+    {
+      "id": "20251226_4bqg7jieohocaunkfcnvjhqr98",
+      "status": "confirmed",
+      "summary": "Second Day of Christmas",
+      "region": "South Sudan",
+      "date": "2025-12-26"
     },
     {
       "id": "20251228_dqr5psvf665dnmegajko5sieno",
@@ -57538,6 +57713,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250127_go0l9dcrm86m2m4884i0akhb9k",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2025-01-27"
+    },
+    {
       "id": "20250128_8jpttjv6vte72rlrmvqvsu1g6s",
       "status": "confirmed",
       "summary": "Lunar New Year's Eve",
@@ -57587,6 +57769,13 @@
       "date": "2025-02-04"
     },
     {
+      "id": "20250208_5icsbh62sclhf54aff8ob6p0e8",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Taiwan",
+      "date": "2025-02-08"
+    },
+    {
       "id": "20250212_e6nsdnc2qc5j9cbj63m1f6k1l8",
       "status": "confirmed",
       "summary": "Lantern Festival",
@@ -57615,6 +57804,13 @@
       "date": "2025-03-29"
     },
     {
+      "id": "20250403_l084nfo7rba9b8imcvuf7b133g",
+      "status": "confirmed",
+      "summary": "Children's Day/Tomb Sweeping Day Holiday",
+      "region": "Taiwan",
+      "date": "2025-04-03"
+    },
+    {
       "id": "20250404_5g34mr4uujproovdo0gtj2ci10",
       "status": "confirmed",
       "summary": "Children's Day",
@@ -57622,11 +57818,11 @@
       "date": "2025-04-04"
     },
     {
-      "id": "20250405_dki1ncbluqp7b8oia8k9acson8",
+      "id": "20250404_st39ccd6k2gm40k6b7s945g1qs",
       "status": "confirmed",
       "summary": "Tomb Sweeping Day",
       "region": "Taiwan",
-      "date": "2025-04-05"
+      "date": "2025-04-04"
     },
     {
       "id": "20250501_ia10u9vfs27hadmshn35ghte48",
@@ -57634,6 +57830,13 @@
       "summary": "Labor Day",
       "region": "Taiwan",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250530_q260fn89difdj0a6dfeqdrvpo0",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival Holiday",
+      "region": "Taiwan",
+      "date": "2025-05-30"
     },
     {
       "id": "20250531_r8p3b8lodag48ggobc05kk0tt0",
