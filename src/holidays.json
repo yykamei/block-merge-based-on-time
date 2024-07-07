@@ -6668,11 +6668,11 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240708_rmkltud4kn1p52178bb6bq3id8",
+      "id": "20240707_uce7qm195d1qth3ruk3jcgu6bk",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Bahrain",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240717_tlrjeq4q52trp5lobpeo5po1no",
@@ -16632,11 +16632,11 @@
       "date": "2024-06-28"
     },
     {
-      "id": "20240708_fgffiijv7g6vm40pnig1ug45ag",
+      "id": "20240707_kgvqaekutvvph31grk4crqmogg",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Djibouti",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_vu6ker091i6nkr3nl7opqgv88k",
@@ -18508,11 +18508,18 @@
       "date": "2024-06-30"
     },
     {
-      "id": "20240708_l2ivs22rtilk0nhsa28v6us71s",
+      "id": "20240708_2g91vujpcljf0r81apardr8qbk",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Egypt",
       "date": "2024-07-08"
+    },
+    {
+      "id": "20240711_3f1f185eq60leq4bsv7tfmn9e0",
+      "status": "confirmed",
+      "summary": "Day off for Muharram",
+      "region": "Egypt",
+      "date": "2024-07-11"
     },
     {
       "id": "20240717_h7lqhpv0dldm2ikbsodsmdsuc4",
@@ -32603,11 +32610,11 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240708_47s48q00k8mqcr27rlliqp6aks",
+      "id": "20240707_kphoqdgg1qba2aqpvvf6ke1o1o",
       "status": "confirmed",
       "summary": "Islamic New Year",
       "region": "Kuwait",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_bk6ok7vuau9uoj28rdomhvqf1c",
@@ -42401,11 +42408,11 @@
       "date": "2024-06-20"
     },
     {
-      "id": "20240708_3rtupq1dv45ej0eh0hsg2qh5u8",
+      "id": "20240707_u8tq9n9ko1ji0s8fmokku1i5ok",
       "status": "confirmed",
       "summary": "Muharram/Islamic New Year",
       "region": "Maldives",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240726_3r8fff8995r4onh2fpjlbnl63k",
@@ -43489,11 +43496,11 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240708_sf23dp5dsli7mln9egkk0188gs",
+      "id": "20240706_132jhr4pjh0krplq8tc62ls2j4",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Niger",
-      "date": "2024-07-08"
+      "date": "2024-07-06"
     },
     {
       "id": "20240803_cs76d232gbo6pb21si7hpv7nco",
@@ -58687,18 +58694,18 @@
       "date": "2024-05-04"
     },
     {
-      "id": "20240506_cmdks8p1rrsej9rvrv5cfgsf60",
-      "status": "confirmed",
-      "summary": "Royal Ploughing Ceremony Day",
-      "region": "Thailand",
-      "date": "2024-05-06"
-    },
-    {
       "id": "20240506_t9i983m4o3tsoptabc569qq3gk",
       "status": "confirmed",
       "summary": "Day off for Coronation Day",
       "region": "Thailand",
       "date": "2024-05-06"
+    },
+    {
+      "id": "20240510_77tibqtr756g1ekl2ejmcojrlc",
+      "status": "confirmed",
+      "summary": "Royal Ploughing Ceremony Day",
+      "region": "Thailand",
+      "date": "2024-05-10"
     },
     {
       "id": "20240522_q1thlhf1qu118vjvhg2454tt44",
@@ -66411,11 +66418,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240708_rfg6n969d4m5c61q5trg5m0mkg",
+      "id": "20240707_s2ncp4qohtm2nf08e1mlnvfkms",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Yemen",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_evtsc0baihbbv0pek7rqlod30o",
