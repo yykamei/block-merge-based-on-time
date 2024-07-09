@@ -2607,11 +2607,11 @@
       "date": "2024-06-21"
     },
     {
-      "id": "20240708_i8hmls3mfaigl7242q2bi4eao0",
+      "id": "20240707_gnp3atsl7lnoomr668ng4qhg30",
       "status": "confirmed",
       "summary": "Muharram/New Year",
       "region": "Argentina",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240709_i4vmqliegejrfr075gfh8m3jdg",
@@ -6668,11 +6668,11 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240708_rmkltud4kn1p52178bb6bq3id8",
+      "id": "20240707_uce7qm195d1qth3ruk3jcgu6bk",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Bahrain",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240717_tlrjeq4q52trp5lobpeo5po1no",
@@ -8509,7 +8509,7 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240607_dc00qnoohskpguelo3uaimda9g",
+      "id": "20240607_kqofog5i0mn8ojvj9ae9p206do",
       "status": "confirmed",
       "summary": "National Press Freedom Day",
       "region": "Brazil",
@@ -8523,7 +8523,7 @@
       "date": "2024-06-12"
     },
     {
-      "id": "20240725_hjeo0h3ltps5hebl1kvrva1sc8",
+      "id": "20240725_290gkuf04nimdf97iulvu1gv08",
       "status": "confirmed",
       "summary": "Latin and Caribbean Black Women Day",
       "region": "Brazil",
@@ -8565,7 +8565,7 @@
       "date": "2024-10-28"
     },
     {
-      "id": "20241031_h5lei39ck3f3g7d32im6d5of9o",
+      "id": "20241031_8amjhna3tsj2r7u133d3ru6ueg",
       "status": "confirmed",
       "summary": "Saci Day",
       "region": "Brazil",
@@ -8698,7 +8698,7 @@
       "date": "2025-05-11"
     },
     {
-      "id": "20250607_u480qbis4335glp5dcv208ulno",
+      "id": "20250607_r5s0709n35ud6grfqbsq1lafug",
       "status": "confirmed",
       "summary": "National Press Freedom Day",
       "region": "Brazil",
@@ -8719,7 +8719,7 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250725_q840m2rnl5sp49o8tcp4aa1g38",
+      "id": "20250725_2mi4he220m9rmfep28qrnfortc",
       "status": "confirmed",
       "summary": "Latin and Caribbean Black Women Day",
       "region": "Brazil",
@@ -8761,7 +8761,7 @@
       "date": "2025-10-28"
     },
     {
-      "id": "20251031_gh3urahhncqbukltusbbac0mm8",
+      "id": "20251031_73rho1gvl1oggo280q6ugi1fug",
       "status": "confirmed",
       "summary": "Saci Day",
       "region": "Brazil",
@@ -16632,11 +16632,11 @@
       "date": "2024-06-28"
     },
     {
-      "id": "20240708_fgffiijv7g6vm40pnig1ug45ag",
+      "id": "20240707_kgvqaekutvvph31grk4crqmogg",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Djibouti",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_vu6ker091i6nkr3nl7opqgv88k",
@@ -17543,11 +17543,11 @@
       "date": "2024-07-05"
     },
     {
-      "id": "20240708_cha2cektcc19bamh9c3k8lhcvs",
+      "id": "20240707_ml2n2gbfsojenp5qgaqkjdutms",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Algeria",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240717_23sim29j8nsrsr71judcit2p98",
@@ -18508,11 +18508,18 @@
       "date": "2024-06-30"
     },
     {
-      "id": "20240708_l2ivs22rtilk0nhsa28v6us71s",
+      "id": "20240707_jb23sc1n4bmr7tt1r6bhb1gfp4",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Egypt",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
+    },
+    {
+      "id": "20240711_3f1f185eq60leq4bsv7tfmn9e0",
+      "status": "confirmed",
+      "summary": "Day off for Muharram",
+      "region": "Egypt",
+      "date": "2024-07-11"
     },
     {
       "id": "20240717_h7lqhpv0dldm2ikbsodsmdsuc4",
@@ -27865,6 +27872,13 @@
       "date": "2024-07-07"
     },
     {
+      "id": "20240708_taj7ot2nqmmtbqueoi6ankgt7s",
+      "status": "confirmed",
+      "summary": "Islamic New Year",
+      "region": "Iraq",
+      "date": "2024-07-08"
+    },
+    {
       "id": "20240714_i3t6r57n6crvjhsl2u1ujcc74o",
       "status": "confirmed",
       "summary": "Republic Day",
@@ -32603,11 +32617,11 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240708_47s48q00k8mqcr27rlliqp6aks",
+      "id": "20240707_kphoqdgg1qba2aqpvvf6ke1o1o",
       "status": "confirmed",
       "summary": "Islamic New Year",
       "region": "Kuwait",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_bk6ok7vuau9uoj28rdomhvqf1c",
@@ -33943,11 +33957,11 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240708_a4jg5aro3cjqe1bhnggtkn1kd4",
+      "id": "20240707_h38q6jkbsjq5rqo3e7kbmo9qk0",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Lebanon",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240717_7rlro0vkd3ufkkp3elmkv38f6c",
@@ -36054,11 +36068,11 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240708_rmgcm0aqj7u8mah0j1t5ftrl2g",
+      "id": "20240707_o9237iuqmp4rai60msj79tg8js",
       "status": "confirmed",
       "summary": "Hijra New Year",
       "region": "Morocco",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240730_er3eiv31c5g0h8nguknkc5pq7g",
@@ -42401,11 +42415,11 @@
       "date": "2024-06-20"
     },
     {
-      "id": "20240708_3rtupq1dv45ej0eh0hsg2qh5u8",
+      "id": "20240707_u8tq9n9ko1ji0s8fmokku1i5ok",
       "status": "confirmed",
       "summary": "Muharram/Islamic New Year",
       "region": "Maldives",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240726_3r8fff8995r4onh2fpjlbnl63k",
@@ -43489,11 +43503,11 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240708_sf23dp5dsli7mln9egkk0188gs",
+      "id": "20240706_132jhr4pjh0krplq8tc62ls2j4",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Niger",
-      "date": "2024-07-08"
+      "date": "2024-07-06"
     },
     {
       "id": "20240803_cs76d232gbo6pb21si7hpv7nco",
@@ -50922,7 +50936,7 @@
       "date": "2024-06-12"
     },
     {
-      "id": "20241005_5509081nm9u8hurlufdrr2lirc",
+      "id": "20241005_hddjt39ivr8aq0p6g4bgtjqofo",
       "status": "confirmed",
       "summary": "Teacher's Day",
       "region": "Russia",
@@ -51062,7 +51076,7 @@
       "date": "2025-06-13"
     },
     {
-      "id": "20251005_nqiq5d5dvo5mf0eofqdhbjj68o",
+      "id": "20251005_4o90a8qmp6sd5aprpitnekhjkk",
       "status": "confirmed",
       "summary": "Teacher's Day",
       "region": "Russia",
@@ -52264,11 +52278,11 @@
       "date": "2024-06-20"
     },
     {
-      "id": "20240708_hmub51ftklf79ljeu3n5svbgo8",
+      "id": "20240707_8vha6oao6hf3rj5671qo27u58c",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Sudan",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_4easckh2a30moh2tejn368rqvc",
@@ -57142,11 +57156,11 @@
       "date": "2024-06-20"
     },
     {
-      "id": "20240708_rc6592o6iqmg8hlku39qjqe5bs",
+      "id": "20240707_76vu1p60pcmc70g3brdt52lqcc",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Syria",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240801_0ggc089gnpqh5qb2b7r88jnuks",
@@ -58687,18 +58701,18 @@
       "date": "2024-05-04"
     },
     {
-      "id": "20240506_cmdks8p1rrsej9rvrv5cfgsf60",
-      "status": "confirmed",
-      "summary": "Royal Ploughing Ceremony Day",
-      "region": "Thailand",
-      "date": "2024-05-06"
-    },
-    {
       "id": "20240506_t9i983m4o3tsoptabc569qq3gk",
       "status": "confirmed",
       "summary": "Day off for Coronation Day",
       "region": "Thailand",
       "date": "2024-05-06"
+    },
+    {
+      "id": "20240510_77tibqtr756g1ekl2ejmcojrlc",
+      "status": "confirmed",
+      "summary": "Royal Ploughing Ceremony Day",
+      "region": "Thailand",
+      "date": "2024-05-10"
     },
     {
       "id": "20240522_q1thlhf1qu118vjvhg2454tt44",
@@ -66411,11 +66425,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240708_rfg6n969d4m5c61q5trg5m0mkg",
+      "id": "20240707_s2ncp4qohtm2nf08e1mlnvfkms",
       "status": "confirmed",
       "summary": "Muharram",
       "region": "Yemen",
-      "date": "2024-07-08"
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_evtsc0baihbbv0pek7rqlod30o",
