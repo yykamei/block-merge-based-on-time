@@ -3859,9 +3859,9 @@
       "date": "2024-03-24"
     },
     {
-      "id": "20240329_8mqvkvjikabahbo2hk8dfesntk",
+      "id": "20240329_idrmq0bcldhh46e39jkm0s6u54",
       "status": "confirmed",
-      "summary": "Good Friday",
+      "summary": "Good Friday (regional holiday)",
       "region": "Austria",
       "date": "2024-03-29"
     },
@@ -3943,9 +3943,9 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20241012_oiot8i7o3n1goffrk5pqd0phq8",
+      "id": "20241012_4fvtnj5hg6b1rj0hlinr264120",
       "status": "confirmed",
-      "summary": "Yom Kippur",
+      "summary": "Yom Kippur (Vorarlberg)",
       "region": "Austria",
       "date": "2024-10-12"
     },
@@ -4048,9 +4048,9 @@
       "date": "2025-04-13"
     },
     {
-      "id": "20250418_atluspdo4ortrf3oj7ciqpbv00",
+      "id": "20250418_vkcmqu4ujpj68j37l86kmjo884",
       "status": "confirmed",
-      "summary": "Good Friday",
+      "summary": "Good Friday (regional holiday)",
       "region": "Austria",
       "date": "2025-04-18"
     },
@@ -4125,9 +4125,9 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20251002_g6tdq4pph60krrk3lj63ijppq8",
+      "id": "20251002_i8s4gfbu8ms43gb70qm43kjn00",
       "status": "confirmed",
-      "summary": "Yom Kippur",
+      "summary": "Yom Kippur (Vorarlberg)",
       "region": "Austria",
       "date": "2025-10-02"
     },
@@ -6675,18 +6675,18 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240717_tlrjeq4q52trp5lobpeo5po1no",
+      "id": "20240716_lm1kg4ci7843t0fp1hg94bd43g",
       "status": "confirmed",
       "summary": "Ashoora",
       "region": "Bahrain",
-      "date": "2024-07-17"
+      "date": "2024-07-16"
     },
     {
-      "id": "20240718_rdlm05hic566spctgaffmjt5kc",
+      "id": "20240717_rujbdtottsmt64k3lpllm2tq00",
       "status": "confirmed",
       "summary": "Ashoora Holiday",
       "region": "Bahrain",
-      "date": "2024-07-18"
+      "date": "2024-07-17"
     },
     {
       "id": "20240916_7526rva15kj8923jl61f67raog",
@@ -17550,11 +17550,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240717_23sim29j8nsrsr71judcit2p98",
+      "id": "20240716_u535k34fo9q95fu579qsa8be7o",
       "status": "confirmed",
       "summary": "Day of Achura",
       "region": "Algeria",
-      "date": "2024-07-17"
+      "date": "2024-07-16"
     },
     {
       "id": "20240916_7qf924hvl7opiftb84t3a71aig",
@@ -18522,11 +18522,11 @@
       "date": "2024-07-11"
     },
     {
-      "id": "20240717_h7lqhpv0dldm2ikbsodsmdsuc4",
+      "id": "20240716_cdq2ee002kbrn0b85c81pm8mcc",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Egypt",
-      "date": "2024-07-17"
+      "date": "2024-07-16"
     },
     {
       "id": "20240723_89uqm8ctslu3rup25mmef64qhc",
@@ -28084,11 +28084,11 @@
   ],
   "Iran": [
     {
-      "id": "20240125_0hn5kgrlkogh33f6ca774sj1ao",
+      "id": "20240124_9umhm3s7l119r3mjcnvej038bg",
       "status": "confirmed",
       "summary": "Birthday of Imam Ali and Father's Day",
       "region": "Iran",
-      "date": "2024-01-25"
+      "date": "2024-01-24"
     },
     {
       "id": "20240208_4ivs6tclo0reetpflm9ogt0nfo",
@@ -28126,16 +28126,16 @@
       "date": "2024-03-12"
     },
     {
+      "id": "20240319_hjgegc0a7at0fqanlb3lpu95ko",
+      "status": "confirmed",
+      "summary": "Oil Nationalization Day",
+      "region": "Iran",
+      "date": "2024-03-19"
+    },
+    {
       "id": "20240320_ddvjs6ajuv52ci77pq5ndj3is0",
       "status": "confirmed",
       "summary": "Norooz (Persian New Year)",
-      "region": "Iran",
-      "date": "2024-03-20"
-    },
-    {
-      "id": "20240320_pq4ilvddr6fqd9mffh0387l9io",
-      "status": "confirmed",
-      "summary": "Oil Nationalization Day",
       "region": "Iran",
       "date": "2024-03-20"
     },
@@ -28161,18 +28161,18 @@
       "date": "2024-03-23"
     },
     {
+      "id": "20240331_ff8ohid2qekqipi2s63kfcjbhc",
+      "status": "confirmed",
+      "summary": "Martyrdom of Imam Ali",
+      "region": "Iran",
+      "date": "2024-03-31"
+    },
+    {
       "id": "20240331_i2nrgv8rjvlde05gq6s871gtug",
       "status": "confirmed",
       "summary": "Islamic Republic Day",
       "region": "Iran",
       "date": "2024-03-31"
-    },
-    {
-      "id": "20240401_ee6cojq06vsahuhr30pv3g32ig",
-      "status": "confirmed",
-      "summary": "Martyrdom of Imam Ali",
-      "region": "Iran",
-      "date": "2024-04-01"
     },
     {
       "id": "20240410_j13eatbq9tq1qnqqolbr7s89f8",
@@ -28203,18 +28203,18 @@
       "date": "2024-05-22"
     },
     {
-      "id": "20240604_jgcqnqif8cb974gkpqmocg8q68",
+      "id": "20240603_seuevjdl63nard8c5mjlff2i6o",
       "status": "confirmed",
       "summary": "Demise of Imam Khomeini",
       "region": "Iran",
-      "date": "2024-06-04"
+      "date": "2024-06-03"
     },
     {
-      "id": "20240605_p369i0gst1qksjiqqs6jbij6mo",
+      "id": "20240604_10u1m0vujn2gm2tif4k6iifs6c",
       "status": "confirmed",
       "summary": "Khordad National Uprising",
       "region": "Iran",
-      "date": "2024-06-05"
+      "date": "2024-06-04"
     },
     {
       "id": "20240617_rhnum1h54i61s2a97rorhk2an0",
@@ -28320,6 +28320,13 @@
       "summary": "Ramadan Start",
       "region": "Iran",
       "date": "2025-03-01"
+    },
+    {
+      "id": "20250319_t6uj7pc7eoh7fi2bef18o279vs",
+      "status": "confirmed",
+      "summary": "Oil Nationalization Day",
+      "region": "Iran",
+      "date": "2025-03-19"
     },
     {
       "id": "20250321_vhmi9v7jcrbqpls0ru435eu0ko",
@@ -33964,11 +33971,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240717_7rlro0vkd3ufkkp3elmkv38f6c",
+      "id": "20240716_rq2m4usueprct9bmnb0cgma07c",
       "status": "confirmed",
       "summary": "Ashoura",
       "region": "Lebanon",
-      "date": "2024-07-17"
+      "date": "2024-07-16"
     },
     {
       "id": "20240804_jn1rmmu31d4j6ukb9vd03fega4",
