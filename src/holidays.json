@@ -18522,6 +18522,13 @@
       "date": "2024-07-23"
     },
     {
+      "id": "20240725_t1aj50t65lhd2akb350rkeoh48",
+      "status": "confirmed",
+      "summary": "Day off for Revolution Day July 23",
+      "region": "Egypt",
+      "date": "2024-07-25"
+    },
+    {
       "id": "20240815_beaov4k4jccs6n9k524kbb519k",
       "status": "confirmed",
       "summary": "Flooding of the Nile",
@@ -19950,6 +19957,13 @@
       "date": "2024-01-01"
     },
     {
+      "id": "20240324_ru977v83ujn79p0seakat751k4",
+      "status": "confirmed",
+      "summary": "Palm Sunday",
+      "region": "Faroe Islands",
+      "date": "2024-03-24"
+    },
+    {
       "id": "20240328_260der90u1g79uhr15pn1pp5j0",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -20088,6 +20102,13 @@
       "summary": "Daylight Saving Time starts",
       "region": "Faroe Islands",
       "date": "2025-03-30"
+    },
+    {
+      "id": "20250413_ujsbhbmje161cnl6rj4d5mjuqc",
+      "status": "confirmed",
+      "summary": "Palm Sunday",
+      "region": "Faroe Islands",
+      "date": "2025-04-13"
     },
     {
       "id": "20250417_tdgidnompqhj7kaajpuadculhs",
@@ -23164,11 +23185,11 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240717_a9npp0uogld3kr1vg90h0i8tl8",
+      "id": "20240716_to2jr3hdqurjkv3gb8tfb05k44",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Gambia",
-      "date": "2024-07-17"
+      "date": "2024-07-16"
     },
     {
       "id": "20240722_fq431j414f65h87eupmn12ek90",
@@ -51169,6 +51190,20 @@
       "date": "2024-07-04"
     },
     {
+      "id": "20240715_ppo6fntr3t5nudn33v3glmg7cc",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Rwanda",
+      "date": "2024-07-15"
+    },
+    {
+      "id": "20240716_gt5h8fnbnp45srb4oj28e8mf5o",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Rwanda",
+      "date": "2024-07-16"
+    },
+    {
       "id": "20240802_t0gdm8qgnb1lhjppcagjfp0fmc",
       "status": "confirmed",
       "summary": "Umuganura Day",
@@ -54212,11 +54247,11 @@
       "date": "2024-06-26"
     },
     {
-      "id": "20240717_m2kuof5u77chbbhn1nl7vqgoig",
+      "id": "20240716_eocns6libmd8kvf3t8r2cdqnts",
       "status": "confirmed",
       "summary": "Ashura",
       "region": "Somalia",
-      "date": "2024-07-17"
+      "date": "2024-07-16"
     },
     {
       "id": "20240916_h7ntv2effnu8etr4lid413rkn0",
