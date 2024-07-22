@@ -13779,9 +13779,9 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240603_0d78047tdju0tp2abr65h717gs",
+      "id": "20240603_3kucmfu8r0h3ckqaljnh283ppg",
       "status": "confirmed",
-      "summary": "Corpus Christi",
+      "summary": "Corpus Christi Holiday",
       "region": "Colombia",
       "date": "2024-06-03"
     },
@@ -13807,9 +13807,9 @@
       "date": "2024-06-29"
     },
     {
-      "id": "20240701_l5907jv60j6biqaaopd6cg3s6o",
+      "id": "20240701_dgio2jajd9lfdurpefcjhuri1s",
       "status": "confirmed",
-      "summary": "Feast of Saint Peter and Saint Paul",
+      "summary": "Feast of Saint Peter and Saint Paul Holiday",
       "region": "Colombia",
       "date": "2024-07-01"
     },
@@ -13835,9 +13835,9 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240819_65ke7n3cvqkv2lq7sn8cv3kbi0",
+      "id": "20240819_s482j2gmf1fjadkg7tpejne2qo",
       "status": "confirmed",
-      "summary": "Assumption of Mary",
+      "summary": "Assumption of Mary Holiday",
       "region": "Colombia",
       "date": "2024-08-19"
     },
@@ -13856,9 +13856,9 @@
       "date": "2024-10-12"
     },
     {
-      "id": "20241014_htu3hj0niv8s9fo6utea739jn8",
+      "id": "20241014_hp4dfk2delfkc5l2iu5s4bj2ak",
       "status": "confirmed",
-      "summary": "Columbus Day",
+      "summary": "Columbus Day Holiday",
       "region": "Colombia",
       "date": "2024-10-14"
     },
@@ -13877,9 +13877,9 @@
       "date": "2024-11-01"
     },
     {
-      "id": "20241104_lm2fpm7dorl19mcoo9gacr59cg",
+      "id": "20241104_h90ebqigv5scpoq17tmnli9a94",
       "status": "confirmed",
-      "summary": "All Saints' Day",
+      "summary": "All Saints' Day Holiday",
       "region": "Colombia",
       "date": "2024-11-04"
     },
@@ -14066,9 +14066,9 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250623_esa07acj69l1u1p4idmvrindts",
+      "id": "20250623_9lgk3alcgdgnco0qpgkegcciug",
       "status": "confirmed",
-      "summary": "Corpus Christi",
+      "summary": "Corpus Christi Holiday",
       "region": "Colombia",
       "date": "2025-06-23"
     },
@@ -14087,9 +14087,9 @@
       "date": "2025-06-30"
     },
     {
-      "id": "20250630_44n4q38t7ehga68hgjj9p0bjqs",
+      "id": "20250630_qvqhtnh5qrimhvtocepogkhvhk",
       "status": "confirmed",
-      "summary": "Feast of Saint Peter and Saint Paul",
+      "summary": "Feast of Saint Peter and Saint Paul Holiday",
       "region": "Colombia",
       "date": "2025-06-30"
     },
@@ -14115,9 +14115,9 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20250818_jluqgr5t5tki372ofi4s74orf4",
+      "id": "20250818_dj22en11fd2id9iqfj3r24g4mk",
       "status": "confirmed",
-      "summary": "Assumption of Mary",
+      "summary": "Assumption of Mary Holiday",
       "region": "Colombia",
       "date": "2025-08-18"
     },
@@ -14136,9 +14136,9 @@
       "date": "2025-10-12"
     },
     {
-      "id": "20251013_l3ckh9c36j4g6sj8lfmf2fes8c",
+      "id": "20251013_iqagdc4tnl0fjagga6qjkair3k",
       "status": "confirmed",
-      "summary": "Columbus Day",
+      "summary": "Columbus Day Holiday",
       "region": "Colombia",
       "date": "2025-10-13"
     },
@@ -14157,9 +14157,9 @@
       "date": "2025-11-01"
     },
     {
-      "id": "20251103_r5uatf93r4v9c730rfsdoq57vo",
+      "id": "20251103_ut10a5766u0grs28dac94fqorc",
       "status": "confirmed",
-      "summary": "All Saints' Day",
+      "summary": "All Saints' Day Holiday",
       "region": "Colombia",
       "date": "2025-11-03"
     },
@@ -44193,9 +44193,9 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240410_1gi0jk8j5d0setou3rni61ho1g",
+      "id": "20240410_2t8ftutu995fb400fgfhghs2ug",
       "status": "confirmed",
-      "summary": "Id el Fitr",
+      "summary": "Eid El-Fitr",
       "region": "Nigeria",
       "date": "2024-04-10"
     },
@@ -44333,9 +44333,9 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250331_cgmn1cd5jvjpnp5mun9741190c",
+      "id": "20250331_esg1sfl9ukt3nr3aseslj62quo",
       "status": "confirmed",
-      "summary": "Id el Fitr",
+      "summary": "Eid El-Fitr",
       "region": "Nigeria",
       "date": "2025-03-31"
     },
@@ -54727,7 +54727,7 @@
       "date": "2024-03-19"
     },
     {
-      "id": "20240319_rf9pl8gndtuqkjai92pej2q9is",
+      "id": "20240319_mpso4nktppflf0osb3d1dqkkoo",
       "status": "confirmed",
       "summary": "San Jose (regional holiday)",
       "region": "Spain",
@@ -55091,7 +55091,7 @@
       "date": "2025-03-05"
     },
     {
-      "id": "20250319_b6rmh50ec8bnp927u7e5dp3fpc",
+      "id": "20250319_ij46db5hkp5k3e57ickptdr5ns",
       "status": "confirmed",
       "summary": "San Jose (regional holiday)",
       "region": "Spain",
@@ -55154,7 +55154,7 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_j6jas9jpuiqaue510o8kb04p88",
+      "id": "20250421_nv6sv1n3243tm3eom4euffaevs",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Spain",
@@ -55266,14 +55266,14 @@
       "date": "2025-06-13"
     },
     {
-      "id": "20250619_mm8d0cq270i6dgug36p2tc00es",
+      "id": "20250619_0e16rnrlvsneugph8v0bl6aoak",
       "status": "confirmed",
       "summary": "Corpus Christi (Castile-La Mancha)",
       "region": "Spain",
       "date": "2025-06-19"
     },
     {
-      "id": "20250624_r7kub780nv4cbs7o8uv7n5lggs",
+      "id": "20250624_e4i1rsonnc1k4slfger1qvnd4c",
       "status": "confirmed",
       "summary": "Saint John the Baptist Day (regional holiday)",
       "region": "Spain",
@@ -55427,9 +55427,9 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251226_h3dnv8irgiq06js4h5rioe6j2s",
+      "id": "20251226_gjgv2l3a80t8vegh2sp2rt6tso",
       "status": "confirmed",
-      "summary": "St Stephen's Day (Catalonia)",
+      "summary": "St Stephen's Day (regional holiday)",
       "region": "Spain",
       "date": "2025-12-26"
     },
@@ -63801,18 +63801,18 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240505_cu1voqkg1qgp5lq6lkg0ipfp8g",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "Vatican City",
-      "date": "2024-05-05"
-    },
-    {
       "id": "20240509_rp6ulcea98rai5nda2c9ckdb28",
       "status": "confirmed",
       "summary": "Ascension Day",
       "region": "Vatican City",
       "date": "2024-05-09"
+    },
+    {
+      "id": "20240512_kf5q33e4novrmsb2lcl5hqghmk",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Vatican City",
+      "date": "2024-05-12"
     },
     {
       "id": "20240530_1fa9fqkesdukt1qsg2avb456q4",
@@ -63990,11 +63990,11 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250504_et81eduq82lbv2co0acio1lgtg",
+      "id": "20250511_otpgp3210ggdic1emat4su8o1s",
       "status": "confirmed",
       "summary": "Mother's Day",
       "region": "Vatican City",
-      "date": "2025-05-04"
+      "date": "2025-05-11"
     },
     {
       "id": "20250529_bif2ben09qrkc9q7cp22h5kijo",
