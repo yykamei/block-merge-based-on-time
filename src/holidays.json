@@ -5717,6 +5717,13 @@
       "date": "2024-07-22"
     },
     {
+      "id": "20240723_lb59pbrgvgfukfq0sf09hhrlo8",
+      "status": "confirmed",
+      "summary": "Extraordinary Holiday",
+      "region": "Bangladesh",
+      "date": "2024-07-23"
+    },
+    {
       "id": "20240815_i386qasj4iompqava9mgvgrm8k",
       "status": "confirmed",
       "summary": "National Mourning Day",
@@ -43538,6 +43545,13 @@
       "date": "2024-07-06"
     },
     {
+      "id": "20240726_8lf32p8ij81rjkj96t3vr8f6e4",
+      "status": "confirmed",
+      "summary": "Anniversary of CNSP Coup",
+      "region": "Niger",
+      "date": "2024-07-26"
+    },
+    {
       "id": "20240803_cs76d232gbo6pb21si7hpv7nco",
       "status": "confirmed",
       "summary": "Nigerien Independence Day",
@@ -43641,6 +43655,13 @@
       "summary": "Muharram",
       "region": "Niger",
       "date": "2025-06-27"
+    },
+    {
+      "id": "20250726_poqgs0srh208r2hn2s62jfic90",
+      "status": "confirmed",
+      "summary": "Anniversary of CNSP Coup",
+      "region": "Niger",
+      "date": "2025-07-26"
     },
     {
       "id": "20250803_71iffdkup12gv7vjpi4j4kmbjk",
