@@ -8171,6 +8171,13 @@
       "date": "2024-02-13"
     },
     {
+      "id": "20240319_0do6d036s4igjh50jcv76nq76o",
+      "status": "confirmed",
+      "summary": "Father's Day Public Sector Half-day Holiday",
+      "region": "Bolivia",
+      "date": "2024-03-19"
+    },
+    {
       "id": "20240319_vup5dfr9lqfd7mdmrooaicsgnc",
       "status": "confirmed",
       "summary": "Father Day",
@@ -8216,6 +8223,13 @@
       "id": "20240527_lv4nr08ol9jf6pngorcsjodcso",
       "status": "confirmed",
       "summary": "Mother's Day",
+      "region": "Bolivia",
+      "date": "2024-05-27"
+    },
+    {
+      "id": "20240527_nc341b65vhoqnp9cuco0a2983c",
+      "status": "confirmed",
+      "summary": "Mother's Day Public Sector Half-day Holiday",
       "region": "Bolivia",
       "date": "2024-05-27"
     },
@@ -28273,6 +28287,13 @@
       "date": "2024-07-16"
     },
     {
+      "id": "20240728_s7aj909h6ci6kr5fkbuqmg2rd0",
+      "status": "confirmed",
+      "summary": "Heat Wave Public Holiday",
+      "region": "Iran",
+      "date": "2024-07-28"
+    },
+    {
       "id": "20240825_9b4ff7frbc59i7qm4gc255pnj8",
       "status": "confirmed",
       "summary": "Arbaeen",
@@ -36644,13 +36665,6 @@
       "date": "2024-09-16"
     },
     {
-      "id": "20240917_da2sfp1o4uqtp2g0ifa4nmjigs",
-      "status": "confirmed",
-      "summary": "Day off for Malaysia Day",
-      "region": "Malaysia",
-      "date": "2024-09-17"
-    },
-    {
       "id": "20240929_neu5rubk1m1r0rij870afr9bq8",
       "status": "confirmed",
       "summary": "Birthday of the Sultan of Kelantan (Kelantan)",
@@ -36700,7 +36714,7 @@
       "date": "2024-12-11"
     },
     {
-      "id": "20241224_tk7ephqi9k78m1kf18gar7vbvk",
+      "id": "20241224_rq2npp3bqlmno4n04dun067a18",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
@@ -37064,7 +37078,7 @@
       "date": "2025-12-11"
     },
     {
-      "id": "20251224_iounotvjel9gtacsvibsjp3pi8",
+      "id": "20251224_dn1gkqug3caudps88hgjdetmrk",
       "status": "confirmed",
       "summary": "Christmas Eve (Sabah)",
       "region": "Malaysia",
@@ -39912,13 +39926,6 @@
       "date": "2024-03-24"
     },
     {
-      "id": "20240325_g99crskg7shbgc9is5unjlhmkg",
-      "status": "confirmed",
-      "summary": "Day off for Full Moon Day of Tabaung",
-      "region": "Myanmar (Burma)",
-      "date": "2024-03-25"
-    },
-    {
       "id": "20240327_hd289ehitcqhmphooj6915umuk",
       "status": "confirmed",
       "summary": "Armed Forces' Day",
@@ -40078,6 +40085,223 @@
       "summary": "Kayin New Year Day",
       "region": "Myanmar (Burma)",
       "date": "2024-12-30"
+    },
+    {
+      "id": "20250101_2klvi7to29215kts36tj904ub4",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Myanmar (Burma)",
+      "date": "2025-01-01"
+    },
+    {
+      "id": "20250104_tdp7o9lqmfuc7s7gtjl3im1i40",
+      "status": "confirmed",
+      "summary": "Independence Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-01-04"
+    },
+    {
+      "id": "20250129_787qtfp41fait47ssnpvvjecj8",
+      "status": "confirmed",
+      "summary": "Lunar New Year",
+      "region": "Myanmar (Burma)",
+      "date": "2025-01-29"
+    },
+    {
+      "id": "20250212_scj4dsh3cc4iv7vngg5q41c584",
+      "status": "confirmed",
+      "summary": "Union Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-02-12"
+    },
+    {
+      "id": "20250302_g9i2vb54ism31ctfhqgq9n33bk",
+      "status": "confirmed",
+      "summary": "Peasants' Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-03-02"
+    },
+    {
+      "id": "20250313_g38jpi2nvdvpuac1auva95qmak",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Tabaung",
+      "region": "Myanmar (Burma)",
+      "date": "2025-03-13"
+    },
+    {
+      "id": "20250327_fo4sitcsh537cb706c4im965tg",
+      "status": "confirmed",
+      "summary": "Armed Forces' Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-03-27"
+    },
+    {
+      "id": "20250413_hoa42smranvgav3b08ccv1bbbk",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-13"
+    },
+    {
+      "id": "20250414_qgv2qeb2r7isk2nskdq2tgvmu4",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "20250415_m5v1sun99uko5foab52pk227i4",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-15"
+    },
+    {
+      "id": "20250416_gv05uld1aq2l389jndul88b0e8",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-16"
+    },
+    {
+      "id": "20250417_vmvqaq5tfofr7gglhquo4qqk40",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-17"
+    },
+    {
+      "id": "20250418_qogi45ps8kau1v2k9neqaso8dk",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-18"
+    },
+    {
+      "id": "20250419_d4l2f56p9m5et5t547jbcsi4j4",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-19"
+    },
+    {
+      "id": "20250420_qi4hk9h4dir6r46n5s561rshjo",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-20"
+    },
+    {
+      "id": "20250421_brdajm1ggrko5mktak5h8mkr94",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-21"
+    },
+    {
+      "id": "20250422_glv7a1bftegd1sbq2anc4v5v88",
+      "status": "confirmed",
+      "summary": "Maha Thingyan (Water Festival)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-04-22"
+    },
+    {
+      "id": "20250501_aprll220qh27ffa23covuc4p3s",
+      "status": "confirmed",
+      "summary": "Labor Day / May Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-05-01"
+    },
+    {
+      "id": "20250511_7sj43ma2ud7i9om6q99u85o3sg",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Kasong",
+      "region": "Myanmar (Burma)",
+      "date": "2025-05-11"
+    },
+    {
+      "id": "20250607_50lvru5j48pofadqvf9jpv0720",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Myanmar (Burma)",
+      "date": "2025-06-07"
+    },
+    {
+      "id": "20250709_vtihbog7q43536qqrk5mcqnuks",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Waso (Beginning of Buddhist Lent)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-07-09"
+    },
+    {
+      "id": "20250719_nnphitfjqh46udtoij87hhe75o",
+      "status": "confirmed",
+      "summary": "Martyrs' Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-07-19"
+    },
+    {
+      "id": "20251005_rj9o4nqo99r3020l1jjb58kl3s",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-10-05"
+    },
+    {
+      "id": "20251006_nl1omh7lum1e31qgehae7dec4g",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-10-06"
+    },
+    {
+      "id": "20251007_9inhpuc47v558556k42cq1kkck",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-10-07"
+    },
+    {
+      "id": "20251008_th38ir1iaesrrt01d5t94jeamg",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
+      "region": "Myanmar (Burma)",
+      "date": "2025-10-08"
+    },
+    {
+      "id": "20251020_rj7mnbtth7khar5pp16mj51bfg",
+      "status": "confirmed",
+      "summary": "Diwali/Deepavali",
+      "region": "Myanmar (Burma)",
+      "date": "2025-10-20"
+    },
+    {
+      "id": "20251104_dhl22iccg1sg5glek1ilinvti0",
+      "status": "confirmed",
+      "summary": "Full Moon Day of Tazaungmone",
+      "region": "Myanmar (Burma)",
+      "date": "2025-11-04"
+    },
+    {
+      "id": "20251114_0jud5h0um186cfrkjefs03k98k",
+      "status": "confirmed",
+      "summary": "National Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-11-14"
+    },
+    {
+      "id": "20251219_jdt6keiagv1f3dkt7dh0at1mug",
+      "status": "confirmed",
+      "summary": "Kayin New Year Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-12-19"
+    },
+    {
+      "id": "20251225_137flo52s7dsbd1o6s7briqefc",
+      "status": "confirmed",
+      "summary": "Christmas Day",
+      "region": "Myanmar (Burma)",
+      "date": "2025-12-25"
     }
   ],
   "Mongolia": [
