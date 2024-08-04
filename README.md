@@ -28,6 +28,9 @@ on:
 jobs:
   block:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
+      statuses: write
     steps:
       - uses: yykamei/block-merge-based-on-time@main
         id: block
