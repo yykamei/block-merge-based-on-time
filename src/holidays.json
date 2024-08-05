@@ -5724,6 +5724,27 @@
       "date": "2024-07-23"
     },
     {
+      "id": "20240805_9a0nr8fdc78da9evhoab1cvgns",
+      "status": "confirmed",
+      "summary": "Extraordinary Holiday",
+      "region": "Bangladesh",
+      "date": "2024-08-05"
+    },
+    {
+      "id": "20240806_3qt7h3jcvrdtd1a1li2ebq3rqg",
+      "status": "confirmed",
+      "summary": "Extraordinary Holiday",
+      "region": "Bangladesh",
+      "date": "2024-08-06"
+    },
+    {
+      "id": "20240807_171hf5ksvi314tcap1cjh4b89c",
+      "status": "confirmed",
+      "summary": "Extraordinary Holiday",
+      "region": "Bangladesh",
+      "date": "2024-08-07"
+    },
+    {
       "id": "20240815_i386qasj4iompqava9mgvgrm8k",
       "status": "confirmed",
       "summary": "National Mourning Day",
@@ -31618,6 +31639,13 @@
       "summary": "King's Mother's Birthday",
       "region": "Cambodia",
       "date": "2024-06-18"
+    },
+    {
+      "id": "20240805_gmvma3kuve9clab8qsl9lvbf7k",
+      "status": "confirmed",
+      "summary": "Funan Techo Canal Holiday",
+      "region": "Cambodia",
+      "date": "2024-08-05"
     },
     {
       "id": "20240924_39c80lbruvn0t0l3n8phai91s4",
