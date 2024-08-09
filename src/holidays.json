@@ -5738,13 +5738,6 @@
       "date": "2024-08-06"
     },
     {
-      "id": "20240807_171hf5ksvi314tcap1cjh4b89c",
-      "status": "confirmed",
-      "summary": "Extraordinary Holiday",
-      "region": "Bangladesh",
-      "date": "2024-08-07"
-    },
-    {
       "id": "20240815_i386qasj4iompqava9mgvgrm8k",
       "status": "confirmed",
       "summary": "National Mourning Day",
@@ -52884,9 +52877,9 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240210_8u8kog46na45is1f6ekp6g77s8",
+      "id": "20240210_u9t6lp5irjfphd55cbj2vp1b3c",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Singapore",
       "date": "2024-02-10"
     },
@@ -52898,9 +52891,9 @@
       "date": "2024-02-11"
     },
     {
-      "id": "20240212_cgh2neg4ekh801p5k86csscnss",
+      "id": "20240212_9ad04cncn3aatp8luva9o1fb1o",
       "status": "confirmed",
-      "summary": "Day off for Lunar New Year's Day",
+      "summary": "Day off for Chinese New Year's Day",
       "region": "Singapore",
       "date": "2024-02-12"
     },
@@ -53017,11 +53010,18 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250129_v1vua8vkmp970sfujpi2cj63rs",
+      "id": "20250129_o63n8c5chg7f7ppiqpmnd6cn8o",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Singapore",
       "date": "2025-01-29"
+    },
+    {
+      "id": "20250130_0e4jq8hcolatm62e7cvj2q3ms8",
+      "status": "confirmed",
+      "summary": "Second Day of Lunar New Year",
+      "region": "Singapore",
+      "date": "2025-01-30"
     },
     {
       "id": "20250301_clvj3fujvndbhpr72rsh0dpt6o",
@@ -53073,11 +53073,11 @@
       "date": "2025-05-12"
     },
     {
-      "id": "20250606_nh34tcestgjetcckjl5fni7s1k",
+      "id": "20250607_tl8g9cqtt2ip1r5t70c51beiq8",
       "status": "confirmed",
       "summary": "Hari Raya Haji",
       "region": "Singapore",
-      "date": "2025-06-06"
+      "date": "2025-06-07"
     },
     {
       "id": "20250809_j5rm46ok2r57tcmheak5s9kf1o",
@@ -53101,11 +53101,11 @@
       "date": "2025-10-03"
     },
     {
-      "id": "20251021_6j1k9hnli690hg6o7is25ufupg",
+      "id": "20251020_e1np8re9ubv12jalcvmgcclhvg",
       "status": "confirmed",
       "summary": "Diwali/Deepavali",
       "region": "Singapore",
-      "date": "2025-10-21"
+      "date": "2025-10-20"
     },
     {
       "id": "20251224_0a7ivbidesvd26orhm8dpbstec",
@@ -56499,9 +56499,9 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240116_r0oh3fjp5flismn73fpa5m2m78",
+      "id": "20240116_l98s2bpcq2hjvnslpvhumtfd88",
       "status": "confirmed",
-      "summary": "Signing of the Peace Accords",
+      "summary": "Victims of the Armed Conflict",
       "region": "El Salvador",
       "date": "2024-01-16"
     },
@@ -56653,9 +56653,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250116_legohc3hc0rtp10n1ajahi2s2k",
+      "id": "20250116_r5vranf1odgbmkorti0mo9i5qk",
       "status": "confirmed",
-      "summary": "Signing of the Peace Accords",
+      "summary": "Victims of the Armed Conflict",
       "region": "El Salvador",
       "date": "2025-01-16"
     },
