@@ -5738,13 +5738,6 @@
       "date": "2024-08-06"
     },
     {
-      "id": "20240807_171hf5ksvi314tcap1cjh4b89c",
-      "status": "confirmed",
-      "summary": "Extraordinary Holiday",
-      "region": "Bangladesh",
-      "date": "2024-08-07"
-    },
-    {
       "id": "20240815_i386qasj4iompqava9mgvgrm8k",
       "status": "confirmed",
       "summary": "National Mourning Day",
@@ -7910,9 +7903,9 @@
       "date": "2024-02-08"
     },
     {
-      "id": "20240210_rqi13jco50sh9srffifuchvplg",
+      "id": "20240210_0a9k463gufhit42rjl0dbma7co",
       "status": "confirmed",
-      "summary": "Lunar New Year",
+      "summary": "Chinese New Year",
       "region": "Brunei",
       "date": "2024-02-10"
     },
@@ -8043,9 +8036,9 @@
       "date": "2025-01-27"
     },
     {
-      "id": "20250129_lgd8r9804o2gncjjni1kb2sjog",
+      "id": "20250129_jfuu9egafurq3gmppfpmkj9j9o",
       "status": "confirmed",
-      "summary": "Lunar New Year",
+      "summary": "Chinese New Year",
       "region": "Brunei",
       "date": "2025-01-29"
     },
@@ -27408,16 +27401,16 @@
       "date": "2024-02-08"
     },
     {
-      "id": "20240209_e5mbirr5dhiqgj9pgq6r91u1lk",
+      "id": "20240209_keqkuj5sl4fcj44qv92f0gjvhc",
       "status": "confirmed",
-      "summary": "Lunar New Year Joint Holiday",
+      "summary": "Chinese New Year Joint Holiday",
       "region": "Indonesia",
       "date": "2024-02-09"
     },
     {
-      "id": "20240210_skjseiffb1a8fibgk4aejak5uc",
+      "id": "20240210_7qnbdui17b2ou0b7fj51hb5934",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Indonesia",
       "date": "2024-02-10"
     },
@@ -27667,9 +27660,9 @@
       "date": "2025-01-28"
     },
     {
-      "id": "20250129_5tviaq1der4fo7ouq6nhbch7ks",
+      "id": "20250129_7nedc5rb246gok18btnvo92snk",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Indonesia",
       "date": "2025-01-29"
     },
@@ -35384,6 +35377,118 @@
       "summary": "Christmas Day",
       "region": "Sri Lanka",
       "date": "2024-12-25"
+    },
+    {
+      "id": "20250114_l2n1kuqjdo3sm0sa46va7hcqe8",
+      "status": "confirmed",
+      "summary": "Tamil Thai Pongal Day",
+      "region": "Sri Lanka",
+      "date": "2025-01-14"
+    },
+    {
+      "id": "20250204_ibgkcp0jhqto56k4520og22g7k",
+      "status": "confirmed",
+      "summary": "National Day",
+      "region": "Sri Lanka",
+      "date": "2025-02-04"
+    },
+    {
+      "id": "20250214_1he5ctispcfju20n68n4421p84",
+      "status": "confirmed",
+      "summary": "Valentine's Day",
+      "region": "Sri Lanka",
+      "date": "2025-02-14"
+    },
+    {
+      "id": "20250226_aglpo407j9949klof8b30dbj6g",
+      "status": "confirmed",
+      "summary": "Mahasivarathri Day",
+      "region": "Sri Lanka",
+      "date": "2025-02-26"
+    },
+    {
+      "id": "20250301_lstv6q5oemblneetkkrjnpghmc",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Sri Lanka",
+      "date": "2025-03-01"
+    },
+    {
+      "id": "20250331_v95vv19mmjm3968k1e900vvat0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "Sri Lanka",
+      "date": "2025-03-31"
+    },
+    {
+      "id": "20250418_v8e9ot7ct2crqboe6qap7jp66k",
+      "status": "confirmed",
+      "summary": "Good Friday",
+      "region": "Sri Lanka",
+      "date": "2025-04-18"
+    },
+    {
+      "id": "20250420_jq781sh8pk33fqqc5s7kc3vdpg",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Sri Lanka",
+      "date": "2025-04-20"
+    },
+    {
+      "id": "20250501_tnihk3fqivdmr9m9ikeuhusllo",
+      "status": "confirmed",
+      "summary": "May Day",
+      "region": "Sri Lanka",
+      "date": "2025-05-01"
+    },
+    {
+      "id": "20250511_npsc49rbuub49hutpjb3bvlblg",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Sri Lanka",
+      "date": "2025-05-11"
+    },
+    {
+      "id": "20250607_c74u45tld0nb56b7d8k2984knk",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Sri Lanka",
+      "date": "2025-06-07"
+    },
+    {
+      "id": "20250615_dd7183mlr1u02u17m6t6sjeor8",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Sri Lanka",
+      "date": "2025-06-15"
+    },
+    {
+      "id": "20250905_acqmeodlbl5hohncu7svb2v0mo",
+      "status": "confirmed",
+      "summary": "Milad-Un-Nabi (Holy Prophet's Birthday)",
+      "region": "Sri Lanka",
+      "date": "2025-09-05"
+    },
+    {
+      "id": "20251020_f315imektmlds7pq1r5a9tf03c",
+      "status": "confirmed",
+      "summary": "Deepavali",
+      "region": "Sri Lanka",
+      "date": "2025-10-20"
+    },
+    {
+      "id": "20251224_60ec3ocr8hl51e96prjb5lb84s",
+      "status": "confirmed",
+      "summary": "Christmas Eve",
+      "region": "Sri Lanka",
+      "date": "2025-12-24"
+    },
+    {
+      "id": "20251225_8c76aai0j7ekr2dif5n1fke96o",
+      "status": "confirmed",
+      "summary": "Christmas Day",
+      "region": "Sri Lanka",
+      "date": "2025-12-25"
     }
   ],
   "Liberia": [
@@ -36406,30 +36511,30 @@
       "date": "2024-02-08"
     },
     {
-      "id": "20240210_3da2f1ospf2t59k3br3bje3hs4",
+      "id": "20240210_u0hqbs35ro8idefko22v323ed8",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Malaysia",
       "date": "2024-02-10"
     },
     {
-      "id": "20240211_61ppnf0841n0vl4aqv74kecf34",
+      "id": "20240211_bju5qtatm3mafn9kqof57o474s",
       "status": "confirmed",
-      "summary": "Second Day of Lunar New Year (regional holiday)",
+      "summary": "Chinese New Year Holiday (regional holiday)",
       "region": "Malaysia",
       "date": "2024-02-11"
     },
     {
-      "id": "20240211_go4iigisk5ld6f68plphlfnrv4",
+      "id": "20240211_s8p53ii2tqlgkvi40phtqo9564",
       "status": "confirmed",
-      "summary": "Lunar New Year Holiday (regional holiday)",
+      "summary": "Second Day of Chinese New Year (regional holiday)",
       "region": "Malaysia",
       "date": "2024-02-11"
     },
     {
-      "id": "20240212_elfa5jedqmbcf8pujt5lcg93co",
+      "id": "20240212_emnfauqa41qghda9r0dc1j4hm8",
       "status": "confirmed",
-      "summary": "Lunar New Year Holiday (regional holiday)",
+      "summary": "Chinese New Year Holiday (regional holiday)",
       "region": "Malaysia",
       "date": "2024-02-12"
     },
@@ -36791,23 +36896,23 @@
       "date": "2025-01-27"
     },
     {
-      "id": "20250129_t380c0cklslb30prk8gn4nmaqs",
+      "id": "20250129_dckne9kkrv2j4hsqh9l4hr08fk",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Malaysia",
       "date": "2025-01-29"
     },
     {
-      "id": "20250130_7tssna34lrs50cbt2nthfrorao",
+      "id": "20250130_0acu3i0n79t1dj1goit2fro9j4",
       "status": "confirmed",
-      "summary": "Second Day of Lunar New Year (regional holiday)",
+      "summary": "Chinese New Year Holiday (regional holiday)",
       "region": "Malaysia",
       "date": "2025-01-30"
     },
     {
-      "id": "20250130_tdj9v8ukh2soiasi8ubce41keg",
+      "id": "20250130_mnnplktp7rmj5kvru0ib99sl0g",
       "status": "confirmed",
-      "summary": "Lunar New Year Holiday (regional holiday)",
+      "summary": "Second Day of Chinese New Year (regional holiday)",
       "region": "Malaysia",
       "date": "2025-01-30"
     },
@@ -40136,9 +40241,9 @@
       "date": "2025-01-04"
     },
     {
-      "id": "20250129_787qtfp41fait47ssnpvvjecj8",
+      "id": "20250129_ijmv4e1erbdejf9qigr6ikptqs",
       "status": "confirmed",
-      "summary": "Lunar New Year",
+      "summary": "Chinese New Year",
       "region": "Myanmar (Burma)",
       "date": "2025-01-29"
     },
@@ -42434,6 +42539,13 @@
       "date": "2025-01-02"
     },
     {
+      "id": "20250129_uv1tgscn4f1a43dqsfm78icu6g",
+      "status": "confirmed",
+      "summary": "Chinese Spring Festival",
+      "region": "Mauritius",
+      "date": "2025-01-29"
+    },
+    {
       "id": "20250201_8tgf1o7dvrlvl17ijvf74c51qc",
       "status": "confirmed",
       "summary": "Abolition of Slavery",
@@ -42504,11 +42616,11 @@
       "date": "2025-06-15"
     },
     {
-      "id": "20250827_qrvnd93iq429gvh4j47b84irh0",
+      "id": "20250828_9r5sbpe49f4dvsonm6m7dop7vk",
       "status": "confirmed",
       "summary": "Ganesh Chaturthi",
       "region": "Mauritius",
-      "date": "2025-08-27"
+      "date": "2025-08-28"
     },
     {
       "id": "20251020_baf6hjhhuhudr16qjt6lhjhr0s",
@@ -52884,23 +52996,23 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240210_8u8kog46na45is1f6ekp6g77s8",
+      "id": "20240210_u9t6lp5irjfphd55cbj2vp1b3c",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Singapore",
       "date": "2024-02-10"
     },
     {
-      "id": "20240211_l5e92n3okmkcaucmr3hjnc3vu0",
+      "id": "20240211_emlhpfatu4197i9f7dm7rlnvks",
       "status": "confirmed",
-      "summary": "Second Day of Lunar New Year",
+      "summary": "Second Day of Chinese New Year",
       "region": "Singapore",
       "date": "2024-02-11"
     },
     {
-      "id": "20240212_cgh2neg4ekh801p5k86csscnss",
+      "id": "20240212_9ad04cncn3aatp8luva9o1fb1o",
       "status": "confirmed",
-      "summary": "Day off for Lunar New Year's Day",
+      "summary": "Day off for Chinese New Year's Day",
       "region": "Singapore",
       "date": "2024-02-12"
     },
@@ -53017,11 +53129,18 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250129_v1vua8vkmp970sfujpi2cj63rs",
+      "id": "20250129_o63n8c5chg7f7ppiqpmnd6cn8o",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Singapore",
       "date": "2025-01-29"
+    },
+    {
+      "id": "20250130_87tb1go7ocsncovkaj3p1etuhc",
+      "status": "confirmed",
+      "summary": "Second Day of Chinese New Year",
+      "region": "Singapore",
+      "date": "2025-01-30"
     },
     {
       "id": "20250301_clvj3fujvndbhpr72rsh0dpt6o",
@@ -53073,11 +53192,11 @@
       "date": "2025-05-12"
     },
     {
-      "id": "20250606_nh34tcestgjetcckjl5fni7s1k",
+      "id": "20250607_tl8g9cqtt2ip1r5t70c51beiq8",
       "status": "confirmed",
       "summary": "Hari Raya Haji",
       "region": "Singapore",
-      "date": "2025-06-06"
+      "date": "2025-06-07"
     },
     {
       "id": "20250809_j5rm46ok2r57tcmheak5s9kf1o",
@@ -53101,11 +53220,11 @@
       "date": "2025-10-03"
     },
     {
-      "id": "20251021_6j1k9hnli690hg6o7is25ufupg",
+      "id": "20251020_e1np8re9ubv12jalcvmgcclhvg",
       "status": "confirmed",
       "summary": "Diwali/Deepavali",
       "region": "Singapore",
-      "date": "2025-10-21"
+      "date": "2025-10-20"
     },
     {
       "id": "20251224_0a7ivbidesvd26orhm8dpbstec",
@@ -54343,11 +54462,11 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240824_9h67ng2m9e2qj9uj19dr50apec",
+      "id": "20240823_rseuaupq5f1nfatji071qos4tc",
       "status": "confirmed",
       "summary": "Grand Magal de Touba",
       "region": "Senegal",
-      "date": "2024-08-24"
+      "date": "2024-08-23"
     },
     {
       "id": "20240916_21fi65uhl90nks2u42qcd6mong",
@@ -56499,9 +56618,9 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240116_r0oh3fjp5flismn73fpa5m2m78",
+      "id": "20240116_l98s2bpcq2hjvnslpvhumtfd88",
       "status": "confirmed",
-      "summary": "Signing of the Peace Accords",
+      "summary": "Victims of the Armed Conflict",
       "region": "El Salvador",
       "date": "2024-01-16"
     },
@@ -56653,9 +56772,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250116_legohc3hc0rtp10n1ajahi2s2k",
+      "id": "20250116_r5vranf1odgbmkorti0mo9i5qk",
       "status": "confirmed",
-      "summary": "Signing of the Peace Accords",
+      "summary": "Victims of the Armed Conflict",
       "region": "El Salvador",
       "date": "2025-01-16"
     },
@@ -58918,23 +59037,23 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240210_go5l6bevu1shboj3s8jov3qgfo",
+      "id": "20240210_giumjg0b8bmn7f9lm8ton4ghsk",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Thailand",
       "date": "2024-02-10"
     },
     {
-      "id": "20240211_ejeavndgsjkgv6u2edqop6hn4k",
+      "id": "20240211_q4lts0pbn0todougiteiohii4k",
       "status": "confirmed",
-      "summary": "Second Day of Lunar New Year",
+      "summary": "Second Day of Chinese New Year",
       "region": "Thailand",
       "date": "2024-02-11"
     },
     {
-      "id": "20240212_lqojkrtnbe8i54caq76q08po8c",
+      "id": "20240212_mj8unieqq17givg9j4v1hutfc8",
       "status": "confirmed",
-      "summary": "Third Day of Lunar New Year",
+      "summary": "Third Day of Chinese New Year",
       "region": "Thailand",
       "date": "2024-02-12"
     },
@@ -59156,23 +59275,23 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250129_0nb0ccf1ne8kum83bpqjcnojks",
+      "id": "20250129_6hb2h9aut20o52kt1tjskbtrgs",
       "status": "confirmed",
-      "summary": "Lunar New Year's Day",
+      "summary": "Chinese New Year's Day",
       "region": "Thailand",
       "date": "2025-01-29"
     },
     {
-      "id": "20250130_lj2ah5jp4bs6knbtrhf247jcc8",
+      "id": "20250130_l0b60mp2llsdhnikd3u0d8stbk",
       "status": "confirmed",
-      "summary": "Second Day of Lunar New Year",
+      "summary": "Second Day of Chinese New Year",
       "region": "Thailand",
       "date": "2025-01-30"
     },
     {
-      "id": "20250131_5n09i2de9u743vtdkgmtm7nqdc",
+      "id": "20250131_elcu8r6ummgb2lt3hteboelqhk",
       "status": "confirmed",
-      "summary": "Third Day of Lunar New Year",
+      "summary": "Third Day of Chinese New Year",
       "region": "Thailand",
       "date": "2025-01-31"
     },
@@ -65594,6 +65713,20 @@
       "summary": "Vesak",
       "region": "Vietnam",
       "date": "2024-05-23"
+    },
+    {
+      "id": "20240831_8fkn6jnsuavl5q7ano8eonp724",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Vietnam",
+      "date": "2024-08-31"
+    },
+    {
+      "id": "20240901_e80f7kgluubl8pcdj3ihf3afj8",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Vietnam",
+      "date": "2024-09-01"
     },
     {
       "id": "20240902_ci2vhcm6v47m55or6clkqlkogo",
