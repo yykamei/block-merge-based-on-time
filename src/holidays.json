@@ -677,11 +677,11 @@
       "date": "2024-08-14"
     },
     {
-      "id": "20240819_u9hcojk5rnoa8mpsuloc5tb23g",
+      "id": "20240818_aqmhf1t3o0guvtg2bjoo8gjgig",
       "status": "confirmed",
       "summary": "Independence Day (National Day)",
       "region": "Afghanistan",
-      "date": "2024-08-19"
+      "date": "2024-08-18"
     },
     {
       "id": "20240831_ejeu4objf7a7pk89a1d8ifb9t4",
@@ -47468,11 +47468,18 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240821_jbiuhf0agut68r93jnabc6hogc",
+      "id": "20240821_7u5r1ifc3blhbrimkrq2ved9l8",
       "status": "confirmed",
       "summary": "Ninoy Aquino Day",
       "region": "Philippines",
       "date": "2024-08-21"
+    },
+    {
+      "id": "20240823_26m5b4rmluf14sgi43vnfkvm3c",
+      "status": "confirmed",
+      "summary": "Ninoy Aquino Day Holiday",
+      "region": "Philippines",
+      "date": "2024-08-23"
     },
     {
       "id": "20240826_iindvt1sh1ft6gts2o8j8uncg8",
