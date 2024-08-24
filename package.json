@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/luxon": "^3.4.2",
-    "@types/node": "^22.4.0",
+    "@types/node": "^22.5.0",
     "@typescript-eslint/eslint-plugin": "^7.4.0",
     "@typescript-eslint/parser": "^7.4.0",
     "@vercel/ncc": "^0.38.1",
