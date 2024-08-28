@@ -14656,6 +14656,13 @@
       "date": "2024-08-24"
     },
     {
+      "id": "20240831_sksvad8c66q1tk3ju2vov3pc5c",
+      "status": "confirmed",
+      "summary": "Day of the Black Person and Afro-Costa Rican Culture",
+      "region": "Costa Rica",
+      "date": "2024-08-31"
+    },
+    {
       "id": "20240909_qejm7g9e1bn0455hvcv6rdjn14",
       "status": "confirmed",
       "summary": "Children's Day",
@@ -48765,6 +48772,13 @@
       "date": "2024-01-01"
     },
     {
+      "id": "20240101_oeu5stii2la5to4buuc7bhka3o",
+      "status": "confirmed",
+      "summary": "January 1 Bank Holiday",
+      "region": "Pakistan",
+      "date": "2024-01-01"
+    },
+    {
       "id": "20240205_jat805hmkd8g4tt0h2n878b1o8",
       "status": "confirmed",
       "summary": "Kashmir Day",
@@ -48966,6 +48980,13 @@
       "summary": "Independence Day",
       "region": "Pakistan",
       "date": "2024-08-14"
+    },
+    {
+      "id": "20240815_rg1gm5sdj65ese7ncp4f6kk8uc",
+      "status": "confirmed",
+      "summary": "Nauroz",
+      "region": "Pakistan",
+      "date": "2024-08-15"
     },
     {
       "id": "20240820_04eiv21oo5hf62pe21pne9kfvk",
@@ -54235,11 +54256,18 @@
   ],
   "Singapore": [
     {
-      "id": "20240101_pafuk90fodajg42ohu1a1bkbeg",
+      "id": "20240101_t795mrl9r1vul3d0oq8iph278c",
       "status": "confirmed",
-      "summary": "New Year's Day",
+      "summary": "New Year’s Day",
       "region": "Singapore",
       "date": "2024-01-01"
+    },
+    {
+      "id": "20240125_qf1rnmhj4j1eoadoh6hqo4ul4c",
+      "status": "confirmed",
+      "summary": "Thaipusam",
+      "region": "Singapore",
+      "date": "2024-01-25"
     },
     {
       "id": "20240210_u9t6lp5irjfphd55cbj2vp1b3c",
@@ -54261,6 +54289,27 @@
       "summary": "Day off for Chinese New Year's Day",
       "region": "Singapore",
       "date": "2024-02-12"
+    },
+    {
+      "id": "20240214_kfhppbanhgv6tsp2fhcrduc2ho",
+      "status": "confirmed",
+      "summary": "Valentine's Day",
+      "region": "Singapore",
+      "date": "2024-02-14"
+    },
+    {
+      "id": "20240215_3t49p6seme5lqkbg2fug32ovns",
+      "status": "confirmed",
+      "summary": "Total Defense Day",
+      "region": "Singapore",
+      "date": "2024-02-15"
+    },
+    {
+      "id": "20240308_58vamk97khdc4c1n2fladref24",
+      "status": "confirmed",
+      "summary": "International Women's Day",
+      "region": "Singapore",
+      "date": "2024-03-08"
     },
     {
       "id": "20240312_m8u95iu9m0ttbmdkcbf5ilq9i8",
@@ -54291,6 +54340,13 @@
       "date": "2024-03-31"
     },
     {
+      "id": "20240401_c0cku7is7qp3fi0vn7jrrq3r50",
+      "status": "confirmed",
+      "summary": "April Fool's Day",
+      "region": "Singapore",
+      "date": "2024-04-01"
+    },
+    {
       "id": "20240410_s2jpks8uc4u070v1m0ami564uc",
       "status": "confirmed",
       "summary": "Hari Raya Puasa",
@@ -54305,11 +54361,25 @@
       "date": "2024-05-01"
     },
     {
+      "id": "20240512_auequotshnnbicn16q4dme3v50",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Singapore",
+      "date": "2024-05-12"
+    },
+    {
       "id": "20240522_g55vsfl5s3hh52d2apn8la50l8",
       "status": "confirmed",
       "summary": "Vesak Day",
       "region": "Singapore",
       "date": "2024-05-22"
+    },
+    {
+      "id": "20240616_c8i64g9eilubcbak6451aogvi0",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Singapore",
+      "date": "2024-06-16"
     },
     {
       "id": "20240617_muee0o25gme9qb8c8k9na71ct8",
@@ -54319,25 +54389,25 @@
       "date": "2024-06-17"
     },
     {
+      "id": "20240701_jkalf0nvntknpckvivt3c4knlo",
+      "status": "confirmed",
+      "summary": "Singapore Armed Forces Day",
+      "region": "Singapore",
+      "date": "2024-07-01"
+    },
+    {
+      "id": "20240721_03buganpa4ghaeo171t4t6igoo",
+      "status": "confirmed",
+      "summary": "Racial Harmony Day",
+      "region": "Singapore",
+      "date": "2024-07-21"
+    },
+    {
       "id": "20240809_pi0853ev69n40rdrd8fdp10cvo",
       "status": "confirmed",
       "summary": "National Day",
       "region": "Singapore",
       "date": "2024-08-09"
-    },
-    {
-      "id": "20240906_pg4m2q0p0ska1anrpm2afajs04",
-      "status": "confirmed",
-      "summary": "Teachers' Day",
-      "region": "Singapore",
-      "date": "2024-09-06"
-    },
-    {
-      "id": "20241004_s4io1hjkltgjvsll6h3eek1jrk",
-      "status": "confirmed",
-      "summary": "Children's Day",
-      "region": "Singapore",
-      "date": "2024-10-04"
     },
     {
       "id": "20241031_n1kedr39anc5v065ph9i726gag",
@@ -54361,16 +54431,16 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241231_tkc0vq6udb791t81f8ghkvf3k4",
+      "id": "20241231_85ddgu1eiqklstgg00jpjqku4o",
       "status": "confirmed",
-      "summary": "New Year's Eve",
+      "summary": "New Year’s Eve",
       "region": "Singapore",
       "date": "2024-12-31"
     },
     {
-      "id": "20250101_60eq9ulg44a6af0n4l1qc76tt4",
+      "id": "20250101_aq8sgvpedv2dnrf4cf8eck2ijo",
       "status": "confirmed",
-      "summary": "New Year's Day",
+      "summary": "New Year’s Day",
       "region": "Singapore",
       "date": "2025-01-01"
     },
@@ -54389,6 +54459,27 @@
       "date": "2025-01-30"
     },
     {
+      "id": "20250211_acvrnrgb0ekjivgfbviqf1o15g",
+      "status": "confirmed",
+      "summary": "Thaipusam",
+      "region": "Singapore",
+      "date": "2025-02-11"
+    },
+    {
+      "id": "20250214_78pdt3g6aqho9kva7iep1puamc",
+      "status": "confirmed",
+      "summary": "Valentine's Day",
+      "region": "Singapore",
+      "date": "2025-02-14"
+    },
+    {
+      "id": "20250215_r1i5ta83m1j39bmni19h1kg7ps",
+      "status": "confirmed",
+      "summary": "Total Defense Day",
+      "region": "Singapore",
+      "date": "2025-02-15"
+    },
+    {
       "id": "20250301_clvj3fujvndbhpr72rsh0dpt6o",
       "status": "confirmed",
       "summary": "Ramadan Start",
@@ -54396,11 +54487,25 @@
       "date": "2025-03-01"
     },
     {
+      "id": "20250308_mcc6clb6o00qbsq8u3jq9ul6d8",
+      "status": "confirmed",
+      "summary": "International Women's Day",
+      "region": "Singapore",
+      "date": "2025-03-08"
+    },
+    {
       "id": "20250331_0aod32lp5cbnf0t0fnldvfeqss",
       "status": "confirmed",
       "summary": "Hari Raya Puasa",
       "region": "Singapore",
       "date": "2025-03-31"
+    },
+    {
+      "id": "20250401_fgn427sii57fud9issm80g5uqs",
+      "status": "confirmed",
+      "summary": "April Fool's Day",
+      "region": "Singapore",
+      "date": "2025-04-01"
     },
     {
       "id": "20250418_vdfro1i40912vefpd4khq82ie0",
@@ -54431,6 +54536,13 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250511_4f5hliun2o74i5l0cf73116nb0",
+      "status": "confirmed",
+      "summary": "Mother's Day",
+      "region": "Singapore",
+      "date": "2025-05-11"
+    },
+    {
       "id": "20250512_v6tkgg8oaefrsg4hnqqooetvp4",
       "status": "confirmed",
       "summary": "Vesak Day",
@@ -54445,25 +54557,32 @@
       "date": "2025-06-07"
     },
     {
+      "id": "20250615_c4d0v9cebt310rblsi14j19tks",
+      "status": "confirmed",
+      "summary": "Father's Day",
+      "region": "Singapore",
+      "date": "2025-06-15"
+    },
+    {
+      "id": "20250701_83hg5t01jgprf1pbj5ocdjfbu0",
+      "status": "confirmed",
+      "summary": "Singapore Armed Forces Day",
+      "region": "Singapore",
+      "date": "2025-07-01"
+    },
+    {
+      "id": "20250721_040fnimb2epbdck864btfvopfc",
+      "status": "confirmed",
+      "summary": "Racial Harmony Day",
+      "region": "Singapore",
+      "date": "2025-07-21"
+    },
+    {
       "id": "20250809_j5rm46ok2r57tcmheak5s9kf1o",
       "status": "confirmed",
       "summary": "National Day",
       "region": "Singapore",
       "date": "2025-08-09"
-    },
-    {
-      "id": "20250905_un6s6sl37hkk7kbumc9a0fth0k",
-      "status": "confirmed",
-      "summary": "Teachers' Day",
-      "region": "Singapore",
-      "date": "2025-09-05"
-    },
-    {
-      "id": "20251003_49kh3gv22a1mdh5m9fe89hal38",
-      "status": "confirmed",
-      "summary": "Children's Day",
-      "region": "Singapore",
-      "date": "2025-10-03"
     },
     {
       "id": "20251020_e1np8re9ubv12jalcvmgcclhvg",
@@ -54487,9 +54606,9 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251231_1j95ifisv5725vmlrkhpfe79dc",
+      "id": "20251231_tpsols1lhp7ij6mceaemuieg1c",
       "status": "confirmed",
-      "summary": "New Year's Eve",
+      "summary": "New Year’s Eve",
       "region": "Singapore",
       "date": "2025-12-31"
     }
