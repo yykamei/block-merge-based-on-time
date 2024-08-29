@@ -740,9 +740,9 @@
       "date": "2024-09-09"
     },
     {
-      "id": "20240916_721t07u0srcjar9326abobgug0",
+      "id": "20240916_h5380tak59d6e07l3bo6bh76n8",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday",
+      "summary": "The Prophet's Birthday (tentative)",
       "region": "Afghanistan",
       "date": "2024-09-16"
     },
@@ -754,9 +754,9 @@
       "date": "2025-02-15"
     },
     {
-      "id": "20250301_66j1nu454ci323976t58ivm5ns",
+      "id": "20250301_c6imu2ngbmaptgof3iq962kf7o",
       "status": "confirmed",
-      "summary": "First Day of Ramadan",
+      "summary": "First Day of Ramadan (tentative)",
       "region": "Afghanistan",
       "date": "2025-03-01"
     },
@@ -768,23 +768,23 @@
       "date": "2025-03-21"
     },
     {
-      "id": "20250331_hq94o8n35t00gttelptakae2dk",
+      "id": "20250331_sccksj3o9gs7gh7anlf8gv43v8",
       "status": "confirmed",
-      "summary": "Eid al-Fitr",
+      "summary": "Eid al-Fitr (tentative)",
       "region": "Afghanistan",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_alis734stklt03ss4201h7r7a8",
+      "id": "20250401_0falkpqtuu09qtbp71gklbdng4",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
+      "summary": "Eid al-Fitr Holiday (tentative)",
       "region": "Afghanistan",
       "date": "2025-04-01"
     },
     {
-      "id": "20250402_rghmlefd0l08nb0haakuh0csuc",
+      "id": "20250402_re7mholu90i8intea53nc0h794",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
+      "summary": "Eid al-Fitr Holiday (tentative)",
       "region": "Afghanistan",
       "date": "2025-04-02"
     },
@@ -803,37 +803,37 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250606_ed3r1gm62coveeq3nukl5gb6t8",
+      "id": "20250606_7f0tfsbtuesqmikeknuu0a1qn8",
       "status": "confirmed",
-      "summary": "Day of Arafat",
+      "summary": "Day of Arafat (tentative)",
       "region": "Afghanistan",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_uemc6n9u29egkbt49f2atm34go",
+      "id": "20250607_o95qbaouej8147eppm4j6b261o",
       "status": "confirmed",
-      "summary": "Eid al-Qurban",
+      "summary": "Eid al-Qurban (tentative)",
       "region": "Afghanistan",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_arh6m3ruti7jlfv52hnm7hdkfs",
+      "id": "20250608_qsn3mhj0obqp2crkhb1i0dhsl8",
       "status": "confirmed",
-      "summary": "Eid al-Qurban Holiday",
+      "summary": "Eid al-Qurban Holiday (tentative)",
       "region": "Afghanistan",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_cj9oqvavf2v9kd7ca8ecvg2sg4",
+      "id": "20250609_lb40ttcapa4ic7g6i8p2ndjrps",
       "status": "confirmed",
-      "summary": "Eid al-Qurban Holiday",
+      "summary": "Eid al-Qurban Holiday (tentative)",
       "region": "Afghanistan",
       "date": "2025-06-09"
     },
     {
-      "id": "20250706_3ig5j79gr1bnptlcn95nld06ak",
+      "id": "20250706_jbif91qkqflnaqi0okd60ntae4",
       "status": "confirmed",
-      "summary": "Ashura",
+      "summary": "Ashura (tentative)",
       "region": "Afghanistan",
       "date": "2025-07-06"
     },
@@ -852,9 +852,9 @@
       "date": "2025-08-31"
     },
     {
-      "id": "20250905_9usdekcdd87poh7qp7kvpra7io",
+      "id": "20250905_sj9he66d41o57ard43l25fbeqs",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday",
+      "summary": "The Prophet's Birthday (tentative)",
       "region": "Afghanistan",
       "date": "2025-09-05"
     },
@@ -3199,83 +3199,6 @@
       "date": "2024-01-26"
     },
     {
-      "id": "20240210_jouddeb8p4di3a2cvvkle1pinc",
-      "status": "confirmed",
-      "summary": "Lunar New Year (Christmas Island)",
-      "region": "Australia",
-      "date": "2024-02-10"
-    },
-    {
-      "id": "20240211_46np3k0k8calbkkksqm0643ufc",
-      "status": "confirmed",
-      "summary": "Lunar New Year Holiday (Day 2) (Christmas Island)",
-      "region": "Australia",
-      "date": "2024-02-11"
-    },
-    {
-      "id": "20240212_h60nqea1knsohvolid0shopt9s",
-      "status": "confirmed",
-      "summary": "Royal Hobart Regatta (Tasmania)",
-      "region": "Australia",
-      "date": "2024-02-12"
-    },
-    {
-      "id": "20240212_t40t95v533q0cgvo0getgjefkg",
-      "status": "confirmed",
-      "summary": "Day off for Lunar New Year (Christmas Island)",
-      "region": "Australia",
-      "date": "2024-02-12"
-    },
-    {
-      "id": "20240213_rq28la4qih86ei2ihg9gfvqs08",
-      "status": "confirmed",
-      "summary": "Day off for Lunar New Year Holiday (Day 2) (Christmas Island)",
-      "region": "Australia",
-      "date": "2024-02-13"
-    },
-    {
-      "id": "20240304_2jcn6totr2pm52d2ipgvi5rafs",
-      "status": "confirmed",
-      "summary": "Labour Day (Western Australia)",
-      "region": "Australia",
-      "date": "2024-03-04"
-    },
-    {
-      "id": "20240311_5njttd7421grtm0u15egco2lp4",
-      "status": "confirmed",
-      "summary": "Labour Day (Victoria)",
-      "region": "Australia",
-      "date": "2024-03-11"
-    },
-    {
-      "id": "20240311_7pjhe68akkeu5uo8414iskb48k",
-      "status": "confirmed",
-      "summary": "Adelaide Cup (South Australia)",
-      "region": "Australia",
-      "date": "2024-03-11"
-    },
-    {
-      "id": "20240311_8m586tdv7ctpv1kj9rgu4uo0uo",
-      "status": "confirmed",
-      "summary": "Eight Hours Day (Tasmania)",
-      "region": "Australia",
-      "date": "2024-03-11"
-    },
-    {
-      "id": "20240311_mgvgkb4v2vuvm8741of2m1bhvk",
-      "status": "confirmed",
-      "summary": "Canberra Day (Australian Capital Territory)",
-      "region": "Australia",
-      "date": "2024-03-11"
-    },
-    {
-      "id": "20240316_8jgnrsf5h40fj3i5h0c3cvmco8",
-      "status": "confirmed",
-      "summary": "Labour Day (Christmas Island)",
-      "region": "Australia",
-      "date": "2024-03-16"
-    },
-    {
       "id": "20240321_k0l42vpp3vlkrstt9lu4b181js",
       "status": "confirmed",
       "summary": "Harmony Day",
@@ -3283,23 +3206,16 @@
       "date": "2024-03-21"
     },
     {
-      "id": "20240329_rmniq6jvr6u1d7703noqijtorg",
+      "id": "20240329_0tu5ntm4vgjst01158vod2are8",
       "status": "confirmed",
-      "summary": "Good Friday (Victoria)",
+      "summary": "Good Friday",
       "region": "Australia",
       "date": "2024-03-29"
     },
     {
-      "id": "20240330_9lr7skvulteaguv0ia88vf0bes",
+      "id": "20240331_n94090bg4t7934cnnbsb8rqv6k",
       "status": "confirmed",
-      "summary": "Holy Saturday (regional holiday)",
-      "region": "Australia",
-      "date": "2024-03-30"
-    },
-    {
-      "id": "20240331_7c0or3vkj9l7ju186ptmresr74",
-      "status": "confirmed",
-      "summary": "Easter Sunday (regional holiday)",
+      "summary": "Easter Sunday",
       "region": "Australia",
       "date": "2024-03-31"
     },
@@ -3311,32 +3227,11 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240402_mgmsev9b34j7mn8nqkk0911oqg",
-      "status": "confirmed",
-      "summary": "Easter Tuesday (Tasmania)",
-      "region": "Australia",
-      "date": "2024-04-02"
-    },
-    {
       "id": "20240407_741b8j1e8bb4i5uhpqg3ssr6s4",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
       "region": "Australia",
       "date": "2024-04-07"
-    },
-    {
-      "id": "20240410_76fu3f0mhvqvs5qva5v2171af0",
-      "status": "confirmed",
-      "summary": "Hari Raya Puasa (regional holiday)",
-      "region": "Australia",
-      "date": "2024-04-10"
-    },
-    {
-      "id": "20240425_8jgk5gr71dlgh7l1q0v4lh5u1s",
-      "status": "confirmed",
-      "summary": "ANZAC Day Observed (Victoria)",
-      "region": "Australia",
-      "date": "2024-04-25"
     },
     {
       "id": "20240425_9ta3plnjojge09ic9d4uta35nk",
@@ -3346,151 +3241,11 @@
       "date": "2024-04-25"
     },
     {
-      "id": "20240429_e2mggnjrvokjq4t6euilti1euc",
-      "status": "confirmed",
-      "summary": "Self Determination Day (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2024-04-29"
-    },
-    {
-      "id": "20240506_bbndn0ojbe8jpat13ckmqms4mc",
-      "status": "confirmed",
-      "summary": "May Day (Northern Territory)",
-      "region": "Australia",
-      "date": "2024-05-06"
-    },
-    {
-      "id": "20240506_k8f8i6hu92lkgvjdlseurhhgps",
-      "status": "confirmed",
-      "summary": "Labour Day (Queensland)",
-      "region": "Australia",
-      "date": "2024-05-06"
-    },
-    {
-      "id": "20240527_dfs8iacnp8pfkoe9bcv9p1tma8",
-      "status": "confirmed",
-      "summary": "Reconciliation Day (Australian Capital Territory)",
-      "region": "Australia",
-      "date": "2024-05-27"
-    },
-    {
-      "id": "20240603_h2hvb7vtn9ur8k47l6387augbs",
-      "status": "confirmed",
-      "summary": "Western Australia Day (Western Australia)",
-      "region": "Australia",
-      "date": "2024-06-03"
-    },
-    {
-      "id": "20240606_stfsljahj1cmlhglbgek0vro9c",
-      "status": "confirmed",
-      "summary": "King's Birthday (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2024-06-06"
-    },
-    {
-      "id": "20240610_b9uk4n320uvs3d81dpjhtemheg",
-      "status": "confirmed",
-      "summary": "King's Birthday (regional holiday)",
-      "region": "Australia",
-      "date": "2024-06-10"
-    },
-    {
-      "id": "20240616_7smgfdr05u23qo96es6p111a1c",
-      "status": "confirmed",
-      "summary": "Hari Raya Haji (regional holiday)",
-      "region": "Australia",
-      "date": "2024-06-16"
-    },
-    {
-      "id": "20240805_adt8j0anck6pb3h01kig2cge6c",
-      "status": "confirmed",
-      "summary": "New South Wales Bank Holiday (New South Wales)",
-      "region": "Australia",
-      "date": "2024-08-05"
-    },
-    {
-      "id": "20240805_b7c2d3a3hi5557eva29aq1brkg",
-      "status": "confirmed",
-      "summary": "Northern Territory Picnic Day (Northern Territory)",
-      "region": "Australia",
-      "date": "2024-08-05"
-    },
-    {
-      "id": "20240814_8h5s680b5ts42hf4er6dlq4gvs",
-      "status": "confirmed",
-      "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
-      "region": "Australia",
-      "date": "2024-08-14"
-    },
-    {
-      "id": "20240916_33osrifme4cjk6l28qjlpq4u48",
-      "status": "confirmed",
-      "summary": "Hari Maulad Nabi (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2024-09-16"
-    },
-    {
-      "id": "20240923_usacco933np73jl9ud4o2934qg",
-      "status": "confirmed",
-      "summary": "King's Birthday (Western Australia)",
-      "region": "Australia",
-      "date": "2024-09-23"
-    },
-    {
-      "id": "20240927_e9i77d9ahrt2ohddj7bd6s96hg",
-      "status": "confirmed",
-      "summary": "Friday before the AFL Grand Final (Victoria)",
-      "region": "Australia",
-      "date": "2024-09-27"
-    },
-    {
       "id": "20241006_22tg1atdd17uhc0gscjipo3klc",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
       "region": "Australia",
       "date": "2024-10-06"
-    },
-    {
-      "id": "20241007_dvfcgromlnboldhcggdl5rt7tc",
-      "status": "confirmed",
-      "summary": "Labour Day (regional holiday)",
-      "region": "Australia",
-      "date": "2024-10-07"
-    },
-    {
-      "id": "20241007_ist4pr9j262hl10lgjuc03jl38",
-      "status": "confirmed",
-      "summary": "King's Birthday (Queensland)",
-      "region": "Australia",
-      "date": "2024-10-07"
-    },
-    {
-      "id": "20241007_n9gp3ilb2jsqt8b3ikeburr6ag",
-      "status": "confirmed",
-      "summary": "Territory Day (Christmas Island)",
-      "region": "Australia",
-      "date": "2024-10-07"
-    },
-    {
-      "id": "20241024_8ro69t1413v0e56mv7ha65t5r4",
-      "status": "confirmed",
-      "summary": "Royal Hobart Show (Tasmania)",
-      "region": "Australia",
-      "date": "2024-10-24"
-    },
-    {
-      "id": "20241104_fmgrgsqvu6agj0hd79455vvhu8",
-      "status": "confirmed",
-      "summary": "Recreation Day (Tasmania)",
-      "region": "Australia",
-      "date": "2024-11-04"
-    },
-    {
-      "id": "20241105_h3nc8pvd4l8oanjeohn1a8s904",
-      "status": "confirmed",
-      "summary": "Melbourne Cup Day (Victoria)",
-      "region": "Australia",
-      "date": "2024-11-05"
     },
     {
       "id": "20241111_su2hvr5j8j0jvhu6cna6c7ghd8",
@@ -3500,25 +3255,18 @@
       "date": "2024-11-11"
     },
     {
-      "id": "20241224_t5i9arp4uccd6osfipk6rejchc",
+      "id": "20241224_ugp408phjcu907oe644b88egg8",
       "status": "confirmed",
-      "summary": "Christmas Eve (regional holiday)",
+      "summary": "Christmas Eve",
       "region": "Australia",
       "date": "2024-12-24"
     },
     {
-      "id": "20241225_0dbslrubsl419oq3s8rgj2drlo",
+      "id": "20241225_hocfc1vrbapqog8bd6f8nmgd6s",
       "status": "confirmed",
-      "summary": "Christmas Day (Victoria)",
+      "summary": "Christmas Day",
       "region": "Australia",
       "date": "2024-12-25"
-    },
-    {
-      "id": "20241226_euld9pf1rjctma7oe888h71ca4",
-      "status": "confirmed",
-      "summary": "Proclamation Day (South Australia)",
-      "region": "Australia",
-      "date": "2024-12-26"
     },
     {
       "id": "20241226_o7r7s7flu19cdkdf9674b2fmuk",
@@ -3528,9 +3276,9 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_ap9on8kpuvjc9ve4auilqfhnn8",
+      "id": "20241231_n9hd4sdd851i9qfjik6cushk48",
       "status": "confirmed",
-      "summary": "New Year's Eve (regional holiday)",
+      "summary": "New Year's Eve",
       "region": "Australia",
       "date": "2024-12-31"
     },
@@ -3549,81 +3297,11 @@
       "date": "2025-01-26"
     },
     {
-      "id": "20250127_spdheguc8l5no69virookgseic",
-      "status": "confirmed",
-      "summary": "Australia Day Observed (regional holiday)",
-      "region": "Australia",
-      "date": "2025-01-27"
-    },
-    {
-      "id": "20250129_ia1en6c0iqdggt94fhplnj6hdg",
-      "status": "confirmed",
-      "summary": "Lunar New Year (Christmas Island)",
-      "region": "Australia",
-      "date": "2025-01-29"
-    },
-    {
-      "id": "20250130_psjftp2r9av1k8if7tdhavrsdk",
-      "status": "confirmed",
-      "summary": "Lunar New Year Holiday (Day 2) (Christmas Island)",
-      "region": "Australia",
-      "date": "2025-01-30"
-    },
-    {
-      "id": "20250210_a76kbb3fdffngovcqrk118muck",
-      "status": "confirmed",
-      "summary": "Royal Hobart Regatta (Tasmania)",
-      "region": "Australia",
-      "date": "2025-02-10"
-    },
-    {
-      "id": "20250303_1eqbcip6v6kolbtb8j2fu6i22k",
-      "status": "confirmed",
-      "summary": "Labour Day (Western Australia)",
-      "region": "Australia",
-      "date": "2025-03-03"
-    },
-    {
-      "id": "20250310_6tnpmlvptslm36htfv5b72oo54",
-      "status": "confirmed",
-      "summary": "Labour Day (Victoria)",
-      "region": "Australia",
-      "date": "2025-03-10"
-    },
-    {
-      "id": "20250310_j9ltf92gimnite1bnhiscalfp4",
-      "status": "confirmed",
-      "summary": "Adelaide Cup (South Australia)",
-      "region": "Australia",
-      "date": "2025-03-10"
-    },
-    {
-      "id": "20250310_jqmdjb7dqmhnp2slfja1q8a0mo",
-      "status": "confirmed",
-      "summary": "Eight Hours Day (Tasmania)",
-      "region": "Australia",
-      "date": "2025-03-10"
-    },
-    {
-      "id": "20250310_rslfdtdl6egjc8dc6pgp9ekvsk",
-      "status": "confirmed",
-      "summary": "Canberra Day (Australian Capital Territory)",
-      "region": "Australia",
-      "date": "2025-03-10"
-    },
-    {
       "id": "20250321_cdboosfm4aullkfgrg0t7uqfg8",
       "status": "confirmed",
       "summary": "Harmony Day",
       "region": "Australia",
       "date": "2025-03-21"
-    },
-    {
-      "id": "20250331_79ddau7n4hnilmbr9dp9h0u2l4",
-      "status": "confirmed",
-      "summary": "Hari Raya Puasa (regional holiday)",
-      "region": "Australia",
-      "date": "2025-03-31"
     },
     {
       "id": "20250406_raldhmcaespfk1i9bfdcfr2cls",
@@ -3633,37 +3311,16 @@
       "date": "2025-04-06"
     },
     {
-      "id": "20250406_sn264s22ftb875agdel8binkqc",
+      "id": "20250418_004hnqrrlo2achosbt952esnos",
       "status": "confirmed",
-      "summary": "Self Determination Day (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2025-04-06"
-    },
-    {
-      "id": "20250407_gl1lrotj95v8b8hvt24er1p7fs",
-      "status": "confirmed",
-      "summary": "Day off for Self Determination Day (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2025-04-07"
-    },
-    {
-      "id": "20250418_npnqis77qkt9lg08tr218p07ik",
-      "status": "confirmed",
-      "summary": "Good Friday (Victoria)",
+      "summary": "Good Friday",
       "region": "Australia",
       "date": "2025-04-18"
     },
     {
-      "id": "20250419_llb6r3lgqkavotn3j56emh9ig8",
+      "id": "20250420_m90i51t3r039icuns4p5ak8s8o",
       "status": "confirmed",
-      "summary": "Holy Saturday (regional holiday)",
-      "region": "Australia",
-      "date": "2025-04-19"
-    },
-    {
-      "id": "20250420_p5ahp4s1p04bft002bh2lebc84",
-      "status": "confirmed",
-      "summary": "Easter Sunday (regional holiday)",
+      "summary": "Easter Sunday",
       "region": "Australia",
       "date": "2025-04-20"
     },
@@ -3675,123 +3332,11 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250422_us33jqid9ur9766v4fcfudh380",
-      "status": "confirmed",
-      "summary": "Easter Tuesday (Tasmania)",
-      "region": "Australia",
-      "date": "2025-04-22"
-    },
-    {
-      "id": "20250425_qshh57b478vrd49dtrskk1ensk",
-      "status": "confirmed",
-      "summary": "ANZAC Day Observed (Victoria)",
-      "region": "Australia",
-      "date": "2025-04-25"
-    },
-    {
       "id": "20250425_queu4qs0jq7l7vv2gc8e7u9rm0",
       "status": "confirmed",
       "summary": "ANZAC Day",
       "region": "Australia",
       "date": "2025-04-25"
-    },
-    {
-      "id": "20250505_36d34gg2iumu4obn5uo0iamou0",
-      "status": "confirmed",
-      "summary": "Labour Day (Queensland)",
-      "region": "Australia",
-      "date": "2025-05-05"
-    },
-    {
-      "id": "20250505_eii68j137i9n5qnekci21r65ec",
-      "status": "confirmed",
-      "summary": "May Day (Northern Territory)",
-      "region": "Australia",
-      "date": "2025-05-05"
-    },
-    {
-      "id": "20250602_ofje0od1vnu3pktfjgn5rlimng",
-      "status": "confirmed",
-      "summary": "Western Australia Day (Western Australia)",
-      "region": "Australia",
-      "date": "2025-06-02"
-    },
-    {
-      "id": "20250602_phcejrves8gcl1v3obvmh0h47g",
-      "status": "confirmed",
-      "summary": "Reconciliation Day (Australian Capital Territory)",
-      "region": "Australia",
-      "date": "2025-06-02"
-    },
-    {
-      "id": "20250606_e4ui0i7s91c5a65k9gddp4hh3k",
-      "status": "confirmed",
-      "summary": "King's Birthday (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2025-06-06"
-    },
-    {
-      "id": "20250607_cb6cd4vilabfnhg3hq463ovh8o",
-      "status": "confirmed",
-      "summary": "Hari Raya Haji (regional holiday)",
-      "region": "Australia",
-      "date": "2025-06-07"
-    },
-    {
-      "id": "20250609_kn1cpirbnvo570a6ps6rvc4090",
-      "status": "confirmed",
-      "summary": "King's Birthday (regional holiday)",
-      "region": "Australia",
-      "date": "2025-06-09"
-    },
-    {
-      "id": "20250609_l62fdc7v1ruv1488ueuaeahgl0",
-      "status": "confirmed",
-      "summary": "Day off for Hari Raya Haji (regional holiday)",
-      "region": "Australia",
-      "date": "2025-06-09"
-    },
-    {
-      "id": "20250804_1pc188g1prp3lb3l28is3vmlqk",
-      "status": "confirmed",
-      "summary": "Northern Territory Picnic Day (Northern Territory)",
-      "region": "Australia",
-      "date": "2025-08-04"
-    },
-    {
-      "id": "20250804_pufov6rnuu9rpek8936768u9q4",
-      "status": "confirmed",
-      "summary": "New South Wales Bank Holiday (New South Wales)",
-      "region": "Australia",
-      "date": "2025-08-04"
-    },
-    {
-      "id": "20250813_gfl2tbkdasii3hdicv7uf8fb6s",
-      "status": "confirmed",
-      "summary": "Royal National Agricultural Show Day Queensland (Queensland)",
-      "region": "Australia",
-      "date": "2025-08-13"
-    },
-    {
-      "id": "20250905_cpb28l0t1ui5ik9bhji6nnuu14",
-      "status": "confirmed",
-      "summary": "Hari Maulad Nabi (Cocos and Keeling Islands)",
-      "region": "Australia",
-      "date": "2025-09-05"
-    },
-    {
-      "id": "20250926_44pfr9g0m3sggf9nven3qu84sg",
-      "status": "confirmed",
-      "summary": "Friday before the AFL Grand Final (Victoria)",
-      "region": "Australia",
-      "date": "2025-09-26"
-    },
-    {
-      "id": "20250929_dlcd92bvv4mqm4m8nqv47p3jes",
-      "status": "confirmed",
-      "summary": "King's Birthday (Western Australia)",
-      "region": "Australia",
-      "date": "2025-09-29"
     },
     {
       "id": "20251005_0682p8ja2a6d6bkvcnnutdq5v4",
@@ -3801,48 +3346,6 @@
       "date": "2025-10-05"
     },
     {
-      "id": "20251006_4va94h2mr36qvdunri3kt9fg7c",
-      "status": "confirmed",
-      "summary": "Territory Day (Christmas Island)",
-      "region": "Australia",
-      "date": "2025-10-06"
-    },
-    {
-      "id": "20251006_8lcqiaj98ulbcj69tin04t7ivs",
-      "status": "confirmed",
-      "summary": "Labour Day (regional holiday)",
-      "region": "Australia",
-      "date": "2025-10-06"
-    },
-    {
-      "id": "20251006_ei36dil04h9nm3f0o5hsggsprk",
-      "status": "confirmed",
-      "summary": "King's Birthday (Queensland)",
-      "region": "Australia",
-      "date": "2025-10-06"
-    },
-    {
-      "id": "20251023_ps2n53mo84jqasqlbni93dj24s",
-      "status": "confirmed",
-      "summary": "Royal Hobart Show (Tasmania)",
-      "region": "Australia",
-      "date": "2025-10-23"
-    },
-    {
-      "id": "20251103_a7amk8q6t9db8uhcbkvodqs8sc",
-      "status": "confirmed",
-      "summary": "Recreation Day (Tasmania)",
-      "region": "Australia",
-      "date": "2025-11-03"
-    },
-    {
-      "id": "20251104_j0v2vstucpojkog6e4sn1iqft4",
-      "status": "confirmed",
-      "summary": "Melbourne Cup Day (Victoria)",
-      "region": "Australia",
-      "date": "2025-11-04"
-    },
-    {
       "id": "20251111_5bog93ava810lbcd1o9ngvhl10",
       "status": "confirmed",
       "summary": "Remembrance Day",
@@ -3850,16 +3353,16 @@
       "date": "2025-11-11"
     },
     {
-      "id": "20251224_hj15edgam50ftug2m03ctgl6vo",
+      "id": "20251224_3s28010acie76rmb4ua1es6t18",
       "status": "confirmed",
-      "summary": "Christmas Eve (regional holiday)",
+      "summary": "Christmas Eve",
       "region": "Australia",
       "date": "2025-12-24"
     },
     {
-      "id": "20251225_04q3ai3l85suutd2n53baptd7o",
+      "id": "20251225_r7s438hrrirpl3ilghkvbvm0k8",
       "status": "confirmed",
-      "summary": "Christmas Day (Victoria)",
+      "summary": "Christmas Day",
       "region": "Australia",
       "date": "2025-12-25"
     },
@@ -3871,16 +3374,9 @@
       "date": "2025-12-26"
     },
     {
-      "id": "20251226_omho0flirk46jmbd2i017hi6p0",
+      "id": "20251231_nj3u7gifubrcbe1vckkqt9kdss",
       "status": "confirmed",
-      "summary": "Proclamation Day (South Australia)",
-      "region": "Australia",
-      "date": "2025-12-26"
-    },
-    {
-      "id": "20251231_atojk313rfg1b1cobij06retpc",
-      "status": "confirmed",
-      "summary": "New Year's Eve (regional holiday)",
+      "summary": "New Year's Eve",
       "region": "Australia",
       "date": "2025-12-31"
     }
@@ -5104,16 +4600,16 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_evur972muo74v9k5ae71fscbfo",
+      "id": "20250301_bkb9pjufl0vrh4m9v6sjdudhv8",
       "status": "confirmed",
-      "summary": "Independence Day (Federation of Bosnia and Herzegovina)",
+      "summary": "Ramadan Start (tentative)",
       "region": "Bosnia & Herzegovina",
       "date": "2025-03-01"
     },
     {
-      "id": "20250301_t96v5sva1lil5923mjo43ktb34",
+      "id": "20250301_evur972muo74v9k5ae71fscbfo",
       "status": "confirmed",
-      "summary": "Ramadan Start",
+      "summary": "Independence Day (Federation of Bosnia and Herzegovina)",
       "region": "Bosnia & Herzegovina",
       "date": "2025-03-01"
     },
@@ -5125,9 +4621,9 @@
       "date": "2025-03-08"
     },
     {
-      "id": "20250331_bk4aq8kgn14c9c66spoa5lodns",
+      "id": "20250331_osuo2qpr3kfdcev24pa39nec0s",
       "status": "confirmed",
-      "summary": "End of Ramadan",
+      "summary": "End of Ramadan (tentative)",
       "region": "Bosnia & Herzegovina",
       "date": "2025-03-31"
     },
@@ -5209,9 +4705,9 @@
       "date": "2025-05-09"
     },
     {
-      "id": "20250607_rrt35f72n73p2spp9q77pn803o",
+      "id": "20250607_tvvtbe69soqkcuvg7u920prjqc",
       "status": "confirmed",
-      "summary": "Feast of the Sacrifice",
+      "summary": "Feast of the Sacrifice (tentative)",
       "region": "Bosnia & Herzegovina",
       "date": "2025-06-07"
     },
@@ -8824,25 +8320,11 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240607_kqofog5i0mn8ojvj9ae9p206do",
-      "status": "confirmed",
-      "summary": "National Press Freedom Day",
-      "region": "Brazil",
-      "date": "2024-06-07"
-    },
-    {
       "id": "20240612_872rc8sgf0kteg1dfufsmb9cu8",
       "status": "confirmed",
       "summary": "Brazilian Valentine's Day",
       "region": "Brazil",
       "date": "2024-06-12"
-    },
-    {
-      "id": "20240725_290gkuf04nimdf97iulvu1gv08",
-      "status": "confirmed",
-      "summary": "Latin and Caribbean Black Women Day",
-      "region": "Brazil",
-      "date": "2024-07-25"
     },
     {
       "id": "20240811_t07lbhqocuol2lq2nl5o5gu1vk",
@@ -8878,13 +8360,6 @@
       "summary": "Public Service Holiday",
       "region": "Brazil",
       "date": "2024-10-28"
-    },
-    {
-      "id": "20241031_8amjhna3tsj2r7u133d3ru6ueg",
-      "status": "confirmed",
-      "summary": "Saci Day",
-      "region": "Brazil",
-      "date": "2024-10-31"
     },
     {
       "id": "20241102_bif36mabcdl33bsl2p9kgd9l00",
@@ -9013,13 +8488,6 @@
       "date": "2025-05-11"
     },
     {
-      "id": "20250607_r5s0709n35ud6grfqbsq1lafug",
-      "status": "confirmed",
-      "summary": "National Press Freedom Day",
-      "region": "Brazil",
-      "date": "2025-06-07"
-    },
-    {
       "id": "20250612_qnotrv92t6mit8er37jupf6jd0",
       "status": "confirmed",
       "summary": "Brazilian Valentine's Day",
@@ -9032,13 +8500,6 @@
       "summary": "Corpus Christi",
       "region": "Brazil",
       "date": "2025-06-19"
-    },
-    {
-      "id": "20250725_2mi4he220m9rmfep28qrnfortc",
-      "status": "confirmed",
-      "summary": "Latin and Caribbean Black Women Day",
-      "region": "Brazil",
-      "date": "2025-07-25"
     },
     {
       "id": "20250810_vsong01svopkq2f2oel2l7mbts",
@@ -9074,13 +8535,6 @@
       "summary": "Public Service Holiday",
       "region": "Brazil",
       "date": "2025-10-28"
-    },
-    {
-      "id": "20251031_73rho1gvl1oggo280q6ugi1fug",
-      "status": "confirmed",
-      "summary": "Saci Day",
-      "region": "Brazil",
-      "date": "2025-10-31"
     },
     {
       "id": "20251102_5s6tkoias00dsupj10no92gg2g",
@@ -10693,13 +10147,6 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240102_ho429m1q0qlq9s5r73efmst0u0",
-      "status": "confirmed",
-      "summary": "Day After New Year’s Day (Quebec)",
-      "region": "Canada",
-      "date": "2024-01-02"
-    },
-    {
       "id": "20240106_lenjlf4a1194crjq3necmmsb6s",
       "status": "confirmed",
       "summary": "Epiphany",
@@ -10777,13 +10224,6 @@
       "date": "2024-03-17"
     },
     {
-      "id": "20240318_bh9s0a2ke6ir04fiooqc1btln4",
-      "status": "confirmed",
-      "summary": "St. Patrick's Day (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2024-03-18"
-    },
-    {
       "id": "20240329_nro5u402ire4hk8e61n13cdvs8",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -10798,7 +10238,7 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_vgifrbuj1e8dhfuev4iu7rl5m4",
+      "id": "20240401_73rrfa6raujr4qmpqkl4nkvi5s",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -10819,13 +10259,6 @@
       "date": "2024-04-09"
     },
     {
-      "id": "20240422_2eqat0k926c92odsh363ejcgrs",
-      "status": "confirmed",
-      "summary": "St. George's Day (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2024-04-22"
-    },
-    {
       "id": "20240512_4ek7gqn2uu0ic5e49gcon3e6m0",
       "status": "confirmed",
       "summary": "Mothers' Day",
@@ -10840,13 +10273,6 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240520_8ge72ntbcrj8gn057ij4h97hpc",
-      "status": "confirmed",
-      "summary": "National Patriots' Day (Quebec)",
-      "region": "Canada",
-      "date": "2024-05-20"
-    },
-    {
       "id": "20240616_eaqogcmtcnrt3imgir7839dgr0",
       "status": "confirmed",
       "summary": "Fathers' Day",
@@ -10854,25 +10280,11 @@
       "date": "2024-06-16"
     },
     {
-      "id": "20240621_160rl9gmrsl1khmha5i37n82bc",
+      "id": "20240621_1iq9npa58cpm1bg7q34esp5j2c",
       "status": "confirmed",
-      "summary": "National Indigenous Peoples Day (regional holiday)",
+      "summary": "National Indigenous Peoples Day",
       "region": "Canada",
       "date": "2024-06-21"
-    },
-    {
-      "id": "20240624_71ghg7it8l6nijf4rol6et1vr8",
-      "status": "confirmed",
-      "summary": "St. Jean Baptiste Day (Quebec)",
-      "region": "Canada",
-      "date": "2024-06-24"
-    },
-    {
-      "id": "20240624_i31alq0kif7pdiomt97i2a8bis",
-      "status": "confirmed",
-      "summary": "June Holiday (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2024-06-24"
     },
     {
       "id": "20240701_ahpnnhtfn49ne8msf28kq9alm0",
@@ -10880,27 +10292,6 @@
       "summary": "Canada Day",
       "region": "Canada",
       "date": "2024-07-01"
-    },
-    {
-      "id": "20240701_q2a1l9i4936hpc5mf5lbia9cfs",
-      "status": "confirmed",
-      "summary": "Memorial Day (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2024-07-01"
-    },
-    {
-      "id": "20240709_p3q1u828dc1h71665u611u675g",
-      "status": "confirmed",
-      "summary": "Nunavut Day (Nunavut)",
-      "region": "Canada",
-      "date": "2024-07-09"
-    },
-    {
-      "id": "20240715_q5fomfalkbkcl6g0ncrmi7f4g8",
-      "status": "confirmed",
-      "summary": "Orangemen's Day (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2024-07-15"
     },
     {
       "id": "20240805_1tjptauqpnk0vfq4vga2a331b4",
@@ -10945,27 +10336,6 @@
       "date": "2024-08-05"
     },
     {
-      "id": "20240807_1jss02ulq079nn9mf70ta6ns5c",
-      "status": "confirmed",
-      "summary": "The Royal St John's Regatta (Regatta Day) (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2024-08-07"
-    },
-    {
-      "id": "20240816_4api4hqqr516nn6aear472pukk",
-      "status": "confirmed",
-      "summary": "Gold Cup Parade (Prince Edward Island)",
-      "region": "Canada",
-      "date": "2024-08-16"
-    },
-    {
-      "id": "20240819_hsdio1p937pug667kahfq2re70",
-      "status": "confirmed",
-      "summary": "Discovery Day (Yukon)",
-      "region": "Canada",
-      "date": "2024-08-19"
-    },
-    {
       "id": "20240902_l98j721sit5sf5llabp43gmqlk",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -10973,14 +10343,14 @@
       "date": "2024-09-02"
     },
     {
-      "id": "20240930_ik7kvpo7djkpi6k0qmuto0ncvs",
+      "id": "20240930_p5lbe3mmojfn7f69h4gr73n5d8",
       "status": "confirmed",
-      "summary": "National Day for Truth and Reconciliation (regional holiday)",
+      "summary": "National Day for Truth and Reconciliation",
       "region": "Canada",
       "date": "2024-09-30"
     },
     {
-      "id": "20241014_78c1biq0g06ust7dts9c5s2dfk",
+      "id": "20241014_9suk41shmq3bhlnl7a4srk94o4",
       "status": "confirmed",
       "summary": "Thanksgiving Day (regional holiday)",
       "region": "Canada",
@@ -11015,9 +10385,9 @@
       "date": "2024-12-11"
     },
     {
-      "id": "20241224_lplvta26e4quags95312q7l23s",
+      "id": "20241224_jmiuh757cc7jdptfo92re17jc0",
       "status": "confirmed",
-      "summary": "Christmas Eve (New Brunswick)",
+      "summary": "Christmas Eve",
       "region": "Canada",
       "date": "2024-12-24"
     },
@@ -11029,7 +10399,7 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241226_3ab2ehjoaonpobf8j4sbd7vmvo",
+      "id": "20241226_kvu5gt2eo7q713hmc52rcn0gg8",
       "status": "confirmed",
       "summary": "Boxing Day (regional holiday)",
       "region": "Canada",
@@ -11048,13 +10418,6 @@
       "summary": "New Year's Day",
       "region": "Canada",
       "date": "2025-01-01"
-    },
-    {
-      "id": "20250102_8ulh01s1rhrmqnn46iolf6b064",
-      "status": "confirmed",
-      "summary": "Day After New Year’s Day (Quebec)",
-      "region": "Canada",
-      "date": "2025-01-02"
     },
     {
       "id": "20250106_a7h10tk5kde5do62drhrqfa434",
@@ -11127,9 +10490,9 @@
       "date": "2025-03-10"
     },
     {
-      "id": "20250317_vs5ot2kitaa2do7ugij65daooc",
+      "id": "20250317_0jt0u0a1h0v9onf02gflp8rog8",
       "status": "confirmed",
-      "summary": "St. Patrick's Day (Newfoundland and Labrador)",
+      "summary": "St. Patrick's Day",
       "region": "Canada",
       "date": "2025-03-17"
     },
@@ -11162,14 +10525,7 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_tpsbdoas02ffse99q31rfr3dh4",
-      "status": "confirmed",
-      "summary": "St. George's Day (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2025-04-21"
-    },
-    {
-      "id": "20250421_vi1edrefuk2o6qra72th79k9co",
+      "id": "20250421_8difv7801rl16k73eus5qopv1k",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -11181,13 +10537,6 @@
       "summary": "Mothers' Day",
       "region": "Canada",
       "date": "2025-05-11"
-    },
-    {
-      "id": "20250519_da08rigjoh15l5ql1t39b7cr2k",
-      "status": "confirmed",
-      "summary": "National Patriots' Day (Quebec)",
-      "region": "Canada",
-      "date": "2025-05-19"
     },
     {
       "id": "20250519_qfjc21vtg99ogta6r2pte7p2dg",
@@ -11204,32 +10553,11 @@
       "date": "2025-06-15"
     },
     {
-      "id": "20250621_lmd65k5sfq86qr61snebf81v70",
+      "id": "20250621_o8lsetd0sl9ek9p3do01tpqhak",
       "status": "confirmed",
-      "summary": "National Indigenous Peoples Day (regional holiday)",
+      "summary": "National Indigenous Peoples Day",
       "region": "Canada",
       "date": "2025-06-21"
-    },
-    {
-      "id": "20250623_gl5pag4n8259j6j6qgcjcgnqbk",
-      "status": "confirmed",
-      "summary": "June Holiday (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2025-06-23"
-    },
-    {
-      "id": "20250624_18i0qtebgqocambolvnv4j9gq4",
-      "status": "confirmed",
-      "summary": "St. Jean Baptiste Day (Quebec)",
-      "region": "Canada",
-      "date": "2025-06-24"
-    },
-    {
-      "id": "20250701_afc69g2342vh5t6v8qlbm48kr4",
-      "status": "confirmed",
-      "summary": "Memorial Day (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2025-07-01"
     },
     {
       "id": "20250701_um0k2kvga3lgfuidtjl9pqbb2k",
@@ -11237,20 +10565,6 @@
       "summary": "Canada Day",
       "region": "Canada",
       "date": "2025-07-01"
-    },
-    {
-      "id": "20250709_s4afroiam083gcfrce09as6os4",
-      "status": "confirmed",
-      "summary": "Nunavut Day (Nunavut)",
-      "region": "Canada",
-      "date": "2025-07-09"
-    },
-    {
-      "id": "20250714_2ff2qbbskeh7ol38b9dg5nse4s",
-      "status": "confirmed",
-      "summary": "Orangemen's Day (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2025-07-14"
     },
     {
       "id": "20250804_3j7qul29lnd4912bn78gohetc4",
@@ -11295,27 +10609,6 @@
       "date": "2025-08-04"
     },
     {
-      "id": "20250806_43h0b4avqbucki8tpvibkgitr8",
-      "status": "confirmed",
-      "summary": "The Royal St John's Regatta (Regatta Day) (Newfoundland and Labrador)",
-      "region": "Canada",
-      "date": "2025-08-06"
-    },
-    {
-      "id": "20250815_37c5g6tjvb20nr97aqurbde25k",
-      "status": "confirmed",
-      "summary": "Gold Cup Parade (Prince Edward Island)",
-      "region": "Canada",
-      "date": "2025-08-15"
-    },
-    {
-      "id": "20250818_m32ao8cvrvbeobh7u5l8555ai8",
-      "status": "confirmed",
-      "summary": "Discovery Day (Yukon)",
-      "region": "Canada",
-      "date": "2025-08-18"
-    },
-    {
       "id": "20250901_b6hjonl957pl28uvfli5ubln04",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -11323,14 +10616,14 @@
       "date": "2025-09-01"
     },
     {
-      "id": "20250930_qr73jksbig9g6geo3kde855f2g",
+      "id": "20250930_sn48f6jui14k0lcvgpvp4k01r0",
       "status": "confirmed",
-      "summary": "National Day for Truth and Reconciliation (regional holiday)",
+      "summary": "National Day for Truth and Reconciliation",
       "region": "Canada",
       "date": "2025-09-30"
     },
     {
-      "id": "20251013_7dkb0snd7jf8n6dk7vlsncq3ak",
+      "id": "20251013_jl5oijut0r90ip3enp76048v9g",
       "status": "confirmed",
       "summary": "Thanksgiving Day (regional holiday)",
       "region": "Canada",
@@ -11365,9 +10658,9 @@
       "date": "2025-12-11"
     },
     {
-      "id": "20251224_06nmqgef9sd5gipsfeca4knuf4",
+      "id": "20251224_t1jsmsod61rssir1oill5s4ae8",
       "status": "confirmed",
-      "summary": "Christmas Eve (New Brunswick)",
+      "summary": "Christmas Eve",
       "region": "Canada",
       "date": "2025-12-24"
     },
@@ -11379,7 +10672,7 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251226_l2jcm0n87bbgb2l5jbllv9hlf8",
+      "id": "20251226_h7lsdnuhdeut16ul3867hatovc",
       "status": "confirmed",
       "summary": "Boxing Day (regional holiday)",
       "region": "Canada",
@@ -21717,7 +21010,7 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_1imvetevrh22mh9tq75dj8gbck",
+      "id": "20240331_faadah818pgjgp7jfqlp1rk650",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -21773,7 +21066,7 @@
       "date": "2024-05-12"
     },
     {
-      "id": "20240519_9vh5copamnfs57lqtjjh6hoc4k",
+      "id": "20240519_4o2e1p259jsiaiajpqqrmpr55k",
       "status": "confirmed",
       "summary": "Whit Sunday (regional holiday)",
       "region": "Germany",
@@ -21792,13 +21085,6 @@
       "summary": "Corpus Christi (regional holiday)",
       "region": "Germany",
       "date": "2024-05-30"
-    },
-    {
-      "id": "20240808_r0ou464hbs7946di949cl5i6dk",
-      "status": "confirmed",
-      "summary": "Peace Festival in Augsburg (Bavaria)",
-      "region": "Germany",
-      "date": "2024-08-08"
     },
     {
       "id": "20240815_cvillu3kekt4gomt1begfhjf3c",
@@ -21913,6 +21199,13 @@
       "date": "2024-12-22"
     },
     {
+      "id": "20241224_8rgbl99lt5vtc4d43i6rhsgs1s",
+      "status": "confirmed",
+      "summary": "Christmas Eve (half-day)",
+      "region": "Germany",
+      "date": "2024-12-24"
+    },
+    {
       "id": "20241225_648s47bi27ntpe25dqulju6f4c",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -21925,6 +21218,13 @@
       "summary": "Boxing Day",
       "region": "Germany",
       "date": "2024-12-26"
+    },
+    {
+      "id": "20241231_23pdd7qk512sets96hrgg5moqc",
+      "status": "confirmed",
+      "summary": "New Year's Eve (half-day)",
+      "region": "Germany",
+      "date": "2024-12-31"
     },
     {
       "id": "20250101_srgtnfl2jbnlo6evrsvlotkmo0",
@@ -22011,7 +21311,7 @@
       "date": "2025-04-19"
     },
     {
-      "id": "20250420_30i9tetjgoki7sk1pqha0pg45c",
+      "id": "20250420_98g43an5jd0tp39ka3hnooq014",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -22081,14 +21381,7 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250808_fim4l7vcjevvld04lkdv850tps",
-      "status": "confirmed",
-      "summary": "Peace Festival in Augsburg (Bavaria)",
-      "region": "Germany",
-      "date": "2025-08-08"
-    },
-    {
-      "id": "20250815_91j181kp5ug9qhueiq8si4i1ss",
+      "id": "20250815_0d38l0s97bb97g120224gs0ctg",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -22200,6 +21493,13 @@
       "date": "2025-12-21"
     },
     {
+      "id": "20251224_73spm5u4upm31v08k04tm63pvs",
+      "status": "confirmed",
+      "summary": "Christmas Eve (half-day)",
+      "region": "Germany",
+      "date": "2025-12-24"
+    },
+    {
       "id": "20251225_s6ifvv56pm79pouspuqoulu9hc",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -22212,6 +21512,13 @@
       "summary": "Boxing Day",
       "region": "Germany",
       "date": "2025-12-26"
+    },
+    {
+      "id": "20251231_6kdtc42bn812ropkr9prk9sv5o",
+      "status": "confirmed",
+      "summary": "New Year's Eve (half-day)",
+      "region": "Germany",
+      "date": "2025-12-31"
     }
   ],
   "French Guiana": [
@@ -23852,9 +23159,9 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240916_8dlifahu9gcrq3tk99l7gej9ks",
+      "id": "20240916_kjpr8arr6l7ano47jpoa76jtck",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday",
+      "summary": "The Prophet's Birthday (tentative)",
       "region": "Guinea",
       "date": "2024-09-16"
     },
@@ -23887,9 +23194,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_b0s92ni1vher70mth8huhsfcak",
+      "id": "20250301_rve6f56jm3bs8u2tf9gk0mn48s",
       "status": "confirmed",
-      "summary": "Ramadan Start",
+      "summary": "Ramadan Start (tentative)",
       "region": "Guinea",
       "date": "2025-03-01"
     },
@@ -23901,9 +23208,9 @@
       "date": "2025-03-26"
     },
     {
-      "id": "20250331_kv348ttcs5behf9i1l8tho3ju4",
+      "id": "20250331_1s6urm4av55a0oo9hoqign037k",
       "status": "confirmed",
-      "summary": "Eid al-Fitr",
+      "summary": "Eid al-Fitr (tentative)",
       "region": "Guinea",
       "date": "2025-03-31"
     },
@@ -23936,9 +23243,9 @@
       "date": "2025-05-25"
     },
     {
-      "id": "20250607_ioq7lfnao0g87dn6scc6snfif8",
+      "id": "20250607_ea8kqt8kf5n20q1kd7pr7kajf4",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Guinea",
       "date": "2025-06-07"
     },
@@ -23950,9 +23257,9 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20250905_n52omdkcbaf9bjq03uengq5mp0",
+      "id": "20250905_cudpu35gsfffbmm6rsfk0jmlso",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday",
+      "summary": "The Prophet's Birthday (tentative)",
       "region": "Guinea",
       "date": "2025-09-05"
     },
@@ -25469,9 +24776,9 @@
       "date": "2024-08-01"
     },
     {
-      "id": "20240916_v7hj35gdsukb9fucfo9veptdmg",
+      "id": "20240916_48ej6jan179v9fqp3f36dbn9s8",
       "status": "confirmed",
-      "summary": "Youman-Nabi (Mawlid)",
+      "summary": "Youman-Nabi (Mawlid) (tentative)",
       "region": "Guyana",
       "date": "2024-09-16"
     },
@@ -25560,9 +24867,9 @@
       "date": "2025-05-26"
     },
     {
-      "id": "20250607_nljbrh80ko2vrvjq7uvn72evg4",
+      "id": "20250607_533sflkonc8raa0hidjpf994ss",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Guyana",
       "date": "2025-06-07"
     },
@@ -25581,9 +24888,9 @@
       "date": "2025-08-01"
     },
     {
-      "id": "20250905_qb35lcphh991563lbip4uq64m4",
+      "id": "20250905_o8rc7krrhfqju67bs2kign7fps",
       "status": "confirmed",
-      "summary": "Youman-Nabi (Mawlid)",
+      "summary": "Youman-Nabi (Mawlid) (tentative)",
       "region": "Guyana",
       "date": "2025-09-05"
     },
@@ -27891,13 +27198,6 @@
       "date": "2024-04-15"
     },
     {
-      "id": "20240421_3h3vur6lqrnsokkac2ea7dtjtc",
-      "status": "confirmed",
-      "summary": "Kartini Day",
-      "region": "Indonesia",
-      "date": "2024-04-21"
-    },
-    {
       "id": "20240501_mseme1dfu5776e5r9jnbaj52to",
       "status": "confirmed",
       "summary": "International Labor Day",
@@ -27975,39 +27275,11 @@
       "date": "2024-09-15"
     },
     {
-      "id": "20241002_10qiqfq4guils2095g5ng0cms8",
-      "status": "confirmed",
-      "summary": "Batik Day",
-      "region": "Indonesia",
-      "date": "2024-10-02"
-    },
-    {
       "id": "20241101_q48l75vtdc1npi7venrg4729jg",
       "status": "confirmed",
       "summary": "Diwali",
       "region": "Indonesia",
       "date": "2024-11-01"
-    },
-    {
-      "id": "20241112_pb6o9qlc4m9u2j5j4c9sh25i58",
-      "status": "confirmed",
-      "summary": "Father's Day",
-      "region": "Indonesia",
-      "date": "2024-11-12"
-    },
-    {
-      "id": "20241125_90g5vafd5n339sbmh746cbgs7o",
-      "status": "confirmed",
-      "summary": "Teacher's Day",
-      "region": "Indonesia",
-      "date": "2024-11-25"
-    },
-    {
-      "id": "20241222_69qle77cjv62kq6r53b7m280j8",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "Indonesia",
-      "date": "2024-12-22"
     },
     {
       "id": "20241224_qqajb35bluf5ugtaqm9lf1pedg",
@@ -28094,13 +27366,6 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_msmmh41r87eac2hp6os8blk25o",
-      "status": "confirmed",
-      "summary": "Kartini Day",
-      "region": "Indonesia",
-      "date": "2025-04-21"
-    },
-    {
       "id": "20250501_4si83sb69adhn2dj31ersa0rks",
       "status": "confirmed",
       "summary": "International Labor Day",
@@ -28157,39 +27422,11 @@
       "date": "2025-09-05"
     },
     {
-      "id": "20251002_4apje9ninulb8hcmfla2iar1hg",
-      "status": "confirmed",
-      "summary": "Batik Day",
-      "region": "Indonesia",
-      "date": "2025-10-02"
-    },
-    {
       "id": "20251021_i8j53nt0dteqsgpcj13q2op8kk",
       "status": "confirmed",
       "summary": "Diwali",
       "region": "Indonesia",
       "date": "2025-10-21"
-    },
-    {
-      "id": "20251112_hdqrndi4fdp4s01to020jktva0",
-      "status": "confirmed",
-      "summary": "Father's Day",
-      "region": "Indonesia",
-      "date": "2025-11-12"
-    },
-    {
-      "id": "20251125_3iuccrkamniv25beajo1o5hbug",
-      "status": "confirmed",
-      "summary": "Teacher's Day",
-      "region": "Indonesia",
-      "date": "2025-11-25"
-    },
-    {
-      "id": "20251222_2e00ukho75emlidg7bjicss0ag",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "Indonesia",
-      "date": "2025-12-22"
     },
     {
       "id": "20251224_vbvbk9sk6h1rmtnu3i3ubudntc",
@@ -29292,13 +28529,6 @@
       "date": "2024-12-01"
     },
     {
-      "id": "20241224_s44ucp74bais0o9i3ib2trs5dg",
-      "status": "confirmed",
-      "summary": "Christmas Eve (from noon)",
-      "region": "Iceland",
-      "date": "2024-12-24"
-    },
-    {
       "id": "20241225_qoi8evqmbju81vfgvcee0r1j78",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -29311,13 +28541,6 @@
       "summary": "Second Day of Christmas",
       "region": "Iceland",
       "date": "2024-12-26"
-    },
-    {
-      "id": "20241231_m4ggfalnn75ereaa9mbrneaa3k",
-      "status": "confirmed",
-      "summary": "New Year's Eve (from noon)",
-      "region": "Iceland",
-      "date": "2024-12-31"
     },
     {
       "id": "20250101_i25ivdfjrqfcd68eqscsinp2uk",
@@ -29460,13 +28683,6 @@
       "date": "2025-12-01"
     },
     {
-      "id": "20251224_9geohjqv7l0nfofkpiul4k785s",
-      "status": "confirmed",
-      "summary": "Christmas Eve (from noon)",
-      "region": "Iceland",
-      "date": "2025-12-24"
-    },
-    {
       "id": "20251225_iuq80d69g7iuu2qka1i5uofu8k",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -29479,13 +28695,6 @@
       "summary": "Second Day of Christmas",
       "region": "Iceland",
       "date": "2025-12-26"
-    },
-    {
-      "id": "20251231_hse3rki1tb127hl3e7srogreb0",
-      "status": "confirmed",
-      "summary": "New Year's Eve (from noon)",
-      "region": "Iceland",
-      "date": "2025-12-31"
     }
   ],
   "Italy": [
@@ -31306,9 +30515,9 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240915_t2d84bt0m7ke32g74ma051uieg",
+      "id": "20240915_q12gmhd010nljq1qguh6a4pmcg",
       "status": "confirmed",
-      "summary": "Prophet's Birthday",
+      "summary": "Prophet's Birthday (tentative)",
       "region": "Jordan",
       "date": "2024-09-15"
     },
@@ -31334,44 +30543,44 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250126_n2gimlankquprirkkorncq9kpk",
+      "id": "20250126_r0qlic61isph0k1d2pvvclvrck",
       "status": "confirmed",
-      "summary": "Al Isra' wal Miraj",
+      "summary": "Al Isra' wal Miraj (tentative)",
       "region": "Jordan",
       "date": "2025-01-26"
     },
     {
-      "id": "20250301_hk5lq5enk64h5c90bjv4642osg",
+      "id": "20250301_9s8tj1ntojlcqpl97j2i9hma10",
       "status": "confirmed",
-      "summary": "Ramadan begins",
+      "summary": "Ramadan begins (tentative)",
       "region": "Jordan",
       "date": "2025-03-01"
     },
     {
-      "id": "20250330_hcg9j3oke8u6snul7inlejdnrk",
+      "id": "20250330_dkqj4jbt0da3r9shcr2gimj2rk",
       "status": "confirmed",
-      "summary": "Eid al-Fitr",
+      "summary": "Eid al-Fitr (tentative)",
       "region": "Jordan",
       "date": "2025-03-30"
     },
     {
-      "id": "20250331_hajvkbbab92e0kan9v3lindd2k",
+      "id": "20250331_0o9jkqqncd9ume2ppoa1ngvdb0",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
+      "summary": "Eid al-Fitr holiday (tentative)",
       "region": "Jordan",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_pre7dl6f2c5klut3i74ih9v3t8",
+      "id": "20250401_cbd72e34rvcuhdovkk83jfr69k",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
+      "summary": "Eid al-Fitr holiday (tentative)",
       "region": "Jordan",
       "date": "2025-04-01"
     },
     {
-      "id": "20250402_072ff70liqilei24ij4q4i3c58",
+      "id": "20250402_1h9jsv052mq23oof2o9nn7k2jk",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday",
+      "summary": "Eid al-Fitr holiday (tentative)",
       "region": "Jordan",
       "date": "2025-04-02"
     },
@@ -31432,51 +30641,51 @@
       "date": "2025-05-25"
     },
     {
-      "id": "20250605_c148qaf11rcg2ufdriv6l48dg0",
+      "id": "20250605_i2s9lb0dc8eeuhksuq78goe7nk",
       "status": "confirmed",
-      "summary": "Arafah",
+      "summary": "Arafah (tentative)",
       "region": "Jordan",
       "date": "2025-06-05"
     },
     {
-      "id": "20250606_bgl9u4udae52353ec6d4iviuq4",
+      "id": "20250606_qjpq0ni19hih4576tb1udjauhc",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Jordan",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_ddpb8mniejs6u77im1bp9uu4cg",
+      "id": "20250607_6fht4vuhc4i8lq798bh2lfo2pg",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha holiday (tentative)",
       "region": "Jordan",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_skjp7tdb1hn6snese3m58vmcps",
+      "id": "20250608_hmi3afssstplcd57okbft18eo4",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha holiday (tentative)",
       "region": "Jordan",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_m80atp2s2il0f94pe8ml3pgvtc",
+      "id": "20250609_nl2bp8msk9eed6dl01rnhl1u7g",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday",
+      "summary": "Eid al-Adha holiday (tentative)",
       "region": "Jordan",
       "date": "2025-06-09"
     },
     {
-      "id": "20250626_e3anpo13e7nii0e49797teoqr8",
+      "id": "20250626_jcc50vokde2jadl23bf0b468dk",
       "status": "confirmed",
-      "summary": "Muharram/New Year",
+      "summary": "Muharram/New Year (tentative)",
       "region": "Jordan",
       "date": "2025-06-26"
     },
     {
-      "id": "20250904_dsqep9fs8ka0g5ffjt002loapc",
+      "id": "20250904_9mugdm4nmic5vv28ca8irsp0lg",
       "status": "confirmed",
-      "summary": "Prophet's Birthday",
+      "summary": "Prophet's Birthday (tentative)",
       "region": "Jordan",
       "date": "2025-09-04"
     },
@@ -31968,9 +31177,9 @@
       "date": "2025-02-24"
     },
     {
-      "id": "20250301_8ud18qg0ocm1s75794nsp0so60",
+      "id": "20250301_16rs1gi51urin78n03q78odehs",
       "status": "confirmed",
-      "summary": "Ramadan Start",
+      "summary": "Ramadan Start (tentative)",
       "region": "Kyrgyzstan",
       "date": "2025-03-01"
     },
@@ -31996,9 +31205,9 @@
       "date": "2025-03-21"
     },
     {
-      "id": "20250331_plfabruk1cglghlbu0mj39uh40",
+      "id": "20250331_75uckipohbrp577mt4kgbk6fo0",
       "status": "confirmed",
-      "summary": "Orozo Ait",
+      "summary": "Orozo Ait (tentative)",
       "region": "Kyrgyzstan",
       "date": "2025-03-31"
     },
@@ -32031,16 +31240,16 @@
       "date": "2025-05-09"
     },
     {
-      "id": "20250607_gtooum9lr0l6v5gn704ie7b894",
+      "id": "20250607_sthp2sn63fp04umqb207a3rej4",
       "status": "confirmed",
-      "summary": "Kurman Ait",
+      "summary": "Kurman Ait (tentative)",
       "region": "Kyrgyzstan",
       "date": "2025-06-07"
     },
     {
-      "id": "20250609_jf49km8fonftirt5p3vh2obfg8",
+      "id": "20250609_b0ca8iau31rajp4htd4ganln0k",
       "status": "confirmed",
-      "summary": "Day off for Kurman Ait",
+      "summary": "Day off for Kurman Ait (tentative)",
       "region": "Kyrgyzstan",
       "date": "2025-06-09"
     },
@@ -33578,9 +32787,9 @@
       "date": "2025-06-15"
     },
     {
-      "id": "20250623_h1uupnad1htnpfjtc5o2ds726c",
+      "id": "20250623_c51ejm39ldea9k11to2l27ikdc",
       "status": "confirmed",
-      "summary": "King Charles III's Birthday Holiday",
+      "summary": "King Charles III's Birthday Holiday (tentative)",
       "region": "Cayman Islands",
       "date": "2025-06-23"
     },
@@ -36058,6 +35267,27 @@
       "date": "2025-03-31"
     },
     {
+      "id": "20250412_75an950qn4ficms1q9br44ipt0",
+      "status": "confirmed",
+      "summary": "Bak Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-04-12"
+    },
+    {
+      "id": "20250413_54c4a90n0ne3ssa4dfrp8ca6kg",
+      "status": "confirmed",
+      "summary": "Sinhala and Tamil New Year's Eve",
+      "region": "Sri Lanka",
+      "date": "2025-04-13"
+    },
+    {
+      "id": "20250414_ts01jmpgd4m06dj856hjlvsdl0",
+      "status": "confirmed",
+      "summary": "Sinhala and Tamil New Year's Day",
+      "region": "Sri Lanka",
+      "date": "2025-04-14"
+    },
+    {
       "id": "20250418_v8e9ot7ct2crqboe6qap7jp66k",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -36086,11 +35316,32 @@
       "date": "2025-05-11"
     },
     {
+      "id": "20250512_055avaisui7a0e2evfbaothe20",
+      "status": "confirmed",
+      "summary": "Vesak Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-05-12"
+    },
+    {
+      "id": "20250513_ug9c7s55lnruj1ct4dsg4q70kk",
+      "status": "confirmed",
+      "summary": "Day after Vesak Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-05-13"
+    },
+    {
       "id": "20250607_c74u45tld0nb56b7d8k2984knk",
       "status": "confirmed",
       "summary": "Eid al-Adha",
       "region": "Sri Lanka",
       "date": "2025-06-07"
+    },
+    {
+      "id": "20250610_l35ilm7crk799qqjb3hrq89c0g",
+      "status": "confirmed",
+      "summary": "Poson Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-06-10"
     },
     {
       "id": "20250615_dd7183mlr1u02u17m6t6sjeor8",
@@ -36100,6 +35351,20 @@
       "date": "2025-06-15"
     },
     {
+      "id": "20250710_cibdugkkrm2klma38l9qdm1of8",
+      "status": "confirmed",
+      "summary": "Esala Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-07-10"
+    },
+    {
+      "id": "20250808_fooglh7t3irludgbetleceuoh0",
+      "status": "confirmed",
+      "summary": "Nikini Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-08-08"
+    },
+    {
       "id": "20250905_acqmeodlbl5hohncu7svb2v0mo",
       "status": "confirmed",
       "summary": "Milad-Un-Nabi (Holy Prophet's Birthday)",
@@ -36107,11 +35372,39 @@
       "date": "2025-09-05"
     },
     {
+      "id": "20250907_ehg75chq0dsrs44i6rc9g1b4ds",
+      "status": "confirmed",
+      "summary": "Binara Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-09-07"
+    },
+    {
+      "id": "20251006_fkr3em80u3vanoqpda58pf8u0c",
+      "status": "confirmed",
+      "summary": "Vap Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-10-06"
+    },
+    {
       "id": "20251020_f315imektmlds7pq1r5a9tf03c",
       "status": "confirmed",
       "summary": "Deepavali",
       "region": "Sri Lanka",
       "date": "2025-10-20"
+    },
+    {
+      "id": "20251105_1ljum3b56bjjq4dnmuesr3nsk4",
+      "status": "confirmed",
+      "summary": "Il Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-11-05"
+    },
+    {
+      "id": "20251204_f3sg36ie3j05boumthjne3r2ek",
+      "status": "confirmed",
+      "summary": "Unduvap Full Moon Poya Day",
+      "region": "Sri Lanka",
+      "date": "2025-12-04"
     },
     {
       "id": "20251224_60ec3ocr8hl51e96prjb5lb84s",
@@ -36575,6 +35868,13 @@
       "date": "2024-11-01"
     },
     {
+      "id": "20241224_u1o90enkefdbmbc2psjm5tlovo",
+      "status": "confirmed",
+      "summary": "Christmas Eve (half-day)",
+      "region": "Luxembourg",
+      "date": "2024-12-24"
+    },
+    {
       "id": "20241225_6h9e2q81jkvesamc0sqhn726cs",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -36692,6 +35992,13 @@
       "summary": "All Saints' Day",
       "region": "Luxembourg",
       "date": "2025-11-01"
+    },
+    {
+      "id": "20251224_ea5bbhrsc7dihmoucfpo168q80",
+      "status": "confirmed",
+      "summary": "Christmas Eve (half-day)",
+      "region": "Luxembourg",
+      "date": "2025-12-24"
     },
     {
       "id": "20251225_hgsv0co71hmc6apnqo86kbnvf4",
@@ -37127,20 +36434,6 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240114_tpeu3ghsli0q60aipligkl2igo",
-      "status": "confirmed",
-      "summary": "Birthday of Yang di-Pertuan Besar (Negeri Sembilan)",
-      "region": "Malaysia",
-      "date": "2024-01-14"
-    },
-    {
-      "id": "20240115_g9mpfoljp8dsk6lk2mbet89l78",
-      "status": "confirmed",
-      "summary": "Birthday of Yang di-Pertuan Besar observed (Negeri Sembilan)",
-      "region": "Malaysia",
-      "date": "2024-01-15"
-    },
-    {
       "id": "20240125_l6da3365csn2br5fdlnseoudho",
       "status": "confirmed",
       "summary": "Thaipusam (regional holiday)",
@@ -37197,25 +36490,11 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240304_7erah5nrgsdhfdfp2ias5c6vts",
-      "status": "confirmed",
-      "summary": "Anniversary of the Coronation of the Sultan of Terengganu (Terengganu)",
-      "region": "Malaysia",
-      "date": "2024-03-04"
-    },
-    {
       "id": "20240312_67hdduub8128rkbpsrd0rlfd70",
       "status": "confirmed",
       "summary": "First Day of Ramadan (regional holiday)",
       "region": "Malaysia",
       "date": "2024-03-12"
-    },
-    {
-      "id": "20240323_nekf49utl8lqh53snsfbff4obk",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Johor (Johor)",
-      "region": "Malaysia",
-      "date": "2024-03-23"
     },
     {
       "id": "20240328_23gua82jegj54lpe1pqkltsffo",
@@ -37239,13 +36518,6 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240409_da0d9u2t3oc3bngubp0vf434po",
-      "status": "confirmed",
-      "summary": "Hari Raya Puasa Holiday (Kelantan)",
-      "region": "Malaysia",
-      "date": "2024-04-09"
-    },
-    {
       "id": "20240410_3ks6dkem3hktiqe9bc7gidknfc",
       "status": "confirmed",
       "summary": "Hari Raya Puasa",
@@ -37260,39 +36532,11 @@
       "date": "2024-04-11"
     },
     {
-      "id": "20240415_v9nuiqepu9cc1k87ruo95cdbm8",
-      "status": "confirmed",
-      "summary": "Declaration of Malacca as Historical City (Malacca)",
-      "region": "Malaysia",
-      "date": "2024-04-15"
-    },
-    {
-      "id": "20240426_925j29r596od8en8s1uv341tlc",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Terengganu (Terengganu)",
-      "region": "Malaysia",
-      "date": "2024-04-26"
-    },
-    {
       "id": "20240501_6gdp2fdfcuqdkqmeudo6dbmj98",
       "status": "confirmed",
       "summary": "Labour Day",
       "region": "Malaysia",
       "date": "2024-05-01"
-    },
-    {
-      "id": "20240517_iegj8kt7b802o9m2t2m285g0rc",
-      "status": "confirmed",
-      "summary": "Birthday of the Raja of Perlis (Perlis)",
-      "region": "Malaysia",
-      "date": "2024-05-17"
-    },
-    {
-      "id": "20240522_dl5ag0sr40n8l69hg5pdf7ks28",
-      "status": "confirmed",
-      "summary": "Pahang State Holiday (Pahang)",
-      "region": "Malaysia",
-      "date": "2024-05-22"
     },
     {
       "id": "20240522_oskhihdjm4g9htjveatnv76k00",
@@ -37316,30 +36560,9 @@
       "date": "2024-05-31"
     },
     {
-      "id": "20240601_6hiq13srrjccimr4lu5ars9pik",
-      "status": "confirmed",
-      "summary": "Gawai Dayak (Sarawak)",
-      "region": "Malaysia",
-      "date": "2024-06-01"
-    },
-    {
-      "id": "20240602_i8vuctpohk7auo7uvjo44h5khk",
-      "status": "confirmed",
-      "summary": "Gawai Dayak Holiday (Sarawak)",
-      "region": "Malaysia",
-      "date": "2024-06-02"
-    },
-    {
       "id": "20240603_42bjhhuvpiaihsm9jcinf2sn64",
       "status": "confirmed",
       "summary": "The Yang di-Pertuan Agong's Birthday",
-      "region": "Malaysia",
-      "date": "2024-06-03"
-    },
-    {
-      "id": "20240603_gm04o715ckvvfce2frefgpfh94",
-      "status": "confirmed",
-      "summary": "Gawai Dayak Holiday observed (Sarawak)",
       "region": "Malaysia",
       "date": "2024-06-03"
     },
@@ -37365,20 +36588,6 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240630_bp2d0aafo8egskfl7s5hvj80m0",
-      "status": "confirmed",
-      "summary": "Sultan of Kedah's Birthday (Kedah)",
-      "region": "Malaysia",
-      "date": "2024-06-30"
-    },
-    {
-      "id": "20240707_9oa713149c6udv5an78rm51gss",
-      "status": "confirmed",
-      "summary": "George Town World Heritage City Day (Penang)",
-      "region": "Malaysia",
-      "date": "2024-07-07"
-    },
-    {
       "id": "20240707_db8f38sasv118ehqdsncdv1g5g",
       "status": "confirmed",
       "summary": "Muharram/New Year",
@@ -37391,41 +36600,6 @@
       "summary": "Muharram Holiday (regional holiday)",
       "region": "Malaysia",
       "date": "2024-07-08"
-    },
-    {
-      "id": "20240713_tbr7ohq9ik84jd6t8e508pjom8",
-      "status": "confirmed",
-      "summary": "Penang Governor's Birthday (Penang)",
-      "region": "Malaysia",
-      "date": "2024-07-13"
-    },
-    {
-      "id": "20240722_g19ts067l06824hqkp7frdr5mc",
-      "status": "confirmed",
-      "summary": "Sarawak Independence Day (Sarawak)",
-      "region": "Malaysia",
-      "date": "2024-07-22"
-    },
-    {
-      "id": "20240730_088b4p278i9b9fv07glh2jb0t0",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Pahang (Pahang)",
-      "region": "Malaysia",
-      "date": "2024-07-30"
-    },
-    {
-      "id": "20240811_elg623o6ntgpop0geiuji75h7c",
-      "status": "confirmed",
-      "summary": "Almarhum Sultan Iskandar Hol Day (Johor)",
-      "region": "Malaysia",
-      "date": "2024-08-11"
-    },
-    {
-      "id": "20240824_lfkfgmfom4ei5cth5e4ogak6eo",
-      "status": "confirmed",
-      "summary": "Birthday of the Governor of Malacca (Malacca)",
-      "region": "Malaysia",
-      "date": "2024-08-24"
     },
     {
       "id": "20240831_akkiin5aa9oh4ae6ntb78p7k9s",
@@ -37456,34 +36630,6 @@
       "date": "2024-09-16"
     },
     {
-      "id": "20240929_neu5rubk1m1r0rij870afr9bq8",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Kelantan (Kelantan)",
-      "region": "Malaysia",
-      "date": "2024-09-29"
-    },
-    {
-      "id": "20240930_27kme1gpierjv0j95njpu366vs",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Kelantan (Day 2) (Kelantan)",
-      "region": "Malaysia",
-      "date": "2024-09-30"
-    },
-    {
-      "id": "20241005_20l4eie84bt8ja9pquq0mlrl5s",
-      "status": "confirmed",
-      "summary": "Birthday of the Governor of Sabah (Sabah)",
-      "region": "Malaysia",
-      "date": "2024-10-05"
-    },
-    {
-      "id": "20241012_un424o40gl3klee151du4hv4es",
-      "status": "confirmed",
-      "summary": "Birthday of the Governor of Sarawak (Sarawak)",
-      "region": "Malaysia",
-      "date": "2024-10-12"
-    },
-    {
       "id": "20241031_61ff0ifg8nc61bntg8us4u4390",
       "status": "confirmed",
       "summary": "Diwali/Deepavali (regional holiday)",
@@ -37491,23 +36637,9 @@
       "date": "2024-10-31"
     },
     {
-      "id": "20241101_7645kulspe5q0kgpb9aq4jfboo",
+      "id": "20241224_7c28lt41eva0jejs9iqf6i9t38",
       "status": "confirmed",
-      "summary": "Birthday of the Sultan of Perak (Perak)",
-      "region": "Malaysia",
-      "date": "2024-11-01"
-    },
-    {
-      "id": "20241211_cj0kihknoomqqs0tpeqq08segc",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Selangor (Selangor)",
-      "region": "Malaysia",
-      "date": "2024-12-11"
-    },
-    {
-      "id": "20241224_rq2npp3bqlmno4n04dun067a18",
-      "status": "confirmed",
-      "summary": "Christmas Eve (Sabah)",
+      "summary": "Christmas Eve",
       "region": "Malaysia",
       "date": "2024-12-24"
     },
@@ -37531,13 +36663,6 @@
       "summary": "New Year's Day (regional holiday)",
       "region": "Malaysia",
       "date": "2025-01-01"
-    },
-    {
-      "id": "20250114_vihpgnpf0h8nn0gk8gfpui4cl0",
-      "status": "confirmed",
-      "summary": "Birthday of Yang di-Pertuan Besar (Negeri Sembilan)",
-      "region": "Malaysia",
-      "date": "2025-01-14"
     },
     {
       "id": "20250127_nj0lrnt5991rtusu0o3gl1kqk4",
@@ -37589,25 +36714,11 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250304_b9s202h3ohut8apctfgt0quuk0",
-      "status": "confirmed",
-      "summary": "Anniversary of the Coronation of the Sultan of Terengganu (Terengganu)",
-      "region": "Malaysia",
-      "date": "2025-03-04"
-    },
-    {
       "id": "20250317_c6i2m0kbircclvo21tmsj2hrj0",
       "status": "confirmed",
       "summary": "Nuzul Al-Quran (regional holiday)",
       "region": "Malaysia",
       "date": "2025-03-17"
-    },
-    {
-      "id": "20250323_adftmip9ibu1166udes03lba60",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Johor (Johor)",
-      "region": "Malaysia",
-      "date": "2025-03-23"
     },
     {
       "id": "20250331_o5hkvdvcuokqns3aq3kt6rr8bo",
@@ -37624,13 +36735,6 @@
       "date": "2025-04-01"
     },
     {
-      "id": "20250415_c5bugqspefk0hfkl6bt1gsv7cs",
-      "status": "confirmed",
-      "summary": "Declaration of Malacca as Historical City (Malacca)",
-      "region": "Malaysia",
-      "date": "2025-04-15"
-    },
-    {
       "id": "20250418_n2ts38ln1jik69e4ihelbi9eio",
       "status": "confirmed",
       "summary": "Good Friday (regional holiday)",
@@ -37645,25 +36749,11 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250426_vhvo4joabbck2k6gh4ikgii628",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Terengganu (Terengganu)",
-      "region": "Malaysia",
-      "date": "2025-04-26"
-    },
-    {
       "id": "20250501_dthm09lk5v9cs2h47hjg9sjh64",
       "status": "confirmed",
       "summary": "Labour Day",
       "region": "Malaysia",
       "date": "2025-05-01"
-    },
-    {
-      "id": "20250522_upe99e2lof8d9qnkt4rkcgs2ck",
-      "status": "confirmed",
-      "summary": "Pahang State Holiday (Pahang)",
-      "region": "Malaysia",
-      "date": "2025-05-22"
     },
     {
       "id": "20250530_f4hnrik20vl2vbvd7qtc6n0vig",
@@ -37680,30 +36770,9 @@
       "date": "2025-05-31"
     },
     {
-      "id": "20250601_s5du2f8bfrrbb9dr93ssuvc0lo",
-      "status": "confirmed",
-      "summary": "Gawai Dayak (Sarawak)",
-      "region": "Malaysia",
-      "date": "2025-06-01"
-    },
-    {
-      "id": "20250602_537hl1ir8sr64aiuttpp18f99s",
-      "status": "confirmed",
-      "summary": "Gawai Dayak observed (Sarawak)",
-      "region": "Malaysia",
-      "date": "2025-06-02"
-    },
-    {
       "id": "20250602_fi7ph1g69mp3d6rgoknm4sgvh0",
       "status": "confirmed",
       "summary": "The Yang di-Pertuan Agong's Birthday",
-      "region": "Malaysia",
-      "date": "2025-06-02"
-    },
-    {
-      "id": "20250602_t7c26jttnq556k37ojmalff4j4",
-      "status": "confirmed",
-      "summary": "Gawai Dayak Holiday (Sarawak)",
       "region": "Malaysia",
       "date": "2025-06-02"
     },
@@ -37729,74 +36798,11 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250615_5q0nuvi4br5ovdjkhqfn4enjt8",
-      "status": "confirmed",
-      "summary": "Sultan of Kedah's Birthday (Kedah)",
-      "region": "Malaysia",
-      "date": "2025-06-15"
-    },
-    {
       "id": "20250627_3peco81o7hsp8dqd7m442o3pqs",
       "status": "confirmed",
       "summary": "Muharram/New Year",
       "region": "Malaysia",
       "date": "2025-06-27"
-    },
-    {
-      "id": "20250707_4p1hcqf2oi83n9r1iv6jjpomdk",
-      "status": "confirmed",
-      "summary": "George Town World Heritage City Day (Penang)",
-      "region": "Malaysia",
-      "date": "2025-07-07"
-    },
-    {
-      "id": "20250712_7ouq4iklqgui1dv7rsih8s6d00",
-      "status": "confirmed",
-      "summary": "Penang Governor's Birthday (Penang)",
-      "region": "Malaysia",
-      "date": "2025-07-12"
-    },
-    {
-      "id": "20250717_moajuup8k4tbh5kfbm427pd7b0",
-      "status": "confirmed",
-      "summary": "Birthday of the Raja of Perlis (Perlis)",
-      "region": "Malaysia",
-      "date": "2025-07-17"
-    },
-    {
-      "id": "20250722_6r9t85rlcd98imaq4fsdop6ues",
-      "status": "confirmed",
-      "summary": "Sarawak Independence Day (Sarawak)",
-      "region": "Malaysia",
-      "date": "2025-07-22"
-    },
-    {
-      "id": "20250730_qsnt9a198ivip5sn1mpk6oc5h8",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Pahang (Pahang)",
-      "region": "Malaysia",
-      "date": "2025-07-30"
-    },
-    {
-      "id": "20250801_qs8jsm8neu86n1ots6289ko8qg",
-      "status": "confirmed",
-      "summary": "Almarhum Sultan Iskandar Hol Day (Johor)",
-      "region": "Malaysia",
-      "date": "2025-08-01"
-    },
-    {
-      "id": "20250824_0gv3ua04bs0clh0i0t0n8gmhbo",
-      "status": "confirmed",
-      "summary": "Birthday of the Governor of Malacca (Malacca)",
-      "region": "Malaysia",
-      "date": "2025-08-24"
-    },
-    {
-      "id": "20250825_3cr1gk69v50hdepn64clbn4sv4",
-      "status": "confirmed",
-      "summary": "Birthday of the Governor of Malacca observed (Malacca)",
-      "region": "Malaysia",
-      "date": "2025-08-25"
     },
     {
       "id": "20250831_huknqtc8boftn5n82vofbr2jcs",
@@ -37827,51 +36833,9 @@
       "date": "2025-09-16"
     },
     {
-      "id": "20251004_a063psnm9cjjd5cus6ectaria0",
+      "id": "20251224_f1cj7als7mffi2tcut24q0ed08",
       "status": "confirmed",
-      "summary": "Birthday of the Governor of Sabah (Sabah)",
-      "region": "Malaysia",
-      "date": "2025-10-04"
-    },
-    {
-      "id": "20251011_7i8q5f3iaq2i1ngkptl6he83os",
-      "status": "confirmed",
-      "summary": "Birthday of the Governor of Sarawak (Sarawak)",
-      "region": "Malaysia",
-      "date": "2025-10-11"
-    },
-    {
-      "id": "20251107_q6tqljt87gdho1kgno97rmnhnc",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Perak (Perak)",
-      "region": "Malaysia",
-      "date": "2025-11-07"
-    },
-    {
-      "id": "20251111_7q9i3kftoqu25b5dj88a94f6f4",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Kelantan (Kelantan)",
-      "region": "Malaysia",
-      "date": "2025-11-11"
-    },
-    {
-      "id": "20251112_tc8fmgvvsqlncbnla1prr4c01o",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Kelantan (Day 2) (Kelantan)",
-      "region": "Malaysia",
-      "date": "2025-11-12"
-    },
-    {
-      "id": "20251211_p4qlt9ld95v9vv30akuvsc4r04",
-      "status": "confirmed",
-      "summary": "Birthday of the Sultan of Selangor (Selangor)",
-      "region": "Malaysia",
-      "date": "2025-12-11"
-    },
-    {
-      "id": "20251224_dn1gkqug3caudps88hgjdetmrk",
-      "status": "confirmed",
-      "summary": "Christmas Eve (Sabah)",
+      "summary": "Christmas Eve",
       "region": "Malaysia",
       "date": "2025-12-24"
     },
@@ -38736,16 +37700,16 @@
       "date": "2024-04-10"
     },
     {
-      "id": "20240411_0dd6d43r6sa2ekb9mu2r4ouluk",
+      "id": "20240411_r181e77et6bgp7kh3k1kgi4ll0",
       "status": "confirmed",
-      "summary": "Ramdan Bayram Holiday",
+      "summary": "Ramdan Bayram Holiday (tentative)",
       "region": "Montenegro",
       "date": "2024-04-11"
     },
     {
-      "id": "20240412_02ni4ac5bn7pep9s8a2tal4om0",
+      "id": "20240412_c6obj2du955ejtfdmlugelpun4",
       "status": "confirmed",
-      "summary": "Ramdan Bayram Holiday",
+      "summary": "Ramdan Bayram Holiday (tentative)",
       "region": "Montenegro",
       "date": "2024-04-12"
     },
@@ -38939,30 +37903,30 @@
       "date": "2025-01-08"
     },
     {
-      "id": "20250301_sgaf7q0p8so16qvvv200hk1oug",
+      "id": "20250301_ae5l9jvoe6mnaueonqtvk6fea0",
       "status": "confirmed",
-      "summary": "Ramadan Start",
+      "summary": "Ramadan Start (tentative)",
       "region": "Montenegro",
       "date": "2025-03-01"
     },
     {
-      "id": "20250331_ce5g6o4pe6b2k0t62fht8k5s3s",
+      "id": "20250331_cbmqctdi3ink4tio88em5eb6o4",
       "status": "confirmed",
-      "summary": "Ramdan Bayram",
+      "summary": "Ramdan Bayram (tentative)",
       "region": "Montenegro",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_mm35hmo4t0pptnql03e549pgk0",
+      "id": "20250401_efod7kk3tjl739hraj8nghpev0",
       "status": "confirmed",
-      "summary": "Ramdan Bayram Holiday",
+      "summary": "Ramdan Bayram Holiday (tentative)",
       "region": "Montenegro",
       "date": "2025-04-01"
     },
     {
-      "id": "20250402_cecvgqgf6gosvsk5lphvvim17g",
+      "id": "20250402_gjmmtueuv816qlpqs1cunhiuv4",
       "status": "confirmed",
-      "summary": "Ramdan Bayram Holiday",
+      "summary": "Ramdan Bayram Holiday (tentative)",
       "region": "Montenegro",
       "date": "2025-04-02"
     },
@@ -39030,23 +37994,23 @@
       "date": "2025-05-22"
     },
     {
-      "id": "20250607_crv3l81krb5q9v0qqbq27rs1c0",
+      "id": "20250607_56u0k1v3dqiir357t814uhl2b0",
       "status": "confirmed",
-      "summary": "Kurban Bayram",
+      "summary": "Kurban Bayram (tentative)",
       "region": "Montenegro",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_vtq6hejga38055abo2fa1450is",
+      "id": "20250608_aq4792jt7dgonavvjfrh2sn7uo",
       "status": "confirmed",
-      "summary": "Kurban Bayram Holiday",
+      "summary": "Kurban Bayram Holiday (tentative)",
       "region": "Montenegro",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_25rcg1rdef2u9h1118jbmka0mk",
+      "id": "20250609_45264vr6u4horvb4omkg856vt0",
       "status": "confirmed",
-      "summary": "Kurban Bayram Holiday",
+      "summary": "Kurban Bayram Holiday (tentative)",
       "region": "Montenegro",
       "date": "2025-06-09"
     },
@@ -43456,9 +42420,9 @@
       "date": "2025-02-26"
     },
     {
-      "id": "20250301_3o098gqn6c32h4j95et90hasgc",
+      "id": "20250301_0c590bkmuuegjfjgtb4g46b1k0",
       "status": "confirmed",
-      "summary": "Ramadan Start",
+      "summary": "Ramadan Start (tentative)",
       "region": "Mauritius",
       "date": "2025-03-01"
     },
@@ -43477,9 +42441,9 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250331_256tsftcsoh8rluarejh4mmkoo",
+      "id": "20250331_tqldf8jgd1liglpvb26htpgt7k",
       "status": "confirmed",
-      "summary": "Eid al-Fitr",
+      "summary": "Eid al-Fitr (tentative)",
       "region": "Mauritius",
       "date": "2025-03-31"
     },
@@ -44975,34 +43939,6 @@
       "date": "2024-01-02"
     },
     {
-      "id": "20240122_8rutdm79o7aktp49f4250ste1o",
-      "status": "confirmed",
-      "summary": "Wellington Anniversary Day (regional holiday)",
-      "region": "New Zealand",
-      "date": "2024-01-22"
-    },
-    {
-      "id": "20240129_96bvto41r4s7ierkmj79tu4j04",
-      "status": "confirmed",
-      "summary": "Northland Anniversary Day (Northland)",
-      "region": "New Zealand",
-      "date": "2024-01-29"
-    },
-    {
-      "id": "20240129_lo4mahfqaq23qnf77mv53d3djo",
-      "status": "confirmed",
-      "summary": "Auckland Anniversary Day (regional holiday)",
-      "region": "New Zealand",
-      "date": "2024-01-29"
-    },
-    {
-      "id": "20240129_ri22s7l3hf6uq9iv5ptfqp03q4",
-      "status": "confirmed",
-      "summary": "Nelson Anniversary Day (regional holiday)",
-      "region": "New Zealand",
-      "date": "2024-01-29"
-    },
-    {
       "id": "20240206_siiu4vrc35nadotud1em9nrqps",
       "status": "confirmed",
       "summary": "Waitangi Day",
@@ -45015,20 +43951,6 @@
       "summary": "Valentine's Day",
       "region": "New Zealand",
       "date": "2024-02-14"
-    },
-    {
-      "id": "20240311_9923n7e954f4rtg1sqsf5gllc4",
-      "status": "confirmed",
-      "summary": "Taranaki Anniversary Day (Taranaki)",
-      "region": "New Zealand",
-      "date": "2024-03-11"
-    },
-    {
-      "id": "20240325_68acnmeq3oo8rje9nd9p340rh8",
-      "status": "confirmed",
-      "summary": "Otago Anniversary Day (Otago)",
-      "region": "New Zealand",
-      "date": "2024-03-25"
     },
     {
       "id": "20240329_vjf7afkdbriisqnuvi2h3m8ig8",
@@ -45066,13 +43988,6 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240402_plbdr9rr6f5v07povfi5ge8lu8",
-      "status": "confirmed",
-      "summary": "Southland Anniversary Day (Southland)",
-      "region": "New Zealand",
-      "date": "2024-04-02"
-    },
-    {
       "id": "20240425_2sh6vs548dgdd3s0tohnpljeb4",
       "status": "confirmed",
       "summary": "ANZAC Day",
@@ -45108,20 +44023,6 @@
       "date": "2024-09-01"
     },
     {
-      "id": "20240923_3a5vv69ig4nput169ukfbth84o",
-      "status": "confirmed",
-      "summary": "South Canterbury Anniversary Day (Canterbury)",
-      "region": "New Zealand",
-      "date": "2024-09-23"
-    },
-    {
-      "id": "20241025_dqdndm04ld3s87dlhlqtq34a6o",
-      "status": "confirmed",
-      "summary": "Hawke's Bay Anniversary Day (Hawke's Bay)",
-      "region": "New Zealand",
-      "date": "2024-10-25"
-    },
-    {
       "id": "20241028_7ugk1t8r438f6e28lil8tv81hg",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -45129,39 +44030,11 @@
       "date": "2024-10-28"
     },
     {
-      "id": "20241104_st6jfenmh8o25vflru14a3n8rc",
-      "status": "confirmed",
-      "summary": "Marlborough Anniversary Day (Marlborough)",
-      "region": "New Zealand",
-      "date": "2024-11-04"
-    },
-    {
       "id": "20241105_p4vif3dldnjrhqulc4ct0eq534",
       "status": "confirmed",
       "summary": "Guy Fawkes Night",
       "region": "New Zealand",
       "date": "2024-11-05"
-    },
-    {
-      "id": "20241115_7bu85fuv2jna5tm22450nutjp8",
-      "status": "confirmed",
-      "summary": "Canterbury Anniversary Day (Canterbury)",
-      "region": "New Zealand",
-      "date": "2024-11-15"
-    },
-    {
-      "id": "20241202_ikori843f5vq1qllrcuvl7jee8",
-      "status": "confirmed",
-      "summary": "Westland Anniversary Day (West Coast)",
-      "region": "New Zealand",
-      "date": "2024-12-02"
-    },
-    {
-      "id": "20241202_n0bcuc3qi8j6tinf2iuec3gvf4",
-      "status": "confirmed",
-      "summary": "Chatham Islands Anniversary Day (Chatham Islands)",
-      "region": "New Zealand",
-      "date": "2024-12-02"
     },
     {
       "id": "20241224_igh88u7g4nf3u48c2ve7nqgk8k",
@@ -45206,34 +44079,6 @@
       "date": "2025-01-02"
     },
     {
-      "id": "20250120_pheqg4etdknukbk21v2ftctlfc",
-      "status": "confirmed",
-      "summary": "Wellington Anniversary Day (regional holiday)",
-      "region": "New Zealand",
-      "date": "2025-01-20"
-    },
-    {
-      "id": "20250127_0l427cfnujo2g69aov6drf1p7g",
-      "status": "confirmed",
-      "summary": "Northland Anniversary Day (Northland)",
-      "region": "New Zealand",
-      "date": "2025-01-27"
-    },
-    {
-      "id": "20250127_t8dq53dddcvi9pdts04ofs7j5o",
-      "status": "confirmed",
-      "summary": "Auckland Anniversary Day (regional holiday)",
-      "region": "New Zealand",
-      "date": "2025-01-27"
-    },
-    {
-      "id": "20250203_1qal1vqg3ejb57hcvfgu64obso",
-      "status": "confirmed",
-      "summary": "Nelson Anniversary Day (regional holiday)",
-      "region": "New Zealand",
-      "date": "2025-02-03"
-    },
-    {
       "id": "20250206_j3i2bvqgfl1dhkj835it2e4q6c",
       "status": "confirmed",
       "summary": "Waitangi Day",
@@ -45246,20 +44091,6 @@
       "summary": "Valentine's Day",
       "region": "New Zealand",
       "date": "2025-02-14"
-    },
-    {
-      "id": "20250310_64b86jp4s89scagd743kvdkg9g",
-      "status": "confirmed",
-      "summary": "Taranaki Anniversary Day (Taranaki)",
-      "region": "New Zealand",
-      "date": "2025-03-10"
-    },
-    {
-      "id": "20250324_l3uhg4sdkuk3j8pg5kjh5dfs04",
-      "status": "confirmed",
-      "summary": "Otago Anniversary Day (Otago)",
-      "region": "New Zealand",
-      "date": "2025-03-24"
     },
     {
       "id": "20250401_ifonjgm7t9b1q9hbpnoicfemn0",
@@ -45297,13 +44128,6 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250422_08fojmu18b77pkunq8ol2u24ko",
-      "status": "confirmed",
-      "summary": "Southland Anniversary Day (Southland)",
-      "region": "New Zealand",
-      "date": "2025-04-22"
-    },
-    {
       "id": "20250425_p0ajcagc0bc23r0obqbegsa734",
       "status": "confirmed",
       "summary": "ANZAC Day",
@@ -45339,20 +44163,6 @@
       "date": "2025-09-07"
     },
     {
-      "id": "20250922_g1tfb8c5sioc4vllu8b4uh93tk",
-      "status": "confirmed",
-      "summary": "South Canterbury Anniversary Day (Canterbury)",
-      "region": "New Zealand",
-      "date": "2025-09-22"
-    },
-    {
-      "id": "20251024_rtvb03kalpi92o7b304jolir08",
-      "status": "confirmed",
-      "summary": "Hawke's Bay Anniversary Day (Hawke's Bay)",
-      "region": "New Zealand",
-      "date": "2025-10-24"
-    },
-    {
       "id": "20251027_anha7h791g6ish09dfrb0t8np0",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -45360,39 +44170,11 @@
       "date": "2025-10-27"
     },
     {
-      "id": "20251103_4cgb157i4vhtevv4ah6die9dkk",
-      "status": "confirmed",
-      "summary": "Marlborough Anniversary Day (Marlborough)",
-      "region": "New Zealand",
-      "date": "2025-11-03"
-    },
-    {
       "id": "20251105_so8bnanhvt7qssq47atp2or0dc",
       "status": "confirmed",
       "summary": "Guy Fawkes Night",
       "region": "New Zealand",
       "date": "2025-11-05"
-    },
-    {
-      "id": "20251114_j5su2s71or7dvlfucittahr6ls",
-      "status": "confirmed",
-      "summary": "Canterbury Anniversary Day (Canterbury)",
-      "region": "New Zealand",
-      "date": "2025-11-14"
-    },
-    {
-      "id": "20251201_5kdn72jvuq1jiv67mnrtste47o",
-      "status": "confirmed",
-      "summary": "Westland Anniversary Day (West Coast)",
-      "region": "New Zealand",
-      "date": "2025-12-01"
-    },
-    {
-      "id": "20251201_ifmbds58cduoqjph9crl51jifo",
-      "status": "confirmed",
-      "summary": "Chatham Islands Anniversary Day (Chatham Islands)",
-      "region": "New Zealand",
-      "date": "2025-12-01"
     },
     {
       "id": "20251224_tern3jhb4jenbpl0eis0tbmk00",
@@ -46024,32 +44806,11 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240121_kfm0s76fdnvn5m46p8r0s375jo",
-      "status": "confirmed",
-      "summary": "Princess Ingrid Alexandra's Day",
-      "region": "Norway",
-      "date": "2024-01-21"
-    },
-    {
-      "id": "20240206_8tcsaj3obvtaip7njphnogv83c",
-      "status": "confirmed",
-      "summary": "Saami National Day",
-      "region": "Norway",
-      "date": "2024-02-06"
-    },
-    {
       "id": "20240211_4b9f9r73r0rkr4n06mm1lepvvs",
       "status": "confirmed",
       "summary": "Carnival",
       "region": "Norway",
       "date": "2024-02-11"
-    },
-    {
-      "id": "20240221_pemr2os8e537vpk0olhmrvs280",
-      "status": "confirmed",
-      "summary": "King Harald V's Day",
-      "region": "Norway",
-      "date": "2024-02-21"
     },
     {
       "id": "20240324_slklqfrdou9v9qo9p82edelhkg",
@@ -46150,41 +44911,6 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240607_l0l9h9j0t3toc7ir15ucv20100",
-      "status": "confirmed",
-      "summary": "Dissolution of Union With Sweden (1905)",
-      "region": "Norway",
-      "date": "2024-06-07"
-    },
-    {
-      "id": "20240704_sko9kp3v023td10rs7uam6ifko",
-      "status": "confirmed",
-      "summary": "Queen Sonja's Day",
-      "region": "Norway",
-      "date": "2024-07-04"
-    },
-    {
-      "id": "20240720_nvktc5s890s8v3c7o7073hujro",
-      "status": "confirmed",
-      "summary": "Crown Prince Haakon's Day",
-      "region": "Norway",
-      "date": "2024-07-20"
-    },
-    {
-      "id": "20240729_pef5oo8q6bp777l7f2a2h9uohk",
-      "status": "confirmed",
-      "summary": "St. Olaf's Day",
-      "region": "Norway",
-      "date": "2024-07-29"
-    },
-    {
-      "id": "20240819_hchiqj0ip6ehsks4cd58dibpgk",
-      "status": "confirmed",
-      "summary": "Crown Princess Mette-Marit's Day",
-      "region": "Norway",
-      "date": "2024-08-19"
-    },
-    {
       "id": "20241027_de3vljd9u609odgegq5vlqtmvk",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
@@ -46267,27 +44993,6 @@
       "summary": "New Year's Day",
       "region": "Norway",
       "date": "2025-01-01"
-    },
-    {
-      "id": "20250121_ir7qf63gog1jg0eurpoic0n610",
-      "status": "confirmed",
-      "summary": "Princess Ingrid Alexandra's Day",
-      "region": "Norway",
-      "date": "2025-01-21"
-    },
-    {
-      "id": "20250206_4auuk8b1f5ip1fmppvqn50bb5g",
-      "status": "confirmed",
-      "summary": "Saami National Day",
-      "region": "Norway",
-      "date": "2025-02-06"
-    },
-    {
-      "id": "20250221_iro1muo9jk23mg38e6ofitff4o",
-      "status": "confirmed",
-      "summary": "King Harald V's Day",
-      "region": "Norway",
-      "date": "2025-02-21"
     },
     {
       "id": "20250302_gh1sdhr9fnk3gc5gmm8afgnqe0",
@@ -46381,13 +45086,6 @@
       "date": "2025-06-07"
     },
     {
-      "id": "20250607_puarff3np77eefpb4i8t2fs9po",
-      "status": "confirmed",
-      "summary": "Dissolution of Union With Sweden (1905)",
-      "region": "Norway",
-      "date": "2025-06-07"
-    },
-    {
       "id": "20250608_5brgipg6fkh9q5jvah3k60cg38",
       "status": "confirmed",
       "summary": "Whit Sunday",
@@ -46400,41 +45098,6 @@
       "summary": "Whit Monday",
       "region": "Norway",
       "date": "2025-06-09"
-    },
-    {
-      "id": "20250704_r2479mb4871o30em5maov80gjk",
-      "status": "confirmed",
-      "summary": "Queen Sonja's Day",
-      "region": "Norway",
-      "date": "2025-07-04"
-    },
-    {
-      "id": "20250720_nuo22lcpn5194jtllv6rci4f8g",
-      "status": "confirmed",
-      "summary": "Crown Prince Haakon's Day",
-      "region": "Norway",
-      "date": "2025-07-20"
-    },
-    {
-      "id": "20250729_no1t1ffu0l2agdeou4jvjbpfdc",
-      "status": "confirmed",
-      "summary": "St. Olaf's Day",
-      "region": "Norway",
-      "date": "2025-07-29"
-    },
-    {
-      "id": "20250819_imgfg42fgb0lv7l5682q0a7a8o",
-      "status": "confirmed",
-      "summary": "Crown Princess Mette-Marit's Day",
-      "region": "Norway",
-      "date": "2025-08-19"
-    },
-    {
-      "id": "20250908_aispo4k810k5o3a9jdmtsm8n7o",
-      "status": "confirmed",
-      "summary": "Election Day",
-      "region": "Norway",
-      "date": "2025-09-08"
     },
     {
       "id": "20251026_k7hll764d1ro946pcgf4ekip74",
@@ -49017,9 +47680,9 @@
       "date": "2024-09-06"
     },
     {
-      "id": "20240916_bppdsq53khesp1pjq5qdk248kg",
+      "id": "20240916_660sgd30ho4g29os7kc5gdq0e8",
       "status": "confirmed",
-      "summary": "Eid Milad un-Nabi",
+      "summary": "Eid Milad un-Nabi (tentative)",
       "region": "Pakistan",
       "date": "2024-09-16"
     },
@@ -49038,9 +47701,9 @@
       "date": "2024-10-12"
     },
     {
-      "id": "20241016_2ovtejvjghk89sikdv89qc01ug",
+      "id": "20241016_j2efh41kmie6avmua4fa5ood7s",
       "status": "confirmed",
-      "summary": "Giarhwin Sharief",
+      "summary": "Giarhwin Sharief (tentative)",
       "region": "Pakistan",
       "date": "2024-10-16"
     },
@@ -49115,9 +47778,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250127_uqfqfo0kln3hh9122kquligoj4",
+      "id": "20250127_va6q2rban7vaeg6gsf39bk8gjc",
       "status": "confirmed",
-      "summary": "Shab e-Meraj",
+      "summary": "Shab e-Meraj (tentative)",
       "region": "Pakistan",
       "date": "2025-01-27"
     },
@@ -49136,16 +47799,16 @@
       "date": "2025-02-05"
     },
     {
-      "id": "20250214_evmdtfh0c882hnofv13l8he208",
+      "id": "20250214_c3750dur9id6plev83omg29aks",
       "status": "confirmed",
-      "summary": "Shab e-Barat",
+      "summary": "Shab e-Barat (tentative)",
       "region": "Pakistan",
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_6r23f6v3ncf2jhl84d1744ogcg",
+      "id": "20250301_fgn30d3m1avcmdnqe6nu6l8n0c",
       "status": "confirmed",
-      "summary": "Ramadan Start",
+      "summary": "Ramadan Start (tentative)",
       "region": "Pakistan",
       "date": "2025-03-01"
     },
@@ -49164,30 +47827,30 @@
       "date": "2025-03-23"
     },
     {
-      "id": "20250331_7c46g36tajbqloj1rv57kvk828",
+      "id": "20250331_3f5s4068f3u0b90d1essd4p5l0",
       "status": "confirmed",
-      "summary": "Eid-ul-Fitr",
+      "summary": "Eid-ul-Fitr (tentative)",
       "region": "Pakistan",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_6j96em78acaflqih192hjqjk84",
+      "id": "20250401_oea63bdgfd2tqcitg49ppt3ssg",
       "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday",
+      "summary": "Eid-ul-Fitr Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-04-01"
     },
     {
-      "id": "20250402_alrh28da1gcsj6o6d4ggs2e2bc",
+      "id": "20250402_kqvc4b005936m7vsb16o9nn3bs",
       "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday",
+      "summary": "Eid-ul-Fitr Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-04-02"
     },
     {
-      "id": "20250403_tqukvv59nvj2jj8cib18nud3go",
+      "id": "20250403_250olg4vtp8lnrlik7ru9vm42k",
       "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday",
+      "summary": "Eid-ul-Fitr Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-04-03"
     },
@@ -49234,23 +47897,23 @@
       "date": "2025-05-12"
     },
     {
-      "id": "20250607_m85bhsdcnj2ohkggfu0ulsqg88",
+      "id": "20250607_cl9el9cigrnk4g170t7689fqks",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Pakistan",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_8t9dj8nki3aqokcn69iu2rua7s",
+      "id": "20250608_ba7i55aqsof0binj01nn6cjbgo",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
+      "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_fke345gq3h58deebi86dnp8c30",
+      "id": "20250609_90if5be6cguh7938bb5vpjsntg",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
+      "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-06-09"
     },
@@ -49262,16 +47925,16 @@
       "date": "2025-07-01"
     },
     {
-      "id": "20250705_ce6avtse9oe7d356atrhe37lfk",
+      "id": "20250705_u16e7rmc95u11i3akkh1pv01tg",
       "status": "confirmed",
-      "summary": "Ashura",
+      "summary": "Ashura (tentative)",
       "region": "Pakistan",
       "date": "2025-07-05"
     },
     {
-      "id": "20250706_hpruobkubm7gbduvpbdb1veqek",
+      "id": "20250706_qcaj0rltavn9kqfk25h5tq6n74",
       "status": "confirmed",
-      "summary": "Ashura Holiday",
+      "summary": "Ashura Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-07-06"
     },
@@ -49283,23 +47946,23 @@
       "date": "2025-08-14"
     },
     {
-      "id": "20250815_1unrgltj9gtrdlnlh8r2fnqbj0",
+      "id": "20250815_guvtlpdcagsqb1cbsojjvcp0bg",
       "status": "confirmed",
-      "summary": "Chelum",
+      "summary": "Chelum (tentative)",
       "region": "Pakistan",
       "date": "2025-08-15"
     },
     {
-      "id": "20250904_33p66klkosd2334jkkhiln700s",
+      "id": "20250904_aj6j9q33bnuqf16ket4pca56kg",
       "status": "confirmed",
-      "summary": "Giarhwin Sharief",
+      "summary": "Giarhwin Sharief (tentative)",
       "region": "Pakistan",
       "date": "2025-09-04"
     },
     {
-      "id": "20250905_2le0vcpe5g26p65dq6dedjn18c",
+      "id": "20250905_ogh89f2sjbrfhqlbol0lg9nr18",
       "status": "confirmed",
-      "summary": "Eid Milad un-Nabi",
+      "summary": "Eid Milad un-Nabi (tentative)",
       "region": "Pakistan",
       "date": "2025-09-05"
     },
@@ -49933,13 +48596,6 @@
       "date": "2024-03-19"
     },
     {
-      "id": "20240319_i47qiola82jnj4a907sehumcq4",
-      "status": "confirmed",
-      "summary": "St. Joseph's Day (Santarém)",
-      "region": "Portugal",
-      "date": "2024-03-19"
-    },
-    {
       "id": "20240329_f3rp33ao4q3dic2beci7abk00g",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -49959,13 +48615,6 @@
       "summary": "Easter Sunday",
       "region": "Portugal",
       "date": "2024-03-31"
-    },
-    {
-      "id": "20240416_54fs3hl1bjhd8jmntisr2r1g7s",
-      "status": "confirmed",
-      "summary": "Our Lady of Mércoles (Castelo Branco)",
-      "region": "Portugal",
-      "date": "2024-04-16"
     },
     {
       "id": "20240425_aj1bb9g9nlplbal7fom3k35f04",
@@ -49989,41 +48638,6 @@
       "date": "2024-05-05"
     },
     {
-      "id": "20240509_hqffvqg58h579qk2od2e7dqajs",
-      "status": "confirmed",
-      "summary": "Ascension Day (Beja)",
-      "region": "Portugal",
-      "date": "2024-05-09"
-    },
-    {
-      "id": "20240512_lohc7eqi0kpcm331rgnualje18",
-      "status": "confirmed",
-      "summary": "St. Joana's Day (Aveiro)",
-      "region": "Portugal",
-      "date": "2024-05-12"
-    },
-    {
-      "id": "20240520_abln120694fhitkvkfi8ek7i8s",
-      "status": "confirmed",
-      "summary": "Azores Day (Azores)",
-      "region": "Portugal",
-      "date": "2024-05-20"
-    },
-    {
-      "id": "20240522_ja7d3v5ba4200mrgq4heg77b54",
-      "status": "confirmed",
-      "summary": "Leiria Day (Leiria)",
-      "region": "Portugal",
-      "date": "2024-05-22"
-    },
-    {
-      "id": "20240523_p6aghpna9lakll57n2ivb0d04o",
-      "status": "confirmed",
-      "summary": "Portalegre Day (Portalegre)",
-      "region": "Portugal",
-      "date": "2024-05-23"
-    },
-    {
       "id": "20240530_rt6thg19lce8npaj901vfcn104",
       "status": "confirmed",
       "summary": "Corpus Christi",
@@ -50038,81 +48652,11 @@
       "date": "2024-06-10"
     },
     {
-      "id": "20240613_03lvnuhjqcvolgtbudrl5lcits",
-      "status": "confirmed",
-      "summary": "St. Anthony's Day (regional holiday)",
-      "region": "Portugal",
-      "date": "2024-06-13"
-    },
-    {
-      "id": "20240624_qoskp2mq2slj7te3c8ein69irs",
-      "status": "confirmed",
-      "summary": "St. John's Day (regional holiday)",
-      "region": "Portugal",
-      "date": "2024-06-24"
-    },
-    {
-      "id": "20240629_k0n8imvnn8mh7bgvfo1f8qe6c4",
-      "status": "confirmed",
-      "summary": "St. Peter's Day (Évora)",
-      "region": "Portugal",
-      "date": "2024-06-29"
-    },
-    {
-      "id": "20240701_0p6nm61i6c554vvsnqemuc0t7k",
-      "status": "confirmed",
-      "summary": "Madeira Day (Madeira)",
-      "region": "Portugal",
-      "date": "2024-07-01"
-    },
-    {
-      "id": "20240704_egc688b1gog6ttidhp2glpuj6c",
-      "status": "confirmed",
-      "summary": "St. Elizabeth's Day (Coimbra)",
-      "region": "Portugal",
-      "date": "2024-07-04"
-    },
-    {
       "id": "20240815_f4g97f1va22ib9cilvrrtn1e88",
       "status": "confirmed",
       "summary": "Assumption of Mary",
       "region": "Portugal",
       "date": "2024-08-15"
-    },
-    {
-      "id": "20240820_0afhh3qap6rppl69vc68v7lc6o",
-      "status": "confirmed",
-      "summary": "Our Lady of Sorrows (Viana do Castelo)",
-      "region": "Portugal",
-      "date": "2024-08-20"
-    },
-    {
-      "id": "20240822_lb7auo58udrm3fbdhgrchrjedc",
-      "status": "confirmed",
-      "summary": "Our Lady of Graces (Bragança)",
-      "region": "Portugal",
-      "date": "2024-08-22"
-    },
-    {
-      "id": "20240907_3sh7ummnm4q8dctug0ebsj5inc",
-      "status": "confirmed",
-      "summary": "Faro Day (Faro)",
-      "region": "Portugal",
-      "date": "2024-09-07"
-    },
-    {
-      "id": "20240915_mdgikekhf584kddpfirabaop8k",
-      "status": "confirmed",
-      "summary": "Birth of Bocage (Setúbal)",
-      "region": "Portugal",
-      "date": "2024-09-15"
-    },
-    {
-      "id": "20240921_krr0q54jhl6hgrvj7pve5j0rls",
-      "status": "confirmed",
-      "summary": "St. Matthew's Day (Viseu)",
-      "region": "Portugal",
-      "date": "2024-09-21"
     },
     {
       "id": "20241005_rs47066m9eolfq4khlbb9qn9fs",
@@ -50134,13 +48678,6 @@
       "summary": "All Saints' Day",
       "region": "Portugal",
       "date": "2024-11-01"
-    },
-    {
-      "id": "20241127_jedbctnvs860eun8prtq2kt55k",
-      "status": "confirmed",
-      "summary": "Foral of Sancho I (Guarda)",
-      "region": "Portugal",
-      "date": "2024-11-27"
     },
     {
       "id": "20241201_u2o36paaifbc1mcj74gap0ohqk",
@@ -50199,13 +48736,6 @@
       "date": "2025-03-04"
     },
     {
-      "id": "20250319_n4ihnlairmm6itjf4svuqc64rc",
-      "status": "confirmed",
-      "summary": "St. Joseph's Day (Santarém)",
-      "region": "Portugal",
-      "date": "2025-03-19"
-    },
-    {
       "id": "20250319_psbf5evesiqji7fl77164v7uus",
       "status": "confirmed",
       "summary": "Fathers' Day",
@@ -50255,60 +48785,11 @@
       "date": "2025-05-04"
     },
     {
-      "id": "20250506_1c1g97hpf6e6hkor287mj0kg64",
-      "status": "confirmed",
-      "summary": "Our Lady of Mércoles (Castelo Branco)",
-      "region": "Portugal",
-      "date": "2025-05-06"
-    },
-    {
-      "id": "20250512_kp9acs9lj8d7lr4rpqc4o9b46c",
-      "status": "confirmed",
-      "summary": "St. Joana's Day (Aveiro)",
-      "region": "Portugal",
-      "date": "2025-05-12"
-    },
-    {
-      "id": "20250522_s5rmniueuogqa85gtjvg0ohdhc",
-      "status": "confirmed",
-      "summary": "Leiria Day (Leiria)",
-      "region": "Portugal",
-      "date": "2025-05-22"
-    },
-    {
-      "id": "20250523_gtqf5r7utqdd03ru1gh185jtl8",
-      "status": "confirmed",
-      "summary": "Portalegre Day (Portalegre)",
-      "region": "Portugal",
-      "date": "2025-05-23"
-    },
-    {
-      "id": "20250529_03bs9qcotaq8hbrq1isfp9i23g",
-      "status": "confirmed",
-      "summary": "Ascension Day (Beja)",
-      "region": "Portugal",
-      "date": "2025-05-29"
-    },
-    {
-      "id": "20250609_tq4k7i2ndb9l6m60mqh49oi4jo",
-      "status": "confirmed",
-      "summary": "Azores Day (Azores)",
-      "region": "Portugal",
-      "date": "2025-06-09"
-    },
-    {
       "id": "20250610_hpel6qq2oepj6uadu6ho6g2fa8",
       "status": "confirmed",
       "summary": "Portugal Day",
       "region": "Portugal",
       "date": "2025-06-10"
-    },
-    {
-      "id": "20250613_eb3qa73ntgekq77fp06hci2jj0",
-      "status": "confirmed",
-      "summary": "St. Anthony's Day (regional holiday)",
-      "region": "Portugal",
-      "date": "2025-06-13"
     },
     {
       "id": "20250619_apl4te8heed4ef8flv07j11qng",
@@ -50318,74 +48799,11 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250624_seeufr4atg1h2q8nj0s37vcdu8",
-      "status": "confirmed",
-      "summary": "St. John's Day (regional holiday)",
-      "region": "Portugal",
-      "date": "2025-06-24"
-    },
-    {
-      "id": "20250629_d5pkprfin9ui31rjh22q0jv8ck",
-      "status": "confirmed",
-      "summary": "St. Peter's Day (Évora)",
-      "region": "Portugal",
-      "date": "2025-06-29"
-    },
-    {
-      "id": "20250701_vm4iggclbt6fhh7bp9km2i6o38",
-      "status": "confirmed",
-      "summary": "Madeira Day (Madeira)",
-      "region": "Portugal",
-      "date": "2025-07-01"
-    },
-    {
-      "id": "20250704_26hu6102jfa9ave1mksltnp81g",
-      "status": "confirmed",
-      "summary": "St. Elizabeth's Day (Coimbra)",
-      "region": "Portugal",
-      "date": "2025-07-04"
-    },
-    {
       "id": "20250815_e1rnvvh0oif24puo0dbvssidd0",
       "status": "confirmed",
       "summary": "Assumption of Mary",
       "region": "Portugal",
       "date": "2025-08-15"
-    },
-    {
-      "id": "20250820_hnilk5e0chqbsgeqomt1bo3dsg",
-      "status": "confirmed",
-      "summary": "Our Lady of Sorrows (Viana do Castelo)",
-      "region": "Portugal",
-      "date": "2025-08-20"
-    },
-    {
-      "id": "20250822_kalf6djt1n6umdk61oe3spkics",
-      "status": "confirmed",
-      "summary": "Our Lady of Graces (Bragança)",
-      "region": "Portugal",
-      "date": "2025-08-22"
-    },
-    {
-      "id": "20250907_bhtu99hhfu6eu18dg01j1rqbro",
-      "status": "confirmed",
-      "summary": "Faro Day (Faro)",
-      "region": "Portugal",
-      "date": "2025-09-07"
-    },
-    {
-      "id": "20250915_1c32hdli9qu8d71004i06dtjlg",
-      "status": "confirmed",
-      "summary": "Birth of Bocage (Setúbal)",
-      "region": "Portugal",
-      "date": "2025-09-15"
-    },
-    {
-      "id": "20250921_pi5r7msvshhhtc9h2b42m10dvo",
-      "status": "confirmed",
-      "summary": "St. Matthew's Day (Viseu)",
-      "region": "Portugal",
-      "date": "2025-09-21"
     },
     {
       "id": "20251005_80f2qagei1idsacavek6ucqpdg",
@@ -50407,13 +48825,6 @@
       "summary": "All Saints' Day",
       "region": "Portugal",
       "date": "2025-11-01"
-    },
-    {
-      "id": "20251127_a4pbaimpc1m2iqieliqf67s1p8",
-      "status": "confirmed",
-      "summary": "Foral of Sancho I (Guarda)",
-      "region": "Portugal",
-      "date": "2025-11-27"
     },
     {
       "id": "20251201_ldf9nhj6ot6ar3ev4kmogl01qk",
@@ -55990,9 +54401,9 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240207_c624jh6e0tmlkk2e8tkmcm7dg0",
+      "id": "20240207_gprr3f4hptuvroj4ffgrfg2i8o",
       "status": "confirmed",
-      "summary": "Isra and Mi'raj",
+      "summary": "Isra and Mi'raj (tentative)",
       "region": "Somalia",
       "date": "2024-02-07"
     },
@@ -56081,9 +54492,9 @@
       "date": "2024-07-16"
     },
     {
-      "id": "20240916_h7ntv2effnu8etr4lid413rkn0",
+      "id": "20240916_jo54gl9gvuks6a9pl1fvo8psh4",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday",
+      "summary": "The Prophet's Birthday (tentative)",
       "region": "Somalia",
       "date": "2024-09-16"
     },
@@ -56095,30 +54506,30 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250127_ho07m5ijdhjvsq1lo776gq5bvk",
+      "id": "20250127_ruq5ioejjm7pipn97cfh8402o0",
       "status": "confirmed",
-      "summary": "Isra and Mi'raj",
+      "summary": "Isra and Mi'raj (tentative)",
       "region": "Somalia",
       "date": "2025-01-27"
     },
     {
-      "id": "20250301_jppujbrimjpemp27tccv4fp5sc",
+      "id": "20250301_bar0kftmpbougdiq0h6ieoinpk",
       "status": "confirmed",
-      "summary": "Ramadan Start",
+      "summary": "Ramadan Start (tentative)",
       "region": "Somalia",
       "date": "2025-03-01"
     },
     {
-      "id": "20250331_o56s6u3ifmn4dafjcfihpgddfc",
+      "id": "20250331_tb5prlriq43pnk29qlggn4t6rk",
       "status": "confirmed",
-      "summary": "Eid al-Fitr",
+      "summary": "Eid al-Fitr (tentative)",
       "region": "Somalia",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_cefpf6j0h9un430i6d4421rb58",
+      "id": "20250401_abqjla2n7b234m70nj2g7d80n8",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday",
+      "summary": "Eid al-Fitr Holiday (tentative)",
       "region": "Somalia",
       "date": "2025-04-01"
     },
@@ -56144,16 +54555,16 @@
       "date": "2025-05-19"
     },
     {
-      "id": "20250607_om7nuq4al2c3blibp91l803l3k",
+      "id": "20250607_7btadllcaaehsud5e6joo5fkd8",
       "status": "confirmed",
-      "summary": "Eid al-Adha",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Somalia",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_tlbnqhdkuevepue1vcg0fui6kk",
+      "id": "20250608_efuci0fjqgm0uc23mk5lj517d8",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday",
+      "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Somalia",
       "date": "2025-06-08"
     },
@@ -56165,9 +54576,9 @@
       "date": "2025-06-26"
     },
     {
-      "id": "20250627_7chejn6ijc873klernth4hejuc",
+      "id": "20250627_1rbetrumatcsqhpjq4bp2atfp8",
       "status": "confirmed",
-      "summary": "Muharram",
+      "summary": "Muharram (tentative)",
       "region": "Somalia",
       "date": "2025-06-27"
     },
@@ -56179,16 +54590,16 @@
       "date": "2025-07-01"
     },
     {
-      "id": "20250706_18i04chc8ecqebqqvreduuef0k",
+      "id": "20250706_oqe0f5oq4tqfh1kb46iq8jcgsg",
       "status": "confirmed",
-      "summary": "Ashura",
+      "summary": "Ashura (tentative)",
       "region": "Somalia",
       "date": "2025-07-06"
     },
     {
-      "id": "20250905_62cinrvfjcjjt51558t2g28fag",
+      "id": "20250905_lsirrp9mhs7tcb80ahk5suss5k",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday",
+      "summary": "The Prophet's Birthday (tentative)",
       "region": "Somalia",
       "date": "2025-09-05"
     }
@@ -56561,9 +54972,9 @@
       "date": "2024-02-12"
     },
     {
-      "id": "20240213_ema9ki6htr8e942t9ppmv4q5u0",
+      "id": "20240213_k021jnrjb6378e1ijopurp4514",
       "status": "confirmed",
-      "summary": "Carnival Tuesday (Extremadura)",
+      "summary": "Carnival Tuesday",
       "region": "Spain",
       "date": "2024-02-13"
     },
@@ -56582,30 +54993,16 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240228_0cjchdsukcuosl94fgopekec20",
+      "id": "20240319_6q66h5aj995udb2d39smc3eg1c",
       "status": "confirmed",
-      "summary": "Day of Andalucía (Andalusia)",
+      "summary": "San Jose",
       "region": "Spain",
-      "date": "2024-02-28"
-    },
-    {
-      "id": "20240301_t69b10hfcregoghqlclqf12hf8",
-      "status": "confirmed",
-      "summary": "Day of the Balearic Islands (Balearic Islands)",
-      "region": "Spain",
-      "date": "2024-03-01"
+      "date": "2024-03-19"
     },
     {
       "id": "20240319_gnultdq3bshehpokn0ho0pndfs",
       "status": "confirmed",
       "summary": "Fathers' Day",
-      "region": "Spain",
-      "date": "2024-03-19"
-    },
-    {
-      "id": "20240319_mpso4nktppflf0osb3d1dqkkoo",
-      "status": "confirmed",
-      "summary": "San Jose (regional holiday)",
       "region": "Spain",
       "date": "2024-03-19"
     },
@@ -56617,9 +55014,9 @@
       "date": "2024-03-24"
     },
     {
-      "id": "20240328_7ftm4dhr5o6orhvlkheac894i8",
+      "id": "20240328_43kbopqakdd8e7cialn7o9ooj0",
       "status": "confirmed",
-      "summary": "Maundy Thursday (regional holiday)",
+      "summary": "Maundy Thursday",
       "region": "Spain",
       "date": "2024-03-28"
     },
@@ -56652,9 +55049,9 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_n0mc257gss02s8cjdir74scvjo",
+      "id": "20240401_lj59dht0iaj8mj061vbh04lhkk",
       "status": "confirmed",
-      "summary": "Easter Monday (regional holiday)",
+      "summary": "Easter Monday",
       "region": "Spain",
       "date": "2024-04-01"
     },
@@ -56666,20 +55063,6 @@
       "date": "2024-04-23"
     },
     {
-      "id": "20240423_ahcdcas7atp9oh6c4s80a288u0",
-      "status": "confirmed",
-      "summary": "Day of Aragón (Aragon)",
-      "region": "Spain",
-      "date": "2024-04-23"
-    },
-    {
-      "id": "20240423_g18cg4hqc6mt2m9iombd8nd3qs",
-      "status": "confirmed",
-      "summary": "Castile and León Day (Castile-Leon)",
-      "region": "Spain",
-      "date": "2024-04-23"
-    },
-    {
       "id": "20240501_cugdc13os378qecko82vk4l6d0",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
@@ -56687,25 +55070,11 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240502_4f6vra4m9bndlvqto6taimpk58",
-      "status": "confirmed",
-      "summary": "Day of Madrid (Madrid)",
-      "region": "Spain",
-      "date": "2024-05-02"
-    },
-    {
       "id": "20240505_ljmsktifp3lhairpqse1iiaj6g",
       "status": "confirmed",
       "summary": "Mothers' Day",
       "region": "Spain",
       "date": "2024-05-05"
-    },
-    {
-      "id": "20240517_o5ei385iu5bmt66mdk8u3btqic",
-      "status": "confirmed",
-      "summary": "Galicia Literature Day (Galicia)",
-      "region": "Spain",
-      "date": "2024-05-17"
     },
     {
       "id": "20240519_17j8r3bc1pi80j71jo7pntfkec",
@@ -56722,67 +55091,25 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240530_8g4lc4vevqjra8hf2dev7a1ie4",
+      "id": "20240530_dmo75ifo3bbniqvf6m000m9b4o",
       "status": "confirmed",
-      "summary": "Corpus Christi (Castile-La Mancha)",
+      "summary": "Corpus Christi",
       "region": "Spain",
       "date": "2024-05-30"
     },
     {
-      "id": "20240530_98no2oj32dui3rbinhkkntjsec",
+      "id": "20240624_50pn07kqs5tc4fi8i3jg4ab1vg",
       "status": "confirmed",
-      "summary": "Day of the Canary Islands (Canary Islands)",
-      "region": "Spain",
-      "date": "2024-05-30"
-    },
-    {
-      "id": "20240531_3e91r9uttf38mp79eu7b150jls",
-      "status": "confirmed",
-      "summary": "Day of Castile-La Mancha (Castile-La Mancha)",
-      "region": "Spain",
-      "date": "2024-05-31"
-    },
-    {
-      "id": "20240609_qhvrnio8208fsoio28u7tj3agg",
-      "status": "confirmed",
-      "summary": "Day of La Rioja (La Rioja)",
-      "region": "Spain",
-      "date": "2024-06-09"
-    },
-    {
-      "id": "20240610_df0iv7k517olv7iso8fbej040o",
-      "status": "confirmed",
-      "summary": "Day off for Day of La Rioja (La Rioja)",
-      "region": "Spain",
-      "date": "2024-06-10"
-    },
-    {
-      "id": "20240617_1e3bdd3ha24mrd1n2gh6c67phs",
-      "status": "confirmed",
-      "summary": "Eid al-Adha (regional holiday)",
-      "region": "Spain",
-      "date": "2024-06-17"
-    },
-    {
-      "id": "20240624_cvn5prt4od7manh5ph537g3gv8",
-      "status": "confirmed",
-      "summary": "Saint John the Baptist Day (regional holiday)",
+      "summary": "Saint John the Baptist Day",
       "region": "Spain",
       "date": "2024-06-24"
     },
     {
-      "id": "20240725_82v7jsfajnbkk72m00ne3i58p8",
+      "id": "20240725_ul0fi0a7bc6bpt1p7r4u2ei05o",
       "status": "confirmed",
-      "summary": "Feast of Saint James the Apostle (regional holiday)",
+      "summary": "Feast of Saint James the Apostle",
       "region": "Spain",
       "date": "2024-07-25"
-    },
-    {
-      "id": "20240805_ntt7n5b748n9f5q7akg1obeln4",
-      "status": "confirmed",
-      "summary": "The Day of Our Lady of Africa (Ceuta)",
-      "region": "Spain",
-      "date": "2024-08-05"
     },
     {
       "id": "20240815_ptulr9o39798itddqfg6no83a0",
@@ -56790,48 +55117,6 @@
       "summary": "Assumption of Mary",
       "region": "Spain",
       "date": "2024-08-15"
-    },
-    {
-      "id": "20240908_ln6klmhmq8lcblfnps0uvhdgk4",
-      "status": "confirmed",
-      "summary": "Day of Asturias (Asturias)",
-      "region": "Spain",
-      "date": "2024-09-08"
-    },
-    {
-      "id": "20240909_rd41qvgrk6kv75fdoedk0i6bqo",
-      "status": "confirmed",
-      "summary": "Day off for Day of Asturias (Asturias)",
-      "region": "Spain",
-      "date": "2024-09-09"
-    },
-    {
-      "id": "20240911_5v7qkn83uv5rbtp9rceaekm1c8",
-      "status": "confirmed",
-      "summary": "National Day of Catalonia (Catalonia)",
-      "region": "Spain",
-      "date": "2024-09-11"
-    },
-    {
-      "id": "20240915_ubnpo33nfpjtga6rn92pc521a4",
-      "status": "confirmed",
-      "summary": "Nuestra Señora de la Bien Aparecida (Cantabria)",
-      "region": "Spain",
-      "date": "2024-09-15"
-    },
-    {
-      "id": "20240917_2bulc0jqldtjabu7t59ri9f5co",
-      "status": "confirmed",
-      "summary": "Day of Melilla (Melilla)",
-      "region": "Spain",
-      "date": "2024-09-17"
-    },
-    {
-      "id": "20241009_9ivcq0rqqvbvgufassb0eq6pms",
-      "status": "confirmed",
-      "summary": "Day of the Valencian Community (Valencia)",
-      "region": "Spain",
-      "date": "2024-10-09"
     },
     {
       "id": "20241012_f7cgjuio4kc66cpm8cu8ptqdek",
@@ -56869,13 +55154,6 @@
       "date": "2024-12-08"
     },
     {
-      "id": "20241209_67408vpkr98319mftds4rn3k7s",
-      "status": "confirmed",
-      "summary": "Immaculate Conception observed (regional holiday)",
-      "region": "Spain",
-      "date": "2024-12-09"
-    },
-    {
       "id": "20241224_jfjjld8cnq1gc8qag728kbiamg",
       "status": "confirmed",
       "summary": "Christmas Eve",
@@ -56888,13 +55166,6 @@
       "summary": "Christmas Day",
       "region": "Spain",
       "date": "2024-12-25"
-    },
-    {
-      "id": "20241226_arb4g936vfc4rehh3qeu0b21jc",
-      "status": "confirmed",
-      "summary": "St Stephen's Day (Catalonia)",
-      "region": "Spain",
-      "date": "2024-12-26"
     },
     {
       "id": "20241229_h0qmggj50ekbq3su0op104ujio",
@@ -56932,20 +55203,6 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250228_aoq44i572tko3191b5on31fpd8",
-      "status": "confirmed",
-      "summary": "Day of Andalucía (Andalusia)",
-      "region": "Spain",
-      "date": "2025-02-28"
-    },
-    {
-      "id": "20250301_3453t0juvlct49o1hmucl4ultk",
-      "status": "confirmed",
-      "summary": "Day of the Balearic Islands (Balearic Islands)",
-      "region": "Spain",
-      "date": "2025-03-01"
-    },
-    {
       "id": "20250303_1vm73ikm1isj3oputv8s09pg2k",
       "status": "confirmed",
       "summary": "Carnival Monday",
@@ -56967,9 +55224,9 @@
       "date": "2025-03-05"
     },
     {
-      "id": "20250319_ij46db5hkp5k3e57ickptdr5ns",
+      "id": "20250319_hulqi88lq3rasrcb78uhvoaq6k",
       "status": "confirmed",
-      "summary": "San Jose (regional holiday)",
+      "summary": "San Jose",
       "region": "Spain",
       "date": "2025-03-19"
     },
@@ -56988,13 +55245,6 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250331_hsqlmvdpttof10qo2q9jq158ps",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr (Melilla)",
-      "region": "Spain",
-      "date": "2025-03-31"
-    },
-    {
       "id": "20250413_mkhuuvdfmiq7qr7oqq3t6mu0fk",
       "status": "confirmed",
       "summary": "Palm Sunday",
@@ -57002,9 +55252,9 @@
       "date": "2025-04-13"
     },
     {
-      "id": "20250417_pit65tgj5capdbqcgqfooi9rqk",
+      "id": "20250417_j0akb8d44foks2g5uvnlr14vns",
       "status": "confirmed",
-      "summary": "Maundy Thursday (regional holiday)",
+      "summary": "Maundy Thursday",
       "region": "Spain",
       "date": "2025-04-17"
     },
@@ -57030,9 +55280,9 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_nv6sv1n3243tm3eom4euffaevs",
+      "id": "20250421_hrj68gio63gl2qpm33ipf3chl4",
       "status": "confirmed",
-      "summary": "Easter Monday (regional holiday)",
+      "summary": "Easter Monday",
       "region": "Spain",
       "date": "2025-04-21"
     },
@@ -57044,32 +55294,11 @@
       "date": "2025-04-23"
     },
     {
-      "id": "20250423_ag1v4r3dbhbrjntuups9sitjkc",
-      "status": "confirmed",
-      "summary": "Day of Aragón (Aragon)",
-      "region": "Spain",
-      "date": "2025-04-23"
-    },
-    {
-      "id": "20250423_ulvm0mklgof1302qffarun7tck",
-      "status": "confirmed",
-      "summary": "Castile and León Day (Castile-Leon)",
-      "region": "Spain",
-      "date": "2025-04-23"
-    },
-    {
       "id": "20250501_6dnuarp4becs8t7t0btar5k8e8",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
       "region": "Spain",
       "date": "2025-05-01"
-    },
-    {
-      "id": "20250502_ogbcr0l6p4c5ugh1vk0mc6r1fk",
-      "status": "confirmed",
-      "summary": "Day of Madrid (Madrid)",
-      "region": "Spain",
-      "date": "2025-05-02"
     },
     {
       "id": "20250504_bper1rasb3i5mhqrvphm4ughrs",
@@ -57079,53 +55308,11 @@
       "date": "2025-05-04"
     },
     {
-      "id": "20250517_qptfb78q9pouta5f2nea8q76vo",
-      "status": "confirmed",
-      "summary": "Galicia Literature Day (Galicia)",
-      "region": "Spain",
-      "date": "2025-05-17"
-    },
-    {
-      "id": "20250530_u183lmp2f03e4e2etipfc0c5v8",
-      "status": "confirmed",
-      "summary": "Day of the Canary Islands (Canary Islands)",
-      "region": "Spain",
-      "date": "2025-05-30"
-    },
-    {
-      "id": "20250531_7ono1n22dp21rq0adi6nbbfvi8",
-      "status": "confirmed",
-      "summary": "Day of Castile-La Mancha (Castile-La Mancha)",
-      "region": "Spain",
-      "date": "2025-05-31"
-    },
-    {
-      "id": "20250607_1f681e0fbssoavd0bkjp5vdqo0",
-      "status": "confirmed",
-      "summary": "Eid al-Adha (regional holiday)",
-      "region": "Spain",
-      "date": "2025-06-07"
-    },
-    {
       "id": "20250608_3vqnhl5k99499en29s56uugrhk",
       "status": "confirmed",
       "summary": "Whit Sunday/Pentecost",
       "region": "Spain",
       "date": "2025-06-08"
-    },
-    {
-      "id": "20250609_7o31bs0tmlalaov3o4deum69vs",
-      "status": "confirmed",
-      "summary": "Day of Murcia (Murcia)",
-      "region": "Spain",
-      "date": "2025-06-09"
-    },
-    {
-      "id": "20250609_dprbff7th4lup6f156p5ssobl4",
-      "status": "confirmed",
-      "summary": "Day of La Rioja (La Rioja)",
-      "region": "Spain",
-      "date": "2025-06-09"
     },
     {
       "id": "20250609_jp3evglkm5p1pos0oaub8ft8fg",
@@ -57135,46 +55322,25 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250613_11732jhjo4d38d8hitcpu9c4vc",
+      "id": "20250619_190i3m4b7h4f19jq9i1j0nav2c",
       "status": "confirmed",
-      "summary": "San Antonio (Ceuta)",
-      "region": "Spain",
-      "date": "2025-06-13"
-    },
-    {
-      "id": "20250619_0e16rnrlvsneugph8v0bl6aoak",
-      "status": "confirmed",
-      "summary": "Corpus Christi (Castile-La Mancha)",
+      "summary": "Corpus Christi",
       "region": "Spain",
       "date": "2025-06-19"
     },
     {
-      "id": "20250624_e4i1rsonnc1k4slfger1qvnd4c",
+      "id": "20250624_tu2nhb4baqnsoec0e33fbibadk",
       "status": "confirmed",
-      "summary": "Saint John the Baptist Day (regional holiday)",
+      "summary": "Saint John the Baptist Day",
       "region": "Spain",
       "date": "2025-06-24"
     },
     {
-      "id": "20250725_de6sknclikvs2ov2bf8riddp7g",
+      "id": "20250725_j6h6sg0gno3s47ibc4ardgl4k0",
       "status": "confirmed",
-      "summary": "Feast of Saint James the Apostle (regional holiday)",
+      "summary": "Feast of Saint James the Apostle",
       "region": "Spain",
       "date": "2025-07-25"
-    },
-    {
-      "id": "20250728_8oaf166lq9k1393ghj12fkaskk",
-      "status": "confirmed",
-      "summary": "Day of the Institutions (Cantabria)",
-      "region": "Spain",
-      "date": "2025-07-28"
-    },
-    {
-      "id": "20250805_aer0tcupst6ss758l4fkg1mgho",
-      "status": "confirmed",
-      "summary": "The Day of Our Lady of Africa (Ceuta)",
-      "region": "Spain",
-      "date": "2025-08-05"
     },
     {
       "id": "20250815_ecbc9dbbvevveq4t23qpmsbd0k",
@@ -57182,62 +55348,6 @@
       "summary": "Assumption of Mary",
       "region": "Spain",
       "date": "2025-08-15"
-    },
-    {
-      "id": "20250902_agfo68jjqhhu0kabd3glccc5l0",
-      "status": "confirmed",
-      "summary": "Day of the Independent City of Ceuta (Ceuta)",
-      "region": "Spain",
-      "date": "2025-09-02"
-    },
-    {
-      "id": "20250908_dct3lmhd5o2791ipr067nd64vo",
-      "status": "confirmed",
-      "summary": "Day of Asturias (Asturias)",
-      "region": "Spain",
-      "date": "2025-09-08"
-    },
-    {
-      "id": "20250908_dpimm8s3gn8035ve74lf8vag8s",
-      "status": "confirmed",
-      "summary": "Day of Extremadura (Extremadura)",
-      "region": "Spain",
-      "date": "2025-09-08"
-    },
-    {
-      "id": "20250908_f7kovnsodsnrqj5udsq1kufr1c",
-      "status": "confirmed",
-      "summary": "Virgin of the Victory (Melilla)",
-      "region": "Spain",
-      "date": "2025-09-08"
-    },
-    {
-      "id": "20250911_9kku99i601uglniqtvuga98ltk",
-      "status": "confirmed",
-      "summary": "National Day of Catalonia (Catalonia)",
-      "region": "Spain",
-      "date": "2025-09-11"
-    },
-    {
-      "id": "20250915_s5c3fp8vk63o458ub9n5m9ngq0",
-      "status": "confirmed",
-      "summary": "Nuestra Señora de la Bien Aparecida (Cantabria)",
-      "region": "Spain",
-      "date": "2025-09-15"
-    },
-    {
-      "id": "20250917_k3op9dq33is7j871bouko1qt9c",
-      "status": "confirmed",
-      "summary": "Day of Melilla (Melilla)",
-      "region": "Spain",
-      "date": "2025-09-17"
-    },
-    {
-      "id": "20251009_6ncg63uakv7gqjmum9m3ukj8ak",
-      "status": "confirmed",
-      "summary": "Day of the Valencian Community (Valencia)",
-      "region": "Spain",
-      "date": "2025-10-09"
     },
     {
       "id": "20251012_cbk7eumor256202tiaedbsmg5k",
@@ -57268,13 +55378,6 @@
       "date": "2025-11-01"
     },
     {
-      "id": "20251203_t9s478g0c5rntfco5uuk4u2av4",
-      "status": "confirmed",
-      "summary": "Day of Navarre (Navarre)",
-      "region": "Spain",
-      "date": "2025-12-03"
-    },
-    {
       "id": "20251206_ihcquriqa2n5lmesi5gncjjv54",
       "status": "confirmed",
       "summary": "Constitution Day",
@@ -57301,13 +55404,6 @@
       "summary": "Christmas Day",
       "region": "Spain",
       "date": "2025-12-25"
-    },
-    {
-      "id": "20251226_gjgv2l3a80t8vegh2sp2rt6tso",
-      "status": "confirmed",
-      "summary": "St Stephen's Day (regional holiday)",
-      "region": "Spain",
-      "date": "2025-12-26"
     },
     {
       "id": "20251228_4h9b6olqa879hkcafeitvp0tes",
@@ -63826,13 +61922,6 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240102_264bcvqrvkmfccd1vnh7iofeek",
-      "status": "confirmed",
-      "summary": "2nd January (Scotland)",
-      "region": "United Kingdom",
-      "date": "2024-01-02"
-    },
-    {
       "id": "20240105_ilfbbpst4kgesh4a3e9b11hk68",
       "status": "confirmed",
       "summary": "Twelfth Night",
@@ -63854,32 +61943,11 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240301_1jpsb0896jq6mcsm7967sokgr8",
-      "status": "confirmed",
-      "summary": "St. David's Day (Wales)",
-      "region": "United Kingdom",
-      "date": "2024-03-01"
-    },
-    {
       "id": "20240310_ujlk1lkaau3ltcrulbub1g7cuo",
       "status": "confirmed",
       "summary": "Mother's Day",
       "region": "United Kingdom",
       "date": "2024-03-10"
-    },
-    {
-      "id": "20240317_ll9go46nc3hapvjfcn7pce1mas",
-      "status": "confirmed",
-      "summary": "St Patrick's Day (Northern Ireland)",
-      "region": "United Kingdom",
-      "date": "2024-03-17"
-    },
-    {
-      "id": "20240318_0nmgh9opmiio43pt209g66rr0k",
-      "status": "confirmed",
-      "summary": "Day off for St Patrick's Day (Northern Ireland)",
-      "region": "United Kingdom",
-      "date": "2024-03-18"
     },
     {
       "id": "20240329_ml8m7cfl81d3on4e21n6must2k",
@@ -63910,13 +61978,6 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240423_r7q0o8i77jltc19mbhni8j53os",
-      "status": "confirmed",
-      "summary": "St. George's Day",
-      "region": "United Kingdom",
-      "date": "2024-04-23"
-    },
-    {
       "id": "20240506_3ea12aqt850ba4s4dl10k99crc",
       "status": "confirmed",
       "summary": "Early May Bank Holiday",
@@ -63943,20 +62004,6 @@
       "summary": "Father's Day",
       "region": "United Kingdom",
       "date": "2024-06-16"
-    },
-    {
-      "id": "20240712_7kpt8dteekbegrcpn0ukdc0s1g",
-      "status": "confirmed",
-      "summary": "Battle of the Boyne (Northern Ireland)",
-      "region": "United Kingdom",
-      "date": "2024-07-12"
-    },
-    {
-      "id": "20240805_ogjcksamjvt9bsq61sehdgm4bg",
-      "status": "confirmed",
-      "summary": "Summer Bank Holiday (Scotland)",
-      "region": "United Kingdom",
-      "date": "2024-08-05"
     },
     {
       "id": "20240826_jhaedthgrct5hj1o4fu7v8r108",
@@ -63994,20 +62041,6 @@
       "date": "2024-11-10"
     },
     {
-      "id": "20241130_6s4poikvkfjjd1u3d9r5te1830",
-      "status": "confirmed",
-      "summary": "St Andrew's Day (Scotland)",
-      "region": "United Kingdom",
-      "date": "2024-11-30"
-    },
-    {
-      "id": "20241202_fln6iuub88uiiotnjtlnuagtuk",
-      "status": "confirmed",
-      "summary": "St Andrew's Day observed (Scotland)",
-      "region": "United Kingdom",
-      "date": "2024-12-02"
-    },
-    {
       "id": "20241224_gcn3v93n4mci2fbgbfqp738nnc",
       "status": "confirmed",
       "summary": "Christmas Eve",
@@ -64043,13 +62076,6 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250102_hjpigrg3r2utsdobour4is8o1o",
-      "status": "confirmed",
-      "summary": "2nd January (Scotland)",
-      "region": "United Kingdom",
-      "date": "2025-01-02"
-    },
-    {
       "id": "20250105_urreh2ntnlhnkkipckvhll042g",
       "status": "confirmed",
       "summary": "Twelfth Night",
@@ -64064,25 +62090,11 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_3n1r0d6q4egh474jqhdogs6300",
-      "status": "confirmed",
-      "summary": "St. David's Day (Wales)",
-      "region": "United Kingdom",
-      "date": "2025-03-01"
-    },
-    {
       "id": "20250304_0m15tcj2i2ppasp4grubp0dof4",
       "status": "confirmed",
       "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "United Kingdom",
       "date": "2025-03-04"
-    },
-    {
-      "id": "20250317_lqp36ratn01u0krticovfle2qo",
-      "status": "confirmed",
-      "summary": "St Patrick's Day (Northern Ireland)",
-      "region": "United Kingdom",
-      "date": "2025-03-17"
     },
     {
       "id": "20250330_2f6of6cqhmkn0iu0vu77ndt148",
@@ -64120,13 +62132,6 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250423_4t6i8gcddm7m0oncgjeh8em62o",
-      "status": "confirmed",
-      "summary": "St. George's Day",
-      "region": "United Kingdom",
-      "date": "2025-04-23"
-    },
-    {
       "id": "20250505_o86ihv8tsvhjpaug07mh3ja3qo",
       "status": "confirmed",
       "summary": "Early May Bank Holiday",
@@ -64153,27 +62158,6 @@
       "summary": "King's Birthday",
       "region": "United Kingdom",
       "date": "2025-06-21"
-    },
-    {
-      "id": "20250712_35s042aj12q7j7995c341ejnvk",
-      "status": "confirmed",
-      "summary": "Battle of the Boyne (Northern Ireland)",
-      "region": "United Kingdom",
-      "date": "2025-07-12"
-    },
-    {
-      "id": "20250714_46ioavccjobdmu6kklhapfnfnk",
-      "status": "confirmed",
-      "summary": "Battle of the Boyne observed (Northern Ireland)",
-      "region": "United Kingdom",
-      "date": "2025-07-14"
-    },
-    {
-      "id": "20250804_2i0csjupcrem0e676e9s9nbtps",
-      "status": "confirmed",
-      "summary": "Summer Bank Holiday (Scotland)",
-      "region": "United Kingdom",
-      "date": "2025-08-04"
     },
     {
       "id": "20250825_jio3npbr7nu2i2i326hqset5t0",
@@ -64209,20 +62193,6 @@
       "summary": "Remembrance Sunday",
       "region": "United Kingdom",
       "date": "2025-11-09"
-    },
-    {
-      "id": "20251130_n4aur88ct3ea7m5fvadh1enfuc",
-      "status": "confirmed",
-      "summary": "St Andrew's Day (Scotland)",
-      "region": "United Kingdom",
-      "date": "2025-11-30"
-    },
-    {
-      "id": "20251201_1a0bhc1pf1sg0vs6057l6o2q2o",
-      "status": "confirmed",
-      "summary": "St Andrew's Day observed (Scotland)",
-      "region": "United Kingdom",
-      "date": "2025-12-01"
     },
     {
       "id": "20251224_bviikrfu7fje36f4nj92es08u4",
