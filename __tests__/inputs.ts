@@ -313,8 +313,8 @@ describe("Inputs", () => {
           token: "abc",
           after: "17:30",
           before: "09:00",
-          timezone: "Europe/Madrid",
-          "prohibited-days-dates": "H:Spain, BH:Spain",
+          timezone: "Asia/Tokyo",
+          "prohibited-days-dates": "H:Japan, BH:Japan",
           "no-block-label": "",
           "commit-status-context": "",
           "commit-status-description-with-success": "",
@@ -332,7 +332,7 @@ describe("Inputs", () => {
           minute: 30,
         },
         {
-          zone: "Europe/Madrid",
+          zone: "Asia/Tokyo",
         },
       ),
     })
@@ -343,33 +343,33 @@ describe("Inputs", () => {
           minute: 0,
         },
         {
-          zone: "Europe/Madrid",
+          zone: "Asia/Tokyo",
         },
       ),
     })
-    expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
+    expect(inputs).toHaveProperty("timezone", IANAZone.create("Asia/Tokyo"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
-    expect(inputs.prohibitedDates.length).toBeGreaterThan(220) // It's OK the number is almost the same as twice as `H:Spain`.
+    expect(inputs.prohibitedDates.length).toBeGreaterThan(110) // It's OK the number is almost the same as twice as `H:Japan`.
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
             year: 2024,
-            month: 2,
-            day: 14,
+            month: 5,
+            day: 3,
           },
           {
-            zone: "Europe/Madrid",
+            zone: "Asia/Tokyo",
           },
         ).startOf("day"),
         DateTime.fromObject(
           {
             year: 2024,
-            month: 2,
-            day: 14,
+            month: 5,
+            day: 3,
           },
           {
-            zone: "Europe/Madrid",
+            zone: "Asia/Tokyo",
           },
         ).endOf("day"),
       ),
@@ -379,21 +379,21 @@ describe("Inputs", () => {
         DateTime.fromObject(
           {
             year: 2024,
-            month: 2,
-            day: 13,
+            month: 5,
+            day: 2,
           },
           {
-            zone: "Europe/Madrid",
+            zone: "Asia/Tokyo",
           },
         ).startOf("day"),
         DateTime.fromObject(
           {
             year: 2024,
-            month: 2,
-            day: 13,
+            month: 5,
+            day: 2,
           },
           {
-            zone: "Europe/Madrid",
+            zone: "Asia/Tokyo",
           },
         ).endOf("day"),
       ),
