@@ -81,7 +81,7 @@ describe("Inputs", () => {
         ).endOf("day"),
       ),
     ])
-    expect(inputs).toHaveProperty("noBlockLabel", "Emergency")
+    expect(inputs).toHaveProperty("noBlockLabel", ["Emergency"])
     expect(inputs).toHaveProperty("commitStatusContext", "Blocker")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "OK")
     expect(inputs).toHaveProperty("commitStatusDescriptionWhileBlocking", "Blocked!")
@@ -134,7 +134,7 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Pacific/Honolulu"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
     expect(inputs).toHaveProperty("prohibitedDates", [])
-    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("noBlockLabel", ["no-block"])
     expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
@@ -230,7 +230,7 @@ describe("Inputs", () => {
         ).endOf("day"),
       ),
     ])
-    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("noBlockLabel", ["no-block"])
     expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
@@ -294,7 +294,7 @@ describe("Inputs", () => {
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Europe/Madrid"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
     expect(inputs).toHaveProperty("prohibitedDates", [])
-    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("noBlockLabel", ["no-block"])
     expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
@@ -398,7 +398,7 @@ describe("Inputs", () => {
         ).endOf("day"),
       ),
     )
-    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("noBlockLabel", ["no-block"])
     expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
@@ -501,7 +501,7 @@ describe("Inputs", () => {
         ).endOf("day"),
       ),
     )
-    expect(inputs).toHaveProperty("noBlockLabel", "no-block")
+    expect(inputs).toHaveProperty("noBlockLabel", ["no-block"])
     expect(inputs).toHaveProperty("commitStatusContext", "block-merge-based-on-time")
     expect(inputs).toHaveProperty("commitStatusDescriptionWithSuccess", "The PR could be merged")
     expect(inputs).toHaveProperty(
@@ -603,5 +603,29 @@ describe("Inputs", () => {
     )
     const inputs = new Inputs()
     expect(inputs.baseBranches("main")).toEqual([/^main$/, /^special\/one$/, /^feature\/.*/])
+  })
+
+  describe("noBlockLabel()", () => {
+    test("returns a valid instance with array of block labels", () => {
+      const inSpy = jest.spyOn(core, "getInput")
+      inSpy.mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:30",
+            before: "09:00",
+            timezone: "Europe/Madrid",
+            "prohibited-days-dates": "H:Spain, BH:Spain",
+            "no-block-label": "block-this, block-that",
+            "commit-status-context": "",
+            "commit-status-description-with-success": "",
+            "commit-status-description-while-blocking": "",
+            "commit-status-url": "",
+            "base-branches": "develop",
+          })[name] as any,
+      )
+      const inputs = new Inputs()
+      expect(inputs.noBlockLabel).toEqual(["block-this", "block-that"])
+    })
   })
 })

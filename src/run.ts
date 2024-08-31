@@ -33,7 +33,7 @@ async function handleAllPulls(inputs: Inputs): Promise<void> {
     const state =
       inputs.baseBranches(branch).some((b) => b.test(pull.baseBranch)) &&
       isShouldBlock &&
-      !pull.labels.includes(inputs.noBlockLabel)
+      !pull.labels.some((label) => inputs.noBlockLabel.includes(label))
         ? "pending"
         : "success"
     core.debug(`We decided to make the state "${state}" for "#${pull.number}"`)
@@ -72,7 +72,7 @@ async function handlePull(inputs: Inputs): Promise<void> {
   const state =
     inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
     shouldBlock(inputs) &&
-    !result.pull.labels.includes(inputs.noBlockLabel)
+    !result.pull.labels.some((label) => inputs.noBlockLabel.includes(label))
       ? "pending"
       : "success"
   core.debug(`We decided to make the state "${state}"`)

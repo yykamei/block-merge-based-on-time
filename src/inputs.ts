@@ -11,7 +11,7 @@ export class Inputs {
   public readonly timezone: Zone
   public readonly prohibitedDays: Days
   public readonly prohibitedDates: Dates
-  public readonly noBlockLabel: string
+  public readonly noBlockLabel: string[]
   public readonly commitStatusContext: string
   public readonly commitStatusDescriptionWithSuccess: string
   public readonly commitStatusDescriptionWhileBlocking: string
@@ -27,6 +27,8 @@ export class Inputs {
     this.prohibitedDays = days
     this.prohibitedDates = dates
     this.noBlockLabel = stringOr(getInput("no-block-label"), "no-block")
+      .split(/,\s*/)
+      .filter((v) => v !== "")
     this.commitStatusContext = stringOr(getInput("commit-status-context"), "block-merge-based-on-time")
     this.commitStatusDescriptionWithSuccess = stringOr(
       getInput("commit-status-description-with-success"),
