@@ -3,12 +3,9 @@ on:
   push:
     branches: [main]
   pull_request:
-  pull_request_target:
-    types: [labeled]
   workflow_dispatch:
 jobs:
   ci:
-    if: github.event_name != 'pull_request_target'
     continue-on-error: true
     runs-on: ubuntu-latest
     strategy:
@@ -31,7 +28,7 @@ jobs:
     steps:
       - uses: actions/dependency-review-action@v4
   auto-build:
-    if: github.event_name == 'pull_request' || github.event_name == 'pull_request_target'
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/create-github-app-token@v1
