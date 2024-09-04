@@ -5838,7 +5838,7 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240331_jrrsmtpar8nmurj7jut0j0v8nc",
+      "id": "20240331_oea5ln4s3c9rbiibti21g2g5u0",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "region": "Belgium",
@@ -5880,7 +5880,7 @@
       "date": "2024-05-12"
     },
     {
-      "id": "20240519_90fs1k5btr8gc1s0shbr4omh58",
+      "id": "20240519_pncpts3qf9eu1cjgtkff9oh7j4",
       "status": "confirmed",
       "summary": "Whit Sunday",
       "region": "Belgium",
@@ -6013,7 +6013,7 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250420_lhpnulgue1u5m7b75mtt9kcdr0",
+      "id": "20250420_d9jdn81qjrmnbc9007cis64ulc",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "region": "Belgium",
@@ -6055,7 +6055,7 @@
       "date": "2025-05-30"
     },
     {
-      "id": "20250608_1m4jan68bk7u7rb262rhlqboe4",
+      "id": "20250608_c05t0hc3js547csg9u5vv111oo",
       "status": "confirmed",
       "summary": "Whit Sunday",
       "region": "Belgium",
@@ -20276,11 +20276,18 @@
       "date": "2024-08-16"
     },
     {
-      "id": "20240817_6c5fvggneadooafntac76ved3s",
+      "id": "20240817_0nc09mfbhhnp1cumuui05sotjg",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Independence Day Holiday",
       "region": "Gabon",
       "date": "2024-08-17"
+    },
+    {
+      "id": "20240830_2t4bgojrsfnpnh154sa83lktp0",
+      "status": "confirmed",
+      "summary": "Liberation Day",
+      "region": "Gabon",
+      "date": "2024-08-30"
     },
     {
       "id": "20241101_4cduvls571mc46i170g0gnperg",
@@ -20395,9 +20402,9 @@
       "date": "2025-08-16"
     },
     {
-      "id": "20250817_s668hg8uanbrrb7ncp6hrvmg54",
+      "id": "20250817_5p9sqm76p5bago6p19085qddp8",
       "status": "confirmed",
-      "summary": "Independence Day",
+      "summary": "Independence Day Holiday",
       "region": "Gabon",
       "date": "2025-08-17"
     },
@@ -27331,11 +27338,11 @@
       "date": "2024-08-17"
     },
     {
-      "id": "20240915_26cuuhr8qr41k359gr9iagbnkk",
+      "id": "20240916_obqfrugro86ahfnnq76r1hultg",
       "status": "confirmed",
       "summary": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday) (tentative)",
       "region": "Indonesia",
-      "date": "2024-09-15"
+      "date": "2024-09-16"
     },
     {
       "id": "20241101_q48l75vtdc1npi7venrg4729jg",
@@ -36136,6 +36143,34 @@
       "date": "2024-03-12"
     },
     {
+      "id": "20240410_ho7qbp34r025vok7m6n0g71f6k",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
+      "region": "Libya",
+      "date": "2024-04-10"
+    },
+    {
+      "id": "20240411_p379s8rei7gmi1kc0mavh1neik",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Libya",
+      "date": "2024-04-11"
+    },
+    {
+      "id": "20240412_me3hah8i5pvlcfo40vknt0002g",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Libya",
+      "date": "2024-04-12"
+    },
+    {
+      "id": "20240414_gd1ou51eethvpijpr8k1e670i0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Libya",
+      "date": "2024-04-14"
+    },
+    {
       "id": "20240501_jqe8mn5i09dbeccprt4nj4hh5o",
       "status": "confirmed",
       "summary": "May Day",
@@ -36148,6 +36183,34 @@
       "summary": "Day of Arafah",
       "region": "Libya",
       "date": "2024-06-15"
+    },
+    {
+      "id": "20240616_a78ekf8fht1bb7qoujdt97qiv0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Libya",
+      "date": "2024-06-16"
+    },
+    {
+      "id": "20240617_dann2dk4ov3kk1i401iieco8v8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Libya",
+      "date": "2024-06-17"
+    },
+    {
+      "id": "20240618_rtrhld2tvn84l1htsj244d3t98",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Libya",
+      "date": "2024-06-18"
+    },
+    {
+      "id": "20240707_dj6bvme2aiq3hnr7f42mm7l7ts",
+      "status": "confirmed",
+      "summary": "Muharram",
+      "region": "Libya",
+      "date": "2024-07-07"
     },
     {
       "id": "20240916_oe6mjoh1npujar34lgha55fsoc",
@@ -36192,6 +36255,27 @@
       "date": "2025-03-01"
     },
     {
+      "id": "20250331_tmh7k47d4otnk1sfb6vbulqotk",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr (tentative)",
+      "region": "Libya",
+      "date": "2025-03-31"
+    },
+    {
+      "id": "20250401_int3e0eogr725p861b3e9k2iog",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday (tentative)",
+      "region": "Libya",
+      "date": "2025-04-01"
+    },
+    {
+      "id": "20250402_i5ff0e5r6j5td4djo4b5tjtlm0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday (tentative)",
+      "region": "Libya",
+      "date": "2025-04-02"
+    },
+    {
       "id": "20250501_nrrqlrniog65p3vda0dt2o7210",
       "status": "confirmed",
       "summary": "May Day",
@@ -36204,6 +36288,34 @@
       "summary": "Day of Arafah (tentative)",
       "region": "Libya",
       "date": "2025-06-06"
+    },
+    {
+      "id": "20250607_64e932gfs0e9jc6252l0timej8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha (tentative)",
+      "region": "Libya",
+      "date": "2025-06-07"
+    },
+    {
+      "id": "20250608_54anpujtmr6c2c7thuqp5rc19c",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday (tentative)",
+      "region": "Libya",
+      "date": "2025-06-08"
+    },
+    {
+      "id": "20250609_8em20cl7cjs3lbht9fgt42e4fo",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday (tentative)",
+      "region": "Libya",
+      "date": "2025-06-09"
+    },
+    {
+      "id": "20250627_fpf5acfnsa74ujvqf4mq20cp0c",
+      "status": "confirmed",
+      "summary": "Muharram (tentative)",
+      "region": "Libya",
+      "date": "2025-06-27"
     },
     {
       "id": "20250905_qu2hn9ehv4u3hrt2svjarfpep4",
@@ -39138,7 +39250,7 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240106_gc3v7h0aoa2adc5k9b9p2un7bs",
+      "id": "20240106_c3dj1qorg5vjlqdnu7j75sreas",
       "status": "confirmed",
       "summary": "Orthodox Christmas Eve",
       "region": "North Macedonia",
@@ -39159,14 +39271,14 @@
       "date": "2024-01-08"
     },
     {
-      "id": "20240119_i6kh0s3jree7166ac8oon9rep4",
+      "id": "20240119_okd30st964nvo72q67d4qd3oso",
       "status": "confirmed",
       "summary": "Epiphany (Orthodox)",
       "region": "North Macedonia",
       "date": "2024-01-19"
     },
     {
-      "id": "20240127_r0k4sf0s6uoiit871dlrhukk1k",
+      "id": "20240127_ofn7u8ceh2cg8bpndakuu71l68",
       "status": "confirmed",
       "summary": "St Sava's Day",
       "region": "North Macedonia",
@@ -39222,14 +39334,14 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_un6na86tgfcj7fe72b94vbk13g",
+      "id": "20240401_up85eaa6gcf6gp3i563u62up04",
       "status": "confirmed",
       "summary": "Easter Monday",
       "region": "North Macedonia",
       "date": "2024-04-01"
     },
     {
-      "id": "20240408_md25dnn74aindgglkpr9ibm5no",
+      "id": "20240408_5t35e2lgdvjni8lo205c1j57uc",
       "status": "confirmed",
       "summary": "International Romani Day (for Romani community)",
       "region": "North Macedonia",
@@ -39257,7 +39369,7 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240503_er20j084cb14c8dsrdlavhm6vk",
+      "id": "20240503_7ok3aa5q5069b77jpbed57jh7o",
       "status": "confirmed",
       "summary": "Good Friday (Orthodox)",
       "region": "North Macedonia",
@@ -39292,7 +39404,7 @@
       "date": "2024-05-08"
     },
     {
-      "id": "20240523_gbsu4i8fpp64ip11m5hbs65qoo",
+      "id": "20240523_u4qrm6490pecrtnomjt5glqios",
       "status": "confirmed",
       "summary": "Vlach’s National Day (for Vlach community)",
       "region": "North Macedonia",
@@ -39306,7 +39418,7 @@
       "date": "2024-05-24"
     },
     {
-      "id": "20240616_50mk4idqel356q14ht3lg2498g",
+      "id": "20240616_9tg9soac8l7fj2aovjf7cfq84c",
       "status": "confirmed",
       "summary": "Eid al-Adha (Feast of Sacrifice)",
       "region": "North Macedonia",
@@ -39327,7 +39439,7 @@
       "date": "2024-08-02"
     },
     {
-      "id": "20240828_rdsoqks6sh92oqqahg8b5ue6uk",
+      "id": "20240828_j58ag1slljdhiiasumshfam6jo",
       "status": "confirmed",
       "summary": "Feast of the Assumption of Mary (Orthodox)",
       "region": "North Macedonia",
@@ -39355,7 +39467,7 @@
       "date": "2024-09-09"
     },
     {
-      "id": "20240928_kbo7np5clsbfgupmluankbn1qk",
+      "id": "20240928_9nmbu0q7fcg0ln1vnnmr3vs5hg",
       "status": "confirmed",
       "summary": "International Bosniaks' Day (for Bosniak community)",
       "region": "North Macedonia",
@@ -39369,7 +39481,7 @@
       "date": "2024-10-11"
     },
     {
-      "id": "20241012_a7649dcsldb804tdopriu9oens",
+      "id": "20241012_b269d1p1o3ml1l8joj4ht4lgcs",
       "status": "confirmed",
       "summary": "First day of Yom Kippur (Jewish community)",
       "region": "North Macedonia",
@@ -39397,14 +39509,14 @@
       "date": "2024-10-31"
     },
     {
-      "id": "20241101_knhlcm2cv8je3rvfq4hdq62vis",
+      "id": "20241101_43fiof7394pffdqc14j1nk4v6k",
       "status": "confirmed",
       "summary": "All Saints' Day",
       "region": "North Macedonia",
       "date": "2024-11-01"
     },
     {
-      "id": "20241122_bkb5ej94tq4uvl7jco58aok14o",
+      "id": "20241122_3d3rfi0fsabdn6n3vtgo3r6lck",
       "status": "confirmed",
       "summary": "Albanian Alphabet Day (Albanian community)",
       "region": "North Macedonia",
@@ -39425,7 +39537,7 @@
       "date": "2024-12-09"
     },
     {
-      "id": "20241221_bqg98rno2doir944h2c9d58uvk",
+      "id": "20241221_ri6eo91q6mjpkcnaqr171rt7a0",
       "status": "confirmed",
       "summary": "Turkish Language Day (Turkish community)",
       "region": "North Macedonia",
@@ -39439,7 +39551,7 @@
       "date": "2024-12-24"
     },
     {
-      "id": "20241225_3ngmtkh7vefr6qoeol621qb9hs",
+      "id": "20241225_tqobfr387dh6958babk7g1qaoo",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "North Macedonia",
@@ -39460,7 +39572,7 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250106_iunlr17gg8t35n13h73c4ea3h4",
+      "id": "20250106_rm7bs570oa0bp9ggcudri1noas",
       "status": "confirmed",
       "summary": "Orthodox Christmas Eve",
       "region": "North Macedonia",
@@ -39474,14 +39586,14 @@
       "date": "2025-01-07"
     },
     {
-      "id": "20250119_fghph8rv346fjeao94436t5qeo",
+      "id": "20250119_ogu6tik3l2a3begrcfl1bji594",
       "status": "confirmed",
       "summary": "Epiphany (Orthodox)",
       "region": "North Macedonia",
       "date": "2025-01-19"
     },
     {
-      "id": "20250127_hnfsvls9rltvipvdcj6aa61848",
+      "id": "20250127_t7mabi3i25ot6dlj0hd644ggpk",
       "status": "confirmed",
       "summary": "St Sava's Day",
       "region": "North Macedonia",
@@ -39523,14 +39635,14 @@
       "date": "2025-03-31"
     },
     {
-      "id": "20250408_43kl3h8v30q79jknu4lmtqlcdc",
+      "id": "20250408_aitlm9uvcu6mlghhs3ob2curdo",
       "status": "confirmed",
       "summary": "International Romani Day (for Romani community)",
       "region": "North Macedonia",
       "date": "2025-04-08"
     },
     {
-      "id": "20250418_29id8u4q2qrj4reqo9epe92220",
+      "id": "20250418_80nr1ngprols661t6ern7dls8o",
       "status": "confirmed",
       "summary": "Good Friday (Orthodox)",
       "region": "North Macedonia",
@@ -39572,16 +39684,16 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_id65ptkpt912b8pcsgb60fovrs",
+      "id": "20250421_r0dtnid2odvbh9qnjpq2ei2c40",
       "status": "confirmed",
-      "summary": "Easter Monday",
+      "summary": "Easter Monday (Orthodox)",
       "region": "North Macedonia",
       "date": "2025-04-21"
     },
     {
-      "id": "20250421_r0dtnid2odvbh9qnjpq2ei2c40",
+      "id": "20250421_snlc64jr73idgtj9t8htbgf110",
       "status": "confirmed",
-      "summary": "Easter Monday (Orthodox)",
+      "summary": "Easter Monday",
       "region": "North Macedonia",
       "date": "2025-04-21"
     },
@@ -39593,7 +39705,7 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250523_2nvs7hf86rfamqeqr0gn1s78i4",
+      "id": "20250523_q9mq99eskrc5nja41tvpti20n0",
       "status": "confirmed",
       "summary": "Vlach’s National Day (for Vlach community)",
       "region": "North Macedonia",
@@ -39614,7 +39726,7 @@
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_8vqekdmu27l0juoq9qtf3po518",
+      "id": "20250607_oagg6frs3qa2rtrp2h7fj6qf2s",
       "status": "confirmed",
       "summary": "Eid al-Adha (Feast of Sacrifice) (tentative)",
       "region": "North Macedonia",
@@ -39628,7 +39740,7 @@
       "date": "2025-08-02"
     },
     {
-      "id": "20250828_7jf59ndokf756umfmaabg17rbg",
+      "id": "20250828_2lehmjaqfdnet4h3hvqj7v3b2g",
       "status": "confirmed",
       "summary": "Feast of the Assumption of Mary (Orthodox)",
       "region": "North Macedonia",
@@ -39649,14 +39761,14 @@
       "date": "2025-09-14"
     },
     {
-      "id": "20250928_e1c7jbl6ujtfv4nb3f5bsag9t8",
+      "id": "20250928_v90fenumtg16ifjtk2u5goovh8",
       "status": "confirmed",
       "summary": "International Bosniaks' Day (for Bosniak community)",
       "region": "North Macedonia",
       "date": "2025-09-28"
     },
     {
-      "id": "20251002_kququtknp3s2pfpe52tj2fljlc",
+      "id": "20251002_ppgmmn9ujeqerql0df79nm93ts",
       "status": "confirmed",
       "summary": "First day of Yom Kippur (Jewish community)",
       "region": "North Macedonia",
@@ -39691,14 +39803,14 @@
       "date": "2025-10-31"
     },
     {
-      "id": "20251101_jq4ba0dq436r4sn6daq7fsvpuc",
+      "id": "20251101_jiujbv360e5tgekn03t99ojtdc",
       "status": "confirmed",
       "summary": "All Saints' Day",
       "region": "North Macedonia",
       "date": "2025-11-01"
     },
     {
-      "id": "20251122_amdcurf2aahgmh89k6mljjbe1k",
+      "id": "20251122_408hkh2mnp8oa0vq23e6kmmt6s",
       "status": "confirmed",
       "summary": "Albanian Alphabet Day (Albanian community)",
       "region": "North Macedonia",
@@ -39712,7 +39824,7 @@
       "date": "2025-12-08"
     },
     {
-      "id": "20251221_29fk8v88vhdd38u5j6qp34ama0",
+      "id": "20251221_aikp3m83osd9diemp2m8aa5j70",
       "status": "confirmed",
       "summary": "Turkish Language Day (Turkish community)",
       "region": "North Macedonia",
@@ -39726,7 +39838,7 @@
       "date": "2025-12-24"
     },
     {
-      "id": "20251225_n32nf2s1c30g0h7cflsfve2qkk",
+      "id": "20251225_c7bqbepf21vu0ch88qikpq3fl8",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "North Macedonia",
@@ -44732,6 +44844,55 @@
       "summary": "Independence Day",
       "region": "Nicaragua",
       "date": "2024-09-15"
+    },
+    {
+      "id": "20240916_3qstu6kkeahdpmevoelatbm7ao",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Nicaragua",
+      "date": "2024-09-16"
+    },
+    {
+      "id": "20240917_gr86fr3tgk8fuq8qfo8gr8rlrk",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2024-09-17"
+    },
+    {
+      "id": "20240918_qmg35ai1ror55tct4dio795hfo",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2024-09-18"
+    },
+    {
+      "id": "20240919_ckqocvj991tino3g19rki0uq4g",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2024-09-19"
+    },
+    {
+      "id": "20240920_mln6pnvf4on4j4f4ros2l5o98s",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2024-09-20"
+    },
+    {
+      "id": "20240921_nplcq1p1b1rb6tg01ti4kt886s",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2024-09-21"
+    },
+    {
+      "id": "20240922_lfhg5ejd674g5uvt27kek03924",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2024-09-22"
     },
     {
       "id": "20241012_jnn7evg53182s4b0jo242d0358",
@@ -57720,13 +57881,6 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240217_3pl57qffmg05aibpa33m0ktna0",
-      "status": "confirmed",
-      "summary": "Special Working Day",
-      "region": "Taiwan",
-      "date": "2024-02-17"
-    },
-    {
       "id": "20240224_o3skcamcpp6u64n964gdemcpbc",
       "status": "confirmed",
       "summary": "Lantern Festival",
@@ -57921,13 +58075,6 @@
       "summary": "Farmer's Day",
       "region": "Taiwan",
       "date": "2025-02-04"
-    },
-    {
-      "id": "20250208_5icsbh62sclhf54aff8ob6p0e8",
-      "status": "confirmed",
-      "summary": "Special Working Day",
-      "region": "Taiwan",
-      "date": "2025-02-08"
     },
     {
       "id": "20250212_e6nsdnc2qc5j9cbj63m1f6k1l8",
