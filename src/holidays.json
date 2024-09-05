@@ -2677,6 +2677,13 @@
       "date": "2024-08-17"
     },
     {
+      "id": "20241002_jmdvm8bp66hhgr65ds8bqo23lo",
+      "status": "confirmed",
+      "summary": "Rosh Hashana Eve",
+      "region": "Argentina",
+      "date": "2024-10-02"
+    },
+    {
       "id": "20241003_4s025bjrhqb11ote9rfj70u24g",
       "status": "confirmed",
       "summary": "Rosh Hashana",
@@ -2689,6 +2696,13 @@
       "summary": "Second Day of Rosh Hashana",
       "region": "Argentina",
       "date": "2024-10-04"
+    },
+    {
+      "id": "20241011_l6uto0rjm91lnhkbgc98jj8gks",
+      "status": "confirmed",
+      "summary": "Yom Kippur Eve",
+      "region": "Argentina",
+      "date": "2024-10-11"
     },
     {
       "id": "20241011_nvqi0idvhr9jomnl5530jmfvtg",
@@ -2922,6 +2936,13 @@
       "date": "2025-08-18"
     },
     {
+      "id": "20250922_59u80n3oa32lj82kcr90f5ub40",
+      "status": "confirmed",
+      "summary": "Rosh Hashana Eve",
+      "region": "Argentina",
+      "date": "2025-09-22"
+    },
+    {
       "id": "20250923_pll78vrdpaovjtmgkafsiitog4",
       "status": "confirmed",
       "summary": "Rosh Hashana",
@@ -2934,6 +2955,13 @@
       "summary": "Second Day of Rosh Hashana",
       "region": "Argentina",
       "date": "2025-09-24"
+    },
+    {
+      "id": "20251001_4bak6sqouj23p4mt8as75ab0dc",
+      "status": "confirmed",
+      "summary": "Yom Kippur Eve",
+      "region": "Argentina",
+      "date": "2025-10-01"
     },
     {
       "id": "20251002_r35f9f73amc615b7rfsqdmqhmc",
@@ -19167,9 +19195,9 @@
       "date": "2024-09-07"
     },
     {
-      "id": "20240916_69ouedb3r35capbg6h2962lqcg",
+      "id": "20240916_m8rjvl0m2jtcb1ctbtrsph2i2c",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Fiji",
       "date": "2024-09-16"
     },
@@ -19230,7 +19258,14 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250905_lajjbufh3qae04jg2nc967rtic",
+      "id": "20250530_j44gf5mvbifi2vggcguftq4g50",
+      "status": "confirmed",
+      "summary": "Sukuna's Day Holiday",
+      "region": "Fiji",
+      "date": "2025-05-30"
+    },
+    {
+      "id": "20250905_d0760mkg1umlt7d8cqtrs62b1s",
       "status": "confirmed",
       "summary": "The Prophet's Birthday (tentative)",
       "region": "Fiji",
@@ -19242,6 +19277,13 @@
       "summary": "Constitution Day",
       "region": "Fiji",
       "date": "2025-09-07"
+    },
+    {
+      "id": "20250908_uf8mp09qm51gnc4rroj4bhbtjg",
+      "status": "confirmed",
+      "summary": "The Prophet's Birthday (tentative)",
+      "region": "Fiji",
+      "date": "2025-09-08"
     },
     {
       "id": "20251010_jd6qv5jfbi0v8lvcnvfer3iaos",
@@ -30641,6 +30683,13 @@
       "date": "2024-07-07"
     },
     {
+      "id": "20240910_9hm16pg7p0b0lu30dbpltbd890",
+      "status": "confirmed",
+      "summary": "Election Day Holiday",
+      "region": "Jordan",
+      "date": "2024-09-10"
+    },
+    {
       "id": "20240915_q12gmhd010nljq1qguh6a4pmcg",
       "status": "confirmed",
       "summary": "Prophet's Birthday (tentative)",
@@ -32575,11 +32624,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240916_ce8hp10koq2kk4vqokkdi2c23c",
+      "id": "20240915_es4mhchq5a4dgn87crmiobhnbs",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Kuwait",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241231_j2i2jqoa8pvthbjpuft4jefb0o",
@@ -47925,7 +47974,7 @@
       "date": "2024-08-14"
     },
     {
-      "id": "20240815_rg1gm5sdj65ese7ncp4f6kk8uc",
+      "id": "20240815_ki4r1rjrf889e8pladjv9l4828",
       "status": "confirmed",
       "summary": "Nauroz",
       "region": "Pakistan",
@@ -55033,7 +55082,7 @@
       "date": "2024-09-18"
     },
     {
-      "id": "20241001_lvqcj0eq41tcebqrj9fau0j0m0",
+      "id": "20241001_sdiuil8pfh2cqbdkdd7d0d1r9c",
       "status": "confirmed",
       "summary": "Armed Forces Day",
       "region": "South Korea",
