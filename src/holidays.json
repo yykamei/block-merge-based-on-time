@@ -9476,6 +9476,20 @@
       "date": "2024-10-01"
     },
     {
+      "id": "20241030_oq443oabg77iqguvgba6evjuqo",
+      "status": "confirmed",
+      "summary": "General Election Holiday",
+      "region": "Botswana",
+      "date": "2024-10-30"
+    },
+    {
+      "id": "20241031_nfnl7gmlbboppa0018ci2dlci4",
+      "status": "confirmed",
+      "summary": "General Election Holiday",
+      "region": "Botswana",
+      "date": "2024-10-31"
+    },
+    {
       "id": "20241225_a7l09ole2do5jc8gvj6nkfn8h4",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -12497,11 +12511,11 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240916_4jt42ln6956tgi5oo9ld51dq2c",
+      "id": "20240915_22neufma77tim8ust4o458mi8k",
       "status": "confirmed",
-      "summary": "The Day After Prophet's Birthday (tentative)",
+      "summary": "The Day After Prophet's Birthday",
       "region": "Côte d’Ivoire",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241101_3shsgtl0mc1ir3kq037hi5m9fo",
@@ -30690,11 +30704,11 @@
       "date": "2024-09-10"
     },
     {
-      "id": "20240915_q12gmhd010nljq1qguh6a4pmcg",
+      "id": "20240916_cukjnashmcn0hhbk3hdiq5kc8k",
       "status": "confirmed",
-      "summary": "Prophet's Birthday (tentative)",
+      "summary": "Prophet's Birthday",
       "region": "Jordan",
-      "date": "2024-09-15"
+      "date": "2024-09-16"
     },
     {
       "id": "20241225_o3vieuscaqmn20e55cdv8doktc",
@@ -41945,9 +41959,9 @@
       "date": "2024-07-08"
     },
     {
-      "id": "20240916_9g77dljrur9c6f2qen2ufieurc",
+      "id": "20240916_8tateihu21863bf2nnobuhebk4",
       "status": "confirmed",
-      "summary": "Milad un Nabi (Mawlid) (tentative)",
+      "summary": "Milad un Nabi (Mawlid)",
       "region": "Mauritania",
       "date": "2024-09-16"
     },
@@ -44620,11 +44634,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240916_3qrs9ee2uqu9jfvh414r95hns0",
+      "id": "20240915_dnuj9f0eaatiml80scp1andcpg",
       "status": "confirmed",
-      "summary": "Id el Maulud (tentative)",
+      "summary": "Id el Maulud",
       "region": "Nigeria",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241001_jg482rjvtlt34f2gg9ptpp72p8",
@@ -54581,11 +54595,11 @@
       "date": "2024-08-23"
     },
     {
-      "id": "20240916_sk7u3qqucrh9qie1gqphfjdh1o",
+      "id": "20240915_jjre3jjvnbpl0f8l7ot0uhijkc",
       "status": "confirmed",
-      "summary": "Maouloud (tentative)",
+      "summary": "Maouloud",
       "region": "Senegal",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241101_c2rd1g3lv6vv2t6b3gn09v8vj4",
@@ -55294,6 +55308,13 @@
       "date": "2024-01-01"
     },
     {
+      "id": "20240102_si5iil6c18jkmjajgq6tqscf9k",
+      "status": "confirmed",
+      "summary": "Reconquest Day",
+      "region": "Spain",
+      "date": "2024-01-02"
+    },
+    {
       "id": "20240106_quat95bs9grcmn0mj62sknh7mg",
       "status": "confirmed",
       "summary": "Epiphany",
@@ -55523,6 +55544,13 @@
       "summary": "New Year's Day",
       "region": "Spain",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250102_4im67rhd598448s1jtoolntf4s",
+      "status": "confirmed",
+      "summary": "Reconquest Day",
+      "region": "Spain",
+      "date": "2025-01-02"
     },
     {
       "id": "20250106_aidpelk7044f2en622u66igtbo",
