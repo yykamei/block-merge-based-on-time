@@ -1,6 +1,6 @@
 {
   "name": "block-merge-based-on-time",
-  "version": "3.2.3",
+  "version": "3.2.4",
   "description": "You can prevent your members from merging pull requests during the specified time.",
   "main": "dist/index.js",
   "scripts": {
