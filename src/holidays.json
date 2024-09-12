@@ -5416,16 +5416,16 @@
       "date": "2024-09-04"
     },
     {
-      "id": "20240916_730ev78p39fj1shrgbhc8seskc",
+      "id": "20240916_cfj7aulqd7hggrjuhfuifnkp5g",
       "status": "confirmed",
-      "summary": "Eid e-Milad-un Nabi (tentative)",
+      "summary": "Madhu Purnima",
       "region": "Bangladesh",
       "date": "2024-09-16"
     },
     {
-      "id": "20240916_cfj7aulqd7hggrjuhfuifnkp5g",
+      "id": "20240916_jtidvbn4c66d8visl3i83hflus",
       "status": "confirmed",
-      "summary": "Madhu Purnima",
+      "summary": "Eid e-Milad-un Nabi",
       "region": "Bangladesh",
       "date": "2024-09-16"
     },
@@ -6521,11 +6521,11 @@
       "date": "2024-07-17"
     },
     {
-      "id": "20240916_sqccsmnq8j0i0rmvkhp46hk0rc",
+      "id": "20240915_qgdgtnkovi3u640ejhacu67l8c",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Bahrain",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241216_292kh12te74015m3u6sih0kp5k",
@@ -7001,11 +7001,11 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240916_q17o2qpgiltabi0cli85h09oq0",
+      "id": "20240915_da8f295g7dotjlg1diuu4p9beg",
       "status": "confirmed",
-      "summary": "Maouloud (tentative)",
+      "summary": "Maouloud",
       "region": "Benin",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241101_opfs0knllqf2492se2bmhl6esc",
@@ -18263,11 +18263,11 @@
       "date": "2024-09-11"
     },
     {
-      "id": "20240916_eb4fh3cuaiaiv75jna6c1i0o1s",
+      "id": "20240915_vnp7nbfhup6mb1immlk6ahca7s",
       "status": "confirmed",
-      "summary": "Prophet Mohamed's Birthday (tentative)",
+      "summary": "Prophet Mohamed's Birthday",
       "region": "Egypt",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241006_lv0uci4q3bt8oj623177uef3v4",
@@ -24902,9 +24902,9 @@
       "date": "2024-08-01"
     },
     {
-      "id": "20240916_48ej6jan179v9fqp3f36dbn9s8",
+      "id": "20240916_v7hj35gdsukb9fucfo9veptdmg",
       "status": "confirmed",
-      "summary": "Youman-Nabi (Mawlid) (tentative)",
+      "summary": "Youman-Nabi (Mawlid)",
       "region": "Guyana",
       "date": "2024-09-16"
     },
@@ -27739,9 +27739,9 @@
       "date": "2024-07-16"
     },
     {
-      "id": "20240915_qt27ojlo5ireojur0s5do0bdko",
+      "id": "20240915_bvhmn99fggpijcj3f75e9as8oo",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Iraq",
       "date": "2024-09-15"
     },
@@ -32030,9 +32030,9 @@
       "date": "2024-07-08"
     },
     {
-      "id": "20240916_kbudhqjkcnigvtfbe8aoc02eno",
+      "id": "20240916_kdek4gt6une358rlb8206g3c2k",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Comoros",
       "date": "2024-09-16"
     },
@@ -36304,16 +36304,16 @@
       "date": "2024-07-07"
     },
     {
+      "id": "20240915_4qs4fv5t70200fud3gs4ekvi0o",
+      "status": "confirmed",
+      "summary": "The Prophet's Birthday",
+      "region": "Libya",
+      "date": "2024-09-15"
+    },
+    {
       "id": "20240916_oe6mjoh1npujar34lgha55fsoc",
       "status": "confirmed",
       "summary": "Martyrs' Day",
-      "region": "Libya",
-      "date": "2024-09-16"
-    },
-    {
-      "id": "20240916_q7avqm1jbc4if460eelf2lfj5c",
-      "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
       "region": "Libya",
       "date": "2024-09-16"
     },
@@ -40036,9 +40036,9 @@
       "date": "2024-07-17"
     },
     {
-      "id": "20240916_4hdbbqqvu3eg7pbv2lq9luedhg",
+      "id": "20240916_50bh5rs3jn9u59r1gcd7521g3c",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Mali",
       "date": "2024-09-16"
     },
@@ -46135,11 +46135,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240916_tm7avadheehi1d0l80pg5cicg0",
+      "id": "20240915_c9vih9lq40vebheg76h45kajbc",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Oman",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241118_pp8a2ltdfjqjkdmnnj9qae0eqg",
@@ -47517,9 +47517,9 @@
       "date": "2024-08-26"
     },
     {
-      "id": "20240916_njultmr7u1rje1b7tt1h0jl2go",
+      "id": "20240916_7b31h9eqftc0gg59lgsd5vej14",
       "status": "confirmed",
-      "summary": "Maulid un-Nabi (tentative)",
+      "summary": "Maulid un-Nabi",
       "region": "Philippines",
       "date": "2024-09-16"
     },
@@ -57576,11 +57576,11 @@
       "date": "2024-08-01"
     },
     {
-      "id": "20240916_nt95m0oanbv0jvcf7hu68q6mso",
+      "id": "20240915_hpoi6k1r7vbsoin44oto9f47rg",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Syria",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241006_thl95koucnbkhnsmtqripmg5d4",
@@ -61848,9 +61848,9 @@
       "date": "2024-08-08"
     },
     {
-      "id": "20240916_k0u7igc9cbg2fesl23al3ebsko",
+      "id": "20240916_jlejijvmrnn6sve13dks9udjs8",
       "status": "confirmed",
-      "summary": "Maulid (tentative)",
+      "summary": "Maulid",
       "region": "Tanzania",
       "date": "2024-09-16"
     },
