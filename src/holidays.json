@@ -13224,11 +13224,11 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240916_lp1o0fe8upd3qrr44k2sag6h7c",
+      "id": "20240915_iqmbu9ggg8rj24quemhjs9krrk",
       "status": "confirmed",
       "summary": "The Prophet's Birthday",
       "region": "Cameroon",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241225_tfghsl44r55ueabfv724jt2jb4",
@@ -13315,9 +13315,9 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20250905_er19itubvd1b1if8nkutc53f2g",
+      "id": "20250905_qebl6jd5nk228p32lts77j1cvs",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday",
+      "summary": "The Prophet's Birthday (tentative)",
       "region": "Cameroon",
       "date": "2025-09-05"
     },
@@ -24320,6 +24320,13 @@
       "summary": "Independence Day",
       "region": "Guatemala",
       "date": "2024-09-15"
+    },
+    {
+      "id": "20240916_pspi8r7ori35kd1aji4p15or98",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Guatemala",
+      "date": "2024-09-16"
     },
     {
       "id": "20241020_8e4omg72k9kpuk8jkql9h4bs5s",
@@ -52747,11 +52754,11 @@
       "date": "2024-07-07"
     },
     {
-      "id": "20240916_kcbtgf5jra2d5t029ad9o7f5ts",
+      "id": "20240915_ob912lia44ngvuvomofps4o70s",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
       "region": "Sudan",
-      "date": "2024-09-16"
+      "date": "2024-09-15"
     },
     {
       "id": "20241225_b1pvaica7hppkoh13kbo2a5bmk",
@@ -53467,9 +53474,16 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240916_0sugv4gt88t8t3esvbn1l3338o",
+      "id": "20240915_eomh6sd78mc0ussu2h4r2rrmjk",
       "status": "confirmed",
-      "summary": "The Prophet's Birthday (tentative)",
+      "summary": "The Prophet's Birthday",
+      "region": "Sierra Leone",
+      "date": "2024-09-15"
+    },
+    {
+      "id": "20240916_phbm3sr4set2scl2g3vprmnffo",
+      "status": "confirmed",
+      "summary": "The Prophet's Birthday Holiday",
       "region": "Sierra Leone",
       "date": "2024-09-16"
     },
