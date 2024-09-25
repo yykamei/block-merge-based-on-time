@@ -4185,6 +4185,20 @@
       "date": "2024-11-12"
     },
     {
+      "id": "20241112_ljr06g288l434ka4h6geqa1g00",
+      "status": "confirmed",
+      "summary": "COP29 Holiday",
+      "region": "Azerbaijan",
+      "date": "2024-11-12"
+    },
+    {
+      "id": "20241113_kuaucfhkculhba2d6dg89to9ks",
+      "status": "confirmed",
+      "summary": "COP29 Holiday",
+      "region": "Azerbaijan",
+      "date": "2024-11-13"
+    },
+    {
       "id": "20241117_i60bir4prp9mmk6q3500tr2v70",
       "status": "confirmed",
       "summary": "National Revival Day",
@@ -35365,6 +35379,13 @@
       "date": "2024-09-17"
     },
     {
+      "id": "20240923_rf6gjj0kdh0gojv2gjv5uonoj4",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Sri Lanka",
+      "date": "2024-09-23"
+    },
+    {
       "id": "20241017_jr6195vvgidkb48l96efsl6au4",
       "status": "confirmed",
       "summary": "Vap Full Moon Poya Day",
@@ -52193,6 +52214,13 @@
       "summary": "Muharram (Muslim New Year)",
       "region": "Saudi Arabia",
       "date": "2024-07-07"
+    },
+    {
+      "id": "20240922_fulsl3fk1mdlmp8s11ugse0b84",
+      "status": "confirmed",
+      "summary": "Saudi National Day Holiday",
+      "region": "Saudi Arabia",
+      "date": "2024-09-22"
     },
     {
       "id": "20240923_nm8t1v44k5jtgmf9f53uidet88",
