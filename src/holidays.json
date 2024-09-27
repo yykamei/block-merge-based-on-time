@@ -25170,9 +25170,23 @@
       "date": "2024-09-17"
     },
     {
-      "id": "20241002_u8tsgbuh6n8305u0nlkq8mb9qk",
+      "id": "20240930_te3g17202d22q3jmudfi75hneo",
       "status": "confirmed",
-      "summary": "Morazan's Day (Half Day)",
+      "summary": "Morazan's Week Holiday",
+      "region": "Honduras",
+      "date": "2024-09-30"
+    },
+    {
+      "id": "20241001_60930c748srmh2tf78onl7ljpc",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday",
+      "region": "Honduras",
+      "date": "2024-10-01"
+    },
+    {
+      "id": "20241002_kpj15l971j5ke7nkjk58s7hm2c",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday (Half Day)",
       "region": "Honduras",
       "date": "2024-10-02"
     },
@@ -25182,13 +25196,6 @@
       "summary": "Morazan's Day",
       "region": "Honduras",
       "date": "2024-10-03"
-    },
-    {
-      "id": "20241004_kn9ktl5t29uca99cqheqrov2tk",
-      "status": "confirmed",
-      "summary": "Columbus Day",
-      "region": "Honduras",
-      "date": "2024-10-04"
     },
     {
       "id": "20241004_uufhe5rvfn4n8tvrrbkf5s6g5s",
@@ -25205,11 +25212,18 @@
       "date": "2024-10-05"
     },
     {
-      "id": "20241005_b3ff231vqc6i0qquifqb69g414",
+      "id": "20241012_505shj3jk5rlu8fn6cd741tqqg",
+      "status": "confirmed",
+      "summary": "Columbus Day",
+      "region": "Honduras",
+      "date": "2024-10-12"
+    },
+    {
+      "id": "20241021_drscfd47u9sla9n3bgk29u19g4",
       "status": "confirmed",
       "summary": "Army Day",
       "region": "Honduras",
-      "date": "2024-10-05"
+      "date": "2024-10-21"
     },
     {
       "id": "20241225_vlgsjm1nn1d1cekqgp7sigodpc",
@@ -29755,6 +29769,20 @@
       "date": "2024-03-23"
     },
     {
+      "id": "20240324_ujmnai6p0s6nmhmmbhkblakl1k",
+      "status": "confirmed",
+      "summary": "Purim",
+      "region": "Israel",
+      "date": "2024-03-24"
+    },
+    {
+      "id": "20240325_1lso29ktr0a37sbhr5vshke780",
+      "status": "confirmed",
+      "summary": "Shushan Purim (Jerusalem)",
+      "region": "Israel",
+      "date": "2024-03-25"
+    },
+    {
       "id": "20240418_fv6hkpcln3tajv6d5a1rll764s",
       "status": "confirmed",
       "summary": "Aliyah Day",
@@ -29837,6 +29865,13 @@
       "summary": "Yom HaAtzmaut",
       "region": "Israel",
       "date": "2024-05-14"
+    },
+    {
+      "id": "20240526_rq61623kge5mf1mad1f5vh0juo",
+      "status": "confirmed",
+      "summary": "Lag BaOmer",
+      "region": "Israel",
+      "date": "2024-05-26"
     },
     {
       "id": "20240605_ah5aq14dgtevs6ht1e26a7j1t4",
@@ -30042,6 +30077,20 @@
       "date": "2025-03-13"
     },
     {
+      "id": "20250314_fth9a1a8eikf29uotekn08k72c",
+      "status": "confirmed",
+      "summary": "Purim",
+      "region": "Israel",
+      "date": "2025-03-14"
+    },
+    {
+      "id": "20250316_rhrnhn5aa13snllretbjr1cfd4",
+      "status": "confirmed",
+      "summary": "Shushan Purim (Jerusalem)",
+      "region": "Israel",
+      "date": "2025-03-16"
+    },
+    {
       "id": "20250408_npupjdepo68kj0rlfedneqv50c",
       "status": "confirmed",
       "summary": "Aliyah Day",
@@ -30124,6 +30173,13 @@
       "summary": "Yom HaAtzmaut",
       "region": "Israel",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250516_dt3be5oe0vkdu1op40cm6ell44",
+      "status": "confirmed",
+      "summary": "Lag BaOmer",
+      "region": "Israel",
+      "date": "2025-05-16"
     },
     {
       "id": "20250526_6hab1h3nrlf1fqssfvk2h3nkco",
