@@ -23935,14 +23935,14 @@
   ],
   "Greece": [
     {
-      "id": "20240101_hctruk2p7cqqn04qulqqdevesk",
+      "id": "20240101_q0g35i46nl9uaieddh0au83o7c",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Greece",
       "date": "2024-01-01"
     },
     {
-      "id": "20240106_888qgl8latec8abcqnurpou0dc",
+      "id": "20240106_l4e4l50q4g10pcabd6l6mca614",
       "status": "confirmed",
       "summary": "Epiphany",
       "region": "Greece",
@@ -23963,7 +23963,7 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240318_5phni7nf7vud0tr8n9rvld74ao",
+      "id": "20240318_15dqtbs6dhb4jqtfubma94gs74",
       "status": "confirmed",
       "summary": "Clean Monday",
       "region": "Greece",
@@ -23991,7 +23991,7 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240503_vbo7l2mhs5jv68agijs7ses3fo",
+      "id": "20240503_95ilbnj0qgit6lhd7ocfdcqf9s",
       "status": "confirmed",
       "summary": "Orthodox Good Friday",
       "region": "Greece",
@@ -24040,7 +24040,7 @@
       "date": "2024-06-23"
     },
     {
-      "id": "20240624_8sa56uv8bo1d3p2e5h7rni15ec",
+      "id": "20240624_8q8mb961fiop2njjb7vng4i7vg",
       "status": "confirmed",
       "summary": "Orthodox Holy Spirit Monday",
       "region": "Greece",
@@ -24061,7 +24061,7 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20241028_46e3f6boumqoe7pm91eh8clqls",
+      "id": "20241028_0o8u3uvkmv6v7peoimk7kgfojs",
       "status": "confirmed",
       "summary": "The Ochi day",
       "region": "Greece",
@@ -24096,14 +24096,14 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20250101_vjn8tii2fdef1m3k21frkrmvq8",
+      "id": "20250101_tje7eqqa2256dg9vpcil008fg0",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Greece",
       "date": "2025-01-01"
     },
     {
-      "id": "20250106_detauv0fcks1oaicce1d139p60",
+      "id": "20250106_a22vdg0ioi7sln67hcmo61ei30",
       "status": "confirmed",
       "summary": "Epiphany",
       "region": "Greece",
@@ -24124,7 +24124,7 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250303_fvomv956nlg79vtc53v3u8enak",
+      "id": "20250303_5au5afmg8f9jkq7shi7spnkbm8",
       "status": "confirmed",
       "summary": "Clean Monday",
       "region": "Greece",
@@ -24145,7 +24145,7 @@
       "date": "2025-03-25"
     },
     {
-      "id": "20250418_8258of887au1teio2jkqui6kic",
+      "id": "20250418_ut091mj11mbdokv7rmat2tk6oo",
       "status": "confirmed",
       "summary": "Orthodox Good Friday",
       "region": "Greece",
@@ -24187,7 +24187,7 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_0910r4bmvf8g0qm012ail7k0cc",
+      "id": "20250609_dn2b87ghgsceohe1kmv56unulc",
       "status": "confirmed",
       "summary": "Orthodox Holy Spirit Monday",
       "region": "Greece",
@@ -24215,7 +24215,7 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20251028_ha87otmn6qjlqibv43r12vdv2g",
+      "id": "20251028_7o2hc2hqepaj1v2tk12pqje0p8",
       "status": "confirmed",
       "summary": "The Ochi day",
       "region": "Greece",
@@ -25170,9 +25170,23 @@
       "date": "2024-09-17"
     },
     {
-      "id": "20241002_u8tsgbuh6n8305u0nlkq8mb9qk",
+      "id": "20240930_te3g17202d22q3jmudfi75hneo",
       "status": "confirmed",
-      "summary": "Morazan's Day (Half Day)",
+      "summary": "Morazan's Week Holiday",
+      "region": "Honduras",
+      "date": "2024-09-30"
+    },
+    {
+      "id": "20241001_60930c748srmh2tf78onl7ljpc",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday",
+      "region": "Honduras",
+      "date": "2024-10-01"
+    },
+    {
+      "id": "20241002_kpj15l971j5ke7nkjk58s7hm2c",
+      "status": "confirmed",
+      "summary": "Morazan's Week Holiday (Half Day)",
       "region": "Honduras",
       "date": "2024-10-02"
     },
@@ -25182,13 +25196,6 @@
       "summary": "Morazan's Day",
       "region": "Honduras",
       "date": "2024-10-03"
-    },
-    {
-      "id": "20241004_kn9ktl5t29uca99cqheqrov2tk",
-      "status": "confirmed",
-      "summary": "Columbus Day",
-      "region": "Honduras",
-      "date": "2024-10-04"
     },
     {
       "id": "20241004_uufhe5rvfn4n8tvrrbkf5s6g5s",
@@ -25205,11 +25212,18 @@
       "date": "2024-10-05"
     },
     {
-      "id": "20241005_b3ff231vqc6i0qquifqb69g414",
+      "id": "20241012_505shj3jk5rlu8fn6cd741tqqg",
+      "status": "confirmed",
+      "summary": "Columbus Day",
+      "region": "Honduras",
+      "date": "2024-10-12"
+    },
+    {
+      "id": "20241021_drscfd47u9sla9n3bgk29u19g4",
       "status": "confirmed",
       "summary": "Army Day",
       "region": "Honduras",
-      "date": "2024-10-05"
+      "date": "2024-10-21"
     },
     {
       "id": "20241225_vlgsjm1nn1d1cekqgp7sigodpc",
@@ -29755,6 +29769,20 @@
       "date": "2024-03-23"
     },
     {
+      "id": "20240324_ujmnai6p0s6nmhmmbhkblakl1k",
+      "status": "confirmed",
+      "summary": "Purim",
+      "region": "Israel",
+      "date": "2024-03-24"
+    },
+    {
+      "id": "20240325_1lso29ktr0a37sbhr5vshke780",
+      "status": "confirmed",
+      "summary": "Shushan Purim (Jerusalem)",
+      "region": "Israel",
+      "date": "2024-03-25"
+    },
+    {
       "id": "20240418_fv6hkpcln3tajv6d5a1rll764s",
       "status": "confirmed",
       "summary": "Aliyah Day",
@@ -29837,6 +29865,13 @@
       "summary": "Yom HaAtzmaut",
       "region": "Israel",
       "date": "2024-05-14"
+    },
+    {
+      "id": "20240526_rq61623kge5mf1mad1f5vh0juo",
+      "status": "confirmed",
+      "summary": "Lag BaOmer",
+      "region": "Israel",
+      "date": "2024-05-26"
     },
     {
       "id": "20240605_ah5aq14dgtevs6ht1e26a7j1t4",
@@ -30042,6 +30077,20 @@
       "date": "2025-03-13"
     },
     {
+      "id": "20250314_fth9a1a8eikf29uotekn08k72c",
+      "status": "confirmed",
+      "summary": "Purim",
+      "region": "Israel",
+      "date": "2025-03-14"
+    },
+    {
+      "id": "20250316_rhrnhn5aa13snllretbjr1cfd4",
+      "status": "confirmed",
+      "summary": "Shushan Purim (Jerusalem)",
+      "region": "Israel",
+      "date": "2025-03-16"
+    },
+    {
       "id": "20250408_npupjdepo68kj0rlfedneqv50c",
       "status": "confirmed",
       "summary": "Aliyah Day",
@@ -30124,6 +30173,13 @@
       "summary": "Yom HaAtzmaut",
       "region": "Israel",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250516_dt3be5oe0vkdu1op40cm6ell44",
+      "status": "confirmed",
+      "summary": "Lag BaOmer",
+      "region": "Israel",
+      "date": "2025-05-16"
     },
     {
       "id": "20250526_6hab1h3nrlf1fqssfvk2h3nkco",
