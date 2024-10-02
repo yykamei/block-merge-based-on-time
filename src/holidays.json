@@ -5108,7 +5108,7 @@
   ],
   "Bangladesh": [
     {
-      "id": "20240101_3uet6b8gtrbg92rcn97iposmgc",
+      "id": "20240101_uqac2kffcd6kj3agdpnfhti55g",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Bangladesh",
@@ -5122,18 +5122,25 @@
       "date": "2024-01-07"
     },
     {
-      "id": "20240110_lpp0fr5avi68tn2qne2opo7s7c",
+      "id": "20240110_jdvup5o5lgt2olnjqvq8pd4v94",
       "status": "confirmed",
       "summary": "Bangabandhu Homecoming Day",
       "region": "Bangladesh",
       "date": "2024-01-10"
     },
     {
-      "id": "20240209_it5mra6lsslqamtv5j3hp9k89c",
+      "id": "20240209_v5j7v43qre5keijgo6q6ad7ems",
       "status": "confirmed",
       "summary": "Shab-e-Meraj",
       "region": "Bangladesh",
       "date": "2024-02-09"
+    },
+    {
+      "id": "20240214_bcta6ljlir9d2jj8h6rtadt9sk",
+      "status": "confirmed",
+      "summary": "Saraswati Puja",
+      "region": "Bangladesh",
+      "date": "2024-02-14"
     },
     {
       "id": "20240214_fd0i3uvp7nh2qq4f7rt69nsa4c",
@@ -5143,16 +5150,9 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240214_iad2vcv7s8bpa4icvv712i0808",
+      "id": "20240214_pfqknfinhsekf9v8ggte9b31f4",
       "status": "confirmed",
       "summary": "Ash Wednesday",
-      "region": "Bangladesh",
-      "date": "2024-02-14"
-    },
-    {
-      "id": "20240214_kv8ida3kqqmgf6nb187i1so04s",
-      "status": "confirmed",
-      "summary": "Saraswati Puja",
       "region": "Bangladesh",
       "date": "2024-02-14"
     },
@@ -5178,7 +5178,7 @@
       "date": "2024-02-26"
     },
     {
-      "id": "20240302_f1r157b98quac6tg6n73qgughg",
+      "id": "20240302_vhom8r91r6lnhoigrnot0712p0",
       "status": "confirmed",
       "summary": "National Flag Day",
       "region": "Bangladesh",
@@ -5220,28 +5220,28 @@
       "date": "2024-03-26"
     },
     {
-      "id": "20240328_81goehpitrgoajihoqsfesrba0",
+      "id": "20240328_9odt7l3bk1udpm7mafh6nu4dtk",
       "status": "confirmed",
       "summary": "Maundy Thursday",
       "region": "Bangladesh",
       "date": "2024-03-28"
     },
     {
-      "id": "20240329_g45l8jm0j7j7rndm0o4v2jo3c0",
+      "id": "20240329_uef7lcimi8ntk9r3c9bgtst3tg",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Bangladesh",
       "date": "2024-03-29"
     },
     {
-      "id": "20240330_j1k54ckmstcm4otl9aeqmdlu5c",
+      "id": "20240330_2jv4man2m0i2r1qbebunib5r6c",
       "status": "confirmed",
       "summary": "Holy Saturday",
       "region": "Bangladesh",
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_nokob4si256aq1hvof76f4rq8g",
+      "id": "20240331_ghai0ifbl0lirfr0pnud43tmtc",
       "status": "confirmed",
       "summary": "Easter Day",
       "region": "Bangladesh",
@@ -5353,7 +5353,7 @@
       "date": "2024-06-18"
     },
     {
-      "id": "20240619_6rrnl18alkflfae22clh5fuh48",
+      "id": "20240619_uh66epsbvks5m1gh17m0sqfa34",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday",
       "region": "Bangladesh",
@@ -5423,9 +5423,16 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240904_ldoc927jju8aml79o2aj0dc8ps",
+      "id": "20240826_2e45im12mofkrl671c8ff3evck",
       "status": "confirmed",
-      "summary": "Akhari Chahar Somba (tentative)",
+      "summary": "Janmashtami",
+      "region": "Bangladesh",
+      "date": "2024-08-26"
+    },
+    {
+      "id": "20240904_l7humhc36kn3m32sj126reja6c",
+      "status": "confirmed",
+      "summary": "Akhari Chahar Somba",
       "region": "Bangladesh",
       "date": "2024-09-04"
     },
@@ -5514,7 +5521,7 @@
       "date": "2024-12-16"
     },
     {
-      "id": "20241224_vfjdngf4joe5ntdfa7tvlhak94",
+      "id": "20241224_aab5350okmg6oeun8putmeokf4",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Bangladesh",
@@ -5528,7 +5535,7 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241226_jb4psmdrogi236f6voeduqtnto",
+      "id": "20241226_fei13p3qfdm5phdnfbdu6i2q08",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Bangladesh",
@@ -5542,21 +5549,21 @@
       "date": "2024-12-31"
     },
     {
-      "id": "20250101_dh74fhlpk9iptaq6ubrg8j8h3c",
+      "id": "20250101_johnrfhclm8g27u21isue4ealc",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Bangladesh",
       "date": "2025-01-01"
     },
     {
-      "id": "20250110_skuh0snnn8qbe37s6d48h1b5cc",
+      "id": "20250110_drqdbvcc76vnj3l7sabmgnhf3s",
       "status": "confirmed",
       "summary": "Bangabandhu Homecoming Day",
       "region": "Bangladesh",
       "date": "2025-01-10"
     },
     {
-      "id": "20250127_05iiprvkqc5pb3l43ack5ptqfg",
+      "id": "20250127_8kgrq0r8aklo5fhudbq64rmsi0",
       "status": "confirmed",
       "summary": "Shab-e-Meraj (tentative)",
       "region": "Bangladesh",
@@ -5591,14 +5598,14 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250302_anneqqevt33r3khqc3dd3n151c",
+      "id": "20250302_q53kt82e5gnmk6lk9vmet9m85o",
       "status": "confirmed",
       "summary": "National Flag Day",
       "region": "Bangladesh",
       "date": "2025-03-02"
     },
     {
-      "id": "20250305_1ut8icicjrt3jf02quh8t6o7ik",
+      "id": "20250305_msulc9ngirgk5gh2i6btic3250",
       "status": "confirmed",
       "summary": "Ash Wednesday",
       "region": "Bangladesh",
@@ -5668,35 +5675,35 @@
       "date": "2025-04-14"
     },
     {
-      "id": "20250417_vi9p5o7inskutaj6o0eiu128fk",
+      "id": "20250417_eimjf88psv45no2e4uq7vd805k",
       "status": "confirmed",
       "summary": "Maundy Thursday",
       "region": "Bangladesh",
       "date": "2025-04-17"
     },
     {
-      "id": "20250418_4k1203stn6cads7lir0h1tpb30",
+      "id": "20250418_g1el5og18l9s074ms9aql29p6o",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Bangladesh",
       "date": "2025-04-18"
     },
     {
-      "id": "20250419_b837sgtgha5oa0657g8ehg3sbg",
+      "id": "20250419_ghgoqejsumpdifi03i5s9civnk",
       "status": "confirmed",
       "summary": "Holy Saturday",
       "region": "Bangladesh",
       "date": "2025-04-19"
     },
     {
-      "id": "20250420_mtr8vdve1hn9sk8skicoubqn34",
+      "id": "20250420_hgvg3lrul26qpsf621io1nkm44",
       "status": "confirmed",
       "summary": "Easter Day",
       "region": "Bangladesh",
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_cbj40gi5mcvl06og8jrt0obkfs",
+      "id": "20250421_mas46u4phpk6mj9gr41crgo8f0",
       "status": "confirmed",
       "summary": "Easter Monday",
       "region": "Bangladesh",
@@ -5738,7 +5745,7 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250610_7qd6k11j3km4h6uahcc6pknob0",
+      "id": "20250610_291dg4oqaf4iodpgurlj9l02vg",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Bangladesh",
@@ -5815,7 +5822,7 @@
       "date": "2025-12-16"
     },
     {
-      "id": "20251224_qbarl4vbrsg0eu7agr6j2or81k",
+      "id": "20251224_nuhaiebus3n14lqevfpbrudgbs",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Bangladesh",
@@ -5829,7 +5836,7 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251226_mqvl9kkpgbjm0g8up2jql96uls",
+      "id": "20251226_tc4vfmut2ra2vsc0sfsvcd9cpk",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Bangladesh",
@@ -11527,7 +11534,7 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240530_imvsne9sn8h4bkr4sbn25uakh4",
+      "id": "20240530_656nphahn06sg83elsmktevfo0",
       "status": "confirmed",
       "summary": "Corpus Christi (regional holiday)",
       "region": "Switzerland",
@@ -11821,7 +11828,7 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250619_msiovaq90p0o5mhpag61l7spdk",
+      "id": "20250619_6mmevkjhcqhratg1srsu6acv5o",
       "status": "confirmed",
       "summary": "Corpus Christi (regional holiday)",
       "region": "Switzerland",
@@ -12905,6 +12912,13 @@
       "summary": "Corpus Christi",
       "region": "Chile",
       "date": "2024-05-30"
+    },
+    {
+      "id": "20240609_28t3svg2uv8tsdt5bikl46euos",
+      "status": "confirmed",
+      "summary": "Mayors and Governors Primary Elections",
+      "region": "Chile",
+      "date": "2024-06-09"
     },
     {
       "id": "20240620_epj4as9p4e7f28b8jjq1994j38",
@@ -26410,6 +26424,13 @@
       "date": "2025-07-05"
     },
     {
+      "id": "20250707_s0ov54at0dh4bd6qi5q8gnnoeo",
+      "status": "confirmed",
+      "summary": "Day off for Tynwald Day",
+      "region": "Isle of Man",
+      "date": "2025-07-07"
+    },
+    {
       "id": "20250825_2kt56dl34p8k7bi6m7q2ls83b4",
       "status": "confirmed",
       "summary": "Summer Bank Holiday",
@@ -26447,7 +26468,7 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240113_tej4o7uhqq7v25kprsrgvrkbm0",
+      "id": "20240113_2bt0m5eb1h5ve9r159jee5aq84",
       "status": "confirmed",
       "summary": "Lohri",
       "region": "India",
@@ -26538,16 +26559,16 @@
       "date": "2024-03-24"
     },
     {
-      "id": "20240325_0qb9qa0f5ghc47ji6qj57dlca8",
+      "id": "20240325_o5asp3833l6epphnooa5eg485s",
       "status": "confirmed",
-      "summary": "Dolyatra",
+      "summary": "Holi",
       "region": "India",
       "date": "2024-03-25"
     },
     {
-      "id": "20240325_o5asp3833l6epphnooa5eg485s",
+      "id": "20240325_vpanel6iuot7red2ude24u874s",
       "status": "confirmed",
-      "summary": "Holi",
+      "summary": "Dolyatra",
       "region": "India",
       "date": "2024-03-25"
     },
@@ -26951,7 +26972,7 @@
       "date": "2025-03-13"
     },
     {
-      "id": "20250314_lju0j3l9seessdmhqmqfbhtjag",
+      "id": "20250314_80mjh7ljhmqjc4pd5kga1meeec",
       "status": "confirmed",
       "summary": "Dolyatra",
       "region": "India",
@@ -28429,6 +28450,13 @@
       "date": "2024-10-28"
     },
     {
+      "id": "20241031_sicjdh6lblngbis9d8shcvpcj0",
+      "status": "confirmed",
+      "summary": "Halloween",
+      "region": "Ireland",
+      "date": "2024-10-31"
+    },
+    {
       "id": "20241224_cql4qn60aa4vjr6q1pdibai2i8",
       "status": "confirmed",
       "summary": "Christmas Eve",
@@ -28546,6 +28574,13 @@
       "summary": "October Bank Holiday",
       "region": "Ireland",
       "date": "2025-10-27"
+    },
+    {
+      "id": "20251031_c0q7ngbordn0a7jm51gdcffm3g",
+      "status": "confirmed",
+      "summary": "Halloween",
+      "region": "Ireland",
+      "date": "2025-10-31"
     },
     {
       "id": "20251224_j6j0fa6t2312bvs59tg6fi7g3c",
@@ -49967,11 +50002,18 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240929_5m1c1tk937pnvs098earh7t0hc",
+      "id": "20240929_6mso77j8opg9uc05dv4mo41jhg",
       "status": "confirmed",
       "summary": "Boqueron Battle Victory Day",
       "region": "Paraguay",
       "date": "2024-09-29"
+    },
+    {
+      "id": "20240930_5nadmd3fdn7kfq2aqg2m903oq8",
+      "status": "confirmed",
+      "summary": "Boqueron Battle Victory Day Holiday",
+      "region": "Paraguay",
+      "date": "2024-09-30"
     },
     {
       "id": "20241006_o3nleodi7kedl9e2rea0e75v8g",
@@ -51552,13 +51594,6 @@
       "date": "2025-02-23"
     },
     {
-      "id": "20250224_1bs7lut0e1g0kcni7svj6h28t8",
-      "status": "confirmed",
-      "summary": "Day off for Defender of the Fatherland Day",
-      "region": "Russia",
-      "date": "2025-02-24"
-    },
-    {
       "id": "20250308_l288qpebdg3cfnb5vh368qpo4s",
       "status": "confirmed",
       "summary": "International Women's Day",
@@ -51585,6 +51620,13 @@
       "summary": "Spring and Labor Day Holiday",
       "region": "Russia",
       "date": "2025-05-02"
+    },
+    {
+      "id": "20250508_1c5ckl7sjr9v0ove9057pa0lcc",
+      "status": "confirmed",
+      "summary": "Defender of the Fatherland Day holiday",
+      "region": "Russia",
+      "date": "2025-05-08"
     },
     {
       "id": "20250509_a80g7f8a6ipinh8geuuk89k594",
@@ -55826,7 +55868,7 @@
       "date": "2025-10-12"
     },
     {
-      "id": "20251013_14ss78b62lpbo2d85m20v5a6ig",
+      "id": "20251013_e7kvqrpsapml3lq9bj6qglcj9g",
       "status": "confirmed",
       "summary": "Hispanic Day observed (regional holiday)",
       "region": "Spain",
@@ -64958,6 +65000,13 @@
       "summary": "Our Lady of Coromoto Holiday",
       "region": "Venezuela",
       "date": "2024-09-16"
+    },
+    {
+      "id": "20241001_m28g98noo0qsb52tk6pg307498",
+      "status": "confirmed",
+      "summary": "Christmas Holiday",
+      "region": "Venezuela",
+      "date": "2024-10-01"
     },
     {
       "id": "20241012_4aae4evbhgmkhgmonbf55h7uj0",
