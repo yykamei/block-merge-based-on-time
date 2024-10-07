@@ -50016,13 +50016,6 @@
       "date": "2024-09-30"
     },
     {
-      "id": "20241006_o3nleodi7kedl9e2rea0e75v8g",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Paraguay",
-      "date": "2024-10-06"
-    },
-    {
       "id": "20241208_dl6am67ft60ds96jul1rl186is",
       "status": "confirmed",
       "summary": "Virgin of Caacupé Day",
@@ -50063,13 +50056,6 @@
       "summary": "Heroes' Day",
       "region": "Paraguay",
       "date": "2025-03-01"
-    },
-    {
-      "id": "20250323_esd87m43r4pvf11odqvf2f69dk",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time ends",
-      "region": "Paraguay",
-      "date": "2025-03-23"
     },
     {
       "id": "20250417_1cv00ubhs2afejrpmamki43kjc",
@@ -50126,13 +50112,6 @@
       "summary": "Boqueron Battle Victory Day",
       "region": "Paraguay",
       "date": "2025-09-29"
-    },
-    {
-      "id": "20251005_oakocgfahm2h6h31dafh0grvjs",
-      "status": "confirmed",
-      "summary": "Daylight Saving Time starts",
-      "region": "Paraguay",
-      "date": "2025-10-05"
     },
     {
       "id": "20251208_vra382m82n2ut4kk3c6fl09pm0",
@@ -60294,6 +60273,13 @@
       "summary": "Day of Commemoration and National Mourning",
       "region": "Turkmenistan",
       "date": "2024-10-06"
+    },
+    {
+      "id": "20241007_aclotr4l13hum4kfa8kqqe48h8",
+      "status": "confirmed",
+      "summary": "Day off for Day of Commemoration and National Mourning",
+      "region": "Turkmenistan",
+      "date": "2024-10-07"
     },
     {
       "id": "20241009_fabsmggiudljlcjeeftdvtq4ks",
