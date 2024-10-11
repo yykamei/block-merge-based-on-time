@@ -10609,7 +10609,7 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_8difv7801rl16k73eus5qopv1k",
+      "id": "20250421_sh9l48rtvtgrbbjqjpteh2oqic",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -20600,9 +20600,9 @@
       "date": "2024-09-01"
     },
     {
-      "id": "20241019_n2j5760lapo7vibccam4cluils",
+      "id": "20241019_eih34umjl1iqunh4pm6lq38eds",
       "status": "confirmed",
-      "summary": "Maurice Bishop Day (tentative)",
+      "summary": "Maurice Bishop Day",
       "region": "Grenada",
       "date": "2024-10-19"
     },
@@ -20719,9 +20719,9 @@
       "date": "2025-09-01"
     },
     {
-      "id": "20251019_8prkqk7n6c86rs4bdbf5c0o3nk",
+      "id": "20251019_f4gvt9obdictn41d0q4en9pjkg",
       "status": "confirmed",
-      "summary": "Maurice Bishop Day (tentative)",
+      "summary": "Maurice Bishop Day",
       "region": "Grenada",
       "date": "2025-10-19"
     },
@@ -23448,28 +23448,28 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240212_n13l827mpda6ssq6ofagkif6so",
+      "id": "20240212_e03rks4muthof4r0d3442q2ocg",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
       "region": "Guadeloupe",
       "date": "2024-02-12"
     },
     {
-      "id": "20240213_p39in4ovdno741dfv8tm6tqme8",
+      "id": "20240213_ujuhtf93k779utjoeu9kk2dr34",
       "status": "confirmed",
       "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Guadeloupe",
       "date": "2024-02-13"
     },
     {
-      "id": "20240214_h2fa0hb77dkbk5ir91c05ch1m4",
+      "id": "20240214_7a0stet9mv9lfrn0cfr7a9n4e4",
       "status": "confirmed",
       "summary": "Carnival / Ash Wednesday",
       "region": "Guadeloupe",
       "date": "2024-02-14"
     },
     {
-      "id": "20240307_rsbl5ta035k755snop53chnquo",
+      "id": "20240307_qfvue06hdt8v8hh2sd1nbrf71g",
       "status": "confirmed",
       "summary": "Mid Lent Thursday",
       "region": "Guadeloupe",
@@ -23581,28 +23581,28 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250303_8be1fhsso7cdanhl73pgds6dm4",
+      "id": "20250303_vl5scteenpq470hph02l7dst7c",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
       "region": "Guadeloupe",
       "date": "2025-03-03"
     },
     {
-      "id": "20250304_15qvlukbqn3mhanluklgk06l10",
+      "id": "20250304_4mcg50vridsl225cu02qpr8i14",
       "status": "confirmed",
       "summary": "Carnival / Shrove Tuesday / Pancake Day",
       "region": "Guadeloupe",
       "date": "2025-03-04"
     },
     {
-      "id": "20250305_d4q7apcamkg3cksl52ehdjq8v8",
+      "id": "20250305_15ub8nn7bhkbg3dh88r5bjppv4",
       "status": "confirmed",
       "summary": "Carnival / Ash Wednesday",
       "region": "Guadeloupe",
       "date": "2025-03-05"
     },
     {
-      "id": "20250327_gsf0ejq99ur7kmakide9fqdbno",
+      "id": "20250327_bsemq9i9o3vquo6l6akvr4r1ag",
       "status": "confirmed",
       "summary": "Mid Lent Thursday",
       "region": "Guadeloupe",
@@ -23949,14 +23949,14 @@
   ],
   "Greece": [
     {
-      "id": "20240101_q0g35i46nl9uaieddh0au83o7c",
+      "id": "20240101_hctruk2p7cqqn04qulqqdevesk",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Greece",
       "date": "2024-01-01"
     },
     {
-      "id": "20240106_l4e4l50q4g10pcabd6l6mca614",
+      "id": "20240106_888qgl8latec8abcqnurpou0dc",
       "status": "confirmed",
       "summary": "Epiphany",
       "region": "Greece",
@@ -23977,7 +23977,7 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240318_15dqtbs6dhb4jqtfubma94gs74",
+      "id": "20240318_5phni7nf7vud0tr8n9rvld74ao",
       "status": "confirmed",
       "summary": "Clean Monday",
       "region": "Greece",
@@ -24005,7 +24005,7 @@
       "date": "2024-05-01"
     },
     {
-      "id": "20240503_95ilbnj0qgit6lhd7ocfdcqf9s",
+      "id": "20240503_vbo7l2mhs5jv68agijs7ses3fo",
       "status": "confirmed",
       "summary": "Orthodox Good Friday",
       "region": "Greece",
@@ -24054,7 +24054,7 @@
       "date": "2024-06-23"
     },
     {
-      "id": "20240624_8q8mb961fiop2njjb7vng4i7vg",
+      "id": "20240624_8sa56uv8bo1d3p2e5h7rni15ec",
       "status": "confirmed",
       "summary": "Orthodox Holy Spirit Monday",
       "region": "Greece",
@@ -24075,7 +24075,7 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20241028_0o8u3uvkmv6v7peoimk7kgfojs",
+      "id": "20241028_46e3f6boumqoe7pm91eh8clqls",
       "status": "confirmed",
       "summary": "The Ochi day",
       "region": "Greece",
@@ -24110,14 +24110,14 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20250101_tje7eqqa2256dg9vpcil008fg0",
+      "id": "20250101_vjn8tii2fdef1m3k21frkrmvq8",
       "status": "confirmed",
       "summary": "New Year's Day",
       "region": "Greece",
       "date": "2025-01-01"
     },
     {
-      "id": "20250106_a22vdg0ioi7sln67hcmo61ei30",
+      "id": "20250106_detauv0fcks1oaicce1d139p60",
       "status": "confirmed",
       "summary": "Epiphany",
       "region": "Greece",
@@ -24138,7 +24138,7 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250303_5au5afmg8f9jkq7shi7spnkbm8",
+      "id": "20250303_fvomv956nlg79vtc53v3u8enak",
       "status": "confirmed",
       "summary": "Clean Monday",
       "region": "Greece",
@@ -24159,7 +24159,7 @@
       "date": "2025-03-25"
     },
     {
-      "id": "20250418_ut091mj11mbdokv7rmat2tk6oo",
+      "id": "20250418_8258of887au1teio2jkqui6kic",
       "status": "confirmed",
       "summary": "Orthodox Good Friday",
       "region": "Greece",
@@ -24201,7 +24201,7 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_dn2b87ghgsceohe1kmv56unulc",
+      "id": "20250609_0910r4bmvf8g0qm012ail7k0cc",
       "status": "confirmed",
       "summary": "Orthodox Holy Spirit Monday",
       "region": "Greece",
@@ -24229,7 +24229,7 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20251028_7o2hc2hqepaj1v2tk12pqje0p8",
+      "id": "20251028_ha87otmn6qjlqibv43r12vdv2g",
       "status": "confirmed",
       "summary": "The Ochi day",
       "region": "Greece",
@@ -43588,6 +43588,13 @@
       "date": "2024-10-04"
     },
     {
+      "id": "20241009_03fcmfl085jg734p2h86qvfigk",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Mozambique",
+      "date": "2024-10-09"
+    },
+    {
       "id": "20241225_jtj8n62k79572ui5917cq5suqo",
       "status": "confirmed",
       "summary": "Family Day",
@@ -55847,7 +55854,7 @@
       "date": "2025-10-12"
     },
     {
-      "id": "20251013_e7kvqrpsapml3lq9bj6qglcj9g",
+      "id": "20251013_8fdurefnuhq9rkuda4chdaoi9o",
       "status": "confirmed",
       "summary": "Hispanic Day observed (regional holiday)",
       "region": "Spain",
@@ -56998,7 +57005,7 @@
       "date": "2024-03-29"
     },
     {
-      "id": "20240330_kbgg5ptesunn9g2alp48fpilp8",
+      "id": "20240330_n3h5lhamc1q650369d6ij7djis",
       "status": "confirmed",
       "summary": "Holy Saturday",
       "region": "Sweden",
@@ -57047,7 +57054,7 @@
       "date": "2024-05-09"
     },
     {
-      "id": "20240518_5lmh58jv7v45hqdpo2cbahln3s",
+      "id": "20240518_ft7evioi2jj8mv0sfp83ivdrtg",
       "status": "confirmed",
       "summary": "Whit Saturday",
       "region": "Sweden",
@@ -57075,7 +57082,7 @@
       "date": "2024-06-06"
     },
     {
-      "id": "20240621_82c82j555r1pl2aq58tc3aj3sc",
+      "id": "20240621_90tkhnapg0713hvgahkt09tie4",
       "status": "confirmed",
       "summary": "Midsummer Eve",
       "region": "Sweden",
@@ -57145,7 +57152,7 @@
       "date": "2024-12-22"
     },
     {
-      "id": "20241224_o46ptqulppgdmjllbumf5vjc6g",
+      "id": "20241224_v6vvpb2p7map5jk0iu2qu1m868",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Sweden",
@@ -57166,7 +57173,7 @@
       "date": "2024-12-26"
     },
     {
-      "id": "20241231_766fu7f403smqo7efniimnf2dc",
+      "id": "20241231_cnuunk1f5rg0hj5287a46abnlo",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Sweden",
@@ -57215,7 +57222,7 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250419_09dmhbr69kg3d8eleib2qev8c4",
+      "id": "20250419_sl8kmhkji0bsmcgjfpqlb0kltc",
       "status": "confirmed",
       "summary": "Holy Saturday",
       "region": "Sweden",
@@ -57271,7 +57278,7 @@
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_tm79qb4okr3lpk0kc60kkc3rbg",
+      "id": "20250607_51lo33h5vtpbedjgbgqc8u36k8",
       "status": "confirmed",
       "summary": "Whit Saturday",
       "region": "Sweden",
@@ -57285,7 +57292,7 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250620_r5mcgrdgiemss1o7h36rb6guvs",
+      "id": "20250620_29ois8jot5v0nsf7a98fommdes",
       "status": "confirmed",
       "summary": "Midsummer Eve",
       "region": "Sweden",
@@ -57355,7 +57362,7 @@
       "date": "2025-12-21"
     },
     {
-      "id": "20251224_nde03iscicoh3oamk60s9fsbl4",
+      "id": "20251224_n21o37ps7btmvrhtojmotfpjig",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Sweden",
@@ -57376,7 +57383,7 @@
       "date": "2025-12-26"
     },
     {
-      "id": "20251231_pefuq0clkkde5fte5a2146v1ag",
+      "id": "20251231_vbo9j2o848sp1j9qkfpormn3qk",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Sweden",
@@ -61023,14 +61030,14 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240212_tmbct8867b1ju9mvab0mpvijk4",
+      "id": "20240212_n1ofkjidqch0vuttftkcvaf5a0",
       "status": "confirmed",
       "summary": "Carnival",
       "region": "Trinidad & Tobago",
       "date": "2024-02-12"
     },
     {
-      "id": "20240213_fml2n4afnap6hohvp9h44sphbs",
+      "id": "20240213_pvnb09ac7if48f3dhqpocqed2k",
       "status": "confirmed",
       "summary": "Carnival/Shrove Tuesday",
       "region": "Trinidad & Tobago",
@@ -61205,14 +61212,14 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250303_uuegrdlas0517klbnk5621k7cc",
+      "id": "20250303_63t246of8eprlljkm0psugeoqo",
       "status": "confirmed",
       "summary": "Carnival",
       "region": "Trinidad & Tobago",
       "date": "2025-03-03"
     },
     {
-      "id": "20250304_t5t4k4p8mmnq97pa6ef59t59ls",
+      "id": "20250304_2n7aec985jpfct6pj3kn295a70",
       "status": "confirmed",
       "summary": "Carnival/Shrove Tuesday",
       "region": "Trinidad & Tobago",
@@ -67228,6 +67235,13 @@
       "summary": "Revolution Day",
       "region": "Yemen",
       "date": "2024-09-26"
+    },
+    {
+      "id": "20241007_1tbn839jg65sh2ivskb8d9ugeg",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Yemen",
+      "date": "2024-10-07"
     },
     {
       "id": "20241014_3blb6ejrqhej4k9fti9s0hsrd8",
