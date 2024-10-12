@@ -5458,6 +5458,13 @@
       "date": "2024-10-02"
     },
     {
+      "id": "20241010_67d3tm75kos2ablgca1skct3rs",
+      "status": "confirmed",
+      "summary": "Durga Puja Holiday",
+      "region": "Bangladesh",
+      "date": "2024-10-10"
+    },
+    {
       "id": "20241011_o0pa7gaueugmmcodln25947lk0",
       "status": "confirmed",
       "summary": "Ashtami",
@@ -24357,6 +24364,20 @@
       "date": "2024-09-16"
     },
     {
+      "id": "20241011_qs82uchgg231ma275a8na36qmk",
+      "status": "confirmed",
+      "summary": "Day of Race Bank Holiday",
+      "region": "Guatemala",
+      "date": "2024-10-11"
+    },
+    {
+      "id": "20241012_l0vn7jmgtmpidncv1jbe0800t0",
+      "status": "confirmed",
+      "summary": "Day of Race",
+      "region": "Guatemala",
+      "date": "2024-10-12"
+    },
+    {
       "id": "20241020_8e4omg72k9kpuk8jkql9h4bs5s",
       "status": "confirmed",
       "summary": "Revolution of 1944",
@@ -24460,6 +24481,13 @@
       "summary": "Independence Day",
       "region": "Guatemala",
       "date": "2025-09-15"
+    },
+    {
+      "id": "20251012_4qbmt4i4nlh6242fomvp42fqk0",
+      "status": "confirmed",
+      "summary": "Day of Race",
+      "region": "Guatemala",
+      "date": "2025-10-12"
     },
     {
       "id": "20251020_3q4cl9or0hcur20roc1779i67g",
