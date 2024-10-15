@@ -7756,9 +7756,9 @@
       "date": "2024-03-12"
     },
     {
-      "id": "20240328_05eb28b67drn582etqp0jn3tds",
+      "id": "20240328_cjt5fj88ajoqs6hok8vp7po64s",
       "status": "confirmed",
-      "summary": "Nuzul Al-Qur'an (tentative)",
+      "summary": "Nuzul Al-Qur'an",
       "region": "Brunei",
       "date": "2024-03-28"
     },
@@ -7882,18 +7882,25 @@
       "date": "2025-02-24"
     },
     {
-      "id": "20250301_mmv2ph9khbjg5nq3c1jre6rit4",
+      "id": "20250302_151jcovqfuefs2pn76n5d5kjbg",
       "status": "confirmed",
       "summary": "Ramadan begins (tentative)",
       "region": "Brunei",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
-      "id": "20250317_38bvjvkat2oe8vf5envler4o10",
+      "id": "20250303_77iktghtsp1fu57bid99en5ttc",
       "status": "confirmed",
-      "summary": "Nuzul Al-Qur'an (tentative)",
+      "summary": "Ramadan begins observed (tentative)",
       "region": "Brunei",
-      "date": "2025-03-17"
+      "date": "2025-03-03"
+    },
+    {
+      "id": "20250318_m625epu0dlcjlc4doo8mt49oog",
+      "status": "confirmed",
+      "summary": "Nuzul Al-Qur'an",
+      "region": "Brunei",
+      "date": "2025-03-18"
     },
     {
       "id": "20250331_8h9463aovfnitendlinpidkq7c",
