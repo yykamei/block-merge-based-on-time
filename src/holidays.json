@@ -8115,9 +8115,9 @@
       "date": "2024-08-17"
     },
     {
-      "id": "20241011_oigkas2t41d23seoicppt3o314",
+      "id": "20241011_556abr7bblckfbllq0fqh4lnh8",
       "status": "confirmed",
-      "summary": "Bolivian Women's Day",
+      "summary": "Bolivian Women's Day (half-day)",
       "region": "Bolivia",
       "date": "2024-10-11"
     },
@@ -51629,16 +51629,16 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250502_nsbigpnkdgj5sbvjc7fhspsunc",
+      "id": "20250502_n1lh05pgrao6ilfds4n4lstg8s",
       "status": "confirmed",
-      "summary": "Substitute for New Year Holiday",
+      "summary": "Substitute Holiday for New Year Holiday",
       "region": "Russia",
       "date": "2025-05-02"
     },
     {
-      "id": "20250508_1c5ckl7sjr9v0ove9057pa0lcc",
+      "id": "20250508_k5objiv4riiaj2q65n3uobomgc",
       "status": "confirmed",
-      "summary": "Defender of the Fatherland Day holiday",
+      "summary": "Substitute Holiday for Defender of the Fatherland Day",
       "region": "Russia",
       "date": "2025-05-08"
     },
@@ -51657,11 +51657,18 @@
       "date": "2025-06-12"
     },
     {
-      "id": "20250613_57ndn78dlrer6sur73dpp9dads",
+      "id": "20250613_1p3q8pcfbdi5jd9om1hle8d6js",
       "status": "confirmed",
-      "summary": "Russia Day Weekend",
+      "summary": "Substitute Holiday for International Women's Day",
       "region": "Russia",
       "date": "2025-06-13"
+    },
+    {
+      "id": "20251103_s45vkjj1kf3iakpmiieft6ltk4",
+      "status": "confirmed",
+      "summary": "Unity Day Holiday",
+      "region": "Russia",
+      "date": "2025-11-03"
     },
     {
       "id": "20251104_25dsv0r2mkpq103rjjsq2ee2rs",
@@ -51671,9 +51678,9 @@
       "date": "2025-11-04"
     },
     {
-      "id": "20251231_lh793v8onhcf2olmur7kiq5018",
+      "id": "20251231_vpvm03mjtj0ba97u247cogop9k",
       "status": "confirmed",
-      "summary": "Substitute for New Year Holiday",
+      "summary": "Substitute Holiday for New Year Holiday",
       "region": "Russia",
       "date": "2025-12-31"
     }
