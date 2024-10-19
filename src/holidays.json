@@ -24392,6 +24392,13 @@
       "date": "2024-10-20"
     },
     {
+      "id": "20241021_ebdkhborsqf23aph23nmbbhu00",
+      "status": "confirmed",
+      "summary": "Revolution of 1944 Holiday",
+      "region": "Guatemala",
+      "date": "2024-10-21"
+    },
+    {
       "id": "20241101_lnn3s7t7kk1en0hvn7pb9d4e9k",
       "status": "confirmed",
       "summary": "All Saints' Day",
@@ -50056,6 +50063,20 @@
       "summary": "Boqueron Battle Victory Day Holiday",
       "region": "Paraguay",
       "date": "2024-09-30"
+    },
+    {
+      "id": "20241006_o3nleodi7kedl9e2rea0e75v8g",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time starts",
+      "region": "Paraguay",
+      "date": "2024-10-06"
+    },
+    {
+      "id": "20241015_a0kkar4rbf8b0knnqpuf6h27oc",
+      "status": "confirmed",
+      "summary": "Daylight Saving Time ends",
+      "region": "Paraguay",
+      "date": "2024-10-15"
     },
     {
       "id": "20241208_dl6am67ft60ds96jul1rl186is",
