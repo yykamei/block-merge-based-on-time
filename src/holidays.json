@@ -20903,6 +20903,13 @@
       "date": "2024-10-14"
     },
     {
+      "id": "20241025_qapa80uioqvjf0rs10tq3csm2g",
+      "status": "confirmed",
+      "summary": "Election Holiday",
+      "region": "Georgia",
+      "date": "2024-10-25"
+    },
+    {
       "id": "20241123_arbgfm9ptqi95q55bdd5m91ibo",
       "status": "confirmed",
       "summary": "St George's Day",
@@ -27569,9 +27576,16 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250128_9afiphs7t4ku0h5pnbenvo2o60",
+      "id": "20250127_f6agloclcuajcern55ce2htq3s",
       "status": "confirmed",
       "summary": "Ascension of the Prophet Muhammad (tentative)",
+      "region": "Indonesia",
+      "date": "2025-01-27"
+    },
+    {
+      "id": "20250128_raqmkfcboll22nmimtpqshd9do",
+      "status": "confirmed",
+      "summary": "Chinese New Year Joint Holiday",
       "region": "Indonesia",
       "date": "2025-01-28"
     },
@@ -27590,18 +27604,60 @@
       "date": "2025-03-02"
     },
     {
-      "id": "20250401_4qrfrrkk21vevde82etkcbudnk",
+      "id": "20250328_t05o9duba25gv95p91gqvnlkao",
+      "status": "confirmed",
+      "summary": "Joint Holiday for Bali's Day of Silence and Hindu New Year (Nyepi)",
+      "region": "Indonesia",
+      "date": "2025-03-28"
+    },
+    {
+      "id": "20250329_di7e2b9cs2eobl2ehafri7g470",
+      "status": "confirmed",
+      "summary": "Bali's Day of Silence and Hindu New Year (Nyepi)",
+      "region": "Indonesia",
+      "date": "2025-03-29"
+    },
+    {
+      "id": "20250331_63ssh0ck8c6q33stnv1ijv72f8",
       "status": "confirmed",
       "summary": "Idul Fitri (tentative)",
+      "region": "Indonesia",
+      "date": "2025-03-31"
+    },
+    {
+      "id": "20250401_52b1fijnifr11sbg7lo66dundo",
+      "status": "confirmed",
+      "summary": "Idul Fitri Holiday (tentative)",
       "region": "Indonesia",
       "date": "2025-04-01"
     },
     {
-      "id": "20250402_rl4qf9ir3li7ecrsf40o72ococ",
+      "id": "20250402_e4oru7tdq1fheq6940i8od15b0",
       "status": "confirmed",
-      "summary": "Idul Fitri Holiday (tentative)",
+      "summary": "Idul Fitri Joint Holiday",
       "region": "Indonesia",
       "date": "2025-04-02"
+    },
+    {
+      "id": "20250403_58emq0f1e26bcmei3usobrc2fc",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "20250404_dc7671alqbtus6ep8p7vq6u3ms",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2025-04-04"
+    },
+    {
+      "id": "20250407_jps40rn3qfmq353pq8u2srs910",
+      "status": "confirmed",
+      "summary": "Idul Fitri Joint Holiday",
+      "region": "Indonesia",
+      "date": "2025-04-07"
     },
     {
       "id": "20250418_8po83bj0b8niafo2hkt2ihm86c",
@@ -27611,7 +27667,7 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250420_uou2qtg3domtq835s1r60ltqs8",
+      "id": "20250420_enfh0lnv0u265g7lmr44fsos34",
       "status": "confirmed",
       "summary": "Easter Sunday",
       "region": "Indonesia",
@@ -27625,9 +27681,16 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250513_d7490eribum029uggghj0n7n08",
+      "id": "20250512_34v4kct1gqb201t9cuinisqr80",
       "status": "confirmed",
-      "summary": "Waisak Day (Buddha's Anniversary) (tentative)",
+      "summary": "Waisak Day (Buddha's Anniversary)",
+      "region": "Indonesia",
+      "date": "2025-05-12"
+    },
+    {
+      "id": "20250513_ocget49bmfqstpap7f7gf144so",
+      "status": "confirmed",
+      "summary": "Joint Holiday for Waisak Day",
       "region": "Indonesia",
       "date": "2025-05-13"
     },
@@ -27639,6 +27702,13 @@
       "date": "2025-05-29"
     },
     {
+      "id": "20250530_33p7qceo54nl7s7eg4jh7pc0rs",
+      "status": "confirmed",
+      "summary": "Joint Holiday after Ascension Day",
+      "region": "Indonesia",
+      "date": "2025-05-30"
+    },
+    {
       "id": "20250601_qt3jdfsd69q5e9slhcv2c7mh2s",
       "status": "confirmed",
       "summary": "Pancasila Day",
@@ -27646,11 +27716,18 @@
       "date": "2025-06-01"
     },
     {
-      "id": "20250607_4uaikblu2cbp68psdhlhbspua4",
+      "id": "20250606_bodajfcnf2dcd8jdh7blgn2q9g",
       "status": "confirmed",
       "summary": "Idul Adha (tentative)",
       "region": "Indonesia",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
+    },
+    {
+      "id": "20250609_iqvcqd4biu02mrk6ci3npvu5c0",
+      "status": "confirmed",
+      "summary": "Joint Holiday for Idul Adha",
+      "region": "Indonesia",
+      "date": "2025-06-09"
     },
     {
       "id": "20250627_gr5ihelogqocd8vbbcr0r5t348",
@@ -27693,6 +27770,13 @@
       "summary": "Christmas Day",
       "region": "Indonesia",
       "date": "2025-12-25"
+    },
+    {
+      "id": "20251226_hksvtdam920aendask5gutqths",
+      "status": "confirmed",
+      "summary": "Boxing Day",
+      "region": "Indonesia",
+      "date": "2025-12-26"
     },
     {
       "id": "20251231_ins82gpussnvcbpju50f23gquk",
@@ -59909,6 +59993,13 @@
       "date": "2024-08-30"
     },
     {
+      "id": "20241031_l3u79qlifs13nd29e4n94ab5dc",
+      "status": "confirmed",
+      "summary": "All Saints Day Holiday",
+      "region": "Timor-Leste",
+      "date": "2024-10-31"
+    },
+    {
       "id": "20241101_l6g9703qkupe9gvc04b4l5jnq4",
       "status": "confirmed",
       "summary": "All Saints' Day",
@@ -65389,9 +65480,9 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240304_gd9h2sjg9qkhosr7ep7fr2a9jk",
+      "id": "20240304_rpnchjrf1qoc28su82kqd8kuv0",
       "status": "confirmed",
-      "summary": "Lavity Stoutt's Birthday",
+      "summary": "Lavity Stoutt's Birthday Holiday",
       "region": "British Virgin Islands",
       "date": "2024-03-04"
     },
@@ -65501,9 +65592,16 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250307_0b27f2b1ckrgsd697j1plq1djg",
+      "id": "20250303_4rofm28qkbtkb6jppn1osktqsg",
       "status": "confirmed",
-      "summary": "Lavity Stoutt's Birthday (tentative)",
+      "summary": "Lavity Stoutt's Birthday Holiday",
+      "region": "British Virgin Islands",
+      "date": "2025-03-03"
+    },
+    {
+      "id": "20250307_kvpus9cbukluljs4puh37cv0qs",
+      "status": "confirmed",
+      "summary": "Lavity Stoutt's Birthday",
       "region": "British Virgin Islands",
       "date": "2025-03-07"
     },
@@ -65529,18 +65627,18 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250620_l800b1m0mp0f7bkod5m95cfk6s",
+      "id": "20250613_slofkcf18u01gp9nhqbj0c4kls",
       "status": "confirmed",
       "summary": "Sovereign's Birthday (tentative)",
       "region": "British Virgin Islands",
-      "date": "2025-06-20"
+      "date": "2025-06-13"
     },
     {
-      "id": "20250701_5vuq6rhh09tmf71fi6him3i160",
+      "id": "20250707_n5k1pheb1r20i8pf7fc3et5a3g",
       "status": "confirmed",
-      "summary": "Virgin Islands Day (tentative)",
+      "summary": "Virgin Islands Day",
       "region": "British Virgin Islands",
-      "date": "2025-07-01"
+      "date": "2025-07-07"
     },
     {
       "id": "20250804_hbj872a8n47en3d8hsum75uv60",
@@ -65578,11 +65676,11 @@
       "date": "2025-10-21"
     },
     {
-      "id": "20251110_nbv6ta4u7hdbcvfu97oqeg2p54",
+      "id": "20251124_ks7rl3rstta3q9dm23s0hb0mvk",
       "status": "confirmed",
-      "summary": "The Great March of 1949 and Restoration Day (tentative)",
+      "summary": "The Great March of 1949 and Restoration Day",
       "region": "British Virgin Islands",
-      "date": "2025-11-10"
+      "date": "2025-11-24"
     },
     {
       "id": "20251225_9vi99pg12au8mg22a81tp9c7e4",
