@@ -3248,9 +3248,9 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_lgroqgj1j89c56kumn201janr8",
+      "id": "20240401_hkiuf97l9tn5qc7mhl4vs0mo5k",
       "status": "confirmed",
-      "summary": "Easter Monday",
+      "summary": "Easter Monday (regional holiday)",
       "region": "Australia",
       "date": "2024-04-01"
     },
@@ -3353,9 +3353,9 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_d7iif6f21o69o9nhmttoo2fv4c",
+      "id": "20250421_6kgpoo36jn5jlav68jhj3ijam4",
       "status": "confirmed",
-      "summary": "Easter Monday",
+      "summary": "Easter Monday (regional holiday)",
       "region": "Australia",
       "date": "2025-04-21"
     },
@@ -28527,9 +28527,9 @@
       "date": "2024-03-29"
     },
     {
-      "id": "20240331_2nph04a6cf3vlsjuppuagekoko",
+      "id": "20240331_rifn36jri8f97u3phqljufbokg",
       "status": "confirmed",
-      "summary": "Easter",
+      "summary": "Easter Sunday",
       "region": "Ireland",
       "date": "2024-03-31"
     },
@@ -28653,9 +28653,9 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250420_v29qn8cbrcjletpgd9jcfe7dso",
+      "id": "20250420_44mrau5rkjacleforhao5tb1mg",
       "status": "confirmed",
-      "summary": "Easter",
+      "summary": "Easter Sunday",
       "region": "Ireland",
       "date": "2025-04-20"
     },
@@ -38943,7 +38943,7 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240329_dn1jqkdq1hm7mlr92fo9cd76lc",
+      "id": "20240329_dihsjbj7rvf2375btnk4vf93d0",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "St. Martin",
@@ -39062,7 +39062,7 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250418_5u6loon704rs8pv4qvp9rnbdng",
+      "id": "20250418_s8f91i9f4hmmsvdokt14eaauro",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "St. Martin",
@@ -42523,7 +42523,7 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240401_o0neo0pmnduf21imr18kao3hd0",
+      "id": "20240401_kch2o0pejtsev1imn4m6qtuhsg",
       "status": "confirmed",
       "summary": "Bank Holiday",
       "region": "Malta",
@@ -42614,16 +42614,16 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241226_qb2hd2prqj8u5bck1aatm08b8s",
+      "id": "20241226_l0733nlbko37d0gv87vq2p98tg",
       "status": "confirmed",
-      "summary": "Boxing Day",
+      "summary": "Bank Holiday",
       "region": "Malta",
       "date": "2024-12-26"
     },
     {
-      "id": "20241226_so2mv0a4sbsj42bu4fb2ssqmrk",
+      "id": "20241226_qb2hd2prqj8u5bck1aatm08b8s",
       "status": "confirmed",
-      "summary": "Bank Holiday",
+      "summary": "Boxing Day",
       "region": "Malta",
       "date": "2024-12-26"
     },
@@ -42684,7 +42684,7 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250421_k6mh1250mdvifue8rjnr7nqq44",
+      "id": "20250421_vhu5n02hq5853vsm4fqrc3ovbk",
       "status": "confirmed",
       "summary": "Bank Holiday",
       "region": "Malta",
@@ -42775,16 +42775,16 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251226_repk395rk4ca5liijbbucvtbvo",
+      "id": "20251226_socf2b8c0v4g24qo992v9h39tc",
       "status": "confirmed",
-      "summary": "Bank Holiday",
+      "summary": "Boxing Day",
       "region": "Malta",
       "date": "2025-12-26"
     },
     {
-      "id": "20251226_socf2b8c0v4g24qo992v9h39tc",
+      "id": "20251226_srbrmtpprju1kvoc5crh83onrg",
       "status": "confirmed",
-      "summary": "Boxing Day",
+      "summary": "Bank Holiday",
       "region": "Malta",
       "date": "2025-12-26"
     },
@@ -50312,9 +50312,9 @@
       "date": "2024-02-13"
     },
     {
-      "id": "20240303_cfo6e5q81v2r8dkv1mgeif9uo8",
+      "id": "20240303_jjsbgsb17gd7ee58m5t55ol830",
       "status": "confirmed",
-      "summary": "March bank holiday",
+      "summary": "March Bank Holiday",
       "region": "Qatar",
       "date": "2024-03-03"
     },
@@ -50417,9 +50417,9 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250302_4v9ovpj52b6d99h03ug8vtf2jo",
+      "id": "20250302_dfnueikmn7ioauki7f6gsmgktg",
       "status": "confirmed",
-      "summary": "March bank holiday",
+      "summary": "March Bank Holiday",
       "region": "Qatar",
       "date": "2025-03-02"
     },
@@ -56008,7 +56008,7 @@
       "date": "2025-10-12"
     },
     {
-      "id": "20251013_8fdurefnuhq9rkuda4chdaoi9o",
+      "id": "20251013_382i6ni5j7nm5e4t7vq56keg8k",
       "status": "confirmed",
       "summary": "Hispanic Day observed (regional holiday)",
       "region": "Spain",
