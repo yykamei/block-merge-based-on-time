@@ -3248,9 +3248,9 @@
       "date": "2024-03-31"
     },
     {
-      "id": "20240401_lgroqgj1j89c56kumn201janr8",
+      "id": "20240401_hkiuf97l9tn5qc7mhl4vs0mo5k",
       "status": "confirmed",
-      "summary": "Easter Monday",
+      "summary": "Easter Monday (regional holiday)",
       "region": "Australia",
       "date": "2024-04-01"
     },
@@ -3353,9 +3353,9 @@
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_d7iif6f21o69o9nhmttoo2fv4c",
+      "id": "20250421_6kgpoo36jn5jlav68jhj3ijam4",
       "status": "confirmed",
-      "summary": "Easter Monday",
+      "summary": "Easter Monday (regional holiday)",
       "region": "Australia",
       "date": "2025-04-21"
     },
@@ -5171,9 +5171,9 @@
       "date": "2024-02-23"
     },
     {
-      "id": "20240226_8nl7h3a25li7nh0hscbcv3mhj4",
+      "id": "20240226_vm1avr649naquc7a66a2ffa0s8",
       "status": "confirmed",
-      "summary": "Shab e-Barat (tentative)",
+      "summary": "Shab e-Barat",
       "region": "Bangladesh",
       "date": "2024-02-26"
     },
@@ -5262,9 +5262,9 @@
       "date": "2024-04-06"
     },
     {
-      "id": "20240407_n6pl7h4i77s5q88evoa1oc9j4o",
+      "id": "20240407_1jbh446l2jf5vt57v11fpnfe5o",
       "status": "confirmed",
-      "summary": "Shab-e-qadr (tentative)",
+      "summary": "Shab-e-qadr",
       "region": "Bangladesh",
       "date": "2024-04-07"
     },
@@ -5414,13 +5414,6 @@
       "summary": "Extraordinary Holiday",
       "region": "Bangladesh",
       "date": "2024-08-05"
-    },
-    {
-      "id": "20240815_a4ds7r7aflqtjq7e8mjovt1js8",
-      "status": "confirmed",
-      "summary": "National Mourning Day (Canceled)",
-      "region": "Bangladesh",
-      "date": "2024-08-15"
     },
     {
       "id": "20240826_2e45im12mofkrl671c8ff3evck",
@@ -5584,6 +5577,13 @@
       "date": "2025-02-14"
     },
     {
+      "id": "20250214_uniilno14smsfqqfhku09dalhc",
+      "status": "confirmed",
+      "summary": "Shab e-Barat",
+      "region": "Bangladesh",
+      "date": "2025-02-14"
+    },
+    {
       "id": "20250221_r8hj564v8r4lb48kdcnf82vuok",
       "status": "confirmed",
       "summary": "Language Martyrs' Day",
@@ -5626,11 +5626,11 @@
       "date": "2025-03-13"
     },
     {
-      "id": "20250317_ct69vmi3nskgoh3s2ssa1t16s4",
+      "id": "20250325_kta2449jrcn14e5hu7s5al8oo8",
       "status": "confirmed",
-      "summary": "Sheikh Mujibur Rahman’s birthday",
+      "summary": "Shab-e-qadr",
       "region": "Bangladesh",
-      "date": "2025-03-17"
+      "date": "2025-03-25"
     },
     {
       "id": "20250326_t08uhqu4qt2o88gn5kf32p9od8",
@@ -5731,6 +5731,13 @@
       "date": "2025-05-11"
     },
     {
+      "id": "20250514_ds2rih4ebs13g40h686eu1fg34",
+      "status": "confirmed",
+      "summary": "Buddha Purnima/Vesak",
+      "region": "Bangladesh",
+      "date": "2025-05-14"
+    },
+    {
       "id": "20250607_q0gsd13elu9cuv4nl02g7rinb8",
       "status": "confirmed",
       "summary": "Eid al-Adha (tentative)",
@@ -5785,13 +5792,6 @@
       "summary": "Ashura (tentative)",
       "region": "Bangladesh",
       "date": "2025-07-06"
-    },
-    {
-      "id": "20250815_grd3lh8h6ghjsvuuksdmmgnl5o",
-      "status": "confirmed",
-      "summary": "National Mourning Day",
-      "region": "Bangladesh",
-      "date": "2025-08-15"
     },
     {
       "id": "20250820_vscgsjj5umj2r6vorktaklban4",
@@ -5880,7 +5880,7 @@
       "date": "2024-02-14"
     },
     {
-      "id": "20240329_93glfks9l7d71asqbdl11kopkg",
+      "id": "20240329_2n4kmufcsjnqsu64b7760g6g1k",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Belgium",
@@ -5922,7 +5922,7 @@
       "date": "2024-05-09"
     },
     {
-      "id": "20240510_8b6mtlbkr46rehsdpk09np3mts",
+      "id": "20240510_23a3gj3crlpqb18m2jfb798h48",
       "status": "confirmed",
       "summary": "Day after Ascension Day",
       "region": "Belgium",
@@ -6020,7 +6020,7 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241226_hds19oasbsrmt41cm6jt9mfj5s",
+      "id": "20241226_orv4qrn6b8bnun15lr0lgj4blg",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Belgium",
@@ -6062,7 +6062,7 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250418_puc15h0kpsrjdocu9s15lkmo8c",
+      "id": "20250418_567u960cltktdn1mv2nk17s8g0",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Belgium",
@@ -6104,7 +6104,7 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250530_fqu8ij7dkc9lhtftuptnphdd6c",
+      "id": "20250530_6uqvt45vejs2rmi24e6g012350",
       "status": "confirmed",
       "summary": "Day after Ascension Day",
       "region": "Belgium",
@@ -6195,7 +6195,7 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251226_jrhteemhsjgq21hro702ci8tj0",
+      "id": "20251226_3qr1bfmhkk1g68ss4laq0oq2p4",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Belgium",
@@ -28527,9 +28527,9 @@
       "date": "2024-03-29"
     },
     {
-      "id": "20240331_2nph04a6cf3vlsjuppuagekoko",
+      "id": "20240331_rifn36jri8f97u3phqljufbokg",
       "status": "confirmed",
-      "summary": "Easter",
+      "summary": "Easter Sunday",
       "region": "Ireland",
       "date": "2024-03-31"
     },
@@ -28653,9 +28653,9 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250420_v29qn8cbrcjletpgd9jcfe7dso",
+      "id": "20250420_44mrau5rkjacleforhao5tb1mg",
       "status": "confirmed",
-      "summary": "Easter",
+      "summary": "Easter Sunday",
       "region": "Ireland",
       "date": "2025-04-20"
     },
@@ -34188,7 +34188,7 @@
       "date": "2024-05-12"
     },
     {
-      "id": "20240525_5db2qbqld3cik9kujkgscch70g",
+      "id": "20240525_4fs9v74at2sskkk5576hl2c930",
       "status": "confirmed",
       "summary": "Liberation and Resistance Day",
       "region": "Lebanon",
@@ -34426,7 +34426,7 @@
       "date": "2025-05-11"
     },
     {
-      "id": "20250525_bnf4nom7jf8bfl1q8j69dfca34",
+      "id": "20250525_83r1o4lbb4pdoncn0i0qha1bp4",
       "status": "confirmed",
       "summary": "Liberation and Resistance Day",
       "region": "Lebanon",
@@ -38943,7 +38943,7 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240329_dn1jqkdq1hm7mlr92fo9cd76lc",
+      "id": "20240329_dihsjbj7rvf2375btnk4vf93d0",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "St. Martin",
@@ -39062,7 +39062,7 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250418_5u6loon704rs8pv4qvp9rnbdng",
+      "id": "20250418_s8f91i9f4hmmsvdokt14eaauro",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "St. Martin",
@@ -42523,7 +42523,7 @@
       "date": "2024-04-01"
     },
     {
-      "id": "20240401_o0neo0pmnduf21imr18kao3hd0",
+      "id": "20240401_kch2o0pejtsev1imn4m6qtuhsg",
       "status": "confirmed",
       "summary": "Bank Holiday",
       "region": "Malta",
@@ -42614,16 +42614,16 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241226_qb2hd2prqj8u5bck1aatm08b8s",
+      "id": "20241226_l0733nlbko37d0gv87vq2p98tg",
       "status": "confirmed",
-      "summary": "Boxing Day",
+      "summary": "Bank Holiday",
       "region": "Malta",
       "date": "2024-12-26"
     },
     {
-      "id": "20241226_so2mv0a4sbsj42bu4fb2ssqmrk",
+      "id": "20241226_qb2hd2prqj8u5bck1aatm08b8s",
       "status": "confirmed",
-      "summary": "Bank Holiday",
+      "summary": "Boxing Day",
       "region": "Malta",
       "date": "2024-12-26"
     },
@@ -42684,7 +42684,7 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250421_k6mh1250mdvifue8rjnr7nqq44",
+      "id": "20250421_vhu5n02hq5853vsm4fqrc3ovbk",
       "status": "confirmed",
       "summary": "Bank Holiday",
       "region": "Malta",
@@ -42775,16 +42775,16 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251226_repk395rk4ca5liijbbucvtbvo",
+      "id": "20251226_socf2b8c0v4g24qo992v9h39tc",
       "status": "confirmed",
-      "summary": "Bank Holiday",
+      "summary": "Boxing Day",
       "region": "Malta",
       "date": "2025-12-26"
     },
     {
-      "id": "20251226_socf2b8c0v4g24qo992v9h39tc",
+      "id": "20251226_srbrmtpprju1kvoc5crh83onrg",
       "status": "confirmed",
-      "summary": "Boxing Day",
+      "summary": "Bank Holiday",
       "region": "Malta",
       "date": "2025-12-26"
     },
@@ -50191,7 +50191,7 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241231_5lirhm5daq9275jr7vle1l4rg8",
+      "id": "20241231_m9pk7d547ltmaa8pae60i9vl14",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Paraguay",
@@ -50289,7 +50289,7 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251231_t9s60d50qnf9eo2q088hgh4ij0",
+      "id": "20251231_i6d54i7cuo63r42pdl87if4eh4",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Paraguay",
@@ -50312,9 +50312,9 @@
       "date": "2024-02-13"
     },
     {
-      "id": "20240303_cfo6e5q81v2r8dkv1mgeif9uo8",
+      "id": "20240303_jjsbgsb17gd7ee58m5t55ol830",
       "status": "confirmed",
-      "summary": "March bank holiday",
+      "summary": "March Bank Holiday",
       "region": "Qatar",
       "date": "2024-03-03"
     },
@@ -50417,9 +50417,9 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250302_4v9ovpj52b6d99h03ug8vtf2jo",
+      "id": "20250302_dfnueikmn7ioauki7f6gsmgktg",
       "status": "confirmed",
-      "summary": "March bank holiday",
+      "summary": "March Bank Holiday",
       "region": "Qatar",
       "date": "2025-03-02"
     },
@@ -56008,7 +56008,7 @@
       "date": "2025-10-12"
     },
     {
-      "id": "20251013_8fdurefnuhq9rkuda4chdaoi9o",
+      "id": "20251013_382i6ni5j7nm5e4t7vq56keg8k",
       "status": "confirmed",
       "summary": "Hispanic Day observed (regional holiday)",
       "region": "Spain",
