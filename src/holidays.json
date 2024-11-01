@@ -31907,11 +31907,39 @@
       "date": "2025-03-08"
     },
     {
+      "id": "20250414_uujcnriq49j6dsf6b730sos8v8",
+      "status": "confirmed",
+      "summary": "Khmer New Year Day (Day 1)",
+      "region": "Cambodia",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "20250415_v8ulqg1164far3ibs91vuk6fls",
+      "status": "confirmed",
+      "summary": "Khmer New Year Day (Day 2)",
+      "region": "Cambodia",
+      "date": "2025-04-15"
+    },
+    {
+      "id": "20250416_6qlh356enuikfmdsqgee2t32s8",
+      "status": "confirmed",
+      "summary": "Khmer New Year Day (Day 3)",
+      "region": "Cambodia",
+      "date": "2025-04-16"
+    },
+    {
       "id": "20250501_9i2s9ogc1kpo2obis0alvt90ek",
       "status": "confirmed",
       "summary": "Labour Day",
       "region": "Cambodia",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250511_oogo2es315vdu1v0ph1bdl5jgg",
+      "status": "confirmed",
+      "summary": "Visak Bochea Day",
+      "region": "Cambodia",
+      "date": "2025-05-11"
     },
     {
       "id": "20250514_9j0mjv8of11ocjo6obsku6fmps",
@@ -31921,11 +31949,39 @@
       "date": "2025-05-14"
     },
     {
-      "id": "20250618_60ngcd6u1lbmofm4klq5b3j8fg",
+      "id": "20250515_3ac11l22il7ai4bff37qlncgmk",
+      "status": "confirmed",
+      "summary": "Royal Plowing Ceremony",
+      "region": "Cambodia",
+      "date": "2025-05-15"
+    },
+    {
+      "id": "20250618_l04ndke915gkfffborhj5ofmis",
       "status": "confirmed",
       "summary": "King's Mother's Birthday",
       "region": "Cambodia",
       "date": "2025-06-18"
+    },
+    {
+      "id": "20250921_3ne8hgor371pmbdudvvfauhlno",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2025-09-21"
+    },
+    {
+      "id": "20250922_7ehio9mf81dni0na6d6krfekb8",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2025-09-22"
+    },
+    {
+      "id": "20250923_nr1l9kadhpg1eovf6h9qco07c4",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2025-09-23"
     },
     {
       "id": "20250924_9v09tdg3q6g0n7l7k6vovaqvos",
@@ -31947,6 +32003,27 @@
       "summary": "King's Coronation Day",
       "region": "Cambodia",
       "date": "2025-10-29"
+    },
+    {
+      "id": "20251104_nalpo1ill3u06mv6hrhuus3ffk",
+      "status": "confirmed",
+      "summary": "Water Festival Ceremony (Day 1)",
+      "region": "Cambodia",
+      "date": "2025-11-04"
+    },
+    {
+      "id": "20251105_e7fclbokk4qfft3q5trtfj884c",
+      "status": "confirmed",
+      "summary": "Water Festival Ceremony (Day 2)",
+      "region": "Cambodia",
+      "date": "2025-11-05"
+    },
+    {
+      "id": "20251106_uhlqilhn2jemko3ebefhtgdqf0",
+      "status": "confirmed",
+      "summary": "Water Festival Ceremony (Day 3)",
+      "region": "Cambodia",
+      "date": "2025-11-06"
     },
     {
       "id": "20251109_9kmtbk6cq3s8bnloka86ghq3ss",
@@ -40598,7 +40675,7 @@
       "date": "2024-10-18"
     },
     {
-      "id": "20241101_1sfoefeg3achnnu3h6dvf18uuo",
+      "id": "20241101_uniuc0ahb5p1mm0aegvfgisc24",
       "status": "confirmed",
       "summary": "Diwali/Deepavali",
       "region": "Myanmar (Burma)",
