@@ -3227,6 +3227,34 @@
       "date": "2024-01-26"
     },
     {
+      "id": "20240304_2jcn6totr2pm52d2ipgvi5rafs",
+      "status": "confirmed",
+      "summary": "Labour Day (Western Australia)",
+      "region": "Australia",
+      "date": "2024-03-04"
+    },
+    {
+      "id": "20240311_5njttd7421grtm0u15egco2lp4",
+      "status": "confirmed",
+      "summary": "Labour Day (Victoria)",
+      "region": "Australia",
+      "date": "2024-03-11"
+    },
+    {
+      "id": "20240311_8m586tdv7ctpv1kj9rgu4uo0uo",
+      "status": "confirmed",
+      "summary": "Eight Hours Day (Tasmania)",
+      "region": "Australia",
+      "date": "2024-03-11"
+    },
+    {
+      "id": "20240316_8jgnrsf5h40fj3i5h0c3cvmco8",
+      "status": "confirmed",
+      "summary": "Labour Day (Christmas Island)",
+      "region": "Australia",
+      "date": "2024-03-16"
+    },
+    {
       "id": "20240321_k0l42vpp3vlkrstt9lu4b181js",
       "status": "confirmed",
       "summary": "Harmony Day",
@@ -3241,9 +3269,16 @@
       "date": "2024-03-29"
     },
     {
-      "id": "20240331_n94090bg4t7934cnnbsb8rqv6k",
+      "id": "20240330_9lr7skvulteaguv0ia88vf0bes",
       "status": "confirmed",
-      "summary": "Easter Sunday",
+      "summary": "Holy Saturday (regional holiday)",
+      "region": "Australia",
+      "date": "2024-03-30"
+    },
+    {
+      "id": "20240331_tu96v647qn4j344sg6ja27lnt4",
+      "status": "confirmed",
+      "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
       "date": "2024-03-31"
     },
@@ -3269,11 +3304,60 @@
       "date": "2024-04-25"
     },
     {
+      "id": "20240506_bbndn0ojbe8jpat13ckmqms4mc",
+      "status": "confirmed",
+      "summary": "May Day (Northern Territory)",
+      "region": "Australia",
+      "date": "2024-05-06"
+    },
+    {
+      "id": "20240506_k8f8i6hu92lkgvjdlseurhhgps",
+      "status": "confirmed",
+      "summary": "Labour Day (Queensland)",
+      "region": "Australia",
+      "date": "2024-05-06"
+    },
+    {
+      "id": "20240606_stfsljahj1cmlhglbgek0vro9c",
+      "status": "confirmed",
+      "summary": "King's Birthday (Cocos and Keeling Islands)",
+      "region": "Australia",
+      "date": "2024-06-06"
+    },
+    {
+      "id": "20240610_b9uk4n320uvs3d81dpjhtemheg",
+      "status": "confirmed",
+      "summary": "King's Birthday (regional holiday)",
+      "region": "Australia",
+      "date": "2024-06-10"
+    },
+    {
+      "id": "20240923_usacco933np73jl9ud4o2934qg",
+      "status": "confirmed",
+      "summary": "King's Birthday (Western Australia)",
+      "region": "Australia",
+      "date": "2024-09-23"
+    },
+    {
       "id": "20241006_22tg1atdd17uhc0gscjipo3klc",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
       "region": "Australia",
       "date": "2024-10-06"
+    },
+    {
+      "id": "20241007_dvfcgromlnboldhcggdl5rt7tc",
+      "status": "confirmed",
+      "summary": "Labour Day (regional holiday)",
+      "region": "Australia",
+      "date": "2024-10-07"
+    },
+    {
+      "id": "20241007_ist4pr9j262hl10lgjuc03jl38",
+      "status": "confirmed",
+      "summary": "King's Birthday (Queensland)",
+      "region": "Australia",
+      "date": "2024-10-07"
     },
     {
       "id": "20241111_su2hvr5j8j0jvhu6cna6c7ghd8",
@@ -3325,6 +3409,34 @@
       "date": "2025-01-26"
     },
     {
+      "id": "20250127_spdheguc8l5no69virookgseic",
+      "status": "confirmed",
+      "summary": "Australia Day Observed (regional holiday)",
+      "region": "Australia",
+      "date": "2025-01-27"
+    },
+    {
+      "id": "20250303_1eqbcip6v6kolbtb8j2fu6i22k",
+      "status": "confirmed",
+      "summary": "Labour Day (Western Australia)",
+      "region": "Australia",
+      "date": "2025-03-03"
+    },
+    {
+      "id": "20250310_6tnpmlvptslm36htfv5b72oo54",
+      "status": "confirmed",
+      "summary": "Labour Day (Victoria)",
+      "region": "Australia",
+      "date": "2025-03-10"
+    },
+    {
+      "id": "20250310_jqmdjb7dqmhnp2slfja1q8a0mo",
+      "status": "confirmed",
+      "summary": "Eight Hours Day (Tasmania)",
+      "region": "Australia",
+      "date": "2025-03-10"
+    },
+    {
       "id": "20250321_cdboosfm4aullkfgrg0t7uqfg8",
       "status": "confirmed",
       "summary": "Harmony Day",
@@ -3346,9 +3458,16 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250420_m90i51t3r039icuns4p5ak8s8o",
+      "id": "20250419_llb6r3lgqkavotn3j56emh9ig8",
       "status": "confirmed",
-      "summary": "Easter Sunday",
+      "summary": "Holy Saturday (regional holiday)",
+      "region": "Australia",
+      "date": "2025-04-19"
+    },
+    {
+      "id": "20250420_p5ahp4s1p04bft002bh2lebc84",
+      "status": "confirmed",
+      "summary": "Easter Sunday (regional holiday)",
       "region": "Australia",
       "date": "2025-04-20"
     },
@@ -3367,11 +3486,53 @@
       "date": "2025-04-25"
     },
     {
+      "id": "20250505_36d34gg2iumu4obn5uo0iamou0",
+      "status": "confirmed",
+      "summary": "Labour Day (Queensland)",
+      "region": "Australia",
+      "date": "2025-05-05"
+    },
+    {
+      "id": "20250505_eii68j137i9n5qnekci21r65ec",
+      "status": "confirmed",
+      "summary": "May Day (Northern Territory)",
+      "region": "Australia",
+      "date": "2025-05-05"
+    },
+    {
+      "id": "20250609_q5nalvduj1odm6fouueg0j8css",
+      "status": "confirmed",
+      "summary": "King's Birthday (regional holiday)",
+      "region": "Australia",
+      "date": "2025-06-09"
+    },
+    {
+      "id": "20250929_dlcd92bvv4mqm4m8nqv47p3jes",
+      "status": "confirmed",
+      "summary": "King's Birthday (Western Australia)",
+      "region": "Australia",
+      "date": "2025-09-29"
+    },
+    {
       "id": "20251005_0682p8ja2a6d6bkvcnnutdq5v4",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
       "region": "Australia",
       "date": "2025-10-05"
+    },
+    {
+      "id": "20251006_8lcqiaj98ulbcj69tin04t7ivs",
+      "status": "confirmed",
+      "summary": "Labour Day (regional holiday)",
+      "region": "Australia",
+      "date": "2025-10-06"
+    },
+    {
+      "id": "20251006_ei36dil04h9nm3f0o5hsggsprk",
+      "status": "confirmed",
+      "summary": "King's Birthday (Queensland)",
+      "region": "Australia",
+      "date": "2025-10-06"
     },
     {
       "id": "20251111_5bog93ava810lbcd1o9ngvhl10",
@@ -12068,9 +12229,9 @@
       "date": "2024-02-24"
     },
     {
-      "id": "20240308_76ellot0c1uvt9ri47e1lb2u6k",
+      "id": "20240308_525rs8tipnrv7p5oj66q3rialo",
       "status": "confirmed",
-      "summary": "International Women's Day",
+      "summary": "International Women's Day (half-day)",
       "region": "China",
       "date": "2024-03-08"
     },
@@ -12131,16 +12292,16 @@
       "date": "2024-05-03"
     },
     {
-      "id": "20240504_hc6pflphoq12f9s2bjmrkjqcmo",
+      "id": "20240504_3bcgik0dp2tfa37et03f4vnv58",
       "status": "confirmed",
-      "summary": "Labour Day Holiday",
+      "summary": "Youth Day (half-day)",
       "region": "China",
       "date": "2024-05-04"
     },
     {
-      "id": "20240504_ndph4iaqr9l04sio7sv84nkmbo",
+      "id": "20240504_hc6pflphoq12f9s2bjmrkjqcmo",
       "status": "confirmed",
-      "summary": "Youth Day",
+      "summary": "Labour Day Holiday",
       "region": "China",
       "date": "2024-05-04"
     },
@@ -12334,9 +12495,9 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250308_05v5etdc083i65vevndodmhfp8",
+      "id": "20250308_9h96f6iv6qgi8hbusfntg4eahg",
       "status": "confirmed",
-      "summary": "International Women's Day",
+      "summary": "International Women's Day (half-day)",
       "region": "China",
       "date": "2025-03-08"
     },
@@ -12362,9 +12523,9 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250504_8btibcfstl0uan4mha51ppmjek",
+      "id": "20250504_6jr3tf6i1j9hfetrsk5c25tu94",
       "status": "confirmed",
-      "summary": "Youth Day",
+      "summary": "Youth Day (half-day)",
       "region": "China",
       "date": "2025-05-04"
     },
@@ -31907,11 +32068,39 @@
       "date": "2025-03-08"
     },
     {
+      "id": "20250414_uujcnriq49j6dsf6b730sos8v8",
+      "status": "confirmed",
+      "summary": "Khmer New Year Day (Day 1)",
+      "region": "Cambodia",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "20250415_v8ulqg1164far3ibs91vuk6fls",
+      "status": "confirmed",
+      "summary": "Khmer New Year Day (Day 2)",
+      "region": "Cambodia",
+      "date": "2025-04-15"
+    },
+    {
+      "id": "20250416_6qlh356enuikfmdsqgee2t32s8",
+      "status": "confirmed",
+      "summary": "Khmer New Year Day (Day 3)",
+      "region": "Cambodia",
+      "date": "2025-04-16"
+    },
+    {
       "id": "20250501_9i2s9ogc1kpo2obis0alvt90ek",
       "status": "confirmed",
       "summary": "Labour Day",
       "region": "Cambodia",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250511_oogo2es315vdu1v0ph1bdl5jgg",
+      "status": "confirmed",
+      "summary": "Visak Bochea Day",
+      "region": "Cambodia",
+      "date": "2025-05-11"
     },
     {
       "id": "20250514_9j0mjv8of11ocjo6obsku6fmps",
@@ -31921,11 +32110,39 @@
       "date": "2025-05-14"
     },
     {
-      "id": "20250618_60ngcd6u1lbmofm4klq5b3j8fg",
+      "id": "20250515_3ac11l22il7ai4bff37qlncgmk",
+      "status": "confirmed",
+      "summary": "Royal Plowing Ceremony",
+      "region": "Cambodia",
+      "date": "2025-05-15"
+    },
+    {
+      "id": "20250618_l04ndke915gkfffborhj5ofmis",
       "status": "confirmed",
       "summary": "King's Mother's Birthday",
       "region": "Cambodia",
       "date": "2025-06-18"
+    },
+    {
+      "id": "20250921_3ne8hgor371pmbdudvvfauhlno",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2025-09-21"
+    },
+    {
+      "id": "20250922_7ehio9mf81dni0na6d6krfekb8",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2025-09-22"
+    },
+    {
+      "id": "20250923_nr1l9kadhpg1eovf6h9qco07c4",
+      "status": "confirmed",
+      "summary": "Pchum Ben Festival",
+      "region": "Cambodia",
+      "date": "2025-09-23"
     },
     {
       "id": "20250924_9v09tdg3q6g0n7l7k6vovaqvos",
@@ -31947,6 +32164,27 @@
       "summary": "King's Coronation Day",
       "region": "Cambodia",
       "date": "2025-10-29"
+    },
+    {
+      "id": "20251104_nalpo1ill3u06mv6hrhuus3ffk",
+      "status": "confirmed",
+      "summary": "Water Festival Ceremony (Day 1)",
+      "region": "Cambodia",
+      "date": "2025-11-04"
+    },
+    {
+      "id": "20251105_e7fclbokk4qfft3q5trtfj884c",
+      "status": "confirmed",
+      "summary": "Water Festival Ceremony (Day 2)",
+      "region": "Cambodia",
+      "date": "2025-11-05"
+    },
+    {
+      "id": "20251106_uhlqilhn2jemko3ebefhtgdqf0",
+      "status": "confirmed",
+      "summary": "Water Festival Ceremony (Day 3)",
+      "region": "Cambodia",
+      "date": "2025-11-06"
     },
     {
       "id": "20251109_9kmtbk6cq3s8bnloka86ghq3ss",
@@ -40598,7 +40836,7 @@
       "date": "2024-10-18"
     },
     {
-      "id": "20241101_1sfoefeg3achnnu3h6dvf18uuo",
+      "id": "20241101_uniuc0ahb5p1mm0aegvfgisc24",
       "status": "confirmed",
       "summary": "Diwali/Deepavali",
       "region": "Myanmar (Burma)",
@@ -66881,6 +67119,13 @@
       "summary": "Independence Day",
       "region": "Samoa",
       "date": "2025-06-01"
+    },
+    {
+      "id": "20250602_9m5ccjm55g9f00sj99gi644i7k",
+      "status": "confirmed",
+      "summary": "Day off for Independence Day",
+      "region": "Samoa",
+      "date": "2025-06-02"
     },
     {
       "id": "20250811_ktkih9au7m0aqinfrg3b8qd79k",
