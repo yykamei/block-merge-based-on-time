@@ -17,7 +17,7 @@ jobs:
           token: ${{ steps.app-token.outputs.token }}
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
           check-latest: true
           cache: npm
       - run: npm ci
