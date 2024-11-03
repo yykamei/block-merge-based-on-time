@@ -20,6 +20,8 @@
     "luxon": "^3.5.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.14.0",
     "@types/jest": "^29.5.14",
     "@types/luxon": "^3.4.2",
     "@types/node": "^22.8.1",
