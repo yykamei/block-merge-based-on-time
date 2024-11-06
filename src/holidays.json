@@ -5787,18 +5787,18 @@
       "date": "2025-03-13"
     },
     {
-      "id": "20250325_kta2449jrcn14e5hu7s5al8oo8",
-      "status": "confirmed",
-      "summary": "Shab-e-qadr",
-      "region": "Bangladesh",
-      "date": "2025-03-25"
-    },
-    {
       "id": "20250326_t08uhqu4qt2o88gn5kf32p9od8",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "Bangladesh",
       "date": "2025-03-26"
+    },
+    {
+      "id": "20250327_n1e03nc9jg11eeluu7970k9r78",
+      "status": "confirmed",
+      "summary": "Shab-e-qadr",
+      "region": "Bangladesh",
+      "date": "2025-03-27"
     },
     {
       "id": "20250331_jccg0aksc53na4rak7auqephgg",
@@ -37365,7 +37365,7 @@
       "date": "2024-06-17"
     },
     {
-      "id": "20240618_d6derdnnkekqgq778vvei56jq8",
+      "id": "20240618_h3mdcvji0l1f2te0ihuvfdo124",
       "status": "confirmed",
       "summary": "Hari Raya Haji (Day 2) (regional holiday)",
       "region": "Malaysia",
@@ -37391,13 +37391,6 @@
       "summary": "Malaysia's National Day",
       "region": "Malaysia",
       "date": "2024-08-31"
-    },
-    {
-      "id": "20240901_q42jva4523ipdl3mv2ags84rds",
-      "status": "confirmed",
-      "summary": "Holiday for Malaysia's National Day (regional holiday)",
-      "region": "Malaysia",
-      "date": "2024-09-01"
     },
     {
       "id": "20240916_idnmdt042oq26pmoaite9es4c4",
@@ -37540,6 +37533,13 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250512_e8r665g3su2o916n02bd76hdu4",
+      "status": "confirmed",
+      "summary": "Wesak Day",
+      "region": "Malaysia",
+      "date": "2025-05-12"
+    },
+    {
       "id": "20250530_f4hnrik20vl2vbvd7qtc6n0vig",
       "status": "confirmed",
       "summary": "Harvest Festival (regional holiday)",
@@ -37575,7 +37575,7 @@
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_kqgjs4jquvipun2vn633i8e8go",
+      "id": "20250608_2r07mu7bhk1rmmm8ma4sq2cdks",
       "status": "confirmed",
       "summary": "Hari Raya Haji (Day 2) (regional holiday) (tentative)",
       "region": "Malaysia",
@@ -37596,13 +37596,6 @@
       "date": "2025-08-31"
     },
     {
-      "id": "20250901_9n9ta002k6m0dsuqsb80nn4rd0",
-      "status": "confirmed",
-      "summary": "Malaysia's National Day observed",
-      "region": "Malaysia",
-      "date": "2025-09-01"
-    },
-    {
       "id": "20250905_e3g61h58rleae5soq451h8o1r8",
       "status": "confirmed",
       "summary": "The Prophet Muhammad's Birthday (tentative)",
@@ -37615,6 +37608,13 @@
       "summary": "Malaysia Day",
       "region": "Malaysia",
       "date": "2025-09-16"
+    },
+    {
+      "id": "20251020_9o6md9sen5jnd3585p62lhquks",
+      "status": "confirmed",
+      "summary": "Diwali/Deepavali (regional holiday)",
+      "region": "Malaysia",
+      "date": "2025-10-20"
     },
     {
       "id": "20251224_f1cj7als7mffi2tcut24q0ed08",
@@ -57917,11 +57917,11 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250427_lkojtkfcsm1tiqjkl21p6vj7ds",
+      "id": "20250426_dk0f85h1u1echfjck5opv03rf0",
       "status": "confirmed",
       "summary": "King's Day",
       "region": "Sint Maarten",
-      "date": "2025-04-27"
+      "date": "2025-04-26"
     },
     {
       "id": "20250430_7hq0ojblkpt0c98224ruvkpupo",
