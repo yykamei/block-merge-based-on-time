@@ -19971,16 +19971,16 @@
       "date": "2024-05-20"
     },
     {
-      "id": "20240605_4ed62m2cssmp9o0qmk8im71574",
+      "id": "20240605_tmak8q19mdfqbad478piogf268",
       "status": "confirmed",
-      "summary": "Constitution Day",
+      "summary": "Constitution Day (half-day)",
       "region": "Faroe Islands",
       "date": "2024-06-05"
     },
     {
-      "id": "20240728_6kf4bneg9tae82iqa6962ncohs",
+      "id": "20240728_j3dejk9u9teq7b7216ljtro3gc",
       "status": "confirmed",
-      "summary": "St. Olav's Eve",
+      "summary": "St. Olav's Eve (half-day)",
       "region": "Faroe Islands",
       "date": "2024-07-28"
     },
@@ -20097,9 +20097,9 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250605_hdolgffjoqhecf63jko2gg1v00",
+      "id": "20250605_peaj1maunncm904scej1694slc",
       "status": "confirmed",
-      "summary": "Constitution Day",
+      "summary": "Constitution Day (half-day)",
       "region": "Faroe Islands",
       "date": "2025-06-05"
     },
@@ -20118,9 +20118,9 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250728_5046c3b6qf0c9m4q4sc8e68png",
+      "id": "20250728_dcm16699nslb8vbn6k57u2b1i0",
       "status": "confirmed",
-      "summary": "St. Olav's Eve",
+      "summary": "St. Olav's Eve (half-day)",
       "region": "Faroe Islands",
       "date": "2025-07-28"
     },
@@ -24574,9 +24574,9 @@
       "date": "2024-11-01"
     },
     {
-      "id": "20241224_1fur2h2smrncb3jpsf8th0d9vo",
+      "id": "20241224_5qtv3sla5o3qu9hbfp8hbvliok",
       "status": "confirmed",
-      "summary": "Christmas Eve",
+      "summary": "Christmas Eve (half-day)",
       "region": "Guatemala",
       "date": "2024-12-24"
     },
@@ -24588,9 +24588,9 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241231_9383i1lv4taua7ekr4upgje5t4",
+      "id": "20241231_bb4euqjvokig60hi9fpgi35mas",
       "status": "confirmed",
-      "summary": "New Year's Eve",
+      "summary": "New Year's Eve (half-day)",
       "region": "Guatemala",
       "date": "2024-12-31"
     },
@@ -24686,9 +24686,9 @@
       "date": "2025-11-01"
     },
     {
-      "id": "20251224_726c51t75gpkpt76spdm6n1q88",
+      "id": "20251224_a8bo59c8dctp70i10hi00osl2g",
       "status": "confirmed",
-      "summary": "Christmas Eve",
+      "summary": "Christmas Eve (half-day)",
       "region": "Guatemala",
       "date": "2025-12-24"
     },
@@ -24700,9 +24700,9 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251231_00eh39b7f6h1gn1996cfn77h94",
+      "id": "20251231_ek6tafpll5dj54g959n09cmi7k",
       "status": "confirmed",
-      "summary": "New Year's Eve",
+      "summary": "New Year's Eve (half-day)",
       "region": "Guatemala",
       "date": "2025-12-31"
     }
@@ -61851,9 +61851,9 @@
       "date": "2024-05-19"
     },
     {
-      "id": "20240615_v9lbqf73660ttakc5fl37sk1ac",
+      "id": "20240615_k6ghg2am5h1k30589036i523pc",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Eve",
+      "summary": "Sacrifice Feast Eve (half-day)",
       "region": "Turkey",
       "date": "2024-06-15"
     },
@@ -61914,9 +61914,9 @@
       "date": "2024-08-30"
     },
     {
-      "id": "20241028_hiknb8kkpo8nfvtimpj97vllc0",
+      "id": "20241028_9t6lh9vf1n9l65s1djlbk2kfuc",
       "status": "confirmed",
-      "summary": "Republic Day Eve",
+      "summary": "Republic Day Eve (half-day)",
       "region": "Turkey",
       "date": "2024-10-28"
     },
@@ -61956,9 +61956,9 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250329_ltvt6pq1fuevtns9fg347d9i9c",
+      "id": "20250329_a4n78fcbo6rnsi36l8hobj04pc",
       "status": "confirmed",
-      "summary": "Ramadan Feast Eve (tentative)",
+      "summary": "Ramadan Feast Eve (half-day) (tentative)",
       "region": "Turkey",
       "date": "2025-03-29"
     },
@@ -62005,9 +62005,9 @@
       "date": "2025-05-19"
     },
     {
-      "id": "20250605_pt6r4c4eu833rh8jasaintfs7c",
+      "id": "20250605_fdlbveji3pi6utpod4aot8nop8",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Eve (tentative)",
+      "summary": "Sacrifice Feast Eve (half-day) (tentative)",
       "region": "Turkey",
       "date": "2025-06-05"
     },
@@ -62054,9 +62054,9 @@
       "date": "2025-08-30"
     },
     {
-      "id": "20251028_91hoqa6jh3mkf9ahvte08h8234",
+      "id": "20251028_trnb55m8sgco85nhkoq8mjn2ns",
       "status": "confirmed",
-      "summary": "Republic Day Eve",
+      "summary": "Republic Day Eve (half-day)",
       "region": "Turkey",
       "date": "2025-10-28"
     },
