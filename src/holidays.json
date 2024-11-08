@@ -45667,6 +45667,13 @@
       "date": "2024-02-11"
     },
     {
+      "id": "20240308_9u7jvqrq8i2rpldkluj0l1q28g",
+      "status": "confirmed",
+      "summary": "International Women's Day",
+      "region": "Norway",
+      "date": "2024-03-08"
+    },
+    {
       "id": "20240324_slklqfrdou9v9qo9p82edelhkg",
       "status": "confirmed",
       "summary": "Palm Sunday",
@@ -45854,6 +45861,13 @@
       "summary": "Carnival",
       "region": "Norway",
       "date": "2025-03-02"
+    },
+    {
+      "id": "20250308_2gavqug2i5pstof17mlsl7cdc4",
+      "status": "confirmed",
+      "summary": "International Women's Day",
+      "region": "Norway",
+      "date": "2025-03-08"
     },
     {
       "id": "20250330_hnhm8epfo78hse8rtkrl9aktf8",
@@ -50625,6 +50639,20 @@
       "summary": "Eid al-Adha Public Sector Holiday",
       "region": "Qatar",
       "date": "2024-06-20"
+    },
+    {
+      "id": "20241106_ghov1t0upjvatifj1fmso3cqck",
+      "status": "confirmed",
+      "summary": "Constitutional Referendum Holiday",
+      "region": "Qatar",
+      "date": "2024-11-06"
+    },
+    {
+      "id": "20241107_j3fgtqutcf6ln3mj58l2qiqueo",
+      "status": "confirmed",
+      "summary": "Constitutional Referendum Holiday",
+      "region": "Qatar",
+      "date": "2024-11-07"
     },
     {
       "id": "20241218_q8tom2ane4c8iho2j2ljsnnmjc",
