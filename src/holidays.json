@@ -9686,6 +9686,20 @@
       "date": "2024-10-31"
     },
     {
+      "id": "20241107_bqs9615kvd450nbve114pec0o0",
+      "status": "confirmed",
+      "summary": "Inauguration Half-Day Holiday (half-day)",
+      "region": "Botswana",
+      "date": "2024-11-07"
+    },
+    {
+      "id": "20241108_sog49dc6fj44osh0uvsq4t9jvo",
+      "status": "confirmed",
+      "summary": "Inauguration Day",
+      "region": "Botswana",
+      "date": "2024-11-08"
+    },
+    {
       "id": "20241225_a7l09ole2do5jc8gvj6nkfn8h4",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -48126,7 +48140,7 @@
       "date": "2025-01-29"
     },
     {
-      "id": "20250225_ihl6mdeckmu242sjp986q58rno",
+      "id": "20250225_9tr9697r2tjaahtmrfa3oruvkc",
       "status": "confirmed",
       "summary": "People Power Anniversary",
       "region": "Philippines",
@@ -60814,11 +60828,11 @@
       "date": "2025-03-22"
     },
     {
-      "id": "20250331_bms1acj35n2b9rb4c2skutk5ik",
+      "id": "20250330_kl3l85fd291jl5a7k7hu9e56vg",
       "status": "confirmed",
       "summary": "Oraza Bayram (tentative)",
       "region": "Turkmenistan",
-      "date": "2025-03-31"
+      "date": "2025-03-30"
     },
     {
       "id": "20250331_s6jk1ldeg4rf4t68fvl4d8n4tk",
