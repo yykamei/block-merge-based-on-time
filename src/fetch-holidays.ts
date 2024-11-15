@@ -104,7 +104,7 @@ const calendars = {
   Ireland: "en.irish#holiday@group.v.calendar.google.com",
   Iceland: "en.is#holiday@group.v.calendar.google.com",
   Italy: "en.italian#holiday@group.v.calendar.google.com",
-  Japan: "en.japanese#holiday@group.v.calendar.google.com",
+  Japan: "en.japanese.official#holiday@group.v.calendar.google.com",
   Jersey: "en.je#holiday@group.v.calendar.google.com",
   Israel: "en.jewish#holiday@group.v.calendar.google.com",
   Jamaica: "en.jm#holiday@group.v.calendar.google.com",
