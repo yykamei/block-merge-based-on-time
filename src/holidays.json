@@ -12551,6 +12551,20 @@
       "date": "2025-05-31"
     },
     {
+      "id": "20250601_egtsamr4aoijv4qum7pph855g4",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival holiday",
+      "region": "China",
+      "date": "2025-06-01"
+    },
+    {
+      "id": "20250602_lk5b9s2jjjgc5r03uk6kvkba30",
+      "status": "confirmed",
+      "summary": "Dragon Boat Festival holiday",
+      "region": "China",
+      "date": "2025-06-02"
+    },
+    {
       "id": "20250829_dvvej3jqhsvke3fljtecqu7sg8",
       "status": "confirmed",
       "summary": "Chinese Valentine's Day",
@@ -12619,6 +12633,20 @@
       "summary": "National Day Golden Week holiday",
       "region": "China",
       "date": "2025-10-06"
+    },
+    {
+      "id": "20251007_44l9kanil6e8voh6gd9ctkn648",
+      "status": "confirmed",
+      "summary": "National Day Golden Week holiday",
+      "region": "China",
+      "date": "2025-10-07"
+    },
+    {
+      "id": "20251008_tap6k2jpv4gheb81t4ib60kqno",
+      "status": "confirmed",
+      "summary": "National Day Golden Week holiday",
+      "region": "China",
+      "date": "2025-10-08"
     },
     {
       "id": "20251029_a39e55bqspbao92tbh62gdjcmc",
@@ -29541,13 +29569,6 @@
       "date": "2024-01-08"
     },
     {
-      "id": "20240203_m0h1qqvl51e8hpc32lp3ovl4o0",
-      "status": "confirmed",
-      "summary": "Setsubun",
-      "region": "Japan",
-      "date": "2024-02-03"
-    },
-    {
       "id": "20240211_dl9flcdsf63nl3ucanpeskgp08",
       "status": "confirmed",
       "summary": "National Foundation Day",
@@ -29567,13 +29588,6 @@
       "summary": "Emperor's Birthday",
       "region": "Japan",
       "date": "2024-02-23"
-    },
-    {
-      "id": "20240303_40ac9qh748j92cs56he1v5k390",
-      "status": "confirmed",
-      "summary": "Dolls' Festival/Girls' Festival",
-      "region": "Japan",
-      "date": "2024-03-03"
     },
     {
       "id": "20240320_d0t194nj09fkmkjrd5nkntcf7o",
@@ -29616,20 +29630,6 @@
       "summary": "Children's Day observed",
       "region": "Japan",
       "date": "2024-05-06"
-    },
-    {
-      "id": "20240512_dtv8j25sb8hn4jle9ctkd9usho",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "Japan",
-      "date": "2024-05-12"
-    },
-    {
-      "id": "20240707_of2q9dsq543vjep18p2218qv7o",
-      "status": "confirmed",
-      "summary": "Star Festival",
-      "region": "Japan",
-      "date": "2024-07-07"
     },
     {
       "id": "20240715_hggn7t94ohjgiqevkrc3t3jt08",
@@ -29695,25 +29695,11 @@
       "date": "2024-11-04"
     },
     {
-      "id": "20241115_h9a6ceq1eocpo7sge230lccboc",
-      "status": "confirmed",
-      "summary": "7-5-3 Day",
-      "region": "Japan",
-      "date": "2024-11-15"
-    },
-    {
       "id": "20241123_7csrqo245q6e0rmajdhl5disho",
       "status": "confirmed",
       "summary": "Labor Thanksgiving Day",
       "region": "Japan",
       "date": "2024-11-23"
-    },
-    {
-      "id": "20241225_3jkvsbqftllrf29osp7oqd1j84",
-      "status": "confirmed",
-      "summary": "Christmas",
-      "region": "Japan",
-      "date": "2024-12-25"
     },
     {
       "id": "20241231_8ma9qubt0r341s1k9i352acr1s",
@@ -29758,13 +29744,6 @@
       "date": "2025-01-13"
     },
     {
-      "id": "20250203_1c7209cctjim6g3kcglo5q310k",
-      "status": "confirmed",
-      "summary": "Setsubun",
-      "region": "Japan",
-      "date": "2025-02-03"
-    },
-    {
       "id": "20250211_qjsb70i0mp30iahnvq831jv568",
       "status": "confirmed",
       "summary": "National Foundation Day",
@@ -29784,13 +29763,6 @@
       "summary": "Emperor's Birthday observed",
       "region": "Japan",
       "date": "2025-02-24"
-    },
-    {
-      "id": "20250303_2l0rbuc7ietuglf2dcb3ekdo4s",
-      "status": "confirmed",
-      "summary": "Dolls' Festival/Girls' Festival",
-      "region": "Japan",
-      "date": "2025-03-03"
     },
     {
       "id": "20250320_1fouftfvu9ev1i29gbjkc8knkk",
@@ -29835,20 +29807,6 @@
       "date": "2025-05-06"
     },
     {
-      "id": "20250511_qhmbvj8oa3o6aj6dqpc3dpj65s",
-      "status": "confirmed",
-      "summary": "Mother's Day",
-      "region": "Japan",
-      "date": "2025-05-11"
-    },
-    {
-      "id": "20250707_nsn14puc6us0pvuilsio4vsahc",
-      "status": "confirmed",
-      "summary": "Star Festival",
-      "region": "Japan",
-      "date": "2025-07-07"
-    },
-    {
       "id": "20250721_9ac1dnp2auf04uonptgm46e2j0",
       "status": "confirmed",
       "summary": "Sea Day",
@@ -29891,13 +29849,6 @@
       "date": "2025-11-03"
     },
     {
-      "id": "20251115_hg3uj9taj4f1kd1qb3vvt8nf6s",
-      "status": "confirmed",
-      "summary": "7-5-3 Day",
-      "region": "Japan",
-      "date": "2025-11-15"
-    },
-    {
       "id": "20251123_q8da0qivmnt2hecnbla3fhpe5k",
       "status": "confirmed",
       "summary": "Labor Thanksgiving Day",
@@ -29910,13 +29861,6 @@
       "summary": "Labor Thanksgiving Day observed",
       "region": "Japan",
       "date": "2025-11-24"
-    },
-    {
-      "id": "20251225_88bftsgs5p94v12h7m2dp9f5s0",
-      "status": "confirmed",
-      "summary": "Christmas",
-      "region": "Japan",
-      "date": "2025-12-25"
     },
     {
       "id": "20251231_smhsik8ab5n7mc9inam13e5g4k",
@@ -33133,6 +33077,13 @@
       "summary": "The Prophet's Birthday",
       "region": "Kuwait",
       "date": "2024-09-15"
+    },
+    {
+      "id": "20241201_trmp8ld4o9u674qlbns3odoaa0",
+      "status": "confirmed",
+      "summary": "Gulf Cooperation Council (GCC) Summit Holiday",
+      "region": "Kuwait",
+      "date": "2024-12-01"
     },
     {
       "id": "20241231_j2i2jqoa8pvthbjpuft4jefb0o",
@@ -37491,6 +37442,13 @@
       "date": "2025-02-01"
     },
     {
+      "id": "20250211_cs7lmgh0vv5gdd4dc5lbfuok7o",
+      "status": "confirmed",
+      "summary": "Thaipusam (regional holiday)",
+      "region": "Malaysia",
+      "date": "2025-02-11"
+    },
+    {
       "id": "20250214_ges4n0g6qost81tp11kvtquhio",
       "status": "confirmed",
       "summary": "Valentine's Day",
@@ -38636,6 +38594,13 @@
       "summary": "Njegoš Day",
       "region": "Montenegro",
       "date": "2024-11-13"
+    },
+    {
+      "id": "20241114_rr4d8l3i9rup8r1e8qumgdmi8s",
+      "status": "confirmed",
+      "summary": "Njegoš Day Holiday",
+      "region": "Montenegro",
+      "date": "2024-11-14"
     },
     {
       "id": "20241224_9rogldqhrudghnki54mhm175so",
@@ -40230,11 +40195,11 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250331_cq1ntq02bpdlsphgoiobh3nedo",
+      "id": "20250330_ege5fgjaen55pvq4bkl2f29k84",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
       "region": "North Macedonia",
-      "date": "2025-03-31"
+      "date": "2025-03-30"
     },
     {
       "id": "20250408_aitlm9uvcu6mlghhs3ob2curdo",
@@ -46681,18 +46646,25 @@
       "date": "2024-09-15"
     },
     {
-      "id": "20241118_pp8a2ltdfjqjkdmnnj9qae0eqg",
+      "id": "20241118_pid4p3qqhk6eilnjnchpq052eo",
       "status": "confirmed",
       "summary": "National Day",
       "region": "Oman",
       "date": "2024-11-18"
     },
     {
-      "id": "20241119_6fekk110g9g575dmsfgtt2d01k",
+      "id": "20241120_318i4knkq9ak7r8rl3p7j0qkds",
       "status": "confirmed",
       "summary": "National Day Holiday",
       "region": "Oman",
-      "date": "2024-11-19"
+      "date": "2024-11-20"
+    },
+    {
+      "id": "20241121_3vo83e9giid5dsb67av5p5jbhs",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "Oman",
+      "date": "2024-11-21"
     },
     {
       "id": "20250101_phknd1uat0i8fs9bpqkjrmhuro",
@@ -59695,16 +59667,16 @@
       "date": "2024-06-03"
     },
     {
-      "id": "20240720_geda9199hc5t64616qbtidisis",
+      "id": "20240720_kce21n4pp2r7ghm0f7phsa5ljg",
       "status": "confirmed",
-      "summary": "Buddhist Lent Day",
+      "summary": "Asalha Bucha",
       "region": "Thailand",
       "date": "2024-07-20"
     },
     {
-      "id": "20240722_8muoeucvbbe1srslnps91fdalc",
+      "id": "20240722_v974l52cbkinkm4snstu56vpbo",
       "status": "confirmed",
-      "summary": "Day off for Buddhist Lent Day",
+      "summary": "Day off for Asalha Bucha",
       "region": "Thailand",
       "date": "2024-07-22"
     },
@@ -59821,6 +59793,13 @@
       "date": "2025-01-31"
     },
     {
+      "id": "20250212_0knvjk2to8ld4m6485m427rkoc",
+      "status": "confirmed",
+      "summary": "Makha Bucha",
+      "region": "Thailand",
+      "date": "2025-02-12"
+    },
+    {
       "id": "20250214_20p2550rfgbs6c5cqgmv9lsnmo",
       "status": "confirmed",
       "summary": "Valentine's Day",
@@ -59912,11 +59891,11 @@
       "date": "2025-06-03"
     },
     {
-      "id": "20250721_pkdi5sase0h7jgtnjq0ep48njs",
+      "id": "20250710_kdddl42tlv9akkc9nrk7sedujs",
       "status": "confirmed",
-      "summary": "Buddhist Lent Day",
+      "summary": "Asalha Bucha",
       "region": "Thailand",
-      "date": "2025-07-21"
+      "date": "2025-07-10"
     },
     {
       "id": "20250728_vkh936ns47v3mvpffuctsak3ro",
