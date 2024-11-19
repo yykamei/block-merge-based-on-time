@@ -12495,6 +12495,13 @@
       "date": "2025-02-03"
     },
     {
+      "id": "20250204_86neu46ub7b82fhnhon9jnq9m0",
+      "status": "confirmed",
+      "summary": "Spring Festival Golden Week holiday",
+      "region": "China",
+      "date": "2025-02-04"
+    },
+    {
       "id": "20250212_dvg423tjvk4drfhcedsnkt0914",
       "status": "confirmed",
       "summary": "Lantern Festival",
@@ -12530,6 +12537,20 @@
       "date": "2025-04-05"
     },
     {
+      "id": "20250406_dmhpdq31k5etm0spbq2eucdji8",
+      "status": "confirmed",
+      "summary": "Qing Ming Jie holiday",
+      "region": "China",
+      "date": "2025-04-06"
+    },
+    {
+      "id": "20250407_cfv373i38uhjq2e4a8mj3d42b0",
+      "status": "confirmed",
+      "summary": "Qing Ming Jie holiday",
+      "region": "China",
+      "date": "2025-04-07"
+    },
+    {
       "id": "20250501_8foipr6n23qcvu505phnjkv5fc",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -12537,11 +12558,39 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250502_ok7q188ssujp53u4id5svg7604",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2025-05-02"
+    },
+    {
+      "id": "20250503_eciglrqegskrnq6kpmvinpmh94",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2025-05-03"
+    },
+    {
       "id": "20250504_6jr3tf6i1j9hfetrsk5c25tu94",
       "status": "confirmed",
       "summary": "Youth Day (half-day)",
       "region": "China",
       "date": "2025-05-04"
+    },
+    {
+      "id": "20250504_b9ijflejcg85ck39e9cu52b72c",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2025-05-04"
+    },
+    {
+      "id": "20250505_ar7rsjfnrh0mirc00chvva45fk",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2025-05-05"
     },
     {
       "id": "20250531_d34of0ascoj41roks4rj0dk274",
