@@ -12495,6 +12495,13 @@
       "date": "2025-02-03"
     },
     {
+      "id": "20250204_86neu46ub7b82fhnhon9jnq9m0",
+      "status": "confirmed",
+      "summary": "Spring Festival Golden Week holiday",
+      "region": "China",
+      "date": "2025-02-04"
+    },
+    {
       "id": "20250212_dvg423tjvk4drfhcedsnkt0914",
       "status": "confirmed",
       "summary": "Lantern Festival",
@@ -12530,6 +12537,20 @@
       "date": "2025-04-05"
     },
     {
+      "id": "20250406_dmhpdq31k5etm0spbq2eucdji8",
+      "status": "confirmed",
+      "summary": "Qing Ming Jie holiday",
+      "region": "China",
+      "date": "2025-04-06"
+    },
+    {
+      "id": "20250407_cfv373i38uhjq2e4a8mj3d42b0",
+      "status": "confirmed",
+      "summary": "Qing Ming Jie holiday",
+      "region": "China",
+      "date": "2025-04-07"
+    },
+    {
       "id": "20250501_8foipr6n23qcvu505phnjkv5fc",
       "status": "confirmed",
       "summary": "Labour Day",
@@ -12537,11 +12558,39 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250502_ok7q188ssujp53u4id5svg7604",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2025-05-02"
+    },
+    {
+      "id": "20250503_eciglrqegskrnq6kpmvinpmh94",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2025-05-03"
+    },
+    {
       "id": "20250504_6jr3tf6i1j9hfetrsk5c25tu94",
       "status": "confirmed",
       "summary": "Youth Day (half-day)",
       "region": "China",
       "date": "2025-05-04"
+    },
+    {
+      "id": "20250504_b9ijflejcg85ck39e9cu52b72c",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2025-05-04"
+    },
+    {
+      "id": "20250505_ar7rsjfnrh0mirc00chvva45fk",
+      "status": "confirmed",
+      "summary": "Labour Day Holiday",
+      "region": "China",
+      "date": "2025-05-05"
     },
     {
       "id": "20250531_d34of0ascoj41roks4rj0dk274",
@@ -22570,11 +22619,18 @@
       "date": "2024-09-23"
     },
     {
-      "id": "20241206_gvp5t2eiggp1k4inmvp07k3jp8",
+      "id": "20241108_md2ovqjh77o2lueocp3rg2qhds",
       "status": "confirmed",
       "summary": "Farmer's Day",
       "region": "Ghana",
-      "date": "2024-12-06"
+      "date": "2024-11-08"
+    },
+    {
+      "id": "20241207_r4uia7ugilc2lptqge6mfsscjg",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Ghana",
+      "date": "2024-12-07"
     },
     {
       "id": "20241224_p5g9ucjla1p0tsqllqg8uiu44s",
@@ -46285,6 +46341,13 @@
       "date": "2024-11-15"
     },
     {
+      "id": "20241118_e8u22ij6df5trsdd12iu4d1du0",
+      "status": "confirmed",
+      "summary": "National Mourning Day",
+      "region": "Nepal",
+      "date": "2024-11-18"
+    },
+    {
       "id": "20241203_7rj5dku8ps6l7j1k8luuss7gr8",
       "status": "confirmed",
       "summary": "International Day of Disabled Persons",
@@ -48063,7 +48126,7 @@
       "date": "2024-11-30"
     },
     {
-      "id": "20241208_s8h3f42rrfaptuvrftk942126k",
+      "id": "20241208_b5f15ljm3o0ii60fbf7dcu9fi4",
       "status": "confirmed",
       "summary": "Feast of the Immaculate Conception",
       "region": "Philippines",
@@ -48252,7 +48315,7 @@
       "date": "2025-11-30"
     },
     {
-      "id": "20251208_2fhnaai97bftaiumm5dcbu4q2g",
+      "id": "20251208_1lfi7l3pit7aos315k7cknehvg",
       "status": "confirmed",
       "summary": "Feast of the Immaculate Conception",
       "region": "Philippines",
@@ -58602,7 +58665,7 @@
       "date": "2024-04-07"
     },
     {
-      "id": "20240501_n0cc9oskn82tsm1923l4v2vjd0",
+      "id": "20240501_m8pn05r8f8d6p483rk45cl6ndo",
       "status": "confirmed",
       "summary": "Labor Day",
       "region": "Taiwan",
@@ -58784,7 +58847,7 @@
       "date": "2025-04-04"
     },
     {
-      "id": "20250501_ia10u9vfs27hadmshn35ghte48",
+      "id": "20250501_amngeut55ii5tr6s2ccq1bcaa8",
       "status": "confirmed",
       "summary": "Labor Day",
       "region": "Taiwan",
