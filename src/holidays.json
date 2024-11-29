@@ -5724,11 +5724,25 @@
       "date": "2025-01-10"
     },
     {
-      "id": "20250127_8kgrq0r8aklo5fhudbq64rmsi0",
+      "id": "20250128_7sknhj28ckg7oefvbvl93v2l1k",
       "status": "confirmed",
       "summary": "Shab-e-Meraj (tentative)",
       "region": "Bangladesh",
-      "date": "2025-01-27"
+      "date": "2025-01-28"
+    },
+    {
+      "id": "20250203_l6k4a4ircq881ln2tp1qd9nv84",
+      "status": "confirmed",
+      "summary": "Saraswati Puja",
+      "region": "Bangladesh",
+      "date": "2025-02-03"
+    },
+    {
+      "id": "20250211_vtqsb4oc35jcc8padnc7374e7g",
+      "status": "confirmed",
+      "summary": "Maghi Purnima",
+      "region": "Bangladesh",
+      "date": "2025-02-11"
     },
     {
       "id": "20250214_g1m9cim9is5umon8eqt09dck30",
@@ -5738,11 +5752,11 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250214_uniilno14smsfqqfhku09dalhc",
+      "id": "20250215_smqcf5n48d6qa17mce0otm8l5k",
       "status": "confirmed",
       "summary": "Shab e-Barat",
       "region": "Bangladesh",
-      "date": "2025-02-14"
+      "date": "2025-02-15"
     },
     {
       "id": "20250221_r8hj564v8r4lb48kdcnf82vuok",
@@ -5780,13 +5794,6 @@
       "date": "2025-03-05"
     },
     {
-      "id": "20250313_jup7739c1ve1ifotu5o2ophv10",
-      "status": "confirmed",
-      "summary": "Doljatra",
-      "region": "Bangladesh",
-      "date": "2025-03-13"
-    },
-    {
       "id": "20250326_t08uhqu4qt2o88gn5kf32p9od8",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -5794,11 +5801,32 @@
       "date": "2025-03-26"
     },
     {
-      "id": "20250327_n1e03nc9jg11eeluu7970k9r78",
+      "id": "20250327_pk60hbv7k99jap3v5cepotavmo",
+      "status": "confirmed",
+      "summary": "Arrival Day of Sri Sri Harichand Tagore",
+      "region": "Bangladesh",
+      "date": "2025-03-27"
+    },
+    {
+      "id": "20250328_fskb7a1cnosn67qv8eebsehnv8",
       "status": "confirmed",
       "summary": "Shab-e-qadr",
       "region": "Bangladesh",
-      "date": "2025-03-27"
+      "date": "2025-03-28"
+    },
+    {
+      "id": "20250329_5a3oneaa29s5tpd4khlaj69kfo",
+      "status": "confirmed",
+      "summary": "Eid ul-Fitr Holiday (tentative)",
+      "region": "Bangladesh",
+      "date": "2025-03-29"
+    },
+    {
+      "id": "20250330_k296af31rvd11345v1948ud03c",
+      "status": "confirmed",
+      "summary": "Eid ul-Fitr Holiday (tentative)",
+      "region": "Bangladesh",
+      "date": "2025-03-30"
     },
     {
       "id": "20250331_jccg0aksc53na4rak7auqephgg",
@@ -5885,6 +5913,13 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250510_01nk41l3g5oacoq03rgsetqksc",
+      "status": "confirmed",
+      "summary": "Buddha Purnima Holiday",
+      "region": "Bangladesh",
+      "date": "2025-05-10"
+    },
+    {
       "id": "20250511_fv00m6d4b9jolhepcbgcck15pc",
       "status": "confirmed",
       "summary": "Mothers' Day",
@@ -5892,11 +5927,32 @@
       "date": "2025-05-11"
     },
     {
-      "id": "20250514_ds2rih4ebs13g40h686eu1fg34",
+      "id": "20250511_rv1cum4vnb8m32uetufff8sul4",
       "status": "confirmed",
       "summary": "Buddha Purnima/Vesak",
       "region": "Bangladesh",
-      "date": "2025-05-14"
+      "date": "2025-05-11"
+    },
+    {
+      "id": "20250512_ua9iai7ekaa85vqf262v1e4mak",
+      "status": "confirmed",
+      "summary": "Buddha Purnima Holiday",
+      "region": "Bangladesh",
+      "date": "2025-05-12"
+    },
+    {
+      "id": "20250605_8fb8g9aotesqbcoc52chmhu268",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday (tentative)",
+      "region": "Bangladesh",
+      "date": "2025-06-05"
+    },
+    {
+      "id": "20250606_6scrrrnoo5s581mcghlk30ctn4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday (tentative)",
+      "region": "Bangladesh",
+      "date": "2025-06-06"
     },
     {
       "id": "20250607_q0gsd13elu9cuv4nl02g7rinb8",
@@ -5920,11 +5976,18 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250610_291dg4oqaf4iodpgurlj9l02vg",
+      "id": "20250610_7qd6k11j3km4h6uahcc6pknob0",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Bangladesh",
       "date": "2025-06-10"
+    },
+    {
+      "id": "20250611_i6pss3mnd9hacnckjdksa1ke88",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday (tentative)",
+      "region": "Bangladesh",
+      "date": "2025-06-11"
     },
     {
       "id": "20250615_3peo1nk15jnv7vuivodr8lc1ao",
@@ -5934,7 +5997,7 @@
       "date": "2025-06-15"
     },
     {
-      "id": "20250627_jvslumd2bkko8331dm0tufsp48",
+      "id": "20250627_cbqqcgdrsgm6ei8pu3e157c6fs",
       "status": "confirmed",
       "summary": "Muharram (tentative)",
       "region": "Bangladesh",
@@ -5955,6 +6018,20 @@
       "date": "2025-07-06"
     },
     {
+      "id": "20250709_sou8ea5evr4c85tlq9jlde2gj0",
+      "status": "confirmed",
+      "summary": "Ashari Purnima",
+      "region": "Bangladesh",
+      "date": "2025-07-09"
+    },
+    {
+      "id": "20250816_tc376vsp6km09eap82bo7dtck4",
+      "status": "confirmed",
+      "summary": "Janmashtami",
+      "region": "Bangladesh",
+      "date": "2025-08-16"
+    },
+    {
       "id": "20250820_vscgsjj5umj2r6vorktaklban4",
       "status": "confirmed",
       "summary": "Akhari Chahar Somba (tentative)",
@@ -5969,11 +6046,74 @@
       "date": "2025-09-05"
     },
     {
+      "id": "20250906_ue01b1ohfjlrmp7r3cd6hdd3n4",
+      "status": "confirmed",
+      "summary": "Madhu Purnima",
+      "region": "Bangladesh",
+      "date": "2025-09-06"
+    },
+    {
+      "id": "20250921_6hp4gne1gpqrbligiasbhodhig",
+      "status": "confirmed",
+      "summary": "Mahalaya",
+      "region": "Bangladesh",
+      "date": "2025-09-21"
+    },
+    {
+      "id": "20250929_o4281c1rugsrglrnlnv6fpgcoc",
+      "status": "confirmed",
+      "summary": "Durga Puja Holiday",
+      "region": "Bangladesh",
+      "date": "2025-09-29"
+    },
+    {
+      "id": "20250930_ndrn7kmb44oet391i807hr7kuc",
+      "status": "confirmed",
+      "summary": "Ashtami",
+      "region": "Bangladesh",
+      "date": "2025-09-30"
+    },
+    {
+      "id": "20251001_jq8fpd86foo0br79kc15464b0k",
+      "status": "confirmed",
+      "summary": "Mahanabami",
+      "region": "Bangladesh",
+      "date": "2025-10-01"
+    },
+    {
+      "id": "20251002_75e43g8rm93bc6qt31heqf0p8s",
+      "status": "confirmed",
+      "summary": "Durga Puja",
+      "region": "Bangladesh",
+      "date": "2025-10-02"
+    },
+    {
       "id": "20251004_jlae739aq3n2cunu9vdl9n3pk8",
       "status": "confirmed",
       "summary": "Fateha-i-Yajdaham (tentative)",
       "region": "Bangladesh",
       "date": "2025-10-04"
+    },
+    {
+      "id": "20251005_6optfo5tiukrb9t25hc4bgrhvc",
+      "status": "confirmed",
+      "summary": "Prabarana Purnima",
+      "region": "Bangladesh",
+      "date": "2025-10-05"
+    },
+    {
+      "id": "20251006_4oidfgul7daguhe4ul68nv72p8",
+      "status": "confirmed",
+      "summary": "Lakshmi Puja",
+      "region": "Bangladesh",
+      "date": "2025-10-06"
+    },
+    {
+      "id": "20251020_ud5uu6ru6fa63209ku7enfu9jg",
+      "status": "confirmed",
+      "summary": "Sri Shayama Puja",
+      "region": "Bangladesh",
+      "date": "2025-10-20"
     },
     {
       "id": "20251031_sfllf89am2nd9n6hbpueul6pc8",
@@ -22302,20 +22442,6 @@
       "date": "2024-05-06"
     },
     {
-      "id": "20240509_5t8q3bqu5afrli0uvm3p4d5apo",
-      "status": "confirmed",
-      "summary": "Liberation Day (except Alderney and Sark)",
-      "region": "Guernsey",
-      "date": "2024-05-09"
-    },
-    {
-      "id": "20240510_evrrrb13nvcp09u8152iereui4",
-      "status": "confirmed",
-      "summary": "Liberation Day (only Sark)",
-      "region": "Guernsey",
-      "date": "2024-05-10"
-    },
-    {
       "id": "20240527_7h0nv8mmsstrvs8u0168kgb0vg",
       "status": "confirmed",
       "summary": "Spring Bank Holiday",
@@ -22330,32 +22456,11 @@
       "date": "2024-07-16"
     },
     {
-      "id": "20240805_rl3r6ohbcro75t7rihdc8oh5k4",
-      "status": "confirmed",
-      "summary": "Summer Bank Holiday (only Alderney)",
-      "region": "Guernsey",
-      "date": "2024-08-05"
-    },
-    {
-      "id": "20240826_1k844o4on78m3vbpgk0661nifc",
-      "status": "confirmed",
-      "summary": "Summer Bank Holiday (except Alderney)",
-      "region": "Guernsey",
-      "date": "2024-08-26"
-    },
-    {
       "id": "20241027_7ar1tjs3uiqee4rm7klq83ktjk",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
       "region": "Guernsey",
       "date": "2024-10-27"
-    },
-    {
-      "id": "20241215_5bk1g5798krn3fdoshjh2kkai8",
-      "status": "confirmed",
-      "summary": "Homecoming Day (only Alderney)",
-      "region": "Guernsey",
-      "date": "2024-12-15"
     },
     {
       "id": "20241225_pa6h0e9cq6en4a6nhe2cnppepg",
@@ -22407,20 +22512,6 @@
       "date": "2025-05-05"
     },
     {
-      "id": "20250509_ps9og6g9g7luhddo7lat3qm65o",
-      "status": "confirmed",
-      "summary": "Liberation Day (except Alderney and Sark)",
-      "region": "Guernsey",
-      "date": "2025-05-09"
-    },
-    {
-      "id": "20250510_ogfr62o3ev1gue3ar1rqjpmc4k",
-      "status": "confirmed",
-      "summary": "Liberation Day (only Sark)",
-      "region": "Guernsey",
-      "date": "2025-05-10"
-    },
-    {
       "id": "20250526_kar918mg0frnr1h6b9im08fum4",
       "status": "confirmed",
       "summary": "Spring Bank Holiday",
@@ -22428,32 +22519,11 @@
       "date": "2025-05-26"
     },
     {
-      "id": "20250804_h0sku2fasd5jvlm21u4kf5uhgs",
-      "status": "confirmed",
-      "summary": "Summer Bank Holiday (only Alderney)",
-      "region": "Guernsey",
-      "date": "2025-08-04"
-    },
-    {
-      "id": "20250825_ng4d9ug2q077qmpn8i200sq4l0",
-      "status": "confirmed",
-      "summary": "Summer Bank Holiday (except Alderney)",
-      "region": "Guernsey",
-      "date": "2025-08-25"
-    },
-    {
       "id": "20251026_ct5rrcth53v9uhuo5knfcsr8rs",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
       "region": "Guernsey",
       "date": "2025-10-26"
-    },
-    {
-      "id": "20251215_4qe4dudmq2bqeu512q4gdf3t98",
-      "status": "confirmed",
-      "summary": "Homecoming Day (only Alderney)",
-      "region": "Guernsey",
-      "date": "2025-12-15"
     },
     {
       "id": "20251225_l3rfuso1u4vn45k28mdmtfmoq0",
