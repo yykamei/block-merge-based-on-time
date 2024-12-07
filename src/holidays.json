@@ -4402,6 +4402,13 @@
       "date": "2025-01-20"
     },
     {
+      "id": "20250129_ij2uve9maer6tgdgb9e7k3o8f8",
+      "status": "confirmed",
+      "summary": "Municipal Elections",
+      "region": "Azerbaijan",
+      "date": "2025-01-29"
+    },
+    {
       "id": "20250301_b5t502lqp5ebufau87767gqf6s",
       "status": "confirmed",
       "summary": "Ramadan Start (tentative)",
@@ -22689,11 +22696,11 @@
       "date": "2024-09-23"
     },
     {
-      "id": "20241108_md2ovqjh77o2lueocp3rg2qhds",
+      "id": "20241206_gvp5t2eiggp1k4inmvp07k3jp8",
       "status": "confirmed",
       "summary": "Farmer's Day",
       "region": "Ghana",
-      "date": "2024-11-08"
+      "date": "2024-12-06"
     },
     {
       "id": "20241207_r4uia7ugilc2lptqge6mfsscjg",
@@ -63844,13 +63851,6 @@
       "date": "2024-01-15"
     },
     {
-      "id": "20240201_dmmitq3pvl6g38q0m8kmp8ou60",
-      "status": "confirmed",
-      "summary": "First Day of Black History Month",
-      "region": "United States",
-      "date": "2024-02-01"
-    },
-    {
       "id": "20240214_rlf3kcbh7ksavg11mskjcmnds8",
       "status": "confirmed",
       "summary": "Valentine's Day",
@@ -63863,13 +63863,6 @@
       "summary": "Presidents' Day",
       "region": "United States",
       "date": "2024-02-19"
-    },
-    {
-      "id": "20240301_1ihbhpn74igm6pjqu91dlf1rk8",
-      "status": "confirmed",
-      "summary": "First Day of Women's History Month",
-      "region": "United States",
-      "date": "2024-03-01"
     },
     {
       "id": "20240310_p3tu22fsk44oeijg3k55pakn94",
@@ -63907,13 +63900,6 @@
       "date": "2024-04-15"
     },
     {
-      "id": "20240501_eas8ckc76n96rf2g3iuk84ssl0",
-      "status": "confirmed",
-      "summary": "First Day of Asian Pacific American Heritage Month",
-      "region": "United States",
-      "date": "2024-05-01"
-    },
-    {
       "id": "20240505_dv9k2s0i5c1465c37ffjhjbc48",
       "status": "confirmed",
       "summary": "Cinco de Mayo",
@@ -63933,13 +63919,6 @@
       "summary": "Memorial Day",
       "region": "United States",
       "date": "2024-05-27"
-    },
-    {
-      "id": "20240601_gdtgmdov47fvhibgidqlhskpi8",
-      "status": "confirmed",
-      "summary": "First Day of LGBTQ+ Pride Month",
-      "region": "United States",
-      "date": "2024-06-01"
     },
     {
       "id": "20240614_g1hrbpnlsd4ig2jqggm5ctr7s8",
@@ -63977,21 +63956,7 @@
       "date": "2024-09-02"
     },
     {
-      "id": "20240915_jam65g0ovnjsa25grcrn5mb6qc",
-      "status": "confirmed",
-      "summary": "First Day of Hispanic Heritage Month",
-      "region": "United States",
-      "date": "2024-09-15"
-    },
-    {
-      "id": "20241014_5cvlej4c8ch3k6jqmjtvt1vil8",
-      "status": "confirmed",
-      "summary": "Indigenous Peoples' Day",
-      "region": "United States",
-      "date": "2024-10-14"
-    },
-    {
-      "id": "20241014_7d5cvuv7e1pdf275sqfr5f8psc",
+      "id": "20241014_ogc1cv6oak5am9qa003476qh2k",
       "status": "confirmed",
       "summary": "Columbus Day",
       "region": "United States",
@@ -64003,13 +63968,6 @@
       "summary": "Halloween",
       "region": "United States",
       "date": "2024-10-31"
-    },
-    {
-      "id": "20241101_jo830i8bp4ok1rvvkv54b50v6k",
-      "status": "confirmed",
-      "summary": "First Day of American Indian Heritage Month",
-      "region": "United States",
-      "date": "2024-11-01"
     },
     {
       "id": "20241103_uidss732gtpfrjt230ad7a2eok",
@@ -64040,9 +63998,9 @@
       "date": "2024-11-28"
     },
     {
-      "id": "20241129_9acdchnl4cee6qsj42n6k5poeg",
+      "id": "20241129_ud7cno7rm8snpfppmr14jja610",
       "status": "confirmed",
-      "summary": "Native American Heritage Day",
+      "summary": "Black Friday",
       "region": "United States",
       "date": "2024-11-29"
     },
@@ -64089,13 +64047,6 @@
       "date": "2025-01-20"
     },
     {
-      "id": "20250201_rtlski464arna3g8p5d5qiaihk",
-      "status": "confirmed",
-      "summary": "First Day of Black History Month",
-      "region": "United States",
-      "date": "2025-02-01"
-    },
-    {
       "id": "20250214_6irqovpoptusdbb3mr6o3jrjfo",
       "status": "confirmed",
       "summary": "Valentine's Day",
@@ -64108,13 +64059,6 @@
       "summary": "Presidents' Day",
       "region": "United States",
       "date": "2025-02-17"
-    },
-    {
-      "id": "20250301_jeap7k61nm8otn3b2nl0arjll0",
-      "status": "confirmed",
-      "summary": "First Day of Women's History Month",
-      "region": "United States",
-      "date": "2025-03-01"
     },
     {
       "id": "20250309_it8daheub7hk551jetoqd09h9c",
@@ -64152,13 +64096,6 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250501_nnah46q7pp6l5aoe3drs6gcna0",
-      "status": "confirmed",
-      "summary": "First Day of Asian Pacific American Heritage Month",
-      "region": "United States",
-      "date": "2025-05-01"
-    },
-    {
       "id": "20250505_urloestg1ommnvtviv77cfhsl8",
       "status": "confirmed",
       "summary": "Cinco de Mayo",
@@ -64178,13 +64115,6 @@
       "summary": "Memorial Day",
       "region": "United States",
       "date": "2025-05-26"
-    },
-    {
-      "id": "20250601_946nh1018e9v6hf9v70p8rk0lc",
-      "status": "confirmed",
-      "summary": "First Day of LGBTQ+ Pride Month",
-      "region": "United States",
-      "date": "2025-06-01"
     },
     {
       "id": "20250614_ddlkm859j2o7q0931n10l9jnt0",
@@ -64222,21 +64152,7 @@
       "date": "2025-09-01"
     },
     {
-      "id": "20250915_fedvpgs54gmr9likegkn4emqc8",
-      "status": "confirmed",
-      "summary": "First Day of Hispanic Heritage Month",
-      "region": "United States",
-      "date": "2025-09-15"
-    },
-    {
-      "id": "20251013_cieq4u42lpfueu17h9ntdn0954",
-      "status": "confirmed",
-      "summary": "Indigenous Peoples' Day",
-      "region": "United States",
-      "date": "2025-10-13"
-    },
-    {
-      "id": "20251013_egbrrmbskdi7kih9evd8t2oni4",
+      "id": "20251013_k6pk4j6uqicf07ao11ooupcklc",
       "status": "confirmed",
       "summary": "Columbus Day",
       "region": "United States",
@@ -64248,13 +64164,6 @@
       "summary": "Halloween",
       "region": "United States",
       "date": "2025-10-31"
-    },
-    {
-      "id": "20251101_u4amp8gl2qvqr9cph1gd96tihk",
-      "status": "confirmed",
-      "summary": "First Day of American Indian Heritage Month",
-      "region": "United States",
-      "date": "2025-11-01"
     },
     {
       "id": "20251102_vq9dl53420d2kcqn3qmehrn4g8",
@@ -64285,9 +64194,9 @@
       "date": "2025-11-27"
     },
     {
-      "id": "20251128_0ujcnna1k11ecirgh1gk5lbpi4",
+      "id": "20251128_4kf98jrmvohuqhv3fumhc9fit0",
       "status": "confirmed",
-      "summary": "Native American Heritage Day",
+      "summary": "Black Friday",
       "region": "United States",
       "date": "2025-11-28"
     },
@@ -66499,9 +66408,9 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240208_rm7uefvrasjo3a19asg78u8bho",
+      "id": "20240208_mfujjfn28d4aqlc188jlndunds",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2024-02-08"
     },
@@ -66520,30 +66429,30 @@
       "date": "2024-02-10"
     },
     {
-      "id": "20240211_jqd36mpoeod7tdl8gprtc9pujo",
+      "id": "20240211_pl0k1e6g1l48ie64kamhl9ocvs",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2024-02-11"
     },
     {
-      "id": "20240212_uvkc4s105l82c8vc68a3rsumrg",
+      "id": "20240212_cq1v9ttoqjehd344b4dho6aih0",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2024-02-12"
     },
     {
-      "id": "20240213_qmpat0v0fkv80sl3j9d1m3ef7g",
+      "id": "20240213_mfembiskkqtb9k44858iucp8pg",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2024-02-13"
     },
     {
-      "id": "20240214_p9qk79hbiscasr12e1mmhptfls",
+      "id": "20240214_ao4euejfjp7q915im9isfdjtds",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2024-02-14"
     },
@@ -66597,14 +66506,14 @@
       "date": "2024-05-23"
     },
     {
-      "id": "20240831_8fkn6jnsuavl5q7ano8eonp724",
+      "id": "20240831_78n20kagekqn0p7ao52jaov5ss",
       "status": "confirmed",
       "summary": "Independence Day Holiday",
       "region": "Vietnam",
       "date": "2024-08-31"
     },
     {
-      "id": "20240901_e80f7kgluubl8pcdj3ihf3afj8",
+      "id": "20240901_pm13ojepjdlhsbcp1vdvrjhcm4",
       "status": "confirmed",
       "summary": "Independence Day Holiday",
       "region": "Vietnam",
@@ -66618,7 +66527,7 @@
       "date": "2024-09-02"
     },
     {
-      "id": "20240903_1hl1ljd1hgn6upbp53j29uvln0",
+      "id": "20240903_rlku8s5eqt4hbtu4v9e40a6otk",
       "status": "confirmed",
       "summary": "Independence Day Holiday",
       "region": "Vietnam",
@@ -66653,6 +66562,27 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250125_72rbsi5f80cih96h3s5c75554s",
+      "status": "confirmed",
+      "summary": "Tet Holiday",
+      "region": "Vietnam",
+      "date": "2025-01-25"
+    },
+    {
+      "id": "20250126_6pf5neglhvevn1cvkp9uda0h88",
+      "status": "confirmed",
+      "summary": "Tet Holiday",
+      "region": "Vietnam",
+      "date": "2025-01-26"
+    },
+    {
+      "id": "20250127_5qiasfc4seb5aja653lmpp3mis",
+      "status": "confirmed",
+      "summary": "Tet Holiday",
+      "region": "Vietnam",
+      "date": "2025-01-27"
+    },
+    {
       "id": "20250128_71380jj51nfr246pe4jom29s2o",
       "status": "confirmed",
       "summary": "Vietnamese New Year's Eve",
@@ -66667,30 +66597,30 @@
       "date": "2025-01-29"
     },
     {
-      "id": "20250130_5l5d4tsumlul0qdj55uq7oe5hc",
+      "id": "20250130_pmc387itcnav2eqchafb93ptug",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2025-01-30"
     },
     {
-      "id": "20250131_1fli8q4ke4l8rhr5sounm95lb4",
+      "id": "20250131_ch980ng4t03uhus7ub9al4jjeo",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2025-01-31"
     },
     {
-      "id": "20250201_l61f0gehlhb9225dn4cn3vivu8",
+      "id": "20250201_ck87910pardvqkn9udggb2ck2c",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2025-02-01"
     },
     {
-      "id": "20250202_j0sv5m5b65huki7tqnr7jcc5d8",
+      "id": "20250202_lbal6aslr66hmo60qq5hfc4qd8",
       "status": "confirmed",
-      "summary": "Tet holiday",
+      "summary": "Tet Holiday",
       "region": "Vietnam",
       "date": "2025-02-02"
     },
@@ -66709,6 +66639,13 @@
       "date": "2025-04-20"
     },
     {
+      "id": "20250426_r6rq6ui92028gdj78ohqq43088",
+      "status": "confirmed",
+      "summary": "Working Day for May 2",
+      "region": "Vietnam",
+      "date": "2025-04-26"
+    },
+    {
       "id": "20250430_m55rddtbo5f9qasfaa3necro74",
       "status": "confirmed",
       "summary": "Liberation Day/Reunification Day",
@@ -66723,11 +66660,25 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250502_2mdpblqqhj12s4dj0ijg7tvsro",
+      "status": "confirmed",
+      "summary": "International Labor Day Holiday",
+      "region": "Vietnam",
+      "date": "2025-05-02"
+    },
+    {
       "id": "20250512_m4428ejbbqipe0c7bctcc5dha0",
       "status": "confirmed",
       "summary": "Vesak",
       "region": "Vietnam",
       "date": "2025-05-12"
+    },
+    {
+      "id": "20250901_ie6fl4rjofskhen5dehpo9mkkg",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Vietnam",
+      "date": "2025-09-01"
     },
     {
       "id": "20250902_2qu842hrkpotep5sd9rgsgdqa0",
