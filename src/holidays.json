@@ -4367,6 +4367,13 @@
       "date": "2024-11-17"
     },
     {
+      "id": "20241230_jj9l14em71pf3r8t5vpe407l2s",
+      "status": "confirmed",
+      "summary": "New Year's Holiday",
+      "region": "Azerbaijan",
+      "date": "2024-12-30"
+    },
+    {
       "id": "20241231_6pk0bl3ggpm2rf12gvrqpnbd8k",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -4393,6 +4400,13 @@
       "summary": "New Year's Holiday",
       "region": "Azerbaijan",
       "date": "2025-01-02"
+    },
+    {
+      "id": "20250103_5lvhskse0n1i4nprv3evcemp3s",
+      "status": "confirmed",
+      "summary": "New Year's Holiday",
+      "region": "Azerbaijan",
+      "date": "2025-01-03"
     },
     {
       "id": "20250120_1i9dh957jut0a7b1qfst2p8pmg",
@@ -4423,9 +4437,9 @@
       "date": "2025-03-08"
     },
     {
-      "id": "20250310_rjk7cl7lbnrifefgae2v9omdjo",
+      "id": "20250310_90ouf8g6hc5pu7e91hlhp7gndk",
       "status": "confirmed",
-      "summary": "Women's Day observed",
+      "summary": "Day off for Women's Day",
       "region": "Azerbaijan",
       "date": "2025-03-10"
     },
@@ -4465,16 +4479,37 @@
       "date": "2025-03-24"
     },
     {
-      "id": "20250331_3i1196i60qaqv05motvo6bis9s",
+      "id": "20250325_2lumic2mbc77e1kg27i551e9i4",
+      "status": "confirmed",
+      "summary": "Day off for Nowruz/Spring Holiday",
+      "region": "Azerbaijan",
+      "date": "2025-03-25"
+    },
+    {
+      "id": "20250326_cq5btop7dp5plc42klqbqqop6g",
+      "status": "confirmed",
+      "summary": "Day off for Nowruz/Spring Holiday",
+      "region": "Azerbaijan",
+      "date": "2025-03-26"
+    },
+    {
+      "id": "20250330_pojouueseo8dlgeo6pkbeibp84",
+      "status": "confirmed",
+      "summary": "Ramadan holiday (tentative)",
+      "region": "Azerbaijan",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_dvu7b08l7qdvpjq4e11frlhm18",
       "status": "confirmed",
       "summary": "Ramadan holiday (tentative)",
       "region": "Azerbaijan",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_a8k8opo9njmj630jqhb3pqr98k",
+      "id": "20250401_iktodig1emg2q5vi3h46b5v96g",
       "status": "confirmed",
-      "summary": "Ramadan holiday (tentative)",
+      "summary": "Day off for Ramadan holiday (tentative)",
       "region": "Azerbaijan",
       "date": "2025-04-01"
     },
@@ -4493,18 +4528,25 @@
       "date": "2025-05-28"
     },
     {
-      "id": "20250607_akhfhrdtteqi9v2ato44ka1s2g",
+      "id": "20250606_791pufuq94gbv62g4gg29u1kj4",
       "status": "confirmed",
       "summary": "Feast of the Sacrifice (tentative)",
+      "region": "Azerbaijan",
+      "date": "2025-06-06"
+    },
+    {
+      "id": "20250607_12ualdg0j4ok3meog98a2e8qnc",
+      "status": "confirmed",
+      "summary": "Feast of the Sacrifice Holiday (tentative)",
       "region": "Azerbaijan",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_aha8uhvmug6pqfp4eg8gt1luac",
+      "id": "20250609_s67nqu13btar4d0m1b5llm0tp4",
       "status": "confirmed",
-      "summary": "Feast of the Sacrifice Holiday (tentative)",
+      "summary": "Day off for Feast of the Sacrifice Holiday (tentative)",
       "region": "Azerbaijan",
-      "date": "2025-06-08"
+      "date": "2025-06-09"
     },
     {
       "id": "20250615_hf1rvnqb8n157f9141hre2dqeg",
@@ -21724,7 +21766,7 @@
       "date": "2024-03-30"
     },
     {
-      "id": "20240331_faadah818pgjgp7jfqlp1rk650",
+      "id": "20240331_1imvetevrh22mh9tq75dj8gbck",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -21801,7 +21843,7 @@
       "date": "2024-05-30"
     },
     {
-      "id": "20240815_cvillu3kekt4gomt1begfhjf3c",
+      "id": "20240815_4oh7qce1nurp63b69mvv8gmalk",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -22025,7 +22067,7 @@
       "date": "2025-04-19"
     },
     {
-      "id": "20250420_98g43an5jd0tp39ka3hnooq014",
+      "id": "20250420_30i9tetjgoki7sk1pqha0pg45c",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -22046,7 +22088,7 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250508_4d8e5p5ipt49unpi90e4hqi6qc",
+      "id": "20250508_0fhtu9dhjr3usns0mk0iiapn8k",
       "status": "confirmed",
       "summary": "Anniversary of the End of World War II (regional holiday)",
       "region": "Germany",
@@ -22095,7 +22137,7 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250815_0d38l0s97bb97g120224gs0ctg",
+      "id": "20250815_91j181kp5ug9qhueiq8si4i1ss",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -25632,9 +25674,9 @@
       "date": "2024-01-01"
     },
     {
-      "id": "20240102_056uqrvgtqt4knietjdtvqpn7c",
+      "id": "20240102_o6977t7svv8mvm9c22jdocateg",
       "status": "confirmed",
-      "summary": "Public Sector Holiday",
+      "summary": "New Year holiday",
       "region": "Honduras",
       "date": "2024-01-02"
     },
@@ -25793,11 +25835,39 @@
       "date": "2024-10-21"
     },
     {
+      "id": "20241223_eu5o8haa54mfoc959js1ljikts",
+      "status": "confirmed",
+      "summary": "Christmas holiday",
+      "region": "Honduras",
+      "date": "2024-12-23"
+    },
+    {
+      "id": "20241224_9fbojs9kq1prv9e0dlpsps7mrk",
+      "status": "confirmed",
+      "summary": "Christmas holiday",
+      "region": "Honduras",
+      "date": "2024-12-24"
+    },
+    {
       "id": "20241225_vlgsjm1nn1d1cekqgp7sigodpc",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "Honduras",
       "date": "2024-12-25"
+    },
+    {
+      "id": "20241230_pm3sp8unpd2ls40j61cua62qss",
+      "status": "confirmed",
+      "summary": "New Year holiday",
+      "region": "Honduras",
+      "date": "2024-12-30"
+    },
+    {
+      "id": "20241231_67vudvl9ulvld4dsquhriqpqcg",
+      "status": "confirmed",
+      "summary": "New Year holiday",
+      "region": "Honduras",
+      "date": "2024-12-31"
     },
     {
       "id": "20241231_7degs1brdh943lg617mqpeoqa0",
@@ -26583,13 +26653,6 @@
       "date": "2024-06-16"
     },
     {
-      "id": "20240803_t5u7vnh44p74fl9pk7vdck5p6s",
-      "status": "confirmed",
-      "summary": "Extra Work Day",
-      "region": "Hungary",
-      "date": "2024-08-03"
-    },
-    {
       "id": "20240819_vavf1uomppl2kcehgg2qitt2bc",
       "status": "confirmed",
       "summary": "Hungary National Day Holiday",
@@ -26623,20 +26686,6 @@
       "summary": "Saint Nicholas Day",
       "region": "Hungary",
       "date": "2024-12-06"
-    },
-    {
-      "id": "20241207_is0rbfdrbsljs8ckd5kt32b1tc",
-      "status": "confirmed",
-      "summary": "Extra Work Day",
-      "region": "Hungary",
-      "date": "2024-12-07"
-    },
-    {
-      "id": "20241214_hpdsh83l8l2cle1h2955itbe0s",
-      "status": "confirmed",
-      "summary": "Extra Work Day",
-      "region": "Hungary",
-      "date": "2024-12-14"
     },
     {
       "id": "20241224_7kjbqc8i5iv08pmasm1n8tf8ks",
@@ -26730,13 +26779,6 @@
       "date": "2025-05-04"
     },
     {
-      "id": "20250517_ubuuet2rgpa6ailmlnusgrcn7g",
-      "status": "confirmed",
-      "summary": "Extra Work Day",
-      "region": "Hungary",
-      "date": "2025-05-17"
-    },
-    {
       "id": "20250608_d7b885lo85dl0cun373da5g6jg",
       "status": "confirmed",
       "summary": "Whit Sunday",
@@ -26765,13 +26807,6 @@
       "date": "2025-08-20"
     },
     {
-      "id": "20251018_ucg97p539l0u3cf0skgdc55gf8",
-      "status": "confirmed",
-      "summary": "Extra Work Day",
-      "region": "Hungary",
-      "date": "2025-10-18"
-    },
-    {
       "id": "20251023_gin9e3nj936qi8kn7eofc8mrpg",
       "status": "confirmed",
       "summary": "1956 Revolution Memorial Day",
@@ -26798,13 +26833,6 @@
       "summary": "Saint Nicholas Day",
       "region": "Hungary",
       "date": "2025-12-06"
-    },
-    {
-      "id": "20251213_oe91hjrl5a9kpvn1plkv4fcnkg",
-      "status": "confirmed",
-      "summary": "Extra Work Day",
-      "region": "Hungary",
-      "date": "2025-12-13"
     },
     {
       "id": "20251224_133fe7rf4hbubdkd9v6nfllosk",
@@ -28444,6 +28472,13 @@
       "summary": "Christmas Day",
       "region": "Iraq",
       "date": "2024-12-25"
+    },
+    {
+      "id": "20241226_bi07692g165jrlcpo9r9scvmak",
+      "status": "confirmed",
+      "summary": "Christmas Holiday",
+      "region": "Iraq",
+      "date": "2024-12-26"
     },
     {
       "id": "20241231_l5a8c12fp1rkl5i2d8vgorla78",
@@ -31742,9 +31777,9 @@
       "date": "2025-06-01"
     },
     {
-      "id": "20250602_gu3683rq9i10i6c2cb10e202ms",
+      "id": "20250602_aba6vin2pkjcj69hitlb49b10c",
       "status": "confirmed",
-      "summary": "Madaraka Day observed",
+      "summary": "Day off for Madaraka Day",
       "region": "Kenya",
       "date": "2025-06-02"
     },
@@ -31982,6 +32017,41 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250102_l60c56in522ovcredsa5j55abk",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2025-01-02"
+    },
+    {
+      "id": "20250103_7amhkhok7e04jno2nv7i5rehug",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2025-01-03"
+    },
+    {
+      "id": "20250104_tcv99qa6pm04jurb8jc5r8ocuc",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2025-01-04"
+    },
+    {
+      "id": "20250105_44auhl55jl18i6bev0dk1hj2ms",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2025-01-05"
+    },
+    {
+      "id": "20250106_h53t5d8reiand12alsknu7r8j0",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2025-01-06"
+    },
+    {
       "id": "20250107_jlin2nf30raagcms8p6tse4qds",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
@@ -31996,13 +32066,6 @@
       "date": "2025-02-23"
     },
     {
-      "id": "20250224_dhmgqh9l1uaf6lmgfd8g5tains",
-      "status": "confirmed",
-      "summary": "Day off for Defender of the Fatherland Day",
-      "region": "Kyrgyzstan",
-      "date": "2025-02-24"
-    },
-    {
       "id": "20250301_16rs1gi51urin78n03q78odehs",
       "status": "confirmed",
       "summary": "Ramadan Start (tentative)",
@@ -32015,13 +32078,6 @@
       "summary": "International Women's Day",
       "region": "Kyrgyzstan",
       "date": "2025-03-08"
-    },
-    {
-      "id": "20250310_lnb1eert7ic9psgc86hhub56ms",
-      "status": "confirmed",
-      "summary": "International Women's Day observed",
-      "region": "Kyrgyzstan",
-      "date": "2025-03-10"
     },
     {
       "id": "20250321_7920spubf4niikcdipaukl6p64",
@@ -32050,6 +32106,13 @@
       "summary": "May Day",
       "region": "Kyrgyzstan",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250502_0hj54nc3i2hrcmrvoq8d0681cs",
+      "status": "confirmed",
+      "summary": "May Day Holiday",
+      "region": "Kyrgyzstan",
+      "date": "2025-05-02"
     },
     {
       "id": "20250505_4f5i07dch6to7fjojho0te1ic4",
@@ -32085,13 +32148,6 @@
       "summary": "Independence Day of the Kyrgyz Republic",
       "region": "Kyrgyzstan",
       "date": "2025-08-31"
-    },
-    {
-      "id": "20250901_djupst9bft1o5h0ha2fpr95vq4",
-      "status": "confirmed",
-      "summary": "Day off for Independence Day of the Kyrgyz Republic",
-      "region": "Kyrgyzstan",
-      "date": "2025-09-01"
     },
     {
       "id": "20251107_ft4rvsjf555u6is3j0c5falees",
@@ -43808,6 +43864,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250102_rs5udneqq5vpe6bouposnjdltg",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Maldives",
+      "date": "2025-01-02"
+    },
+    {
       "id": "20250301_ger138i9ea47lbc2038g3tlqf8",
       "status": "confirmed",
       "summary": "Ramadan Start (tentative)",
@@ -50947,6 +51010,13 @@
       "summary": "National Day",
       "region": "Qatar",
       "date": "2024-12-18"
+    },
+    {
+      "id": "20241219_numnkmicijo7u7pmv2541dpj6o",
+      "status": "confirmed",
+      "summary": "National Day Holiday",
+      "region": "Qatar",
+      "date": "2024-12-19"
     },
     {
       "id": "20241231_8507bn5b4pt9gnh7nq7aff70g4",
@@ -60185,6 +60255,13 @@
       "date": "2025-05-12"
     },
     {
+      "id": "20250602_otgv2ta90nv7ragvukd16n93lo",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Thailand",
+      "date": "2025-06-02"
+    },
+    {
       "id": "20250603_8ckngffnb48kv6m1d9vu8pnsi4",
       "status": "confirmed",
       "summary": "Queen Suthida's Birthday",
@@ -60204,6 +60281,13 @@
       "summary": "King Vajiralongkorn's Birthday",
       "region": "Thailand",
       "date": "2025-07-28"
+    },
+    {
+      "id": "20250811_ovkeps25otpvibdhohrom8v448",
+      "status": "confirmed",
+      "summary": "Bridge Public Holiday",
+      "region": "Thailand",
+      "date": "2025-08-11"
     },
     {
       "id": "20250812_6atcmgakoqqana95139mvpbma4",
@@ -67732,6 +67816,13 @@
       "date": "2025-03-06"
     },
     {
+      "id": "20250330_9ib5rvjc2vv4njeimvuvidi4c8",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr (tentative)",
+      "region": "Kosovo",
+      "date": "2025-03-30"
+    },
+    {
       "id": "20250330_ttn9919s1n4hg8t38f2gf9el5g",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
@@ -67739,9 +67830,9 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250331_nvbpj4eq84lp6i9eq0im09vod4",
+      "id": "20250331_0isjclgdqo8hfbbno1316lnaf4",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Day off for Eid al-Fitr (tentative)",
       "region": "Kosovo",
       "date": "2025-03-31"
     },
@@ -67816,11 +67907,11 @@
       "date": "2025-05-09"
     },
     {
-      "id": "20250607_bje1u0862qubq4t1mdpntchqm0",
+      "id": "20250606_thtdcqvhdsbn26oafom198fu2o",
       "status": "confirmed",
       "summary": "Kurban Bayrami (tentative)",
       "region": "Kosovo",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20250612_0fqn2ven2bqotdpto4qdfflhk0",
