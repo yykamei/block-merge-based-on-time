@@ -1199,18 +1199,18 @@
       "date": "2025-05-30"
     },
     {
-      "id": "20250609_5m8hrrbt0jvkve004g9vbh5hh4",
-      "status": "confirmed",
-      "summary": "Sovereign's Birthday",
-      "region": "Anguilla",
-      "date": "2025-06-09"
-    },
-    {
       "id": "20250609_7sa1mfcji3a0hbguqigd82or84",
       "status": "confirmed",
       "summary": "Whit Monday",
       "region": "Anguilla",
       "date": "2025-06-09"
+    },
+    {
+      "id": "20250616_rdj66ris5b83ug7hdosaq8lvfs",
+      "status": "confirmed",
+      "summary": "Sovereign's Birthday",
+      "region": "Anguilla",
+      "date": "2025-06-16"
     },
     {
       "id": "20250804_mgepk2p2mob52ne0rhtn3nplhk",
@@ -15465,6 +15465,20 @@
       "date": "2025-01-02"
     },
     {
+      "id": "20250103_nee283h76n5lc6tmq6u8gqm590",
+      "status": "confirmed",
+      "summary": "Victory Day Holiday",
+      "region": "Cuba",
+      "date": "2025-01-03"
+    },
+    {
+      "id": "20250104_rpl9i62b93rlfa06qeadamgb3k",
+      "status": "confirmed",
+      "summary": "Victory Day Holiday",
+      "region": "Cuba",
+      "date": "2025-01-04"
+    },
+    {
       "id": "20250106_kmf4746tq93uo130np53t6saqk",
       "status": "confirmed",
       "summary": "Epiphany",
@@ -23694,6 +23708,13 @@
       "summary": "Christmas Day",
       "region": "Gambia",
       "date": "2024-12-25"
+    },
+    {
+      "id": "20241226_p5sggqll1a05c9l0nbu1upuo20",
+      "status": "confirmed",
+      "summary": "Boxing Day",
+      "region": "Gambia",
+      "date": "2024-12-26"
     },
     {
       "id": "20250101_prpcgnrcrispkivnuqlsmdlm3o",
