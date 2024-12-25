@@ -13600,7 +13600,7 @@
       "date": "2024-12-25"
     },
     {
-      "id": "20241231_scl78jbn97tlv2qnsc2aom1s0s",
+      "id": "20241231_4qj967i4mj296jn2devtbhrjp0",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Chile",
@@ -13754,7 +13754,7 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251231_8uad506g5hf6ldpb5dkj6n5pkk",
+      "id": "20251231_41g3jer94dbmc8vfsurf8g6c5o",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Chile",
@@ -33753,6 +33753,13 @@
       "date": "2025-04-21"
     },
     {
+      "id": "20250430_etoi1p29o9c8m60c8aubj6evgs",
+      "status": "confirmed",
+      "summary": "General Election Day (tentative)",
+      "region": "Cayman Islands",
+      "date": "2025-04-30"
+    },
+    {
       "id": "20250505_7soiq5bmips9di18piuk3j4j8o",
       "status": "confirmed",
       "summary": "Emancipation Day",
@@ -33907,13 +33914,6 @@
       "summary": "Unity Day",
       "region": "Kazakhstan",
       "date": "2024-05-01"
-    },
-    {
-      "id": "20240504_irnjr8mafqsta6i3np41k6cld4",
-      "status": "confirmed",
-      "summary": "Special Working Day",
-      "region": "Kazakhstan",
-      "date": "2024-05-04"
     },
     {
       "id": "20240507_kuv68v4mf36s5t895utqojt24g",
@@ -56013,13 +56013,6 @@
       "date": "2024-08-15"
     },
     {
-      "id": "20240916_ao0imc7n75p3ugs88coapbr5d4",
-      "status": "confirmed",
-      "summary": "Chuseok Holiday",
-      "region": "South Korea",
-      "date": "2024-09-16"
-    },
-    {
       "id": "20240917_g4acsb6f52epj3fhb0r6g6h0jk",
       "status": "confirmed",
       "summary": "Chuseok",
@@ -56111,6 +56104,13 @@
       "date": "2025-03-01"
     },
     {
+      "id": "20250303_t18bfknirnurqmufpmsmbu3o80",
+      "status": "confirmed",
+      "summary": "Day off for Independence Movement Day",
+      "region": "South Korea",
+      "date": "2025-03-03"
+    },
+    {
       "id": "20250405_q42m4klurfjb1gn0cdumo9t8io",
       "status": "confirmed",
       "summary": "Arbor Day",
@@ -56137,6 +56137,13 @@
       "summary": "Buddha’s Birthday",
       "region": "South Korea",
       "date": "2025-05-05"
+    },
+    {
+      "id": "20250506_b16tmac58f46tvea7d16dadrls",
+      "status": "confirmed",
+      "summary": "Day off for Children's Day",
+      "region": "South Korea",
+      "date": "2025-05-06"
     },
     {
       "id": "20250508_iret7q34a2aukide1ojl0j7m5s",
@@ -56207,6 +56214,13 @@
       "summary": "Chuseok Holiday",
       "region": "South Korea",
       "date": "2025-10-07"
+    },
+    {
+      "id": "20251008_gvftc2apj5gaajl4e2b6fuab4k",
+      "status": "confirmed",
+      "summary": "Day off for Chuseok Holiday",
+      "region": "South Korea",
+      "date": "2025-10-08"
     },
     {
       "id": "20251009_960snmb6fbi5f7ivgei2f7pruo",
@@ -58845,16 +58859,16 @@
       "date": "2025-12-26"
     },
     {
-      "id": "20251228_ojvelrgmevp6nbhdodh8mnanvs",
+      "id": "20251228_vkpglsce8u77jmt7v3r3dhblu0",
       "status": "confirmed",
-      "summary": "Incwala Day",
+      "summary": "Incwala Day (tentative)",
       "region": "Eswatini",
       "date": "2025-12-28"
     },
     {
-      "id": "20251229_8tet37skg7s5f4s5d32h1ah9f4",
+      "id": "20251229_314o3t62boqib6ocul25ciq9gk",
       "status": "confirmed",
-      "summary": "Day off for Incwala Day",
+      "summary": "Day off for Incwala Day (tentative)",
       "region": "Eswatini",
       "date": "2025-12-29"
     }
