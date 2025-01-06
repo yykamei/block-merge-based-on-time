@@ -35188,7 +35188,7 @@
   ],
   "Malaysia": [
     {
-      "id": "20250101_f9m1k2e185h8hcb2mt00aq7r9c",
+      "id": "20250101_ilfd6bsk95blig4lf1nesi7edk",
       "status": "confirmed",
       "summary": "New Year's Day (regional holiday)",
       "region": "Malaysia",
@@ -47243,6 +47243,13 @@
       "summary": "New Year's Day",
       "region": "Qatar",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250102_7u04vrlugt4ontm1tn0v3o4rf4",
+      "status": "confirmed",
+      "summary": "New Year's Holiday",
+      "region": "Qatar",
+      "date": "2025-01-02"
     },
     {
       "id": "20250211_8ealu6geonpqup69i7q3528li0",
