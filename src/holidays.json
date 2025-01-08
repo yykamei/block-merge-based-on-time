@@ -6052,6 +6052,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250105_hug9fd9n4tidb1ipt46fas22is",
+      "status": "confirmed",
+      "summary": "Arabian Gulf Cup Holiday",
+      "region": "Bahrain",
+      "date": "2025-01-05"
+    },
+    {
       "id": "20250301_4coo2jqba0rl2vcko5c2io3nmc",
       "status": "confirmed",
       "summary": "Ramadan Start (tentative)",
@@ -6059,25 +6066,25 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250331_h6pqs93a25qihpj3nc4g84jnn8",
+      "id": "20250330_aocpespkqi0vbdkdv19qviul24",
       "status": "confirmed",
       "summary": "Eid al-Fitr (tentative)",
+      "region": "Bahrain",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_g2mql399rl1gvvmqfnu6g652m8",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday (tentative)",
       "region": "Bahrain",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_ao4lk7hl8gtghck65e5q91lhgg",
+      "id": "20250401_it3hndq6lr1to8l31air3gm9us",
       "status": "confirmed",
       "summary": "Eid al-Fitr Holiday (tentative)",
       "region": "Bahrain",
       "date": "2025-04-01"
-    },
-    {
-      "id": "20250402_n20655ek0rli48tl315nv4pmhk",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday (tentative)",
-      "region": "Bahrain",
-      "date": "2025-04-02"
     },
     {
       "id": "20250501_p0ep77nkgon7bdv1u5e7qu72co",
@@ -6087,39 +6094,32 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250606_lqqsdg5khoorlpk44tpjkfikh0",
+      "id": "20250605_lc40oa9vm5s1n2serieuqobob0",
       "status": "confirmed",
       "summary": "Arafat Day (tentative)",
+      "region": "Bahrain",
+      "date": "2025-06-05"
+    },
+    {
+      "id": "20250606_ugvl665o848ele3o7099tfafho",
+      "status": "confirmed",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Bahrain",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_vbi4l2ol1h592079ho1rvr8p20",
+      "id": "20250607_lduclgt28v8ravtri6d212lgu8",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Bahrain",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_o1v35ttkif7k6u0mnrsabvggtc",
+      "id": "20250608_86qqjhqksg8rall1ge74hebebk",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Bahrain",
       "date": "2025-06-08"
-    },
-    {
-      "id": "20250609_4urh98q1avtch1fi0t846ulslk",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
-      "region": "Bahrain",
-      "date": "2025-06-09"
-    },
-    {
-      "id": "20250627_fuckskra0v62vbvc5a53de9pgo",
-      "status": "confirmed",
-      "summary": "Muharram (tentative)",
-      "region": "Bahrain",
-      "date": "2025-06-27"
     },
     {
       "id": "20250706_k9vcea7mk3m1ijkv3cv990eiek",
@@ -6136,11 +6136,18 @@
       "date": "2025-07-07"
     },
     {
-      "id": "20250905_5980dpkbj6hb4kc00ticm7f3cg",
+      "id": "20250726_va9lvqkeev739t1varsvevo0uc",
+      "status": "confirmed",
+      "summary": "Muharram (tentative)",
+      "region": "Bahrain",
+      "date": "2025-07-26"
+    },
+    {
+      "id": "20250904_1cn86mm1vuhq94ndfa25hp5vkk",
       "status": "confirmed",
       "summary": "The Prophet's Birthday (tentative)",
       "region": "Bahrain",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "id": "20251216_b88jr3vpj141p7j690d14vdhl4",
@@ -9268,6 +9275,13 @@
       "date": "2025-01-02"
     },
     {
+      "id": "20250106_v7d96kdora5qfgqhfbt23em05c",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Belarus",
+      "date": "2025-01-06"
+    },
+    {
       "id": "20250107_ni4vld910eoje8dgvpmsdcvc2k",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
@@ -10378,6 +10392,13 @@
       "summary": "New Year's Day",
       "region": "Congo - Kinshasa",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250103_dr7epiv238777qns1uhmkcpmd4",
+      "status": "confirmed",
+      "summary": "Martyrs of Independence Day observed",
+      "region": "Congo - Kinshasa",
+      "date": "2025-01-03"
     },
     {
       "id": "20250104_8aaqvkhgais2rundp80h60rlgk",
@@ -20024,6 +20045,13 @@
       "summary": "Maurice Bishop Day",
       "region": "Grenada",
       "date": "2025-10-19"
+    },
+    {
+      "id": "20251020_5grmm0uaqe9bd2kble07ub0s4c",
+      "status": "confirmed",
+      "summary": "Day off for Maurice Bishop Day",
+      "region": "Grenada",
+      "date": "2025-10-20"
     },
     {
       "id": "20251025_dnqo5uhn07p7mrnu2r71k0rbbo",
@@ -32077,6 +32105,13 @@
       "date": "2025-03-08"
     },
     {
+      "id": "20250310_scpj1j33222pr26ekvbr6kh3d0",
+      "status": "confirmed",
+      "summary": "Day off for International Women's Day (Women Only)",
+      "region": "Laos",
+      "date": "2025-03-10"
+    },
+    {
       "id": "20250413_0ig2jhl6rb0rh8cpe3u53nu2cg",
       "status": "confirmed",
       "summary": "Lao New Year",
@@ -32145,6 +32180,13 @@
       "summary": "International Women's Day (Women Only)",
       "region": "Laos",
       "date": "2026-03-08"
+    },
+    {
+      "id": "20260309_op5r3qojv8d7pmjkkg177h1p34",
+      "status": "confirmed",
+      "summary": "Day off for International Women's Day (Women Only)",
+      "region": "Laos",
+      "date": "2026-03-09"
     },
     {
       "id": "20260414_3ppmvb34s803ju7jopqkicku0o",
@@ -38899,11 +38941,11 @@
       "date": "2025-06-01"
     },
     {
-      "id": "20250604_pge5fgc0i5cgge4c4rrr6gshi8",
+      "id": "20250611_0tqipc59sbo07nug2umk1hj568",
       "status": "confirmed",
       "summary": "Great Buddha Day",
       "region": "Mongolia",
-      "date": "2025-06-04"
+      "date": "2025-06-11"
     },
     {
       "id": "20250710_hh8d3qtfk035a7f7gdeablfc9s",
@@ -45362,11 +45404,11 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250127_va6q2rban7vaeg6gsf39bk8gjc",
+      "id": "20250128_jpe7i9c1o6k7jdbgs121dek30k",
       "status": "confirmed",
-      "summary": "Shab e-Meraj (tentative)",
+      "summary": "Shab e-Meraj",
       "region": "Pakistan",
-      "date": "2025-01-27"
+      "date": "2025-01-28"
     },
     {
       "id": "20250202_1k39qopbq5mjd7lj33fsth33hg",
@@ -45388,6 +45430,13 @@
       "summary": "Shab e-Barat (tentative)",
       "region": "Pakistan",
       "date": "2025-02-14"
+    },
+    {
+      "id": "20250226_g2aoitdbb8ilu1r3vavb954bcc",
+      "status": "confirmed",
+      "summary": "Shivaratri",
+      "region": "Pakistan",
+      "date": "2025-02-26"
     },
     {
       "id": "20250301_fgn30d3m1avcmdnqe6nu6l8n0c",
@@ -54586,6 +54635,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250102_qqqaumlturg0u6t03b5i57pkvg",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Syria",
+      "date": "2025-01-02"
+    },
+    {
       "id": "20250301_uoiqnt6eafl4ne6uqe73nn31u0",
       "status": "confirmed",
       "summary": "Ramadan Start (tentative)",
@@ -60152,6 +60208,13 @@
       "summary": "New Year's Day",
       "region": "United States",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250109_6nj344g98rqr4rloh0herj3tec",
+      "status": "confirmed",
+      "summary": "National Day of Mourning for Jimmy Carter",
+      "region": "United States",
+      "date": "2025-01-09"
     },
     {
       "id": "20250120_87ssbls92jt2nfnnm09sjquj9c",
