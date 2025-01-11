@@ -6052,6 +6052,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250105_hug9fd9n4tidb1ipt46fas22is",
+      "status": "confirmed",
+      "summary": "Arabian Gulf Cup Holiday",
+      "region": "Bahrain",
+      "date": "2025-01-05"
+    },
+    {
       "id": "20250301_4coo2jqba0rl2vcko5c2io3nmc",
       "status": "confirmed",
       "summary": "Ramadan Start (tentative)",
@@ -6059,25 +6066,25 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250331_h6pqs93a25qihpj3nc4g84jnn8",
+      "id": "20250330_aocpespkqi0vbdkdv19qviul24",
       "status": "confirmed",
       "summary": "Eid al-Fitr (tentative)",
+      "region": "Bahrain",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_g2mql399rl1gvvmqfnu6g652m8",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday (tentative)",
       "region": "Bahrain",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_ao4lk7hl8gtghck65e5q91lhgg",
+      "id": "20250401_it3hndq6lr1to8l31air3gm9us",
       "status": "confirmed",
       "summary": "Eid al-Fitr Holiday (tentative)",
       "region": "Bahrain",
       "date": "2025-04-01"
-    },
-    {
-      "id": "20250402_n20655ek0rli48tl315nv4pmhk",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday (tentative)",
-      "region": "Bahrain",
-      "date": "2025-04-02"
     },
     {
       "id": "20250501_p0ep77nkgon7bdv1u5e7qu72co",
@@ -6087,39 +6094,32 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250606_lqqsdg5khoorlpk44tpjkfikh0",
+      "id": "20250605_lc40oa9vm5s1n2serieuqobob0",
       "status": "confirmed",
       "summary": "Arafat Day (tentative)",
+      "region": "Bahrain",
+      "date": "2025-06-05"
+    },
+    {
+      "id": "20250606_ugvl665o848ele3o7099tfafho",
+      "status": "confirmed",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Bahrain",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_vbi4l2ol1h592079ho1rvr8p20",
+      "id": "20250607_lduclgt28v8ravtri6d212lgu8",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Bahrain",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_o1v35ttkif7k6u0mnrsabvggtc",
+      "id": "20250608_86qqjhqksg8rall1ge74hebebk",
       "status": "confirmed",
       "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Bahrain",
       "date": "2025-06-08"
-    },
-    {
-      "id": "20250609_4urh98q1avtch1fi0t846ulslk",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
-      "region": "Bahrain",
-      "date": "2025-06-09"
-    },
-    {
-      "id": "20250627_fuckskra0v62vbvc5a53de9pgo",
-      "status": "confirmed",
-      "summary": "Muharram (tentative)",
-      "region": "Bahrain",
-      "date": "2025-06-27"
     },
     {
       "id": "20250706_k9vcea7mk3m1ijkv3cv990eiek",
@@ -6136,11 +6136,18 @@
       "date": "2025-07-07"
     },
     {
-      "id": "20250905_5980dpkbj6hb4kc00ticm7f3cg",
+      "id": "20250726_va9lvqkeev739t1varsvevo0uc",
+      "status": "confirmed",
+      "summary": "Muharram (tentative)",
+      "region": "Bahrain",
+      "date": "2025-07-26"
+    },
+    {
+      "id": "20250904_1cn86mm1vuhq94ndfa25hp5vkk",
       "status": "confirmed",
       "summary": "The Prophet's Birthday (tentative)",
       "region": "Bahrain",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "id": "20251216_b88jr3vpj141p7j690d14vdhl4",
@@ -9268,6 +9275,13 @@
       "date": "2025-01-02"
     },
     {
+      "id": "20250106_v7d96kdora5qfgqhfbt23em05c",
+      "status": "confirmed",
+      "summary": "Public Holiday",
+      "region": "Belarus",
+      "date": "2025-01-06"
+    },
+    {
       "id": "20250107_ni4vld910eoje8dgvpmsdcvc2k",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
@@ -10378,6 +10392,13 @@
       "summary": "New Year's Day",
       "region": "Congo - Kinshasa",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250103_dr7epiv238777qns1uhmkcpmd4",
+      "status": "confirmed",
+      "summary": "Martyrs of Independence Day observed",
+      "region": "Congo - Kinshasa",
+      "date": "2025-01-03"
     },
     {
       "id": "20250104_8aaqvkhgais2rundp80h60rlgk",
@@ -20024,6 +20045,13 @@
       "summary": "Maurice Bishop Day",
       "region": "Grenada",
       "date": "2025-10-19"
+    },
+    {
+      "id": "20251020_5grmm0uaqe9bd2kble07ub0s4c",
+      "status": "confirmed",
+      "summary": "Day off for Maurice Bishop Day",
+      "region": "Grenada",
+      "date": "2025-10-20"
     },
     {
       "id": "20251025_dnqo5uhn07p7mrnu2r71k0rbbo",
@@ -31788,6 +31816,20 @@
       "date": "2025-01-02"
     },
     {
+      "id": "20250103_sik2gkonht1if3354lnd2nbl9s",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Kazakhstan",
+      "date": "2025-01-03"
+    },
+    {
+      "id": "20250105_kekjesndkfd0dv7beie5e2cvb4",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Kazakhstan",
+      "date": "2025-01-05"
+    },
+    {
       "id": "20250107_m558l4nj2cp09q9qgilcqkehfg",
       "status": "confirmed",
       "summary": "Orthodox Christmas Day",
@@ -31835,6 +31877,13 @@
       "summary": "Day off for Nauryz Holiday",
       "region": "Kazakhstan",
       "date": "2025-03-24"
+    },
+    {
+      "id": "20250325_k756rqp7krrlq2v1lpkjhfifdg",
+      "status": "confirmed",
+      "summary": "Day off for Nauryz Holiday",
+      "region": "Kazakhstan",
+      "date": "2025-03-25"
     },
     {
       "id": "20250501_8isl0nv6q9cokmbri22o4ap820",
@@ -31898,6 +31947,13 @@
       "summary": "Republic Day",
       "region": "Kazakhstan",
       "date": "2025-10-25"
+    },
+    {
+      "id": "20251027_ng1qi046benom84371c1o45ep0",
+      "status": "confirmed",
+      "summary": "Day off for Republic Day",
+      "region": "Kazakhstan",
+      "date": "2025-10-27"
     },
     {
       "id": "20251216_is93skhkevkme911i4q4ghfu80",
@@ -31975,6 +32031,13 @@
       "summary": "Nauryz Holiday",
       "region": "Kazakhstan",
       "date": "2026-03-23"
+    },
+    {
+      "id": "20260324_cfhatisncaf32qf8jkb8b9q3p4",
+      "status": "confirmed",
+      "summary": "Day off for Nauryz Holiday",
+      "region": "Kazakhstan",
+      "date": "2026-03-24"
     },
     {
       "id": "20260324_hbk562g4r6gm10v87m9t96484g",
@@ -32077,6 +32140,13 @@
       "date": "2025-03-08"
     },
     {
+      "id": "20250310_scpj1j33222pr26ekvbr6kh3d0",
+      "status": "confirmed",
+      "summary": "Day off for International Women's Day (Women Only)",
+      "region": "Laos",
+      "date": "2025-03-10"
+    },
+    {
       "id": "20250413_0ig2jhl6rb0rh8cpe3u53nu2cg",
       "status": "confirmed",
       "summary": "Lao New Year",
@@ -32145,6 +32215,13 @@
       "summary": "International Women's Day (Women Only)",
       "region": "Laos",
       "date": "2026-03-08"
+    },
+    {
+      "id": "20260309_op5r3qojv8d7pmjkkg177h1p34",
+      "status": "confirmed",
+      "summary": "Day off for International Women's Day (Women Only)",
+      "region": "Laos",
+      "date": "2026-03-09"
     },
     {
       "id": "20260414_3ppmvb34s803ju7jopqkicku0o",
@@ -38899,11 +38976,11 @@
       "date": "2025-06-01"
     },
     {
-      "id": "20250604_pge5fgc0i5cgge4c4rrr6gshi8",
+      "id": "20250611_0tqipc59sbo07nug2umk1hj568",
       "status": "confirmed",
       "summary": "Great Buddha Day",
       "region": "Mongolia",
-      "date": "2025-06-04"
+      "date": "2025-06-11"
     },
     {
       "id": "20250710_hh8d3qtfk035a7f7gdeablfc9s",
@@ -43733,6 +43810,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250112_j62087q9gi2bnic9qtcgm3jebo",
+      "status": "confirmed",
+      "summary": "Sultan’s Accession Day",
+      "region": "Oman",
+      "date": "2025-01-12"
+    },
+    {
       "id": "20250127_9disv3hbsmks1unovuad2rkijk",
       "status": "confirmed",
       "summary": "Isra and Mi'raj (tentative)",
@@ -45108,6 +45192,13 @@
       "date": "2025-09-05"
     },
     {
+      "id": "20251031_ctso9teomq86hjmjlre33ilpug",
+      "status": "confirmed",
+      "summary": "Special non-working Day",
+      "region": "Philippines",
+      "date": "2025-10-31"
+    },
+    {
       "id": "20251101_v0tiv4je8filqedrqafq0egrio",
       "status": "confirmed",
       "summary": "All Saints' Day",
@@ -45362,11 +45453,11 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250127_va6q2rban7vaeg6gsf39bk8gjc",
+      "id": "20250128_jpe7i9c1o6k7jdbgs121dek30k",
       "status": "confirmed",
-      "summary": "Shab e-Meraj (tentative)",
+      "summary": "Shab e-Meraj",
       "region": "Pakistan",
-      "date": "2025-01-27"
+      "date": "2025-01-28"
     },
     {
       "id": "20250202_1k39qopbq5mjd7lj33fsth33hg",
@@ -45390,6 +45481,13 @@
       "date": "2025-02-14"
     },
     {
+      "id": "20250226_g2aoitdbb8ilu1r3vavb954bcc",
+      "status": "confirmed",
+      "summary": "Shivaratri",
+      "region": "Pakistan",
+      "date": "2025-02-26"
+    },
+    {
       "id": "20250301_fgn30d3m1avcmdnqe6nu6l8n0c",
       "status": "confirmed",
       "summary": "Ramadan Start (tentative)",
@@ -45404,6 +45502,13 @@
       "date": "2025-03-13"
     },
     {
+      "id": "20250314_nrcoaq25470t1cui7jiqpuvkq8",
+      "status": "confirmed",
+      "summary": "Dulhandi",
+      "region": "Pakistan",
+      "date": "2025-03-14"
+    },
+    {
       "id": "20250323_euk78ts6il6s1ngsmb9f5n6nrg",
       "status": "confirmed",
       "summary": "Pakistan Day",
@@ -45411,39 +45516,32 @@
       "date": "2025-03-23"
     },
     {
-      "id": "20250331_3f5s4068f3u0b90d1essd4p5l0",
+      "id": "20250330_dfk4ept0ffrj3vend81l8cgt1c",
       "status": "confirmed",
       "summary": "Eid-ul-Fitr (tentative)",
+      "region": "Pakistan",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_b0qtap5uvva18m1f8do7d9ntdk",
+      "status": "confirmed",
+      "summary": "Eid-ul-Fitr Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_oea63bdgfd2tqcitg49ppt3ssg",
+      "id": "20250401_dt4m90m8k5fb57abh4515dl0is",
       "status": "confirmed",
       "summary": "Eid-ul-Fitr Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-04-01"
     },
     {
-      "id": "20250402_kqvc4b005936m7vsb16o9nn3bs",
-      "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday (tentative)",
-      "region": "Pakistan",
-      "date": "2025-04-02"
-    },
-    {
-      "id": "20250403_250olg4vtp8lnrlik7ru9vm42k",
-      "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday (tentative)",
-      "region": "Pakistan",
-      "date": "2025-04-03"
-    },
-    {
-      "id": "20250414_73a833l55o3p47hn75cm7uo1k4",
+      "id": "20250413_3k8ir69hj7khgnln9v99mmssng",
       "status": "confirmed",
       "summary": "Baisakhi",
       "region": "Pakistan",
-      "date": "2025-04-14"
+      "date": "2025-04-13"
     },
     {
       "id": "20250418_rhngv4hmfc5qgdoui7esphjsjc",
@@ -45451,6 +45549,13 @@
       "summary": "Good Friday",
       "region": "Pakistan",
       "date": "2025-04-18"
+    },
+    {
+      "id": "20250420_aelikssodlum33b9q8ird6vtok",
+      "status": "confirmed",
+      "summary": "Easter Sunday",
+      "region": "Pakistan",
+      "date": "2025-04-20"
     },
     {
       "id": "20250421_i3p2ajbleghtumk2pkth2olmpg",
@@ -45537,11 +45642,25 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20250904_aj6j9q33bnuqf16ket4pca56kg",
+      "id": "20250815_jo5prd7gvptd1gn43j33tq7b0c",
       "status": "confirmed",
-      "summary": "Giarhwin Sharief (tentative)",
+      "summary": "Nauroz",
       "region": "Pakistan",
-      "date": "2025-09-04"
+      "date": "2025-08-15"
+    },
+    {
+      "id": "20250816_vc6or1os1g1gld58dbl6ca4ino",
+      "status": "confirmed",
+      "summary": "Janmashtami",
+      "region": "Pakistan",
+      "date": "2025-08-16"
+    },
+    {
+      "id": "20250820_vefgj2ld1a4n5j0lpnsve59h0o",
+      "status": "confirmed",
+      "summary": "Birthday of Lord Zoroaster (Khordad Sal)",
+      "region": "Pakistan",
+      "date": "2025-08-20"
     },
     {
       "id": "20250905_ogh89f2sjbrfhqlbol0lg9nr18",
@@ -45572,6 +45691,13 @@
       "date": "2025-10-02"
     },
     {
+      "id": "20251004_6764jarq6iibmrconfjb7n9edg",
+      "status": "confirmed",
+      "summary": "Giarhwin Sharief (tentative)",
+      "region": "Pakistan",
+      "date": "2025-10-04"
+    },
+    {
       "id": "20251007_j7tqcn6opm5qvv5ocsg3v3v6lg",
       "status": "confirmed",
       "summary": "Birthday of Guru Balmik Sawami Ji",
@@ -45584,6 +45710,13 @@
       "summary": "Diwali/Deepavali",
       "region": "Pakistan",
       "date": "2025-10-20"
+    },
+    {
+      "id": "20251105_esvppe2b8jpe84f4k4looj4gos",
+      "status": "confirmed",
+      "summary": "Guru Nanak's Birthday",
+      "region": "Pakistan",
+      "date": "2025-11-05"
     },
     {
       "id": "20251109_r3htsvubshv37fa8rud2tt19es",
@@ -54586,6 +54719,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250102_qqqaumlturg0u6t03b5i57pkvg",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Syria",
+      "date": "2025-01-02"
+    },
+    {
       "id": "20250301_uoiqnt6eafl4ne6uqe73nn31u0",
       "status": "confirmed",
       "summary": "Ramadan Start (tentative)",
@@ -60154,6 +60294,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250109_6nj344g98rqr4rloh0herj3tec",
+      "status": "confirmed",
+      "summary": "National Day of Mourning for Jimmy Carter",
+      "region": "United States",
+      "date": "2025-01-09"
+    },
+    {
       "id": "20250120_87ssbls92jt2nfnnm09sjquj9c",
       "status": "confirmed",
       "summary": "Inauguration Day (regional holiday)",
@@ -62907,6 +63054,13 @@
       "summary": "New Year's Day",
       "region": "Vanuatu",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250116_h9kl16vfsc9vuvntd60vaiu6pk",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Vanuatu",
+      "date": "2025-01-16"
     },
     {
       "id": "20250221_h13n6tnq0a7tphlte839kta67g",
