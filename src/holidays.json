@@ -31308,11 +31308,32 @@
       "date": "2025-01-02"
     },
     {
-      "id": "20250127_6i44n9bphvtnoq5dn7kd5vqiko",
+      "id": "20250127_v5l73mj5n5r69tpbqnspemc7sc",
       "status": "confirmed",
       "summary": "Isra and Miraj (tentative)",
       "region": "Kuwait",
       "date": "2025-01-27"
+    },
+    {
+      "id": "20250130_rqoag89ehv5qdo9f8gqcha2288",
+      "status": "confirmed",
+      "summary": "Isra and Miraj Holiday",
+      "region": "Kuwait",
+      "date": "2025-01-30"
+    },
+    {
+      "id": "20250131_sc12ou3jj05v3kklvdl80m7e5c",
+      "status": "confirmed",
+      "summary": "Isra and Miraj Holiday",
+      "region": "Kuwait",
+      "date": "2025-01-31"
+    },
+    {
+      "id": "20250201_jslpcqj7soq6ok6mlorhrrb844",
+      "status": "confirmed",
+      "summary": "Isra and Miraj Holiday",
+      "region": "Kuwait",
+      "date": "2025-02-01"
     },
     {
       "id": "20250225_mesih9ji0aga8g6571uqg0j3e8",
@@ -41451,6 +41472,13 @@
       "summary": "New Year",
       "region": "Mozambique",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250115_u3mpbuah6j5orijg4j4ok2enuk",
+      "status": "confirmed",
+      "summary": "Inauguration Day",
+      "region": "Mozambique",
+      "date": "2025-01-15"
     },
     {
       "id": "20250203_5i8tut4cqndkeog68s39gdsq00",
