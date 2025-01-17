@@ -37037,6 +37037,13 @@
       "date": "2025-05-05"
     },
     {
+      "id": "20250601_hjbrsec3h1eku2cjp27pit8djg",
+      "status": "confirmed",
+      "summary": "Judicial Election Day",
+      "region": "Mexico",
+      "date": "2025-06-01"
+    },
+    {
       "id": "20250916_764k2nfjt23sh9dd479183ile8",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -40992,6 +40999,13 @@
       "summary": "New Year Holiday",
       "region": "Maldives",
       "date": "2025-01-02"
+    },
+    {
+      "id": "20250206_se1lonqlpn32b4odstt6mf9oog",
+      "status": "confirmed",
+      "summary": "Majlis Presidential Address",
+      "region": "Maldives",
+      "date": "2025-02-06"
     },
     {
       "id": "20250301_ger138i9ea47lbc2038g3tlqf8",
@@ -60322,7 +60336,7 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250109_6nj344g98rqr4rloh0herj3tec",
+      "id": "20250109_ucmpfmatbli1vtjv7ce5ca1u6g",
       "status": "confirmed",
       "summary": "National Day of Mourning for Jimmy Carter",
       "region": "United States",
