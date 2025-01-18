@@ -46129,7 +46129,7 @@
       "date": "2025-11-11"
     },
     {
-      "id": "20251224_re8dvvtk3lh6e4f05d1976m9fg",
+      "id": "20251224_91n9icnrktrq2u17fqceiu8sa0",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Poland",
@@ -46290,7 +46290,7 @@
       "date": "2026-11-11"
     },
     {
-      "id": "20261224_lgkj67304tpi5ppgnroa4m6ea0",
+      "id": "20261224_8l1a32r1ehlgmjm4blp8v3fouc",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Poland",
@@ -52258,6 +52258,13 @@
       "summary": "New Year's Day",
       "region": "South Korea",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250127_aald3i9m8r6d1csi9vserhhvu0",
+      "status": "confirmed",
+      "summary": "Seollal Holiday",
+      "region": "South Korea",
+      "date": "2025-01-27"
     },
     {
       "id": "20250128_m8eh7vsf93heln8di2cc1rorh4",
@@ -60744,6 +60751,13 @@
       "date": "2025-01-06"
     },
     {
+      "id": "20250301_mha6jrrop2bv38514vtsrt17vk",
+      "status": "confirmed",
+      "summary": "Presidential Inauguration Day",
+      "region": "Uruguay",
+      "date": "2025-03-01"
+    },
+    {
       "id": "20250303_rarqqpa8m1vksuheuba0dei16k",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
@@ -62476,6 +62490,13 @@
       "summary": "Three Kings Day",
       "region": "U.S. Virgin Islands",
       "date": "2025-01-06"
+    },
+    {
+      "id": "20250109_j4123ramqpmj2n102mi5s4r0b0",
+      "status": "confirmed",
+      "summary": "Mourning Day For President Jimmy Carter’s Funeral",
+      "region": "U.S. Virgin Islands",
+      "date": "2025-01-09"
     },
     {
       "id": "20250120_ppu3fa03hv0ekfjptvl7k32074",
