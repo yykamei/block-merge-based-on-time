@@ -7625,13 +7625,6 @@
       "date": "2025-01-22"
     },
     {
-      "id": "20250202_p9u96hu9ri3ld77je5joaetni0",
-      "status": "confirmed",
-      "summary": "Feast of Candelaria",
-      "region": "Bolivia",
-      "date": "2025-02-02"
-    },
-    {
       "id": "20250303_al6rnkpmode7gffis5890f0pg0",
       "status": "confirmed",
       "summary": "Carnival / Shrove Monday",
@@ -7777,13 +7770,6 @@
       "summary": "Plurinational State Foundation Day",
       "region": "Bolivia",
       "date": "2026-01-22"
-    },
-    {
-      "id": "20260202_3vu4o8g2er3fstut896c0hr288",
-      "status": "confirmed",
-      "summary": "Feast of Candelaria",
-      "region": "Bolivia",
-      "date": "2026-02-02"
     },
     {
       "id": "20260216_qp88fhqr26rmgr02up2j6mnr2o",
@@ -45122,9 +45108,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250127_2l2fq8pc80o3004e7uhpn6ml4k",
+      "id": "20250127_h3477fju9nbmbpvu0601cemtp8",
       "status": "confirmed",
-      "summary": "Lailatul Isra Wal Mi Raj (tentative)",
+      "summary": "Lailatul Isra Wal Mi Raj",
       "region": "Philippines",
       "date": "2025-01-27"
     },
