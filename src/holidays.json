@@ -10035,7 +10035,7 @@
       "date": "2025-09-30"
     },
     {
-      "id": "20251013_jl5oijut0r90ip3enp76048v9g",
+      "id": "20251013_7dkb0snd7jf8n6dk7vlsncq3ak",
       "status": "confirmed",
       "summary": "Thanksgiving Day (regional holiday)",
       "region": "Canada",
@@ -10056,7 +10056,7 @@
       "date": "2025-11-02"
     },
     {
-      "id": "20251111_cetnf3aej7oud0nh0lvf4kfd64",
+      "id": "20251111_jh0dt87o7k877qc97onsp7rnao",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -10308,7 +10308,7 @@
       "date": "2026-09-30"
     },
     {
-      "id": "20261012_ll08nrnvc3rhffjr3enfmkjd9g",
+      "id": "20261012_sqg1v6orfp2d2dcqe9mkg2hpms",
       "status": "confirmed",
       "summary": "Thanksgiving Day (regional holiday)",
       "region": "Canada",
@@ -10329,7 +10329,7 @@
       "date": "2026-11-01"
     },
     {
-      "id": "20261111_bfq15q3uijekrc5ukpaik3ngbk",
+      "id": "20261111_lsvu4qv6r9ilbmavrap76qrjik",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -12767,6 +12767,13 @@
       "summary": "New Year's Day",
       "region": "Cameroon",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250210_4081sq3vqhg1g687gjse4fea2c",
+      "status": "confirmed",
+      "summary": "Youth Day Holiday",
+      "region": "Cameroon",
+      "date": "2025-02-10"
     },
     {
       "id": "20250211_vd6ae05gmad50tpqfcsgebrj0o",
