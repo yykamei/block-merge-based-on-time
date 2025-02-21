@@ -9035,6 +9035,13 @@
       "date": "2025-01-02"
     },
     {
+      "id": "20250103_f2s54lt4lno81l6412aa0ulq2o",
+      "status": "confirmed",
+      "summary": "New Year Holiday",
+      "region": "Botswana",
+      "date": "2025-01-03"
+    },
+    {
       "id": "20250418_jolb50igu2h3kvlkra0kcun608",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -38580,6 +38587,13 @@
       "date": "2025-09-05"
     },
     {
+      "id": "20250911_c6qqf172sec5pujagk939j1kl0",
+      "status": "confirmed",
+      "summary": "Baptism of the Prophet (tentative)",
+      "region": "Mali",
+      "date": "2025-09-11"
+    },
+    {
       "id": "20250922_0vvjjhtvfrs704fs9jrb41jaug",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -44964,6 +44978,13 @@
       "summary": "New Year's Day",
       "region": "Papua New Guinea",
       "date": "2025-01-01"
+    },
+    {
+      "id": "20250226_opnhq4p6q2itfdqq5hsoj6l6ds",
+      "status": "confirmed",
+      "summary": "National Remembrance Day In Memory of Late Grand Chief Sir Michael Somare",
+      "region": "Papua New Guinea",
+      "date": "2025-02-26"
     },
     {
       "id": "20250418_7dcuhrlha2af4ej0e8099v1uuc",
