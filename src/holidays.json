@@ -4136,13 +4136,6 @@
       "date": "2025-03-08"
     },
     {
-      "id": "20250310_90ouf8g6hc5pu7e91hlhp7gndk",
-      "status": "confirmed",
-      "summary": "Day off for Women's Day",
-      "region": "Azerbaijan",
-      "date": "2025-03-10"
-    },
-    {
       "id": "20250320_81g8bi385toh3t90ntnd15cq0o",
       "status": "confirmed",
       "summary": "Nowruz",
@@ -4192,6 +4185,20 @@
       "date": "2025-03-26"
     },
     {
+      "id": "20250327_s9kc0g2988bogqrvntj64fbhc4",
+      "status": "confirmed",
+      "summary": "Nowruz/Spring Holiday",
+      "region": "Azerbaijan",
+      "date": "2025-03-27"
+    },
+    {
+      "id": "20250328_4e5qo141tjv1dooa96bfs4luq0",
+      "status": "confirmed",
+      "summary": "Nowruz/Spring Holiday",
+      "region": "Azerbaijan",
+      "date": "2025-03-28"
+    },
+    {
       "id": "20250330_pojouueseo8dlgeo6pkbeibp84",
       "status": "confirmed",
       "summary": "Ramadan holiday (tentative)",
@@ -4204,13 +4211,6 @@
       "summary": "Ramadan holiday (tentative)",
       "region": "Azerbaijan",
       "date": "2025-03-31"
-    },
-    {
-      "id": "20250401_iktodig1emg2q5vi3h46b5v96g",
-      "status": "confirmed",
-      "summary": "Day off for Ramadan holiday (tentative)",
-      "region": "Azerbaijan",
-      "date": "2025-04-01"
     },
     {
       "id": "20250509_m4u5mdj16ejpe7iq1mbtr053g4",
@@ -22606,13 +22606,6 @@
       "date": "2025-03-31"
     },
     {
-      "id": "20250403_vot4774ajgn7krckcnt1nu0gug",
-      "status": "confirmed",
-      "summary": "Second Republic Day",
-      "region": "Guinea",
-      "date": "2025-04-03"
-    },
-    {
       "id": "20250421_j3gkd7fbfh29p1p4668n6lrsog",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -22641,6 +22634,13 @@
       "date": "2025-06-07"
     },
     {
+      "id": "20250608_mdov4015tl8rc7plpnheocahro",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday (tentative)",
+      "region": "Guinea",
+      "date": "2025-06-08"
+    },
+    {
       "id": "20250815_h4u09pdmrdijhc3visqvfacgto",
       "status": "confirmed",
       "summary": "Assumption of Mary",
@@ -22660,13 +22660,6 @@
       "summary": "Independence Day",
       "region": "Guinea",
       "date": "2025-10-02"
-    },
-    {
-      "id": "20251101_k9pg29l0rmqo55ch5nsbagl1co",
-      "status": "confirmed",
-      "summary": "All Saints' Day",
-      "region": "Guinea",
-      "date": "2025-11-01"
     },
     {
       "id": "20251225_n1s6u0ut98roc6vcogs2lpgq6g",
@@ -22704,13 +22697,6 @@
       "date": "2026-03-20"
     },
     {
-      "id": "20260403_fgeekvj4lmv7pjp8jhti25hsr8",
-      "status": "confirmed",
-      "summary": "Second Republic Day",
-      "region": "Guinea",
-      "date": "2026-04-03"
-    },
-    {
       "id": "20260406_eb3bgmetn0dj8dgiq96ul78c7c",
       "status": "confirmed",
       "summary": "Easter Monday",
@@ -22739,6 +22725,13 @@
       "date": "2026-05-27"
     },
     {
+      "id": "20260528_vvd388hlduqpfi4g60r83acum4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday (tentative)",
+      "region": "Guinea",
+      "date": "2026-05-28"
+    },
+    {
       "id": "20260815_qova002r53rlv5i8a9d9mr4m80",
       "status": "confirmed",
       "summary": "Assumption of Mary",
@@ -22758,13 +22751,6 @@
       "summary": "Independence Day",
       "region": "Guinea",
       "date": "2026-10-02"
-    },
-    {
-      "id": "20261101_6ghu5a8slv93n5mhvqsebd6520",
-      "status": "confirmed",
-      "summary": "All Saints' Day",
-      "region": "Guinea",
-      "date": "2026-11-01"
     },
     {
       "id": "20261225_pagc4aj6gvtrouv5jaol2a3nns",
@@ -30544,6 +30530,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250307_dkbo2uv37honacpa32iq321pk4",
+      "status": "confirmed",
+      "summary": "Day off for International Women's Day",
+      "region": "Kiribati",
+      "date": "2025-03-07"
+    },
+    {
       "id": "20250308_6ns9jvqq0str3bvt5k2lu4iinc",
       "status": "confirmed",
       "summary": "International Women's Day",
@@ -30565,11 +30558,32 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250501_0g72mr4robif1c2vghhdmuksq4",
+      "id": "20250501_hh6inojkm0ghq2v3ip7nvtne8o",
       "status": "confirmed",
       "summary": "Labor Day / May Day",
       "region": "Kiribati",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250502_m2fdbdidptnokh2ife854ohpoo",
+      "status": "confirmed",
+      "summary": "Labor Day / May Day",
+      "region": "Kiribati",
+      "date": "2025-05-02"
+    },
+    {
+      "id": "20250623_5soko6dlmt4624b46al7hnirko",
+      "status": "confirmed",
+      "summary": "Police National Day",
+      "region": "Kiribati",
+      "date": "2025-06-23"
+    },
+    {
+      "id": "20250710_49e5ggoi5fsc8em4g851ha0vu0",
+      "status": "confirmed",
+      "summary": "Gospel Day",
+      "region": "Kiribati",
+      "date": "2025-07-10"
     },
     {
       "id": "20250711_gv7ocp6mtqkh1kfpclke4o7h14",
@@ -30586,6 +30600,13 @@
       "date": "2025-07-12"
     },
     {
+      "id": "20250715_bblkn1kjbvt5mlic6ovl56p6ac",
+      "status": "confirmed",
+      "summary": "Kiribati Special Day",
+      "region": "Kiribati",
+      "date": "2025-07-15"
+    },
+    {
       "id": "20250715_hemsqlu8e2r5hcqv18132253p4",
       "status": "confirmed",
       "summary": "Unimwane Day",
@@ -30600,18 +30621,25 @@
       "date": "2025-07-16"
     },
     {
-      "id": "20250804_8a9bu2k3a7j9v5iut25glo8hh4",
+      "id": "20250801_rvvnbol68gj741t99naao8kt54",
       "status": "confirmed",
       "summary": "Youth Day",
       "region": "Kiribati",
-      "date": "2025-08-04"
+      "date": "2025-08-01"
     },
     {
-      "id": "20251211_vr8kssv29mv120kqjcq46sgr68",
+      "id": "20251006_ho03eje5bjhi7ucmdh8ttuhsdg",
+      "status": "confirmed",
+      "summary": "World Teachers' Day",
+      "region": "Kiribati",
+      "date": "2025-10-06"
+    },
+    {
+      "id": "20251212_tktf3lce2hqjokftc1eqp9gppc",
       "status": "confirmed",
       "summary": "Human Rights and Peace Day",
       "region": "Kiribati",
-      "date": "2025-12-11"
+      "date": "2025-12-12"
     },
     {
       "id": "20251225_ejs4h2couj1l3ogaup6unl5eac",
@@ -51941,13 +51969,6 @@
       "date": "2025-11-01"
     },
     {
-      "id": "20251103_n9946gssp41n10mof0q6ev1pjs",
-      "status": "confirmed",
-      "summary": "All Saints' Day observed",
-      "region": "Senegal",
-      "date": "2025-11-03"
-    },
-    {
       "id": "20251225_r5ilicbolnfa9p6keg5tiqcfco",
       "status": "confirmed",
       "summary": "Christmas Day",
@@ -61087,6 +61108,13 @@
       "summary": "International Women's Day",
       "region": "Uzbekistan",
       "date": "2025-03-08"
+    },
+    {
+      "id": "20250310_8p7n3np1u31opso71kugk21u60",
+      "status": "confirmed",
+      "summary": "Day off for International Women's Day",
+      "region": "Uzbekistan",
+      "date": "2025-03-10"
     },
     {
       "id": "20250321_0tm8eu01e77i2965s91lmvmbp4",
