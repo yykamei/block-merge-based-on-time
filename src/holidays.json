@@ -600,9 +600,9 @@
       "date": "2025-02-15"
     },
     {
-      "id": "20250301_c6imu2ngbmaptgof3iq962kf7o",
+      "id": "20250301_66j1nu454ci323976t58ivm5ns",
       "status": "confirmed",
-      "summary": "First Day of Ramadan (tentative)",
+      "summary": "First Day of Ramadan",
       "region": "Afghanistan",
       "date": "2025-03-01"
     },
@@ -2502,9 +2502,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_8p1kg4sbkbc5hebateaf2bjrn4",
+      "id": "20250301_6fstfqfj7vg4m1a8919d4madq8",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Argentina",
       "date": "2025-03-01"
     },
@@ -4122,9 +4122,9 @@
       "date": "2025-01-29"
     },
     {
-      "id": "20250301_b5t502lqp5ebufau87767gqf6s",
+      "id": "20250301_nt0ilh64unp7l4lg57gpp8h7vo",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Azerbaijan",
       "date": "2025-03-01"
     },
@@ -4369,16 +4369,16 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_bkb9pjufl0vrh4m9v6sjdudhv8",
+      "id": "20250301_evur972muo74v9k5ae71fscbfo",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Independence Day (Federation of Bosnia and Herzegovina)",
       "region": "Bosnia & Herzegovina",
       "date": "2025-03-01"
     },
     {
-      "id": "20250301_evur972muo74v9k5ae71fscbfo",
+      "id": "20250301_t96v5sva1lil5923mjo43ktb34",
       "status": "confirmed",
-      "summary": "Independence Day (Federation of Bosnia and Herzegovina)",
+      "summary": "Ramadan Start",
       "region": "Bosnia & Herzegovina",
       "date": "2025-03-01"
     },
@@ -6546,9 +6546,9 @@
       "date": "2025-02-28"
     },
     {
-      "id": "20250301_c3m5ofemr8diudu4qja29vju08",
+      "id": "20250301_uq2d4uul1jciut1g074cfemn5c",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Benin",
       "date": "2025-03-01"
     },
@@ -9860,34 +9860,6 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250217_nph1o2or64tepigec7qp00qffo",
-      "status": "confirmed",
-      "summary": "Family Day (regional holiday)",
-      "region": "Canada",
-      "date": "2025-02-17"
-    },
-    {
-      "id": "20250217_pte73vi62hn056dioav0ftbpag",
-      "status": "confirmed",
-      "summary": "Islander Day (Prince Edward Island)",
-      "region": "Canada",
-      "date": "2025-02-17"
-    },
-    {
-      "id": "20250217_uv5rt7fiabf0espgg8cbepcfuk",
-      "status": "confirmed",
-      "summary": "Nova Scotia Heritage Day (Nova Scotia)",
-      "region": "Canada",
-      "date": "2025-02-17"
-    },
-    {
-      "id": "20250217_vpkarj1ni53j7snu2elreh3crg",
-      "status": "confirmed",
-      "summary": "Louis Riel Day (Manitoba)",
-      "region": "Canada",
-      "date": "2025-02-17"
-    },
-    {
       "id": "20250221_87hf52kt9bvcickeimmjgt5b0k",
       "status": "confirmed",
       "summary": "Yukon Heritage Day (Yukon)",
@@ -9937,14 +9909,14 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250420_m6bvj744rug9he6hq73bittu74",
+      "id": "20250420_iu7eo5d0p1149d96ou67ej5of0",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_sh9l48rtvtgrbbjqjpteh2oqic",
+      "id": "20250421_8difv7801rl16k73eus5qopv1k",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -9986,13 +9958,6 @@
       "date": "2025-07-01"
     },
     {
-      "id": "20250804_3j7qul29lnd4912bn78gohetc4",
-      "status": "confirmed",
-      "summary": "Saskatchewan Day (Saskatchewan)",
-      "region": "Canada",
-      "date": "2025-08-04"
-    },
-    {
       "id": "20250804_46ngla2h42gee0hsvf6nodh694",
       "status": "confirmed",
       "summary": "Heritage Day (Alberta)",
@@ -10003,20 +9968,6 @@
       "id": "20250804_9j9ie9t013v592qmnr9kij5uj8",
       "status": "confirmed",
       "summary": "New Brunswick Day (New Brunswick)",
-      "region": "Canada",
-      "date": "2025-08-04"
-    },
-    {
-      "id": "20250804_a35ljsspj8p5t09ldmc572qigg",
-      "status": "confirmed",
-      "summary": "British Columbia Day (British Columbia)",
-      "region": "Canada",
-      "date": "2025-08-04"
-    },
-    {
-      "id": "20250804_avas9l5ber9rlsqbf4bl1peo5o",
-      "status": "confirmed",
-      "summary": "Natal Day (Nova Scotia)",
       "region": "Canada",
       "date": "2025-08-04"
     },
@@ -10063,7 +10014,7 @@
       "date": "2025-11-02"
     },
     {
-      "id": "20251111_jh0dt87o7k877qc97onsp7rnao",
+      "id": "20251111_cetnf3aej7oud0nh0lvf4kfd64",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -10131,34 +10082,6 @@
       "summary": "Valentine's Day",
       "region": "Canada",
       "date": "2026-02-14"
-    },
-    {
-      "id": "20260216_6g1hmsj1b9v4lncb95cvri0jeg",
-      "status": "confirmed",
-      "summary": "Family Day (regional holiday)",
-      "region": "Canada",
-      "date": "2026-02-16"
-    },
-    {
-      "id": "20260216_fvnt1p1gh2gmtd3pcok6q7h3t4",
-      "status": "confirmed",
-      "summary": "Nova Scotia Heritage Day (Nova Scotia)",
-      "region": "Canada",
-      "date": "2026-02-16"
-    },
-    {
-      "id": "20260216_imdc46j0sjk7uvjnv99ndm6lbc",
-      "status": "confirmed",
-      "summary": "Louis Riel Day (Manitoba)",
-      "region": "Canada",
-      "date": "2026-02-16"
-    },
-    {
-      "id": "20260216_qun17eb617fdo82desn7kqqr1k",
-      "status": "confirmed",
-      "summary": "Islander Day (Prince Edward Island)",
-      "region": "Canada",
-      "date": "2026-02-16"
     },
     {
       "id": "20260220_33t156munv3i50bsjqo7uf62gk",
@@ -10259,13 +10182,6 @@
       "date": "2026-07-01"
     },
     {
-      "id": "20260803_2j4kksrv8k4tsv09nibhuo1bus",
-      "status": "confirmed",
-      "summary": "Natal Day (Nova Scotia)",
-      "region": "Canada",
-      "date": "2026-08-03"
-    },
-    {
       "id": "20260803_3rrjgrgds2p7ppur7fniaqk8a8",
       "status": "confirmed",
       "summary": "Civic/Provincial Day (regional holiday)",
@@ -10283,20 +10199,6 @@
       "id": "20260803_bj6mjkuj694qbjafhg1ij458eo",
       "status": "confirmed",
       "summary": "New Brunswick Day (New Brunswick)",
-      "region": "Canada",
-      "date": "2026-08-03"
-    },
-    {
-      "id": "20260803_gee69qncqqfq1bqsu5g7q86imk",
-      "status": "confirmed",
-      "summary": "Saskatchewan Day (Saskatchewan)",
-      "region": "Canada",
-      "date": "2026-08-03"
-    },
-    {
-      "id": "20260803_icb0ql830ct62l8cbh3b1gqtn0",
-      "status": "confirmed",
-      "summary": "British Columbia Day (British Columbia)",
       "region": "Canada",
       "date": "2026-08-03"
     },
@@ -10336,7 +10238,7 @@
       "date": "2026-11-01"
     },
     {
-      "id": "20261111_lsvu4qv6r9ilbmavrap76qrjik",
+      "id": "20261111_bfq15q3uijekrc5ukpaik3ngbk",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -12077,9 +11979,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_uf9h0mr3lbjg99bekqsqh868dc",
+      "id": "20250301_vil8ib7dn4uqmppuigrpof09vk",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Côte d’Ivoire",
       "date": "2025-03-01"
     },
@@ -13839,9 +13741,9 @@
       "date": "2025-01-15"
     },
     {
-      "id": "20250301_p5r0be21jedd667hqrm864v6u8",
+      "id": "20250301_notdi90b59qg9ho5u4lov5q2hk",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Croatia",
       "date": "2025-03-01"
     },
@@ -15869,9 +15771,9 @@
       "date": "2025-01-27"
     },
     {
-      "id": "20250301_bhljfiek1ba2voahu38r3ks6m0",
+      "id": "20250301_887dtf4hvolej4i4e0g4qen3r4",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Djibouti",
       "date": "2025-03-01"
     },
@@ -16759,9 +16661,9 @@
       "date": "2025-01-12"
     },
     {
-      "id": "20250301_u4k4ch3o7r5laqame8pkvo9oc8",
+      "id": "20250301_oheef1vkp8b0kc1ovkrvlt3euk",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Algeria",
       "date": "2025-03-01"
     },
@@ -17591,11 +17493,11 @@
       "date": "2025-01-25"
     },
     {
-      "id": "20250302_77kekmqm0on9p6i1kku17ogngg",
+      "id": "20250301_lt265mur64jih6cctdir16tke8",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Egypt",
-      "date": "2025-03-02"
+      "date": "2025-03-01"
     },
     {
       "id": "20250331_cgp8phefkho4qr2rld1gf3ehis",
@@ -19716,9 +19618,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_nsav0insg684mgk3171c2i6kkc",
+      "id": "20250301_kj0aqsgldp6vn99e7k23u02kfk",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Gabon",
       "date": "2025-03-01"
     },
@@ -22380,9 +22282,9 @@
       "date": "2025-02-18"
     },
     {
-      "id": "20250301_qcm370oukf1sla8e5l1higv68g",
+      "id": "20250301_d2io16pn22osvlokj79dadpk4c",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Gambia",
       "date": "2025-03-01"
     },
@@ -23990,9 +23892,9 @@
       "date": "2025-01-20"
     },
     {
-      "id": "20250301_utauq6e3cokmsi25av2v2ur9c4",
+      "id": "20250301_qjh1uagnomn46saohekugjrtfg",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Guinea-Bissau",
       "date": "2025-03-01"
     },
@@ -25719,9 +25621,9 @@
       "date": "2025-02-26"
     },
     {
-      "id": "20250302_ls9ilau1ukvnbjqkakj5h19rqg",
+      "id": "20250302_esq9jro6mq1vs3lior2umjvsh4",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "India",
       "date": "2025-03-02"
     },
@@ -26351,11 +26253,11 @@
       "date": "2025-01-29"
     },
     {
-      "id": "20250302_5fn0lhda9e23p1ijkeb1vjblrg",
+      "id": "20250301_i7gq9p9q3bpfv4r4ak51p35hu0",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Indonesia",
-      "date": "2025-03-02"
+      "date": "2025-03-01"
     },
     {
       "id": "20250328_t05o9duba25gv95p91gqvnlkao",
@@ -26556,9 +26458,9 @@
       "date": "2025-01-06"
     },
     {
-      "id": "20250301_j1h9t4d0cgah3lhhlgob49htik",
+      "id": "20250301_2geraoth7opdcqku3feumcduc8",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Iraq",
       "date": "2025-03-01"
     },
@@ -26880,11 +26782,11 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_o44jc774b214lg0jp8fdueigog",
+      "id": "20250302_niprtdg8gvtmldt51ga1d2597c",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Iran",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250319_t6uj7pc7eoh7fi2bef18o279vs",
@@ -29374,9 +29276,9 @@
       "date": "2025-01-27"
     },
     {
-      "id": "20250301_9s8tj1ntojlcqpl97j2i9hma10",
+      "id": "20250301_hk5lq5enk64h5c90bjv4642osg",
       "status": "confirmed",
-      "summary": "Ramadan begins (tentative)",
+      "summary": "Ramadan begins",
       "region": "Jordan",
       "date": "2025-03-01"
     },
@@ -29705,9 +29607,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_4hgorik2cs4nusped1dm66ggf8",
+      "id": "20250301_m2l96ptd9frp1k8k7khajdth98",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Kenya",
       "date": "2025-03-01"
     },
@@ -30008,9 +29910,9 @@
       "date": "2025-02-23"
     },
     {
-      "id": "20250301_16rs1gi51urin78n03q78odehs",
+      "id": "20250301_8ud18qg0ocm1s75794nsp0so60",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Kyrgyzstan",
       "date": "2025-03-01"
     },
@@ -31399,9 +31301,9 @@
       "date": "2025-02-27"
     },
     {
-      "id": "20250301_25afqrlo6ig6kor2i8ssfe8nl4",
+      "id": "20250301_sh4q2un2231emrrtmgibj7sq2k",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Kuwait",
       "date": "2025-03-01"
     },
@@ -35081,11 +34983,11 @@
       "date": "2025-02-23"
     },
     {
-      "id": "20250301_veq6i8bstop1cv3m9vdsremn14",
+      "id": "20250302_bl8ijjdvq2dlddird3dnt07v20",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Morocco",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250331_e166hempgj7qlhftnvuagr2494",
@@ -35384,11 +35286,11 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_okv19a7ep6c9di8761vejsvajs",
+      "id": "20250302_657hlvpjkqqocj9loegh1ij9nc",
       "status": "confirmed",
-      "summary": "First Day of Ramadan (regional holiday) (tentative)",
+      "summary": "First Day of Ramadan (regional holiday)",
       "region": "Malaysia",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250318_11d9u2rskmhslculvpmfp3qulc",
@@ -36573,9 +36475,9 @@
       "date": "2025-01-08"
     },
     {
-      "id": "20250301_ae5l9jvoe6mnaueonqtvk6fea0",
+      "id": "20250301_sgaf7q0p8so16qvvv200hk1oug",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Montenegro",
       "date": "2025-03-01"
     },
@@ -37531,11 +37433,11 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_uqcce26m45pdhqtomtpsv7kfcg",
+      "id": "20250302_nr3mcj8jpnn3fb5i72m2oegla4",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Madagascar",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250308_9cj6aftotd066hlu4tq2279dig",
@@ -37976,9 +37878,9 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_ouoekvtu3o3ekp4ifkeea9rb2k",
+      "id": "20250301_kml3m1n6sho3bl8htt35hp88go",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "North Macedonia",
       "date": "2025-03-01"
     },
@@ -40223,9 +40125,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_5q6ln97hq0b2cihucsu9osl3p4",
+      "id": "20250301_g5mn169siq66dqv49lgpdnnsgo",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Mauritania",
       "date": "2025-03-01"
     },
@@ -45199,11 +45101,11 @@
       "date": "2025-02-25"
     },
     {
-      "id": "20250301_lti680biv5nfek46dhd8uple9g",
+      "id": "20250302_cthbvge2knvqmptokt2cv7m7u0",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Philippines",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250331_3b79iur0ng862qmt66qh8omnsg",
@@ -45600,11 +45502,11 @@
       "date": "2025-02-26"
     },
     {
-      "id": "20250301_fgn30d3m1avcmdnqe6nu6l8n0c",
+      "id": "20250302_r1q6juuvpfku2u1ksvg6piera0",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Pakistan",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250313_5keptdkmfm3tbmp8r5vudu8e64",
@@ -47504,9 +47406,9 @@
       "date": "2025-02-11"
     },
     {
-      "id": "20250301_saru1cesjbrfr0vgrb0d2l1ui4",
+      "id": "20250301_ha39ur5gokklqacuopeumi0pb4",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Qatar",
       "date": "2025-03-01"
     },
@@ -49506,9 +49408,9 @@
       "date": "2025-02-22"
     },
     {
-      "id": "20250301_228705q06gb2fa5bcvo9qiclis",
+      "id": "20250301_4ucate04rhe7o9fth02r3t933k",
       "status": "confirmed",
-      "summary": "Ramadan begins (tentative)",
+      "summary": "Ramadan begins",
       "region": "Saudi Arabia",
       "date": "2025-03-01"
     },
@@ -50426,11 +50328,11 @@
       "date": "2025-02-15"
     },
     {
-      "id": "20250301_j37uqf7vunhlrd5i7qnt9e06mk",
+      "id": "20250302_25huck2jlanm80s9qa27d5qtq8",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Singapore",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250308_mcc6clb6o00qbsq8u3jq9ul6d8",
@@ -50757,9 +50659,9 @@
       "date": "2025-02-18"
     },
     {
-      "id": "20250301_n500jelo8r8o6e8vcqr05a4t4s",
+      "id": "20250301_kj0o2kkj806md3srbcqj72h1h0",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Sierra Leone",
       "date": "2025-03-01"
     },
@@ -52118,9 +52020,9 @@
       "date": "2025-01-27"
     },
     {
-      "id": "20250301_bar0kftmpbougdiq0h6ieoinpk",
+      "id": "20250301_jppujbrimjpemp27tccv4fp5sc",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Somalia",
       "date": "2025-03-01"
     },
@@ -53195,11 +53097,11 @@
       "date": "2025-01-29"
     },
     {
-      "id": "20250301_ijkrngjcvt93vvf3iovqvqa938",
+      "id": "20250302_l3v6ibkcl7e2a47bhlttk2800g",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Suriname",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250314_gn7pc84ossfun8a0scttr0kcgc",
@@ -53442,9 +53344,9 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_iiqh4caom1ohautf3ffbdr2dgc",
+      "id": "20250301_h3rt5rqfppg86078siat9v7cpc",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "South Sudan",
       "date": "2025-03-01"
     },
@@ -54838,9 +54740,9 @@
       "date": "2025-01-02"
     },
     {
-      "id": "20250301_uoiqnt6eafl4ne6uqe73nn31u0",
+      "id": "20250301_hv3mgis7sgrk103d6tu7uksnko",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Syria",
       "date": "2025-03-01"
     },
@@ -56742,9 +56644,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_i5ugvunl2uq99n4rk4jajjl8e4",
+      "id": "20250301_mskv4k8dtqojmn1j3dnrc9e6lg",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Tajikistan",
       "date": "2025-03-01"
     },
@@ -57250,9 +57152,9 @@
       "date": "2025-02-18"
     },
     {
-      "id": "20250301_ia7g05p22h0j2hn2c621b4mk24",
+      "id": "20250301_4ikoe7hbquaqbdd1v06563m7e8",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Turkmenistan",
       "date": "2025-03-01"
     },
@@ -57798,9 +57700,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_cgqtiuql2ta8snerljb94rsf44",
+      "id": "20250301_fle4l3uam3q2pe0ugc1get5tnk",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Tunisia",
       "date": "2025-03-01"
     },
@@ -58229,11 +58131,11 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250301_vtseeu3p8dk35eacaqant321f0",
+      "id": "20250302_to5r0igtcjonk80di2roeu0rio",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Trinidad & Tobago",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250303_63t246of8eprlljkm0psugeoqo",
@@ -58553,9 +58455,9 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250301_h6q86h1l810fp6mr0on6geiv4o",
+      "id": "20250301_q0nq0aa2cqn9jrg8j4j3rsrjoo",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Turkey",
       "date": "2025-03-01"
     },
@@ -59047,11 +58949,11 @@
       "date": "2025-01-12"
     },
     {
-      "id": "20250301_r5u1id31h1jsvu1p1rlpoiu3dk",
+      "id": "20250302_r8vvvrmra5u2h5b6pcjcbo84bs",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Tanzania",
-      "date": "2025-03-01"
+      "date": "2025-03-02"
     },
     {
       "id": "20250331_k4ursmo95kn45iraat06gaun7c",
@@ -59364,9 +59266,9 @@
       "date": "2025-02-16"
     },
     {
-      "id": "20250301_aplr1ud3c0cftvmudj3m88900c",
+      "id": "20250301_b31lf9hur075id3btmi46gppo0",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Uganda",
       "date": "2025-03-01"
     },
@@ -61096,9 +60998,9 @@
       "date": "2025-01-14"
     },
     {
-      "id": "20250301_ma64ugtjidroq7mb91p769c05s",
+      "id": "20250301_sdofbefo598mnbg1uv5ek6ukdc",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Uzbekistan",
       "date": "2025-03-01"
     },
@@ -64163,9 +64065,9 @@
       "date": "2025-01-27"
     },
     {
-      "id": "20250301_o9j6bm55a1b9736m4rcr30ufhk",
+      "id": "20250301_uj1lmhiefu0alm5t19fgpihhps",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Yemen",
       "date": "2025-03-01"
     },
