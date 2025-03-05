@@ -6292,9 +6292,9 @@
       "date": "2025-02-05"
     },
     {
-      "id": "20250301_pisj280jcmncug7s7uh69aegp4",
+      "id": "20250301_5id2p6bpiik5ch6bkuhegsie5c",
       "status": "confirmed",
-      "summary": "Ramadan Start (tentative)",
+      "summary": "Ramadan Start",
       "region": "Burundi",
       "date": "2025-03-01"
     },
@@ -59576,18 +59576,18 @@
       "date": "2025-05-26"
     },
     {
+      "id": "20250614_mfkasfl0o53fr6l7o1itijb8lc",
+      "status": "confirmed",
+      "summary": "King's Birthday",
+      "region": "United Kingdom",
+      "date": "2025-06-14"
+    },
+    {
       "id": "20250615_nhbl5edh106oe737eparlbh22s",
       "status": "confirmed",
       "summary": "Father's Day",
       "region": "United Kingdom",
       "date": "2025-06-15"
-    },
-    {
-      "id": "20250621_4n8i9pr63kjurch0s4vtdr6ig4",
-      "status": "confirmed",
-      "summary": "King's Birthday",
-      "region": "United Kingdom",
-      "date": "2025-06-21"
     },
     {
       "id": "20250825_jio3npbr7nu2i2i326hqset5t0",
