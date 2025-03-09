@@ -9909,14 +9909,14 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250420_iu7eo5d0p1149d96ou67ej5of0",
+      "id": "20250420_m6bvj744rug9he6hq73bittu74",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Canada",
       "date": "2025-04-20"
     },
     {
-      "id": "20250421_8difv7801rl16k73eus5qopv1k",
+      "id": "20250421_sh9l48rtvtgrbbjqjpteh2oqic",
       "status": "confirmed",
       "summary": "Easter Monday (regional holiday)",
       "region": "Canada",
@@ -10014,7 +10014,7 @@
       "date": "2025-11-02"
     },
     {
-      "id": "20251111_cetnf3aej7oud0nh0lvf4kfd64",
+      "id": "20251111_jh0dt87o7k877qc97onsp7rnao",
       "status": "confirmed",
       "summary": "Remembrance Day (regional holiday)",
       "region": "Canada",
@@ -20457,7 +20457,7 @@
       "date": "2025-03-05"
     },
     {
-      "id": "20250308_b9qdlkd68dvfh25fk1iren89a0",
+      "id": "20250308_ffi6ol8v9mkf8bk9jr9qqcgdsc",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -20499,7 +20499,7 @@
       "date": "2025-04-19"
     },
     {
-      "id": "20250420_30i9tetjgoki7sk1pqha0pg45c",
+      "id": "20250420_98g43an5jd0tp39ka3hnooq014",
       "status": "confirmed",
       "summary": "Easter Sunday (regional holiday)",
       "region": "Germany",
@@ -20569,7 +20569,7 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250815_91j181kp5ug9qhueiq8si4i1ss",
+      "id": "20250815_0d38l0s97bb97g120224gs0ctg",
       "status": "confirmed",
       "summary": "Assumption of Mary (regional holiday)",
       "region": "Germany",
@@ -20751,7 +20751,7 @@
       "date": "2026-02-18"
     },
     {
-      "id": "20260308_hr1sch475q7o7jduqlojc22mu8",
+      "id": "20260308_p49dvh9h58mrpqlpgj3nipumd8",
       "status": "confirmed",
       "summary": "International Women's Day (regional holiday)",
       "region": "Germany",
@@ -25754,9 +25754,9 @@
       "date": "2025-05-12"
     },
     {
-      "id": "20250607_ht0lq5692j329uus47pp6aa3k8",
+      "id": "20250607_19e4v4bhmsj2knimk3d4jtscp4",
       "status": "confirmed",
-      "summary": "Bakrid/Eid ul-Adha (tentative)",
+      "summary": "Bakrid (tentative)",
       "region": "India",
       "date": "2025-06-07"
     },
@@ -26076,9 +26076,9 @@
       "date": "2026-04-14"
     },
     {
-      "id": "20260528_tbbofoui12limcnu84cp0pscpk",
+      "id": "20260528_iorgl8scpjuosjb2ndk122pnb0",
       "status": "confirmed",
-      "summary": "Bakrid/Eid ul-Adha (tentative)",
+      "summary": "Bakrid (tentative)",
       "region": "India",
       "date": "2026-05-28"
     },
@@ -30665,7 +30665,7 @@
       "date": "2025-01-28"
     },
     {
-      "id": "20250130_a41ca3336fbvn4racdvr5608n0",
+      "id": "20250130_2ms069dlhrn95caods2a09d57s",
       "status": "confirmed",
       "summary": "Election Holiday",
       "region": "Comoros",
@@ -41609,6 +41609,13 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250301_muc7smpaq3h04m99usj3knrf1s",
+      "status": "confirmed",
+      "summary": "Burial of Sam Nujoma",
+      "region": "Namibia",
+      "date": "2025-03-01"
+    },
+    {
       "id": "20250321_ssobhsbtu38pm47fgt785rjj90",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -43546,7 +43553,176 @@
       "date": "2026-12-31"
     }
   ],
-  "Nepal": [],
+  "Nepal": [
+    {
+      "id": "20250226_7v26if38l0a8mde70mbna3ngss",
+      "status": "confirmed",
+      "summary": "Maha Shivaratri",
+      "region": "Nepal",
+      "date": "2025-02-26"
+    },
+    {
+      "id": "20250302_484dr2d8baagkqlcu5fdih8lrs",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Nepal",
+      "date": "2025-03-02"
+    },
+    {
+      "id": "20250308_vp338h33u68ce10om5mn506h14",
+      "status": "confirmed",
+      "summary": "Nari Dibas",
+      "region": "Nepal",
+      "date": "2025-03-08"
+    },
+    {
+      "id": "20250331_u9ub9ti72u9haaip2r7n4depjc",
+      "status": "confirmed",
+      "summary": "Ramjan Edul Fikra (tentative)",
+      "region": "Nepal",
+      "date": "2025-03-31"
+    },
+    {
+      "id": "20250414_skg4r43v5kj6ojdsrvu0opbqb4",
+      "status": "confirmed",
+      "summary": "Nepali New Year",
+      "region": "Nepal",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "20250501_9p5j0eoljsqucdjav70dd4e2ns",
+      "status": "confirmed",
+      "summary": "Majdoor Divas",
+      "region": "Nepal",
+      "date": "2025-05-01"
+    },
+    {
+      "id": "20250512_kcur6unbl2lgoucc9fdq26gti8",
+      "status": "confirmed",
+      "summary": "Buddha Jayanti",
+      "region": "Nepal",
+      "date": "2025-05-12"
+    },
+    {
+      "id": "20250512_o3u94fuek5dd50kj88291pt844",
+      "status": "confirmed",
+      "summary": "Ubhauli Parva",
+      "region": "Nepal",
+      "date": "2025-05-12"
+    },
+    {
+      "id": "20250607_ge2i75ju4f6l3npbtdef78cbvg",
+      "status": "confirmed",
+      "summary": "Edul Aajaha (tentative)",
+      "region": "Nepal",
+      "date": "2025-06-07"
+    },
+    {
+      "id": "20250809_jf4mqkiicnb3dgsebuhfocq2as",
+      "status": "confirmed",
+      "summary": "Janai Purnima",
+      "region": "Nepal",
+      "date": "2025-08-09"
+    },
+    {
+      "id": "20250826_ei7e68al8885d3ehapfj023b80",
+      "status": "confirmed",
+      "summary": "Hartalika Teej",
+      "region": "Nepal",
+      "date": "2025-08-26"
+    },
+    {
+      "id": "20250919_056nvphcalinck1tlbl96pccrk",
+      "status": "confirmed",
+      "summary": "Constitution Day",
+      "region": "Nepal",
+      "date": "2025-09-19"
+    },
+    {
+      "id": "20250922_5p3qcpfor2vkhjtjmgk9vn435o",
+      "status": "confirmed",
+      "summary": "Ghatasthapana",
+      "region": "Nepal",
+      "date": "2025-09-22"
+    },
+    {
+      "id": "20250929_2g3kh9r8ccupbgv2j57fuiekck",
+      "status": "confirmed",
+      "summary": "Phulpati (Dashain)",
+      "region": "Nepal",
+      "date": "2025-09-29"
+    },
+    {
+      "id": "20250930_tsvfvlfmi1d8lspk5pv68tm0ao",
+      "status": "confirmed",
+      "summary": "Astami (Dashain)",
+      "region": "Nepal",
+      "date": "2025-09-30"
+    },
+    {
+      "id": "20251001_0pti4lb102803hjh2slp47ofuo",
+      "status": "confirmed",
+      "summary": "Nawami (Dashain)",
+      "region": "Nepal",
+      "date": "2025-10-01"
+    },
+    {
+      "id": "20251002_ssq6qdsrv5rfn7avkrr7ccqd44",
+      "status": "confirmed",
+      "summary": "Dashami (Dashain)",
+      "region": "Nepal",
+      "date": "2025-10-02"
+    },
+    {
+      "id": "20251003_dt0p35fe9ndlk4vl50lvta0p30",
+      "status": "confirmed",
+      "summary": "Ekadashi (Dashain)",
+      "region": "Nepal",
+      "date": "2025-10-03"
+    },
+    {
+      "id": "20251021_um6rvcvdb6c13v24fh24mtbob4",
+      "status": "confirmed",
+      "summary": "Laxmi Puja (Tihar)",
+      "region": "Nepal",
+      "date": "2025-10-21"
+    },
+    {
+      "id": "20251022_udrore60evfel8l2qd754707p0",
+      "status": "confirmed",
+      "summary": "Gobhardan Pujan (Tihar)",
+      "region": "Nepal",
+      "date": "2025-10-22"
+    },
+    {
+      "id": "20251023_8qo8pi6o3bqdrm7kh3cg5j8u2c",
+      "status": "confirmed",
+      "summary": "Bhai Tika (Tihar)",
+      "region": "Nepal",
+      "date": "2025-10-23"
+    },
+    {
+      "id": "20251027_bd31876tjf1ivn7sanhrn1rg10",
+      "status": "confirmed",
+      "summary": "Chhat Parwa",
+      "region": "Nepal",
+      "date": "2025-10-27"
+    },
+    {
+      "id": "20251203_oi8sml0kulrn8s7io28v9c5uqg",
+      "status": "confirmed",
+      "summary": "International Day of Disabled Persons",
+      "region": "Nepal",
+      "date": "2025-12-03"
+    },
+    {
+      "id": "20251225_5f35rpcgp8v0phn1ehgchonjdg",
+      "status": "confirmed",
+      "summary": "Christmas Day",
+      "region": "Nepal",
+      "date": "2025-12-25"
+    }
+  ],
   "Nauru": [
     {
       "id": "20250101_c5hrcnu5aajkc5dk8ik400i69k",
