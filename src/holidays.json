@@ -55142,25 +55142,18 @@
       "date": "2025-01-01"
     },
     {
+      "id": "20250310_u6runmtk3c8bvbu9au0d58jr8s",
+      "status": "confirmed",
+      "summary": "Lutsango Day",
+      "region": "Eswatini",
+      "date": "2025-03-10"
+    },
+    {
       "id": "20250418_qv3v2tjn2a6kfipc18hhrgj1rs",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Eswatini",
       "date": "2025-04-18"
-    },
-    {
-      "id": "20250419_lbvsscj3lnvin4g73134rvs4e0",
-      "status": "confirmed",
-      "summary": "Birthday of King Mswati III",
-      "region": "Eswatini",
-      "date": "2025-04-19"
-    },
-    {
-      "id": "20250421_56v2u92sefvevmlcn3reudbp3c",
-      "status": "confirmed",
-      "summary": "Day off for Birthday of King Mswati III",
-      "region": "Eswatini",
-      "date": "2025-04-21"
     },
     {
       "id": "20250421_kqv04ref2b16nncu6f6tfvia78",
@@ -55266,20 +55259,6 @@
       "summary": "Easter Monday",
       "region": "Eswatini",
       "date": "2026-04-06"
-    },
-    {
-      "id": "20260419_1ve5obsh9n2347qll0fdvet14k",
-      "status": "confirmed",
-      "summary": "Birthday of King Mswati III",
-      "region": "Eswatini",
-      "date": "2026-04-19"
-    },
-    {
-      "id": "20260420_i6va2mu8kt7jvgt86p7athtpko",
-      "status": "confirmed",
-      "summary": "Day off for Birthday of King Mswati III",
-      "region": "Eswatini",
-      "date": "2026-04-20"
     },
     {
       "id": "20260425_fcpjv6opar0mmnhl3shpjlpuk4",
@@ -58694,9 +58673,9 @@
       "date": "2025-06-05"
     },
     {
-      "id": "20250606_g8r248sjlahp3bl21r4obi13ro",
+      "id": "20250606_561u8db85le7qve8c80cu7ale4",
       "status": "confirmed",
-      "summary": "Sacrifice Feast (tentative)",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Turkey",
       "date": "2025-06-06"
     },
@@ -58834,9 +58813,9 @@
       "date": "2026-05-26"
     },
     {
-      "id": "20260527_ao9kvm5u29iegsr3hqi8lai280",
+      "id": "20260527_h3918po198msj65jhs3ifula50",
       "status": "confirmed",
-      "summary": "Sacrifice Feast (tentative)",
+      "summary": "Eid al-Adha (tentative)",
       "region": "Turkey",
       "date": "2026-05-27"
     },
