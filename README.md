@@ -22,6 +22,7 @@ on:
       - synchronize
       - labeled
       - unlabeled
+      - ready_for_review
   schedule:
     - cron: "*/30 * * * *"
 
