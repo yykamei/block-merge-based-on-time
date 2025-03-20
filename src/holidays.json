@@ -31266,9 +31266,9 @@
       "date": "2025-01-02"
     },
     {
-      "id": "20250127_v5l73mj5n5r69tpbqnspemc7sc",
+      "id": "20250127_ovsdvt8er1gvi4uopf4ua8q8a4",
       "status": "confirmed",
-      "summary": "Isra and Miraj (tentative)",
+      "summary": "Isra and Miraj",
       "region": "Kuwait",
       "date": "2025-01-27"
     },
@@ -58396,6 +58396,13 @@
       "summary": "Labour Day",
       "region": "Trinidad & Tobago",
       "date": "2025-06-19"
+    },
+    {
+      "id": "20250620_rp1haqqp55sf1ef3e4c37i2au4",
+      "status": "confirmed",
+      "summary": "Labour Day observed",
+      "region": "Trinidad & Tobago",
+      "date": "2025-06-20"
     },
     {
       "id": "20250801_0mugvpglcn2u3j3g0ht4rbjmhc",
