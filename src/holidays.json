@@ -40987,6 +40987,13 @@
       "date": "2025-03-01"
     },
     {
+      "id": "20250302_b73lq4odb1d0i5nhmmlqjmtvs4",
+      "status": "confirmed",
+      "summary": "Extreme Weather Holiday",
+      "region": "Maldives",
+      "date": "2025-03-02"
+    },
+    {
       "id": "20250331_377pd6pcssi16jtfefcd71n6j4",
       "status": "confirmed",
       "summary": "Eid-ul-Fithr (tentative)",
@@ -43569,11 +43576,53 @@
   ],
   "Nepal": [
     {
+      "id": "20250111_uj83bfo78i2d1fe62sqatqb33k",
+      "status": "confirmed",
+      "summary": "Prithvi Jayanti",
+      "region": "Nepal",
+      "date": "2025-01-11"
+    },
+    {
+      "id": "20250114_rkluemrv9j2006ev59kv1e82es",
+      "status": "confirmed",
+      "summary": "Maghe Sankranti",
+      "region": "Nepal",
+      "date": "2025-01-14"
+    },
+    {
+      "id": "20250130_0ht5gseqil2f81t871au32imbs",
+      "status": "confirmed",
+      "summary": "Martyrs' Memorial Day",
+      "region": "Nepal",
+      "date": "2025-01-30"
+    },
+    {
+      "id": "20250130_8n049s7gkknkbn1eu27uqsbio4",
+      "status": "confirmed",
+      "summary": "Sonam Losar (Tamang New Year)",
+      "region": "Nepal",
+      "date": "2025-01-30"
+    },
+    {
+      "id": "20250219_dj9bsdfhg41qfkachcvje66d6k",
+      "status": "confirmed",
+      "summary": "National Democracy Day",
+      "region": "Nepal",
+      "date": "2025-02-19"
+    },
+    {
       "id": "20250226_7v26if38l0a8mde70mbna3ngss",
       "status": "confirmed",
       "summary": "Maha Shivaratri",
       "region": "Nepal",
       "date": "2025-02-26"
+    },
+    {
+      "id": "20250228_q0dnmg49beae9bt0mc49rosa38",
+      "status": "confirmed",
+      "summary": "Gyalpo Losar",
+      "region": "Nepal",
+      "date": "2025-02-28"
     },
     {
       "id": "20250302_484dr2d8baagkqlcu5fdih8lrs",
@@ -43625,6 +43674,20 @@
       "date": "2025-05-12"
     },
     {
+      "id": "20250529_iau898bksa0i973fq5udo46iac",
+      "status": "confirmed",
+      "summary": "Ganatantra Diwas (Republic Day)",
+      "region": "Nepal",
+      "date": "2025-05-29"
+    },
+    {
+      "id": "20250604_cuutg2dqnu5q3r9i4khch18u9k",
+      "status": "confirmed",
+      "summary": "Elimination of Caste Discrimination and Untouchability Day",
+      "region": "Nepal",
+      "date": "2025-06-04"
+    },
+    {
       "id": "20250607_ge2i75ju4f6l3npbtdef78cbvg",
       "status": "confirmed",
       "summary": "Edul Aajaha (tentative)",
@@ -43639,11 +43702,46 @@
       "date": "2025-08-09"
     },
     {
+      "id": "20250810_n04q5dn1eafvdondk2lfvbrr5o",
+      "status": "confirmed",
+      "summary": "Gai Jatra",
+      "region": "Nepal",
+      "date": "2025-08-10"
+    },
+    {
+      "id": "20250816_v3rh3pfauf419ammlvfqco19h8",
+      "status": "confirmed",
+      "summary": "Shree Krishna Janamashtami",
+      "region": "Nepal",
+      "date": "2025-08-16"
+    },
+    {
       "id": "20250826_ei7e68al8885d3ehapfj023b80",
       "status": "confirmed",
       "summary": "Hartalika Teej",
       "region": "Nepal",
       "date": "2025-08-26"
+    },
+    {
+      "id": "20250831_4pkf392u4cdn5t2ifbjdvjkq24",
+      "status": "confirmed",
+      "summary": "Gaura Parba",
+      "region": "Nepal",
+      "date": "2025-08-31"
+    },
+    {
+      "id": "20250907_ijvdq1m63eosg8e5341cvvi1bo",
+      "status": "confirmed",
+      "summary": "Civil Service Day",
+      "region": "Nepal",
+      "date": "2025-09-07"
+    },
+    {
+      "id": "20250915_heci75q7k5ogbkuugm45ej1s50",
+      "status": "confirmed",
+      "summary": "Jitiya Parwa",
+      "region": "Nepal",
+      "date": "2025-09-15"
     },
     {
       "id": "20250919_056nvphcalinck1tlbl96pccrk",
@@ -43695,9 +43793,23 @@
       "date": "2025-10-03"
     },
     {
-      "id": "20251021_um6rvcvdb6c13v24fh24mtbob4",
+      "id": "20251004_hhphb02d6lp3p6rt34tap75h8s",
+      "status": "confirmed",
+      "summary": "Duwadashi (Dashain)",
+      "region": "Nepal",
+      "date": "2025-10-04"
+    },
+    {
+      "id": "20251020_2be5nba0kkhlq874amlrp8j8gs",
       "status": "confirmed",
       "summary": "Laxmi Puja (Tihar)",
+      "region": "Nepal",
+      "date": "2025-10-20"
+    },
+    {
+      "id": "20251021_01ojb8t1bait1mciovkiot65go",
+      "status": "confirmed",
+      "summary": "Gai Tihar",
       "region": "Nepal",
       "date": "2025-10-21"
     },
@@ -43716,11 +43828,32 @@
       "date": "2025-10-23"
     },
     {
+      "id": "20251024_2rv9ir8bjjvt6lgh0fubfjfo34",
+      "status": "confirmed",
+      "summary": "Tihar Holiday",
+      "region": "Nepal",
+      "date": "2025-10-24"
+    },
+    {
       "id": "20251027_bd31876tjf1ivn7sanhrn1rg10",
       "status": "confirmed",
       "summary": "Chhat Parwa",
       "region": "Nepal",
       "date": "2025-10-27"
+    },
+    {
+      "id": "20251105_fgevbp9ctatmgjj3er065l5nvo",
+      "status": "confirmed",
+      "summary": "Guru Nanak Jayanti",
+      "region": "Nepal",
+      "date": "2025-11-05"
+    },
+    {
+      "id": "20251111_ts702q41eg89t3n79guk98sbuk",
+      "status": "confirmed",
+      "summary": "Phalgunanda Jayanti",
+      "region": "Nepal",
+      "date": "2025-11-11"
     },
     {
       "id": "20251203_oi8sml0kulrn8s7io28v9c5uqg",
@@ -43730,11 +43863,25 @@
       "date": "2025-12-03"
     },
     {
+      "id": "20251204_3bmk3bmlpil1udgcpgfmq06ok0",
+      "status": "confirmed",
+      "summary": "Udhauli Parva",
+      "region": "Nepal",
+      "date": "2025-12-04"
+    },
+    {
       "id": "20251225_5f35rpcgp8v0phn1ehgchonjdg",
       "status": "confirmed",
       "summary": "Christmas Day",
       "region": "Nepal",
       "date": "2025-12-25"
+    },
+    {
+      "id": "20251230_ebvrbgoep7qg9pol63917t2va8",
+      "status": "confirmed",
+      "summary": "Tamu Lhosar",
+      "region": "Nepal",
+      "date": "2025-12-30"
     }
   ],
   "Nauru": [
