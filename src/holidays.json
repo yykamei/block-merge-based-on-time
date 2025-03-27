@@ -22303,11 +22303,11 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250326_1ql2q827o7qcc0gqgljoq2jmuo",
+      "id": "20250327_m4k9vfokvl1pdhvn89qftckppo",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Gambia",
-      "date": "2025-03-26"
+      "date": "2025-03-27"
     },
     {
       "id": "20250331_o0dtnd0nkeut4imbj6k0pigrec",
@@ -22408,11 +22408,11 @@
       "date": "2026-02-18"
     },
     {
-      "id": "20260315_eh4lc4c53eoqs4ao3sh250vc6g",
+      "id": "20260316_o43v4ps6ncam6i5npe6nraldnc",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Gambia",
-      "date": "2026-03-15"
+      "date": "2026-03-16"
     },
     {
       "id": "20260320_lm0ge7sangb7hrcej6ehof2k2g",
@@ -22508,11 +22508,11 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250326_3v0esudi8q5qvr66kkqfq26hv4",
+      "id": "20250327_2eeih1h4qneahpitlf683f4ccs",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Guinea",
-      "date": "2025-03-26"
+      "date": "2025-03-27"
     },
     {
       "id": "20250331_1s6urm4av55a0oo9hoqign037k",
@@ -22599,11 +22599,11 @@
       "date": "2026-02-18"
     },
     {
-      "id": "20260315_2ok4e2gsa7r8ml8f3dlko6dmlo",
+      "id": "20260316_2t09c4gfiqod8cvve7p644rq2g",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Guinea",
-      "date": "2026-03-15"
+      "date": "2026-03-16"
     },
     {
       "id": "20260320_8f3d6tmqnfo3j3g7juhescdutg",
@@ -27945,13 +27945,6 @@
   ],
   "Japan": [
     {
-      "id": "20250101_blag9njc95u64jm6ruuav7eoi4",
-      "status": "confirmed",
-      "summary": "January 1 Bank Holiday",
-      "region": "Japan",
-      "date": "2025-01-01"
-    },
-    {
       "id": "20250101_o6qajquvackc9kheiqihmfdlic",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -28109,13 +28102,6 @@
       "id": "20260101_1jctp65lq2mcgbqnb17j41jd9g",
       "status": "confirmed",
       "summary": "New Year's Day",
-      "region": "Japan",
-      "date": "2026-01-01"
-    },
-    {
-      "id": "20260101_trjcauicsrbcvbpr3gm0mgcjbs",
-      "status": "confirmed",
-      "summary": "January 1 Bank Holiday",
       "region": "Japan",
       "date": "2026-01-01"
     },
@@ -38475,7 +38461,7 @@
       "date": "2025-03-26"
     },
     {
-      "id": "20250327_bf5c107td0ur423u0bq3b9ff5k",
+      "id": "20250327_omrkk3g344lnc1i8lgv574vc5g",
       "status": "confirmed",
       "summary": "Leylatoul Qadr",
       "region": "Mali",
