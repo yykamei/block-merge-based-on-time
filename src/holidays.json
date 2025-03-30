@@ -374,6 +374,13 @@
       "date": "2025-03-01"
     },
     {
+      "id": "20250330_b7c3go5lrlha8n41fln55epl88",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "United Arab Emirates",
+      "date": "2025-03-30"
+    },
+    {
       "id": "20250331_m89cesec82lhfa5hrntlglroa4",
       "status": "confirmed",
       "summary": "Eid al-Fitr (tentative)",
@@ -381,16 +388,16 @@
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_8ocfr01kl5mmjv5k62cs5jnask",
+      "id": "20250401_ltplos8ulvievka9aalsk3bdoc",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday (tentative)",
+      "summary": "Eid al-Fitr Holiday",
       "region": "United Arab Emirates",
       "date": "2025-04-01"
     },
     {
-      "id": "20250402_j5gfi80e79un97lvpnqk4mf1ac",
+      "id": "20250402_f3pacc666chjugds5mm2pv1dvs",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday (tentative)",
+      "summary": "Eid al-Fitr Holiday",
       "region": "United Arab Emirates",
       "date": "2025-04-02"
     },
@@ -2621,6 +2628,13 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250502_v0ej3ejni1j25qvvtt16gv3guk",
+      "status": "confirmed",
+      "summary": "Tourist Bridge Holiday",
+      "region": "Argentina",
+      "date": "2025-05-02"
+    },
+    {
       "id": "20250525_vnj0crd4sev42048d4e2stvrf8",
       "status": "confirmed",
       "summary": "National Day/May 1810 Revolution",
@@ -2635,7 +2649,14 @@
       "date": "2025-06-07"
     },
     {
-      "id": "20250617_plh66l38bqsgluh43pdg0vpl04",
+      "id": "20250616_t7bn34qo9vm6uek71im721hd3c",
+      "status": "confirmed",
+      "summary": "Day off for the Commemoration of General Don Martín Miguel de Güemes",
+      "region": "Argentina",
+      "date": "2025-06-16"
+    },
+    {
+      "id": "20250617_p56t41m7ei54vsp34oveemei3s",
       "status": "confirmed",
       "summary": "Commemoration of General Don Martín Miguel de Güemes",
       "region": "Argentina",
@@ -2661,6 +2682,13 @@
       "summary": "Independence day",
       "region": "Argentina",
       "date": "2025-07-09"
+    },
+    {
+      "id": "20250815_or9plf5al17280k1h8ueb09ius",
+      "status": "confirmed",
+      "summary": "Tourist Bridge Holiday",
+      "region": "Argentina",
+      "date": "2025-08-15"
     },
     {
       "id": "20250818_t9bh1rcta5pj591nojj2c3p5qg",
@@ -2705,11 +2733,11 @@
       "date": "2025-10-02"
     },
     {
-      "id": "20251013_fo1ssu521u5icv24gaudqfshsc",
+      "id": "20251012_i35sv8aunhtg70f303in287rns",
       "status": "confirmed",
-      "summary": "Day of Respect for Cultural Diversity",
+      "summary": "Columbus Day",
       "region": "Argentina",
-      "date": "2025-10-13"
+      "date": "2025-10-12"
     },
     {
       "id": "20251019_fg1t6c52hebap2pmu64leqqla0",
@@ -2724,6 +2752,13 @@
       "summary": "National Sovereignty Day",
       "region": "Argentina",
       "date": "2025-11-17"
+    },
+    {
+      "id": "20251121_k3c0oin4te1kmn49ckl11fe0os",
+      "status": "confirmed",
+      "summary": "Tourist Bridge Holiday",
+      "region": "Argentina",
+      "date": "2025-11-21"
     },
     {
       "id": "20251208_fm2q3b1jp1lb6voih2e7u599ss",
@@ -5129,9 +5164,9 @@
       "date": "2025-04-02"
     },
     {
-      "id": "20250403_51uvs3gj0k3vg7du6fdsh1m068",
+      "id": "20250403_mt10u47fcsmh4amibntu2f0s30",
       "status": "confirmed",
-      "summary": "Eid ul-Fitr Holiday (tentative)",
+      "summary": "Eid ul-Fitr Holiday",
       "region": "Bangladesh",
       "date": "2025-04-03"
     },
@@ -9254,9 +9289,9 @@
   ],
   "Belarus": [
     {
-      "id": "20250101_1bi9qu2r0keqq67pnal1lf9er4",
+      "id": "20250101_5u9d26r8oje2jejd05sdtd4vm0",
       "status": "confirmed",
-      "summary": "New Year's Day",
+      "summary": "New Year’s Day",
       "region": "Belarus",
       "date": "2025-01-01"
     },
@@ -9268,9 +9303,9 @@
       "date": "2025-01-02"
     },
     {
-      "id": "20250106_v7d96kdora5qfgqhfbt23em05c",
+      "id": "20250106_rmtkvl05ukk46rh31p1258vsko",
       "status": "confirmed",
-      "summary": "Public Holiday",
+      "summary": "Orthodox Christmas Holiday",
       "region": "Belarus",
       "date": "2025-01-06"
     },
@@ -9289,9 +9324,9 @@
       "date": "2025-02-23"
     },
     {
-      "id": "20250308_emv2959c7g1lend7io473os5b8",
+      "id": "20250308_e4k8jqf33h0edoaj2rrplce2cs",
       "status": "confirmed",
-      "summary": "Women's Day",
+      "summary": "Women’s Day",
       "region": "Belarus",
       "date": "2025-03-08"
     },
@@ -9324,11 +9359,32 @@
       "date": "2025-04-20"
     },
     {
+      "id": "20250426_o8ss1j0jt5e2msemtug7ccuvro",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Belarus",
+      "date": "2025-04-26"
+    },
+    {
       "id": "20250426_trild23optfm48cmvmb5gn8glg",
       "status": "confirmed",
       "summary": "Day of Remembrance of the Chernobyl Tragedy",
       "region": "Belarus",
       "date": "2025-04-26"
+    },
+    {
+      "id": "20250428_guur87fkfke13sqbntr05hfrc4",
+      "status": "confirmed",
+      "summary": "Radonitsa Holiday",
+      "region": "Belarus",
+      "date": "2025-04-28"
+    },
+    {
+      "id": "20250429_vc501rson286c2n0tsf972bs0s",
+      "status": "confirmed",
+      "summary": "Radonitsa",
+      "region": "Belarus",
+      "date": "2025-04-29"
     },
     {
       "id": "20250501_ik5iu878uktuakp31ataj2a63c",
@@ -9364,6 +9420,13 @@
       "summary": "Independence Day of the Republic of Belarus",
       "region": "Belarus",
       "date": "2025-07-03"
+    },
+    {
+      "id": "20250704_oaih3b5ssm7eej3umc3d4b73i8",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Belarus",
+      "date": "2025-07-04"
     },
     {
       "id": "20250706_09ddlhnbup8q7ohmm70ggb85o0",
@@ -9408,11 +9471,25 @@
       "date": "2025-11-07"
     },
     {
+      "id": "20251220_eg2envbl9fq14rcp522uopngcc",
+      "status": "confirmed",
+      "summary": "Special Working Day",
+      "region": "Belarus",
+      "date": "2025-12-20"
+    },
+    {
       "id": "20251225_hnoqn1uqvutrjtpbhs5ioloc1c",
       "status": "confirmed",
       "summary": "Catholic Christmas Day",
       "region": "Belarus",
       "date": "2025-12-25"
+    },
+    {
+      "id": "20251226_t2sddum9sns45icbhmjfio37ao",
+      "status": "confirmed",
+      "summary": "Catholic Christmas Holiday",
+      "region": "Belarus",
+      "date": "2025-12-26"
     },
     {
       "id": "20251231_e9fe79iecri1hnv7920hmckep8",
@@ -9422,9 +9499,9 @@
       "date": "2025-12-31"
     },
     {
-      "id": "20260101_uonigmkjil41157eb8u3p2picg",
+      "id": "20260101_1ddnqbageq7vuscs78a5uekhis",
       "status": "confirmed",
-      "summary": "New Year's Day",
+      "summary": "New Year’s Day",
       "region": "Belarus",
       "date": "2026-01-01"
     },
@@ -9450,9 +9527,9 @@
       "date": "2026-02-23"
     },
     {
-      "id": "20260308_b0rl7joh8i50ru1n7lq9qf0k7c",
+      "id": "20260308_p70ac0v31pvnkn0ku5tru3mfhc",
       "status": "confirmed",
-      "summary": "Women's Day",
+      "summary": "Women’s Day",
       "region": "Belarus",
       "date": "2026-03-08"
     },
@@ -10338,6 +10415,20 @@
       "date": "2025-03-20"
     },
     {
+      "id": "20250405_14nis28og417dufuncf548se9c",
+      "status": "confirmed",
+      "summary": "Kimbangu Memorial Day observed",
+      "region": "Congo - Kinshasa",
+      "date": "2025-04-05"
+    },
+    {
+      "id": "20250406_1dfn9d8ncvkaqroa4vjrekgoqk",
+      "status": "confirmed",
+      "summary": "Kimbangu Memorial Day",
+      "region": "Congo - Kinshasa",
+      "date": "2025-04-06"
+    },
+    {
       "id": "20250430_u8ster73fefq2dinl88ps8ks1k",
       "status": "confirmed",
       "summary": "Education Day",
@@ -10455,6 +10546,13 @@
       "summary": "International Francophonie Day",
       "region": "Congo - Kinshasa",
       "date": "2026-03-20"
+    },
+    {
+      "id": "20260406_3djmvf15bbsjqhcq232b46cjpc",
+      "status": "confirmed",
+      "summary": "Kimbangu Memorial Day",
+      "region": "Congo - Kinshasa",
+      "date": "2026-04-06"
     },
     {
       "id": "20260430_ghon2v19pqaat4imfn5elk6rkc",
@@ -17507,6 +17605,20 @@
       "date": "2025-03-01"
     },
     {
+      "id": "20250329_aut3od5n42dfrltvvu39i14s9s",
+      "status": "confirmed",
+      "summary": "Eid el Fitr Holiday",
+      "region": "Egypt",
+      "date": "2025-03-29"
+    },
+    {
+      "id": "20250330_a1isb5ed5o3tjrj7d4cdnp98ms",
+      "status": "confirmed",
+      "summary": "Eid el Fitr Holiday",
+      "region": "Egypt",
+      "date": "2025-03-30"
+    },
+    {
       "id": "20250331_cgp8phefkho4qr2rld1gf3ehis",
       "status": "confirmed",
       "summary": "Eid el Fitr (tentative)",
@@ -19723,6 +19835,13 @@
       "date": "2025-08-17"
     },
     {
+      "id": "20250830_2unhdinv2o399mke3bb90d8so4",
+      "status": "confirmed",
+      "summary": "National Liberation Day",
+      "region": "Gabon",
+      "date": "2025-08-30"
+    },
+    {
       "id": "20251101_m7s24d2bm1iiij6tr9e6n3m994",
       "status": "confirmed",
       "summary": "All Saints' Day",
@@ -19840,6 +19959,13 @@
       "summary": "Independence Day Holiday",
       "region": "Gabon",
       "date": "2026-08-17"
+    },
+    {
+      "id": "20260830_2msue7jgep68f5f80m9pjv58k0",
+      "status": "confirmed",
+      "summary": "National Liberation Day",
+      "region": "Gabon",
+      "date": "2026-08-30"
     },
     {
       "id": "20261101_922nqr67sa26udoteqhl1a03v8",
@@ -22303,11 +22429,11 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250326_1ql2q827o7qcc0gqgljoq2jmuo",
+      "id": "20250327_m4k9vfokvl1pdhvn89qftckppo",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Gambia",
-      "date": "2025-03-26"
+      "date": "2025-03-27"
     },
     {
       "id": "20250331_o0dtnd0nkeut4imbj6k0pigrec",
@@ -22408,11 +22534,11 @@
       "date": "2026-02-18"
     },
     {
-      "id": "20260315_eh4lc4c53eoqs4ao3sh250vc6g",
+      "id": "20260316_o43v4ps6ncam6i5npe6nraldnc",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Gambia",
-      "date": "2026-03-15"
+      "date": "2026-03-16"
     },
     {
       "id": "20260320_lm0ge7sangb7hrcej6ehof2k2g",
@@ -22508,11 +22634,11 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250326_3v0esudi8q5qvr66kkqfq26hv4",
+      "id": "20250327_2eeih1h4qneahpitlf683f4ccs",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Guinea",
-      "date": "2025-03-26"
+      "date": "2025-03-27"
     },
     {
       "id": "20250331_1s6urm4av55a0oo9hoqign037k",
@@ -22599,11 +22725,11 @@
       "date": "2026-02-18"
     },
     {
-      "id": "20260315_2ok4e2gsa7r8ml8f3dlko6dmlo",
+      "id": "20260316_2t09c4gfiqod8cvve7p644rq2g",
       "status": "confirmed",
       "summary": "Lailat al-Qadr",
       "region": "Guinea",
-      "date": "2026-03-15"
+      "date": "2026-03-16"
     },
     {
       "id": "20260320_8f3d6tmqnfo3j3g7juhescdutg",
@@ -25663,9 +25789,9 @@
       "date": "2025-03-14"
     },
     {
-      "id": "20250328_cp8ht04tlpusb8mudnij77p5jk",
+      "id": "20250328_q5u1ptjgicpm2vf3fn5nnjb55k",
       "status": "confirmed",
-      "summary": "Jamat Ul-Vida (tentative)",
+      "summary": "Jamat Ul-Vida",
       "region": "India",
       "date": "2025-03-28"
     },
@@ -27945,13 +28071,6 @@
   ],
   "Japan": [
     {
-      "id": "20250101_blag9njc95u64jm6ruuav7eoi4",
-      "status": "confirmed",
-      "summary": "January 1 Bank Holiday",
-      "region": "Japan",
-      "date": "2025-01-01"
-    },
-    {
       "id": "20250101_o6qajquvackc9kheiqihmfdlic",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -28109,13 +28228,6 @@
       "id": "20260101_1jctp65lq2mcgbqnb17j41jd9g",
       "status": "confirmed",
       "summary": "New Year's Day",
-      "region": "Japan",
-      "date": "2026-01-01"
-    },
-    {
-      "id": "20260101_trjcauicsrbcvbpr3gm0mgcjbs",
-      "status": "confirmed",
-      "summary": "January 1 Bank Holiday",
       "region": "Japan",
       "date": "2026-01-01"
     },
@@ -38475,7 +38587,7 @@
       "date": "2025-03-26"
     },
     {
-      "id": "20250327_bf5c107td0ur423u0bq3b9ff5k",
+      "id": "20250327_omrkk3g344lnc1i8lgv574vc5g",
       "status": "confirmed",
       "summary": "Leylatoul Qadr",
       "region": "Mali",
@@ -44175,6 +44287,20 @@
       "date": "2025-03-01"
     },
     {
+      "id": "20250329_qe287n91sivs3385m62fjeq748",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Oman",
+      "date": "2025-03-29"
+    },
+    {
+      "id": "20250330_vp0j7ti0s5eunlqqdof8i6rlhg",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "Oman",
+      "date": "2025-03-30"
+    },
+    {
       "id": "20250331_lkphsi5f9u51ku7keipu5oqahk",
       "status": "confirmed",
       "summary": "Eid al-Fitr (tentative)",
@@ -45445,11 +45571,11 @@
       "date": "2025-03-02"
     },
     {
-      "id": "20250331_3b79iur0ng862qmt66qh8omnsg",
+      "id": "20250401_hd17jj7bq0js0dvg0ct98ihtvc",
       "status": "confirmed",
-      "summary": "Eidul-Fitar (tentative)",
+      "summary": "Eidul-Fitar",
       "region": "Philippines",
-      "date": "2025-03-31"
+      "date": "2025-04-01"
     },
     {
       "id": "20250409_pci27e1a1n6nqj4ng2hi1vso4g",
@@ -45867,25 +45993,25 @@
       "date": "2025-03-23"
     },
     {
-      "id": "20250330_dfk4ept0ffrj3vend81l8cgt1c",
+      "id": "20250331_3f5s4068f3u0b90d1essd4p5l0",
       "status": "confirmed",
       "summary": "Eid-ul-Fitr (tentative)",
-      "region": "Pakistan",
-      "date": "2025-03-30"
-    },
-    {
-      "id": "20250331_b0qtap5uvva18m1f8do7d9ntdk",
-      "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday (tentative)",
       "region": "Pakistan",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_dt4m90m8k5fb57abh4515dl0is",
+      "id": "20250401_6j96em78acaflqih192hjqjk84",
       "status": "confirmed",
-      "summary": "Eid-ul-Fitr Holiday (tentative)",
+      "summary": "Eid-ul-Fitr Holiday",
       "region": "Pakistan",
       "date": "2025-04-01"
+    },
+    {
+      "id": "20250402_alrh28da1gcsj6o6d4ggs2e2bc",
+      "status": "confirmed",
+      "summary": "Eid-ul-Fitr Holiday",
+      "region": "Pakistan",
+      "date": "2025-04-02"
     },
     {
       "id": "20250413_3k8ir69hj7khgnln9v99mmssng",
@@ -53695,11 +53821,25 @@
       "date": "2025-03-08"
     },
     {
+      "id": "20250330_42mtjl5r2nj5vnp34m5aa66j78",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "South Sudan",
+      "date": "2025-03-30"
+    },
+    {
       "id": "20250331_aht68353u6atke8qa6op2snup0",
       "status": "confirmed",
       "summary": "Eid al-Fitr (tentative)",
       "region": "South Sudan",
       "date": "2025-03-31"
+    },
+    {
+      "id": "20250401_c0bsduu766mo9afiqbtadivosc",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
+      "region": "South Sudan",
+      "date": "2025-04-01"
     },
     {
       "id": "20250418_3bcsd2mhjirfodg6lsoqjipi2k",
@@ -54266,9 +54406,9 @@
       "date": "2025-10-01"
     },
     {
-      "id": "20251102_ahj3fc69jk850hecolgu34spg0",
+      "id": "20251102_rppekl4phv2l9ek65mt5n92bus",
       "status": "confirmed",
-      "summary": "All Saints Day",
+      "summary": "All Souls’ Day",
       "region": "El Salvador",
       "date": "2025-11-02"
     },
@@ -54413,9 +54553,9 @@
       "date": "2026-10-01"
     },
     {
-      "id": "20261102_5808r89eai404s52skueq9turg",
+      "id": "20261102_cfnhl53418i11rggur1rva79no",
       "status": "confirmed",
-      "summary": "All Saints Day",
+      "summary": "All Souls’ Day",
       "region": "El Salvador",
       "date": "2026-11-02"
     },
@@ -58468,9 +58608,9 @@
       "date": "2025-03-04"
     },
     {
-      "id": "20250330_fiaja72hl042dlr18f8p2ij4ek",
+      "id": "20250330_4g49mfe4dd51p9dmmkglg4a6vs",
       "status": "confirmed",
-      "summary": "Spiritual Baptist Liberation Day",
+      "summary": "Spiritual Baptist Liberation Day (tentative)",
       "region": "Trinidad & Tobago",
       "date": "2025-03-30"
     },
@@ -58482,11 +58622,11 @@
       "date": "2025-03-31"
     },
     {
-      "id": "20250331_ebmg8cspe008556tuhn0gnodn0",
+      "id": "20250401_tcgv6e7thqgj0uuia6sk6jmt4o",
       "status": "confirmed",
-      "summary": "Spiritual Baptist Liberation Day observed",
+      "summary": "Spiritual Baptist Liberation Day observed (tentative)",
       "region": "Trinidad & Tobago",
-      "date": "2025-03-31"
+      "date": "2025-04-01"
     },
     {
       "id": "20250418_va3r33kpl11k9a231mpb2vn8ts",
@@ -61349,9 +61489,16 @@
       "date": "2025-03-21"
     },
     {
-      "id": "20250331_3n0udnh40l5fl3fp3q66firulo",
+      "id": "20250330_ldta342d9v8ff44vcpcjfn29ao",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
+      "region": "Uzbekistan",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_a1udqc5l9tdh9k1emih2j3ih14",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Uzbekistan",
       "date": "2025-03-31"
     },
@@ -64395,16 +64542,16 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250329_2oeskt76q7qtf946fv8qeuecn4",
+      "id": "20250329_h78luaiu0svhgiqeaeeo68vgak",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday (tentative)",
+      "summary": "Eid al-Fitr holiday",
       "region": "Yemen",
       "date": "2025-03-29"
     },
     {
-      "id": "20250330_v6qpgssf9cqdb6crkbl9ienisk",
+      "id": "20250330_bieul2gich9mt583bhl49q3ktc",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Eve (tentative)",
+      "summary": "Eid al-Fitr Eve",
       "region": "Yemen",
       "date": "2025-03-30"
     },
@@ -64416,11 +64563,18 @@
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_d3vjl28f6g0ihcgi8vg4lq3904",
+      "id": "20250401_pc6k4tsgufa8jsr51rrvs7j1rs",
       "status": "confirmed",
-      "summary": "Eid al-Fitr holiday (tentative)",
+      "summary": "Eid al-Fitr holiday",
       "region": "Yemen",
       "date": "2025-04-01"
+    },
+    {
+      "id": "20250402_5khc9nh6kaftcktpu7uj4infhg",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr holiday",
+      "region": "Yemen",
+      "date": "2025-04-02"
     },
     {
       "id": "20250501_dt3p0b09lubkge4iso8nlk06f0",
