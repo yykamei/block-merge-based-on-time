@@ -621,25 +621,25 @@
       "date": "2025-03-21"
     },
     {
-      "id": "20250331_sccksj3o9gs7gh7anlf8gv43v8",
+      "id": "20250330_v8m1r9dg92ou519rfci7nnnj7s",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
+      "region": "Afghanistan",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_lbiugmn9nltarn404p5pm7lvjc",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Afghanistan",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_0falkpqtuu09qtbp71gklbdng4",
+      "id": "20250401_fq98b817indfd4fq6si4eabiuc",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday (tentative)",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Afghanistan",
       "date": "2025-04-01"
-    },
-    {
-      "id": "20250402_re7mholu90i8intea53nc0h794",
-      "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday (tentative)",
-      "region": "Afghanistan",
-      "date": "2025-04-02"
     },
     {
       "id": "20250428_t2ug9d7p6l1n4t59ecf61llsoo",
@@ -10648,11 +10648,11 @@
       "date": "2025-03-29"
     },
     {
-      "id": "20250331_ap8qggnpik3pg4v7f77p8pvi3g",
+      "id": "20250330_32cfepunbavmgdq742u48jq60c",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
       "region": "Central African Republic",
-      "date": "2025-03-31"
+      "date": "2025-03-30"
     },
     {
       "id": "20250421_ft6n80a220eice6ecstp48s0pg",
@@ -18013,11 +18013,11 @@
       "date": "2025-03-08"
     },
     {
-      "id": "20250331_gprsa010irq34fak8917majmfc",
+      "id": "20250330_hnjfeh07nkg29qc517ir16plpc",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
       "region": "Eritrea",
-      "date": "2025-03-31"
+      "date": "2025-03-30"
     },
     {
       "id": "20250418_cbhmo6fdli9qlafjssnith01qc",
@@ -18239,11 +18239,11 @@
       "date": "2025-03-02"
     },
     {
-      "id": "20250331_qduouo03ko68oe5gqujkirmhbs",
+      "id": "20250330_92meudueog1bthjp32gvi274cc",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
       "region": "Ethiopia",
-      "date": "2025-03-31"
+      "date": "2025-03-30"
     },
     {
       "id": "20250418_u7us5jt0ack393os8kigvmkfv8",
@@ -18293,6 +18293,13 @@
       "summary": "The Prophet's Birthday (tentative)",
       "region": "Ethiopia",
       "date": "2025-09-05"
+    },
+    {
+      "id": "20250911_0qka372uah8e6poq22l8k2f3pg",
+      "status": "confirmed",
+      "summary": "Ethiopian New Year",
+      "region": "Ethiopia",
+      "date": "2025-09-11"
     },
     {
       "id": "20250927_ig71g7846mr0mm0l5cf0333e48",
@@ -18377,6 +18384,13 @@
       "summary": "The Prophet's Birthday (tentative)",
       "region": "Ethiopia",
       "date": "2026-08-26"
+    },
+    {
+      "id": "20260911_l954e3fubl8jbdaiie2ietaee0",
+      "status": "confirmed",
+      "summary": "Ethiopian New Year",
+      "region": "Ethiopia",
+      "date": "2026-09-11"
     },
     {
       "id": "20260927_ftgkeic2bdbbvngndt3p0bup7g",
@@ -19744,11 +19758,11 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250331_atc6ahv9d9farii1jvr1k5uprs",
+      "id": "20250330_h4lj7g5vhniiipkegie94oga5c",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
       "region": "Gabon",
-      "date": "2025-03-31"
+      "date": "2025-03-30"
     },
     {
       "id": "20250417_a5lhasrhj490eh431q8561vqms",
@@ -21618,16 +21632,16 @@
       "date": "2025-03-06"
     },
     {
-      "id": "20250331_7kkpqmi93vkii2t19r9ab6ulc8",
+      "id": "20250331_1fbv6cmevfq4ko18lc94ccpg50",
       "status": "confirmed",
-      "summary": "Eid ul-Fitr (tentative)",
+      "summary": "Eid ul-Fitr",
       "region": "Ghana",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_dpmu8p0lh3geukoelu7ngpd1ao",
+      "id": "20250401_pbbedidll36nv09st20qrqp1ks",
       "status": "confirmed",
-      "summary": "Eid ul-Fitr Holiday (tentative)",
+      "summary": "Eid ul-Fitr Holiday",
       "region": "Ghana",
       "date": "2025-04-01"
     },
@@ -22648,9 +22662,16 @@
       "date": "2025-03-27"
     },
     {
-      "id": "20250331_1s6urm4av55a0oo9hoqign037k",
+      "id": "20250330_k4kjl884rk65t2lelm0q49kn9k",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
+      "region": "Guinea",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_tf5t76ji9vv5333lrjo3571dl0",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Guinea",
       "date": "2025-03-31"
     },
@@ -24053,9 +24074,16 @@
       "date": "2025-03-08"
     },
     {
-      "id": "20250331_bkhivlo5mafdfq6rncv1rngchc",
+      "id": "20250330_bponqnamiqucgfc9jknufts0uk",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
+      "region": "Guinea-Bissau",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_fjded2mh9tv7m9a7fr9d5jea2c",
+      "status": "confirmed",
+      "summary": "Eid al-Fitr",
       "region": "Guinea-Bissau",
       "date": "2025-03-31"
     },
@@ -29747,9 +29775,9 @@
       "date": "2025-03-01"
     },
     {
-      "id": "20250331_bmrsht6c50qi59jts9riuofpj0",
+      "id": "20250331_90imsmbmue75vc6b1u5pt9ccfo",
       "status": "confirmed",
-      "summary": "Idd ul-Fitr (tentative)",
+      "summary": "Idd ul-Fitr",
       "region": "Kenya",
       "date": "2025-03-31"
     },
@@ -32767,18 +32795,18 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250331_73idj4182u0urr7lv5fbu12sus",
+      "id": "20250330_u70d1l4iplbjnjlnso52q8vfbc",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
       "region": "Lebanon",
-      "date": "2025-03-31"
+      "date": "2025-03-30"
     },
     {
-      "id": "20250401_kcvr729mnq4dn9u2m1odl29mp8",
+      "id": "20250331_bqepbf37i4ass9nacq105ng7co",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday (tentative)",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Lebanon",
-      "date": "2025-04-01"
+      "date": "2025-03-31"
     },
     {
       "id": "20250418_27mi7umekiu9b6p3agcmnk4nnc",
@@ -34112,9 +34140,9 @@
       "date": "2025-03-13"
     },
     {
-      "id": "20250331_v95vv19mmjm3968k1e900vvat0",
+      "id": "20250331_ve9g0a7asr4oaksdsofq419d84",
       "status": "confirmed",
-      "summary": "Eid al-Fitr",
+      "summary": "Eid al-Fitr (tentative)",
       "region": "Sri Lanka",
       "date": "2025-03-31"
     },
@@ -35151,16 +35179,16 @@
       "date": "2025-03-02"
     },
     {
-      "id": "20250331_e166hempgj7qlhftnvuagr2494",
+      "id": "20250331_vcprt4ghpv23ucrf92fm1a5is8",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
       "region": "Morocco",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_uj50rfes02bq9tstmhc1iif0hs",
+      "id": "20250401_8t2qnl0s0g3v6q1l5osj6205ok",
       "status": "confirmed",
-      "summary": "Eid al-Fitr Holiday (tentative)",
+      "summary": "Eid al-Fitr Holiday",
       "region": "Morocco",
       "date": "2025-04-01"
     },
@@ -45683,9 +45711,16 @@
       "date": "2025-03-02"
     },
     {
-      "id": "20250401_hd17jj7bq0js0dvg0ct98ihtvc",
+      "id": "20250331_pd4ajlaqmue0v1tt5ph127u9mo",
       "status": "confirmed",
       "summary": "Eidul-Fitar",
+      "region": "Philippines",
+      "date": "2025-03-31"
+    },
+    {
+      "id": "20250401_hm0r8s6an9e2rj5an60qrp9dgk",
+      "status": "confirmed",
+      "summary": "Eidul-Fitar Holiday",
       "region": "Philippines",
       "date": "2025-04-01"
     },
@@ -49447,9 +49482,16 @@
       "date": "2025-02-03"
     },
     {
-      "id": "20250331_n6ced3vb81428t48nt841q3ioc",
+      "id": "20250330_hl9ov889bi2fvdjbbec7f3g5n8",
       "status": "confirmed",
-      "summary": "Eid al-Fitr (tentative)",
+      "summary": "Eid al-Fitr",
+      "region": "Rwanda",
+      "date": "2025-03-30"
+    },
+    {
+      "id": "20250331_9vtufjp05eucs24f2jha8ouvas",
+      "status": "confirmed",
+      "summary": "Day off for Eid al-Fitr",
       "region": "Rwanda",
       "date": "2025-03-31"
     },
@@ -57466,9 +57508,9 @@
       "date": "2025-03-05"
     },
     {
-      "id": "20250331_5i168h8sef8mdfr6dani9nhric",
+      "id": "20250331_pknpjk37k2gopn8t1hqb9p31mo",
       "status": "confirmed",
-      "summary": "Eid ul Fitr (tentative)",
+      "summary": "Eid ul Fitr",
       "region": "Timor-Leste",
       "date": "2025-03-31"
     },
@@ -59573,16 +59615,16 @@
       "date": "2025-03-02"
     },
     {
-      "id": "20250331_k4ursmo95kn45iraat06gaun7c",
+      "id": "20250331_o5f6i9esidqpmsq5mu1h0fo6q8",
       "status": "confirmed",
-      "summary": "Eid el Fitri (tentative)",
+      "summary": "Eid el Fitri",
       "region": "Tanzania",
       "date": "2025-03-31"
     },
     {
-      "id": "20250401_5gkh0djj8vg43n83vigiq996es",
+      "id": "20250401_891eiaif6d700n8fri1kj1pd6s",
       "status": "confirmed",
-      "summary": "Eid el Fitri Holiday (tentative)",
+      "summary": "Eid el Fitri Holiday",
       "region": "Tanzania",
       "date": "2025-04-01"
     },
