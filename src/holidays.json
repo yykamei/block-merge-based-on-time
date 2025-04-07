@@ -34664,7 +34664,7 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250418_vmpvh5hrp1d4s1r1pitsosa1pg",
+      "id": "20250418_p6st8ihuutsjjutdsji4fssoo8",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Luxembourg",
@@ -34790,7 +34790,7 @@
       "date": "2026-01-01"
     },
     {
-      "id": "20260403_hp9djqvmfgvnaut7dkt69alsec",
+      "id": "20260403_hdd7vo44psgv0tqch8m2u9q40s",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Luxembourg",
@@ -43898,6 +43898,13 @@
       "date": "2025-03-31"
     },
     {
+      "id": "20250406_2h48922vomq2m6na6s4akmse1o",
+      "status": "confirmed",
+      "summary": "Ram Nawami",
+      "region": "Nepal",
+      "date": "2025-04-06"
+    },
+    {
       "id": "20250414_skg4r43v5kj6ojdsrvu0opbqb4",
       "status": "confirmed",
       "summary": "Nepali New Year",
@@ -45711,7 +45718,7 @@
       "date": "2025-03-02"
     },
     {
-      "id": "20250331_pd4ajlaqmue0v1tt5ph127u9mo",
+      "id": "20250331_jgpae4uooaqdu7lh2mid2knm58",
       "status": "confirmed",
       "summary": "Eidul-Fitar",
       "region": "Philippines",
@@ -53677,32 +53684,18 @@
       "date": "2026-10-25"
     },
     {
-      "id": "20261101_qe44eqba9m9r6tp39ratisgstk",
+      "id": "20261101_a2g69835o99s4974pg361e0e6k",
       "status": "confirmed",
       "summary": "All Saints' Day",
       "region": "Spain",
       "date": "2026-11-01"
     },
     {
-      "id": "20261102_l89981qf8paktah3ggckos8qds",
-      "status": "confirmed",
-      "summary": "Day off for All Saints' Day",
-      "region": "Spain",
-      "date": "2026-11-02"
-    },
-    {
-      "id": "20261206_r1a4v9ssgk778k2k8a31b7f7rg",
+      "id": "20261206_po8hsm4bj6am5hsld4k0jh5jjg",
       "status": "confirmed",
       "summary": "Constitution Day",
       "region": "Spain",
       "date": "2026-12-06"
-    },
-    {
-      "id": "20261207_s8plqnsgvi2h4uhn8havmgv44o",
-      "status": "confirmed",
-      "summary": "Day off for Constitution Day",
-      "region": "Spain",
-      "date": "2026-12-07"
     },
     {
       "id": "20261208_p3jctphv2s1pdu6m17g7gujdtc",
