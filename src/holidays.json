@@ -15030,9 +15030,9 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250422_3dfmvj8vsag124jcdc0s2fvtug",
+      "id": "20250422_788sledolc8pbsdase11poaob8",
       "status": "confirmed",
-      "summary": "Orthodox Easter Tuesday (banks only)",
+      "summary": "Easter Tuesday (Orthodox)",
       "region": "Cyprus",
       "date": "2025-04-22"
     },
@@ -15177,9 +15177,9 @@
       "date": "2026-04-13"
     },
     {
-      "id": "20260414_mdne8tkq1f4c4aunva947c9v9o",
+      "id": "20260414_96doujljo21a183pnl75t69f6k",
       "status": "confirmed",
-      "summary": "Orthodox Easter Tuesday (banks only)",
+      "summary": "Easter Tuesday (Orthodox)",
       "region": "Cyprus",
       "date": "2026-04-14"
     },
@@ -57527,6 +57527,13 @@
       "summary": "Chinese New Year",
       "region": "Timor-Leste",
       "date": "2025-01-29"
+    },
+    {
+      "id": "20250301_rs0qic4f4shu3iri0jnuq31t64",
+      "status": "confirmed",
+      "summary": "Ramadan Start",
+      "region": "Timor-Leste",
+      "date": "2025-03-01"
     },
     {
       "id": "20250303_vlp2npnc77303m86pegnah459s",
