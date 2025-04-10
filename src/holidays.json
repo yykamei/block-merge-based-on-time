@@ -5502,7 +5502,7 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250418_567u960cltktdn1mv2nk17s8g0",
+      "id": "20250418_puc15h0kpsrjdocu9s15lkmo8c",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Belgium",
@@ -5544,7 +5544,7 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250530_6uqvt45vejs2rmi24e6g012350",
+      "id": "20250530_fqu8ij7dkc9lhtftuptnphdd6c",
       "status": "confirmed",
       "summary": "Day after Ascension Day",
       "region": "Belgium",
@@ -5635,7 +5635,7 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251226_3qr1bfmhkk1g68ss4laq0oq2p4",
+      "id": "20251226_jrhteemhsjgq21hro702ci8tj0",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Belgium",
@@ -5677,7 +5677,7 @@
       "date": "2026-03-29"
     },
     {
-      "id": "20260403_vqn09be9ebpl5fsos42ildvaqk",
+      "id": "20260403_59dcod4mtepibe99crcbd73g00",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Belgium",
@@ -5719,7 +5719,7 @@
       "date": "2026-05-14"
     },
     {
-      "id": "20260515_o055eetn3s7v2jr2fm073rnj28",
+      "id": "20260515_qlh3m7jc1tfetjcppm4ko7e0m4",
       "status": "confirmed",
       "summary": "Day after Ascension Day",
       "region": "Belgium",
@@ -5810,7 +5810,7 @@
       "date": "2026-12-25"
     },
     {
-      "id": "20261226_eodke3l3kn2lteljn37kva0eqg",
+      "id": "20261226_f6f3eafh6tclr4cdrk2l4oejc8",
       "status": "confirmed",
       "summary": "Boxing Day",
       "region": "Belgium",
@@ -26971,11 +26971,39 @@
       "date": "2025-03-19"
     },
     {
+      "id": "20250320_764c0ihhq5djp282snr860cc4c",
+      "status": "confirmed",
+      "summary": "Norooz (Persian New Year)",
+      "region": "Iran",
+      "date": "2025-03-20"
+    },
+    {
       "id": "20250321_4986rvdl5d89mivjcqa37iq8ns",
       "status": "confirmed",
       "summary": "Martyrdom of Imam Ali (tentative)",
       "region": "Iran",
       "date": "2025-03-21"
+    },
+    {
+      "id": "20250321_v7pbjjsj8k8t4iv619gqj0uhvc",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2025-03-21"
+    },
+    {
+      "id": "20250322_2kpsil7980l791tg7b2n99giu4",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2025-03-22"
+    },
+    {
+      "id": "20250323_bimmsqupupgavkkkq5rhp3r9bk",
+      "status": "confirmed",
+      "summary": "Norooz Holiday",
+      "region": "Iran",
+      "date": "2025-03-23"
     },
     {
       "id": "20250331_nbn88oo76avo4f8n4lompi507s",
@@ -41330,11 +41358,11 @@
       "date": "2025-07-27"
     },
     {
-      "id": "20250825_rmmthlk8p2u1c5513d6d47r57o",
+      "id": "20250824_pf15mnd6j7jlc8hv39e33qsdq4",
       "status": "confirmed",
-      "summary": "National Day (tentative)",
+      "summary": "National Day",
       "region": "Maldives",
-      "date": "2025-08-25"
+      "date": "2025-08-24"
     },
     {
       "id": "20250905_4t5sg3o457apbpr94a693dtcs4",
@@ -41344,9 +41372,9 @@
       "date": "2025-09-05"
     },
     {
-      "id": "20250924_mupo25ob2ara0gep81q757kmgs",
+      "id": "20250924_3nvbgki0jvrc5mmprueg8tgf2k",
       "status": "confirmed",
-      "summary": "The Day Maldives Embraced Islam (tentative)",
+      "summary": "The Day Maldives Embraced Islam",
       "region": "Maldives",
       "date": "2025-09-24"
     },
@@ -52987,6 +53015,13 @@
       "summary": "Teacher's Day",
       "region": "South Korea",
       "date": "2025-05-15"
+    },
+    {
+      "id": "20250603_n7u232or28jro9dlc8ph5pr2eo",
+      "status": "confirmed",
+      "summary": "Presidential Election",
+      "region": "South Korea",
+      "date": "2025-06-03"
     },
     {
       "id": "20250606_3auua4la68rnt6g81brvv0ce0s",
