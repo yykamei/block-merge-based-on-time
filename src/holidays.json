@@ -24442,6 +24442,20 @@
       "date": "2025-04-14"
     },
     {
+      "id": "20250415_3t35jsr95qsvqvfl7a39rqvp8c",
+      "status": "confirmed",
+      "summary": "Easter Week Holiday",
+      "region": "Honduras",
+      "date": "2025-04-15"
+    },
+    {
+      "id": "20250416_u91oivd6kltbag18v8mlgiu1cc",
+      "status": "confirmed",
+      "summary": "Easter Week Holiday",
+      "region": "Honduras",
+      "date": "2025-04-16"
+    },
+    {
       "id": "20250417_b870vk8vr9odcf5ehphq135uro",
       "status": "confirmed",
       "summary": "Maundy Thursday",
@@ -45054,6 +45068,13 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250502_jamp4u42m09ta2s4jk29pidunk",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2025-05-02"
+    },
+    {
       "id": "20250511_3mdfrskdld5fv235lbotc453j4",
       "status": "confirmed",
       "summary": "Mothers' Day",
@@ -45194,6 +45215,13 @@
       "date": "2025-12-25"
     },
     {
+      "id": "20251226_k41gev5h784fpnptnf16olv2bg",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2025-12-26"
+    },
+    {
       "id": "20251231_09ut9ggpsd9u1p5jql0n8vrdkg",
       "status": "confirmed",
       "summary": "New Year's Eve",
@@ -45206,6 +45234,13 @@
       "summary": "New Year's Day",
       "region": "Peru",
       "date": "2026-01-01"
+    },
+    {
+      "id": "20260102_7qec6r0t1p47v4qg4shn35u5sc",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Peru",
+      "date": "2026-01-02"
     },
     {
       "id": "20260106_e25jv7h2oedkjqsklc6sbk3h2k",
