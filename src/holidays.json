@@ -3747,9 +3747,9 @@
       "date": "2025-12-08"
     },
     {
-      "id": "20251224_nojtsjksia1a3v0ogj5ns5aqc4",
+      "id": "20251224_r6daj9psfvlbgmarc0n3fbvbhg",
       "status": "confirmed",
-      "summary": "Christmas Eve (half-day)",
+      "summary": "Christmas Eve",
       "region": "Austria",
       "date": "2025-12-24"
     },
@@ -3936,9 +3936,9 @@
       "date": "2026-12-08"
     },
     {
-      "id": "20261224_0tglrkrg664pnq6cc54ujinn98",
+      "id": "20261224_8l69mk26scqkdoevug8ni1l0j4",
       "status": "confirmed",
-      "summary": "Christmas Eve (half-day)",
+      "summary": "Christmas Eve",
       "region": "Austria",
       "date": "2026-12-24"
     },
@@ -16985,7 +16985,7 @@
       "date": "2025-03-04"
     },
     {
-      "id": "20250417_f16282nn0f7bpodc15im0vt7s8",
+      "id": "20250417_nnlt32hsnrpcd9khippubp3cs8",
       "status": "confirmed",
       "summary": "Maundy Thursday",
       "region": "Ecuador",
@@ -17666,6 +17666,13 @@
       "summary": "Spring Festival",
       "region": "Egypt",
       "date": "2025-04-21"
+    },
+    {
+      "id": "20250424_r8gkhjeei3277fff34igdgvns8",
+      "status": "confirmed",
+      "summary": "Day off for Sinai Liberation Day",
+      "region": "Egypt",
+      "date": "2025-04-24"
     },
     {
       "id": "20250425_sqnduujgte8vd7lr1sk4gpb5b8",
@@ -19763,6 +19770,20 @@
       "summary": "Eid al-Fitr",
       "region": "Gabon",
       "date": "2025-03-30"
+    },
+    {
+      "id": "20250411_pk02odd7o8c2t9126uo2kkmm88",
+      "status": "confirmed",
+      "summary": "Election Day Holiday",
+      "region": "Gabon",
+      "date": "2025-04-11"
+    },
+    {
+      "id": "20250412_vo0kskk8e8vhbbq6u1m04m2vqo",
+      "status": "confirmed",
+      "summary": "Election Day Holiday",
+      "region": "Gabon",
+      "date": "2025-04-12"
     },
     {
       "id": "20250417_a5lhasrhj490eh431q8561vqms",
