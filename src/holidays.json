@@ -24887,7 +24887,7 @@
     {
       "id": "20251231_bn6c6v5a5pnleb6l3aot9at6to",
       "status": "confirmed",
-      "summary": "New Year’s Eve",
+      "summary": "New Year��s Eve",
       "region": "Hong Kong",
       "date": "2025-12-31"
     },
@@ -28183,13 +28183,6 @@
       "date": "2025-01-02"
     },
     {
-      "id": "20250103_h39es4uloucpm8hah7jhjkiujk",
-      "status": "confirmed",
-      "summary": "January 3 Bank Holiday",
-      "region": "Japan",
-      "date": "2025-01-03"
-    },
-    {
       "id": "20250113_67dnilmto2drphpu1e2e0jiqv8",
       "status": "confirmed",
       "summary": "Coming of Age Day",
@@ -28316,13 +28309,6 @@
       "date": "2025-11-24"
     },
     {
-      "id": "20251231_smhsik8ab5n7mc9inam13e5g4k",
-      "status": "confirmed",
-      "summary": "December 31 Bank Holiday",
-      "region": "Japan",
-      "date": "2025-12-31"
-    },
-    {
       "id": "20260101_1jctp65lq2mcgbqnb17j41jd9g",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -28335,13 +28321,6 @@
       "summary": "January 2 Bank Holiday",
       "region": "Japan",
       "date": "2026-01-02"
-    },
-    {
-      "id": "20260103_7vlovva7ie9a5dk91ukdv9oca8",
-      "status": "confirmed",
-      "summary": "January 3 Bank Holiday",
-      "region": "Japan",
-      "date": "2026-01-03"
     },
     {
       "id": "20260112_f9rgn1ft2ia6ct5582huf7pcj4",
@@ -28461,13 +28440,6 @@
       "summary": "Labor Thanksgiving Day",
       "region": "Japan",
       "date": "2026-11-23"
-    },
-    {
-      "id": "20261231_segmelqs4cejf6npleb2bunksk",
-      "status": "confirmed",
-      "summary": "December 31 Bank Holiday",
-      "region": "Japan",
-      "date": "2026-12-31"
     }
   ],
   "Jersey": [
@@ -30719,6 +30691,13 @@
       "date": "2025-03-08"
     },
     {
+      "id": "20250407_r7h5r77arvfa5n91faob45j4es",
+      "status": "confirmed",
+      "summary": "National Health Day",
+      "region": "Kiribati",
+      "date": "2025-04-07"
+    },
+    {
       "id": "20250418_c0al9bfcvhanup63etl2nultb8",
       "status": "confirmed",
       "summary": "Good Friday",
@@ -30761,9 +30740,9 @@
       "date": "2025-07-10"
     },
     {
-      "id": "20250711_gv7ocp6mtqkh1kfpclke4o7h14",
+      "id": "20250711_arpm86mp62qcc6vvedjmiue6bo",
       "status": "confirmed",
-      "summary": "Independence Day Holiday",
+      "summary": "National Culture and Senior Citizen Day",
       "region": "Kiribati",
       "date": "2025-07-11"
     },
@@ -30775,25 +30754,18 @@
       "date": "2025-07-12"
     },
     {
+      "id": "20250714_hv2q2f47tfk0lcf4e92n7aknf0",
+      "status": "confirmed",
+      "summary": "Independence Day Holiday",
+      "region": "Kiribati",
+      "date": "2025-07-14"
+    },
+    {
       "id": "20250715_bblkn1kjbvt5mlic6ovl56p6ac",
       "status": "confirmed",
       "summary": "Kiribati Special Day",
       "region": "Kiribati",
       "date": "2025-07-15"
-    },
-    {
-      "id": "20250715_hemsqlu8e2r5hcqv18132253p4",
-      "status": "confirmed",
-      "summary": "Unimwane Day",
-      "region": "Kiribati",
-      "date": "2025-07-15"
-    },
-    {
-      "id": "20250716_uojgtckgb2ek0r66vh60o0qmbo",
-      "status": "confirmed",
-      "summary": "Unaine Day",
-      "region": "Kiribati",
-      "date": "2025-07-16"
     },
     {
       "id": "20250801_rvvnbol68gj741t99naao8kt54",
@@ -30866,32 +30838,11 @@
       "date": "2026-05-01"
     },
     {
-      "id": "20260711_vesm3oae8i9njvcpvr35sb3cbk",
-      "status": "confirmed",
-      "summary": "Independence Day Holiday",
-      "region": "Kiribati",
-      "date": "2026-07-11"
-    },
-    {
       "id": "20260712_14mi59ag15nbo6mn7t929ul9sc",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "Kiribati",
       "date": "2026-07-12"
-    },
-    {
-      "id": "20260715_8u69obo7di9mfd31vk389c60rk",
-      "status": "confirmed",
-      "summary": "Unimwane Day",
-      "region": "Kiribati",
-      "date": "2026-07-15"
-    },
-    {
-      "id": "20260716_j7re8kcr1resn6hl8n691le5qc",
-      "status": "confirmed",
-      "summary": "Unaine Day",
-      "region": "Kiribati",
-      "date": "2026-07-16"
     },
     {
       "id": "20260803_n1kjq0oh21foar9km3tafm9k8c",
@@ -53579,9 +53530,9 @@
       "date": "2025-10-26"
     },
     {
-      "id": "20251101_4v2gq2qk4npo6opc87hn2pacnk",
+      "id": "20251101_30b2470cfs17il1cai20cv9rfo",
       "status": "confirmed",
-      "summary": "All Saints' Day",
+      "summary": "All Saint's Day",
       "region": "Spain",
       "date": "2025-11-01"
     },
@@ -53817,9 +53768,9 @@
       "date": "2026-10-25"
     },
     {
-      "id": "20261101_a2g69835o99s4974pg361e0e6k",
+      "id": "20261101_t8s0eot4ksupnc7e25oj9b7krs",
       "status": "confirmed",
-      "summary": "All Saints' Day",
+      "summary": "All Saint's Day",
       "region": "Spain",
       "date": "2026-11-01"
     },
