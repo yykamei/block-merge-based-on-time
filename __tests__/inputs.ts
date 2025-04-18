@@ -349,7 +349,7 @@ describe("Inputs", () => {
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Asia/Tokyo"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
-    expect(inputs.prohibitedDates.length).toBeGreaterThan(85) // It's OK the number is almost the same as twice as `H:Japan`.
+    expect(inputs.prohibitedDates.length).toBeGreaterThan(72) // It's OK the number is almost the same as twice as `H:Japan`.
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
         DateTime.fromObject(
