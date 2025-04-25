@@ -51134,6 +51134,13 @@
       "date": "2025-05-01"
     },
     {
+      "id": "20250503_3rhjdquusjmfoptdq7jkgtrqrc",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Singapore",
+      "date": "2025-05-03"
+    },
+    {
       "id": "20250511_4f5hliun2o74i5l0cf73116nb0",
       "status": "confirmed",
       "summary": "Mother's Day",
@@ -53521,13 +53528,6 @@
       "summary": "Hispanic Day",
       "region": "Spain",
       "date": "2025-10-12"
-    },
-    {
-      "id": "20251013_382i6ni5j7nm5e4t7vq56keg8k",
-      "status": "confirmed",
-      "summary": "Hispanic Day observed (regional holiday)",
-      "region": "Spain",
-      "date": "2025-10-13"
     },
     {
       "id": "20251026_5g675skh96ht8fc3j5k4lus4l8",
