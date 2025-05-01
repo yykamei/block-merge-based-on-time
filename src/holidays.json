@@ -12331,13 +12331,6 @@
       "date": "2025-04-25"
     },
     {
-      "id": "20250430_jb6h0vh8cqprffpua7ejgep6ek",
-      "status": "confirmed",
-      "summary": "General Election Day",
-      "region": "Cook Islands",
-      "date": "2025-04-30"
-    },
-    {
       "id": "20250602_08fho1cf317ovvmqai11fb00qc",
       "status": "confirmed",
       "summary": "Sovereign's Birthday",
@@ -31758,9 +31751,9 @@
       "date": "2025-04-21"
     },
     {
-      "id": "20250430_etoi1p29o9c8m60c8aubj6evgs",
+      "id": "20250430_a9c0jq5sfr9t8s9e23u4edd13g",
       "status": "confirmed",
-      "summary": "General Election Day (tentative)",
+      "summary": "General Election Day",
       "region": "Cayman Islands",
       "date": "2025-04-30"
     },
@@ -43304,6 +43297,13 @@
       "summary": "Labor Day / May Day",
       "region": "Nicaragua",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250502_9objiddmi1r1uc06jcibg5he68",
+      "status": "confirmed",
+      "summary": "Public Sector Holiday",
+      "region": "Nicaragua",
+      "date": "2025-05-02"
     },
     {
       "id": "20250530_imed7erdlofbf5kq7tbrh398d0",
