@@ -46161,6 +46161,13 @@
   ],
   "Pakistan": [
     {
+      "id": "20250101_3en1rrtk01c06b5j1l07h676hs",
+      "status": "confirmed",
+      "summary": "January 1 Bank Holiday",
+      "region": "Pakistan",
+      "date": "2025-01-01"
+    },
+    {
       "id": "20250101_5v1vuka7dvvvqnkt78fndu5hfc",
       "status": "confirmed",
       "summary": "New Year's Day",
@@ -46201,6 +46208,13 @@
       "summary": "Shivaratri",
       "region": "Pakistan",
       "date": "2025-02-26"
+    },
+    {
+      "id": "20250302_q2bsjragdl8nelb2cu495j5nrg",
+      "status": "confirmed",
+      "summary": "Ramadan Bank Holiday",
+      "region": "Pakistan",
+      "date": "2025-03-02"
     },
     {
       "id": "20250302_r1q6juuvpfku2u1ksvg6piera0",
