@@ -2747,18 +2747,18 @@
       "date": "2025-10-19"
     },
     {
-      "id": "20251117_3r78onn47rd4ftnnp9k8cco6gk",
-      "status": "confirmed",
-      "summary": "National Sovereignty Day",
-      "region": "Argentina",
-      "date": "2025-11-17"
-    },
-    {
       "id": "20251121_k3c0oin4te1kmn49ckl11fe0os",
       "status": "confirmed",
       "summary": "Tourist Bridge Holiday",
       "region": "Argentina",
       "date": "2025-11-21"
+    },
+    {
+      "id": "20251124_7islack13ik1vvq082drnrv8ek",
+      "status": "confirmed",
+      "summary": "National Sovereignty Day",
+      "region": "Argentina",
+      "date": "2025-11-24"
     },
     {
       "id": "20251208_fm2q3b1jp1lb6voih2e7u599ss",
@@ -45863,6 +45863,13 @@
       "summary": "Labor Day",
       "region": "Philippines",
       "date": "2025-05-01"
+    },
+    {
+      "id": "20250512_6rgvmah2ql1eepn8vjo6ofmj58",
+      "status": "confirmed",
+      "summary": "National and Local Election Holiday",
+      "region": "Philippines",
+      "date": "2025-05-12"
     },
     {
       "id": "20250607_04voj7fjjtn5r2n91lkbe15l24",
