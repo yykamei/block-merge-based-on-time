@@ -9937,13 +9937,6 @@
       "date": "2025-02-14"
     },
     {
-      "id": "20250221_87hf52kt9bvcickeimmjgt5b0k",
-      "status": "confirmed",
-      "summary": "Yukon Heritage Day (Yukon)",
-      "region": "Canada",
-      "date": "2025-02-21"
-    },
-    {
       "id": "20250309_kfo67k2qjqi7qmj0k1jtbuqmek",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
@@ -10038,13 +10031,6 @@
       "id": "20250804_46ngla2h42gee0hsvf6nodh694",
       "status": "confirmed",
       "summary": "Heritage Day (Alberta)",
-      "region": "Canada",
-      "date": "2025-08-04"
-    },
-    {
-      "id": "20250804_9j9ie9t013v592qmnr9kij5uj8",
-      "status": "confirmed",
-      "summary": "New Brunswick Day (New Brunswick)",
       "region": "Canada",
       "date": "2025-08-04"
     },
@@ -10161,13 +10147,6 @@
       "date": "2026-02-14"
     },
     {
-      "id": "20260220_33t156munv3i50bsjqo7uf62gk",
-      "status": "confirmed",
-      "summary": "Yukon Heritage Day (Yukon)",
-      "region": "Canada",
-      "date": "2026-02-20"
-    },
-    {
       "id": "20260308_hvobfou9ed5j7j3qig0a1frk2g",
       "status": "confirmed",
       "summary": "Daylight Saving Time starts",
@@ -10269,13 +10248,6 @@
       "id": "20260803_4avvj83u1h0dbfla23ma0biaj0",
       "status": "confirmed",
       "summary": "Heritage Day (Alberta)",
-      "region": "Canada",
-      "date": "2026-08-03"
-    },
-    {
-      "id": "20260803_bj6mjkuj694qbjafhg1ij458eo",
-      "status": "confirmed",
-      "summary": "New Brunswick Day (New Brunswick)",
       "region": "Canada",
       "date": "2026-08-03"
     },
