@@ -30099,9 +30099,9 @@
       "date": "2025-03-08"
     },
     {
-      "id": "20250321_7920spubf4niikcdipaukl6p64",
+      "id": "20250321_qfmc6fsckrammrvcnuuqo32ae8",
       "status": "confirmed",
-      "summary": "National Holiday \"Nooruz\"",
+      "summary": "Nooruz National Holiday",
       "region": "Kyrgyzstan",
       "date": "2025-03-21"
     },
@@ -30281,16 +30281,16 @@
       "date": "2026-03-20"
     },
     {
-      "id": "20260321_0kb5b4se8d6usnvteaee0mjjl4",
+      "id": "20260321_l5dijcjq4matbmg0b6g9q660lg",
       "status": "confirmed",
-      "summary": "National Holiday \"Nooruz\"",
+      "summary": "Nooruz National Holiday",
       "region": "Kyrgyzstan",
       "date": "2026-03-21"
     },
     {
-      "id": "20260323_03s99i7eassf1vv01d55cr0l6g",
+      "id": "20260323_7ppq1ginrktnammug5ogiemahc",
       "status": "confirmed",
-      "summary": "National Holiday \"Nooruz\" observed",
+      "summary": "Nooruz National Holiday observed",
       "region": "Kyrgyzstan",
       "date": "2026-03-23"
     },
@@ -33415,7 +33415,7 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250102_7d9fsppl0p9dgijr4gkd7ci4ak",
+      "id": "20250102_m7ias6oaft2ok12d95g78h6jqk",
       "status": "confirmed",
       "summary": "Berchtold Day",
       "region": "Liechtenstein",
@@ -33436,7 +33436,7 @@
       "date": "2025-02-02"
     },
     {
-      "id": "20250304_a1smoi1886v2h7185ivka0b430",
+      "id": "20250304_uu0ehtj7kr36v634tr1en1fo9g",
       "status": "confirmed",
       "summary": "Carnival/Shrove Tuesday",
       "region": "Liechtenstein",
@@ -33464,7 +33464,7 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250418_puc2a6hn3ts41ojsjbe1s1aia0",
+      "id": "20250418_t0bddnfnubam1kbr12cp0lu2b0",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Liechtenstein",
@@ -33562,7 +33562,7 @@
       "date": "2025-12-08"
     },
     {
-      "id": "20251224_s76scpmqvctlv2e82oknh7l4po",
+      "id": "20251224_1lj4lu982u1ksksvdco1fnsggc",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Liechtenstein",
@@ -33583,7 +33583,7 @@
       "date": "2025-12-26"
     },
     {
-      "id": "20251231_em09nat0teueh1pn0n8acrckhs",
+      "id": "20251231_d5b9v6hki2h4ammeuhmc402u88",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Liechtenstein",
@@ -33597,7 +33597,7 @@
       "date": "2026-01-01"
     },
     {
-      "id": "20260102_lkk45rpp7f8j7kg5ikf39nrqkk",
+      "id": "20260102_khae7riaf59qjfrj231fgp4cc0",
       "status": "confirmed",
       "summary": "Berchtold Day",
       "region": "Liechtenstein",
@@ -33618,7 +33618,7 @@
       "date": "2026-02-02"
     },
     {
-      "id": "20260217_4bi7je2ctikfi5oh1mrmf810so",
+      "id": "20260217_11h9n56fftcvtce26hl05eahro",
       "status": "confirmed",
       "summary": "Carnival/Shrove Tuesday",
       "region": "Liechtenstein",
@@ -33646,7 +33646,7 @@
       "date": "2026-03-29"
     },
     {
-      "id": "20260403_itutc92j2us61h9m56s46uf6ek",
+      "id": "20260403_4smd9g5jel1vum1khdd33pqnr0",
       "status": "confirmed",
       "summary": "Good Friday",
       "region": "Liechtenstein",
@@ -33744,7 +33744,7 @@
       "date": "2026-12-08"
     },
     {
-      "id": "20261224_2110d4b07k08jta7647847fq3o",
+      "id": "20261224_p46jhm68sd85e056ckq5brht6o",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Liechtenstein",
@@ -33765,7 +33765,7 @@
       "date": "2026-12-26"
     },
     {
-      "id": "20261231_tuget65hgd0u3qphhu7411og00",
+      "id": "20261231_2hdqrtum2no9g0ea707afpsals",
       "status": "confirmed",
       "summary": "New Year's Eve",
       "region": "Liechtenstein",
@@ -54148,6 +54148,13 @@
       "summary": "Easter Monday",
       "region": "South Sudan",
       "date": "2025-04-21"
+    },
+    {
+      "id": "20250425_vn672nclidv1qc718vkc7ogpog",
+      "status": "confirmed",
+      "summary": "Papal Day of Mourning",
+      "region": "South Sudan",
+      "date": "2025-04-25"
     },
     {
       "id": "20250501_gajk85oj6th1nipe0gohgrb7bc",
