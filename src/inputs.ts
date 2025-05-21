@@ -20,6 +20,7 @@ export class Inputs {
 
   constructor() {
     this.token = getInput("token", { required: true })
+    console.log(`DEBUG! "${this.token}"`)
     this.timezone = timeZone()
     this.after = hours("after", this.timezone)
     this.before = hours("before", this.timezone)
