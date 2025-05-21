@@ -40554,6 +40554,7 @@ async function handlePull(inputs) {
 ;// CONCATENATED MODULE: ./src/main.ts
 
 
+(0,core.error)("Start!");
 process.on("unhandledRejection", handleError);
 run().catch(handleError);
 function handleError(err) {
