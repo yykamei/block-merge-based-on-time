@@ -1,4 +1,4 @@
-import { getInput } from "@actions/core"
+import { getInput, notice } from "@actions/core"
 import type { Zone } from "luxon"
 import { DateTime, Interval } from "luxon"
 import holidays from "./holidays.json"
@@ -20,7 +20,7 @@ export class Inputs {
 
   constructor() {
     this.token = getInput("token", { required: true })
-    console.log(`DEBUG! "${this.token}"`)
+    notice(`DEBUG! "${this.token}"`)
     this.timezone = timeZone()
     this.after = hours("after", this.timezone)
     this.before = hours("before", this.timezone)
