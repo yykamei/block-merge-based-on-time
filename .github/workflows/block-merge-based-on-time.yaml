@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
+
 jobs:
   block:
     runs-on: ubuntu-latest
