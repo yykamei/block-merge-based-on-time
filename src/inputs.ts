@@ -109,7 +109,7 @@ function hours(key: "after" | "before", zone: Zone): Hours {
         }
       }
     },
-    { base: dateTime("hh:mm", "00:00", zone) },
+    { base: dateTime("hh:mm", "01:00", zone) },
   )
   return result
 }
