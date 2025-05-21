@@ -40557,7 +40557,12 @@ async function handlePull(inputs) {
 process.on("unhandledRejection", handleError);
 run().catch(handleError);
 function handleError(err) {
-    (0,core.setFailed)(`Unhandled error: ${err}`);
+    if (err instanceof Error) {
+        (0,core.setFailed)(`Unhandled error: ${err.message}\n${err.stack}`);
+    }
+    else {
+        (0,core.setFailed)(`Unhandled error: ${err}`);
+    }
 }
 
 })();
