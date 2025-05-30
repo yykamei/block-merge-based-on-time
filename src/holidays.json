@@ -409,32 +409,39 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250606_786jls27dv5k31enjd9oir8v94",
+      "id": "20250605_aprc51fomp8n1qsdg9etmrftb4",
       "status": "confirmed",
-      "summary": "Arafat (Hajj) Day (tentative)",
+      "summary": "Arafat (Hajj) Day",
+      "region": "United Arab Emirates",
+      "date": "2025-06-05"
+    },
+    {
+      "id": "20250606_89tmen12b3ue0ev263l9r2c0qk",
+      "status": "confirmed",
+      "summary": "Eid al-Adha (Feast of Sacrifice)",
       "region": "United Arab Emirates",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_dv4jgeiqqvj2gorgv05d2dqo80",
+      "id": "20250607_4iiu1r9beamsqst0p13etvqjko",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "United Arab Emirates",
       "date": "2025-06-07"
     },
     {
-      "id": "20250607_l01t426kkk1arbp97egrbpbiu4",
+      "id": "20250608_3fldg3ovvucjgq8r37vo2fgras",
       "status": "confirmed",
-      "summary": "Eid al-Adha (Feast of Sacrifice) (tentative)",
-      "region": "United Arab Emirates",
-      "date": "2025-06-07"
-    },
-    {
-      "id": "20250608_vpbsb3b1tg2aomdvg164n9g3do",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "United Arab Emirates",
       "date": "2025-06-08"
+    },
+    {
+      "id": "20250609_ucea2vl2lvhvl6vhjhrq44sgg0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "United Arab Emirates",
+      "date": "2025-06-09"
     },
     {
       "id": "20250627_guqjvdvk0toik8gg13b8ub05hs",
@@ -656,30 +663,30 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250606_7f0tfsbtuesqmikeknuu0a1qn8",
+      "id": "20250606_ed3r1gm62coveeq3nukl5gb6t8",
       "status": "confirmed",
-      "summary": "Day of Arafat (tentative)",
+      "summary": "Day of Arafat",
       "region": "Afghanistan",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_o95qbaouej8147eppm4j6b261o",
+      "id": "20250607_uemc6n9u29egkbt49f2atm34go",
       "status": "confirmed",
-      "summary": "Eid al-Qurban (tentative)",
+      "summary": "Eid al-Qurban",
       "region": "Afghanistan",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_qsn3mhj0obqp2crkhb1i0dhsl8",
+      "id": "20250608_arh6m3ruti7jlfv52hnm7hdkfs",
       "status": "confirmed",
-      "summary": "Eid al-Qurban Holiday (tentative)",
+      "summary": "Eid al-Qurban Holiday",
       "region": "Afghanistan",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_lb40ttcapa4ic7g6i8p2ndjrps",
+      "id": "20250609_cj9oqvavf2v9kd7ca8ecvg2sg4",
       "status": "confirmed",
-      "summary": "Eid al-Qurban Holiday (tentative)",
+      "summary": "Eid al-Qurban Holiday",
       "region": "Afghanistan",
       "date": "2025-06-09"
     },
@@ -16773,25 +16780,18 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250607_67ais5ddiv93hn50ste72c9hrs",
+      "id": "20250606_8aqk2tpbtgm5afcprjumss2790",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
+      "region": "Algeria",
+      "date": "2025-06-06"
+    },
+    {
+      "id": "20250607_k83fu1gbnpbsncnvknrjlar280",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Algeria",
       "date": "2025-06-07"
-    },
-    {
-      "id": "20250608_822v1d1605i2adjsvl8s0sj09g",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
-      "region": "Algeria",
-      "date": "2025-06-08"
-    },
-    {
-      "id": "20250609_ka1qqku7m7ih6v07jne6lfd9ag",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
-      "region": "Algeria",
-      "date": "2025-06-09"
     },
     {
       "id": "20250627_j0atik0gs4kk89ambpnh9s50f0",
@@ -16890,13 +16890,6 @@
       "summary": "Eid al-Adha Holiday (tentative)",
       "region": "Algeria",
       "date": "2026-05-28"
-    },
-    {
-      "id": "20260529_vn08v5r6758ks6hoqgqjqebbck",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
-      "region": "Algeria",
-      "date": "2026-05-29"
     },
     {
       "id": "20260617_juq51fceiurv5ru8rvpfpk42tc",
@@ -17661,30 +17654,37 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250606_i0efl4bc0mg7pa3n1u485vae3c",
+      "id": "20250605_9b6kr2bd7qbpv16g27cgb6d098",
       "status": "confirmed",
-      "summary": "Arafat Day (tentative)",
+      "summary": "Arafat Day",
+      "region": "Egypt",
+      "date": "2025-06-05"
+    },
+    {
+      "id": "20250606_5c834gqkum9f0ja43l5macdfk8",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Egypt",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_4g7opln6mehvb850v5vd13n8r8",
+      "id": "20250607_481bdj3oimdo8j0q26v1081kmo",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_f6lvlrjv4ml53503kvc9c58sqc",
+      "id": "20250608_58enal90eulo6idoucabq2t97k",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_j6djr0j15pv6dlq184ps7am0mo",
+      "id": "20250609_l3anqf5pokvsfsr1h928116lnk",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Egypt",
       "date": "2025-06-09"
     },
@@ -25950,9 +25950,9 @@
       "date": "2025-05-12"
     },
     {
-      "id": "20250607_19e4v4bhmsj2knimk3d4jtscp4",
+      "id": "20250607_rilc0jvd9dbcocv459t2dk9ti8",
       "status": "confirmed",
-      "summary": "Bakrid (tentative)",
+      "summary": "Bakrid",
       "region": "India",
       "date": "2025-06-07"
     },
@@ -26568,9 +26568,9 @@
       "date": "2025-06-01"
     },
     {
-      "id": "20250606_bodajfcnf2dcd8jdh7blgn2q9g",
+      "id": "20250606_8d73ck8tgjbgmqs8uc7rjnij9o",
       "status": "confirmed",
-      "summary": "Idul Adha (tentative)",
+      "summary": "Idul Adha",
       "region": "Indonesia",
       "date": "2025-06-06"
     },
@@ -28162,13 +28162,6 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250102_3v3jes3b683qtkr3cdupgknar0",
-      "status": "confirmed",
-      "summary": "January 2 Bank Holiday",
-      "region": "Japan",
-      "date": "2025-01-02"
-    },
-    {
       "id": "20250113_67dnilmto2drphpu1e2e0jiqv8",
       "status": "confirmed",
       "summary": "Coming of Age Day",
@@ -28300,13 +28293,6 @@
       "summary": "New Year's Day",
       "region": "Japan",
       "date": "2026-01-01"
-    },
-    {
-      "id": "20260102_1282u52dkisqt2ts9h4432jf5g",
-      "status": "confirmed",
-      "summary": "January 2 Bank Holiday",
-      "region": "Japan",
-      "date": "2026-01-02"
     },
     {
       "id": "20260112_f9rgn1ft2ia6ct5582huf7pcj4",
@@ -29556,39 +29542,46 @@
       "date": "2025-05-25"
     },
     {
-      "id": "20250605_i2s9lb0dc8eeuhksuq78goe7nk",
+      "id": "20250605_c148qaf11rcg2ufdriv6l48dg0",
       "status": "confirmed",
-      "summary": "Arafah (tentative)",
+      "summary": "Arafah",
       "region": "Jordan",
       "date": "2025-06-05"
     },
     {
-      "id": "20250606_qjpq0ni19hih4576tb1udjauhc",
+      "id": "20250606_bgl9u4udae52353ec6d4iviuq4",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Jordan",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_6fht4vuhc4i8lq798bh2lfo2pg",
+      "id": "20250607_ddpb8mniejs6u77im1bp9uu4cg",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Jordan",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_hmi3afssstplcd57okbft18eo4",
+      "id": "20250608_skjp7tdb1hn6snese3m58vmcps",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Jordan",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_nl2bp8msk9eed6dl01rnhl1u7g",
+      "id": "20250609_m80atp2s2il0f94pe8ml3pgvtc",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Jordan",
       "date": "2025-06-09"
+    },
+    {
+      "id": "20250610_ap2s512q0umo14allnsanl415s",
+      "status": "confirmed",
+      "summary": "Eid al-Adha holiday",
+      "region": "Jordan",
+      "date": "2025-06-10"
     },
     {
       "id": "20250626_jcc50vokde2jadl23bf0b468dk",
@@ -35249,18 +35242,18 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250606_p55mk4gi7qlp1n48ri3lejui7g",
+      "id": "20250607_nv5u49gfn41iec9hlll3s41hd4",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
-      "region": "Morocco",
-      "date": "2025-06-06"
-    },
-    {
-      "id": "20250607_0br1o6l408ieln3mi2dfkeh098",
-      "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Morocco",
       "date": "2025-06-07"
+    },
+    {
+      "id": "20250608_rpprgv6qfm40nni56osa9lmkb4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Morocco",
+      "date": "2025-06-08"
     },
     {
       "id": "20250627_emf56pki3hjmpodn04knoo1vnk",
@@ -35594,23 +35587,23 @@
       "date": "2025-06-02"
     },
     {
-      "id": "20250606_lbsjin9m2lgh1616c9et0sk0u4",
+      "id": "20250606_3aa0geo4uoo2q2a2qshpjhn61c",
       "status": "confirmed",
-      "summary": "Day of Arafat (regional holiday) (tentative)",
+      "summary": "Day of Arafat (regional holiday)",
       "region": "Malaysia",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_6f3u5r7bk816b9o3d7eofv475o",
+      "id": "20250607_0516r9auii29g736r1108iqu1g",
       "status": "confirmed",
-      "summary": "Hari Raya Haji (tentative)",
+      "summary": "Hari Raya Haji",
       "region": "Malaysia",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_2r07mu7bhk1rmmm8ma4sq2cdks",
+      "id": "20250608_kmhr0fb8kag26ja590m1md8ujs",
       "status": "confirmed",
-      "summary": "Hari Raya Haji (Day 2) (regional holiday) (tentative)",
+      "summary": "Hari Raya Haji (Day 2) (regional holiday)",
       "region": "Malaysia",
       "date": "2025-06-08"
     },
@@ -46336,23 +46329,23 @@
       "date": "2025-05-28"
     },
     {
-      "id": "20250607_cl9el9cigrnk4g170t7689fqks",
+      "id": "20250607_m85bhsdcnj2ohkggfu0ulsqg88",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Pakistan",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_ba7i55aqsof0binj01nn6cjbgo",
+      "id": "20250608_8t9dj8nki3aqokcn69iu2rua7s",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Pakistan",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_90if5be6cguh7938bb5vpjsntg",
+      "id": "20250609_fke345gq3h58deebi86dnp8c30",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Pakistan",
       "date": "2025-06-09"
     },
@@ -48219,23 +48212,37 @@
       "date": "2025-04-07"
     },
     {
-      "id": "20250607_q2aphh0ktfd7tjudkp5v7b47b8",
+      "id": "20250605_lmol5bhaeuk9ier99rlfdgtmtk",
       "status": "confirmed",
-      "summary": "Eid al-Adha (Feast of Sacrifice) (tentative)",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Qatar",
+      "date": "2025-06-05"
+    },
+    {
+      "id": "20250606_n9tvh4bcljtfl4hiudvkbkcscg",
+      "status": "confirmed",
+      "summary": "Eid al-Adha (Feast of Sacrifice)",
+      "region": "Qatar",
+      "date": "2025-06-06"
+    },
+    {
+      "id": "20250607_bahuvqppifid1vt952uqqgvqr4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
       "region": "Qatar",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_gnbhrctujrerak8118kmo0mt60",
+      "id": "20250608_l53ttstglfp2pqm2h3t3a1lark",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Qatar",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_3c99q8n8i9a1jps3d3n6na9jvo",
+      "id": "20250609_7n8ecrpcl321hlnle666emte84",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Qatar",
       "date": "2025-06-09"
     },
@@ -50235,30 +50242,30 @@
       "date": "2025-04-02"
     },
     {
-      "id": "20250605_pfjma7oufep3tb7mpqvmi0epdg",
+      "id": "20250605_4l64vel3unp0sog0t2geji3ddc",
       "status": "confirmed",
-      "summary": "Arafat Day (tentative)",
+      "summary": "Arafat Day",
       "region": "Saudi Arabia",
       "date": "2025-06-05"
     },
     {
-      "id": "20250606_buva6q70na7pfun2g768v4caq0",
+      "id": "20250606_gj40fkhjqv0od72t3k7t0rc7uc",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Saudi Arabia",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_oj06rmjkcvkbqggsqll4tdmaek",
+      "id": "20250607_7b5j5bd2cr4veqolg5etradhfk",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Saudi Arabia",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_4456h0bnbgkkh7kgna20ndv3lc",
+      "id": "20250608_rnk0qi0ssdv2mvjev7g8brltpk",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Saudi Arabia",
       "date": "2025-06-08"
     },
@@ -51190,9 +51197,9 @@
       "date": "2025-05-12"
     },
     {
-      "id": "20250607_s9e8sgr60nuehq9g793ufbf2cc",
+      "id": "20250607_tl8g9cqtt2ip1r5t70c51beiq8",
       "status": "confirmed",
-      "summary": "Hari Raya Haji (tentative)",
+      "summary": "Hari Raya Haji",
       "region": "Singapore",
       "date": "2025-06-07"
     },
@@ -58555,16 +58562,16 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250606_fs9igb0a36pia5j0kh9f66ccbg",
+      "id": "20250606_lcsrtmmlsa1ln0p5vpdkr5rvbo",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Tunisia",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_sitcuaqtpig7lbtvp0n8pot54s",
+      "id": "20250607_pd021u226pouo2gq0varqqdkig",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Tunisia",
       "date": "2025-06-07"
     },
@@ -59359,37 +59366,37 @@
       "date": "2025-05-19"
     },
     {
-      "id": "20250605_fdlbveji3pi6utpod4aot8nop8",
+      "id": "20250605_qmrdq5vp3ge32iutv0jdeuunlc",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Eve (half-day) (tentative)",
+      "summary": "Sacrifice Feast Eve (half-day)",
       "region": "Turkey",
       "date": "2025-06-05"
     },
     {
-      "id": "20250606_561u8db85le7qve8c80cu7ale4",
+      "id": "20250606_8hu8n26md62b4mvc13k92e23cs",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Turkey",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_j52t8p85gj927qnjltn3g0b8rg",
+      "id": "20250607_69qri6ugkrfalk4ad2tdgtml28",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Holiday (tentative)",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_d9ds2kbaejffejtg5mdp32qdmk",
+      "id": "20250608_k7nrff47dv436sdv6oip4bj0q0",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Holiday (tentative)",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_d7s62bkc33v4eu45opiegg1pog",
+      "id": "20250609_bq3tacf1lkgt1avdkk0u092ms8",
       "status": "confirmed",
-      "summary": "Sacrifice Feast Holiday (tentative)",
+      "summary": "Sacrifice Feast Holiday",
       "region": "Turkey",
       "date": "2025-06-09"
     },
@@ -62573,14 +62580,14 @@
       "date": "2025-01-01"
     },
     {
-      "id": "20250106_39e5jjl1lr95435doee72pojhc",
+      "id": "20250106_7o4qiiajan626v8b7tuvkckqo4",
       "status": "confirmed",
       "summary": "The Three Wise Men Day",
       "region": "Venezuela",
       "date": "2025-01-06"
     },
     {
-      "id": "20250113_0vvvlu57a14dmcivav1g2fjrc0",
+      "id": "20250113_qohfe6pusrudb2jktmqpepgo4s",
       "status": "confirmed",
       "summary": "Holiday for Divina Pastora Day",
       "region": "Venezuela",
@@ -62608,7 +62615,7 @@
       "date": "2025-03-04"
     },
     {
-      "id": "20250319_tk8nf4ddrukvrnou4mr08n3gso",
+      "id": "20250319_s6auf11hnbfso0pe1bs187t3mc",
       "status": "confirmed",
       "summary": "Saint Joseph's Day",
       "region": "Venezuela",
@@ -62671,21 +62678,21 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250602_ma1ptri7i3g57ohahh3hb4n558",
+      "id": "20250602_bm6rv3vs32hcs2rpjnfqo127ds",
       "status": "confirmed",
       "summary": "Ascension Day Holiday",
       "region": "Venezuela",
       "date": "2025-06-02"
     },
     {
-      "id": "20250613_p7q21avn1lac33pshqmo97qv2o",
+      "id": "20250613_gu8amnc2967fpte7nvfv7dged8",
       "status": "confirmed",
       "summary": "St Anthony's Day",
       "region": "Venezuela",
       "date": "2025-06-13"
     },
     {
-      "id": "20250616_fumemgn2kuv7eqmtr7gddhj7r4",
+      "id": "20250616_sm5h0sodub7kov5pv57f0rdn3k",
       "status": "confirmed",
       "summary": "St Anthony's Day Holiday",
       "region": "Venezuela",
@@ -62699,7 +62706,7 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250623_t37tft45h4ktk4k31birdddct8",
+      "id": "20250623_rr7leh99podncq633brf0litts",
       "status": "confirmed",
       "summary": "Corpus Christi Holiday",
       "region": "Venezuela",
@@ -62713,7 +62720,7 @@
       "date": "2025-06-24"
     },
     {
-      "id": "20250629_pe8ku1r25roa7r1r0b4hg19cuc",
+      "id": "20250629_ql4r8dl1q21pgqcqdqm4o85rt0",
       "status": "confirmed",
       "summary": "Saint Peter and Saint Paul Holiday",
       "region": "Venezuela",
@@ -62755,7 +62762,7 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20250818_9g6skp6r4dmrmet3ontn4btbc4",
+      "id": "20250818_c2kqv0slbi0murncvlg635t54k",
       "status": "confirmed",
       "summary": "Assumption of Mary Holiday",
       "region": "Venezuela",
@@ -62769,7 +62776,7 @@
       "date": "2025-09-11"
     },
     {
-      "id": "20250915_opj4so6me43hbdiaum3iie8c2g",
+      "id": "20250915_eu15f80cc8otevrup1nb925ncs",
       "status": "confirmed",
       "summary": "Our Lady of Coromoto Holiday",
       "region": "Venezuela",
@@ -62811,7 +62818,7 @@
       "date": "2025-11-18"
     },
     {
-      "id": "20251124_m7be6rrvbsi8c4fl6i22g2s2cg",
+      "id": "20251124_4h4tketk0b4l6g6736lb90rq5g",
       "status": "confirmed",
       "summary": "Holiday for the Day of the Virgin of the Rosary of Chiquinquirá",
       "region": "Venezuela",
@@ -62825,7 +62832,7 @@
       "date": "2025-11-27"
     },
     {
-      "id": "20251208_1t529h2n3k5fffttfjvcoadg50",
+      "id": "20251208_tromuk8gsid7qqov0l99e5058o",
       "status": "confirmed",
       "summary": "Feast of the Immaculate Conception",
       "region": "Venezuela",
@@ -62860,7 +62867,7 @@
       "date": "2026-01-01"
     },
     {
-      "id": "20260106_qi2aip11g6au41icr300dkot9s",
+      "id": "20260106_pendjcbr54dilci52mckm06huo",
       "status": "confirmed",
       "summary": "The Three Wise Men Day",
       "region": "Venezuela",
@@ -62888,7 +62895,7 @@
       "date": "2026-02-17"
     },
     {
-      "id": "20260319_6ai0c5ep5lui69m0n7hkcj891g",
+      "id": "20260319_j7u65rh9g31lthk1fmo41q37kc",
       "status": "confirmed",
       "summary": "Saint Joseph's Day",
       "region": "Venezuela",
@@ -62937,7 +62944,7 @@
       "date": "2026-05-01"
     },
     {
-      "id": "20260514_ttsrma9mkl4lenhgts4v1arffs",
+      "id": "20260514_qt3fokane55gggdbruqfcc7ok4",
       "status": "confirmed",
       "summary": "Ascension Day",
       "region": "Venezuela",
@@ -62958,7 +62965,7 @@
       "date": "2026-06-04"
     },
     {
-      "id": "20260613_tkgsrhu5oco7igssf1167encjs",
+      "id": "20260613_ap6bs58015ua40h336cgq15qfk",
       "status": "confirmed",
       "summary": "St Anthony's Day",
       "region": "Venezuela",
@@ -62972,7 +62979,7 @@
       "date": "2026-06-24"
     },
     {
-      "id": "20260629_3umopikmaarjodf4oj79vvd7hk",
+      "id": "20260629_dcuock10hu66dc40p19ip25fc4",
       "status": "confirmed",
       "summary": "Saint Peter and Saint Paul Holiday",
       "region": "Venezuela",
@@ -63063,7 +63070,7 @@
       "date": "2026-11-27"
     },
     {
-      "id": "20261208_jt1umandvtlclpehif5ud4e110",
+      "id": "20261208_0n7m24sg6jaotsklnerii58vkk",
       "status": "confirmed",
       "summary": "Feast of the Immaculate Conception",
       "region": "Venezuela",
