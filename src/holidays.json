@@ -1397,11 +1397,11 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250607_q11tci96c209hauihnv0u5lmr4",
+      "id": "20250606_vd4209vppnm5b9ugf21q2d6b1s",
       "status": "confirmed",
-      "summary": "Feast of the Sacrifice (tentative)",
+      "summary": "Feast of the Sacrifice",
       "region": "Albania",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20250615_suf2m9dplc6rf5u2gmhvhho80o",
@@ -5262,51 +5262,51 @@
       "date": "2025-05-12"
     },
     {
-      "id": "20250605_8fb8g9aotesqbcoc52chmhu268",
+      "id": "20250605_uq8620ejvo1m1s0abfbdqvisjs",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Bangladesh",
       "date": "2025-06-05"
     },
     {
-      "id": "20250606_6scrrrnoo5s581mcghlk30ctn4",
+      "id": "20250606_n48a392dfjmhd5nbpdqmjm9uqs",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Bangladesh",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_q0gsd13elu9cuv4nl02g7rinb8",
+      "id": "20250607_7p27eo5fu26d69aotmjnj1v9cg",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Bangladesh",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_u5sb3dj7kg5uq6avkmejfqln08",
+      "id": "20250608_m29k0ada8v8qobjaujatjc65vk",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Bangladesh",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_fmg5nh04e1cbdr067if8ccklm4",
+      "id": "20250609_ojq9o66pmqb60hrk3tb0ascj8s",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Bangladesh",
       "date": "2025-06-09"
     },
     {
-      "id": "20250610_7qd6k11j3km4h6uahcc6pknob0",
+      "id": "20250610_4fp1m5opicnt0pm6e9i1400u58",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Bangladesh",
       "date": "2025-06-10"
     },
     {
-      "id": "20250611_i6pss3mnd9hacnckjdksa1ke88",
+      "id": "20250611_k0skgr55m59e9blh7qa600p5sk",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Bangladesh",
       "date": "2025-06-11"
     },
@@ -7462,9 +7462,9 @@
       "date": "2025-05-31"
     },
     {
-      "id": "20250607_8nbr6nkr7g656p6e1enqh5epfg",
+      "id": "20250607_d87dcbann022klqrnafcft67a0",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Brunei",
       "date": "2025-06-07"
     },
@@ -21709,11 +21709,11 @@
       "date": "2025-05-25"
     },
     {
-      "id": "20250607_1bhjt999cunjnp566amr4ecl3s",
+      "id": "20250606_fvcfr6ak0fq0h2pgps6no85png",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Ghana",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20250615_sf8nqppe8hvc2hdad9edsc80p4",
@@ -27083,9 +27083,9 @@
       "date": "2025-06-05"
     },
     {
-      "id": "20250606_9kedp4pfajgfncb9627jig3m8o",
+      "id": "20250606_lhf4eo2qrkh971hki5eddlhk9c",
       "status": "confirmed",
-      "summary": "Eid-e-Ghorban (Feast of Sacrifice) (tentative)",
+      "summary": "Eid-e-Ghorban (Feast of Sacrifice)",
       "region": "Iran",
       "date": "2025-06-06"
     },
@@ -31539,30 +31539,37 @@
       "date": "2025-04-01"
     },
     {
-      "id": "20250606_tgo63eu648h8tdsnsm794fns0g",
+      "id": "20250605_hifu6jhv1io6hhi219lenaf2t8",
       "status": "confirmed",
-      "summary": "Waqfat Arafat Day (tentative)",
+      "summary": "Waqfat Arafat Day",
+      "region": "Kuwait",
+      "date": "2025-06-05"
+    },
+    {
+      "id": "20250606_39g8ssmf9fg1qkdmdp8ibdkv90",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
       "region": "Kuwait",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_1qlfaqsn2fd84fe35unhnmbclo",
+      "id": "20250607_acvp34fsm221kupnal50hqtqbs",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Kuwait",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_2g5ch0nsevd2aluaji9rc6iflo",
+      "id": "20250608_a5tivpnke7rcvi5eqovv5646lo",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Kuwait",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_n0pb8oqt32al5612ku160eluj4",
+      "id": "20250609_qj8vmnn4l8agcd0v11g060rc0c",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Kuwait",
       "date": "2025-06-09"
     },
@@ -32928,18 +32935,18 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250607_chavvhvo4nphp8ob3m0l2nknpg",
+      "id": "20250606_lbgk8h2qoe7c9cokhi1flq3nv4",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Lebanon",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
-      "id": "20250608_fe390s69oh4h4sgmj82gv3h058",
+      "id": "20250607_406b1lf7ml9evl4gl71du27e3s",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Lebanon",
-      "date": "2025-06-08"
+      "date": "2025-06-07"
     },
     {
       "id": "20250627_875imba87slij3blle11p7bq5s",
@@ -34252,9 +34259,9 @@
       "date": "2025-05-13"
     },
     {
-      "id": "20250607_27i1l066ff774falbfphcni94k",
+      "id": "20250607_c74u45tld0nb56b7d8k2984knk",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Sri Lanka",
       "date": "2025-06-07"
     },
@@ -43010,18 +43017,18 @@
       "date": "2025-05-27"
     },
     {
-      "id": "20250607_8d2qofnfj1561stvoq6i0gb7r8",
+      "id": "20250606_8s5p3mv12d19e5pb4bsddvltb0",
       "status": "confirmed",
-      "summary": "Id el Kabir (tentative)",
+      "summary": "Id el Kabir",
       "region": "Nigeria",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
-      "id": "20250608_hgh4gglncr3b2cegetv4pfltsk",
+      "id": "20250607_57q1bnfahv5cqk3kvsiu15589k",
       "status": "confirmed",
-      "summary": "Id el Kabir additional holiday (tentative)",
+      "summary": "Id el Kabir additional holiday",
       "region": "Nigeria",
-      "date": "2025-06-08"
+      "date": "2025-06-07"
     },
     {
       "id": "20250612_t1739kcr8ta3qrt2mdhpa91o1s",
