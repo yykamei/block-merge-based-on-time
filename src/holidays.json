@@ -30924,16 +30924,16 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250607_s07ovgdujn0496iuae6u68l8nc",
+      "id": "20250607_3vmiutehiap8b6ciarmo81rd18",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Comoros",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_oi87u59e50klaenf126obnf8os",
+      "id": "20250608_5ebiete1d97dvv23hf56505f04",
       "status": "confirmed",
-      "summary": "Eid al-Adha Holiday (tentative)",
+      "summary": "Eid al-Adha Holiday",
       "region": "Comoros",
       "date": "2025-06-08"
     },
@@ -36811,25 +36811,25 @@
       "date": "2025-05-22"
     },
     {
-      "id": "20250607_56u0k1v3dqiir357t814uhl2b0",
+      "id": "20250606_3pbnm4k7r2jl4s9d4sdhfdmtd8",
       "status": "confirmed",
-      "summary": "Kurban Bayram (tentative)",
+      "summary": "Kurban Bayram",
+      "region": "Montenegro",
+      "date": "2025-06-06"
+    },
+    {
+      "id": "20250607_1ij97n3qfar262avjve1blfi0s",
+      "status": "confirmed",
+      "summary": "Kurban Bayram Holiday",
       "region": "Montenegro",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_aq4792jt7dgonavvjfrh2sn7uo",
+      "id": "20250608_f3o9hnkfpsdf7a6bn6aeshsksk",
       "status": "confirmed",
-      "summary": "Kurban Bayram Holiday (tentative)",
+      "summary": "Kurban Bayram Holiday",
       "region": "Montenegro",
       "date": "2025-06-08"
-    },
-    {
-      "id": "20250609_45264vr6u4horvb4omkg856vt0",
-      "status": "confirmed",
-      "summary": "Kurban Bayram Holiday (tentative)",
-      "region": "Montenegro",
-      "date": "2025-06-09"
     },
     {
       "id": "20250713_ku70b1nhiptibj12044uanfnpg",
@@ -39037,9 +39037,9 @@
       "date": "2025-05-11"
     },
     {
-      "id": "20250607_vemikjs9nb3rfpm2ji7i9ltqtk",
+      "id": "20250607_50lvru5j48pofadqvf9jpv0720",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Myanmar (Burma)",
       "date": "2025-06-07"
     },
@@ -52635,9 +52635,16 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250607_qvvdaedr74rmpcmonu8eu7o3vg",
+      "id": "20250606_92vukh64npbb1bdb83qpdpk5go",
       "status": "confirmed",
-      "summary": "Tabaski (tentative)",
+      "summary": "Tabaski",
+      "region": "Senegal",
+      "date": "2025-06-06"
+    },
+    {
+      "id": "20250607_9s80q27ultg8a8qvmmefha042s",
+      "status": "confirmed",
+      "summary": "Tabaski",
       "region": "Senegal",
       "date": "2025-06-07"
     },
