@@ -6390,6 +6390,13 @@
       "date": "2025-05-29"
     },
     {
+      "id": "20250605_2fhb9lkn8403l2bmp5jusktgvk",
+      "status": "confirmed",
+      "summary": "Election Day",
+      "region": "Burundi",
+      "date": "2025-06-05"
+    },
+    {
       "id": "20250607_bdn3n4k2im4qmsths8dko4igu8",
       "status": "confirmed",
       "summary": "Eid al-Adha (tentative)",
@@ -16808,6 +16815,13 @@
       "date": "2025-06-07"
     },
     {
+      "id": "20250608_77jp3c38aqk7n06bj3g6fdqsuk",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Algeria",
+      "date": "2025-06-08"
+    },
+    {
       "id": "20250627_j0atik0gs4kk89ambpnh9s50f0",
       "status": "confirmed",
       "summary": "Muharram (tentative)",
@@ -18274,11 +18288,11 @@
       "date": "2025-05-28"
     },
     {
-      "id": "20250607_sas2j38e9dv8mqb25kgm924gb4",
+      "id": "20250606_t9qvphmhnv6ug2pjdipnmkp158",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Ethiopia",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20250905_q6kt49igprvq1spsj1nnpvkva4",
@@ -19821,11 +19835,11 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250607_rktg3sd2u3gnqkrrljd9riqqm8",
+      "id": "20250606_h828na7e9ttdr8t28b92ngbb6s",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Gabon",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20250609_rnik7ctnt06aecl6nrb0rvt0k0",
@@ -24123,11 +24137,11 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250607_r05akr5mon33mbbk2hjg99j98o",
+      "id": "20250606_55cut87prklmdbg7o26gf7jae4",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Guinea-Bissau",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20250924_t0n53vctr91t8fdc6a4a0sape0",
@@ -26717,39 +26731,46 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250606_2j2sq4qanj5e7krhkjmchfcbp4",
+      "id": "20250606_rv6slel567t7uts0d9g63nj7d0",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Iraq",
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_hl1fhlnrpfu0rne3fmdd6ahf6s",
+      "id": "20250607_h4d7qb6alpncv4qlpieous16c8",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Iraq",
       "date": "2025-06-07"
     },
     {
-      "id": "20250608_j5ihmauhb34ugaipo6kgtpgt18",
+      "id": "20250608_o0qtjb1gih7st7da1a89bgbvu4",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Iraq",
       "date": "2025-06-08"
     },
     {
-      "id": "20250609_3pevi3gd5tg05bm1eivr96h6vo",
+      "id": "20250609_p7k2lj2bau9vfbrk32bon87htc",
       "status": "confirmed",
-      "summary": "Eid al-Adha holiday (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Iraq",
       "date": "2025-06-09"
     },
     {
-      "id": "20250614_7l0vkq6s5qj56d1dtm13fcfu4g",
+      "id": "20250610_0jar91a39qfecu0mhjqf4id7sg",
       "status": "confirmed",
-      "summary": "Eid al-Ghadeer (tentative)",
+      "summary": "Eid al-Adha holiday",
       "region": "Iraq",
-      "date": "2025-06-14"
+      "date": "2025-06-10"
+    },
+    {
+      "id": "20250615_99a971cicavirs96kcmudvvsd4",
+      "status": "confirmed",
+      "summary": "Eid al-Ghadeer",
+      "region": "Iraq",
+      "date": "2025-06-15"
     },
     {
       "id": "20250626_v896qulcmafauc61njo0o5i15g",
@@ -29866,11 +29887,11 @@
       "date": "2025-06-02"
     },
     {
-      "id": "20250607_ta4ultu2fiitfvv81mkjcm3guk",
+      "id": "20250606_m0ptrpjmr6slljod1fg97pgeuk",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Kenya",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20251010_ogkkjleukmju2vdfdab1o0i4t8",
@@ -37741,11 +37762,11 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250607_irmr24i5kjk9c7qgl87glv69u8",
+      "id": "20250606_ri1mhoekm9lu44dekaurdask5c",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "Madagascar",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20250608_4gt29dhm7uhh999h7bq77u9i1c",
@@ -38242,18 +38263,18 @@
       "date": "2025-05-24"
     },
     {
+      "id": "20250606_pcq9d1jtkh0h4k47m6ocsaf7c4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha (Feast of Sacrifice)",
+      "region": "North Macedonia",
+      "date": "2025-06-06"
+    },
+    {
       "id": "20250606_ripfr4hc2mdjlctj4l4e4kigrs",
       "status": "confirmed",
       "summary": "Friday before Pentecost",
       "region": "North Macedonia",
       "date": "2025-06-06"
-    },
-    {
-      "id": "20250607_oagg6frs3qa2rtrp2h7fj6qf2s",
-      "status": "confirmed",
-      "summary": "Eid al-Adha (Feast of Sacrifice) (tentative)",
-      "region": "North Macedonia",
-      "date": "2025-06-07"
     },
     {
       "id": "20250802_9p42c6o2pqjl1ne3cq4tfbttc0",
@@ -43024,11 +43045,11 @@
       "date": "2025-06-06"
     },
     {
-      "id": "20250607_57q1bnfahv5cqk3kvsiu15589k",
+      "id": "20250609_nfca6fqi5lsi09lqdbl25r1acs",
       "status": "confirmed",
       "summary": "Id el Kabir additional holiday",
       "region": "Nigeria",
-      "date": "2025-06-07"
+      "date": "2025-06-09"
     },
     {
       "id": "20250612_t1739kcr8ta3qrt2mdhpa91o1s",
@@ -51775,7 +51796,7 @@
       "date": "2025-11-01"
     },
     {
-      "id": "20251117_hm5dr02fmusl2o4a0luq612s0s",
+      "id": "20251117_2a6p7tc9qp0f8hc81mv4a9ltng",
       "status": "confirmed",
       "summary": "Fight for Freedom and Democracy Day",
       "region": "Slovakia",
@@ -51887,7 +51908,7 @@
       "date": "2026-11-01"
     },
     {
-      "id": "20261117_t2dek69tb5ee5nqp4fhrm2sihs",
+      "id": "20261117_qavjvbuenrl2jqkveko0shm03g",
       "status": "confirmed",
       "summary": "Fight for Freedom and Democracy Day",
       "region": "Slovakia",
@@ -54276,11 +54297,11 @@
       "date": "2025-05-16"
     },
     {
-      "id": "20250607_bgd9p77j51ts7icf39jeru9l2s",
+      "id": "20250606_5p3bi5144vvcasbqsg4bveh120",
       "status": "confirmed",
-      "summary": "Eid al-Adha (tentative)",
+      "summary": "Eid al-Adha",
       "region": "South Sudan",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
       "id": "20250610_0fjmgojg2kn77ucq17ck7hj29g",
@@ -64743,9 +64764,9 @@
       "date": "2025-05-09"
     },
     {
-      "id": "20250606_thtdcqvhdsbn26oafom198fu2o",
+      "id": "20250606_99uhq1tl1v52g2l61emfl5i5ls",
       "status": "confirmed",
-      "summary": "Kurban Bayrami (tentative)",
+      "summary": "Kurban Bayrami",
       "region": "Kosovo",
       "date": "2025-06-06"
     },
