@@ -25046,9 +25046,16 @@
       "date": "2026-10-01"
     },
     {
-      "id": "20261019_8dqflvm08takl8ib5j7cm8m9ag",
+      "id": "20261018_8nfofu590okhnt9gc9vb8ci2us",
       "status": "confirmed",
       "summary": "Chung Yeung Festival",
+      "region": "Hong Kong",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "20261019_7d2mvqores9ini4l5f9v0b0enk",
+      "status": "confirmed",
+      "summary": "Day off for Chung Yeung Festival",
       "region": "Hong Kong",
       "date": "2026-10-19"
     },
