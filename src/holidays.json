@@ -22739,6 +22739,20 @@
       "date": "2025-06-07"
     },
     {
+      "id": "20250609_j7aaoemq07iqa1s1ho99st808g",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Guinea",
+      "date": "2025-06-09"
+    },
+    {
+      "id": "20250610_qskojj7fno5c2na5j7kndnrd40",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Guinea",
+      "date": "2025-06-10"
+    },
+    {
       "id": "20250815_h4u09pdmrdijhc3visqvfacgto",
       "status": "confirmed",
       "summary": "Assumption of Mary",
@@ -50459,6 +50473,13 @@
       "summary": "Whit Monday",
       "region": "Solomon Islands",
       "date": "2025-06-09"
+    },
+    {
+      "id": "20250613_ca3h28n1a15u8fc7ci8limesno",
+      "status": "confirmed",
+      "summary": "King’s Birthday",
+      "region": "Solomon Islands",
+      "date": "2025-06-13"
     },
     {
       "id": "20250707_nnenbl9rksquaej3od1k34l6d4",
