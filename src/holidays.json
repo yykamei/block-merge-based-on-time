@@ -24962,11 +24962,11 @@
       "date": "2026-04-04"
     },
     {
-      "id": "20260404_mjjirjumbg06jce1l31p1av2ic",
+      "id": "20260405_b3s84h815ljeekfoamtohk2h18",
       "status": "confirmed",
       "summary": "Tomb Sweeping Day",
       "region": "Hong Kong",
-      "date": "2026-04-04"
+      "date": "2026-04-05"
     },
     {
       "id": "20260405_oc8q49can8gmbivg4jo8vs17uk",
@@ -24981,6 +24981,20 @@
       "summary": "Easter Monday",
       "region": "Hong Kong",
       "date": "2026-04-06"
+    },
+    {
+      "id": "20260406_gj4upfpnlo77g3skjsacon1980",
+      "status": "confirmed",
+      "summary": "Day off for Tomb Sweeping Day",
+      "region": "Hong Kong",
+      "date": "2026-04-06"
+    },
+    {
+      "id": "20260407_58ebu4df9uc5njd29jel4apan4",
+      "status": "confirmed",
+      "summary": "Day off for Easter Monday",
+      "region": "Hong Kong",
+      "date": "2026-04-07"
     },
     {
       "id": "20260501_216n2tmo4b53s0o8o67h33vhrk",
