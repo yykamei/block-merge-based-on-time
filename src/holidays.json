@@ -85,9 +85,9 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250504_5c1lmlvr7tig8ungibh5g4b74c",
+      "id": "20250504_m3m9o0oetkeqgsc57papqun14c",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Andorra",
       "date": "2025-05-04"
     },
@@ -260,9 +260,9 @@
       "date": "2026-05-01"
     },
     {
-      "id": "20260503_7td8f7ch0rhbfu8hnto1l3hsec",
+      "id": "20260503_mi2fqqakv88b95i1f81nch4ato",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Andorra",
       "date": "2026-05-03"
     },
@@ -3642,9 +3642,9 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250511_rri8ejvchn2ua927gg4vl5rsec",
+      "id": "20250511_vmorc0q65arblv604rbulcvu0s",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Austria",
       "date": "2025-05-11"
     },
@@ -3831,9 +3831,9 @@
       "date": "2026-05-01"
     },
     {
-      "id": "20260510_shhug0i48vgevl05gcvpgsat3k",
+      "id": "20260510_20qn7tf65umusc3kjafn280lps",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Austria",
       "date": "2026-05-10"
     },
@@ -24533,9 +24533,9 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250511_0s2e3tg5trqmbtjn8ba0u7lhcs",
+      "id": "20250511_s11jlobrjjusg48an280vjf1ek",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Honduras",
       "date": "2025-05-11"
     },
@@ -24673,9 +24673,9 @@
       "date": "2026-05-01"
     },
     {
-      "id": "20260510_pmuu31h8fblpiqo792oingic6g",
+      "id": "20260510_lu6l85h9jtf885hq4bu48i51vs",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Honduras",
       "date": "2026-05-10"
     },
@@ -33562,9 +33562,9 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250511_obe0vvjlge62sggqs817h68t54",
+      "id": "20250511_v5f6vqejn9rqrkv4lmtlr4t3j4",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Liechtenstein",
       "date": "2025-05-11"
     },
@@ -33744,9 +33744,9 @@
       "date": "2026-05-01"
     },
     {
-      "id": "20260510_fvqotomenc9nlump7vi3jgffu8",
+      "id": "20260510_0806hgdqv8kvsq3gi58kapvds4",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Liechtenstein",
       "date": "2026-05-10"
     },
@@ -34804,16 +34804,16 @@
       "date": "2025-05-29"
     },
     {
-      "id": "20250608_agilkd0gjm5nlrf59hv2do1hq0",
+      "id": "20250608_b9u4p10coactb6n8bq03gae10c",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Whit Sunday",
       "region": "Luxembourg",
       "date": "2025-06-08"
     },
     {
-      "id": "20250608_b9u4p10coactb6n8bq03gae10c",
+      "id": "20250608_pvj9ashr08lb55jadl8hslg874",
       "status": "confirmed",
-      "summary": "Whit Sunday",
+      "summary": "Mother's Day",
       "region": "Luxembourg",
       "date": "2025-06-08"
     },
@@ -34944,9 +34944,9 @@
       "date": "2026-05-25"
     },
     {
-      "id": "20260614_lm0otap5erubh85p7lj5fjq2o8",
+      "id": "20260614_8ecncbnqcq9d9k1dv4h3526a58",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Luxembourg",
       "date": "2026-06-14"
     },
@@ -36009,9 +36009,9 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250525_d7oqchpc6kbvha4oslkj1kl8fo",
+      "id": "20250525_72hkp4l6l6d75h8c697b7i8hjc",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Monaco",
       "date": "2025-05-25"
     },
@@ -36212,9 +36212,9 @@
       "date": "2026-05-25"
     },
     {
-      "id": "20260531_33j9cckcpchc1uov9srm0gvej8",
+      "id": "20260531_keetutokesindgj2tad0itouc0",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Monaco",
       "date": "2026-05-31"
     },
@@ -36401,6 +36401,13 @@
       "summary": "State Flag Day",
       "region": "Moldova",
       "date": "2025-04-27"
+    },
+    {
+      "id": "20250428_csbmies3dfo2fed7mhel8l2e5o",
+      "status": "confirmed",
+      "summary": "Memorial Day/Parents' Day",
+      "region": "Moldova",
+      "date": "2025-04-28"
     },
     {
       "id": "20250501_1c1v77pvbm0njmfj89vuolrbvc",
@@ -36951,9 +36958,9 @@
       "date": "2025-12-26"
     },
     {
-      "id": "20251228_kn5m550f0ngqmca445jqpg4ap4",
+      "id": "20251228_b560eltgk5agqipadut94e9iqc",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Montenegro",
       "date": "2025-12-28"
     },
@@ -37175,9 +37182,9 @@
       "date": "2026-12-26"
     },
     {
-      "id": "20261227_0h540bt8336ldiqlcgnddp1gno",
+      "id": "20261227_4ajne03o24hcv51oqa08m7ciag",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Montenegro",
       "date": "2026-12-27"
     },
@@ -40787,9 +40794,9 @@
       "date": "2025-05-01"
     },
     {
-      "id": "20250511_1ar4djhvpu2ahjs36vq28umpj8",
+      "id": "20250511_79scpqicdf94vr04ef5kdhb3ts",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Malta",
       "date": "2025-05-11"
     },
@@ -40948,9 +40955,9 @@
       "date": "2026-05-01"
     },
     {
-      "id": "20260510_4p13jaatqh15ed9nshb9oik3f0",
+      "id": "20260510_2ddg68kks3hsu4hfrirggmdi2c",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Malta",
       "date": "2026-05-10"
     },
@@ -41689,6 +41696,20 @@
       "date": "2025-05-14"
     },
     {
+      "id": "20250607_87po69n0tq3t0m919pesbcmv9c",
+      "status": "confirmed",
+      "summary": "Eid al-Adha",
+      "region": "Malawi",
+      "date": "2025-06-07"
+    },
+    {
+      "id": "20250609_6g4g37sthtdc62e1ri68iolqo0",
+      "status": "confirmed",
+      "summary": "Eid al-Adha Holiday",
+      "region": "Malawi",
+      "date": "2025-06-09"
+    },
+    {
       "id": "20250706_eib4m0iqnei2cblosdbokv76f8",
       "status": "confirmed",
       "summary": "Independence Day",
@@ -41792,6 +41813,13 @@
       "summary": "Kamuzu Day",
       "region": "Malawi",
       "date": "2026-05-14"
+    },
+    {
+      "id": "20260527_7329l4pj7kjjubl0qtj3pllce4",
+      "status": "confirmed",
+      "summary": "Eid al-Adha (tentative)",
+      "region": "Malawi",
+      "date": "2026-05-27"
     },
     {
       "id": "20260706_q4p54n5auq89opmu6nra6qvk9c",
@@ -45124,9 +45152,9 @@
       "date": "2025-05-02"
     },
     {
-      "id": "20250511_3mdfrskdld5fv235lbotc453j4",
+      "id": "20250511_9e16biu70f4isclhak51l216a4",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Peru",
       "date": "2025-05-11"
     },
@@ -45327,9 +45355,9 @@
       "date": "2026-05-01"
     },
     {
-      "id": "20260510_hot96el76h8fuut1n2jdmitduc",
+      "id": "20260510_4l628qr7jc509q9kq8h2sqov6s",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Peru",
       "date": "2026-05-10"
     },
@@ -49247,9 +49275,9 @@
       "date": "2025-12-25"
     },
     {
-      "id": "20251228_tbtfoc2gjg1p5qgpbs8dam387k",
+      "id": "20251228_r6943vhid4et01gmt3sukftj9s",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Serbia",
       "date": "2025-12-28"
     },
@@ -49471,9 +49499,9 @@
       "date": "2026-12-25"
     },
     {
-      "id": "20261227_pe7e6iedcrud1b0bg942sa41is",
+      "id": "20261227_faa318o0d1s66de1134esha0l0",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Serbia",
       "date": "2026-12-27"
     },
@@ -51994,9 +52022,9 @@
       "date": "2025-02-08"
     },
     {
-      "id": "20250325_874kk4su7637hgb0cj2ufbajn0",
+      "id": "20250325_n7i0j5fqpdopvkfrc50jcrkau8",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Slovenia",
       "date": "2025-03-25"
     },
@@ -52155,9 +52183,9 @@
       "date": "2026-02-08"
     },
     {
-      "id": "20260325_bv7a6jgadltm6tuo6publr849g",
+      "id": "20260325_o98mpckucd78ep18sj3r8qct4c",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "Slovenia",
       "date": "2026-03-25"
     },
@@ -52318,9 +52346,9 @@
       "date": "2025-02-05"
     },
     {
-      "id": "20250315_a7lok87el1qctlf9sdt2nruns4",
+      "id": "20250315_bnb9eomlh288vvsj1raitsqq24",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "San Marino",
       "date": "2025-03-15"
     },
@@ -52500,9 +52528,9 @@
       "date": "2026-02-05"
     },
     {
-      "id": "20260315_3k34rk66tsd2kjvdhe67qul65g",
+      "id": "20260315_vobjhn655na4s764i2f5q8liv4",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother's Day",
       "region": "San Marino",
       "date": "2026-03-15"
     },
@@ -56299,6 +56327,20 @@
       "date": "2026-02-04"
     },
     {
+      "id": "20260214_qpa83cfosqqdp22guu7r4p1o8g",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2026-02-14"
+    },
+    {
+      "id": "20260215_8h9rm40m91pqfb3c8t1op8a8lk",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2026-02-15"
+    },
+    {
       "id": "20260216_7jfss4bg0r4ps1sn7gfjeoc5qg",
       "status": "confirmed",
       "summary": "Lunar New Year's Eve",
@@ -56339,6 +56381,13 @@
       "summary": "Lunar New Year Holiday",
       "region": "Taiwan",
       "date": "2026-02-21"
+    },
+    {
+      "id": "20260222_rn2ohmv012k0r2tijsdbqs9888",
+      "status": "confirmed",
+      "summary": "Lunar New Year Holiday",
+      "region": "Taiwan",
+      "date": "2026-02-22"
     },
     {
       "id": "20260227_odin3tk72aflbpme5iov9i5p2k",
