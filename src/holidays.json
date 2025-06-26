@@ -62226,16 +62226,16 @@
       "date": "2025-01-06"
     },
     {
-      "id": "20250211_7ec650mmjiro6etea7e0jcn14o",
+      "id": "20250211_5f3i598vn9tk6g9qtdpii369bk",
       "status": "confirmed",
-      "summary": "Anniversary of the foundation of Vatican City",
+      "summary": "Anniversary of the Foundation of Vatican City",
       "region": "Vatican City",
       "date": "2025-02-11"
     },
     {
-      "id": "20250313_bhhcsvjskbtiia2v5l2h6bpgeg",
+      "id": "20250313_0v6kmrb099ott1slh7ok0f7igk",
       "status": "confirmed",
-      "summary": "Anniversary of the election of Pope Francis",
+      "summary": "Anniversary of the Election of Pope Francis",
       "region": "Vatican City",
       "date": "2025-03-13"
     },
@@ -62345,6 +62345,13 @@
       "date": "2025-08-16"
     },
     {
+      "id": "20250917_g2i0klkc88m5v4s2b8ib04sc1s",
+      "status": "confirmed",
+      "summary": "St Robert Bellarmine Feast Day",
+      "region": "Vatican City",
+      "date": "2025-09-17"
+    },
+    {
       "id": "20251026_7tccbe3n4gakk7hhbe577jq3ec",
       "status": "confirmed",
       "summary": "Daylight Saving Time ends",
@@ -62415,18 +62422,11 @@
       "date": "2026-01-06"
     },
     {
-      "id": "20260211_8q2gqmgdb2hr7if0hcnbiepr48",
+      "id": "20260211_4bi78d0hsegf47s6u8dnnuunt4",
       "status": "confirmed",
-      "summary": "Anniversary of the foundation of Vatican City",
+      "summary": "Anniversary of the Foundation of Vatican City",
       "region": "Vatican City",
       "date": "2026-02-11"
-    },
-    {
-      "id": "20260313_vi7konm5lsnovki0uqn3bdva68",
-      "status": "confirmed",
-      "summary": "Anniversary of the election of Pope Francis",
-      "region": "Vatican City",
-      "date": "2026-03-13"
     },
     {
       "id": "20260319_o60rda5r852411f4foinlun34g",
@@ -62478,7 +62478,7 @@
       "date": "2026-04-06"
     },
     {
-      "id": "20260423_74k4buh3qvm9bnu78k26kud1mg",
+      "id": "20260423_ni1rhfu80pmt2g9d1rk73isl10",
       "status": "confirmed",
       "summary": "St George's Feast",
       "region": "Vatican City",
@@ -62490,6 +62490,13 @@
       "summary": "Feast of St Joseph the Worker",
       "region": "Vatican City",
       "date": "2026-05-01"
+    },
+    {
+      "id": "20260508_ld7cijso92d8ir32inanjqbse8",
+      "status": "confirmed",
+      "summary": "Anniversary of the Election of Pope Leo",
+      "region": "Vatican City",
+      "date": "2026-05-08"
     },
     {
       "id": "20260510_s9c2fha6l1e4hu36530lir1hck",
@@ -62532,6 +62539,13 @@
       "summary": "Assumption Day Holiday",
       "region": "Vatican City",
       "date": "2026-08-16"
+    },
+    {
+      "id": "20260917_lsvskkuk6o03tknheno4kn6t5k",
+      "status": "confirmed",
+      "summary": "St Robert Bellarmine Feast Day",
+      "region": "Vatican City",
+      "date": "2026-09-17"
     },
     {
       "id": "20261025_0u033d95q2fm1i6152sjdhi3q8",
