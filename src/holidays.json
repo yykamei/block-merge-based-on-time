@@ -6171,9 +6171,9 @@
       "date": "2025-06-10"
     },
     {
-      "id": "20250626_67pancogdtajjcr4njsb621umo",
+      "id": "20250626_8g5ccgfa26c3uonk87rqhrh4m4",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Bahrain",
       "date": "2025-06-26"
     },
@@ -7469,18 +7469,11 @@
       "date": "2025-06-07"
     },
     {
-      "id": "20250627_acu2iqhs4sbaet8rg12ptsqpqo",
+      "id": "20250627_6lehcu52r9br2daeio69q0lf74",
       "status": "confirmed",
-      "summary": "Muharram (Muslim New Year) (tentative)",
+      "summary": "Muharram (Muslim New Year)",
       "region": "Brunei",
       "date": "2025-06-27"
-    },
-    {
-      "id": "20250628_nbb7635ohpi3enc3n064h07hu0",
-      "status": "confirmed",
-      "summary": "Day off for Muharram (Muslim New Year) (tentative)",
-      "region": "Brunei",
-      "date": "2025-06-28"
     },
     {
       "id": "20250715_spr32ee24ccg742a3q1jc5p09o",
@@ -15918,16 +15911,16 @@
       "date": "2025-06-07"
     },
     {
+      "id": "20250626_3c3apbdn02s05m94g7vi9uqirs",
+      "status": "confirmed",
+      "summary": "Muharram",
+      "region": "Djibouti",
+      "date": "2025-06-26"
+    },
+    {
       "id": "20250627_kcs2aimf02k127rbtbdb0dkkf8",
       "status": "confirmed",
       "summary": "Independence Day",
-      "region": "Djibouti",
-      "date": "2025-06-27"
-    },
-    {
-      "id": "20250627_lft9jp4dlivdtjj2ai39ark7qk",
-      "status": "confirmed",
-      "summary": "Muharram (tentative)",
       "region": "Djibouti",
       "date": "2025-06-27"
     },
@@ -16815,9 +16808,9 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250627_j0atik0gs4kk89ambpnh9s50f0",
+      "id": "20250627_g9l70vj2jbedi3iot4ffghoq4k",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Algeria",
       "date": "2025-06-27"
     },
@@ -17710,9 +17703,9 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250626_3qb2na87bv9h4cb3fa84u1g5hc",
+      "id": "20250626_s2f67pd5fg8a1el7hj6nmgndlc",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Egypt",
       "date": "2025-06-26"
     },
@@ -26801,9 +26794,9 @@
       "date": "2025-06-15"
     },
     {
-      "id": "20250626_v896qulcmafauc61njo0o5i15g",
+      "id": "20250626_ngrapsr8np1m6rfamqaea9vfao",
       "status": "confirmed",
-      "summary": "Islamic New Year (tentative)",
+      "summary": "Islamic New Year",
       "region": "Iraq",
       "date": "2025-06-26"
     },
@@ -29647,9 +29640,9 @@
       "date": "2025-06-10"
     },
     {
-      "id": "20250626_jcc50vokde2jadl23bf0b468dk",
+      "id": "20250626_e3anpo13e7nii0e49797teoqr8",
       "status": "confirmed",
-      "summary": "Muharram/New Year (tentative)",
+      "summary": "Muharram/New Year",
       "region": "Jordan",
       "date": "2025-06-26"
     },
@@ -30987,9 +30980,9 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250627_o1vp2qsj4o9euuqb38vqmlk0sc",
+      "id": "20250627_ne3mce055mba2j97cnno5532ec",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Comoros",
       "date": "2025-06-27"
     },
@@ -31623,9 +31616,9 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250626_pblu0n3hpfrik2a2dt9qrvcdmc",
+      "id": "20250626_dq83vkr0ace00tv3a4hpf9ls00",
       "status": "confirmed",
-      "summary": "Islamic New Year (tentative)",
+      "summary": "Islamic New Year",
       "region": "Kuwait",
       "date": "2025-06-26"
     },
@@ -32998,11 +32991,11 @@
       "date": "2025-06-07"
     },
     {
-      "id": "20250627_875imba87slij3blle11p7bq5s",
+      "id": "20250626_ehvul47kbdo6p8k7c9er20ie7k",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Lebanon",
-      "date": "2025-06-27"
+      "date": "2025-06-26"
     },
     {
       "id": "20250706_nmq6phgg3t5dgndtfkmjbfsdg4",
@@ -35100,11 +35093,11 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250627_fpf5acfnsa74ujvqf4mq20cp0c",
+      "id": "20250626_59f7ge1tk5us08i7or5dm1pe0k",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Libya",
-      "date": "2025-06-27"
+      "date": "2025-06-26"
     },
     {
       "id": "20250905_qu2hn9ehv4u3hrt2svjarfpep4",
@@ -35326,9 +35319,9 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250627_emf56pki3hjmpodn04knoo1vnk",
+      "id": "20250627_gdirsap503utmc3de7prh7aank",
       "status": "confirmed",
-      "summary": "Hijra New Year (tentative)",
+      "summary": "Hijra New Year",
       "region": "Morocco",
       "date": "2025-06-27"
     },
@@ -40482,9 +40475,9 @@
       "date": "2025-06-06"
     },
     {
-      "id": "20250627_nqhf1hhomcl5u3kcfb96e4ugl4",
+      "id": "20250627_b2n8h7giaopivg526glkfjiahs",
       "status": "confirmed",
-      "summary": "Muharram/Islamic New Year (tentative)",
+      "summary": "Muharram/Islamic New Year",
       "region": "Mauritania",
       "date": "2025-06-27"
     },
@@ -41435,11 +41428,11 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250627_27tnect3catn8s0sggn8n5isss",
+      "id": "20250626_qdt9nva88976voihgemq5tikoo",
       "status": "confirmed",
-      "summary": "Muharram/Islamic New Year (tentative)",
+      "summary": "Muharram/Islamic New Year",
       "region": "Maldives",
-      "date": "2025-06-27"
+      "date": "2025-06-26"
     },
     {
       "id": "20250726_hdm5f0t50h5qftrsv3smftvp4c",
@@ -42537,9 +42530,9 @@
       "date": "2025-06-15"
     },
     {
-      "id": "20250627_lpgs927nq9suj5blebaun1dejc",
+      "id": "20250627_09a62uc5vfttnl6i0f9p9n7lvg",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Niger",
       "date": "2025-06-27"
     },
@@ -44672,9 +44665,9 @@
       "date": "2025-06-26"
     },
     {
-      "id": "20250627_9k60dtbse2qscfdtb8djdvm1b0",
+      "id": "20250627_g9qcukk1k6oa8n0k2un0joldjc",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Oman",
       "date": "2025-06-27"
     },
@@ -50382,9 +50375,9 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250626_6utte0d388lgsmfeelldr77qro",
+      "id": "20250626_diai0jq09tucq3e8ks47lm40uc",
       "status": "confirmed",
-      "summary": "Muharram (Muslim New Year) (tentative)",
+      "summary": "Muharram (Muslim New Year)",
       "region": "Saudi Arabia",
       "date": "2025-06-26"
     },
@@ -53022,18 +53015,18 @@
       "date": "2025-06-17"
     },
     {
+      "id": "20250626_kg5da3c9hf7af6todaj0m3vol0",
+      "status": "confirmed",
+      "summary": "Muharram",
+      "region": "Somalia",
+      "date": "2025-06-26"
+    },
+    {
       "id": "20250626_s7fg0gf89tu7pv6aa2bgjeqv5s",
       "status": "confirmed",
       "summary": "Independence Day",
       "region": "Somalia",
       "date": "2025-06-26"
-    },
-    {
-      "id": "20250627_1rbetrumatcsqhpjq4bp2atfp8",
-      "status": "confirmed",
-      "summary": "Muharram (tentative)",
-      "region": "Somalia",
-      "date": "2025-06-27"
     },
     {
       "id": "20250701_q31km5moaj7shielccf0vf394o",
@@ -55770,11 +55763,11 @@
       "date": "2025-06-06"
     },
     {
-      "id": "20250627_00shi6q2f6frggnkde7li1dr3g",
+      "id": "20250626_9mmap9ns8jo0fr7ucn0mnuhv1s",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Syria",
-      "date": "2025-06-27"
+      "date": "2025-06-26"
     },
     {
       "id": "20250801_a7dsjn2nuub4h1q5uitrh1rip8",
@@ -58779,9 +58772,9 @@
       "date": "2025-06-07"
     },
     {
-      "id": "20250626_hu1eufbtjcdm2d0v9l3qbsad44",
+      "id": "20250626_b0vs6v03tmqhumhqjvdnfpi7e0",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Tunisia",
       "date": "2025-06-26"
     },
@@ -65235,11 +65228,11 @@
       "date": "2025-06-09"
     },
     {
-      "id": "20250627_b4n7v5csffe84e1m9ugnn9bhp0",
+      "id": "20250626_d17j73ddnbkf4s1v010g00lq54",
       "status": "confirmed",
-      "summary": "Muharram (tentative)",
+      "summary": "Muharram",
       "region": "Yemen",
-      "date": "2025-06-27"
+      "date": "2025-06-26"
     },
     {
       "id": "20250707_2a4r55ikuhbl0g2brl7cqvm294",
