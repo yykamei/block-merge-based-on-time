@@ -437,9 +437,16 @@
       "date": "2025-06-08"
     },
     {
-      "id": "20250627_guqjvdvk0toik8gg13b8ub05hs",
+      "id": "20250626_si298b366bv9lmvnitr0o9cq18",
       "status": "confirmed",
-      "summary": "Al-Hijra (Islamic New Year) (tentative)",
+      "summary": "Al-Hijra (Islamic New Year)",
+      "region": "United Arab Emirates",
+      "date": "2025-06-26"
+    },
+    {
+      "id": "20250627_56dvo3u7jgc4703lohpnbcpi2g",
+      "status": "confirmed",
+      "summary": "Al-Hijra Holiday (Islamic New Year)",
       "region": "United Arab Emirates",
       "date": "2025-06-27"
     },
@@ -2670,11 +2677,11 @@
       "date": "2025-06-20"
     },
     {
-      "id": "20250627_n7huobsvjchp9gfop7ejaerp8k",
+      "id": "20250626_u8tiibpjeenhde6g7f6fe88bco",
       "status": "confirmed",
-      "summary": "Muharram/New Year (tentative)",
+      "summary": "Muharram/New Year",
       "region": "Argentina",
-      "date": "2025-06-27"
+      "date": "2025-06-26"
     },
     {
       "id": "20250709_oas18j65jo76adgej9ovprgmk0",
@@ -45984,11 +45991,11 @@
       "date": "2025-06-12"
     },
     {
-      "id": "20250627_031rq5p6e1iojvukikkuirbd7o",
+      "id": "20250626_j929kmsi0783ek9nsl4eo0nofs",
       "status": "confirmed",
-      "summary": "Amun Jadid (tentative)",
+      "summary": "Amun Jadid",
       "region": "Philippines",
-      "date": "2025-06-27"
+      "date": "2025-06-26"
     },
     {
       "id": "20250821_hrpja8m7692s0p253367j2gu38",
