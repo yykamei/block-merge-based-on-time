@@ -6185,18 +6185,18 @@
       "date": "2025-06-26"
     },
     {
-      "id": "20250706_k9vcea7mk3m1ijkv3cv990eiek",
+      "id": "20250704_3huakbc9oub91hoj7cggusnbh4",
       "status": "confirmed",
-      "summary": "Ashoora (tentative)",
+      "summary": "Ashoora Holiday",
       "region": "Bahrain",
-      "date": "2025-07-06"
+      "date": "2025-07-04"
     },
     {
-      "id": "20250707_a5r885hlmn59jd4a2c9mtqsb24",
+      "id": "20250705_fht32ivkprq0rnp9cei6qclgb8",
       "status": "confirmed",
-      "summary": "Ashoora Holiday (tentative)",
+      "summary": "Ashoora",
       "region": "Bahrain",
-      "date": "2025-07-07"
+      "date": "2025-07-05"
     },
     {
       "id": "20250904_1cn86mm1vuhq94ndfa25hp5vkk",
@@ -24908,7 +24908,7 @@
     {
       "id": "20251231_bn6c6v5a5pnleb6l3aot9at6to",
       "status": "confirmed",
-      "summary": "New Year��s Eve",
+      "summary": "New Year’s Eve",
       "region": "Hong Kong",
       "date": "2025-12-31"
     },
@@ -34327,6 +34327,13 @@
       "summary": "Father's Day",
       "region": "Sri Lanka",
       "date": "2025-06-15"
+    },
+    {
+      "id": "20250627_v4e5g7vatjo3baa1sdq3utqgq0",
+      "status": "confirmed",
+      "summary": "Muharram",
+      "region": "Sri Lanka",
+      "date": "2025-06-27"
     },
     {
       "id": "20250710_cibdugkkrm2klma38l9qdm1of8",
