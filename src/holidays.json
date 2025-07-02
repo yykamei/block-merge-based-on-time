@@ -5332,9 +5332,9 @@
       "date": "2025-07-01"
     },
     {
-      "id": "20250706_ld10a215rt709f1m4nc546cc30",
+      "id": "20250706_pent51l81c5ng3gapu5n02q56s",
       "status": "confirmed",
-      "summary": "Ashura (tentative)",
+      "summary": "Ashura",
       "region": "Bangladesh",
       "date": "2025-07-06"
     },
@@ -5344,6 +5344,13 @@
       "summary": "Ashari Purnima",
       "region": "Bangladesh",
       "date": "2025-07-09"
+    },
+    {
+      "id": "20250805_ccbnlb3jjqu6on6ugc2fp1g6h8",
+      "status": "confirmed",
+      "summary": "Student-People Uprising Day",
+      "region": "Bangladesh",
+      "date": "2025-08-05"
     },
     {
       "id": "20250816_tc376vsp6km09eap82bo7dtck4",
@@ -16829,9 +16836,9 @@
       "date": "2025-07-05"
     },
     {
-      "id": "20250706_vboa23ecjku04bvqoal2lkc17k",
+      "id": "20250706_psmos946mlhhuijolgteor0qu4",
       "status": "confirmed",
-      "summary": "Day of Achura (tentative)",
+      "summary": "Day of Achura",
       "region": "Algeria",
       "date": "2025-07-06"
     },
@@ -17731,11 +17738,11 @@
       "date": "2025-07-03"
     },
     {
-      "id": "20250706_nknm1kialbv1hl3n6l0tbsjois",
+      "id": "20250705_te7kb2g1sd2r2pa2qrackpkaok",
       "status": "confirmed",
-      "summary": "Ashura (tentative)",
+      "summary": "Ashura",
       "region": "Egypt",
-      "date": "2025-07-06"
+      "date": "2025-07-05"
     },
     {
       "id": "20250723_lrjc9efmav6iisvpvkvread19c",
@@ -27146,18 +27153,18 @@
       "date": "2025-06-14"
     },
     {
-      "id": "20250705_9nvqqb5lslm6f9ip5q9sfb40qk",
+      "id": "20250704_m75omgvstdisokplo95196houo",
       "status": "confirmed",
-      "summary": "Tassoua (tentative)",
+      "summary": "Tassoua",
       "region": "Iran",
-      "date": "2025-07-05"
+      "date": "2025-07-04"
     },
     {
-      "id": "20250706_4u5naggj18gm1k77q9cpgn94tc",
+      "id": "20250705_9k1l47e4th4jqmr5pjmmi9h67o",
       "status": "confirmed",
-      "summary": "Ashura (tentative)",
+      "summary": "Ashura",
       "region": "Iran",
-      "date": "2025-07-06"
+      "date": "2025-07-05"
     },
     {
       "id": "20250814_4lv8a2e35bir7udnqrors905f0",
