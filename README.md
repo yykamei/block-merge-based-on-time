@@ -68,6 +68,26 @@ These are all available inputs.
 
 - `pr-blocked` — A boolean value to indicate the pull reuqest is blocked. This is set only when the `pull_request` event occurs.
 
+## Forked Pull Request Support
+
+This action fully supports pull requests from forked repositories. When processing forked pull requests, the action:
+
+- Runs in the context of the base repository with the necessary permissions
+- Creates commit statuses on the forked pull request's commits 
+- Applies the same blocking logic as regular pull requests
+- Logs additional information to help with debugging
+
+**Required Permissions:** Make sure your workflow includes the following permissions for the action to work correctly with forked pull requests:
+
+```yaml
+permissions:
+  contents: read       # Read repository content
+  pull-requests: read  # Read pull request information  
+  statuses: write      # Create commit statuses
+```
+
+**Note:** The automated build process in CI will provide helpful feedback to contributors of forked pull requests when build artifacts need to be updated, but cannot automatically push changes to forked repositories due to security restrictions.
+
 ## Regional holidays
 
 This tool supports blocking merges based on regional holidays. For example, February 11th is "National Foundation Day"

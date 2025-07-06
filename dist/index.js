@@ -40335,15 +40335,23 @@ async function createCommitStatus(octokit, pullRequestStatus, inputs, state) {
             break;
         }
     }
-    await octokit.rest.repos.createCommitStatus({
-        owner,
-        repo,
-        sha,
-        state,
-        context,
-        description,
-        target_url: targetUrl,
-    });
+    try {
+        await octokit.rest.repos.createCommitStatus({
+            owner,
+            repo,
+            sha,
+            state,
+            context,
+            description,
+            target_url: targetUrl,
+        });
+        core.info(`Successfully created commit status "${state}" for commit ${sha} on PR #${pullRequestStatus.number}`);
+    }
+    catch (error) {
+        const errorMessage = error instanceof Error ? error.message : String(error);
+        core.error(`Failed to create commit status for commit ${sha} on PR #${pullRequestStatus.number}: ${errorMessage}`);
+        throw new Error(`Failed to create commit status: ${errorMessage}`);
+    }
 }
 async function defaultBranch(octokit, owner, repo) {
     core.debug(`Start defaultBranch() to get the default branch of ${owner}/${repo}`);
@@ -40359,7 +40367,8 @@ query($owner: String!, $repo: String!) {
 }
 async function pull(octokit, owner, repo, contextName, pullNumber) {
     core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`);
-    const result = await octokit.graphql(`
+    try {
+        const result = await octokit.graphql(`
 query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!) {
   repository(owner: $owner, name: $repo) {
     defaultBranchRef {
@@ -40394,24 +40403,30 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
     }
   }
 }`, { owner, repo, contextName, pullNumber });
-    core.debug(`pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`);
-    const commit = result.repository.pullRequest.commits.edges[0];
-    if (commit == null) {
-        throw new Error("commit should be present");
+        core.debug(`pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`);
+        const commit = result.repository.pullRequest.commits.edges[0];
+        if (commit == null) {
+            throw new Error("commit should be present");
+        }
+        const pull = {
+            owner,
+            repo,
+            number: pullNumber,
+            baseBranch: result.repository.pullRequest.baseRefName,
+            sha: commit.node.commit.oid,
+            labels: result.repository.pullRequest.labels.edges.map(({ node: { name } }) => name),
+            state: commit.node.commit.status?.context?.state,
+        };
+        return {
+            defaultBranch: result.repository.defaultBranchRef.name,
+            pull,
+        };
     }
-    const pull = {
-        owner,
-        repo,
-        number: pullNumber,
-        baseBranch: result.repository.pullRequest.baseRefName,
-        sha: commit.node.commit.oid,
-        labels: result.repository.pullRequest.labels.edges.map(({ node: { name } }) => name),
-        state: commit.node.commit.status?.context?.state,
-    };
-    return {
-        defaultBranch: result.repository.defaultBranchRef.name,
-        pull,
-    };
+    catch (error) {
+        const errorMessage = error instanceof Error ? error.message : String(error);
+        core.error(`Failed to fetch pull request #${pullNumber} from ${owner}/${repo}: ${errorMessage}`);
+        throw new Error(`Failed to fetch pull request: ${errorMessage}`);
+    }
 }
 async function pulls(octokit, owner, repo, contextName) {
     core.debug(`Start pulls() to get the pull requests of ${owner}/${repo}`);
@@ -40539,16 +40554,31 @@ async function handlePull(inputs) {
     if (number == null) {
         throw new Error(`handlePull can only be used for a pull request event`);
     }
-    const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number);
-    // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
-    const state = inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
-        shouldBlock(inputs) &&
-        !result.pull.labels.some((label) => inputs.noBlockLabel.includes(label))
-        ? "pending"
-        : "success";
-    core.debug(`We decided to make the state "${state}"`);
-    core.setOutput("pr-blocked", state === "success" ? "false" : "true");
-    return createCommitStatus(octokit, result.pull, inputs, state);
+    // Add logging for forked PRs
+    const isForkedPR = github.context.payload.pull_request?.['head']?.repo?.full_name !== github.context.payload.pull_request?.['base']?.repo?.full_name;
+    if (isForkedPR) {
+        core.info(`Processing forked pull request #${number} from ${github.context.payload.pull_request?.['head']?.repo?.full_name}`);
+    }
+    try {
+        const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number);
+        // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
+        const state = inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
+            shouldBlock(inputs) &&
+            !result.pull.labels.some((label) => inputs.noBlockLabel.includes(label))
+            ? "pending"
+            : "success";
+        core.debug(`We decided to make the state "${state}"`);
+        core.setOutput("pr-blocked", state === "success" ? "false" : "true");
+        return createCommitStatus(octokit, result.pull, inputs, state);
+    }
+    catch (error) {
+        const errorMessage = error instanceof Error ? error.message : String(error);
+        core.error(`Failed to process pull request #${number}: ${errorMessage}`);
+        if (isForkedPR) {
+            core.error(`This error occurred while processing a forked pull request. Please check if the action has sufficient permissions.`);
+        }
+        throw error;
+    }
 }
 
 ;// CONCATENATED MODULE: ./src/main.ts

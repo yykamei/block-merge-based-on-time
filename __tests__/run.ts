@@ -252,6 +252,44 @@ You can resolve the problems with these actions: updating the pull requests with
         expect(createCommitStatus).toHaveBeenCalledWith(octokit, pullData, expect.any(Inputs), expectedState)
       },
     )
+
+    test("handles forked pull requests correctly", async () => {
+      const setOutput = jest.spyOn(core, "setOutput").mockImplementation(jest.fn)
+      const infoSpy = jest.spyOn(core, "info").mockImplementation(jest.fn)
+      const pullData = {
+        owner: "FAORG",
+        repo: "repo1",
+        number: 324,
+        baseBranch: "main",
+        labels: ["bug"],
+        sha: "commit1",
+      }
+      jest.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
+      const pull = jest.spyOn(api, "pull").mockImplementation(async () => ({
+        defaultBranch: "main",
+        pull: pullData,
+      }))
+      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+      jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
+      
+      // Mock a forked PR payload
+      Object.defineProperty(github.context, "payload", { 
+        value: { 
+          pull_request: { 
+            number: 324,
+            ['head']: { repo: { full_name: "contributor/repo1" } },
+            ['base']: { repo: { full_name: "FAORG/repo1" } }
+          } 
+        } 
+      } as any)
+      
+      await run()
+      
+      expect(pull).toHaveBeenCalledWith(octokit, "FAORG", "repo1", "my-blocker", 324)
+      expect(setOutput).toBeCalledWith("pr-blocked", "true")
+      expect(createCommitStatus).toHaveBeenCalledWith(octokit, pullData, expect.any(Inputs), "pending")
+      expect(infoSpy).toHaveBeenCalledWith("Processing forked pull request #324 from contributor/repo1")
+    })
   })
 
   describe.each([["push", "release", "create"]])("when the event is %s", (event) => {
