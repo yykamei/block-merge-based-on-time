@@ -93,15 +93,23 @@ export async function createCommitStatus(
       break
     }
   }
-  await octokit.rest.repos.createCommitStatus({
-    owner,
-    repo,
-    sha,
-    state,
-    context,
-    description,
-    target_url: targetUrl,
-  })
+  
+  try {
+    await octokit.rest.repos.createCommitStatus({
+      owner,
+      repo,
+      sha,
+      state,
+      context,
+      description,
+      target_url: targetUrl,
+    })
+    core.info(`Successfully created commit status "${state}" for commit ${sha} on PR #${pullRequestStatus.number}`)
+  } catch (error) {
+    const errorMessage = error instanceof Error ? error.message : String(error)
+    core.error(`Failed to create commit status for commit ${sha} on PR #${pullRequestStatus.number}: ${errorMessage}`)
+    throw new Error(`Failed to create commit status: ${errorMessage}`)
+  }
 }
 
 export async function defaultBranch(
@@ -132,8 +140,10 @@ export async function pull(
   pullNumber: number,
 ): Promise<{ readonly defaultBranch: string; readonly pull: PullRequestStatus }> {
   core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`)
-  const result: PullResponse = await octokit.graphql(
-    `
+  
+  try {
+    const result: PullResponse = await octokit.graphql(
+      `
 query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!) {
   repository(owner: $owner, name: $repo) {
     defaultBranchRef {
@@ -168,28 +178,33 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
     }
   }
 }`,
-    { owner, repo, contextName, pullNumber },
-  )
-  core.debug(
-    `pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`,
-  )
+      { owner, repo, contextName, pullNumber },
+    )
+    core.debug(
+      `pull() got the pull request: #${result.repository.pullRequest.number} ${result.repository.pullRequest.title}`,
+    )
 
-  const commit = result.repository.pullRequest.commits.edges[0]
-  if (commit == null) {
-    throw new Error("commit should be present")
-  }
-  const pull: PullRequestStatus = {
-    owner,
-    repo,
-    number: pullNumber,
-    baseBranch: result.repository.pullRequest.baseRefName,
-    sha: commit.node.commit.oid,
-    labels: result.repository.pullRequest.labels.edges.map(({ node: { name } }) => name),
-    state: commit.node.commit.status?.context?.state,
-  }
-  return {
-    defaultBranch: result.repository.defaultBranchRef.name,
-    pull,
+    const commit = result.repository.pullRequest.commits.edges[0]
+    if (commit == null) {
+      throw new Error("commit should be present")
+    }
+    const pull: PullRequestStatus = {
+      owner,
+      repo,
+      number: pullNumber,
+      baseBranch: result.repository.pullRequest.baseRefName,
+      sha: commit.node.commit.oid,
+      labels: result.repository.pullRequest.labels.edges.map(({ node: { name } }) => name),
+      state: commit.node.commit.status?.context?.state,
+    }
+    return {
+      defaultBranch: result.repository.defaultBranchRef.name,
+      pull,
+    }
+  } catch (error) {
+    const errorMessage = error instanceof Error ? error.message : String(error)
+    core.error(`Failed to fetch pull request #${pullNumber} from ${owner}/${repo}: ${errorMessage}`)
+    throw new Error(`Failed to fetch pull request: ${errorMessage}`)
   }
 }
 

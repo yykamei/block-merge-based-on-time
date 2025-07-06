@@ -66,16 +66,32 @@ async function handlePull(inputs: Inputs): Promise<void> {
   if (number == null) {
     throw new Error(`handlePull can only be used for a pull request event`)
   }
-  const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number)
+  
+  // Add logging for forked PRs
+  const isForkedPR = context.payload.pull_request?.['head']?.repo?.full_name !== context.payload.pull_request?.['base']?.repo?.full_name
+  if (isForkedPR) {
+    core.info(`Processing forked pull request #${number} from ${context.payload.pull_request?.['head']?.repo?.full_name}`)
+  }
+  
+  try {
+    const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number)
 
-  // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
-  const state =
-    inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
-    shouldBlock(inputs) &&
-    !result.pull.labels.some((label) => inputs.noBlockLabel.includes(label))
-      ? "pending"
-      : "success"
-  core.debug(`We decided to make the state "${state}"`)
-  core.setOutput("pr-blocked", state === "success" ? "false" : "true")
-  return createCommitStatus(octokit, result.pull, inputs, state)
+    // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
+    const state =
+      inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
+      shouldBlock(inputs) &&
+      !result.pull.labels.some((label) => inputs.noBlockLabel.includes(label))
+        ? "pending"
+        : "success"
+    core.debug(`We decided to make the state "${state}"`)
+    core.setOutput("pr-blocked", state === "success" ? "false" : "true")
+    return createCommitStatus(octokit, result.pull, inputs, state)
+  } catch (error) {
+    const errorMessage = error instanceof Error ? error.message : String(error)
+    core.error(`Failed to process pull request #${number}: ${errorMessage}`)
+    if (isForkedPR) {
+      core.error(`This error occurred while processing a forked pull request. Please check if the action has sufficient permissions.`)
+    }
+    throw error
+  }
 }
