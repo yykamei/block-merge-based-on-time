@@ -74,3 +74,51 @@ jobs:
       - run: git diff --exit-code --quiet
         id: git_diff
         continue-on-error: true
+      - name: Comment on PR if build artifacts are out of date
+        if: steps.git_diff.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const issue_number = context.payload.pull_request.number;
+            
+            const comment = `❌ **Build artifacts are out of date**
+            
+            This forked pull request has build artifacts that are out of date. Since this is a forked repository, the automated build process cannot push changes back to your branch.
+            
+            **To fix this issue, please run the following commands in your local repository:**
+            
+            \`\`\`bash
+            npm run build
+            git add dist/
+            git commit -m "Update build artifacts"
+            git push
+            \`\`\`
+            
+            After pushing the updated build artifacts, this check will pass automatically.`;
+            
+            // Check if we already commented on this PR
+            const comments = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number,
+            });
+            
+            const existingComment = comments.data.find(comment => 
+              comment.user.login === 'github-actions[bot]' && 
+              comment.body.includes('Build artifacts are out of date')
+            );
+            
+            if (!existingComment) {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number,
+                body: comment
+              });
+            }
+      - name: Fail the job if build artifacts are out of date
+        if: steps.git_diff.outcome == 'failure'
+        run: |
+          echo "❌ Build artifacts are out of date. Please run 'npm run build' locally and commit the changes."
+          exit 1
