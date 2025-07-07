@@ -248,7 +248,7 @@ You can resolve the problems with these actions: updating the pull requests with
         Object.defineProperty(github.context, "payload", { value: { pull_request: { number: 324 } } } as any)
         await run()
         expect(pull).toHaveBeenCalledWith(octokit, "FAORG", "repo1", "my-blocker", 324)
-        expect(setOutput).toBeCalledWith("pr-blocked", prBlocked)
+        expect(setOutput).toHaveBeenCalledWith("pr-blocked", prBlocked)
         expect(createCommitStatus).toHaveBeenCalledWith(octokit, pullData, expect.any(Inputs), expectedState)
       },
     )
@@ -263,7 +263,7 @@ You can resolve the problems with these actions: updating the pull requests with
       const warning = jest.spyOn(core, "warning").mockImplementation(jest.fn)
       await run()
 
-      expect(warning).toBeCalledWith(`This action does not support the event "${event}"`)
+      expect(warning).toHaveBeenCalledWith(`This action does not support the event "${event}"`)
     })
   })
 })
