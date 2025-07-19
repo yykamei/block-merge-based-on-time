@@ -43542,18 +43542,18 @@
       "date": "2025-05-27"
     },
     {
-      "id": "20250607_8d2qofnfj1561stvoq6i0gb7r8",
+      "id": "20250606_8s5p3mv12d19e5pb4bsddvltb0",
       "status": "confirmed",
-      "summary": "Id el Kabir (tentative)",
+      "summary": "Id el Kabir",
       "region": "Nigeria",
-      "date": "2025-06-07"
+      "date": "2025-06-06"
     },
     {
-      "id": "20250608_hgh4gglncr3b2cegetv4pfltsk",
+      "id": "20250609_nfca6fqi5lsi09lqdbl25r1acs",
       "status": "confirmed",
-      "summary": "Id el Kabir additional holiday (tentative)",
+      "summary": "Id el Kabir additional holiday",
       "region": "Nigeria",
-      "date": "2025-06-08"
+      "date": "2025-06-09"
     },
     {
       "id": "20250612_t1739kcr8ta3qrt2mdhpa91o1s",
@@ -43570,11 +43570,18 @@
       "date": "2025-06-15"
     },
     {
-      "id": "20250627_q8dc6bnkvhbq1vdq7a9v04qho0",
+      "id": "20250626_pcpp7tblnl4ddi7c6ajpcebs9o",
       "status": "confirmed",
-      "summary": "Al-Hijra (tentative)",
+      "summary": "Al-Hijra",
       "region": "Nigeria",
-      "date": "2025-06-27"
+      "date": "2025-06-26"
+    },
+    {
+      "id": "20250715_484g4sb9o0851r71481ajrhs18",
+      "status": "confirmed",
+      "summary": "Day of Mourning for President Muhammadu Buhari",
+      "region": "Nigeria",
+      "date": "2025-07-15"
     },
     {
       "id": "20250905_0j231oj8tbckc4mjk8led2vprg",
@@ -47334,9 +47341,9 @@
       "date": "2025-05-03"
     },
     {
-      "id": "20250526_vvbk2ovei1g7o3guepcrr9bmns",
+      "id": "20250526_mlo4r14232te2g5okrr00v8k2o",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother’s Day",
       "region": "Poland",
       "date": "2025-05-26"
     },
@@ -47362,9 +47369,9 @@
       "date": "2025-06-19"
     },
     {
-      "id": "20250623_ag018o1p2bbhsgvv4oqio4d49k",
+      "id": "20250623_iihqrppn6ai3vm0s8dprvk28j8",
       "status": "confirmed",
-      "summary": "Fathers' Day",
+      "summary": "Father’s Day",
       "region": "Poland",
       "date": "2025-06-23"
     },
@@ -47502,9 +47509,9 @@
       "date": "2026-05-24"
     },
     {
-      "id": "20260526_c3587lde310e3j5gk5fjhk7shs",
+      "id": "20260526_dkmabqrk3b4cvn0kfnr6bi1r8c",
       "status": "confirmed",
-      "summary": "Mothers' Day",
+      "summary": "Mother’s Day",
       "region": "Poland",
       "date": "2026-05-26"
     },
@@ -47523,9 +47530,9 @@
       "date": "2026-06-04"
     },
     {
-      "id": "20260623_umc3flqhh4h7ihcn63dgh07m6o",
+      "id": "20260623_o9kse4kfe1k6h6fn7qgtqbvo0g",
       "status": "confirmed",
-      "summary": "Fathers' Day",
+      "summary": "Father’s Day",
       "region": "Poland",
       "date": "2026-06-23"
     },
