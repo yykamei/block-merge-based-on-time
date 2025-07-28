@@ -43,9 +43,9 @@
       "date": "2025-03-30"
     },
     {
-      "id": "20250417_0ogluuojkl68t2vr5lvpdvvgj4",
+      "id": "20250417_inufb97u2h3kat9bpafksvk3b0",
       "status": "confirmed",
-      "summary": "Maundy Thursday (Starting Noon)",
+      "summary": "Maundy Thursday (Starting Noon) (half-day)",
       "region": "Andorra",
       "date": "2025-04-17"
     },
@@ -57,7 +57,7 @@
       "date": "2025-04-18"
     },
     {
-      "id": "20250419_jbr2qln7beleviikg3ti0mkl8c",
+      "id": "20250419_t0a86pg54ji4oluppqv6rlrosg",
       "status": "confirmed",
       "summary": "Holy Saturday",
       "region": "Andorra",
@@ -148,7 +148,7 @@
       "date": "2025-12-08"
     },
     {
-      "id": "20251224_d2bs3u97tl5vqs3vl986pb7hvo",
+      "id": "20251224_sajf82t674k7p59noakb6pj44k",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Andorra",
@@ -169,7 +169,7 @@
       "date": "2025-12-26"
     },
     {
-      "id": "20251231_2ihq4dmr7lflmc3onto75i5mds",
+      "id": "20251231_b1eoq3p82ebvamg25351qv7b74",
       "status": "confirmed",
       "summary": "New Year's Eve (Bank holiday)",
       "region": "Andorra",
@@ -218,9 +218,9 @@
       "date": "2026-03-29"
     },
     {
-      "id": "20260402_nm2b5n1qvqhvtbe1amnveeu98o",
+      "id": "20260402_1qklq9slq8dv0204h981441nlo",
       "status": "confirmed",
-      "summary": "Maundy Thursday (Starting Noon)",
+      "summary": "Maundy Thursday (Starting Noon) (half-day)",
       "region": "Andorra",
       "date": "2026-04-02"
     },
@@ -232,7 +232,7 @@
       "date": "2026-04-03"
     },
     {
-      "id": "20260404_pnt44ukhbi48o7lnb2m67dri7o",
+      "id": "20260404_28n0ip6vsk9edga9ctar1hls2o",
       "status": "confirmed",
       "summary": "Holy Saturday",
       "region": "Andorra",
@@ -323,7 +323,7 @@
       "date": "2026-12-08"
     },
     {
-      "id": "20261224_qcto6ldsdps60liieu2uqrh0pk",
+      "id": "20261224_6mc0h2rfvejehd8l6e3otjit70",
       "status": "confirmed",
       "summary": "Christmas Eve",
       "region": "Andorra",
@@ -344,7 +344,7 @@
       "date": "2026-12-26"
     },
     {
-      "id": "20261231_2nttbsv7c9ch5ebo17qsonus9k",
+      "id": "20261231_53fo2o81t24ssn2ier0nto2t94",
       "status": "confirmed",
       "summary": "New Year's Eve (Bank holiday)",
       "region": "Andorra",
@@ -2698,11 +2698,11 @@
       "date": "2025-08-15"
     },
     {
-      "id": "20250818_t9bh1rcta5pj591nojj2c3p5qg",
+      "id": "20250817_v5bclsn2e6v2g6c714r875aaag",
       "status": "confirmed",
       "summary": "San Martín Day",
       "region": "Argentina",
-      "date": "2025-08-18"
+      "date": "2025-08-17"
     },
     {
       "id": "20250922_59u80n3oa32lj82kcr90f5ub40",
@@ -2955,13 +2955,6 @@
       "summary": "Independence day",
       "region": "Argentina",
       "date": "2026-07-09"
-    },
-    {
-      "id": "20260817_bqsh47hts073hj5afu5bukjbuo",
-      "status": "confirmed",
-      "summary": "San Martín Day",
-      "region": "Argentina",
-      "date": "2026-08-17"
     },
     {
       "id": "20260911_oucq9vje84jiu0s1n8oao4ci84",
@@ -17969,11 +17962,18 @@
       "date": "2025-07-05"
     },
     {
-      "id": "20250723_lrjc9efmav6iisvpvkvread19c",
+      "id": "20250723_gpq4soleeac1buk1mtg2rgmung",
       "status": "confirmed",
       "summary": "Revolution Day July 23",
       "region": "Egypt",
       "date": "2025-07-23"
+    },
+    {
+      "id": "20250724_u2u8l8pqburp9krllqriem9q94",
+      "status": "confirmed",
+      "summary": "Day off for Revolution Day July 23",
+      "region": "Egypt",
+      "date": "2025-07-24"
     },
     {
       "id": "20250815_kfd6h96j8frkjopenfrac82il8",
@@ -25132,7 +25132,7 @@
     {
       "id": "20251231_bn6c6v5a5pnleb6l3aot9at6to",
       "status": "confirmed",
-      "summary": "New Year��s Eve",
+      "summary": "New Year’s Eve",
       "region": "Hong Kong",
       "date": "2025-12-31"
     },
