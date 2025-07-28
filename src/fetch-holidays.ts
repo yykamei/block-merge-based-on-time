@@ -284,11 +284,8 @@ const fetch = (region: string, calendarId: string): Promise<HolidayEntry[]> => {
           const parsedData: any = JSON.parse(data) // eslint-disable-line @typescript-eslint/no-explicit-any
           resolve(
             // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            parsedData.items.map(({ id, status, summary, start }: any) => {
+            parsedData.items.map(({ start }: any) => {
               return {
-                id,
-                status,
-                summary,
                 region,
                 date: start.date,
               }
