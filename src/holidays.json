@@ -5624,6 +5624,18 @@
     },
     {
       "region": "Belarus",
+      "date": "2026-04-20"
+    },
+    {
+      "region": "Belarus",
+      "date": "2026-04-21"
+    },
+    {
+      "region": "Belarus",
+      "date": "2026-04-25"
+    },
+    {
+      "region": "Belarus",
       "date": "2026-04-26"
     },
     {
@@ -15216,6 +15228,14 @@
     },
     {
       "region": "India",
+      "date": "2026-02-01"
+    },
+    {
+      "region": "India",
+      "date": "2026-02-12"
+    },
+    {
+      "region": "India",
       "date": "2026-02-15"
     },
     {
@@ -15225,6 +15245,10 @@
     {
       "region": "India",
       "date": "2026-02-19"
+    },
+    {
+      "region": "India",
+      "date": "2026-03-03"
     },
     {
       "region": "India",
@@ -15240,11 +15264,19 @@
     },
     {
       "region": "India",
+      "date": "2026-03-20"
+    },
+    {
+      "region": "India",
       "date": "2026-03-21"
     },
     {
       "region": "India",
       "date": "2026-03-26"
+    },
+    {
+      "region": "India",
+      "date": "2026-03-31"
     },
     {
       "region": "India",
@@ -15260,7 +15292,27 @@
     },
     {
       "region": "India",
-      "date": "2026-05-28"
+      "date": "2026-04-14"
+    },
+    {
+      "region": "India",
+      "date": "2026-04-14"
+    },
+    {
+      "region": "India",
+      "date": "2026-04-15"
+    },
+    {
+      "region": "India",
+      "date": "2026-05-01"
+    },
+    {
+      "region": "India",
+      "date": "2026-05-09"
+    },
+    {
+      "region": "India",
+      "date": "2026-05-27"
     },
     {
       "region": "India",
@@ -15273,6 +15325,10 @@
     {
       "region": "India",
       "date": "2026-08-15"
+    },
+    {
+      "region": "India",
+      "date": "2026-08-26"
     },
     {
       "region": "India",
@@ -15308,7 +15364,19 @@
     },
     {
       "region": "India",
+      "date": "2026-10-18"
+    },
+    {
+      "region": "India",
+      "date": "2026-10-19"
+    },
+    {
+      "region": "India",
       "date": "2026-10-20"
+    },
+    {
+      "region": "India",
+      "date": "2026-10-26"
     },
     {
       "region": "India",
@@ -15320,11 +15388,23 @@
     },
     {
       "region": "India",
+      "date": "2026-11-08"
+    },
+    {
+      "region": "India",
+      "date": "2026-11-09"
+    },
+    {
+      "region": "India",
       "date": "2026-11-11"
     },
     {
       "region": "India",
       "date": "2026-11-15"
+    },
+    {
+      "region": "India",
+      "date": "2026-11-24"
     },
     {
       "region": "India",
@@ -20063,6 +20143,10 @@
     {
       "region": "Liberia",
       "date": "2025-07-05"
+    },
+    {
+      "region": "Liberia",
+      "date": "2025-07-30"
     },
     {
       "region": "Liberia",
@@ -30990,6 +31074,10 @@
     },
     {
       "region": "South Korea",
+      "date": "2026-06-03"
+    },
+    {
+      "region": "South Korea",
       "date": "2026-06-06"
     },
     {
@@ -30999,6 +31087,10 @@
     {
       "region": "South Korea",
       "date": "2026-08-15"
+    },
+    {
+      "region": "South Korea",
+      "date": "2026-08-17"
     },
     {
       "region": "South Korea",
@@ -31019,6 +31111,10 @@
     {
       "region": "South Korea",
       "date": "2026-10-03"
+    },
+    {
+      "region": "South Korea",
+      "date": "2026-10-05"
     },
     {
       "region": "South Korea",
@@ -37202,10 +37298,6 @@
     },
     {
       "region": "Vanuatu",
-      "date": "2025-10-06"
-    },
-    {
-      "region": "Vanuatu",
       "date": "2025-11-29"
     },
     {
@@ -37263,10 +37355,6 @@
     {
       "region": "Vanuatu",
       "date": "2026-11-29"
-    },
-    {
-      "region": "Vanuatu",
-      "date": "2026-11-30"
     },
     {
       "region": "Vanuatu",
@@ -37427,6 +37515,14 @@
     {
       "region": "Samoa",
       "date": "2025-08-11"
+    },
+    {
+      "region": "Samoa",
+      "date": "2025-08-28"
+    },
+    {
+      "region": "Samoa",
+      "date": "2025-08-29"
     },
     {
       "region": "Samoa",
