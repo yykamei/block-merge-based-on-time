@@ -1,8 +1,9 @@
 import { getInput } from "@actions/core"
+import { readFileSync, existsSync } from "fs"
 import type { Zone } from "luxon"
 import { DateTime, Interval } from "luxon"
 import holidays from "./holidays.json"
-import type { Dates, Days, DaysDates, HolidayEntry, Hours } from "./types"
+import type { Dates, Days, DaysDates, HolidayEntry, Hours, Holidays } from "./types"
 
 export class Inputs {
   public readonly token: string
@@ -23,7 +24,9 @@ export class Inputs {
     this.timezone = timeZone()
     this.after = hours("after", this.timezone)
     this.before = hours("before", this.timezone)
-    const [days, dates] = prohibitedDaysDates(this.timezone)
+    const customHolidaysPath = getInput("custom-holidays-path")
+    const customHolidays = customHolidaysPath ? loadCustomHolidays(customHolidaysPath) : null
+    const [days, dates] = prohibitedDaysDates(this.timezone, customHolidays)
     this.prohibitedDays = days
     this.prohibitedDates = dates
     this.noBlockLabel = stringOr(getInput("no-block-label"), "no-block")
@@ -114,7 +117,53 @@ function hours(key: "after" | "before", zone: Zone): Hours {
   return result
 }
 
-function holidayEntries(region: string): HolidayEntry[] {
+function loadCustomHolidays(filePath: string): Holidays {
+  if (!existsSync(filePath)) {
+    throw new Error(`Custom holidays file does not exist: "${filePath}"`)
+  }
+
+  const content = readFileSync(filePath, "utf8")
+  let parsed: object
+  try {
+    parsed = JSON.parse(content)
+  } catch {
+    throw new Error(`Expected JSON format: {"key": [{"date": "YYYY-MM-DD"}]} but got different format in "${filePath}"`)
+  }
+
+  // Validate JSON format
+  if (typeof parsed !== "object" || parsed === null) {
+    throw new Error(`Expected JSON format: {"key": [{"date": "YYYY-MM-DD"}]} but got different format in "${filePath}"`)
+  }
+
+  for (const [, value] of Object.entries(parsed)) {
+    if (!Array.isArray(value)) {
+      throw new Error(
+        `Expected JSON format: {"key": [{"date": "YYYY-MM-DD"}]} but got different format in "${filePath}"`,
+      )
+    }
+
+    for (const entry of value) {
+      if (typeof entry !== "object" || entry === null || typeof entry.date !== "string") {
+        throw new Error(
+          `Expected JSON format: {"key": [{"date": "YYYY-MM-DD"}]} but got different format in "${filePath}"`,
+        )
+      }
+    }
+  }
+
+  return parsed as Holidays
+}
+
+function holidayEntries(region: string, customHolidays: Holidays | null): ReadonlyArray<HolidayEntry> {
+  if (customHolidays) {
+    const entries = customHolidays[region]
+    if (entries) {
+      return entries
+    }
+    throw new Error(`Specified region "${region}" does not exist in custom holidays file`)
+  }
+
+  // Fall back to built-in holidays
   const validRegion = (r: string): r is keyof typeof holidays => r in holidays
   if (validRegion(region)) {
     return holidays[region]
@@ -122,7 +171,7 @@ function holidayEntries(region: string): HolidayEntry[] {
   throw new Error(`Unsupported region is given: "${region}"`)
 }
 
-function prohibitedDaysDates(zone: Zone): DaysDates {
+function prohibitedDaysDates(zone: Zone, customHolidays: Holidays | null): DaysDates {
   const days: Days = []
   const dates: Dates = []
   getInput("prohibited-days-dates")
@@ -145,14 +194,14 @@ function prohibitedDaysDates(zone: Zone): DaysDates {
           if (s.startsWith("H:")) {
             const [_prefix, region] = s.split("H:", 2)
             if (region != null) {
-              holidayEntries(region).forEach((entry) => {
+              holidayEntries(region, customHolidays).forEach((entry) => {
                 dates.push(interval(entry.date, zone))
               })
             }
           } else if (s.startsWith("BH:")) {
             const [_prefix, region] = s.split("BH:", 2)
             if (region != null) {
-              holidayEntries(region).forEach((entry) => {
+              holidayEntries(region, customHolidays).forEach((entry) => {
                 let d = DateTime.fromISO(entry.date)
                 d = d.set({ day: d.day - 1 })
                 // NOTE: `toISODate()` should return string, but the following PR introduced `| IfInvalid<null>`
