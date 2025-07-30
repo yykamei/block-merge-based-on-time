@@ -1,6 +1,7 @@
-import { setFailed } from "@actions/core"
+import { setFailed, error } from "@actions/core"
 import { run } from "./run"
 
+error("Start!")
 process.on("unhandledRejection", handleError)
 run().catch(handleError)
 
