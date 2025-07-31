@@ -1,6 +1,7 @@
 import * as core from "@actions/core"
 import { Inputs } from "../src/inputs"
 import { DateTime, IANAZone, Interval } from "luxon"
+import * as path from "path"
 
 describe("Inputs", () => {
   beforeAll(() => {
@@ -626,6 +627,169 @@ describe("Inputs", () => {
       )
       const inputs = new Inputs()
       expect(inputs.noBlockLabel).toEqual(["block-this", "block-that"])
+    })
+  })
+
+  describe("custom-holidays-path", () => {
+    const fixturesDir = path.join(__dirname, "fixtures")
+
+    test("loads custom holidays from specified path", () => {
+      const customHolidaysPath = path.join(fixturesDir, "custom-holidays.json")
+
+      const inSpy = jest.spyOn(core, "getInput")
+      inSpy.mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:30",
+            before: "09:00",
+            timezone: "Asia/Tokyo",
+            "prohibited-days-dates": "H:OrganizationA",
+            "custom-holidays-path": customHolidaysPath,
+            "no-block-label": "",
+            "commit-status-context": "",
+            "commit-status-description-with-success": "",
+            "commit-status-description-while-blocking": "",
+            "commit-status-url": "",
+            "base-branches": "main",
+          })[name] as any,
+      )
+
+      const inputs = new Inputs()
+      expect(inputs.prohibitedDates).toHaveLength(2)
+      expect(inputs.prohibitedDates).toContainEqual(
+        Interval.fromDateTimes(
+          DateTime.fromObject({ year: 2025, month: 9, day: 1 }, { zone: "Asia/Tokyo" }),
+          DateTime.fromObject({ year: 2025, month: 9, day: 1 }, { zone: "Asia/Tokyo" }).endOf("day"),
+        ),
+      )
+      expect(inputs.prohibitedDates).toContainEqual(
+        Interval.fromDateTimes(
+          DateTime.fromObject({ year: 2025, month: 9, day: 28 }, { zone: "Asia/Tokyo" }),
+          DateTime.fromObject({ year: 2025, month: 9, day: 28 }, { zone: "Asia/Tokyo" }).endOf("day"),
+        ),
+      )
+    })
+
+    test("throws error when custom holidays file does not exist", () => {
+      const nonExistentPath = path.join(fixturesDir, "nonexistent.json")
+
+      const inSpy = jest.spyOn(core, "getInput")
+      inSpy.mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:30",
+            before: "09:00",
+            timezone: "Asia/Tokyo",
+            "custom-holidays-path": nonExistentPath,
+          })[name] as any,
+      )
+
+      expect(() => new Inputs()).toThrow(new Error(`Custom holidays file does not exist: "${nonExistentPath}"`))
+    })
+
+    test("throws error when custom holidays JSON format is invalid", () => {
+      const invalidFormatPath = path.join(fixturesDir, "invalid-format.json")
+
+      const inSpy = jest.spyOn(core, "getInput")
+      inSpy.mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:30",
+            before: "09:00",
+            timezone: "Asia/Tokyo",
+            "custom-holidays-path": invalidFormatPath,
+          })[name] as any,
+      )
+
+      expect(() => new Inputs()).toThrow(/Expected JSON format.*but got different format/)
+    })
+
+    test("throws error when specified region does not exist in custom holidays", () => {
+      const missingRegionPath = path.join(fixturesDir, "missing-region.json")
+
+      const inSpy = jest.spyOn(core, "getInput")
+      inSpy.mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:30",
+            before: "09:00",
+            timezone: "Asia/Tokyo",
+            "prohibited-days-dates": "H:NonExistentRegion",
+            "custom-holidays-path": missingRegionPath,
+          })[name] as any,
+      )
+
+      expect(() => new Inputs()).toThrow(
+        new Error('Specified region "NonExistentRegion" does not exist in custom holidays file'),
+      )
+    })
+
+    test("loads custom holidays with BH (Before Holiday) prefix", () => {
+      const customHolidaysPath = path.join(fixturesDir, "custom-holidays.json")
+
+      const inSpy = jest.spyOn(core, "getInput")
+      inSpy.mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:30",
+            before: "09:00",
+            timezone: "Asia/Tokyo",
+            "prohibited-days-dates": "BH:OrganizationA",
+            "custom-holidays-path": customHolidaysPath,
+            "no-block-label": "",
+            "commit-status-context": "",
+            "commit-status-description-with-success": "",
+            "commit-status-description-while-blocking": "",
+            "commit-status-url": "",
+            "base-branches": "main",
+          })[name] as any,
+      )
+
+      const inputs = new Inputs()
+      expect(inputs.prohibitedDates).toHaveLength(2)
+      // Should be the day before 2025-09-01 (August 31, 2025)
+      expect(inputs.prohibitedDates).toContainEqual(
+        Interval.fromDateTimes(
+          DateTime.fromObject({ year: 2025, month: 8, day: 31 }, { zone: "Asia/Tokyo" }),
+          DateTime.fromObject({ year: 2025, month: 8, day: 31 }, { zone: "Asia/Tokyo" }).endOf("day"),
+        ),
+      )
+      // Should be the day before 2025-09-28 (September 27, 2025)
+      expect(inputs.prohibitedDates).toContainEqual(
+        Interval.fromDateTimes(
+          DateTime.fromObject({ year: 2025, month: 9, day: 27 }, { zone: "Asia/Tokyo" }),
+          DateTime.fromObject({ year: 2025, month: 9, day: 27 }, { zone: "Asia/Tokyo" }).endOf("day"),
+        ),
+      )
+    })
+
+    test("works without custom-holidays-path (fallback to built-in holidays)", () => {
+      const inSpy = jest.spyOn(core, "getInput")
+      inSpy.mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:30",
+            before: "09:00",
+            timezone: "Asia/Tokyo",
+            "prohibited-days-dates": "H:Japan",
+            "custom-holidays-path": "",
+            "no-block-label": "",
+            "commit-status-context": "",
+            "commit-status-description-with-success": "",
+            "commit-status-description-while-blocking": "",
+            "commit-status-url": "",
+            "base-branches": "main",
+          })[name] as any,
+      )
+
+      const inputs = new Inputs()
+      expect(inputs.prohibitedDates.length).toBeGreaterThan(30) // Built-in Japan holidays should have many entries
     })
   })
 })

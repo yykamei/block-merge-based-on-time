@@ -40,6 +40,13 @@ inputs:
     description: The commit status URL to describe why this action is conducted
     required: false
     default: ""
+  custom-holidays-path:
+    description: |
+      Path to a custom holidays JSON file. The JSON format should be
+      {"key": [{"date": "YYYY-MM-DD"}]}.
+      When specified, this will be used instead of the built-in holidays for H: and BH: prefixes in prohibited-days-dates.
+    required: false
+    default: ""
   token:
     description: The GitHub token used to create an authenticated client
     required: false

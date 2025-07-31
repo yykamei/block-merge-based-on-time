@@ -31823,6 +31823,8 @@ var __webpack_exports__ = {};
 var core = __nccwpck_require__(7484);
 // EXTERNAL MODULE: ./node_modules/@actions/github/lib/github.js
 var github = __nccwpck_require__(3228);
+// EXTERNAL MODULE: external "fs"
+var external_fs_ = __nccwpck_require__(9896);
 ;// CONCATENATED MODULE: ./node_modules/luxon/src/errors.js
 // these aren't really private, but nor are they really useful to document
 
@@ -40180,6 +40182,7 @@ const holidays_namespaceObject = /*#__PURE__*/JSON.parse('{"Andorra":[{"region":
 
 
 
+
 class Inputs {
     token;
     after;
@@ -40198,7 +40201,9 @@ class Inputs {
         this.timezone = timeZone();
         this.after = hours("after", this.timezone);
         this.before = hours("before", this.timezone);
-        const [days, dates] = prohibitedDaysDates(this.timezone);
+        const customHolidaysPath = (0,core.getInput)("custom-holidays-path");
+        const customHolidays = customHolidaysPath ? loadCustomHolidays(customHolidaysPath) : null;
+        const [days, dates] = prohibitedDaysDates(this.timezone, customHolidays);
         this.prohibitedDays = days;
         this.prohibitedDates = dates;
         this.noBlockLabel = stringOr((0,core.getInput)("no-block-label"), "no-block")
@@ -40278,14 +40283,50 @@ function hours(key, zone) {
     }, { base: dateTime("hh:mm", "00:00", zone) });
     return result;
 }
-function holidayEntries(region) {
+function loadCustomHolidays(filePath) {
+    if (!(0,external_fs_.existsSync)(filePath)) {
+        throw new Error(`Custom holidays file does not exist: "${filePath}"`);
+    }
+    const content = (0,external_fs_.readFileSync)(filePath, "utf8");
+    let parsed;
+    try {
+        parsed = JSON.parse(content);
+    }
+    catch {
+        throw new Error(`Expected JSON format: {"key": [{"date": "YYYY-MM-DD"}]} but got different format in "${filePath}"`);
+    }
+    // Validate JSON format
+    if (typeof parsed !== "object" || parsed === null) {
+        throw new Error(`Expected JSON format: {"key": [{"date": "YYYY-MM-DD"}]} but got different format in "${filePath}"`);
+    }
+    for (const [, value] of Object.entries(parsed)) {
+        if (!Array.isArray(value)) {
+            throw new Error(`Expected JSON format: {"key": [{"date": "YYYY-MM-DD"}]} but got different format in "${filePath}"`);
+        }
+        for (const entry of value) {
+            if (typeof entry !== "object" || entry === null || typeof entry.date !== "string") {
+                throw new Error(`Expected JSON format: {"key": [{"date": "YYYY-MM-DD"}]} but got different format in "${filePath}"`);
+            }
+        }
+    }
+    return parsed;
+}
+function holidayEntries(region, customHolidays) {
+    if (customHolidays) {
+        const entries = customHolidays[region];
+        if (entries) {
+            return entries;
+        }
+        throw new Error(`Specified region "${region}" does not exist in custom holidays file`);
+    }
+    // Fall back to built-in holidays
     const validRegion = (r) => r in holidays_namespaceObject;
     if (validRegion(region)) {
         return holidays_namespaceObject[region];
     }
     throw new Error(`Unsupported region is given: "${region}"`);
 }
-function prohibitedDaysDates(zone) {
+function prohibitedDaysDates(zone, customHolidays) {
     const days = [];
     const dates = [];
     (0,core.getInput)("prohibited-days-dates")
@@ -40308,7 +40349,7 @@ function prohibitedDaysDates(zone) {
                 if (s.startsWith("H:")) {
                     const [_prefix, region] = s.split("H:", 2);
                     if (region != null) {
-                        holidayEntries(region).forEach((entry) => {
+                        holidayEntries(region, customHolidays).forEach((entry) => {
                             dates.push(interval(entry.date, zone));
                         });
                     }
@@ -40316,7 +40357,7 @@ function prohibitedDaysDates(zone) {
                 else if (s.startsWith("BH:")) {
                     const [_prefix, region] = s.split("BH:", 2);
                     if (region != null) {
-                        holidayEntries(region).forEach((entry) => {
+                        holidayEntries(region, customHolidays).forEach((entry) => {
                             let d = DateTime.fromISO(entry.date);
                             d = d.set({ day: d.day - 1 });
                             // NOTE: `toISODate()` should return string, but the following PR introduced `| IfInvalid<null>`

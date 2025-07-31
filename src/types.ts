@@ -20,7 +20,6 @@ export interface Holidays {
 }
 
 export interface HolidayEntry {
-  readonly region: string
   readonly date: string
 }
 

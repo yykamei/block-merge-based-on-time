@@ -42,6 +42,7 @@ jobs:
           before: 09:00
           base-branches: "(default)"
           prohibited-days-dates: "Sunday, 2021-10-01, 2021-12-29/2022-01-04, H:United States, BH:United States"
+          custom-holidays-path: "./custom-holidays.json"
       - run: echo pr-blocked=${{ steps.block.outputs.pr-blocked }}
         if: github.event_name == 'pull_request'
 ```
@@ -62,6 +63,7 @@ These are all available inputs.
 | `commit-status-description-with-success`   | The commit status description shown with success                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | `false`  | `The PR could be merged`                                                           |
 | `commit-status-description-while-blocking` | The commit status description shown while blocking                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | `false`  | `The PR can't be merged based on time, which is due to your organization's policy` |
 | `commit-status-url`                        | The commit status URL to describe why this action is conducted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | `false`  | `""`                                                                               |
+| `custom-holidays-path`                     | Path to a custom holidays JSON file. The JSON format should be `{"key": [{"date": "YYYY-MM-DD"}]}`. When specified, this will be used instead of the built-in holidays for H: and BH: prefixes in prohibited-days-dates.                                                                                                                                                                                                                                                                                                                                          | `false`  | `""`                                                                               |
 | `token`                                    | The GitHub token used to create an authenticated client                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | `false`  | `GITHUB_TOKEN`                                                                     |
 
 ### Action outputs
@@ -78,6 +80,47 @@ Block Merge Based on Time supports **232** regions, taking advantage of Google C
 periodically.
 See [`src/holidays.json`](https://raw.githubusercontent.com/yykamei/block-merge-based-on-time/main/src/holidays.json) to
 check all available regions.
+
+## Custom holidays
+
+For organizations that have specific holidays not covered by the built-in regional holidays, you can specify a custom holidays JSON file using the `custom-holidays-path` parameter.
+
+### Custom holidays file format
+
+The JSON file should follow this format:
+
+```json
+{
+  "OrganizationA": [
+    {
+      "date": "2025-09-01"
+    },
+    {
+      "date": "2025-09-28"
+    }
+  ],
+  "SpecialEvents": [
+    {
+      "date": "2025-12-25"
+    }
+  ]
+}
+```
+
+- The top-level keys are used as region identifiers for H: and BH: prefixes
+- Each entry must have a `date` field in `YYYY-MM-DD` format
+- When `custom-holidays-path` is specified, it takes precedence over the built-in holidays for H: and BH: prefixes
+
+### Usage example
+
+```yaml
+steps:
+  - uses: yykamei/block-merge-based-on-time@main
+    with:
+      timezone: "Asia/Tokyo"
+      prohibited-days-dates: "H:OrganizationA, BH:OrganizationA"
+      custom-holidays-path: "./organization-holidays.json"
+```
 
 ## Contributing
 
