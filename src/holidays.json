@@ -26564,10 +26564,6 @@
     },
     {
       "region": "French Polynesia",
-      "date": "2025-06-29"
-    },
-    {
-      "region": "French Polynesia",
       "date": "2025-07-14"
     },
     {
@@ -26581,6 +26577,10 @@
     {
       "region": "French Polynesia",
       "date": "2025-11-11"
+    },
+    {
+      "region": "French Polynesia",
+      "date": "2025-11-20"
     },
     {
       "region": "French Polynesia",
@@ -26620,10 +26620,6 @@
     },
     {
       "region": "French Polynesia",
-      "date": "2026-06-29"
-    },
-    {
-      "region": "French Polynesia",
       "date": "2026-07-14"
     },
     {
@@ -26637,6 +26633,10 @@
     {
       "region": "French Polynesia",
       "date": "2026-11-11"
+    },
+    {
+      "region": "French Polynesia",
+      "date": "2026-11-20"
     },
     {
       "region": "French Polynesia",
@@ -29985,6 +29985,14 @@
     {
       "region": "Singapore",
       "date": "2026-05-27"
+    },
+    {
+      "region": "Singapore",
+      "date": "2026-05-31"
+    },
+    {
+      "region": "Singapore",
+      "date": "2026-06-01"
     },
     {
       "region": "Singapore",
