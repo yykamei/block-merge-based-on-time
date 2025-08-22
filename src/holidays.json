@@ -24056,11 +24056,27 @@
     },
     {
       "region": "Mauritius",
+      "date": "2026-02-01"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2026-02-15"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2026-02-17"
+    },
+    {
+      "region": "Mauritius",
       "date": "2026-02-18"
     },
     {
       "region": "Mauritius",
       "date": "2026-03-12"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2026-03-19"
     },
     {
       "region": "Mauritius",
@@ -24084,7 +24100,15 @@
     },
     {
       "region": "Mauritius",
+      "date": "2026-09-16"
+    },
+    {
+      "region": "Mauritius",
       "date": "2026-11-02"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2026-11-08"
     },
     {
       "region": "Mauritius",
@@ -29342,10 +29366,6 @@
     },
     {
       "region": "Saudi Arabia",
-      "date": "2025-09-23"
-    },
-    {
-      "region": "Saudi Arabia",
       "date": "2026-02-18"
     },
     {
@@ -29387,10 +29407,6 @@
     {
       "region": "Saudi Arabia",
       "date": "2026-06-16"
-    },
-    {
-      "region": "Saudi Arabia",
-      "date": "2026-09-23"
     }
   ],
   "Solomon Islands": [
