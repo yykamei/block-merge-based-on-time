@@ -1582,6 +1582,10 @@
     },
     {
       "region": "Argentina",
+      "date": "2025-10-10"
+    },
+    {
+      "region": "Argentina",
       "date": "2025-10-12"
     },
     {
@@ -3976,7 +3980,7 @@
     },
     {
       "region": "Benin",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Benin",
@@ -7132,7 +7136,7 @@
     },
     {
       "region": "Côte d’Ivoire",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Côte d’Ivoire",
@@ -7538,10 +7542,6 @@
     },
     {
       "region": "Cameroon",
-      "date": "2025-09-05"
-    },
-    {
-      "region": "Cameroon",
       "date": "2025-12-25"
     },
     {
@@ -7587,10 +7587,6 @@
     {
       "region": "Cameroon",
       "date": "2026-08-15"
-    },
-    {
-      "region": "Cameroon",
-      "date": "2026-08-26"
     },
     {
       "region": "Cameroon",
@@ -9310,7 +9306,7 @@
     },
     {
       "region": "Djibouti",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Djibouti",
@@ -10660,7 +10656,7 @@
     },
     {
       "region": "Ethiopia",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Ethiopia",
@@ -10896,6 +10892,10 @@
     },
     {
       "region": "Fiji",
+      "date": "2025-05-12"
+    },
+    {
+      "region": "Fiji",
       "date": "2025-05-30"
     },
     {
@@ -10944,7 +10944,15 @@
     },
     {
       "region": "Fiji",
-      "date": "2026-08-26"
+      "date": "2026-05-15"
+    },
+    {
+      "region": "Fiji",
+      "date": "2026-05-29"
+    },
+    {
+      "region": "Fiji",
+      "date": "2026-08-24"
     },
     {
       "region": "Fiji",
@@ -10953,6 +10961,10 @@
     {
       "region": "Fiji",
       "date": "2026-10-10"
+    },
+    {
+      "region": "Fiji",
+      "date": "2026-11-09"
     },
     {
       "region": "Fiji",
@@ -20568,6 +20580,10 @@
     },
     {
       "region": "Libya",
+      "date": "2025-09-04"
+    },
+    {
+      "region": "Libya",
       "date": "2025-09-05"
     },
     {
@@ -24258,7 +24274,7 @@
     },
     {
       "region": "Maldives",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Maldives",
@@ -28078,6 +28094,10 @@
     },
     {
       "region": "Paraguay",
+      "date": "2025-09-05"
+    },
+    {
+      "region": "Paraguay",
       "date": "2025-09-29"
     },
     {
@@ -29712,7 +29732,7 @@
     },
     {
       "region": "Sudan",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Sudan",
@@ -30134,7 +30154,7 @@
     },
     {
       "region": "Sierra Leone",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Sierra Leone",
@@ -30932,7 +30952,7 @@
     },
     {
       "region": "Somalia",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Somalia",
@@ -32514,7 +32534,7 @@
     },
     {
       "region": "Syria",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Syria",
@@ -33130,7 +33150,7 @@
     },
     {
       "region": "Chad",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Chad",
@@ -33268,10 +33288,6 @@
     },
     {
       "region": "Togo",
-      "date": "2025-09-05"
-    },
-    {
-      "region": "Togo",
       "date": "2025-09-24"
     },
     {
@@ -33329,10 +33345,6 @@
     {
       "region": "Togo",
       "date": "2026-08-15"
-    },
-    {
-      "region": "Togo",
-      "date": "2026-08-26"
     },
     {
       "region": "Togo",
@@ -37978,7 +37990,7 @@
     },
     {
       "region": "Yemen",
-      "date": "2025-09-05"
+      "date": "2025-09-04"
     },
     {
       "region": "Yemen",
