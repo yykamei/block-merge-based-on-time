@@ -7,15 +7,15 @@ jobs:
   fetch-holidays:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/create-github-app-token@v2
+      - uses: actions/create-github-app-token@67018539274d69449ef7c02e8e71183d1719ab42 # v2.1.4
         id: app-token
         with:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.PRIVATE_KEY }}
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
         with:
           token: ${{ steps.app-token.outputs.token }}
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
         with:
           node-version: 24
           check-latest: true
@@ -24,11 +24,11 @@ jobs:
       - run: npm run fetch-holidays
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-      - uses: yykamei/actions-git-push@main
+      - uses: yykamei/actions-git-push@c9bcec4304fde1cf89d4abdf23280713e66c034d # main
         with:
           commit-message: Update Holidays
           branch: update-holidays
-      - uses: yykamei/actions-gh-pr-create@main
+      - uses: yykamei/actions-gh-pr-create@4a22702016fa51a895a4a483a8a95bb392880240 # main
         with:
           token: ${{ steps.app-token.outputs.token }}
           branch: update-holidays
