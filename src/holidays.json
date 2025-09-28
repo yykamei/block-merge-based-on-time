@@ -11510,6 +11510,10 @@
     },
     {
       "region": "Gabon",
+      "date": "2025-09-27"
+    },
+    {
+      "region": "Gabon",
       "date": "2025-11-01"
     },
     {
@@ -29196,6 +29200,10 @@
     },
     {
       "region": "Russia",
+      "date": "2026-01-09"
+    },
+    {
+      "region": "Russia",
       "date": "2026-02-23"
     },
     {
@@ -29225,6 +29233,10 @@
     {
       "region": "Russia",
       "date": "2026-11-04"
+    },
+    {
+      "region": "Russia",
+      "date": "2026-12-31"
     }
   ],
   "Rwanda": [
