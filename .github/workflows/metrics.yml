@@ -10,7 +10,7 @@ jobs:
   ci:
     runs-on: ubuntu-latest
     steps:
-      - uses: yykamei/github-workflows-metrics@4b881961f4570b8e7107c842ea966f1c72448f15 # main
+      - uses: yykamei/github-workflows-metrics@cd9c1b7e8d4794b2346e7b485ccd77e9d6f68bd5 # main
         with:
           status: "success"
           aggregate: average
