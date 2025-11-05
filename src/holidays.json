@@ -2500,7 +2500,7 @@
     },
     {
       "region": "Azerbaijan",
-      "date": "2025-11-10"
+      "date": "2025-11-11"
     },
     {
       "region": "Azerbaijan",
@@ -4604,7 +4604,15 @@
     },
     {
       "region": "Bolivia",
+      "date": "2025-11-01"
+    },
+    {
+      "region": "Bolivia",
       "date": "2025-11-02"
+    },
+    {
+      "region": "Bolivia",
+      "date": "2025-11-03"
     },
     {
       "region": "Bolivia",
@@ -4689,6 +4697,10 @@
     {
       "region": "Bolivia",
       "date": "2026-10-17"
+    },
+    {
+      "region": "Bolivia",
+      "date": "2026-11-01"
     },
     {
       "region": "Bolivia",
@@ -10272,6 +10284,10 @@
     },
     {
       "region": "Egypt",
+      "date": "2025-11-01"
+    },
+    {
+      "region": "Egypt",
       "date": "2026-01-07"
     },
     {
@@ -14120,7 +14136,7 @@
     },
     {
       "region": "Guyana",
-      "date": "2026-08-26"
+      "date": "2026-08-24"
     },
     {
       "region": "Guyana",
@@ -14583,6 +14599,10 @@
     {
       "region": "Haiti",
       "date": "2025-10-17"
+    },
+    {
+      "region": "Haiti",
+      "date": "2025-10-29"
     },
     {
       "region": "Haiti",
@@ -19308,6 +19328,14 @@
     },
     {
       "region": "Lebanon",
+      "date": "2025-12-01"
+    },
+    {
+      "region": "Lebanon",
+      "date": "2025-12-02"
+    },
+    {
+      "region": "Lebanon",
       "date": "2025-12-25"
     },
     {
@@ -24030,10 +24058,6 @@
     },
     {
       "region": "Malta",
-      "date": "2025-04-21"
-    },
-    {
-      "region": "Malta",
       "date": "2025-05-01"
     },
     {
@@ -24086,10 +24110,6 @@
     },
     {
       "region": "Malta",
-      "date": "2025-12-26"
-    },
-    {
-      "region": "Malta",
       "date": "2025-12-31"
     },
     {
@@ -24115,10 +24135,6 @@
     {
       "region": "Malta",
       "date": "2026-04-05"
-    },
-    {
-      "region": "Malta",
-      "date": "2026-04-06"
     },
     {
       "region": "Malta",
@@ -24171,10 +24187,6 @@
     {
       "region": "Malta",
       "date": "2026-12-25"
-    },
-    {
-      "region": "Malta",
-      "date": "2026-12-26"
     },
     {
       "region": "Malta",
@@ -24451,6 +24463,10 @@
     {
       "region": "Maldives",
       "date": "2025-09-24"
+    },
+    {
+      "region": "Maldives",
+      "date": "2025-11-02"
     },
     {
       "region": "Maldives",
@@ -29802,6 +29818,10 @@
     },
     {
       "region": "Seychelles",
+      "date": "2025-10-27"
+    },
+    {
+      "region": "Seychelles",
       "date": "2025-11-01"
     },
     {
@@ -32836,6 +32856,10 @@
     },
     {
       "region": "Eswatini",
+      "date": "2025-04-19"
+    },
+    {
+      "region": "Eswatini",
       "date": "2025-04-21"
     },
     {
@@ -32893,6 +32917,10 @@
     {
       "region": "Eswatini",
       "date": "2026-04-06"
+    },
+    {
+      "region": "Eswatini",
+      "date": "2026-04-19"
     },
     {
       "region": "Eswatini",
@@ -35248,6 +35276,10 @@
     },
     {
       "region": "Tanzania",
+      "date": "2025-10-29"
+    },
+    {
+      "region": "Tanzania",
       "date": "2025-12-09"
     },
     {
@@ -37560,11 +37592,23 @@
     },
     {
       "region": "Vietnam",
+      "date": "2026-04-27"
+    },
+    {
+      "region": "Vietnam",
       "date": "2026-04-30"
     },
     {
       "region": "Vietnam",
       "date": "2026-05-01"
+    },
+    {
+      "region": "Vietnam",
+      "date": "2026-08-31"
+    },
+    {
+      "region": "Vietnam",
+      "date": "2026-09-01"
     },
     {
       "region": "Vietnam",
