@@ -2500,7 +2500,7 @@
     },
     {
       "region": "Azerbaijan",
-      "date": "2025-11-10"
+      "date": "2025-11-11"
     },
     {
       "region": "Azerbaijan",
@@ -4604,7 +4604,15 @@
     },
     {
       "region": "Bolivia",
+      "date": "2025-11-01"
+    },
+    {
+      "region": "Bolivia",
       "date": "2025-11-02"
+    },
+    {
+      "region": "Bolivia",
+      "date": "2025-11-03"
     },
     {
       "region": "Bolivia",
@@ -4689,6 +4697,10 @@
     {
       "region": "Bolivia",
       "date": "2026-10-17"
+    },
+    {
+      "region": "Bolivia",
+      "date": "2026-11-01"
     },
     {
       "region": "Bolivia",
@@ -10272,6 +10284,10 @@
     },
     {
       "region": "Egypt",
+      "date": "2025-11-01"
+    },
+    {
+      "region": "Egypt",
       "date": "2026-01-07"
     },
     {
@@ -14120,7 +14136,7 @@
     },
     {
       "region": "Guyana",
-      "date": "2026-08-26"
+      "date": "2026-08-24"
     },
     {
       "region": "Guyana",
@@ -14583,6 +14599,10 @@
     {
       "region": "Haiti",
       "date": "2025-10-17"
+    },
+    {
+      "region": "Haiti",
+      "date": "2025-10-29"
     },
     {
       "region": "Haiti",
@@ -19308,6 +19328,14 @@
     },
     {
       "region": "Lebanon",
+      "date": "2025-12-01"
+    },
+    {
+      "region": "Lebanon",
+      "date": "2025-12-02"
+    },
+    {
+      "region": "Lebanon",
       "date": "2025-12-25"
     },
     {
@@ -20855,6 +20883,10 @@
     {
       "region": "Morocco",
       "date": "2026-08-27"
+    },
+    {
+      "region": "Morocco",
+      "date": "2026-10-31"
     },
     {
       "region": "Morocco",
@@ -24030,10 +24062,6 @@
     },
     {
       "region": "Malta",
-      "date": "2025-04-21"
-    },
-    {
-      "region": "Malta",
       "date": "2025-05-01"
     },
     {
@@ -24086,10 +24114,6 @@
     },
     {
       "region": "Malta",
-      "date": "2025-12-26"
-    },
-    {
-      "region": "Malta",
       "date": "2025-12-31"
     },
     {
@@ -24115,10 +24139,6 @@
     {
       "region": "Malta",
       "date": "2026-04-05"
-    },
-    {
-      "region": "Malta",
-      "date": "2026-04-06"
     },
     {
       "region": "Malta",
@@ -24171,10 +24191,6 @@
     {
       "region": "Malta",
       "date": "2026-12-25"
-    },
-    {
-      "region": "Malta",
-      "date": "2026-12-26"
     },
     {
       "region": "Malta",
@@ -24451,6 +24467,10 @@
     {
       "region": "Maldives",
       "date": "2025-09-24"
+    },
+    {
+      "region": "Maldives",
+      "date": "2025-11-02"
     },
     {
       "region": "Maldives",
@@ -28898,6 +28918,10 @@
     },
     {
       "region": "Serbia",
+      "date": "2025-03-08"
+    },
+    {
+      "region": "Serbia",
       "date": "2025-03-30"
     },
     {
@@ -28974,10 +28998,6 @@
     },
     {
       "region": "Serbia",
-      "date": "2025-12-28"
-    },
-    {
-      "region": "Serbia",
       "date": "2025-12-31"
     },
     {
@@ -29023,6 +29043,10 @@
     {
       "region": "Serbia",
       "date": "2026-02-18"
+    },
+    {
+      "region": "Serbia",
+      "date": "2026-03-08"
     },
     {
       "region": "Serbia",
@@ -29099,10 +29123,6 @@
     {
       "region": "Serbia",
       "date": "2026-12-25"
-    },
-    {
-      "region": "Serbia",
-      "date": "2026-12-27"
     },
     {
       "region": "Serbia",
@@ -29799,6 +29819,10 @@
     {
       "region": "Seychelles",
       "date": "2025-10-11"
+    },
+    {
+      "region": "Seychelles",
+      "date": "2025-10-27"
     },
     {
       "region": "Seychelles",
@@ -31624,6 +31648,10 @@
     },
     {
       "region": "Spain",
+      "date": "2026-03-01"
+    },
+    {
+      "region": "Spain",
       "date": "2026-03-19"
     },
     {
@@ -32836,6 +32864,10 @@
     },
     {
       "region": "Eswatini",
+      "date": "2025-04-19"
+    },
+    {
+      "region": "Eswatini",
       "date": "2025-04-21"
     },
     {
@@ -32893,6 +32925,10 @@
     {
       "region": "Eswatini",
       "date": "2026-04-06"
+    },
+    {
+      "region": "Eswatini",
+      "date": "2026-04-19"
     },
     {
       "region": "Eswatini",
@@ -34116,10 +34152,6 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2025-03-07"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2025-03-08"
     },
     {
@@ -34136,15 +34168,7 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2025-03-31"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2025-04-07"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2025-04-17"
     },
     {
       "region": "Turkmenistan",
@@ -34172,15 +34196,11 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2025-05-29"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2025-06-01"
     },
     {
       "region": "Turkmenistan",
-      "date": "2025-06-01"
+      "date": "2025-06-03"
     },
     {
       "region": "Turkmenistan",
@@ -34208,31 +34228,11 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2025-06-26"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2025-06-27"
     },
     {
       "region": "Turkmenistan",
-      "date": "2025-07-05"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2025-07-21"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2025-08-11"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2025-09-01"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2025-09-13"
     },
     {
       "region": "Turkmenistan",
@@ -34248,7 +34248,15 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2025-10-09"
+      "date": "2025-10-10"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2025-10-26"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2025-11-03"
     },
     {
       "region": "Turkmenistan",
@@ -34284,10 +34292,6 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2026-03-07"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2026-03-08"
     },
     {
@@ -34304,15 +34308,7 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2026-03-31"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2026-04-07"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2026-04-17"
     },
     {
       "region": "Turkmenistan",
@@ -34348,11 +34344,11 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2026-05-29"
+      "date": "2026-06-01"
     },
     {
       "region": "Turkmenistan",
-      "date": "2026-06-01"
+      "date": "2026-06-03"
     },
     {
       "region": "Turkmenistan",
@@ -34360,15 +34356,7 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2026-06-07"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2026-06-12"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2026-06-26"
     },
     {
       "region": "Turkmenistan",
@@ -34376,23 +34364,7 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2026-07-05"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2026-07-21"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2026-08-11"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2026-09-01"
-    },
-    {
-      "region": "Turkmenistan",
-      "date": "2026-09-12"
     },
     {
       "region": "Turkmenistan",
@@ -34408,7 +34380,15 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2026-10-09"
+      "date": "2026-10-10"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2026-11-01"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2026-11-03"
     },
     {
       "region": "Turkmenistan",
@@ -35245,6 +35225,10 @@
     {
       "region": "Tanzania",
       "date": "2025-10-14"
+    },
+    {
+      "region": "Tanzania",
+      "date": "2025-10-29"
     },
     {
       "region": "Tanzania",
@@ -37560,11 +37544,23 @@
     },
     {
       "region": "Vietnam",
+      "date": "2026-04-27"
+    },
+    {
+      "region": "Vietnam",
       "date": "2026-04-30"
     },
     {
       "region": "Vietnam",
       "date": "2026-05-01"
+    },
+    {
+      "region": "Vietnam",
+      "date": "2026-08-31"
+    },
+    {
+      "region": "Vietnam",
+      "date": "2026-09-01"
     },
     {
       "region": "Vietnam",
