@@ -15748,6 +15748,14 @@
     },
     {
       "region": "Iraq",
+      "date": "2025-11-11"
+    },
+    {
+      "region": "Iraq",
+      "date": "2025-11-12"
+    },
+    {
+      "region": "Iraq",
       "date": "2025-12-10"
     },
     {
@@ -26354,7 +26362,19 @@
     },
     {
       "region": "Oman",
-      "date": "2025-11-18"
+      "date": "2025-11-20"
+    },
+    {
+      "region": "Oman",
+      "date": "2025-11-21"
+    },
+    {
+      "region": "Oman",
+      "date": "2025-11-26"
+    },
+    {
+      "region": "Oman",
+      "date": "2025-11-27"
     },
     {
       "region": "Oman",
@@ -26406,7 +26426,11 @@
     },
     {
       "region": "Oman",
-      "date": "2026-11-18"
+      "date": "2026-11-20"
+    },
+    {
+      "region": "Oman",
+      "date": "2026-11-21"
     }
   ],
   "Panama": [
@@ -32937,6 +32961,10 @@
     {
       "region": "Eswatini",
       "date": "2026-04-19"
+    },
+    {
+      "region": "Eswatini",
+      "date": "2026-04-20"
     },
     {
       "region": "Eswatini",
