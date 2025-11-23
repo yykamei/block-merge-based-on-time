@@ -268,11 +268,11 @@
     },
     {
       "region": "United Arab Emirates",
-      "date": "2025-12-02"
+      "date": "2025-12-01"
     },
     {
       "region": "United Arab Emirates",
-      "date": "2025-12-03"
+      "date": "2025-12-02"
     },
     {
       "region": "United Arab Emirates",
@@ -1707,6 +1707,10 @@
     {
       "region": "Argentina",
       "date": "2026-07-09"
+    },
+    {
+      "region": "Argentina",
+      "date": "2026-08-17"
     },
     {
       "region": "Argentina",
@@ -5076,6 +5080,10 @@
     },
     {
       "region": "Bahamas",
+      "date": "2026-12-28"
+    },
+    {
+      "region": "Bahamas",
       "date": "2026-12-31"
     }
   ],
@@ -5822,10 +5830,6 @@
     },
     {
       "region": "Belize",
-      "date": "2026-07-31"
-    },
-    {
-      "region": "Belize",
       "date": "2026-08-01"
     },
     {
@@ -5851,10 +5855,6 @@
     {
       "region": "Belize",
       "date": "2026-12-26"
-    },
-    {
-      "region": "Belize",
-      "date": "2026-12-28"
     }
   ],
   "Canada": [
@@ -16810,7 +16810,79 @@
     },
     {
       "region": "Israel",
+      "date": "2025-01-01"
+    },
+    {
+      "region": "Israel",
       "date": "2025-01-02"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-05"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-06"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-06"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-07"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-08"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-10"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-13"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-14"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-18"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-19"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-20"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-24"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-01-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-03-01"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-03-08"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-03-13"
     },
     {
       "region": "Israel",
@@ -16822,11 +16894,39 @@
     },
     {
       "region": "Israel",
-      "date": "2025-03-16"
+      "date": "2025-03-15"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-03-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-03-29"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-03-30"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-03-31"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-01"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-07"
     },
     {
       "region": "Israel",
       "date": "2025-04-12"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-13"
     },
     {
       "region": "Israel",
@@ -16854,11 +16954,51 @@
     },
     {
       "region": "Israel",
+      "date": "2025-04-18"
+    },
+    {
+      "region": "Israel",
       "date": "2025-04-19"
     },
     {
       "region": "Israel",
+      "date": "2025-04-19"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-20"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-20"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-21"
+    },
+    {
+      "region": "Israel",
       "date": "2025-04-24"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-24"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-27"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-04-28"
     },
     {
       "region": "Israel",
@@ -16870,11 +17010,31 @@
     },
     {
       "region": "Israel",
+      "date": "2025-05-01"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-05-08"
+    },
+    {
+      "region": "Israel",
       "date": "2025-05-16"
     },
     {
       "region": "Israel",
       "date": "2025-05-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-05-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-05-28"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-05-29"
     },
     {
       "region": "Israel",
@@ -16886,11 +17046,71 @@
     },
     {
       "region": "Israel",
+      "date": "2025-06-05"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-06-06"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-06-07"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-06-08"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-06-09"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-06-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-06-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-07-13"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-07-16"
+    },
+    {
+      "region": "Israel",
       "date": "2025-08-02"
     },
     {
       "region": "Israel",
       "date": "2025-08-03"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-08-15"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-09-01"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-09-03"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-09-04"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-09-09"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-09-10"
     },
     {
       "region": "Israel",
@@ -16903,6 +17123,10 @@
     {
       "region": "Israel",
       "date": "2025-09-24"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-09-25"
     },
     {
       "region": "Israel",
@@ -16954,6 +17178,14 @@
     },
     {
       "region": "Israel",
+      "date": "2025-11-01"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-11-20"
+    },
+    {
+      "region": "Israel",
       "date": "2025-12-15"
     },
     {
@@ -16986,6 +17218,90 @@
     },
     {
       "region": "Israel",
+      "date": "2025-12-24"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-12-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-12-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-12-30"
+    },
+    {
+      "region": "Israel",
+      "date": "2025-12-31"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-01"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-05"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-06"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-06"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-07"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-08"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-13"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-14"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-15"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-18"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-19"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-20"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-24"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-01-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-02-18"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-03-02"
+    },
+    {
+      "region": "Israel",
       "date": "2026-03-02"
     },
     {
@@ -16995,6 +17311,34 @@
     {
       "region": "Israel",
       "date": "2026-03-04"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-03-08"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-03-19"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-03-20"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-03-21"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-03-22"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-03-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-03-29"
     },
     {
       "region": "Israel",
@@ -17010,7 +17354,19 @@
     },
     {
       "region": "Israel",
+      "date": "2026-04-03"
+    },
+    {
+      "region": "Israel",
       "date": "2026-04-04"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-04-04"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-04-05"
     },
     {
       "region": "Israel",
@@ -17022,11 +17378,23 @@
     },
     {
       "region": "Israel",
+      "date": "2026-04-06"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-04-07"
+    },
+    {
+      "region": "Israel",
       "date": "2026-04-07"
     },
     {
       "region": "Israel",
       "date": "2026-04-08"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-04-09"
     },
     {
       "region": "Israel",
@@ -17042,7 +17410,47 @@
     },
     {
       "region": "Israel",
+      "date": "2026-04-24"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-04-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-04-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-04-27"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-04-28"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-01"
+    },
+    {
+      "region": "Israel",
       "date": "2026-05-05"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-08"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-13"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-14"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-15"
     },
     {
       "region": "Israel",
@@ -17058,11 +17466,67 @@
     },
     {
       "region": "Israel",
+      "date": "2026-05-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-27"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-28"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-29"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-05-30"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-06-16"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-06-17"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-07-02"
+    },
+    {
+      "region": "Israel",
       "date": "2026-07-22"
     },
     {
       "region": "Israel",
       "date": "2026-07-23"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-08-15"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-08-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-08-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-09-01"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-09-09"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-09-10"
     },
     {
       "region": "Israel",
@@ -17075,6 +17539,10 @@
     {
       "region": "Israel",
       "date": "2026-09-13"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-09-14"
     },
     {
       "region": "Israel",
@@ -17126,6 +17594,14 @@
     },
     {
       "region": "Israel",
+      "date": "2026-11-01"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-11-09"
+    },
+    {
+      "region": "Israel",
       "date": "2026-12-05"
     },
     {
@@ -17155,6 +17631,26 @@
     {
       "region": "Israel",
       "date": "2026-12-12"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-12-20"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-12-24"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-12-25"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-12-26"
+    },
+    {
+      "region": "Israel",
+      "date": "2026-12-31"
     }
   ],
   "Jamaica": [
@@ -33078,6 +33574,10 @@
     },
     {
       "region": "Taiwan",
+      "date": "2025-04-03"
+    },
+    {
+      "region": "Taiwan",
       "date": "2025-04-04"
     },
     {
@@ -34336,6 +34836,10 @@
     },
     {
       "region": "Turkmenistan",
+      "date": "2026-03-09"
+    },
+    {
+      "region": "Turkmenistan",
       "date": "2026-03-20"
     },
     {
@@ -34345,6 +34849,10 @@
     {
       "region": "Turkmenistan",
       "date": "2026-03-22"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2026-03-23"
     },
     {
       "region": "Turkmenistan",
@@ -34372,15 +34880,15 @@
     },
     {
       "region": "Turkmenistan",
-      "date": "2026-05-26"
-    },
-    {
-      "region": "Turkmenistan",
       "date": "2026-05-27"
     },
     {
       "region": "Turkmenistan",
       "date": "2026-05-28"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2026-05-29"
     },
     {
       "region": "Turkmenistan",
@@ -34526,10 +35034,6 @@
     },
     {
       "region": "Tunisia",
-      "date": "2026-03-20"
-    },
-    {
-      "region": "Tunisia",
       "date": "2026-03-21"
     },
     {
@@ -34546,15 +35050,15 @@
     },
     {
       "region": "Tunisia",
+      "date": "2026-05-26"
+    },
+    {
+      "region": "Tunisia",
       "date": "2026-05-27"
     },
     {
       "region": "Tunisia",
-      "date": "2026-05-28"
-    },
-    {
-      "region": "Tunisia",
-      "date": "2026-06-16"
+      "date": "2026-06-15"
     },
     {
       "region": "Tunisia",
@@ -34566,7 +35070,7 @@
     },
     {
       "region": "Tunisia",
-      "date": "2026-08-25"
+      "date": "2026-08-24"
     },
     {
       "region": "Tunisia",
@@ -37188,6 +37692,10 @@
     },
     {
       "region": "British Virgin Islands",
+      "date": "2026-03-09"
+    },
+    {
+      "region": "British Virgin Islands",
       "date": "2026-04-03"
     },
     {
@@ -37200,11 +37708,11 @@
     },
     {
       "region": "British Virgin Islands",
-      "date": "2026-06-19"
+      "date": "2026-06-12"
     },
     {
       "region": "British Virgin Islands",
-      "date": "2026-07-01"
+      "date": "2026-07-06"
     },
     {
       "region": "British Virgin Islands",
@@ -37228,7 +37736,7 @@
     },
     {
       "region": "British Virgin Islands",
-      "date": "2026-11-09"
+      "date": "2026-11-23"
     },
     {
       "region": "British Virgin Islands",
