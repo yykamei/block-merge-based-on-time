@@ -5159,6 +5159,30 @@
     {
       "region": "Bhutan",
       "date": "2025-12-17"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2026-02-21"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2026-02-22"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2026-02-23"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2026-05-02"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2026-11-11"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2026-12-17"
     }
   ],
   "Bulgaria": [
@@ -5260,7 +5284,15 @@
     },
     {
       "region": "Bulgaria",
+      "date": "2025-12-31"
+    },
+    {
+      "region": "Bulgaria",
       "date": "2026-01-01"
+    },
+    {
+      "region": "Bulgaria",
+      "date": "2026-01-02"
     },
     {
       "region": "Bulgaria",
@@ -17090,10 +17122,6 @@
     },
     {
       "region": "Israel",
-      "date": "2025-08-15"
-    },
-    {
-      "region": "Israel",
       "date": "2025-09-01"
     },
     {
@@ -17175,10 +17203,6 @@
     {
       "region": "Israel",
       "date": "2025-10-29"
-    },
-    {
-      "region": "Israel",
-      "date": "2025-11-01"
     },
     {
       "region": "Israel",
@@ -17506,10 +17530,6 @@
     },
     {
       "region": "Israel",
-      "date": "2026-08-15"
-    },
-    {
-      "region": "Israel",
       "date": "2026-08-25"
     },
     {
@@ -17591,10 +17611,6 @@
     {
       "region": "Israel",
       "date": "2026-10-18"
-    },
-    {
-      "region": "Israel",
-      "date": "2026-11-01"
     },
     {
       "region": "Israel",
@@ -18258,6 +18274,26 @@
     },
     {
       "region": "Kyrgyzstan",
+      "date": "2026-01-02"
+    },
+    {
+      "region": "Kyrgyzstan",
+      "date": "2026-01-03"
+    },
+    {
+      "region": "Kyrgyzstan",
+      "date": "2026-01-04"
+    },
+    {
+      "region": "Kyrgyzstan",
+      "date": "2026-01-05"
+    },
+    {
+      "region": "Kyrgyzstan",
+      "date": "2026-01-06"
+    },
+    {
+      "region": "Kyrgyzstan",
       "date": "2026-01-07"
     },
     {
@@ -18286,10 +18322,6 @@
     },
     {
       "region": "Kyrgyzstan",
-      "date": "2026-03-23"
-    },
-    {
-      "region": "Kyrgyzstan",
       "date": "2026-04-07"
     },
     {
@@ -18298,15 +18330,35 @@
     },
     {
       "region": "Kyrgyzstan",
+      "date": "2026-05-02"
+    },
+    {
+      "region": "Kyrgyzstan",
+      "date": "2026-05-03"
+    },
+    {
+      "region": "Kyrgyzstan",
+      "date": "2026-05-04"
+    },
+    {
+      "region": "Kyrgyzstan",
       "date": "2026-05-05"
     },
     {
       "region": "Kyrgyzstan",
-      "date": "2026-05-09"
+      "date": "2026-05-06"
     },
     {
       "region": "Kyrgyzstan",
-      "date": "2026-05-11"
+      "date": "2026-05-07"
+    },
+    {
+      "region": "Kyrgyzstan",
+      "date": "2026-05-08"
+    },
+    {
+      "region": "Kyrgyzstan",
+      "date": "2026-05-09"
     },
     {
       "region": "Kyrgyzstan",
@@ -18323,14 +18375,6 @@
     {
       "region": "Kyrgyzstan",
       "date": "2026-11-08"
-    },
-    {
-      "region": "Kyrgyzstan",
-      "date": "2026-11-09"
-    },
-    {
-      "region": "Kyrgyzstan",
-      "date": "2026-11-10"
     }
   ],
   "Cambodia": [
