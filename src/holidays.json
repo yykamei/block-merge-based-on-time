@@ -19682,15 +19682,11 @@
     },
     {
       "region": "Kazakhstan",
-      "date": "2026-03-23"
-    },
-    {
-      "region": "Kazakhstan",
       "date": "2026-03-24"
     },
     {
       "region": "Kazakhstan",
-      "date": "2026-03-24"
+      "date": "2026-03-25"
     },
     {
       "region": "Kazakhstan",
@@ -19727,6 +19723,10 @@
     {
       "region": "Kazakhstan",
       "date": "2026-10-25"
+    },
+    {
+      "region": "Kazakhstan",
+      "date": "2026-10-26"
     },
     {
       "region": "Kazakhstan",
@@ -35124,7 +35124,15 @@
     },
     {
       "region": "Turkmenistan",
+      "date": "2025-12-11"
+    },
+    {
+      "region": "Turkmenistan",
       "date": "2025-12-12"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2025-12-13"
     },
     {
       "region": "Turkmenistan",
