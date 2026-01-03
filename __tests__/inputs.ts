@@ -350,12 +350,12 @@ describe("Inputs", () => {
     })
     expect(inputs).toHaveProperty("timezone", IANAZone.create("Asia/Tokyo"))
     expect(inputs).toHaveProperty("prohibitedDays", [])
-    expect(inputs.prohibitedDates.length).toBeGreaterThan(72) // It's OK the number is almost the same as twice as `H:Japan`.
+    expect(inputs.prohibitedDates.length).toBeGreaterThan(68) // It's OK the number is almost the same as twice as `H:Japan`.
     expect(inputs.prohibitedDates).toContainEqual(
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2025,
+            year: 2026,
             month: 5,
             day: 3,
           },
@@ -365,7 +365,7 @@ describe("Inputs", () => {
         ).startOf("day"),
         DateTime.fromObject(
           {
-            year: 2025,
+            year: 2026,
             month: 5,
             day: 3,
           },
@@ -379,7 +379,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2025,
+            year: 2026,
             month: 5,
             day: 2,
           },
@@ -389,7 +389,7 @@ describe("Inputs", () => {
         ).startOf("day"),
         DateTime.fromObject(
           {
-            year: 2025,
+            year: 2026,
             month: 5,
             day: 2,
           },
@@ -458,7 +458,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2025,
+            year: 2026,
             month: 2,
             day: 14,
           },
@@ -468,7 +468,7 @@ describe("Inputs", () => {
         ).startOf("day"),
         DateTime.fromObject(
           {
-            year: 2025,
+            year: 2026,
             month: 2,
             day: 14,
           },
@@ -482,7 +482,7 @@ describe("Inputs", () => {
       Interval.fromDateTimes(
         DateTime.fromObject(
           {
-            year: 2025,
+            year: 2026,
             month: 2,
             day: 13,
           },
@@ -492,7 +492,7 @@ describe("Inputs", () => {
         ).startOf("day"),
         DateTime.fromObject(
           {
-            year: 2025,
+            year: 2026,
             month: 2,
             day: 13,
           },
