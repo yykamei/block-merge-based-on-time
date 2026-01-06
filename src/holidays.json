@@ -22474,6 +22474,10 @@
     },
     {
       "region": "Mali",
+      "date": "2026-01-01"
+    },
+    {
+      "region": "Mali",
       "date": "2026-01-20"
     },
     {
@@ -22522,11 +22526,19 @@
     },
     {
       "region": "Mali",
+      "date": "2026-09-01"
+    },
+    {
+      "region": "Mali",
       "date": "2026-09-22"
     },
     {
       "region": "Mali",
       "date": "2026-12-25"
+    },
+    {
+      "region": "Mali",
+      "date": "2027-01-01"
     },
     {
       "region": "Mali",
@@ -22579,6 +22591,10 @@
     {
       "region": "Mali",
       "date": "2027-08-15"
+    },
+    {
+      "region": "Mali",
+      "date": "2027-08-21"
     },
     {
       "region": "Mali",
@@ -25415,7 +25431,92 @@
       "date": "2027-12-31"
     }
   ],
-  "Nepal": [],
+  "Nepal": [
+    {
+      "region": "Nepal",
+      "date": "2026-01-15"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-01-19"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-02-15"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-02-18"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-02-18"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-02-19"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-03-08"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-03-20"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-05-01"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-05-27"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-09-19"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-10-17"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-10-18"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-10-20"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-10-21"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-10-22"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-11-08"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-11-09"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-11-10"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-12-25"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-12-30"
+    }
+  ],
   "Nauru": [
     {
       "region": "Nauru",
@@ -31827,6 +31928,10 @@
     {
       "region": "Eswatini",
       "date": "2026-01-01"
+    },
+    {
+      "region": "Eswatini",
+      "date": "2026-01-06"
     },
     {
       "region": "Eswatini",
