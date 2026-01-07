@@ -9398,6 +9398,10 @@
     },
     {
       "region": "Algeria",
+      "date": "2026-02-22"
+    },
+    {
+      "region": "Algeria",
       "date": "2026-03-20"
     },
     {
@@ -9451,6 +9455,10 @@
     {
       "region": "Algeria",
       "date": "2027-02-08"
+    },
+    {
+      "region": "Algeria",
+      "date": "2027-02-22"
     },
     {
       "region": "Algeria",
@@ -22474,7 +22482,7 @@
     },
     {
       "region": "Mali",
-      "date": "2026-01-01"
+      "date": "2026-01-02"
     },
     {
       "region": "Mali",
@@ -22535,10 +22543,6 @@
     {
       "region": "Mali",
       "date": "2026-12-25"
-    },
-    {
-      "region": "Mali",
-      "date": "2027-01-01"
     },
     {
       "region": "Mali",
@@ -26627,7 +26631,140 @@
       "date": "2027-12-31"
     }
   ],
-  "Pakistan": [],
+  "Pakistan": [
+    {
+      "region": "Pakistan",
+      "date": "2026-01-01"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-01-01"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-01-16"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-02-03"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-02-05"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-02-18"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-02-18"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-03-20"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-03-21"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-03-22"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-03-23"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-03-23"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-04-03"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-04-06"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-04-21"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-05-01"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-05-27"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-05-28"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-05-29"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-06-25"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-06-26"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-07-01"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-08-05"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-08-14"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-08-25"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-08-26"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-09-06"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-11-09"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-12-24"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-12-25"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-12-25"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-12-26"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-12-31"
+    }
+  ],
   "St. Pierre & Miquelon": [
     {
       "region": "St. Pierre & Miquelon",
