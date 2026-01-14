@@ -34546,6 +34546,14 @@
     },
     {
       "region": "Uganda",
+      "date": "2026-01-15"
+    },
+    {
+      "region": "Uganda",
+      "date": "2026-01-16"
+    },
+    {
+      "region": "Uganda",
       "date": "2026-01-26"
     },
     {
@@ -37714,6 +37722,10 @@
     },
     {
       "region": "Zambia",
+      "date": "2026-12-29"
+    },
+    {
+      "region": "Zambia",
       "date": "2027-01-01"
     },
     {
@@ -37787,6 +37799,10 @@
     {
       "region": "Zambia",
       "date": "2027-12-25"
+    },
+    {
+      "region": "Zambia",
+      "date": "2027-12-29"
     }
   ],
   "Zimbabwe": [
