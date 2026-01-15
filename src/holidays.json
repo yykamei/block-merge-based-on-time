@@ -1818,6 +1818,10 @@
     },
     {
       "region": "Australia",
+      "date": "2026-01-22"
+    },
+    {
+      "region": "Australia",
       "date": "2026-01-26"
     },
     {
@@ -9509,6 +9513,10 @@
     {
       "region": "Ecuador",
       "date": "2026-01-01"
+    },
+    {
+      "region": "Ecuador",
+      "date": "2026-01-02"
     },
     {
       "region": "Ecuador",
@@ -17946,7 +17954,15 @@
     },
     {
       "region": "Kiribati",
+      "date": "2026-01-02"
+    },
+    {
+      "region": "Kiribati",
       "date": "2026-03-08"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-03-09"
     },
     {
       "region": "Kiribati",
@@ -17979,6 +17995,18 @@
     {
       "region": "Kiribati",
       "date": "2026-12-26"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-12-29"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-12-30"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-12-31"
     },
     {
       "region": "Kiribati",
@@ -25686,7 +25714,11 @@
     },
     {
       "region": "Oman",
-      "date": "2026-01-16"
+      "date": "2026-01-15"
+    },
+    {
+      "region": "Oman",
+      "date": "2026-01-18"
     },
     {
       "region": "Oman",
@@ -25726,15 +25758,19 @@
     },
     {
       "region": "Oman",
-      "date": "2026-06-17"
+      "date": "2026-06-18"
     },
     {
       "region": "Oman",
-      "date": "2026-11-20"
+      "date": "2026-08-27"
     },
     {
       "region": "Oman",
-      "date": "2026-11-21"
+      "date": "2026-11-25"
+    },
+    {
+      "region": "Oman",
+      "date": "2026-11-26"
     },
     {
       "region": "Oman",
@@ -25783,6 +25819,10 @@
     {
       "region": "Oman",
       "date": "2027-06-06"
+    },
+    {
+      "region": "Oman",
+      "date": "2027-08-15"
     },
     {
       "region": "Oman",
@@ -35568,6 +35608,10 @@
     },
     {
       "region": "Uzbekistan",
+      "date": "2026-01-02"
+    },
+    {
+      "region": "Uzbekistan",
       "date": "2026-01-14"
     },
     {
@@ -35580,6 +35624,10 @@
     },
     {
       "region": "Uzbekistan",
+      "date": "2026-03-09"
+    },
+    {
+      "region": "Uzbekistan",
       "date": "2026-03-20"
     },
     {
@@ -35588,11 +35636,31 @@
     },
     {
       "region": "Uzbekistan",
+      "date": "2026-03-23"
+    },
+    {
+      "region": "Uzbekistan",
       "date": "2026-05-09"
     },
     {
       "region": "Uzbekistan",
+      "date": "2026-05-11"
+    },
+    {
+      "region": "Uzbekistan",
       "date": "2026-05-27"
+    },
+    {
+      "region": "Uzbekistan",
+      "date": "2026-05-28"
+    },
+    {
+      "region": "Uzbekistan",
+      "date": "2026-05-29"
+    },
+    {
+      "region": "Uzbekistan",
+      "date": "2026-08-31"
     },
     {
       "region": "Uzbekistan",
@@ -35605,6 +35673,10 @@
     {
       "region": "Uzbekistan",
       "date": "2026-12-08"
+    },
+    {
+      "region": "Uzbekistan",
+      "date": "2026-12-31"
     },
     {
       "region": "Uzbekistan",
@@ -36636,6 +36708,14 @@
     },
     {
       "region": "Vietnam",
+      "date": "2026-01-02"
+    },
+    {
+      "region": "Vietnam",
+      "date": "2026-01-10"
+    },
+    {
+      "region": "Vietnam",
       "date": "2026-02-16"
     },
     {
@@ -36680,6 +36760,10 @@
     },
     {
       "region": "Vietnam",
+      "date": "2026-08-22"
+    },
+    {
+      "region": "Vietnam",
       "date": "2026-08-31"
     },
     {
@@ -36689,6 +36773,10 @@
     {
       "region": "Vietnam",
       "date": "2026-09-02"
+    },
+    {
+      "region": "Vietnam",
+      "date": "2026-11-24"
     },
     {
       "region": "Vietnam",
@@ -36753,6 +36841,10 @@
     {
       "region": "Vietnam",
       "date": "2027-09-02"
+    },
+    {
+      "region": "Vietnam",
+      "date": "2027-11-24"
     },
     {
       "region": "Vietnam",
