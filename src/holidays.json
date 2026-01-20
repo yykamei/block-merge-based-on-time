@@ -2838,11 +2838,27 @@
     },
     {
       "region": "Bangladesh",
-      "date": "2026-01-16"
+      "date": "2026-01-17"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-01-23"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-02-01"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-02-04"
     },
     {
       "region": "Bangladesh",
       "date": "2026-02-14"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-02-15"
     },
     {
       "region": "Bangladesh",
@@ -2862,6 +2878,26 @@
     },
     {
       "region": "Bangladesh",
+      "date": "2026-03-03"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-03-17"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-03-17"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-03-19"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-03-20"
+    },
+    {
+      "region": "Bangladesh",
       "date": "2026-03-20"
     },
     {
@@ -2875,6 +2911,10 @@
     {
       "region": "Bangladesh",
       "date": "2026-03-23"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-03-24"
     },
     {
       "region": "Bangladesh",
@@ -2910,11 +2950,27 @@
     },
     {
       "region": "Bangladesh",
+      "date": "2026-04-30"
+    },
+    {
+      "region": "Bangladesh",
       "date": "2026-05-01"
     },
     {
       "region": "Bangladesh",
+      "date": "2026-05-01"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-05-02"
+    },
+    {
+      "region": "Bangladesh",
       "date": "2026-05-10"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-05-26"
     },
     {
       "region": "Bangladesh",
@@ -2934,6 +2990,14 @@
     },
     {
       "region": "Bangladesh",
+      "date": "2026-05-31"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-06-01"
+    },
+    {
+      "region": "Bangladesh",
       "date": "2026-06-17"
     },
     {
@@ -2950,11 +3014,15 @@
     },
     {
       "region": "Bangladesh",
+      "date": "2026-07-29"
+    },
+    {
+      "region": "Bangladesh",
       "date": "2026-08-05"
     },
     {
       "region": "Bangladesh",
-      "date": "2026-08-10"
+      "date": "2026-08-12"
     },
     {
       "region": "Bangladesh",
@@ -2970,7 +3038,43 @@
     },
     {
       "region": "Bangladesh",
+      "date": "2026-09-26"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-10-10"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-10-18"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-10-19"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-10-20"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-10-21"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-10-25"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-10-25"
+    },
+    {
+      "region": "Bangladesh",
       "date": "2026-10-31"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2026-11-08"
     },
     {
       "region": "Bangladesh",
@@ -15270,7 +15374,7 @@
   "Iran": [
     {
       "region": "Iran",
-      "date": "2026-01-03"
+      "date": "2026-01-02"
     },
     {
       "region": "Iran",
@@ -17302,7 +17406,7 @@
     },
     {
       "region": "Jordan",
-      "date": "2026-01-16"
+      "date": "2026-01-17"
     },
     {
       "region": "Jordan",
@@ -17978,7 +18082,19 @@
     },
     {
       "region": "Kiribati",
+      "date": "2026-04-07"
+    },
+    {
+      "region": "Kiribati",
       "date": "2026-05-01"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-06-22"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-07-10"
     },
     {
       "region": "Kiribati",
@@ -17986,7 +18102,23 @@
     },
     {
       "region": "Kiribati",
+      "date": "2026-07-13"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-07-14"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-07-15"
+    },
+    {
+      "region": "Kiribati",
       "date": "2026-08-03"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-10-05"
     },
     {
       "region": "Kiribati",
@@ -17999,6 +18131,10 @@
     {
       "region": "Kiribati",
       "date": "2026-12-26"
+    },
+    {
+      "region": "Kiribati",
+      "date": "2026-12-28"
     },
     {
       "region": "Kiribati",
@@ -18060,7 +18196,7 @@
     },
     {
       "region": "Comoros",
-      "date": "2026-01-16"
+      "date": "2026-01-17"
     },
     {
       "region": "Comoros",
@@ -20664,7 +20800,7 @@
     },
     {
       "region": "Malaysia",
-      "date": "2026-01-16"
+      "date": "2026-01-17"
     },
     {
       "region": "Malaysia",
@@ -23962,6 +24098,10 @@
     },
     {
       "region": "Maldives",
+      "date": "2026-02-05"
+    },
+    {
+      "region": "Maldives",
       "date": "2026-02-18"
     },
     {
@@ -25612,6 +25752,14 @@
     },
     {
       "region": "Nauru",
+      "date": "2026-06-26"
+    },
+    {
+      "region": "Nauru",
+      "date": "2026-06-29"
+    },
+    {
+      "region": "Nauru",
       "date": "2026-07-01"
     },
     {
@@ -26694,7 +26842,7 @@
     },
     {
       "region": "Pakistan",
-      "date": "2026-01-16"
+      "date": "2026-01-17"
     },
     {
       "region": "Pakistan",
@@ -30310,6 +30458,10 @@
     },
     {
       "region": "Senegal",
+      "date": "2026-01-19"
+    },
+    {
+      "region": "Senegal",
       "date": "2026-02-18"
     },
     {
@@ -32568,10 +32720,6 @@
     },
     {
       "region": "Turks & Caicos Islands",
-      "date": "2026-11-27"
-    },
-    {
-      "region": "Turks & Caicos Islands",
       "date": "2026-12-10"
     },
     {
@@ -32629,10 +32777,6 @@
     {
       "region": "Turks & Caicos Islands",
       "date": "2027-11-10"
-    },
-    {
-      "region": "Turks & Caicos Islands",
-      "date": "2027-11-26"
     },
     {
       "region": "Turks & Caicos Islands",
@@ -37608,7 +37752,7 @@
     },
     {
       "region": "Mayotte",
-      "date": "2026-01-16"
+      "date": "2026-01-17"
     },
     {
       "region": "Mayotte",
