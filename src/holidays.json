@@ -562,7 +562,7 @@
     },
     {
       "region": "Anguilla",
-      "date": "2026-06-08"
+      "date": "2026-06-22"
     },
     {
       "region": "Anguilla",
@@ -32282,6 +32282,10 @@
     },
     {
       "region": "Syria",
+      "date": "2026-03-21"
+    },
+    {
+      "region": "Syria",
       "date": "2026-04-05"
     },
     {
@@ -32331,6 +32335,10 @@
     {
       "region": "Syria",
       "date": "2027-03-18"
+    },
+    {
+      "region": "Syria",
+      "date": "2027-03-21"
     },
     {
       "region": "Syria",
@@ -34578,10 +34586,6 @@
     },
     {
       "region": "Tuvalu",
-      "date": "2026-11-09"
-    },
-    {
-      "region": "Tuvalu",
       "date": "2026-12-25"
     },
     {
@@ -34639,10 +34643,6 @@
     {
       "region": "Tuvalu",
       "date": "2027-10-04"
-    },
-    {
-      "region": "Tuvalu",
-      "date": "2027-11-08"
     },
     {
       "region": "Tuvalu",
