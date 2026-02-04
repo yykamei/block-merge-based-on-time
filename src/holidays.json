@@ -13994,6 +13994,10 @@
     },
     {
       "region": "Honduras",
+      "date": "2026-02-03"
+    },
+    {
+      "region": "Honduras",
       "date": "2026-03-19"
     },
     {
@@ -14042,7 +14046,15 @@
     },
     {
       "region": "Honduras",
-      "date": "2026-10-03"
+      "date": "2026-10-07"
+    },
+    {
+      "region": "Honduras",
+      "date": "2026-10-08"
+    },
+    {
+      "region": "Honduras",
+      "date": "2026-10-09"
     },
     {
       "region": "Honduras",
@@ -15248,6 +15260,10 @@
     },
     {
       "region": "Iraq",
+      "date": "2026-03-16"
+    },
+    {
+      "region": "Iraq",
       "date": "2026-03-20"
     },
     {
@@ -15345,6 +15361,10 @@
     {
       "region": "Iraq",
       "date": "2027-03-11"
+    },
+    {
+      "region": "Iraq",
+      "date": "2027-03-16"
     },
     {
       "region": "Iraq",
@@ -23788,7 +23808,7 @@
     },
     {
       "region": "Montserrat",
-      "date": "2026-06-08"
+      "date": "2026-06-15"
     },
     {
       "region": "Montserrat",
@@ -23836,7 +23856,7 @@
     },
     {
       "region": "Montserrat",
-      "date": "2027-06-14"
+      "date": "2027-06-21"
     },
     {
       "region": "Montserrat",
@@ -25318,7 +25338,15 @@
     },
     {
       "region": "Nicaragua",
+      "date": "2026-02-02"
+    },
+    {
+      "region": "Nicaragua",
       "date": "2026-02-14"
+    },
+    {
+      "region": "Nicaragua",
+      "date": "2026-02-21"
     },
     {
       "region": "Nicaragua",
@@ -25370,6 +25398,10 @@
     },
     {
       "region": "Nicaragua",
+      "date": "2026-11-08"
+    },
+    {
+      "region": "Nicaragua",
       "date": "2026-12-08"
     },
     {
@@ -25386,7 +25418,19 @@
     },
     {
       "region": "Nicaragua",
+      "date": "2027-01-18"
+    },
+    {
+      "region": "Nicaragua",
+      "date": "2027-02-02"
+    },
+    {
+      "region": "Nicaragua",
       "date": "2027-02-14"
+    },
+    {
+      "region": "Nicaragua",
+      "date": "2027-02-21"
     },
     {
       "region": "Nicaragua",
@@ -25439,6 +25483,10 @@
     {
       "region": "Nicaragua",
       "date": "2027-11-02"
+    },
+    {
+      "region": "Nicaragua",
+      "date": "2027-11-08"
     },
     {
       "region": "Nicaragua",
