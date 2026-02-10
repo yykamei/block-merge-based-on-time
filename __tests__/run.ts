@@ -4,12 +4,21 @@ import * as api from "../src/github"
 import { run } from "../src/run"
 import { Inputs } from "../src/inputs"
 
-describe("run", () => {
-  const octokit = jest.fn()
+const mockOctokit = jest.fn()
+jest.mock("@actions/github", () => {
+  const context = {
+    eventName: "",
+    payload: {} as Record<string, unknown>,
+    get repo(): { owner: string; repo: string } {
+      return { owner: "", repo: "" }
+    },
+  }
+  return { context, getOctokit: () => mockOctokit }
+})
 
+describe("run", () => {
   beforeAll(() => {
     jest.useFakeTimers()
-    jest.spyOn(github, "getOctokit").mockImplementation(() => octokit as any)
     jest.spyOn(core, "debug").mockImplementation(jest.fn)
   })
 
@@ -101,10 +110,10 @@ describe("run", () => {
         const pullsCall = jest.spyOn(api, "pulls").mockImplementation(async () => pulls)
         const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
         await run()
-        expect(defaultBranch).toHaveBeenCalledWith(octokit, "foo", "special-repo")
-        expect(pullsCall).toHaveBeenCalledWith(octokit, "foo", "special-repo", "BB")
+        expect(defaultBranch).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo")
+        expect(pullsCall).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo", "BB")
         pulls.forEach((pull, idx) => {
-          expect(createCommitStatus).toHaveBeenCalledWith(octokit, pull, expect.any(Inputs), expectedStates[idx])
+          expect(createCommitStatus).toHaveBeenCalledWith(mockOctokit, pull, expect.any(Inputs), expectedStates[idx])
         })
       },
     )
@@ -135,10 +144,10 @@ describe("run", () => {
       try {
         await run()
       } catch (e: any) {
-        expect(defaultBranch).toHaveBeenCalledWith(octokit, "foo", "special-repo")
-        expect(pullsCall).toHaveBeenCalledWith(octokit, "foo", "special-repo", "BB")
+        expect(defaultBranch).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo")
+        expect(pullsCall).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo", "BB")
         expect(createCommitStatus).toHaveBeenCalledWith(
-          octokit,
+          mockOctokit,
           {
             number: 3,
             baseBranch: "main",
@@ -148,7 +157,7 @@ describe("run", () => {
           "pending",
         )
         expect(createCommitStatus).toHaveBeenCalledWith(
-          octokit,
+          mockOctokit,
           {
             number: 4,
             baseBranch: "main",
@@ -158,7 +167,7 @@ describe("run", () => {
           "pending",
         )
         expect(createCommitStatus).toHaveBeenCalledWith(
-          octokit,
+          mockOctokit,
           {
             number: 5,
             baseBranch: "main",
@@ -168,7 +177,7 @@ describe("run", () => {
           "pending",
         )
         expect(createCommitStatus).toHaveBeenCalledWith(
-          octokit,
+          mockOctokit,
           {
             number: 6,
             baseBranch: "main",
@@ -247,9 +256,9 @@ You can resolve the problems with these actions: updating the pull requests with
         jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
         Object.defineProperty(github.context, "payload", { value: { pull_request: { number: 324 } } } as any)
         await run()
-        expect(pull).toHaveBeenCalledWith(octokit, "FAORG", "repo1", "my-blocker", 324)
+        expect(pull).toHaveBeenCalledWith(mockOctokit, "FAORG", "repo1", "my-blocker", 324)
         expect(setOutput).toHaveBeenCalledWith("pr-blocked", prBlocked)
-        expect(createCommitStatus).toHaveBeenCalledWith(octokit, pullData, expect.any(Inputs), expectedState)
+        expect(createCommitStatus).toHaveBeenCalledWith(mockOctokit, pullData, expect.any(Inputs), expectedState)
       },
     )
   })
