@@ -15,7 +15,7 @@
   "author": "Yutaka Kamei",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^2.0.2",
+    "@actions/core": "^3.0.0",
     "@actions/github": "^7.0.0",
     "luxon": "^3.7.2"
   },
