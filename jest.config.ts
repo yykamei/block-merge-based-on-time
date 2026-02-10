@@ -108,7 +108,7 @@ export default {
   // resetModules: false,
 
   // A path to a custom resolver
-  // resolver: undefined,
+  resolver: "./jest-resolver.js",
 
   // Automatically restore mock state between every test
   // restoreMocks: false,
@@ -172,13 +172,15 @@ export default {
   // timers: "real",
 
   // A map from regular expressions to paths to transformers
-  // transform: undefined,
+  transform: {
+    "^.+\\.tsx?$": "ts-jest",
+    // @actions/* packages ship ESM JS that must be transformed to CJS for Jest
+    "node_modules[/\\\\]@actions[/\\\\].+\\.js$": "ts-jest",
+  },
 
   // An array of regexp pattern strings that are matched against all source file paths, matched files will skip transformation
-  // transformIgnorePatterns: [
-  //   "/node_modules/",
-  //   "\\.pnp\\.[^\\/]+$"
-  // ],
+  // @actions/* packages ship ESM-only JS, so they must be transformed by ts-jest
+  transformIgnorePatterns: ["/node_modules/(?!@actions/)"],
 
   // An array of regexp pattern strings that are matched against all modules before the module loader will automatically return a mock for them
   // unmockedModulePathPatterns: undefined,
