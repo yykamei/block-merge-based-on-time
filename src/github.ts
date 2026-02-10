@@ -1,7 +1,9 @@
 import * as core from "@actions/core"
-import { GitHub } from "@actions/github/lib/utils"
+import type { getOctokit } from "@actions/github"
 import { Inputs } from "./inputs"
 import type { PullRequestStatus } from "./types"
+
+type Octokit = ReturnType<typeof getOctokit>
 
 interface Pull {
   readonly number: number
@@ -66,7 +68,7 @@ interface PullsResponse {
 }
 
 export async function createCommitStatus(
-  octokit: InstanceType<typeof GitHub>,
+  octokit: Octokit,
   pullRequestStatus: PullRequestStatus,
   inputs: Inputs,
   state: "success" | "pending",
@@ -104,11 +106,7 @@ export async function createCommitStatus(
   })
 }
 
-export async function defaultBranch(
-  octokit: InstanceType<typeof GitHub>,
-  owner: string,
-  repo: string,
-): Promise<string> {
+export async function defaultBranch(octokit: Octokit, owner: string, repo: string): Promise<string> {
   core.debug(`Start defaultBranch() to get the default branch of ${owner}/${repo}`)
   const result: RepositoryResponse = await octokit.graphql(
     `
@@ -125,7 +123,7 @@ query($owner: String!, $repo: String!) {
 }
 
 export async function pull(
-  octokit: InstanceType<typeof GitHub>,
+  octokit: Octokit,
   owner: string,
   repo: string,
   contextName: string,
@@ -194,7 +192,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
 }
 
 export async function pulls(
-  octokit: InstanceType<typeof GitHub>,
+  octokit: Octokit,
   owner: string,
   repo: string,
   contextName: string,
