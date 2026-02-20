@@ -1,9 +1,9 @@
+import { existsSync, readFileSync } from "node:fs"
 import { getInput } from "@actions/core"
-import { readFileSync, existsSync } from "fs"
 import type { Zone } from "luxon"
 import { DateTime, Interval } from "luxon"
 import holidays from "./holidays.json"
-import type { Dates, Days, DaysDates, HolidayEntry, Hours, Holidays } from "./types"
+import type { Dates, Days, DaysDates, HolidayEntry, Holidays, Hours } from "./types"
 
 export class Inputs {
   public readonly token: string
@@ -100,12 +100,23 @@ function hours(key: "after" | "before", zone: Zone): Hours {
   const result: Hours = input.split(/,\s*/).reduce(
     (result, str) => {
       if (baseRegExp.test(str)) {
+        // biome-ignore lint/performance/noAccumulatingSpread: the array has at most 8 elements (7 days + base)
         return { ...result, base: dateTime("hh:mm", str, zone) }
       } else {
         const match = str.match(daysRegExp)
-        if (match != null && match.groups != null && match.groups["day"] != null && match.groups["hour"] != null) {
+        if (
+          match != null &&
+          match.groups != null &&
+          // biome-ignore lint/complexity/useLiteralKeys: noPropertyAccessFromIndexSignature in tsconfig requires bracket notation
+          match.groups["day"] != null &&
+          // biome-ignore lint/complexity/useLiteralKeys: noPropertyAccessFromIndexSignature in tsconfig requires bracket notation
+          match.groups["hour"] != null
+        ) {
+          // biome-ignore lint/complexity/useLiteralKeys: noPropertyAccessFromIndexSignature in tsconfig requires bracket notation
           const day = match.groups["day"]
+          // biome-ignore lint/complexity/useLiteralKeys: noPropertyAccessFromIndexSignature in tsconfig requires bracket notation
           const hour = match.groups["hour"]
+          // biome-ignore lint/performance/noAccumulatingSpread: the array has at most 8 elements (7 days + base)
           return { ...result, [day]: dateTime("hh:mm", hour, zone) }
         } else {
           throw new Error(`Invalid "${key}" was given. The example format is "16:30 on Monday"`)
@@ -209,6 +220,7 @@ function prohibitedDaysDates(zone: Zone, customHolidays: Holidays | null): DaysD
                 //
                 //       https://github.com/DefinitelyTyped/DefinitelyTyped/pull/64995
                 //
+                // biome-ignore lint/style/noNonNullAssertion: see the comment above about DefinitelyTyped#64995
                 dates.push(interval(d.toISODate()!, zone))
               })
             }

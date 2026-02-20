@@ -1,6 +1,6 @@
 import * as core from "@actions/core"
 import type { getOctokit } from "@actions/github"
-import { Inputs } from "./inputs"
+import type { Inputs } from "./inputs"
 import type { PullRequestStatus } from "./types"
 
 type Octokit = ReturnType<typeof getOctokit>

@@ -1,7 +1,7 @@
+import * as path from "node:path"
 import * as core from "@actions/core"
-import { Inputs } from "../src/inputs"
 import { DateTime, IANAZone, Interval } from "luxon"
-import * as path from "path"
+import { Inputs } from "../src/inputs"
 
 describe("Inputs", () => {
   beforeAll(() => {

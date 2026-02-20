@@ -1,4 +1,4 @@
-const { join, dirname } = require("path")
+const { join, dirname } = require("node:path")
 
 module.exports = (request, options) => {
   try {
@@ -12,7 +12,7 @@ module.exports = (request, options) => {
     const pkgDir = dirname(pkgJsonPath)
 
     if (subpath) {
-      const file = subpath.endsWith(".js") ? subpath : subpath + ".js"
+      const file = subpath.endsWith(".js") ? subpath : `${subpath}.js`
       return join(pkgDir, file)
     }
 

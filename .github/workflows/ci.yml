@@ -19,8 +19,7 @@ jobs:
           check-latest: true
           cache: npm
       - run: npm ci
-      - run: npm run fmt:check
-      - run: npm run lint
+      - run: npm run check
       - run: npm test
   dependency-review:
     if: github.event_name == 'pull_request'

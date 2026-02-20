@@ -1,6 +1,6 @@
 import * as core from "@actions/core"
-import { shouldBlock } from "../src/should-block"
 import { Inputs } from "../src/inputs"
+import { shouldBlock } from "../src/should-block"
 
 describe("shouldBlock", () => {
   beforeEach(() => {

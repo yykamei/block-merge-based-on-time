@@ -1,8 +1,8 @@
 import * as core from "@actions/core"
 import * as github from "@actions/github"
 import * as api from "../src/github"
-import { run } from "../src/run"
 import { Inputs } from "../src/inputs"
+import { run } from "../src/run"
 
 const mockOctokit = jest.fn()
 jest.mock("@actions/github", () => {
@@ -95,28 +95,30 @@ describe("run", () => {
         ],
         expectedStates: ["success", "success", "success", "success", "success", "success", "success"],
       },
-    ])(
-      "creates commit statuses: $inputBaseBranches, $pulls, $expectedStates",
-      async ({ now, inputBaseBranches, pulls, expectedStates }) => {
-        jest.setSystemTime(new Date(now))
-        jest.spyOn(core, "getInput").mockImplementation(
-          (name) =>
-            ({
-              ...inputs,
-              "base-branches": inputBaseBranches,
-            })[name] as any,
-        )
-        const defaultBranch = jest.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
-        const pullsCall = jest.spyOn(api, "pulls").mockImplementation(async () => pulls)
-        const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
-        await run()
-        expect(defaultBranch).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo")
-        expect(pullsCall).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo", "BB")
-        pulls.forEach((pull, idx) => {
-          expect(createCommitStatus).toHaveBeenCalledWith(mockOctokit, pull, expect.any(Inputs), expectedStates[idx])
-        })
-      },
-    )
+    ])("creates commit statuses: $inputBaseBranches, $pulls, $expectedStates", async ({
+      now,
+      inputBaseBranches,
+      pulls,
+      expectedStates,
+    }) => {
+      jest.setSystemTime(new Date(now))
+      jest.spyOn(core, "getInput").mockImplementation(
+        (name) =>
+          ({
+            ...inputs,
+            "base-branches": inputBaseBranches,
+          })[name] as any,
+      )
+      const defaultBranch = jest.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
+      const pullsCall = jest.spyOn(api, "pulls").mockImplementation(async () => pulls)
+      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+      await run()
+      expect(defaultBranch).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo")
+      expect(pullsCall).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo", "BB")
+      pulls.forEach((pull, idx) => {
+        expect(createCommitStatus).toHaveBeenCalledWith(mockOctokit, pull, expect.any(Inputs), expectedStates[idx])
+      })
+    })
 
     test("throws an error when some pull requests failed to get updated while successfully updating others", async () => {
       jest.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))

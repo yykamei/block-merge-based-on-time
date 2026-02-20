@@ -1,8 +1,8 @@
 import * as core from "@actions/core"
 import { context, getOctokit } from "@actions/github"
+import { createCommitStatus, defaultBranch, pull, pulls } from "./github"
 import { Inputs } from "./inputs"
 import { shouldBlock } from "./should-block"
-import { createCommitStatus, defaultBranch, pull, pulls } from "./github"
 import type { PullRequestStatus } from "./types"
 
 export async function run(): Promise<void> {

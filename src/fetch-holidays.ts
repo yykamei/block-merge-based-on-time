@@ -1,7 +1,7 @@
-import * as https from "https"
-import { URL, URLSearchParams } from "url"
-import { writeFileSync } from "fs"
-import path from "path"
+import { writeFileSync } from "node:fs"
+import * as https from "node:https"
+import path from "node:path"
+import { URL, URLSearchParams } from "node:url"
 import { DateTime } from "luxon"
 import type { HolidayEntry, Holidays } from "./types"
 
@@ -242,6 +242,7 @@ const calendars = {
 
 const now = DateTime.now().setZone("UTC")
 
+// biome-ignore lint/complexity/useLiteralKeys: noPropertyAccessFromIndexSignature in tsconfig requires bracket notation
 const apiKey = process.env["GOOGLE_API_KEY"]
 if (apiKey == null) {
   throw new Error("You must set GOOGLE_API_KEY to run this script.")
@@ -281,9 +282,10 @@ const fetch = (region: string, calendarId: string): Promise<HolidayEntry[]> => {
       })
       res.on("end", () => {
         try {
-          const parsedData: any = JSON.parse(data) // eslint-disable-line @typescript-eslint/no-explicit-any
+          // biome-ignore lint/suspicious/noExplicitAny: JSON.parse returns unknown structure from external API
+          const parsedData: any = JSON.parse(data)
           resolve(
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+            // biome-ignore lint/suspicious/noExplicitAny: JSON.parse returns unknown structure from external API
             parsedData.items.map(({ start }: any) => {
               return {
                 region,
