@@ -286,6 +286,10 @@
     },
     {
       "region": "Afghanistan",
+      "date": "2026-03-19"
+    },
+    {
+      "region": "Afghanistan",
       "date": "2026-03-20"
     },
     {
@@ -295,10 +299,6 @@
     {
       "region": "Afghanistan",
       "date": "2026-03-21"
-    },
-    {
-      "region": "Afghanistan",
-      "date": "2026-03-22"
     },
     {
       "region": "Afghanistan",
@@ -2396,10 +2396,6 @@
     },
     {
       "region": "Azerbaijan",
-      "date": "2026-03-23"
-    },
-    {
-      "region": "Azerbaijan",
       "date": "2026-03-24"
     },
     {
@@ -3358,6 +3354,10 @@
     },
     {
       "region": "Burkina Faso",
+      "date": "2026-03-21"
+    },
+    {
+      "region": "Burkina Faso",
       "date": "2026-04-06"
     },
     {
@@ -3509,6 +3509,14 @@
     {
       "region": "Bahrain",
       "date": "2026-03-22"
+    },
+    {
+      "region": "Bahrain",
+      "date": "2026-03-23"
+    },
+    {
+      "region": "Bahrain",
+      "date": "2026-03-24"
     },
     {
       "region": "Bahrain",
@@ -12386,6 +12394,10 @@
     },
     {
       "region": "Ghana",
+      "date": "2026-03-23"
+    },
+    {
+      "region": "Ghana",
       "date": "2026-04-03"
     },
     {
@@ -12869,6 +12881,10 @@
     {
       "region": "Gambia",
       "date": "2026-03-16"
+    },
+    {
+      "region": "Gambia",
+      "date": "2026-03-19"
     },
     {
       "region": "Gambia",
@@ -14027,6 +14043,10 @@
     {
       "region": "Honduras",
       "date": "2026-04-14"
+    },
+    {
+      "region": "Honduras",
+      "date": "2026-04-20"
     },
     {
       "region": "Honduras",
@@ -15320,6 +15340,14 @@
     },
     {
       "region": "Iraq",
+      "date": "2026-03-18"
+    },
+    {
+      "region": "Iraq",
+      "date": "2026-03-19"
+    },
+    {
+      "region": "Iraq",
       "date": "2026-03-20"
     },
     {
@@ -15333,6 +15361,10 @@
     {
       "region": "Iraq",
       "date": "2026-03-22"
+    },
+    {
+      "region": "Iraq",
+      "date": "2026-03-23"
     },
     {
       "region": "Iraq",
@@ -17546,10 +17578,6 @@
     },
     {
       "region": "Jordan",
-      "date": "2026-03-19"
-    },
-    {
-      "region": "Jordan",
       "date": "2026-03-20"
     },
     {
@@ -17559,6 +17587,10 @@
     {
       "region": "Jordan",
       "date": "2026-03-22"
+    },
+    {
+      "region": "Jordan",
+      "date": "2026-03-23"
     },
     {
       "region": "Jordan",
@@ -19042,14 +19074,6 @@
     },
     {
       "region": "Kazakhstan",
-      "date": "2026-08-30"
-    },
-    {
-      "region": "Kazakhstan",
-      "date": "2026-08-31"
-    },
-    {
-      "region": "Kazakhstan",
       "date": "2026-10-25"
     },
     {
@@ -19083,6 +19107,10 @@
     {
       "region": "Kazakhstan",
       "date": "2027-03-08"
+    },
+    {
+      "region": "Kazakhstan",
+      "date": "2027-03-15"
     },
     {
       "region": "Kazakhstan",
@@ -19127,10 +19155,6 @@
     {
       "region": "Kazakhstan",
       "date": "2027-07-06"
-    },
-    {
-      "region": "Kazakhstan",
-      "date": "2027-08-30"
     },
     {
       "region": "Kazakhstan",
@@ -20811,6 +20835,10 @@
     {
       "region": "Morocco",
       "date": "2026-03-22"
+    },
+    {
+      "region": "Morocco",
+      "date": "2026-03-23"
     },
     {
       "region": "Morocco",
@@ -22826,7 +22854,7 @@
     },
     {
       "region": "Mali",
-      "date": "2026-03-20"
+      "date": "2026-03-19"
     },
     {
       "region": "Mali",
@@ -24204,7 +24232,7 @@
     },
     {
       "region": "Mauritius",
-      "date": "2026-03-20"
+      "date": "2026-03-21"
     },
     {
       "region": "Mauritius",
@@ -24976,7 +25004,15 @@
     },
     {
       "region": "Niger",
+      "date": "2026-03-19"
+    },
+    {
+      "region": "Niger",
       "date": "2026-03-20"
+    },
+    {
+      "region": "Niger",
+      "date": "2026-03-26"
     },
     {
       "region": "Niger",
@@ -25041,6 +25077,14 @@
     {
       "region": "Niger",
       "date": "2027-03-10"
+    },
+    {
+      "region": "Niger",
+      "date": "2027-03-11"
+    },
+    {
+      "region": "Niger",
+      "date": "2027-03-26"
     },
     {
       "region": "Niger",
@@ -26155,6 +26199,10 @@
     {
       "region": "Oman",
       "date": "2026-02-19"
+    },
+    {
+      "region": "Oman",
+      "date": "2026-03-19"
     },
     {
       "region": "Oman",
@@ -31724,6 +31772,14 @@
     },
     {
       "region": "South Sudan",
+      "date": "2026-03-21"
+    },
+    {
+      "region": "South Sudan",
+      "date": "2026-03-22"
+    },
+    {
+      "region": "South Sudan",
       "date": "2026-04-03"
     },
     {
@@ -32518,6 +32574,10 @@
     },
     {
       "region": "Syria",
+      "date": "2026-03-19"
+    },
+    {
+      "region": "Syria",
       "date": "2026-03-20"
     },
     {
@@ -32527,6 +32587,10 @@
     {
       "region": "Syria",
       "date": "2026-03-21"
+    },
+    {
+      "region": "Syria",
+      "date": "2026-03-23"
     },
     {
       "region": "Syria",
@@ -34202,6 +34266,10 @@
     },
     {
       "region": "Tunisia",
+      "date": "2026-03-20"
+    },
+    {
+      "region": "Tunisia",
       "date": "2026-03-21"
     },
     {
@@ -34317,6 +34385,10 @@
     {
       "region": "Tonga",
       "date": "2026-01-01"
+    },
+    {
+      "region": "Tonga",
+      "date": "2026-03-12"
     },
     {
       "region": "Tonga",
@@ -37955,6 +38027,14 @@
     {
       "region": "Yemen",
       "date": "2026-03-22"
+    },
+    {
+      "region": "Yemen",
+      "date": "2026-03-23"
+    },
+    {
+      "region": "Yemen",
+      "date": "2026-03-24"
     },
     {
       "region": "Yemen",
