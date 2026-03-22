@@ -2942,10 +2942,6 @@
     },
     {
       "region": "Bangladesh",
-      "date": "2026-03-24"
-    },
-    {
-      "region": "Bangladesh",
       "date": "2026-03-26"
     },
     {
@@ -10052,6 +10048,14 @@
     },
     {
       "region": "Egypt",
+      "date": "2026-03-19"
+    },
+    {
+      "region": "Egypt",
+      "date": "2026-03-20"
+    },
+    {
+      "region": "Egypt",
       "date": "2026-03-21"
     },
     {
@@ -15538,6 +15542,34 @@
     },
     {
       "region": "Iran",
+      "date": "2026-03-01"
+    },
+    {
+      "region": "Iran",
+      "date": "2026-03-02"
+    },
+    {
+      "region": "Iran",
+      "date": "2026-03-03"
+    },
+    {
+      "region": "Iran",
+      "date": "2026-03-04"
+    },
+    {
+      "region": "Iran",
+      "date": "2026-03-05"
+    },
+    {
+      "region": "Iran",
+      "date": "2026-03-06"
+    },
+    {
+      "region": "Iran",
+      "date": "2026-03-07"
+    },
+    {
+      "region": "Iran",
       "date": "2026-03-11"
     },
     {
@@ -18372,15 +18404,15 @@
     },
     {
       "region": "Comoros",
-      "date": "2026-03-18"
-    },
-    {
-      "region": "Comoros",
       "date": "2026-03-19"
     },
     {
       "region": "Comoros",
       "date": "2026-03-20"
+    },
+    {
+      "region": "Comoros",
+      "date": "2026-03-21"
     },
     {
       "region": "Comoros",
@@ -19452,6 +19484,14 @@
     },
     {
       "region": "Lebanon",
+      "date": "2026-03-22"
+    },
+    {
+      "region": "Lebanon",
+      "date": "2026-03-23"
+    },
+    {
+      "region": "Lebanon",
       "date": "2026-03-25"
     },
     {
@@ -20240,7 +20280,19 @@
     },
     {
       "region": "Sri Lanka",
+      "date": "2026-03-18"
+    },
+    {
+      "region": "Sri Lanka",
       "date": "2026-03-21"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2026-03-25"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2026-04-01"
     },
     {
       "region": "Sri Lanka",
@@ -25352,11 +25404,11 @@
     },
     {
       "region": "Nigeria",
-      "date": "2026-03-20"
+      "date": "2026-03-19"
     },
     {
       "region": "Nigeria",
-      "date": "2026-03-21"
+      "date": "2026-03-20"
     },
     {
       "region": "Nigeria",
@@ -26968,6 +27020,10 @@
     },
     {
       "region": "Philippines",
+      "date": "2026-03-21"
+    },
+    {
+      "region": "Philippines",
       "date": "2026-04-02"
     },
     {
@@ -27207,6 +27263,10 @@
     {
       "region": "Pakistan",
       "date": "2026-03-04"
+    },
+    {
+      "region": "Pakistan",
+      "date": "2026-03-20"
     },
     {
       "region": "Pakistan",
@@ -29483,6 +29543,10 @@
     {
       "region": "Saudi Arabia",
       "date": "2026-03-11"
+    },
+    {
+      "region": "Saudi Arabia",
+      "date": "2026-03-19"
     },
     {
       "region": "Saudi Arabia",
@@ -33874,6 +33938,10 @@
     },
     {
       "region": "Timor-Leste",
+      "date": "2026-11-03"
+    },
+    {
+      "region": "Timor-Leste",
       "date": "2026-11-12"
     },
     {
@@ -33951,6 +34019,10 @@
     {
       "region": "Timor-Leste",
       "date": "2027-11-02"
+    },
+    {
+      "region": "Timor-Leste",
+      "date": "2027-11-03"
     },
     {
       "region": "Timor-Leste",
@@ -38192,7 +38264,7 @@
     },
     {
       "region": "Mayotte",
-      "date": "2026-03-20"
+      "date": "2026-03-21"
     },
     {
       "region": "Mayotte",
