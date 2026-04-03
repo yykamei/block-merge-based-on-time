@@ -8,6 +8,7 @@ type Octokit = ReturnType<typeof getOctokit>
 interface Pull {
   readonly number: number
   readonly title: string
+  readonly isDraft: boolean
   readonly baseRefName: string
   readonly labels: {
     readonly edges: {
@@ -128,7 +129,7 @@ export async function pull(
   repo: string,
   contextName: string,
   pullNumber: number,
-): Promise<{ readonly defaultBranch: string; readonly pull: PullRequestStatus }> {
+): Promise<{ readonly defaultBranch: string; readonly isDraft: boolean; readonly pull: PullRequestStatus }> {
   core.debug(`Start pull() to get the pull request of ${owner}/${repo}#${pullNumber}`)
   const result: PullResponse = await octokit.graphql(
     `
@@ -140,6 +141,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
     pullRequest(number: $pullNumber) {
       number
       title
+      isDraft
       baseRefName
       labels(first: 100) {
         edges {
@@ -187,6 +189,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
   }
   return {
     defaultBranch: result.repository.defaultBranchRef.name,
+    isDraft: result.repository.pullRequest.isDraft,
     pull,
   }
 }
@@ -218,6 +221,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
         node {
           number
           title
+          isDraft
           baseRefName
           labels(first: 100) {
             edges {
@@ -252,6 +256,10 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
     after = result.repository.pullRequests.pageInfo.endCursor
 
     const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => {
+      if (pr.isDraft) {
+        core.info(`pulls() skipping draft pull request: #${pr.number} ${pr.title}`)
+        return []
+      }
       core.debug(`pulls() got the pull request: #${pr.number} ${pr.title}`)
       return pr.commits.edges.map(({ node: commit }) => ({
         owner,

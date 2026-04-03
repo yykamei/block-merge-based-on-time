@@ -53,7 +53,7 @@ inputs:
     default: ${{ github.token }}
 outputs:
   pr-blocked:
-    description: "A boolean value to indicate the pull reuqest is blocked. This is set only when the `pull_request` event occurs."
+    description: "A boolean value to indicate the pull request is blocked. This is set only when the `pull_request` event occurs. Draft pull requests are always skipped and this value is set to \"false\"."
 branding:
   icon: stop-circle
   color: yellow

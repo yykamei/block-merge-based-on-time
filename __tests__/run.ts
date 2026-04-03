@@ -252,6 +252,7 @@ You can resolve the problems with these actions: updating the pull requests with
         jest.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
         const pull = jest.spyOn(api, "pull").mockImplementation(async () => ({
           defaultBranch: "main",
+          isDraft: false,
           pull: pullData,
         }))
         const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
@@ -263,6 +264,31 @@ You can resolve the problems with these actions: updating the pull requests with
         expect(createCommitStatus).toHaveBeenCalledWith(mockOctokit, pullData, expect.any(Inputs), expectedState)
       },
     )
+
+    test("skips draft pull requests without creating a commit status", async () => {
+      const setOutput = jest.spyOn(core, "setOutput").mockImplementation(jest.fn)
+      const pullData = {
+        owner: "FAORG",
+        repo: "repo1",
+        number: 500,
+        baseBranch: "main",
+        labels: [],
+        sha: "draft-commit",
+      }
+      jest.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
+      const pull = jest.spyOn(api, "pull").mockImplementation(async () => ({
+        defaultBranch: "main",
+        isDraft: true,
+        pull: pullData,
+      }))
+      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+      jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
+      Object.defineProperty(github.context, "payload", { value: { pull_request: { number: 500 } } } as any)
+      await run()
+      expect(pull).toHaveBeenCalledWith(mockOctokit, "FAORG", "repo1", "my-blocker", 500)
+      expect(setOutput).toHaveBeenCalledWith("pr-blocked", "false")
+      expect(createCommitStatus).not.toHaveBeenCalled()
+    })
   })
 
   describe.each([["push", "release", "create"]])("when the event is %s", (event) => {

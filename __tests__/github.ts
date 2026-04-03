@@ -147,6 +147,7 @@ describe("pull", () => {
         repository: {
           defaultBranchRef: { name: "main" },
           pullRequest: {
+            isDraft: false,
             baseRefName: "develop",
             commits: {
               edges: [{ node: { commit: { oid: "c1" } } }],
@@ -161,6 +162,7 @@ describe("pull", () => {
     const result = await pull(octokit, "Foo", "bar", "blocker", 3)
     expect(result).toEqual({
       defaultBranch: "main",
+      isDraft: false,
       pull: {
         owner: "Foo",
         repo: "bar",
@@ -184,6 +186,7 @@ describe("pull", () => {
         repository: {
           defaultBranchRef: { name: "main" },
           pullRequest: {
+            isDraft: false,
             baseRefName: "develop",
             commits: {
               edges: [{ node: { commit: { oid: "c3", status: { context: { state: "pending" } } } } }],
@@ -198,6 +201,7 @@ describe("pull", () => {
     const result = await pull(octokit, "Foo", "bar", "blocker", 5)
     expect(result).toEqual({
       defaultBranch: "main",
+      isDraft: false,
       pull: {
         owner: "Foo",
         repo: "bar",
@@ -222,6 +226,7 @@ describe("pull", () => {
         repository: {
           defaultBranchRef: { name: "main" },
           pullRequest: {
+            isDraft: false,
             baseRefName: "develop",
             commits: {
               edges: [{ node: { commit: { oid: "c5", status: { context: null } } } }],
@@ -236,6 +241,7 @@ describe("pull", () => {
     const result = await pull(octokit, "Foo", "bar", "blocker", 7)
     expect(result).toEqual({
       defaultBranch: "main",
+      isDraft: false,
       pull: {
         owner: "Foo",
         repo: "bar",
@@ -250,6 +256,39 @@ describe("pull", () => {
       repo: "bar",
       contextName: "blocker",
       pullNumber: 7,
+    })
+  })
+
+  test("fetches a draft pull request and returns isDraft as true", async () => {
+    const octokit: any = {
+      graphql: jest.fn(() => ({
+        repository: {
+          defaultBranchRef: { name: "main" },
+          pullRequest: {
+            isDraft: true,
+            baseRefName: "main",
+            commits: {
+              edges: [{ node: { commit: { oid: "c8" } } }],
+            },
+            labels: {
+              edges: [],
+            },
+          },
+        },
+      })),
+    }
+    const result = await pull(octokit, "Foo", "bar", "blocker", 8)
+    expect(result).toEqual({
+      defaultBranch: "main",
+      isDraft: true,
+      pull: {
+        owner: "Foo",
+        repo: "bar",
+        number: 8,
+        baseBranch: "main",
+        sha: "c8",
+        labels: [],
+      },
     })
   })
 })
@@ -273,6 +312,7 @@ describe("pulls", () => {
                   node: {
                     number: 10,
                     title: "#10",
+                    isDraft: false,
                     baseRefName: "main",
                     labels: { edges: [{ node: { name: "bug" } }] },
                     commits: {
@@ -298,6 +338,7 @@ describe("pulls", () => {
                   node: {
                     number: 9,
                     title: "#9",
+                    isDraft: false,
                     baseRefName: "develop",
                     labels: { edges: [] },
                     commits: {
@@ -343,5 +384,80 @@ describe("pulls", () => {
       contextName: "blocker!",
       after: "cur1",
     })
+  })
+
+  test("excludes draft pull requests from results", async () => {
+    const octokit: any = {
+      graphql: jest.fn().mockResolvedValueOnce({
+        repository: {
+          defaultBranchRef: { name: "main" },
+          pullRequests: {
+            pageInfo: {
+              hasNextPage: false,
+              endCursor: "cur1",
+            },
+            edges: [
+              {
+                node: {
+                  number: 10,
+                  title: "#10",
+                  isDraft: false,
+                  baseRefName: "main",
+                  labels: { edges: [{ node: { name: "bug" } }] },
+                  commits: {
+                    edges: [{ node: { commit: { oid: "c10", status: { context: { state: "pending" } } } } }],
+                  },
+                },
+              },
+              {
+                node: {
+                  number: 11,
+                  title: "#11 (draft)",
+                  isDraft: true,
+                  baseRefName: "main",
+                  labels: { edges: [] },
+                  commits: {
+                    edges: [{ node: { commit: { oid: "c11", status: null } } }],
+                  },
+                },
+              },
+              {
+                node: {
+                  number: 12,
+                  title: "#12",
+                  isDraft: false,
+                  baseRefName: "develop",
+                  labels: { edges: [] },
+                  commits: {
+                    edges: [{ node: { commit: { oid: "c12", status: { context: { state: "success" } } } } }],
+                  },
+                },
+              },
+            ],
+          },
+        },
+      }),
+    }
+    const result = await pulls(octokit, "Foo", "bar", "blocker!")
+    expect(result).toEqual([
+      {
+        owner: "Foo",
+        repo: "bar",
+        number: 10,
+        baseBranch: "main",
+        sha: "c10",
+        labels: ["bug"],
+        state: "pending",
+      },
+      {
+        owner: "Foo",
+        repo: "bar",
+        number: 12,
+        baseBranch: "develop",
+        sha: "c12",
+        labels: [],
+        state: "success",
+      },
+    ])
   })
 })

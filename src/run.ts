@@ -68,6 +68,12 @@ async function handlePull(inputs: Inputs): Promise<void> {
   }
   const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number)
 
+  if (result.isDraft) {
+    core.info(`Skipping draft pull request #${number}`)
+    core.setOutput("pr-blocked", "false")
+    return
+  }
+
   // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
   const state =
     inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
