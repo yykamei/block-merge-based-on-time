@@ -31951,7 +31951,7 @@ function notice(message, properties = {}) {
  * @param message info message
  */
 function info(message) {
-    process.stdout.write(message + os.EOL);
+    process.stdout.write(message + external_os_namespaceObject.EOL);
 }
 /**
  * Begin an output group.
@@ -36172,6 +36172,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
     pullRequest(number: $pullNumber) {
       number
       title
+      isDraft
       baseRefName
       labels(first: 100) {
         edges {
@@ -36214,6 +36215,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $pullNumber: Int!)
     };
     return {
         defaultBranch: result.repository.defaultBranchRef.name,
+        isDraft: result.repository.pullRequest.isDraft,
         pull,
     };
 }
@@ -36238,6 +36240,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
         node {
           number
           title
+          isDraft
           baseRefName
           labels(first: 100) {
             edges {
@@ -36269,6 +36272,10 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
         hasNextPage = result.repository.pullRequests.pageInfo.hasNextPage;
         after = result.repository.pullRequests.pageInfo.endCursor;
         const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => {
+            if (pr.isDraft) {
+                core_debug(`pulls() skipping draft pull request: #${pr.number} ${pr.title}`);
+                return [];
+            }
             core_debug(`pulls() got the pull request: #${pr.number} ${pr.title}`);
             return pr.commits.edges.map(({ node: commit }) => ({
                 owner,
@@ -44770,7 +44777,17 @@ async function handlePull(inputs) {
     if (number == null) {
         throw new Error(`handlePull can only be used for a pull request event`);
     }
+    if (github_context.payload.pull_request?.["draft"] === true) {
+        info(`Skipping draft pull request #${number} (from webhook payload)`);
+        setOutput("pr-blocked", "false");
+        return;
+    }
     const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number);
+    if (result.isDraft) {
+        info(`Skipping draft pull request #${number} (from GraphQL)`);
+        setOutput("pr-blocked", "false");
+        return;
+    }
     // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
     const state = inputs.baseBranches(result.defaultBranch).some((b) => b.test(result.pull.baseBranch)) &&
         shouldBlock(inputs) &&

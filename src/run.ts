@@ -66,7 +66,20 @@ async function handlePull(inputs: Inputs): Promise<void> {
   if (number == null) {
     throw new Error(`handlePull can only be used for a pull request event`)
   }
+
+  if (context.payload.pull_request?.["draft"] === true) {
+    core.info(`Skipping draft pull request #${number} (from webhook payload)`)
+    core.setOutput("pr-blocked", "false")
+    return
+  }
+
   const result = await pull(octokit, owner, repo, inputs.commitStatusContext, number)
+
+  if (result.isDraft) {
+    core.info(`Skipping draft pull request #${number} (from GraphQL)`)
+    core.setOutput("pr-blocked", "false")
+    return
+  }
 
   // TODO: shouldBlock() should decide which labels and base branches should be treated as "no block."
   const state =
