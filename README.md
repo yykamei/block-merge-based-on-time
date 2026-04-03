@@ -68,7 +68,7 @@ These are all available inputs.
 
 ### Action outputs
 
-- `pr-blocked` — A boolean value to indicate the pull reuqest is blocked. This is set only when the `pull_request` event occurs.
+- `pr-blocked` — A boolean string (`"true"` or `"false"`) indicating whether the pull request is blocked. This is set only when the `pull_request` event occurs. Draft pull requests are always skipped and output `"false"`.
 
 ## Regional holidays
 

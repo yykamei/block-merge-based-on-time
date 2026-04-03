@@ -257,7 +257,7 @@ query($owner: String!, $repo: String!, $contextName: String!, $after: String) {
 
     const data = result.repository.pullRequests.edges.flatMap(({ node: pr }) => {
       if (pr.isDraft) {
-        core.info(`pulls() skipping draft pull request: #${pr.number} ${pr.title}`)
+        core.debug(`pulls() skipping draft pull request: #${pr.number} ${pr.title}`)
         return []
       }
       core.debug(`pulls() got the pull request: #${pr.number} ${pr.title}`)

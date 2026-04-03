@@ -265,8 +265,9 @@ You can resolve the problems with these actions: updating the pull requests with
       },
     )
 
-    test("skips draft pull requests without creating a commit status", async () => {
+    test("skips draft pull requests detected via GraphQL without creating a commit status", async () => {
       const setOutput = jest.spyOn(core, "setOutput").mockImplementation(jest.fn)
+      const infoSpy = jest.spyOn(core, "info").mockImplementation(jest.fn)
       const pullData = {
         owner: "FAORG",
         repo: "repo1",
@@ -283,9 +284,33 @@ You can resolve the problems with these actions: updating the pull requests with
       }))
       const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
       jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
-      Object.defineProperty(github.context, "payload", { value: { pull_request: { number: 500 } } } as any)
+      Object.defineProperty(github.context, "payload", {
+        value: { pull_request: { number: 500, draft: false } },
+      } as any)
       await run()
       expect(pull).toHaveBeenCalledWith(mockOctokit, "FAORG", "repo1", "my-blocker", 500)
+      expect(infoSpy).toHaveBeenCalledWith("Skipping draft pull request #500 (from GraphQL)")
+      expect(setOutput).toHaveBeenCalledWith("pr-blocked", "false")
+      expect(createCommitStatus).not.toHaveBeenCalled()
+    })
+
+    test("skips draft pull requests from webhook payload without calling GraphQL", async () => {
+      const setOutput = jest.spyOn(core, "setOutput").mockImplementation(jest.fn)
+      const infoSpy = jest.spyOn(core, "info").mockImplementation(jest.fn)
+      jest.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
+      const pull = jest.spyOn(api, "pull").mockImplementation(async () => ({
+        defaultBranch: "main",
+        isDraft: false,
+        pull: {} as any,
+      }))
+      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+      jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
+      Object.defineProperty(github.context, "payload", {
+        value: { pull_request: { number: 600, draft: true } },
+      } as any)
+      await run()
+      expect(pull).not.toHaveBeenCalled()
+      expect(infoSpy).toHaveBeenCalledWith("Skipping draft pull request #600 (from webhook payload)")
       expect(setOutput).toHaveBeenCalledWith("pr-blocked", "false")
       expect(createCommitStatus).not.toHaveBeenCalled()
     })

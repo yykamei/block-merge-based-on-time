@@ -386,7 +386,9 @@ describe("pulls", () => {
     })
   })
 
-  test("excludes draft pull requests from results", async () => {
+  test("excludes draft pull requests from results and logs at debug level", async () => {
+    const debugSpy = jest.spyOn(core, "debug")
+    const infoSpy = jest.spyOn(core, "info").mockImplementation(jest.fn)
     const octokit: any = {
       graphql: jest.fn().mockResolvedValueOnce({
         repository: {
@@ -459,5 +461,7 @@ describe("pulls", () => {
         state: "success",
       },
     ])
+    expect(debugSpy).toHaveBeenCalledWith("pulls() skipping draft pull request: #11 #11 (draft)")
+    expect(infoSpy).not.toHaveBeenCalledWith(expect.stringContaining("skipping draft"))
   })
 })
