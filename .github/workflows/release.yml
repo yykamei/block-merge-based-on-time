@@ -1,5 +1,10 @@
 name: Release
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to release (e.g. 3.10.1). "v" prefix is NOT needed. If omitted, the patch version is incremented automatically.'
+        required: false
 permissions: {}
 jobs:
   release:
@@ -26,17 +31,28 @@ jobs:
       - name: Decide the next version
         id: version
         run: |
-          latest=$(gh release view --json tagName --jq .tagName)
-          next=$(echo ${latest#v} | awk -F . '{patch = $3; patch++; printf "%d.%d.%d", $1, $2, patch}')
+          if [ -n "$INPUT_VERSION" ]; then
+            if ! echo "$INPUT_VERSION" | grep -qE '^[0-9]+\.[0-9]+\.[0-9]+$'; then
+              echo "::error::Invalid version format: must be X.Y.Z (e.g. 3.10.1)"
+              exit 1
+            fi
+            next="$INPUT_VERSION"
+          else
+            latest=$(gh release view --json tagName --jq .tagName)
+            next=$(echo ${latest#v} | awk -F . '{patch = $3; patch++; printf "%d.%d.%d", $1, $2, patch}')
+          fi
           echo "next=${next}" >> "$GITHUB_OUTPUT"
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+          INPUT_VERSION: ${{ inputs.version }}
 
       - name: Bump the package version
         run: |
           mv package.json /tmp/
-          jq '.version = "${{ steps.version.outputs.next }}"' /tmp/package.json | tee package.json
+          jq --arg v "$NEXT_VERSION" '.version = $v' /tmp/package.json | tee package.json
           npm i --package-lock-only
+        env:
+          NEXT_VERSION: ${{ steps.version.outputs.next }}
 
       - uses: yykamei/actions-git-push@c9bcec4304fde1cf89d4abdf23280713e66c034d # main
         with:
