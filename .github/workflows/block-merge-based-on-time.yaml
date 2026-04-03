@@ -17,7 +17,7 @@ jobs:
         id: block
         with:
           timezone: Asia/Tokyo
-          after: 18:00
+          after: 03:00
           before: 04:00
       - run: echo pr-blocked=${{ steps.block.outputs.pr-blocked }}
         if: github.event_name == 'pull_request'
