@@ -7,7 +7,15 @@ export default {
   resolver: "./jest-resolver.js",
   testEnvironment: "node",
   transform: {
-    "^.+\\.tsx?$": "ts-jest",
+    "^.+\\.tsx?$": [
+      "ts-jest",
+      {
+        tsconfig: {
+          rootDirs: ["src", "__tests__"],
+          types: ["jest", "node"],
+        },
+      },
+    ],
     "node_modules[/\\\\]@actions[/\\\\].+\\.js$": "ts-jest",
   },
   transformIgnorePatterns: ["/node_modules/(?!@actions/)"],
