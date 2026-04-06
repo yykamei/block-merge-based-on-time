@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "ignoreDeprecations": "6.0",
     "incremental": true,
     "target": "ES2022",
     "module": "ES2022",
@@ -25,6 +26,7 @@
     "noPropertyAccessFromIndexSignature": true,
 
     "moduleResolution": "node",
+    "types": ["node"],
     "resolveJsonModule": true,
     "rootDirs": ["src"],
     "esModuleInterop": true,
@@ -32,6 +34,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   },
+  "exclude": ["__tests__"],
   "ts-node": {
     "compilerOptions": {
       "module": "commonjs"
