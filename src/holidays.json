@@ -5998,6 +5998,10 @@
     },
     {
       "region": "Congo - Kinshasa",
+      "date": "2026-04-01"
+    },
+    {
+      "region": "Congo - Kinshasa",
       "date": "2026-04-06"
     },
     {
@@ -10072,6 +10076,10 @@
     },
     {
       "region": "Egypt",
+      "date": "2026-04-09"
+    },
+    {
+      "region": "Egypt",
       "date": "2026-04-10"
     },
     {
@@ -10181,6 +10189,10 @@
     {
       "region": "Egypt",
       "date": "2027-04-25"
+    },
+    {
+      "region": "Egypt",
+      "date": "2027-04-29"
     },
     {
       "region": "Egypt",
@@ -15373,6 +15385,14 @@
     {
       "region": "Iraq",
       "date": "2026-03-23"
+    },
+    {
+      "region": "Iraq",
+      "date": "2026-04-01"
+    },
+    {
+      "region": "Iraq",
+      "date": "2026-04-02"
     },
     {
       "region": "Iraq",
@@ -26026,7 +26046,19 @@
     },
     {
       "region": "Nepal",
+      "date": "2026-04-12"
+    },
+    {
+      "region": "Nepal",
       "date": "2026-04-14"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-04-19"
+    },
+    {
+      "region": "Nepal",
+      "date": "2026-04-26"
     },
     {
       "region": "Nepal",
@@ -36807,6 +36839,10 @@
     {
       "region": "Venezuela",
       "date": "2026-02-17"
+    },
+    {
+      "region": "Venezuela",
+      "date": "2026-03-18"
     },
     {
       "region": "Venezuela",
