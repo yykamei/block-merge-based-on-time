@@ -18240,15 +18240,15 @@
     },
     {
       "region": "Cambodia",
+      "date": "2026-05-01"
+    },
+    {
+      "region": "Cambodia",
       "date": "2026-05-05"
     },
     {
       "region": "Cambodia",
       "date": "2026-05-14"
-    },
-    {
-      "region": "Cambodia",
-      "date": "2026-05-22"
     },
     {
       "region": "Cambodia",
@@ -23200,6 +23200,10 @@
     },
     {
       "region": "Myanmar (Burma)",
+      "date": "2026-05-28"
+    },
+    {
+      "region": "Myanmar (Burma)",
       "date": "2026-07-19"
     },
     {
@@ -24404,7 +24408,7 @@
     },
     {
       "region": "Mauritius",
-      "date": "2026-09-16"
+      "date": "2026-09-15"
     },
     {
       "region": "Mauritius",
