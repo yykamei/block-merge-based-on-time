@@ -3568,15 +3568,15 @@
     },
     {
       "region": "Bahrain",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
+    },
+    {
+      "region": "Bahrain",
+      "date": "2026-06-25"
     },
     {
       "region": "Bahrain",
       "date": "2026-06-26"
-    },
-    {
-      "region": "Bahrain",
-      "date": "2026-06-27"
     },
     {
       "region": "Bahrain",
@@ -4318,7 +4318,7 @@
     },
     {
       "region": "Brunei",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Brunei",
@@ -9626,11 +9626,11 @@
     },
     {
       "region": "Algeria",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Algeria",
-      "date": "2026-06-26"
+      "date": "2026-06-25"
     },
     {
       "region": "Algeria",
@@ -10164,11 +10164,15 @@
     },
     {
       "region": "Egypt",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Egypt",
-      "date": "2026-06-26"
+      "date": "2026-06-18"
+    },
+    {
+      "region": "Egypt",
+      "date": "2026-06-25"
     },
     {
       "region": "Egypt",
@@ -15394,6 +15398,10 @@
     },
     {
       "region": "Indonesia",
+      "date": "2026-06-17"
+    },
+    {
+      "region": "Indonesia",
       "date": "2026-08-17"
     },
     {
@@ -16890,11 +16898,11 @@
     },
     {
       "region": "Israel",
-      "date": "2026-06-16"
+      "date": "2026-06-15"
     },
     {
       "region": "Israel",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Israel",
@@ -20852,7 +20860,7 @@
     },
     {
       "region": "Libya",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Libya",
@@ -24566,7 +24574,7 @@
     },
     {
       "region": "Maldives",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Maldives",
@@ -25556,7 +25564,7 @@
     },
     {
       "region": "Nigeria",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Nigeria",
@@ -26474,6 +26482,10 @@
     },
     {
       "region": "Oman",
+      "date": "2026-06-16"
+    },
+    {
+      "region": "Oman",
       "date": "2026-06-18"
     },
     {
@@ -27244,7 +27256,7 @@
     },
     {
       "region": "Philippines",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Philippines",
@@ -27514,11 +27526,11 @@
     },
     {
       "region": "Pakistan",
-      "date": "2026-06-24"
+      "date": "2026-06-25"
     },
     {
       "region": "Pakistan",
-      "date": "2026-06-25"
+      "date": "2026-06-26"
     },
     {
       "region": "Pakistan",
@@ -30096,7 +30108,7 @@
     },
     {
       "region": "Sudan",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Sudan",
@@ -31304,11 +31316,11 @@
     },
     {
       "region": "Somalia",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Somalia",
-      "date": "2026-06-26"
+      "date": "2026-06-25"
     },
     {
       "region": "Somalia",
@@ -32926,7 +32938,7 @@
     },
     {
       "region": "Syria",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Syria",
@@ -35696,7 +35708,7 @@
     },
     {
       "region": "United Kingdom",
-      "date": "2026-06-20"
+      "date": "2026-06-13"
     },
     {
       "region": "United Kingdom",
@@ -38410,7 +38422,7 @@
     },
     {
       "region": "Yemen",
-      "date": "2026-06-17"
+      "date": "2026-06-16"
     },
     {
       "region": "Yemen",
