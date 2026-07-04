@@ -3596,6 +3596,10 @@
     },
     {
       "region": "Bahrain",
+      "date": "2026-06-28"
+    },
+    {
+      "region": "Bahrain",
       "date": "2026-08-26"
     },
     {
@@ -9650,6 +9654,10 @@
     },
     {
       "region": "Algeria",
+      "date": "2026-07-02"
+    },
+    {
+      "region": "Algeria",
       "date": "2026-07-05"
     },
     {
@@ -9769,6 +9777,10 @@
     {
       "region": "Ecuador",
       "date": "2026-05-25"
+    },
+    {
+      "region": "Ecuador",
+      "date": "2026-06-26"
     },
     {
       "region": "Ecuador",
@@ -12534,6 +12546,10 @@
     },
     {
       "region": "Ghana",
+      "date": "2026-07-03"
+    },
+    {
+      "region": "Ghana",
       "date": "2026-09-21"
     },
     {
@@ -13012,7 +13028,7 @@
     },
     {
       "region": "Gambia",
-      "date": "2026-06-26"
+      "date": "2026-06-25"
     },
     {
       "region": "Gambia",
@@ -18280,6 +18296,18 @@
     },
     {
       "region": "Cambodia",
+      "date": "2026-10-10"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2026-10-11"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2026-10-12"
+    },
+    {
+      "region": "Cambodia",
       "date": "2026-10-15"
     },
     {
@@ -18289,6 +18317,18 @@
     {
       "region": "Cambodia",
       "date": "2026-11-09"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2026-11-23"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2026-11-24"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2026-11-25"
     },
     {
       "region": "Cambodia",
@@ -21034,6 +21074,10 @@
     },
     {
       "region": "Morocco",
+      "date": "2026-09-20"
+    },
+    {
+      "region": "Morocco",
       "date": "2026-10-31"
     },
     {
@@ -21058,10 +21102,6 @@
     },
     {
       "region": "Morocco",
-      "date": "2027-02-07"
-    },
-    {
-      "region": "Morocco",
       "date": "2027-02-08"
     },
     {
@@ -21071,10 +21111,6 @@
     {
       "region": "Morocco",
       "date": "2027-03-11"
-    },
-    {
-      "region": "Morocco",
-      "date": "2027-03-14"
     },
     {
       "region": "Morocco",
@@ -26834,6 +26870,10 @@
     },
     {
       "region": "Peru",
+      "date": "2026-07-27"
+    },
+    {
+      "region": "Peru",
       "date": "2026-07-28"
     },
     {
@@ -28482,6 +28522,10 @@
     },
     {
       "region": "Paraguay",
+      "date": "2026-06-30"
+    },
+    {
+      "region": "Paraguay",
       "date": "2026-08-15"
     },
     {
@@ -29983,6 +30027,10 @@
     {
       "region": "Seychelles",
       "date": "2026-06-29"
+    },
+    {
+      "region": "Seychelles",
+      "date": "2026-06-30"
     },
     {
       "region": "Seychelles",
