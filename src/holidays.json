@@ -273,6 +273,78 @@
     {
       "region": "United Arab Emirates",
       "date": "2026-12-31"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-01-01"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-01-06"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-02-08"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-03-10"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-03-11"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-03-12"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-05-08"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-05-16"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-05-17"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-05-17"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-05-18"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-06-06"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-08-15"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-11-30"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-12-02"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-12-03"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-12-26"
+    },
+    {
+      "region": "United Arab Emirates",
+      "date": "2027-12-31"
     }
   ],
   "Afghanistan": [
@@ -15750,6 +15822,10 @@
     },
     {
       "region": "Iran",
+      "date": "2026-07-06"
+    },
+    {
+      "region": "Iran",
       "date": "2026-08-04"
     },
     {
@@ -18178,6 +18254,10 @@
     },
     {
       "region": "Kyrgyzstan",
+      "date": "2027-01-27"
+    },
+    {
+      "region": "Kyrgyzstan",
       "date": "2027-02-08"
     },
     {
@@ -20529,6 +20609,130 @@
     {
       "region": "Sri Lanka",
       "date": "2026-12-25"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-01-15"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-01-22"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-02-04"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-02-08"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-02-14"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-02-20"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-03-06"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-03-10"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-03-22"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-03-26"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-03-28"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-04-13"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-04-14"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-04-20"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-05-01"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-05-09"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-05-17"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-05-19"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-06-06"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-06-18"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-06-20"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-07-18"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-08-15"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-08-16"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-09-15"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-10-15"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-10-28"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-11-13"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-12-13"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-12-24"
+    },
+    {
+      "region": "Sri Lanka",
+      "date": "2027-12-25"
     }
   ],
   "Liberia": [
@@ -31246,7 +31450,7 @@
     },
     {
       "region": "Senegal",
-      "date": "2026-06-26"
+      "date": "2026-06-25"
     },
     {
       "region": "Senegal",
@@ -31586,11 +31790,15 @@
     },
     {
       "region": "South Korea",
-      "date": "2027-02-06"
+      "date": "2027-02-07"
     },
     {
       "region": "South Korea",
       "date": "2027-02-08"
+    },
+    {
+      "region": "South Korea",
+      "date": "2027-02-09"
     },
     {
       "region": "South Korea",
@@ -31634,7 +31842,15 @@
     },
     {
       "region": "South Korea",
+      "date": "2027-07-19"
+    },
+    {
+      "region": "South Korea",
       "date": "2027-08-15"
+    },
+    {
+      "region": "South Korea",
+      "date": "2027-08-16"
     },
     {
       "region": "South Korea",
@@ -31658,6 +31874,10 @@
     },
     {
       "region": "South Korea",
+      "date": "2027-10-04"
+    },
+    {
+      "region": "South Korea",
       "date": "2027-10-09"
     },
     {
@@ -31671,6 +31891,10 @@
     {
       "region": "South Korea",
       "date": "2027-12-25"
+    },
+    {
+      "region": "South Korea",
+      "date": "2027-12-27"
     },
     {
       "region": "South Korea",
