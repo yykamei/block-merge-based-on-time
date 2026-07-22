@@ -4,12 +4,12 @@ import { shouldBlock } from "../src/should-block"
 
 describe("shouldBlock", () => {
   beforeEach(() => {
-    jest.useFakeTimers()
-    jest.spyOn(core, "debug").mockImplementation(jest.fn)
+    vi.useFakeTimers()
+    vi.spyOn(core, "debug").mockImplementation(() => {})
   })
 
   afterEach(() => {
-    jest.useRealTimers()
+    vi.useRealTimers()
   })
 
   test.each`
@@ -103,8 +103,8 @@ describe("shouldBlock", () => {
   `(
     "returns $expected with: now=$now, after=$after, before=$before, timezone=$timezone, prohibited=$prohibited",
     ({ now, after, before, timezone, prohibited, expected }) => {
-      jest.setSystemTime(new Date(now))
-      const inSpy = jest.spyOn(core, "getInput")
+      vi.setSystemTime(new Date(now))
+      const inSpy = vi.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
           ({ after, before, timezone, "prohibited-days-dates": prohibited, "base-branches": "/^.*$/" })[name] as any,

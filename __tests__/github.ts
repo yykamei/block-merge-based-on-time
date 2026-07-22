@@ -3,7 +3,7 @@ import { createCommitStatus, defaultBranch, pull, pulls } from "../src/github"
 
 describe("createCommitStatus", () => {
   beforeAll(() => {
-    jest.spyOn(core, "debug").mockImplementation(jest.fn)
+    vi.spyOn(core, "debug").mockImplementation(() => {})
   })
 
   test("creates a commit status to make it pending", async () => {
@@ -18,7 +18,7 @@ describe("createCommitStatus", () => {
     const octokit: any = {
       rest: {
         repos: {
-          createCommitStatus: jest.fn(),
+          createCommitStatus: vi.fn(),
         },
       },
     }
@@ -52,7 +52,7 @@ describe("createCommitStatus", () => {
     const octokit: any = {
       rest: {
         repos: {
-          createCommitStatus: jest.fn(),
+          createCommitStatus: vi.fn(),
         },
       },
     }
@@ -87,7 +87,7 @@ describe("createCommitStatus", () => {
     const octokit: any = {
       rest: {
         repos: {
-          createCommitStatus: jest.fn(),
+          createCommitStatus: vi.fn(),
         },
       },
     }
@@ -114,7 +114,7 @@ describe("createCommitStatus", () => {
     const octokit: any = {
       rest: {
         repos: {
-          createCommitStatus: jest.fn(),
+          createCommitStatus: vi.fn(),
         },
       },
     }
@@ -132,7 +132,7 @@ describe("createCommitStatus", () => {
 describe("defaultBranch", () => {
   test("fetches the default branch", async () => {
     const octokit: any = {
-      graphql: jest.fn(() => ({ repository: { defaultBranchRef: { name: "main" } } })),
+      graphql: vi.fn(() => ({ repository: { defaultBranchRef: { name: "main" } } })),
     }
     const result = await defaultBranch(octokit, "Foo", "bar")
     expect(result).toEqual("main")
@@ -143,7 +143,7 @@ describe("defaultBranch", () => {
 describe("pull", () => {
   test("fetches the pull request without commit statuses", async () => {
     const octokit: any = {
-      graphql: jest.fn(() => ({
+      graphql: vi.fn(() => ({
         repository: {
           defaultBranchRef: { name: "main" },
           pullRequest: {
@@ -182,7 +182,7 @@ describe("pull", () => {
 
   test("fetches the pull request with commit statuses", async () => {
     const octokit: any = {
-      graphql: jest.fn(() => ({
+      graphql: vi.fn(() => ({
         repository: {
           defaultBranchRef: { name: "main" },
           pullRequest: {
@@ -222,7 +222,7 @@ describe("pull", () => {
 
   test("fetches the pull request with commit statuses, but its context does not exist", async () => {
     const octokit: any = {
-      graphql: jest.fn(() => ({
+      graphql: vi.fn(() => ({
         repository: {
           defaultBranchRef: { name: "main" },
           pullRequest: {
@@ -261,7 +261,7 @@ describe("pull", () => {
 
   test("fetches a draft pull request and returns isDraft as true", async () => {
     const octokit: any = {
-      graphql: jest.fn(() => ({
+      graphql: vi.fn(() => ({
         repository: {
           defaultBranchRef: { name: "main" },
           pullRequest: {
@@ -296,7 +296,7 @@ describe("pull", () => {
 describe("pulls", () => {
   test("fetches the pull requests", async () => {
     const octokit: any = {
-      graphql: jest
+      graphql: vi
         .fn()
         .mockResolvedValueOnce({
           repository: {
@@ -387,10 +387,10 @@ describe("pulls", () => {
   })
 
   test("excludes draft pull requests from results and logs at debug level", async () => {
-    const debugSpy = jest.spyOn(core, "debug")
-    const infoSpy = jest.spyOn(core, "info").mockImplementation(jest.fn)
+    const debugSpy = vi.spyOn(core, "debug")
+    const infoSpy = vi.spyOn(core, "info").mockImplementation(() => {})
     const octokit: any = {
-      graphql: jest.fn().mockResolvedValueOnce({
+      graphql: vi.fn().mockResolvedValueOnce({
         repository: {
           defaultBranchRef: { name: "main" },
           pullRequests: {

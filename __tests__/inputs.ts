@@ -5,17 +5,17 @@ import { Inputs } from "../src/inputs"
 
 describe("Inputs", () => {
   beforeAll(() => {
-    jest.useFakeTimers()
-    jest.setSystemTime(new Date("2024-06-17T16:30:00-10:00"))
-    jest.spyOn(core, "debug").mockImplementation(jest.fn)
+    vi.useFakeTimers()
+    vi.setSystemTime(new Date("2024-06-17T16:30:00-10:00"))
+    vi.spyOn(core, "debug").mockImplementation(() => {})
   })
 
   afterAll(() => {
-    jest.useRealTimers()
+    vi.useRealTimers()
   })
 
   test("returns a valid instance", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -91,7 +91,7 @@ describe("Inputs", () => {
   })
 
   test("returns a valid instance when empty strings were explicitly passed", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -147,7 +147,7 @@ describe("Inputs", () => {
   })
 
   test("returns a valid instance with the ranged dates for prohibited-days-dates", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -242,7 +242,7 @@ describe("Inputs", () => {
   })
 
   test("returns a valid instance with the exception after/before", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -307,7 +307,7 @@ describe("Inputs", () => {
   })
 
   test("returns a valid instance with the regional holidays", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -411,7 +411,7 @@ describe("Inputs", () => {
   })
 
   test("returns a valid instance with base branches", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -514,19 +514,19 @@ describe("Inputs", () => {
   })
 
   test("returns an error with invalid zone", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation((name) => ({ token: "abc", timezone: "Unknown/Abc" })[name] as any)
     expect(() => new Inputs()).toThrow(new Error('the zone "Unknown/Abc" is not supported'))
   })
 
   test("returns an error with invalid after", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation((name) => ({ token: "abc", timezone: "UTC+3", after: "1220" })[name] as any)
     expect(() => new Inputs()).toThrow(new Error('Invalid "after" was given. The example format is "16:30 on Monday"'))
   })
 
   test("returns an error with invalid before", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -540,7 +540,7 @@ describe("Inputs", () => {
   })
 
   test("returns an error with invalid day", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -555,7 +555,7 @@ describe("Inputs", () => {
   })
 
   test("returns an error with invalid date", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -570,7 +570,7 @@ describe("Inputs", () => {
   })
 
   test("returns an error with invalid ranged dates", () => {
-    const inSpy = jest.spyOn(core, "getInput")
+    const inSpy = vi.spyOn(core, "getInput")
     inSpy.mockImplementation(
       (name) =>
         ({
@@ -585,30 +585,32 @@ describe("Inputs", () => {
   })
 
   describe("baseBranches()", () => {
-    const inSpy = jest.spyOn(core, "getInput")
-    inSpy.mockImplementation(
-      (name) =>
-        ({
-          token: "abc",
-          after: "17:30",
-          before: "09:00",
-          timezone: "Europe/Madrid",
-          "prohibited-days-dates": "H:Spain, BH:Spain",
-          "no-block-label": "",
-          "commit-status-context": "",
-          "commit-status-description-with-success": "",
-          "commit-status-description-while-blocking": "",
-          "commit-status-url": "",
-          "base-branches": "(default), special/one, /^feature\\/.*/",
-        })[name] as any,
-    )
-    const inputs = new Inputs()
-    expect(inputs.baseBranches("main")).toEqual([/^main$/, /^special\/one$/, /^feature\/.*/])
+    test("returns a valid instance with base branches", () => {
+      const inSpy = vi.spyOn(core, "getInput")
+      inSpy.mockImplementation(
+        (name) =>
+          ({
+            token: "abc",
+            after: "17:30",
+            before: "09:00",
+            timezone: "Europe/Madrid",
+            "prohibited-days-dates": "H:Spain, BH:Spain",
+            "no-block-label": "",
+            "commit-status-context": "",
+            "commit-status-description-with-success": "",
+            "commit-status-description-while-blocking": "",
+            "commit-status-url": "",
+            "base-branches": "(default), special/one, /^feature\\/.*/",
+          })[name] as any,
+      )
+      const inputs = new Inputs()
+      expect(inputs.baseBranches("main")).toEqual([/^main$/, /^special\/one$/, /^feature\/.*/])
+    })
   })
 
   describe("noBlockLabel()", () => {
     test("returns a valid instance with array of block labels", () => {
-      const inSpy = jest.spyOn(core, "getInput")
+      const inSpy = vi.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
           ({
@@ -636,7 +638,7 @@ describe("Inputs", () => {
     test("loads custom holidays from specified path", () => {
       const customHolidaysPath = path.join(fixturesDir, "custom-holidays.json")
 
-      const inSpy = jest.spyOn(core, "getInput")
+      const inSpy = vi.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
           ({
@@ -674,7 +676,7 @@ describe("Inputs", () => {
     test("throws error when custom holidays file does not exist", () => {
       const nonExistentPath = path.join(fixturesDir, "nonexistent.json")
 
-      const inSpy = jest.spyOn(core, "getInput")
+      const inSpy = vi.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
           ({
@@ -692,7 +694,7 @@ describe("Inputs", () => {
     test("throws error when custom holidays JSON format is invalid", () => {
       const invalidFormatPath = path.join(fixturesDir, "invalid-format.json")
 
-      const inSpy = jest.spyOn(core, "getInput")
+      const inSpy = vi.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
           ({
@@ -710,7 +712,7 @@ describe("Inputs", () => {
     test("throws error when specified region does not exist in custom holidays", () => {
       const missingRegionPath = path.join(fixturesDir, "missing-region.json")
 
-      const inSpy = jest.spyOn(core, "getInput")
+      const inSpy = vi.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
           ({
@@ -731,7 +733,7 @@ describe("Inputs", () => {
     test("loads custom holidays with BH (Before Holiday) prefix", () => {
       const customHolidaysPath = path.join(fixturesDir, "custom-holidays.json")
 
-      const inSpy = jest.spyOn(core, "getInput")
+      const inSpy = vi.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
           ({
@@ -769,7 +771,7 @@ describe("Inputs", () => {
     })
 
     test("works without custom-holidays-path (fallback to built-in holidays)", () => {
-      const inSpy = jest.spyOn(core, "getInput")
+      const inSpy = vi.spyOn(core, "getInput")
       inSpy.mockImplementation(
         (name) =>
           ({

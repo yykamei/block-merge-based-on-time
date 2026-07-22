@@ -26,15 +26,14 @@
     "noPropertyAccessFromIndexSignature": true,
 
     "moduleResolution": "node",
-    "types": ["node"],
+    "types": ["node", "vitest/globals"],
     "resolveJsonModule": true,
-    "rootDirs": ["src"],
+    "rootDirs": ["src", "__tests__"],
     "esModuleInterop": true,
 
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   },
-  "exclude": ["__tests__"],
   "ts-node": {
     "compilerOptions": {
       "module": "commonjs"

@@ -4,8 +4,10 @@ import * as api from "../src/github"
 import { Inputs } from "../src/inputs"
 import { run } from "../src/run"
 
-const mockOctokit = jest.fn()
-jest.mock("@actions/github", () => {
+const { mockOctokit } = vi.hoisted(() => ({
+  mockOctokit: vi.fn(),
+}))
+vi.mock("@actions/github", () => {
   const context = {
     eventName: "",
     payload: {} as Record<string, unknown>,
@@ -18,12 +20,12 @@ jest.mock("@actions/github", () => {
 
 describe("run", () => {
   beforeAll(() => {
-    jest.useFakeTimers()
-    jest.spyOn(core, "debug").mockImplementation(jest.fn)
+    vi.useFakeTimers()
+    vi.spyOn(core, "debug").mockImplementation(() => {})
   })
 
   afterAll(() => {
-    jest.useRealTimers()
+    vi.useRealTimers()
   })
 
   describe.each([["schedule"], ["workflow_dispatch"]])("when the event is %s", (event) => {
@@ -43,7 +45,7 @@ describe("run", () => {
 
     beforeEach(() => {
       Object.defineProperty(github.context, "eventName", { value: event })
-      jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "foo", repo: "special-repo" } as any)
+      vi.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "foo", repo: "special-repo" } as any)
     })
 
     test.each([
@@ -101,17 +103,17 @@ describe("run", () => {
       pulls,
       expectedStates,
     }) => {
-      jest.setSystemTime(new Date(now))
-      jest.spyOn(core, "getInput").mockImplementation(
+      vi.setSystemTime(new Date(now))
+      vi.spyOn(core, "getInput").mockImplementation(
         (name) =>
           ({
             ...inputs,
             "base-branches": inputBaseBranches,
           })[name] as any,
       )
-      const defaultBranch = jest.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
-      const pullsCall = jest.spyOn(api, "pulls").mockImplementation(async () => pulls)
-      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+      const defaultBranch = vi.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
+      const pullsCall = vi.spyOn(api, "pulls").mockImplementation(async () => pulls)
+      const createCommitStatus = vi.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
       await run()
       expect(defaultBranch).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo")
       expect(pullsCall).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo", "BB")
@@ -121,15 +123,15 @@ describe("run", () => {
     })
 
     test("throws an error when some pull requests failed to get updated while successfully updating others", async () => {
-      jest.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
-      jest.spyOn(core, "getInput").mockImplementation(
+      vi.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
+      vi.spyOn(core, "getInput").mockImplementation(
         (name) =>
           ({
             ...inputs,
           })[name] as any,
       )
-      const defaultBranch = jest.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
-      const pullsCall = jest
+      const defaultBranch = vi.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
+      const pullsCall = vi
         .spyOn(api, "pulls")
         .mockImplementation(async () => [
           { number: 3, baseBranch: "main", labels: [] } as any,
@@ -137,12 +139,12 @@ describe("run", () => {
           { number: 5, baseBranch: "main", labels: [] } as any,
           { number: 6, baseBranch: "main", labels: [] } as any,
         ])
-      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async (_, pull) => {
+      const createCommitStatus = vi.spyOn(api, "createCommitStatus").mockImplementation(async (_, pull) => {
         if (pull.number === 4 || pull.number === 6) {
           throw new Error("This SHA and context has reached the maximum number of statuses.")
         }
       })
-      const coreError = jest.spyOn(core, "error").mockImplementation(jest.fn)
+      const coreError = vi.spyOn(core, "error").mockImplementation(() => {})
       try {
         await run()
       } catch (e: any) {
@@ -208,7 +210,7 @@ You can resolve the problems with these actions: updating the pull requests with
   describe("when the event is pull_request", () => {
     beforeEach(() => {
       Object.defineProperty(github.context, "eventName", { value: "pull_request" })
-      jest.spyOn(core, "getInput").mockImplementation(
+      vi.spyOn(core, "getInput").mockImplementation(
         (name) =>
           ({
             token: "abc",
@@ -240,7 +242,7 @@ You can resolve the problems with these actions: updating the pull requests with
     `(
       "creates a commit status with $expectedState: $baseBranch, $labels",
       async ({ baseBranch, labels, expectedState, prBlocked }) => {
-        const setOutput = jest.spyOn(core, "setOutput").mockImplementation(jest.fn)
+        const setOutput = vi.spyOn(core, "setOutput").mockImplementation(() => {})
         const pullData = {
           owner: "FAORG",
           repo: "repo1",
@@ -249,14 +251,14 @@ You can resolve the problems with these actions: updating the pull requests with
           labels,
           sha: "commit1",
         }
-        jest.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
-        const pull = jest.spyOn(api, "pull").mockImplementation(async () => ({
+        vi.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
+        const pull = vi.spyOn(api, "pull").mockImplementation(async () => ({
           defaultBranch: "main",
           isDraft: false,
           pull: pullData,
         }))
-        const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
-        jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
+        const createCommitStatus = vi.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+        vi.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
         Object.defineProperty(github.context, "payload", { value: { pull_request: { number: 324 } } } as any)
         await run()
         expect(pull).toHaveBeenCalledWith(mockOctokit, "FAORG", "repo1", "my-blocker", 324)
@@ -266,8 +268,8 @@ You can resolve the problems with these actions: updating the pull requests with
     )
 
     test("skips draft pull requests detected via GraphQL without creating a commit status", async () => {
-      const setOutput = jest.spyOn(core, "setOutput").mockImplementation(jest.fn)
-      const infoSpy = jest.spyOn(core, "info").mockImplementation(jest.fn)
+      const setOutput = vi.spyOn(core, "setOutput").mockImplementation(() => {})
+      const infoSpy = vi.spyOn(core, "info").mockImplementation(() => {})
       const pullData = {
         owner: "FAORG",
         repo: "repo1",
@@ -276,14 +278,14 @@ You can resolve the problems with these actions: updating the pull requests with
         labels: [],
         sha: "draft-commit",
       }
-      jest.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
-      const pull = jest.spyOn(api, "pull").mockImplementation(async () => ({
+      vi.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
+      const pull = vi.spyOn(api, "pull").mockImplementation(async () => ({
         defaultBranch: "main",
         isDraft: true,
         pull: pullData,
       }))
-      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
-      jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
+      const createCommitStatus = vi.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+      vi.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
       Object.defineProperty(github.context, "payload", {
         value: { pull_request: { number: 500, draft: false } },
       } as any)
@@ -295,16 +297,16 @@ You can resolve the problems with these actions: updating the pull requests with
     })
 
     test("skips draft pull requests from webhook payload without calling GraphQL", async () => {
-      const setOutput = jest.spyOn(core, "setOutput").mockImplementation(jest.fn)
-      const infoSpy = jest.spyOn(core, "info").mockImplementation(jest.fn)
-      jest.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
-      const pull = jest.spyOn(api, "pull").mockImplementation(async () => ({
+      const setOutput = vi.spyOn(core, "setOutput").mockImplementation(() => {})
+      const infoSpy = vi.spyOn(core, "info").mockImplementation(() => {})
+      vi.setSystemTime(new Date("2021-07-26T21:48:00-10:00"))
+      const pull = vi.spyOn(api, "pull").mockImplementation(async () => ({
         defaultBranch: "main",
         isDraft: false,
         pull: {} as any,
       }))
-      const createCommitStatus = jest.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
-      jest.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
+      const createCommitStatus = vi.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+      vi.spyOn(github.context, "repo", "get").mockReturnValue({ owner: "FAORG", repo: "repo1" } as any)
       Object.defineProperty(github.context, "payload", {
         value: { pull_request: { number: 600, draft: true } },
       } as any)
@@ -322,7 +324,7 @@ You can resolve the problems with these actions: updating the pull requests with
     })
 
     test("does not throw an error", async () => {
-      const warning = jest.spyOn(core, "warning").mockImplementation(jest.fn)
+      const warning = vi.spyOn(core, "warning").mockImplementation(() => {})
       await run()
 
       expect(warning).toHaveBeenCalledWith(`This action does not support the event "${event}"`)
