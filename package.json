@@ -25,9 +25,9 @@
     "@types/luxon": "^3.7.2",
     "@types/node": "^26.1.1",
     "@vercel/ncc": "^0.44.1",
-    "@vitest/coverage-v8": "^2.1.9",
+    "@vitest/coverage-v8": "^4.1.10",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3",
-    "vitest": "^2.1.9"
+    "vitest": "^4.1.10"
   }
 }
