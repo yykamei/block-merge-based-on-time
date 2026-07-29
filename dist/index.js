@@ -44960,6 +44960,7 @@ async function handlePull(inputs) {
     if (number == null) {
         throw new Error(`handlePull can only be used for a pull request event`);
     }
+    // biome-ignore lint/complexity/useLiteralKeys: TypeScript requires bracket access for index signatures
     if (github_context.payload.pull_request?.["draft"] === true) {
         info(`Skipping draft pull request #${number} (from webhook payload)`);
         setOutput("pr-blocked", "false");
