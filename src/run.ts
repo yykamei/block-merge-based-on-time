@@ -67,6 +67,7 @@ async function handlePull(inputs: Inputs): Promise<void> {
     throw new Error(`handlePull can only be used for a pull request event`)
   }
 
+  // biome-ignore lint/complexity/useLiteralKeys: TypeScript requires bracket access for index signatures
   if (context.payload.pull_request?.["draft"] === true) {
     core.info(`Skipping draft pull request #${number} (from webhook payload)`)
     core.setOutput("pr-blocked", "false")
