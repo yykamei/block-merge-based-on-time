@@ -97,30 +97,28 @@ describe("run", () => {
         ],
         expectedStates: ["success", "success", "success", "success", "success", "success", "success"],
       },
-    ])("creates commit statuses: $inputBaseBranches, $pulls, $expectedStates", async ({
-      now,
-      inputBaseBranches,
-      pulls,
-      expectedStates,
-    }) => {
-      vi.setSystemTime(new Date(now))
-      vi.spyOn(core, "getInput").mockImplementation(
-        (name) =>
-          ({
-            ...inputs,
-            "base-branches": inputBaseBranches,
-          })[name] as any,
-      )
-      const defaultBranch = vi.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
-      const pullsCall = vi.spyOn(api, "pulls").mockImplementation(async () => pulls)
-      const createCommitStatus = vi.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
-      await run()
-      expect(defaultBranch).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo")
-      expect(pullsCall).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo", "BB")
-      pulls.forEach((pull, idx) => {
-        expect(createCommitStatus).toHaveBeenCalledWith(mockOctokit, pull, expect.any(Inputs), expectedStates[idx])
-      })
-    })
+    ])(
+      "creates commit statuses: $inputBaseBranches, $pulls, $expectedStates",
+      async ({ now, inputBaseBranches, pulls, expectedStates }) => {
+        vi.setSystemTime(new Date(now))
+        vi.spyOn(core, "getInput").mockImplementation(
+          (name) =>
+            ({
+              ...inputs,
+              "base-branches": inputBaseBranches,
+            })[name] as any,
+        )
+        const defaultBranch = vi.spyOn(api, "defaultBranch").mockImplementation(async () => "main")
+        const pullsCall = vi.spyOn(api, "pulls").mockImplementation(async () => pulls)
+        const createCommitStatus = vi.spyOn(api, "createCommitStatus").mockImplementation(async () => {})
+        await run()
+        expect(defaultBranch).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo")
+        expect(pullsCall).toHaveBeenCalledWith(mockOctokit, "foo", "special-repo", "BB")
+        pulls.forEach((pull, idx) => {
+          expect(createCommitStatus).toHaveBeenCalledWith(mockOctokit, pull, expect.any(Inputs), expectedStates[idx])
+        })
+      },
+    )
 
     test("throws an error when some pull requests failed to get updated while successfully updating others", async () => {
       vi.setSystemTime(new Date("2021-06-17T13:30:00-10:00"))
