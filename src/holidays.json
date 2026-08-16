@@ -406,6 +406,10 @@
     },
     {
       "region": "Afghanistan",
+      "date": "2026-08-15"
+    },
+    {
+      "region": "Afghanistan",
       "date": "2026-08-19"
     },
     {
@@ -2098,7 +2102,7 @@
     },
     {
       "region": "Australia",
-      "date": "2027-06-06"
+      "date": "2027-06-07"
     },
     {
       "region": "Australia",
@@ -3506,7 +3510,7 @@
     },
     {
       "region": "Burkina Faso",
-      "date": "2026-08-26"
+      "date": "2026-08-25"
     },
     {
       "region": "Burkina Faso",
@@ -9758,7 +9762,7 @@
     },
     {
       "region": "Algeria",
-      "date": "2026-08-26"
+      "date": "2026-08-25"
     },
     {
       "region": "Algeria",
@@ -19074,7 +19078,19 @@
     },
     {
       "region": "Kuwait",
+      "date": "2026-08-25"
+    },
+    {
+      "region": "Kuwait",
       "date": "2026-08-27"
+    },
+    {
+      "region": "Kuwait",
+      "date": "2026-08-28"
+    },
+    {
+      "region": "Kuwait",
+      "date": "2026-08-29"
     },
     {
       "region": "Kuwait",
@@ -24942,7 +24958,7 @@
     },
     {
       "region": "Maldives",
-      "date": "2026-08-26"
+      "date": "2026-08-25"
     },
     {
       "region": "Maldives",
@@ -25572,7 +25588,7 @@
     },
     {
       "region": "Niger",
-      "date": "2026-08-26"
+      "date": "2026-08-25"
     },
     {
       "region": "Niger",
@@ -25924,7 +25940,7 @@
     },
     {
       "region": "Nigeria",
-      "date": "2026-08-26"
+      "date": "2026-08-25"
     },
     {
       "region": "Nigeria",
@@ -29696,6 +29712,14 @@
     },
     {
       "region": "Russia",
+      "date": "2027-01-02"
+    },
+    {
+      "region": "Russia",
+      "date": "2027-01-03"
+    },
+    {
+      "region": "Russia",
       "date": "2027-01-04"
     },
     {
@@ -29713,6 +29737,10 @@
     {
       "region": "Russia",
       "date": "2027-01-08"
+    },
+    {
+      "region": "Russia",
+      "date": "2027-02-22"
     },
     {
       "region": "Russia",
@@ -29749,6 +29777,14 @@
     {
       "region": "Russia",
       "date": "2027-11-04"
+    },
+    {
+      "region": "Russia",
+      "date": "2027-11-05"
+    },
+    {
+      "region": "Russia",
+      "date": "2027-12-31"
     }
   ],
   "Rwanda": [
@@ -30480,7 +30516,7 @@
     },
     {
       "region": "Sudan",
-      "date": "2026-08-26"
+      "date": "2026-08-25"
     },
     {
       "region": "Sudan",
