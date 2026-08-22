@@ -24,7 +24,7 @@
     "@biomejs/biome": "2.5.7",
     "@types/luxon": "^3.7.4",
     "@types/node": "^26.2.0",
-    "@vercel/ncc": "^0.44.1",
+    "@vercel/ncc": "^0.45.0",
     "@vitest/coverage-v8": "^4.1.10",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3",
