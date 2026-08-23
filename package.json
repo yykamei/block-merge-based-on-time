@@ -21,7 +21,7 @@
     "luxon": "^3.7.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.7",
+    "@biomejs/biome": "2.5.9",
     "@types/luxon": "^3.7.4",
     "@types/node": "^26.2.0",
     "@vercel/ncc": "^0.45.0",
