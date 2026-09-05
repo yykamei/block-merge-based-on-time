@@ -23,7 +23,7 @@
   "devDependencies": {
     "@biomejs/biome": "2.5.10",
     "@types/luxon": "^3.7.5",
-    "@types/node": "^26.2.0",
+    "@types/node": "^26.4.0",
     "@vercel/ncc": "^0.45.0",
     "@vitest/coverage-v8": "^4.1.10",
     "ts-node": "^10.9.2",
