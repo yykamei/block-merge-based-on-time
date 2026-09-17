@@ -5880,6 +5880,10 @@
     },
     {
       "region": "Canada",
+      "date": "2026-02-20"
+    },
+    {
+      "region": "Canada",
       "date": "2026-03-08"
     },
     {
@@ -5936,7 +5940,15 @@
     },
     {
       "region": "Canada",
+      "date": "2026-06-22"
+    },
+    {
+      "region": "Canada",
       "date": "2026-07-01"
+    },
+    {
+      "region": "Canada",
+      "date": "2026-08-03"
     },
     {
       "region": "Canada",
@@ -5980,6 +5992,10 @@
     },
     {
       "region": "Canada",
+      "date": "2026-12-28"
+    },
+    {
+      "region": "Canada",
       "date": "2026-12-31"
     },
     {
@@ -6005,6 +6021,10 @@
     {
       "region": "Canada",
       "date": "2027-02-14"
+    },
+    {
+      "region": "Canada",
+      "date": "2027-02-26"
     },
     {
       "region": "Canada",
@@ -6068,6 +6088,10 @@
     },
     {
       "region": "Canada",
+      "date": "2027-08-02"
+    },
+    {
+      "region": "Canada",
       "date": "2027-09-06"
     },
     {
@@ -6105,6 +6129,14 @@
     {
       "region": "Canada",
       "date": "2027-12-26"
+    },
+    {
+      "region": "Canada",
+      "date": "2027-12-27"
+    },
+    {
+      "region": "Canada",
+      "date": "2027-12-28"
     },
     {
       "region": "Canada",
@@ -15715,6 +15747,82 @@
     {
       "region": "Indonesia",
       "date": "2026-12-31"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-01-01"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-01-06"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-02-06"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-02-09"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-03-11"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-03-12"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-03-26"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-03-28"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-05-01"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-05-06"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-05-18"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-06-01"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-06-07"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-08-15"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-08-17"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-12-24"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-12-25"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-12-26"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-12-31"
     }
   ],
   "Iraq": [
