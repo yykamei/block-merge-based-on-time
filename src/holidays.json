@@ -5952,6 +5952,10 @@
     },
     {
       "region": "Canada",
+      "date": "2026-08-03"
+    },
+    {
+      "region": "Canada",
       "date": "2026-09-07"
     },
     {
@@ -6085,6 +6089,10 @@
     {
       "region": "Canada",
       "date": "2027-07-01"
+    },
+    {
+      "region": "Canada",
+      "date": "2027-08-02"
     },
     {
       "region": "Canada",
@@ -23845,6 +23853,42 @@
     {
       "region": "Myanmar (Burma)",
       "date": "2026-12-25"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-01-01"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-01-04"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-02-12"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-03-02"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-03-27"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-05-01"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-05-17"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-07-19"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-12-25"
     }
   ],
   "Mongolia": [
