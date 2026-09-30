@@ -1654,6 +1654,10 @@
     },
     {
       "region": "Argentina",
+      "date": "2026-11-09"
+    },
+    {
+      "region": "Argentina",
       "date": "2026-11-23"
     },
     {
@@ -3182,7 +3186,7 @@
     },
     {
       "region": "Bangladesh",
-      "date": "2026-09-24"
+      "date": "2026-09-23"
     },
     {
       "region": "Bangladesh",
@@ -5952,6 +5956,18 @@
     },
     {
       "region": "Canada",
+      "date": "2026-08-03"
+    },
+    {
+      "region": "Canada",
+      "date": "2026-08-03"
+    },
+    {
+      "region": "Canada",
+      "date": "2026-08-03"
+    },
+    {
+      "region": "Canada",
       "date": "2026-09-07"
     },
     {
@@ -6085,6 +6101,18 @@
     {
       "region": "Canada",
       "date": "2027-07-01"
+    },
+    {
+      "region": "Canada",
+      "date": "2027-08-02"
+    },
+    {
+      "region": "Canada",
+      "date": "2027-08-02"
+    },
+    {
+      "region": "Canada",
+      "date": "2027-08-02"
     },
     {
       "region": "Canada",
@@ -9960,6 +9988,10 @@
     },
     {
       "region": "Ecuador",
+      "date": "2026-11-20"
+    },
+    {
+      "region": "Ecuador",
       "date": "2026-12-25"
     },
     {
@@ -10036,19 +10068,15 @@
     },
     {
       "region": "Ecuador",
+      "date": "2027-11-02"
+    },
+    {
+      "region": "Ecuador",
       "date": "2027-11-03"
     },
     {
       "region": "Ecuador",
-      "date": "2027-12-24"
-    },
-    {
-      "region": "Ecuador",
       "date": "2027-12-25"
-    },
-    {
-      "region": "Ecuador",
-      "date": "2027-12-31"
     },
     {
       "region": "Ecuador",
@@ -15754,7 +15782,11 @@
     },
     {
       "region": "Indonesia",
-      "date": "2027-01-06"
+      "date": "2027-01-05"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-02-05"
     },
     {
       "region": "Indonesia",
@@ -15766,11 +15798,31 @@
     },
     {
       "region": "Indonesia",
+      "date": "2027-03-08"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-03-09"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-03-10"
+    },
+    {
+      "region": "Indonesia",
       "date": "2027-03-11"
     },
     {
       "region": "Indonesia",
       "date": "2027-03-12"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-03-15"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-03-25"
     },
     {
       "region": "Indonesia",
@@ -15790,7 +15842,19 @@
     },
     {
       "region": "Indonesia",
+      "date": "2027-05-17"
+    },
+    {
+      "region": "Indonesia",
       "date": "2027-05-18"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-05-19"
+    },
+    {
+      "region": "Indonesia",
+      "date": "2027-05-20"
     },
     {
       "region": "Indonesia",
@@ -15798,7 +15862,7 @@
     },
     {
       "region": "Indonesia",
-      "date": "2027-06-07"
+      "date": "2027-06-06"
     },
     {
       "region": "Indonesia",
@@ -15815,10 +15879,6 @@
     {
       "region": "Indonesia",
       "date": "2027-12-25"
-    },
-    {
-      "region": "Indonesia",
-      "date": "2027-12-26"
     },
     {
       "region": "Indonesia",
@@ -18756,11 +18816,31 @@
     },
     {
       "region": "Cambodia",
+      "date": "2027-05-20"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2027-05-24"
+    },
+    {
+      "region": "Cambodia",
       "date": "2027-06-18"
     },
     {
       "region": "Cambodia",
       "date": "2027-09-24"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2027-09-29"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2027-09-30"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2027-10-01"
     },
     {
       "region": "Cambodia",
@@ -18773,6 +18853,18 @@
     {
       "region": "Cambodia",
       "date": "2027-11-09"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2027-11-12"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2027-11-13"
+    },
+    {
+      "region": "Cambodia",
+      "date": "2027-11-14"
     },
     {
       "region": "Cambodia",
@@ -23052,6 +23144,10 @@
     },
     {
       "region": "Madagascar",
+      "date": "2026-09-25"
+    },
+    {
+      "region": "Madagascar",
       "date": "2026-11-01"
     },
     {
@@ -23845,6 +23941,42 @@
     {
       "region": "Myanmar (Burma)",
       "date": "2026-12-25"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-01-01"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-01-04"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-02-12"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-03-02"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-03-27"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-05-01"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-05-17"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-07-19"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-12-25"
     }
   ],
   "Mongolia": [
@@ -35105,6 +35237,14 @@
     {
       "region": "Turkmenistan",
       "date": "2026-09-27"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2026-09-28"
+    },
+    {
+      "region": "Turkmenistan",
+      "date": "2026-09-29"
     },
     {
       "region": "Turkmenistan",
