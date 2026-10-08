@@ -3214,6 +3214,10 @@
     },
     {
       "region": "Bangladesh",
+      "date": "2026-10-22"
+    },
+    {
+      "region": "Bangladesh",
       "date": "2026-10-25"
     },
     {
@@ -14410,11 +14414,23 @@
     },
     {
       "region": "Honduras",
+      "date": "2026-09-14"
+    },
+    {
+      "region": "Honduras",
       "date": "2026-09-15"
     },
     {
       "region": "Honduras",
       "date": "2026-09-17"
+    },
+    {
+      "region": "Honduras",
+      "date": "2026-10-05"
+    },
+    {
+      "region": "Honduras",
+      "date": "2026-10-06"
     },
     {
       "region": "Honduras",
@@ -14427,6 +14443,10 @@
     {
       "region": "Honduras",
       "date": "2026-10-09"
+    },
+    {
+      "region": "Honduras",
+      "date": "2026-10-10"
     },
     {
       "region": "Honduras",
@@ -15984,6 +16004,18 @@
     },
     {
       "region": "Iraq",
+      "date": "2026-09-30"
+    },
+    {
+      "region": "Iraq",
+      "date": "2026-10-01"
+    },
+    {
+      "region": "Iraq",
+      "date": "2026-10-03"
+    },
+    {
+      "region": "Iraq",
       "date": "2026-12-25"
     },
     {
@@ -16057,6 +16089,10 @@
     {
       "region": "Iraq",
       "date": "2027-08-14"
+    },
+    {
+      "region": "Iraq",
+      "date": "2027-10-03"
     },
     {
       "region": "Iraq",
@@ -21844,10 +21880,6 @@
     },
     {
       "region": "Malaysia",
-      "date": "2026-02-19"
-    },
-    {
-      "region": "Malaysia",
       "date": "2026-03-07"
     },
     {
@@ -21944,6 +21976,10 @@
     },
     {
       "region": "Malaysia",
+      "date": "2027-01-22"
+    },
+    {
+      "region": "Malaysia",
       "date": "2027-02-01"
     },
     {
@@ -21957,10 +21993,6 @@
     {
       "region": "Malaysia",
       "date": "2027-02-07"
-    },
-    {
-      "region": "Malaysia",
-      "date": "2027-02-08"
     },
     {
       "region": "Malaysia",
@@ -22004,6 +22036,10 @@
     },
     {
       "region": "Malaysia",
+      "date": "2027-05-20"
+    },
+    {
+      "region": "Malaysia",
       "date": "2027-05-30"
     },
     {
@@ -22033,6 +22069,10 @@
     {
       "region": "Malaysia",
       "date": "2027-09-16"
+    },
+    {
+      "region": "Malaysia",
+      "date": "2027-10-28"
     },
     {
       "region": "Malaysia",
@@ -23952,6 +23992,10 @@
     },
     {
       "region": "Myanmar (Burma)",
+      "date": "2027-01-08"
+    },
+    {
+      "region": "Myanmar (Burma)",
       "date": "2027-02-12"
     },
     {
@@ -23960,7 +24004,47 @@
     },
     {
       "region": "Myanmar (Burma)",
+      "date": "2027-03-22"
+    },
+    {
+      "region": "Myanmar (Burma)",
       "date": "2027-03-27"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-10"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-11"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-12"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-13"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-14"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-15"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-16"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-17"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-04-18"
     },
     {
       "region": "Myanmar (Burma)",
@@ -23969,6 +24053,10 @@
     {
       "region": "Myanmar (Burma)",
       "date": "2027-05-17"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-05-20"
     },
     {
       "region": "Myanmar (Burma)",
@@ -25188,11 +25276,23 @@
     },
     {
       "region": "Mauritius",
+      "date": "2027-01-22"
+    },
+    {
+      "region": "Mauritius",
       "date": "2027-02-01"
     },
     {
       "region": "Mauritius",
+      "date": "2027-02-06"
+    },
+    {
+      "region": "Mauritius",
       "date": "2027-02-08"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2027-03-06"
     },
     {
       "region": "Mauritius",
@@ -25201,6 +25301,10 @@
     {
       "region": "Mauritius",
       "date": "2027-03-12"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2027-04-07"
     },
     {
       "region": "Mauritius",
@@ -25213,6 +25317,18 @@
     {
       "region": "Mauritius",
       "date": "2027-06-20"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2027-09-05"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2027-09-06"
+    },
+    {
+      "region": "Mauritius",
+      "date": "2027-10-29"
     },
     {
       "region": "Mauritius",
@@ -27964,6 +28080,10 @@
     },
     {
       "region": "Philippines",
+      "date": "2026-01-23"
+    },
+    {
+      "region": "Philippines",
       "date": "2026-02-17"
     },
     {
@@ -28024,6 +28144,10 @@
     },
     {
       "region": "Philippines",
+      "date": "2026-07-27"
+    },
+    {
+      "region": "Philippines",
       "date": "2026-08-21"
     },
     {
@@ -28036,11 +28160,23 @@
     },
     {
       "region": "Philippines",
+      "date": "2026-09-03"
+    },
+    {
+      "region": "Philippines",
+      "date": "2026-09-08"
+    },
+    {
+      "region": "Philippines",
       "date": "2026-11-01"
     },
     {
       "region": "Philippines",
       "date": "2026-11-02"
+    },
+    {
+      "region": "Philippines",
+      "date": "2026-11-07"
     },
     {
       "region": "Philippines",
@@ -28073,6 +28209,10 @@
     {
       "region": "Philippines",
       "date": "2027-01-06"
+    },
+    {
+      "region": "Philippines",
+      "date": "2027-01-23"
     },
     {
       "region": "Philippines",
@@ -28132,6 +28272,10 @@
     },
     {
       "region": "Philippines",
+      "date": "2027-07-27"
+    },
+    {
+      "region": "Philippines",
       "date": "2027-08-15"
     },
     {
@@ -28144,11 +28288,23 @@
     },
     {
       "region": "Philippines",
+      "date": "2027-09-03"
+    },
+    {
+      "region": "Philippines",
+      "date": "2027-09-08"
+    },
+    {
+      "region": "Philippines",
       "date": "2027-11-01"
     },
     {
       "region": "Philippines",
       "date": "2027-11-02"
+    },
+    {
+      "region": "Philippines",
+      "date": "2027-11-07"
     },
     {
       "region": "Philippines",
@@ -33374,6 +33530,10 @@
     },
     {
       "region": "Sweden",
+      "date": "2026-04-02"
+    },
+    {
+      "region": "Sweden",
       "date": "2026-04-03"
     },
     {
@@ -33487,6 +33647,10 @@
     {
       "region": "Sweden",
       "date": "2027-02-14"
+    },
+    {
+      "region": "Sweden",
+      "date": "2027-03-25"
     },
     {
       "region": "Sweden",
