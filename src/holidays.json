@@ -3198,6 +3198,10 @@
     },
     {
       "region": "Bangladesh",
+      "date": "2026-10-17"
+    },
+    {
+      "region": "Bangladesh",
       "date": "2026-10-18"
     },
     {
@@ -4617,6 +4621,10 @@
     {
       "region": "Bolivia",
       "date": "2026-10-11"
+    },
+    {
+      "region": "Bolivia",
+      "date": "2026-10-12"
     },
     {
       "region": "Bolivia",
@@ -8120,10 +8128,6 @@
     },
     {
       "region": "Croatia",
-      "date": "2026-01-15"
-    },
-    {
-      "region": "Croatia",
       "date": "2026-02-19"
     },
     {
@@ -8164,11 +8168,19 @@
     },
     {
       "region": "Croatia",
+      "date": "2026-05-03"
+    },
+    {
+      "region": "Croatia",
       "date": "2026-05-09"
     },
     {
       "region": "Croatia",
       "date": "2026-05-10"
+    },
+    {
+      "region": "Croatia",
+      "date": "2026-05-16"
     },
     {
       "region": "Croatia",
@@ -8260,10 +8272,6 @@
     },
     {
       "region": "Croatia",
-      "date": "2027-01-15"
-    },
-    {
-      "region": "Croatia",
       "date": "2027-02-08"
     },
     {
@@ -8304,11 +8312,19 @@
     },
     {
       "region": "Croatia",
+      "date": "2027-05-03"
+    },
+    {
+      "region": "Croatia",
       "date": "2027-05-09"
     },
     {
       "region": "Croatia",
       "date": "2027-05-09"
+    },
+    {
+      "region": "Croatia",
+      "date": "2027-05-15"
     },
     {
       "region": "Croatia",
@@ -11212,10 +11228,6 @@
     },
     {
       "region": "Micronesia",
-      "date": "2026-11-26"
-    },
-    {
-      "region": "Micronesia",
       "date": "2026-12-25"
     },
     {
@@ -11249,10 +11261,6 @@
     {
       "region": "Micronesia",
       "date": "2027-11-23"
-    },
-    {
-      "region": "Micronesia",
-      "date": "2027-11-25"
     },
     {
       "region": "Micronesia",
@@ -21283,6 +21291,10 @@
     {
       "region": "Liberia",
       "date": "2027-05-14"
+    },
+    {
+      "region": "Liberia",
+      "date": "2027-07-26"
     },
     {
       "region": "Liberia",
@@ -32832,6 +32844,10 @@
     },
     {
       "region": "Spain",
+      "date": "2027-08-05"
+    },
+    {
+      "region": "Spain",
       "date": "2027-08-15"
     },
     {
@@ -39758,14 +39774,6 @@
     },
     {
       "region": "Zambia",
-      "date": "2026-10-18"
-    },
-    {
-      "region": "Zambia",
-      "date": "2026-10-19"
-    },
-    {
-      "region": "Zambia",
       "date": "2026-10-24"
     },
     {
@@ -39835,10 +39843,6 @@
     {
       "region": "Zambia",
       "date": "2027-08-02"
-    },
-    {
-      "region": "Zambia",
-      "date": "2027-10-18"
     },
     {
       "region": "Zambia",
