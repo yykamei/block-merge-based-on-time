@@ -936,7 +936,7 @@
     },
     {
       "region": "Albania",
-      "date": "2027-03-10"
+      "date": "2027-03-09"
     },
     {
       "region": "Albania",
@@ -1000,11 +1000,11 @@
     },
     {
       "region": "Albania",
-      "date": "2027-05-03"
+      "date": "2027-05-04"
     },
     {
       "region": "Albania",
-      "date": "2027-05-17"
+      "date": "2027-05-16"
     },
     {
       "region": "Albania",
@@ -29788,10 +29788,6 @@
     },
     {
       "region": "Romania",
-      "date": "2026-10-31"
-    },
-    {
-      "region": "Romania",
       "date": "2026-11-30"
     },
     {
@@ -29913,10 +29909,6 @@
     {
       "region": "Romania",
       "date": "2027-08-15"
-    },
-    {
-      "region": "Romania",
-      "date": "2027-10-31"
     },
     {
       "region": "Romania",
@@ -30130,7 +30122,7 @@
     },
     {
       "region": "Serbia",
-      "date": "2027-03-10"
+      "date": "2027-03-09"
     },
     {
       "region": "Serbia",
@@ -30178,11 +30170,15 @@
     },
     {
       "region": "Serbia",
+      "date": "2027-05-04"
+    },
+    {
+      "region": "Serbia",
       "date": "2027-05-09"
     },
     {
       "region": "Serbia",
-      "date": "2027-05-17"
+      "date": "2027-05-16"
     },
     {
       "region": "Serbia",
