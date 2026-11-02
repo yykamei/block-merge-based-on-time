@@ -3752,6 +3752,10 @@
     },
     {
       "region": "Bahrain",
+      "date": "2027-06-01"
+    },
+    {
+      "region": "Bahrain",
       "date": "2027-06-06"
     },
     {
@@ -8458,10 +8462,6 @@
     },
     {
       "region": "Cuba",
-      "date": "2026-11-01"
-    },
-    {
-      "region": "Cuba",
       "date": "2026-12-25"
     },
     {
@@ -8483,10 +8483,6 @@
     {
       "region": "Cuba",
       "date": "2027-01-28"
-    },
-    {
-      "region": "Cuba",
-      "date": "2027-03-14"
     },
     {
       "region": "Cuba",
@@ -24040,7 +24036,15 @@
     },
     {
       "region": "Myanmar (Burma)",
+      "date": "2027-02-07"
+    },
+    {
+      "region": "Myanmar (Burma)",
       "date": "2027-02-12"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-03-01"
     },
     {
       "region": "Myanmar (Burma)",
@@ -24104,11 +24108,51 @@
     },
     {
       "region": "Myanmar (Burma)",
+      "date": "2027-05-21"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-07-18"
+    },
+    {
+      "region": "Myanmar (Burma)",
       "date": "2027-07-19"
     },
     {
       "region": "Myanmar (Burma)",
+      "date": "2027-10-14"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-10-15"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-10-16"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-11-13"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-11-22"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-11-23"
+    },
+    {
+      "region": "Myanmar (Burma)",
       "date": "2027-12-25"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-12-27"
+    },
+    {
+      "region": "Myanmar (Burma)",
+      "date": "2027-12-28"
     }
   ],
   "Mongolia": [
@@ -38048,6 +38092,10 @@
     },
     {
       "region": "St. Vincent & Grenadines",
+      "date": "2027-03-15"
+    },
+    {
+      "region": "St. Vincent & Grenadines",
       "date": "2027-03-26"
     },
     {
@@ -38080,6 +38128,10 @@
     },
     {
       "region": "St. Vincent & Grenadines",
+      "date": "2027-08-02"
+    },
+    {
+      "region": "St. Vincent & Grenadines",
       "date": "2027-10-27"
     },
     {
@@ -38089,6 +38141,10 @@
     {
       "region": "St. Vincent & Grenadines",
       "date": "2027-12-26"
+    },
+    {
+      "region": "St. Vincent & Grenadines",
+      "date": "2027-12-27"
     }
   ],
   "Venezuela": [
