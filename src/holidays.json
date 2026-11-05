@@ -4814,7 +4814,7 @@
     },
     {
       "region": "Brazil",
-      "date": "2026-10-28"
+      "date": "2026-10-30"
     },
     {
       "region": "Brazil",
@@ -5834,6 +5834,10 @@
     },
     {
       "region": "Belize",
+      "date": "2027-05-03"
+    },
+    {
+      "region": "Belize",
       "date": "2027-08-01"
     },
     {
@@ -5870,7 +5874,7 @@
     },
     {
       "region": "Belize",
-      "date": "2027-12-28"
+      "date": "2027-12-27"
     }
   ],
   "Canada": [
@@ -9587,6 +9591,14 @@
     {
       "region": "Dominican Republic",
       "date": "2027-01-01"
+    },
+    {
+      "region": "Dominican Republic",
+      "date": "2027-01-04"
+    },
+    {
+      "region": "Dominican Republic",
+      "date": "2027-01-06"
     },
     {
       "region": "Dominican Republic",
@@ -21956,10 +21968,6 @@
     },
     {
       "region": "Malaysia",
-      "date": "2026-05-30"
-    },
-    {
-      "region": "Malaysia",
       "date": "2026-05-31"
     },
     {
@@ -22077,14 +22085,6 @@
     {
       "region": "Malaysia",
       "date": "2027-05-20"
-    },
-    {
-      "region": "Malaysia",
-      "date": "2027-05-30"
-    },
-    {
-      "region": "Malaysia",
-      "date": "2027-05-31"
     },
     {
       "region": "Malaysia",
