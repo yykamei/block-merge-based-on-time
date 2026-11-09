@@ -3,6 +3,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "5 11 * * *"
+concurrency:
+  group: fetch-holidays
+  cancel-in-progress: false
 jobs:
   fetch-holidays:
     runs-on: ubuntu-latest
@@ -24,14 +27,48 @@ jobs:
       - run: npm run fetch-holidays
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      # A fixed branch cannot be updated after `main` moves, so each run uses
+      # a dated branch and replaces any stale open holiday pull request.
+      - name: Prepare branch and close stale pull requests
+        id: prepare
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          GH_REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          branch="update-holidays/$(date -u +%F)"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No holiday changes; keeping any existing pull requests."
+            exit 0
+          fi
+
+          gh pr list --state open --limit 100 \
+            --json number,headRefName,isCrossRepository \
+            --jq '.[] | select(.isCrossRepository | not) | select(.headRefName == "update-holidays" or (.headRefName | test("^update-holidays/[0-9]{4}-[0-9]{2}-[0-9]{2}$"))) | "\(.number)\t\(.headRefName)"' |
+          while IFS=$'\t' read -r number head_ref; do
+            echo "Closing stale pull request #$number ($head_ref)"
+            gh pr close "$number"
+            if git ls-remote --exit-code --heads origin "refs/heads/$head_ref" > /dev/null; then
+              git push origin --delete "$head_ref"
+            fi
+          done
+
+          for stale in update-holidays "$branch"; do
+            if git ls-remote --exit-code --heads origin "refs/heads/$stale" > /dev/null; then
+              echo "Deleting leftover branch $stale"
+              git push origin --delete "$stale"
+            fi
+          done
       - uses: yykamei/actions-git-push@c9bcec4304fde1cf89d4abdf23280713e66c034d # main
         with:
           commit-message: Update Holidays
-          branch: update-holidays
+          branch: ${{ steps.prepare.outputs.branch }}
       - uses: yykamei/actions-gh-pr-create@4a22702016fa51a895a4a483a8a95bb392880240 # main
         with:
           token: ${{ steps.app-token.outputs.token }}
-          branch: update-holidays
+          branch: ${{ steps.prepare.outputs.branch }}
           title: Update Holidays
           label: enhancement
           body: |
