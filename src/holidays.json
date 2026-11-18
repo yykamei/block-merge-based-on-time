@@ -458,19 +458,11 @@
     },
     {
       "region": "Afghanistan",
-      "date": "2027-05-16"
-    },
-    {
-      "region": "Afghanistan",
       "date": "2027-05-17"
     },
     {
       "region": "Afghanistan",
       "date": "2027-05-18"
-    },
-    {
-      "region": "Afghanistan",
-      "date": "2027-05-19"
     },
     {
       "region": "Afghanistan",
@@ -7002,6 +6994,10 @@
     },
     {
       "region": "China",
+      "date": "2026-06-01"
+    },
+    {
+      "region": "China",
       "date": "2026-06-19"
     },
     {
@@ -7011,6 +7007,10 @@
     {
       "region": "China",
       "date": "2026-06-21"
+    },
+    {
+      "region": "China",
+      "date": "2026-08-01"
     },
     {
       "region": "China",
@@ -7106,6 +7106,14 @@
     },
     {
       "region": "China",
+      "date": "2027-02-12"
+    },
+    {
+      "region": "China",
+      "date": "2027-02-13"
+    },
+    {
+      "region": "China",
       "date": "2027-02-20"
     },
     {
@@ -7130,11 +7138,35 @@
     },
     {
       "region": "China",
+      "date": "2027-05-02"
+    },
+    {
+      "region": "China",
+      "date": "2027-05-03"
+    },
+    {
+      "region": "China",
       "date": "2027-05-04"
     },
     {
       "region": "China",
+      "date": "2027-05-04"
+    },
+    {
+      "region": "China",
+      "date": "2027-05-05"
+    },
+    {
+      "region": "China",
+      "date": "2027-06-01"
+    },
+    {
+      "region": "China",
       "date": "2027-06-09"
+    },
+    {
+      "region": "China",
+      "date": "2027-08-01"
     },
     {
       "region": "China",
@@ -7175,6 +7207,10 @@
     {
       "region": "China",
       "date": "2027-10-06"
+    },
+    {
+      "region": "China",
+      "date": "2027-10-07"
     },
     {
       "region": "China",
@@ -27302,6 +27338,10 @@
     },
     {
       "region": "Nepal",
+      "date": "2026-11-16"
+    },
+    {
+      "region": "Nepal",
       "date": "2026-11-24"
     },
     {
@@ -35086,6 +35126,10 @@
     },
     {
       "region": "Thailand",
+      "date": "2026-12-16"
+    },
+    {
+      "region": "Thailand",
       "date": "2026-12-24"
     },
     {
@@ -36280,23 +36324,7 @@
     },
     {
       "region": "Turkey",
-      "date": "2026-03-21"
-    },
-    {
-      "region": "Turkey",
-      "date": "2026-03-22"
-    },
-    {
-      "region": "Turkey",
       "date": "2026-04-23"
-    },
-    {
-      "region": "Turkey",
-      "date": "2026-05-01"
-    },
-    {
-      "region": "Turkey",
-      "date": "2026-05-19"
     },
     {
       "region": "Turkey",
@@ -36308,19 +36336,7 @@
     },
     {
       "region": "Turkey",
-      "date": "2026-05-26"
-    },
-    {
-      "region": "Turkey",
       "date": "2026-05-27"
-    },
-    {
-      "region": "Turkey",
-      "date": "2026-05-28"
-    },
-    {
-      "region": "Turkey",
-      "date": "2026-05-29"
     },
     {
       "region": "Turkey",
@@ -36369,10 +36385,6 @@
     {
       "region": "Turkey",
       "date": "2027-03-11"
-    },
-    {
-      "region": "Turkey",
-      "date": "2027-03-12"
     },
     {
       "region": "Turkey",
