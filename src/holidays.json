@@ -4466,6 +4466,10 @@
     },
     {
       "region": "Brunei",
+      "date": "2027-01-02"
+    },
+    {
+      "region": "Brunei",
       "date": "2027-01-06"
     },
     {
@@ -5194,6 +5198,22 @@
     },
     {
       "region": "Bhutan",
+      "date": "2027-01-02"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-01-08"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-02-07"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-02-08"
+    },
+    {
+      "region": "Bhutan",
       "date": "2027-02-21"
     },
     {
@@ -5206,11 +5226,43 @@
     },
     {
       "region": "Bhutan",
+      "date": "2027-04-16"
+    },
+    {
+      "region": "Bhutan",
       "date": "2027-05-02"
     },
     {
       "region": "Bhutan",
+      "date": "2027-05-20"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-07-13"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-08-06"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-09-24"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-10-10"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-11-01"
+    },
+    {
+      "region": "Bhutan",
       "date": "2027-11-11"
+    },
+    {
+      "region": "Bhutan",
+      "date": "2027-11-20"
     },
     {
       "region": "Bhutan",
@@ -14340,6 +14392,10 @@
     },
     {
       "region": "Guyana",
+      "date": "2027-03-22"
+    },
+    {
+      "region": "Guyana",
       "date": "2027-03-26"
     },
     {
@@ -14381,6 +14437,10 @@
     {
       "region": "Guyana",
       "date": "2027-08-16"
+    },
+    {
+      "region": "Guyana",
+      "date": "2027-10-28"
     },
     {
       "region": "Guyana",
@@ -20321,6 +20381,10 @@
     {
       "region": "Lebanon",
       "date": "2026-11-22"
+    },
+    {
+      "region": "Lebanon",
+      "date": "2026-11-23"
     },
     {
       "region": "Lebanon",
@@ -33180,10 +33244,6 @@
     },
     {
       "region": "South Sudan",
-      "date": "2026-02-14"
-    },
-    {
-      "region": "South Sudan",
       "date": "2026-02-18"
     },
     {
@@ -33268,10 +33328,6 @@
     },
     {
       "region": "South Sudan",
-      "date": "2026-12-28"
-    },
-    {
-      "region": "South Sudan",
       "date": "2026-12-31"
     },
     {
@@ -33285,10 +33341,6 @@
     {
       "region": "South Sudan",
       "date": "2027-02-08"
-    },
-    {
-      "region": "South Sudan",
-      "date": "2027-02-14"
     },
     {
       "region": "South Sudan",
@@ -33317,10 +33369,6 @@
     {
       "region": "South Sudan",
       "date": "2027-05-01"
-    },
-    {
-      "region": "South Sudan",
-      "date": "2027-05-03"
     },
     {
       "region": "South Sudan",
@@ -33357,10 +33405,6 @@
     {
       "region": "South Sudan",
       "date": "2027-12-26"
-    },
-    {
-      "region": "South Sudan",
-      "date": "2027-12-28"
     },
     {
       "region": "South Sudan",
