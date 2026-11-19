@@ -276,6 +276,10 @@
     },
     {
       "region": "United Arab Emirates",
+      "date": "2026-12-04"
+    },
+    {
+      "region": "United Arab Emirates",
       "date": "2026-12-31"
     },
     {
@@ -11140,6 +11144,14 @@
     },
     {
       "region": "Fiji",
+      "date": "2027-05-14"
+    },
+    {
+      "region": "Fiji",
+      "date": "2027-05-28"
+    },
+    {
+      "region": "Fiji",
       "date": "2027-08-15"
     },
     {
@@ -11153,6 +11165,14 @@
     {
       "region": "Fiji",
       "date": "2027-10-10"
+    },
+    {
+      "region": "Fiji",
+      "date": "2027-10-11"
+    },
+    {
+      "region": "Fiji",
+      "date": "2027-10-29"
     },
     {
       "region": "Fiji",
@@ -32354,10 +32374,6 @@
   "Senegal": [
     {
       "region": "Senegal",
-      "date": "2026-01-01"
-    },
-    {
-      "region": "Senegal",
       "date": "2026-01-19"
     },
     {
@@ -32418,10 +32434,6 @@
     },
     {
       "region": "Senegal",
-      "date": "2026-11-01"
-    },
-    {
-      "region": "Senegal",
       "date": "2026-11-02"
     },
     {
@@ -32435,10 +32447,6 @@
     {
       "region": "Senegal",
       "date": "2027-02-08"
-    },
-    {
-      "region": "Senegal",
-      "date": "2027-03-10"
     },
     {
       "region": "Senegal",
@@ -32483,14 +32491,6 @@
     {
       "region": "Senegal",
       "date": "2027-08-15"
-    },
-    {
-      "region": "Senegal",
-      "date": "2027-08-15"
-    },
-    {
-      "region": "Senegal",
-      "date": "2027-11-01"
     },
     {
       "region": "Senegal",
@@ -38608,6 +38608,10 @@
     },
     {
       "region": "British Virgin Islands",
+      "date": "2027-03-08"
+    },
+    {
+      "region": "British Virgin Islands",
       "date": "2027-03-26"
     },
     {
@@ -38648,7 +38652,7 @@
     },
     {
       "region": "British Virgin Islands",
-      "date": "2027-11-08"
+      "date": "2027-11-22"
     },
     {
       "region": "British Virgin Islands",
