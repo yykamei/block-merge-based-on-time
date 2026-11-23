@@ -462,11 +462,19 @@
     },
     {
       "region": "Afghanistan",
+      "date": "2027-05-16"
+    },
+    {
+      "region": "Afghanistan",
       "date": "2027-05-17"
     },
     {
       "region": "Afghanistan",
       "date": "2027-05-18"
+    },
+    {
+      "region": "Afghanistan",
+      "date": "2027-05-19"
     },
     {
       "region": "Afghanistan",
@@ -32374,6 +32382,10 @@
   "Senegal": [
     {
       "region": "Senegal",
+      "date": "2026-01-01"
+    },
+    {
+      "region": "Senegal",
       "date": "2026-01-19"
     },
     {
@@ -32434,6 +32446,10 @@
     },
     {
       "region": "Senegal",
+      "date": "2026-11-01"
+    },
+    {
+      "region": "Senegal",
       "date": "2026-11-02"
     },
     {
@@ -32447,6 +32463,10 @@
     {
       "region": "Senegal",
       "date": "2027-02-08"
+    },
+    {
+      "region": "Senegal",
+      "date": "2027-03-10"
     },
     {
       "region": "Senegal",
@@ -32491,6 +32511,14 @@
     {
       "region": "Senegal",
       "date": "2027-08-15"
+    },
+    {
+      "region": "Senegal",
+      "date": "2027-08-15"
+    },
+    {
+      "region": "Senegal",
+      "date": "2027-11-01"
     },
     {
       "region": "Senegal",
