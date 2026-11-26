@@ -3263,6 +3263,174 @@
     {
       "region": "Bangladesh",
       "date": "2026-12-31"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-01-01"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-01-06"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-01-10"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-02-08"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-02-10"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-02-14"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-02-21"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-02"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-10"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-11"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-12"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-13"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-25"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-26"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-26"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-27"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-28"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-03-29"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-04-13"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-04-14"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-05-01"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-05-09"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-05-17"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-05-18"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-05-19"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-05-20"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-06-06"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-06-15"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-06-20"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-07-01"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-07-30"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-08-05"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-08-15"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-09-13"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-10-31"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-11-07"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-12-16"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-12-24"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-12-25"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-12-26"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-12-26"
+    },
+    {
+      "region": "Bangladesh",
+      "date": "2027-12-31"
     }
   ],
   "Belgium": [
@@ -14188,6 +14356,10 @@
     },
     {
       "region": "Guam",
+      "date": "2026-01-02"
+    },
+    {
+      "region": "Guam",
       "date": "2026-01-19"
     },
     {
@@ -14229,6 +14401,10 @@
     {
       "region": "Guam",
       "date": "2026-11-26"
+    },
+    {
+      "region": "Guam",
+      "date": "2026-11-27"
     },
     {
       "region": "Guam",
